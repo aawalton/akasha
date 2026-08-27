@@ -6,8 +6,6 @@
   "exports": {
     "./inode-guard": "./src/inode-guard.ts",
     "./memory-guard": "./src/memory-guard.ts",
-    "./memory-monitor": "./src/memory-monitor.ts",
-    "./supervisor-cmdline": "./src/supervisor-cmdline.ts",
     "./worktree-paths": "./src/worktree-paths.ts",
     "./*": "./src/*.ts"
   },

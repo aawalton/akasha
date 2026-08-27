@@ -2,7 +2,13 @@
 import { describe, expect, it } from "bun:test"
 import { decided, hold } from "../lib/digest-harness.ts"
 import { assessRecoveryWindow } from "../lib/memory-reaper-global.ts"
-import { assessMemoryKill, assessTreeKills, selectTopmostSupervisors } from "../lib/memory-reaper-legs.ts"
+import {
+  assessMemoryKill,
+  assessTreeKills,
+  MAX_RSS_GB,
+  MAX_TREE_RSS_GB,
+  selectTopmostSupervisors,
+} from "../lib/memory-reaper-legs.ts"
 import type { PidSnapshot } from "../lib/memory-reaper-proc-scan.ts"
 
 const GB = 1024 * 1024
@@ -184,5 +190,17 @@ describe("selectTopmostSupervisors — what becomes a tree root, and so what one
 
   it("a shared parent taken FOR a supervisor swallows both seats — what the tmux server did", () => {
     expect(selectTopmostSupervisors([50, 200, 300], SHARED_PARENT)).toEqual([50])
+  })
+})
+
+const LARGEST_LEGITIMATE_PROCESS_GB = 3.3
+
+describe("how the two ceilings compose", () => {
+  it("the per-process ceiling is strictly below the per-tree ceiling, so the narrow leg is reachable", () => {
+    expect(MAX_RSS_GB).toBeLessThan(MAX_TREE_RSS_GB)
+  })
+
+  it("the per-process ceiling clears the largest legitimate process with at least 2x headroom", () => {
+    expect(MAX_RSS_GB).toBeGreaterThanOrEqual(LARGEST_LEGITIMATE_PROCESS_GB * 2)
   })
 })
