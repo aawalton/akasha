@@ -4,9 +4,7 @@ page-type-slug: persona-points-source
 title: "Ali points source"
 slug: ali-points-source
 domain-parent-slug: persona/ali
-kind: windowed
-aggregate: bytes
-path-prefix: packages/books/book-of-everything/
+kind: unavailable
 ---
 
 # Definition

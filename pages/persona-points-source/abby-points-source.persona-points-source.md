@@ -4,9 +4,7 @@ page-type-slug: persona-points-source
 title: "Abby points source"
 slug: abby-points-source
 domain-parent-slug: persona/abby
-kind: windowed
-aggregate: bytes
-path-prefix: packages/books/all-about-alan/
+kind: unavailable
 ---
 
 # Definition

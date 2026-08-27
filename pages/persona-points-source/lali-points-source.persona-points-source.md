@@ -4,9 +4,7 @@ page-type-slug: persona-points-source
 title: "Lali points source"
 slug: lali-points-source
 domain-parent-slug: persona/lali
-kind: windowed
-aggregate: bytes
-path-prefix: packages/books/my-math/
+kind: unavailable
 ---
 
 # Definition

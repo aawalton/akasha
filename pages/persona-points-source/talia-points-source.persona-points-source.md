@@ -4,9 +4,7 @@ page-type-slug: persona-points-source
 title: "Talia points source"
 slug: talia-points-source
 domain-parent-slug: persona/talia
-kind: windowed
-aggregate: bytes
-path-prefix: packages/books/my-faith/
+kind: unavailable
 ---
 
 # Definition
