@@ -8,16 +8,18 @@ domain-slug: domain/global
 
 # Claim
 
-`Removal First` sits on `code-check`, and nothing in it is specific to the code repository. `gate` and `code-check` are siblings under `check`, so the thirteen gates never inherit it.
+`Removal First` sits on `old-check`, and nothing in it is specific to that domain. `old-gate` and `old-check` are siblings under `instrument-kind`, so the gates never inherit it.
 
 # Evidence
 
-`domains/code-check.md:17` carries the principle `Removal First` — "No check is faster or more correct than one that is not there."
+The domains moved into akasha and both took an `old-` prefix; re-measured there on 2026-08-27, on `main`.
 
-`domains/gate.md:3` declares `domain-parents: check`. `domains/code-check.md:3` declares its parents as a list, also under `check`. So the two are siblings and neither inherits from the other.
+`pages/domain/old-check.domain.md:39` carries the principle `Removal First`, whose warrant is "No check is faster or more correct than one that is not there, and a repair is always available."
 
-Nothing in the principle's wording is code-repo-specific.
+`pages/page-type/old-gate.page-type.md:10` declares `domain-parent-slug: domain/instrument-kind`. `pages/domain/old-check.domain.md:6` declares the same parent. So the two are siblings and neither inherits from the other. Two gate pages stand under it, `pages/old-gate/relations-resolve.old-gate.md` and `pages/old-gate/typecheck.old-gate.md`.
 
-Raising it to `domains/check.md` would reach the gates in `tools/gates/`. It would also grow what every reader of a Principles section under `check` pays at boot, which is the judgment no instrument settles.
+Nothing in the principle's wording is specific to the check side of that pair.
+
+Raising it to `pages/domain/instrument-kind.domain.md` would reach the gates. It would also grow what every reader of a Principles section under `instrument-kind` pays at boot, which is the judgment no instrument settles.
 
 Raised by the `review-instructions` reading of `domains/check.md` on 2026-08-06, as one of three forks that reading returned rather than settled.
