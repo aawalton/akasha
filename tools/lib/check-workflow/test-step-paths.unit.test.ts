@@ -8,63 +8,63 @@ import {
 
 describe("findTestBearingRoots", () => {
   const workspaces = [
-    "packages/shared/pages/access",
-    "packages/shared/pages/core",
-    "packages/temper/codec",
-    "packages/infra/ci/orchestrator",
+    "shared/pages-access",
+    "shared/pages-core",
+    "temper/catalog-core",
+    "infra/ci-workflows",
   ]
 
   test("assigns a test file to the containing workspace", () => {
     const roots = findTestBearingRoots(
-      ["packages/shared/pages/access/src/foo.unit.test.ts"],
+      ["shared/pages-access/src/foo.unit.test.ts"],
       workspaces
     )
-    expect(roots).toEqual(["packages/shared/pages/access"])
+    expect(roots).toEqual(["shared/pages-access"])
   })
 
   test("dedupes multiple test files from the same workspace", () => {
     const roots = findTestBearingRoots(
       [
-        "packages/temper/codec/src/a.unit.test.ts",
-        "packages/temper/codec/src/b.unit.test.ts",
-        "packages/temper/codec/src/c.unit.test.ts",
+        "temper/catalog-core/src/a.unit.test.ts",
+        "temper/catalog-core/src/b.unit.test.ts",
+        "temper/catalog-core/src/c.unit.test.ts",
       ],
       workspaces
     )
-    expect(roots).toEqual(["packages/temper/codec"])
+    expect(roots).toEqual(["temper/catalog-core"])
   })
 
   test("handles multiple workspaces at once and returns sorted unique roots", () => {
     const roots = findTestBearingRoots(
       [
-        "packages/infra/ci/orchestrator/src/dispatcher/x.unit.test.ts",
-        "packages/temper/codec/src/a.unit.test.ts",
-        "packages/shared/pages/core/src/b.unit.test.ts",
+        "infra/ci-workflows/src/dispatcher/x.unit.test.ts",
+        "temper/catalog-core/src/a.unit.test.ts",
+        "shared/pages-core/src/b.unit.test.ts",
       ],
       workspaces
     )
     expect(roots).toEqual([
-      "packages/infra/ci/orchestrator",
-      "packages/shared/pages/core",
-      "packages/temper/codec",
+      "infra/ci-workflows",
+      "shared/pages-core",
+      "temper/catalog-core",
     ])
   })
 
   test("nested workspaces: longest matching prefix wins", () => {
-    const nested = ["packages/shared", "packages/shared/pages/access"]
+    const nested = ["shared", "shared/pages-access"]
     const roots = findTestBearingRoots(
-      ["packages/shared/pages/access/src/foo.unit.test.ts"],
+      ["shared/pages-access/src/foo.unit.test.ts"],
       nested
     )
-    expect(roots).toEqual(["packages/shared/pages/access"])
+    expect(roots).toEqual(["shared/pages-access"])
   })
 
   test("drops test files that fall outside every workspace root", () => {
     const roots = findTestBearingRoots(
-      ["packages/elsewhere/foo.unit.test.ts", "packages/temper/codec/src/a.unit.test.ts"],
+      ["elsewhere/foo.unit.test.ts", "temper/catalog-core/src/a.unit.test.ts"],
       workspaces
     )
-    expect(roots).toEqual(["packages/temper/codec"])
+    expect(roots).toEqual(["temper/catalog-core"])
   })
 })
 
@@ -72,40 +72,40 @@ describe("groupTestFilesByType", () => {
   test("buckets each file by its test-type suffix", () => {
     expect(
       groupTestFilesByType([
-        "packages/a/src/x.unit.test.ts",
-        "packages/a/src/y.property.test.ts",
-        "packages/a/src/z.component.test.tsx",
+        "shared/a/src/x.unit.test.ts",
+        "shared/a/src/y.property.test.ts",
+        "shared/a/src/z.component.test.tsx",
       ])
     ).toEqual({
-      unit: ["packages/a/src/x.unit.test.ts"],
-      property: ["packages/a/src/y.property.test.ts"],
-      component: ["packages/a/src/z.component.test.tsx"],
+      unit: ["shared/a/src/x.unit.test.ts"],
+      property: ["shared/a/src/y.property.test.ts"],
+      component: ["shared/a/src/z.component.test.tsx"],
     })
   })
 
   test("handles `.test.ts` and `.test.tsx` for every type", () => {
     const grouped = groupTestFilesByType([
-      "packages/a/x.unit.test.ts",
-      "packages/a/x.unit.test.tsx",
-      "packages/a/x.property.test.ts",
-      "packages/a/x.property.test.tsx",
-      "packages/a/x.component.test.ts",
-      "packages/a/x.component.test.tsx",
+      "shared/a/x.unit.test.ts",
+      "shared/a/x.unit.test.tsx",
+      "shared/a/x.property.test.ts",
+      "shared/a/x.property.test.tsx",
+      "shared/a/x.component.test.ts",
+      "shared/a/x.component.test.tsx",
     ])
-    expect(grouped.unit).toEqual(["packages/a/x.unit.test.ts", "packages/a/x.unit.test.tsx"])
+    expect(grouped.unit).toEqual(["shared/a/x.unit.test.ts", "shared/a/x.unit.test.tsx"])
     expect(grouped.property).toEqual([
-      "packages/a/x.property.test.ts",
-      "packages/a/x.property.test.tsx",
+      "shared/a/x.property.test.ts",
+      "shared/a/x.property.test.tsx",
     ])
     expect(grouped.component).toEqual([
-      "packages/a/x.component.test.ts",
-      "packages/a/x.component.test.tsx",
+      "shared/a/x.component.test.ts",
+      "shared/a/x.component.test.tsx",
     ])
   })
 
   test("returns empty arrays for absent types", () => {
-    expect(groupTestFilesByType(["packages/a/x.unit.test.ts"])).toEqual({
-      unit: ["packages/a/x.unit.test.ts"],
+    expect(groupTestFilesByType(["shared/a/x.unit.test.ts"])).toEqual({
+      unit: ["shared/a/x.unit.test.ts"],
       property: [],
       component: [],
     })
@@ -113,16 +113,16 @@ describe("groupTestFilesByType", () => {
 
   test("ignores non-CI suffixes (database, cli, smoke, browser, plain)", () => {
     const grouped = groupTestFilesByType([
-      "packages/a/x.unit.test.ts",
-      "packages/a/x.database.test.ts",
-      "packages/a/x.cli.test.ts",
-      "packages/a/x.smoke.test.ts",
-      "packages/a/x.browser.test.ts",
-      "packages/a/x.test.ts",
-      "packages/a/x.ts",
+      "shared/a/x.unit.test.ts",
+      "shared/a/x.database.test.ts",
+      "shared/a/x.cli.test.ts",
+      "shared/a/x.smoke.test.ts",
+      "shared/a/x.browser.test.ts",
+      "shared/a/x.test.ts",
+      "shared/a/x.ts",
     ])
     expect(grouped).toEqual({
-      unit: ["packages/a/x.unit.test.ts"],
+      unit: ["shared/a/x.unit.test.ts"],
       property: [],
       component: [],
     })
@@ -130,37 +130,37 @@ describe("groupTestFilesByType", () => {
 
   test("returns sorted lists within each bucket", () => {
     const grouped = groupTestFilesByType([
-      "packages/z/x.unit.test.ts",
-      "packages/a/x.unit.test.ts",
-      "packages/m/x.unit.test.ts",
+      "shared/z/x.unit.test.ts",
+      "shared/a/x.unit.test.ts",
+      "shared/m/x.unit.test.ts",
     ])
     expect(grouped.unit).toEqual([
-      "packages/a/x.unit.test.ts",
-      "packages/m/x.unit.test.ts",
-      "packages/z/x.unit.test.ts",
+      "shared/a/x.unit.test.ts",
+      "shared/m/x.unit.test.ts",
+      "shared/z/x.unit.test.ts",
     ])
   })
 })
 
 describe("generateTestSteps", () => {
   const closure = new Map<string, Set<string>>([
-    ["packages/a", new Set(["packages/a"])],
-    ["packages/b", new Set(["packages/b"])],
-    ["packages/c", new Set(["packages/c"])],
+    ["shared/a", new Set(["shared/a"])],
+    ["shared/b", new Set(["shared/b"])],
+    ["shared/c", new Set(["shared/c"])],
   ])
   const rootToName = new Map<string, string>([
-    ["packages/a", "@scope/a"],
-    ["packages/b", "@scope/b"],
-    ["packages/c", "@scope/c"],
+    ["shared/a", "@scope/a"],
+    ["shared/b", "@scope/b"],
+    ["shared/c", "@scope/c"],
   ])
-  const workspaceRoots = ["packages/a", "packages/b", "packages/c"]
+  const workspaceRoots = ["shared/a", "shared/b", "shared/c"]
 
   test("emits one step per non-empty test-type bucket", () => {
     const steps = generateTestSteps({
       testsByType: {
-        unit: ["packages/a/x.unit.test.ts"],
+        unit: ["shared/a/x.unit.test.ts"],
         property: [],
-        component: ["packages/b/x.component.test.tsx"],
+        component: ["shared/b/x.component.test.tsx"],
       },
       workspaceRoots,
       closure,
@@ -183,9 +183,9 @@ describe("generateTestSteps", () => {
   test("step name is `<testType>-tests`", () => {
     const steps = generateTestSteps({
       testsByType: {
-        unit: ["packages/a/x.unit.test.ts"],
-        property: ["packages/a/x.property.test.ts"],
-        component: ["packages/a/x.component.test.tsx"],
+        unit: ["shared/a/x.unit.test.ts"],
+        property: ["shared/a/x.property.test.ts"],
+        component: ["shared/a/x.component.test.tsx"],
       },
       workspaceRoots,
       closure,
@@ -197,9 +197,9 @@ describe("generateTestSteps", () => {
   test("steps appear in canonical order: unit → property → component", () => {
     const steps = generateTestSteps({
       testsByType: {
-        component: ["packages/a/x.component.test.tsx"],
-        unit: ["packages/a/x.unit.test.ts"],
-        property: ["packages/a/x.property.test.ts"],
+        component: ["shared/a/x.component.test.tsx"],
+        unit: ["shared/a/x.unit.test.ts"],
+        property: ["shared/a/x.property.test.ts"],
       },
       workspaceRoots,
       closure,
@@ -212,10 +212,10 @@ describe("generateTestSteps", () => {
     const steps = generateTestSteps({
       testsByType: {
         unit: [
-          "packages/c/x.unit.test.ts",
-          "packages/a/x.unit.test.ts",
-          "packages/a/y.unit.test.ts",
-          "packages/b/x.unit.test.ts",
+          "shared/c/x.unit.test.ts",
+          "shared/a/x.unit.test.ts",
+          "shared/a/y.unit.test.ts",
+          "shared/b/x.unit.test.ts",
         ],
         property: [],
         component: [],
@@ -226,13 +226,13 @@ describe("generateTestSteps", () => {
     })
     const [unit] = steps
     if (unit === undefined) throw new Error("expected unit step")
-    expect(unit.testBearingRoots).toEqual(["packages/a", "packages/b", "packages/c"])
+    expect(unit.testBearingRoots).toEqual(["shared/a", "shared/b", "shared/c"])
   })
 
   test("dispatchNodes contain a package seed for every workspace in testBearingRoots", () => {
     const steps = generateTestSteps({
       testsByType: {
-        unit: ["packages/a/x.unit.test.ts", "packages/b/x.unit.test.ts"],
+        unit: ["shared/a/x.unit.test.ts", "shared/b/x.unit.test.ts"],
         property: [],
         component: [],
       },
@@ -248,20 +248,20 @@ describe("generateTestSteps", () => {
 
   test("dispatchNodes contain a package seed for every transitive workspace-dep closure entry", () => {
     const closureWithDeps = new Map<string, Set<string>>([
-      ["packages/a", new Set(["packages/a", "packages/dep1", "packages/dep2"])],
+      ["shared/a", new Set(["shared/a", "shared/dep1", "shared/dep2"])],
     ])
     const namesWithDeps = new Map<string, string>([
-      ["packages/a", "@scope/a"],
-      ["packages/dep1", "@scope/dep1"],
-      ["packages/dep2", "@scope/dep2"],
+      ["shared/a", "@scope/a"],
+      ["shared/dep1", "@scope/dep1"],
+      ["shared/dep2", "@scope/dep2"],
     ])
     const steps = generateTestSteps({
       testsByType: {
-        unit: ["packages/a/x.unit.test.ts"],
+        unit: ["shared/a/x.unit.test.ts"],
         property: [],
         component: [],
       },
-      workspaceRoots: ["packages/a", "packages/dep1", "packages/dep2"],
+      workspaceRoots: ["shared/a", "shared/dep1", "shared/dep2"],
       closure: closureWithDeps,
       rootToName: namesWithDeps,
     })
@@ -275,7 +275,7 @@ describe("generateTestSteps", () => {
   test("dispatchNodes contain every escape-hatch entry at the tail in canonical order", () => {
     const steps = generateTestSteps({
       testsByType: {
-        unit: ["packages/a/x.unit.test.ts"],
+        unit: ["shared/a/x.unit.test.ts"],
         property: [],
         component: [],
       },
@@ -291,22 +291,22 @@ describe("generateTestSteps", () => {
 
   test("package seeds are sorted and unique across the union", () => {
     const closureWithOverlap = new Map<string, Set<string>>([
-      ["packages/a", new Set(["packages/a", "packages/dep1"])],
-      ["packages/b", new Set(["packages/b", "packages/dep1", "packages/dep2"])],
+      ["shared/a", new Set(["shared/a", "shared/dep1"])],
+      ["shared/b", new Set(["shared/b", "shared/dep1", "shared/dep2"])],
     ])
     const namesWithOverlap = new Map<string, string>([
-      ["packages/a", "@scope/a"],
-      ["packages/b", "@scope/b"],
-      ["packages/dep1", "@scope/dep1"],
-      ["packages/dep2", "@scope/dep2"],
+      ["shared/a", "@scope/a"],
+      ["shared/b", "@scope/b"],
+      ["shared/dep1", "@scope/dep1"],
+      ["shared/dep2", "@scope/dep2"],
     ])
     const steps = generateTestSteps({
       testsByType: {
-        unit: ["packages/a/x.unit.test.ts", "packages/b/x.unit.test.ts"],
+        unit: ["shared/a/x.unit.test.ts", "shared/b/x.unit.test.ts"],
         property: [],
         component: [],
       },
-      workspaceRoots: ["packages/a", "packages/b", "packages/dep1", "packages/dep2"],
+      workspaceRoots: ["shared/a", "shared/b", "shared/dep1", "shared/dep2"],
       closure: closureWithOverlap,
       rootToName: namesWithOverlap,
     })
@@ -330,9 +330,9 @@ describe("generateTestSteps", () => {
   test("invariant: every emitted step's dispatchNodes is a superset of TEST_ESCAPE_HATCH_DISPATCH_NODES", () => {
     const steps = generateTestSteps({
       testsByType: {
-        unit: ["packages/a/x.unit.test.ts"],
-        property: ["packages/b/x.property.test.ts"],
-        component: ["packages/c/x.component.test.tsx"],
+        unit: ["shared/a/x.unit.test.ts"],
+        property: ["shared/b/x.property.test.ts"],
+        component: ["shared/c/x.component.test.tsx"],
       },
       workspaceRoots,
       closure,
@@ -348,20 +348,20 @@ describe("generateTestSteps", () => {
   test("test-bearing workspaces with no name in rootToName contribute neither testBearingRoots nor seeds", () => {
     const steps = generateTestSteps({
       testsByType: {
-        unit: ["packages/a/x.unit.test.ts", "packages/unnamed/x.unit.test.ts"],
+        unit: ["shared/a/x.unit.test.ts", "shared/unnamed/x.unit.test.ts"],
         property: [],
         component: [],
       },
-      workspaceRoots: ["packages/a", "packages/unnamed"],
+      workspaceRoots: ["shared/a", "shared/unnamed"],
       closure: new Map([
-        ["packages/a", new Set(["packages/a"])],
-        ["packages/unnamed", new Set(["packages/unnamed"])],
+        ["shared/a", new Set(["shared/a"])],
+        ["shared/unnamed", new Set(["shared/unnamed"])],
       ]),
-      rootToName: new Map([["packages/a", "@scope/a"]]),
+      rootToName: new Map([["shared/a", "@scope/a"]]),
     })
     const [unit] = steps
     if (unit === undefined) throw new Error("expected unit step")
-    expect(unit.testBearingRoots).toEqual(["packages/a"])
+    expect(unit.testBearingRoots).toEqual(["shared/a"])
     expect(unit.dispatchNodes).toContain("package:code:@scope/a")
     expect(unit.dispatchNodes.some((n) => n.includes("unnamed"))).toBe(false)
   })
