@@ -11,6 +11,7 @@ import {
   EXPIRES_KEY,
   pagesRoot,
   REFRESH_KEY,
+  RESCUED_EXPIRES_KEY,
   RESCUED_KEY,
 } from "./oauth-page-push.ts"
 import type { CredentialDoc, OAuthCredential } from "./oauth-types.ts"
@@ -82,12 +83,11 @@ export function heldBesidePage(held: Record<string, unknown> | null): HeldCreden
   const at = under as Record<string, unknown>
   const accessToken = at[ACCESS_KEY]
   const refreshToken = at[REFRESH_KEY]
-  const stated = at[EXPIRES_KEY]
+  const stated = at[RESCUED_EXPIRES_KEY]
   if (typeof accessToken !== "string" || accessToken === "") return null
   if (typeof refreshToken !== "string" || refreshToken === "") return null
-  if (typeof stated !== "string") return null
-  const expiresAt = Date.parse(stated)
-  return Number.isFinite(expiresAt) ? { accessToken, refreshToken, expiresAt } : null
+  if (typeof stated !== "number" || !Number.isFinite(stated)) return null
+  return { accessToken, refreshToken, expiresAt: stated }
 }
 
 export function readCredentialFromPage(root: string, account: string): PageCredential {

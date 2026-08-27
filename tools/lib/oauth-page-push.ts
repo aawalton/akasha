@@ -29,6 +29,8 @@ export const EXPIRES_KEY = "access-token-expires-at"
 
 export const RESCUED_KEY = "rescued-credential"
 
+export const RESCUED_EXPIRES_KEY = "expires-at-ms"
+
 export const PUSHED_KEYS: readonly string[] = [ACCESS_KEY, REFRESH_KEY]
 
 const DIGEST_CHARS = 12
@@ -116,7 +118,7 @@ function heldBeside(
     patchUncommittedUnder(at, RESCUED_KEY, {
       [ACCESS_KEY]: next.get(ACCESS_KEY) ?? "",
       [REFRESH_KEY]: next.get(REFRESH_KEY) ?? "",
-      [EXPIRES_KEY]: new Date(expiresAt).toISOString(),
+      [RESCUED_EXPIRES_KEY]: expiresAt,
     })
     chmodSync(uncommittedPathFor(at), 0o600)
     return "the rotated pair is held beside the page, which no gate judges, and the next read takes it"
