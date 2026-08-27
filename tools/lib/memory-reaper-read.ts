@@ -17,6 +17,17 @@ export function resolvePositiveEnvOverride(envName: string, fallback: number): n
   return parsed.success ? parsed.data : fallback
 }
 
+export function readPssKb(pid: number, fallbackKb: number): number {
+  let rollup: string
+  try {
+    rollup = readFileSync(`/proc/${pid}/smaps_rollup`, "utf8")
+  } catch {
+    return fallbackKb
+  }
+  const captured = FIRST_CAPTURE_SHAPE.parse(rollup.match(/^Pss:\s+(\d+)\s+kB/m))
+  return captured === null ? fallbackKb : Number.parseInt(captured, 10)
+}
+
 export function readSupervisorPids(snapshots: readonly PidSnapshot[]): readonly number[] {
   const pids: number[] = []
   for (const s of snapshots) {
@@ -62,12 +73,13 @@ export function readUserPidSnapshots(uid: number): readonly PidSnapshot[] {
     const ppid = Number.parseInt(ppidCaptured, 10)
     const rssCaptured = FIRST_CAPTURE_SHAPE.parse(status.match(/^VmRSS:\s+(\d+)\s+kB/m))
     const vmRssKb = rssCaptured === null ? 0 : Number.parseInt(rssCaptured, 10)
+    const pssKb = readPssKb(pid, vmRssKb)
     let name = "unknown"
     try {
       name = readFileSync(`/proc/${pid}/comm`, "utf8").trimEnd()
     } catch {
     }
-    snapshots.push({ pid, ppid, vmRssKb, name })
+    snapshots.push({ pid, ppid, vmRssKb, pssKb, name })
   }
   return snapshots
 }

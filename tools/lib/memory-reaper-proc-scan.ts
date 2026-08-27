@@ -5,6 +5,7 @@ export type PidSnapshot = {
   pid: number
   ppid: number
   vmRssKb: number
+  pssKb: number
   name: string
 }
 

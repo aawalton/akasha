@@ -22,7 +22,7 @@ export type PlannedProcKill = {
 
 export type SparedTree = {
   rootPid: number
-  treeRssKb: number
+  treePssKb: number
   reclaimedPids: readonly number[]
   reason: string
 }
@@ -87,10 +87,10 @@ export function planReaperKills(input: ReaperKillPlanInput): ReaperKillPlan {
     if (!t.decision.kill) {
       const reclaimedPids = [t.rootPid, ...t.descendantPids].filter((p) => reclaimedSet.has(p))
       if (reclaimedPids.length > 0) {
-        const residueGb = (t.treeRssKb / KB_PER_GB).toFixed(1)
+        const residueGb = (t.treePssKb / KB_PER_GB).toFixed(1)
         sparedTrees.push({
           rootPid: t.rootPid,
-          treeRssKb: t.treeRssKb,
+          treePssKb: t.treePssKb,
           reclaimedPids,
           reason: `sparing supervisor tree root=${t.rootPid}: residue ${residueGb} GB is under the ceiling once pid(s) ${reclaimedPids.join(",")} are reclaimed`,
         })

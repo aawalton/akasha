@@ -32,7 +32,7 @@ export function assessMemoryKill(input: MemoryKillInput): MemoryKillDecision {
   }
 }
 
-export const MAX_TREE_RSS_GB = 24
+export const MAX_TREE_PSS_GB = 32
 
 export type TreeKillInput = {
   snapshots: readonly PidSnapshot[]
@@ -43,7 +43,7 @@ export type TreeKillInput = {
 
 export type TreeKillResult = {
   rootPid: number
-  treeRssKb: number
+  treePssKb: number
   descendantPids: readonly number[]
   decision: MemoryKillDecision
 }
@@ -95,26 +95,26 @@ export function selectTopmostSupervisors(
 
 export function assessTreeKills(input: TreeKillInput): readonly TreeKillResult[] {
   const childrenByPpid = buildChildrenMap(input.snapshots)
-  const rssByPid = new Map(input.snapshots.map((s) => [s.pid, s.vmRssKb]))
+  const pssByPid = new Map(input.snapshots.map((s) => [s.pid, s.pssKb]))
   const rootPids = selectTopmostSupervisors(input.supervisorPids, input.snapshots)
   const reclaimedPids = new Set(input.perProcessKillPids)
   const results: TreeKillResult[] = []
   for (const rootPid of rootPids) {
     const { descendantPids, allPids } = collectSubtree(rootPid, childrenByPpid)
-    let treeRssKb = 0
+    let treePssKb = 0
     for (const pid of allPids) {
       if (reclaimedPids.has(pid)) continue
-      treeRssKb += rssByPid.get(pid) ?? 0
+      treePssKb += pssByPid.get(pid) ?? 0
     }
-    const treeGb = (treeRssKb / KB_PER_GB).toFixed(1)
+    const treeGb = (treePssKb / KB_PER_GB).toFixed(1)
     const thresholdGb = (input.perTreeThresholdKb / KB_PER_GB).toFixed(1)
-    const overThreshold = treeRssKb > input.perTreeThresholdKb
+    const overThreshold = treePssKb > input.perTreeThresholdKb
     const reason = overThreshold
-      ? `killing supervisor tree root=${rootPid} (descendants=${descendantPids.length}): tree VmRSS ${treeGb} GB exceeds ${thresholdGb} GB ceiling`
-      : `supervisor tree root=${rootPid} (descendants=${descendantPids.length}): tree VmRSS ${treeGb} GB`
+      ? `killing supervisor tree root=${rootPid} (descendants=${descendantPids.length}): tree PSS ${treeGb} GB exceeds ${thresholdGb} GB ceiling`
+      : `supervisor tree root=${rootPid} (descendants=${descendantPids.length}): tree PSS ${treeGb} GB`
     results.push({
       rootPid,
-      treeRssKb,
+      treePssKb,
       descendantPids,
       decision: { kill: overThreshold, reason },
     })

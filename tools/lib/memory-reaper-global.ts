@@ -17,7 +17,7 @@ export type GlobalKillInput = {
 }
 
 export type GlobalKillTarget =
-  | { kind: "tree"; rootPid: number; descendantPids: readonly number[]; treeRssKb: number }
+  | { kind: "tree"; rootPid: number; descendantPids: readonly number[]; treePssKb: number }
   | { kind: "pid"; pid: number; vmRssKb: number; name: string }
 
 export type GlobalKillDecision = {
@@ -49,18 +49,18 @@ export function assessGlobalKill(input: GlobalKillInput): GlobalKillDecision {
   })
   let largestTree: TreeKillResult | undefined
   for (const t of treeResults) {
-    if (largestTree === undefined || t.treeRssKb > largestTree.treeRssKb) largestTree = t
+    if (largestTree === undefined || t.treePssKb > largestTree.treePssKb) largestTree = t
   }
-  if (largestTree !== undefined && largestTree.treeRssKb > 0) {
-    const treeGb = (largestTree.treeRssKb / KB_PER_GB).toFixed(1)
+  if (largestTree !== undefined && largestTree.treePssKb > 0) {
+    const treeGb = (largestTree.treePssKb / KB_PER_GB).toFixed(1)
     return {
       kill: true,
-      reason: `${triggerReason} — killing largest supervisor tree root=${largestTree.rootPid} (tree VmRSS ${treeGb} GB)`,
+      reason: `${triggerReason} — killing largest supervisor tree root=${largestTree.rootPid} (tree PSS ${treeGb} GB)`,
       target: {
         kind: "tree",
         rootPid: largestTree.rootPid,
         descendantPids: largestTree.descendantPids,
-        treeRssKb: largestTree.treeRssKb,
+        treePssKb: largestTree.treePssKb,
       },
     }
   }
