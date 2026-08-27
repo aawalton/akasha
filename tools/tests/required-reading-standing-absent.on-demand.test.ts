@@ -125,13 +125,17 @@ describe("the refusal stays actionable", () => {
     expect(said(standing)).toContain("and 3 more, not listed")
   })
 
-  test("the lead names the deriving command with this very path in it", () => {
+  test("the lead names this very path, and the one route a reading is recorded through", () => {
     fileKeyDeclared(at)
     at.document("domains/persona.md", `${CLAIMED}: pages/persona/aria.persona.md`, 40)
     at.installRecorder()
-    expect(said(run("pages/persona/aria.persona.md"))).toContain(
-      "bun ~/repos/instructions/tools/required-reading.ts --file-path pages/persona/aria.persona.md"
-    )
+    // ROUTE NOT TEXT is what this holds to: the lead names the reading and the route that records
+    // it. It named `bun ~/repos/instructions/tools/required-reading.ts --file-path <path>`, a
+    // command at a path in a repository absorbed into akasha, and the `required-reading-unread`
+    // refusal has since dropped the deriving command and names `ops read` as the only route.
+    const lead = said(run("pages/persona/aria.persona.md"))
+    expect(lead).toContain("`pages/persona/aria.persona.md` requires 1 document(s)")
+    expect(lead).toContain("Only `ops read` lands a record there")
   })
 
   test("a document too long for one Read is refused no differently, the route not truncating", () => {
