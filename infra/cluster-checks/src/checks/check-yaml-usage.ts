@@ -9,7 +9,8 @@ import {
 } from "../../../../tools/lib/graph/producers/file/yaml-file/types.ts"
 import { readRepoFile } from "../../../../tools/lib/graph/repos.ts"
 import type { BuildContext, Graph } from "../../../../tools/lib/graph/types.ts"
-import { AKASHA, CODE, resolveRoots, rootFor } from "../../../../repo/roots/roots"
+import { AKASHA, resolveRoots, rootFor } from "../../../../repo/roots/roots"
+import { codeRoot } from "../../../../tools/lib/code-root.ts"
 import { parseArgs as parseCliArgs } from "../lib/cli-args.ts"
 import { errorMessage } from "../../../../tools/lib/check-workflow/error-message"
 import { FILESYSTEM_WALK_EXEMPT_DIRS, findFiles } from "../../../../tools/lib/check-workflow/file-finder"
@@ -138,7 +139,7 @@ async function main(): Promise<never> {
   const args = parseArgs()
   const { ctx, graph } = await readGraph(args.treeSha)
 
-  const codeRoot = rootFor(resolveRoots(), CODE)
+  const root = codeRoot()
   const yamlPaths = graph
     .nodes(YAML_FILE_NODE_TYPES)
     .map((node) => YamlFileAttrsSchema.parse(node.attrs).path)
@@ -153,7 +154,7 @@ async function main(): Promise<never> {
     members: yamlPaths,
     unit: "yaml files",
     labelOf: (path) => path,
-    siteOf: (path) => resolve(codeRoot, path),
+    siteOf: (path) => resolve(root, path),
     examine: (path) => (orphanPaths.has(path) ? [{ path }] : []),
     membership: {
       kind: "atLeast",

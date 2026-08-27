@@ -6,7 +6,7 @@ import { CODE_REPO } from "../../../../repo/scope/scope.ts"
 import { K8S_RESOURCE_NODE_TYPE } from "../../../../tools/lib/graph/producers/k8s/types.ts"
 import { K8sResourceAttrsSchema } from "../../../../tools/lib/graph/producers/k8s/types-schemas"
 import type { Graph } from "../../../../tools/lib/graph/types.ts"
-import { CODE, resolveRoots, rootFor } from "../../../../repo/roots/roots"
+import { codeRoot } from "../../../../tools/lib/code-root.ts"
 import { parseArgs as parseCliArgs } from "../lib/cli-args.ts"
 import { errorMessage } from "../../../../tools/lib/check-workflow/error-message"
 import { examinePopulation } from "../../../../tools/lib/check-workflow/population"
@@ -101,7 +101,7 @@ function probesIn(graph: Graph): readonly {
 
 async function main(): Promise<never> {
   const { treeSha } = parseArgs()
-  const codeRoot = rootFor(resolveRoots(), CODE)
+  const root = codeRoot()
 
   let graph: Graph
   try {
@@ -121,7 +121,7 @@ async function main(): Promise<never> {
       from: MEMBERSHIP_FROM,
     },
     labelOf: ({ nodeId, probe }) => `${nodeId}#${probe.listKey}/${probe.containerName ?? "?"}`,
-    siteOf: ({ path }) => resolve(codeRoot, path),
+    siteOf: ({ path }) => resolve(root, path),
     examine: ({ path, probe }) => {
       const { requestMemory, limitMemory, containerName, listKey } = probe
       const at = (line: number): Omit<Violation, "problem"> => ({
