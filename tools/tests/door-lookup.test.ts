@@ -1,6 +1,6 @@
 
 import { afterEach, beforeEach, describe, expect, test } from "bun:test"
-import { lastReadAt } from "../lib/read-log.ts"
+import { lastReadAt } from "../lib/read-record.ts"
 import { canonicalize } from "../../repo/path/path"
 import { type Fixture, fixture } from "./fixture.ts"
 

@@ -1,11 +1,11 @@
 
 import { helpKey, irreversibleCommands, matchCommand, parseOpsCalls } from "../lib/ops-command.ts"
-import { lastReadAt, recordingAgentId } from "../lib/read-log.ts"
+import { readOid, recordingAgentId } from "../lib/read-record.ts"
 import { fromDisk, refusalText } from "../lib/refusal.ts"
 import { resolveRoots } from "../../repo/roots/roots"
 
 function refusal(verb: string): string {
-  return refusalText("ops-help-unread", { command: verb }, resolveRoots().akasha, fromDisk)
+  return refusalText("ops-help-unread", { command: verb }, resolveRoots().instructions, fromDisk)
 }
 
 async function main(): Promise<void> {
@@ -33,7 +33,7 @@ async function main(): Promise<void> {
     if (verb === null) continue
     const held = declared.get(verb)
     if (held === undefined) continue
-    if (lastReadAt(agent, helpKey(held.source)) === held.help) continue
+    if (readOid(agent, helpKey(held.source)) === held.help) continue
     console.log(
       JSON.stringify({
         hookSpecificOutput: {

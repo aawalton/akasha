@@ -1,7 +1,7 @@
 import { afterEach, beforeEach, describe, expect, test } from "bun:test"
 import { closeSync, openSync, readFileSync } from "node:fs"
 import { ANSWER_CEILING } from "../../agent/read-answer.ts"
-import { readingsOf } from "../lib/read-log.ts"
+import { readingsOf } from "../lib/read-record.ts"
 import { canonicalize } from "../../repo/path/path"
 import { type Fixture, fixture, installGates, installRepos } from "./fixture.ts"
 import { plantSeat } from "./seat-fixture.ts"

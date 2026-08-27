@@ -1,7 +1,7 @@
 import { existsSync, readFileSync } from "node:fs"
 import { locate, rootsHere } from "../../../repo/roots/roots.ts"
 import { standingHere } from "../../../page/required-reading/warrant/warrant.ts"
-import { agentPageFor } from "../../../agent/read-log.ts"
+import { agentPageFor } from "../../../agent/read-record.ts"
 import type { Target } from "./target.ts"
 import {
   seatWarrantsWithDefaults,

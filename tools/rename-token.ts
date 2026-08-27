@@ -6,7 +6,7 @@ export const tool = {
 import { existsSync, readFileSync, realpathSync, statSync } from "node:fs"
 import { git } from "../repo/git/git.ts"
 import { rejectUnknownFlags, repoFlag } from "./lib/payload.ts"
-import { agentId } from "./lib/read-log.ts"
+import { agentId } from "./lib/read-record.ts"
 import { RENAME_TOKEN_HELP } from "./lib/rename-token-help.ts"
 import { type Roots } from "../page/page"
 import { resolveRoots, targetRoot } from "../repo/roots/roots"

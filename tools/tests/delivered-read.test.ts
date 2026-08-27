@@ -2,7 +2,7 @@
 import { afterEach, beforeEach, describe, expect, test } from "bun:test"
 import { statSync, writeFileSync } from "node:fs"
 import { standingOn } from "../lib/required-reading-standing.ts"
-import { readingsOf } from "../lib/read-log.ts"
+import { readingsOf } from "../lib/read-record.ts"
 import { canonicalize } from "../../repo/path/path"
 import { CLAIMED, type Fixture, fileKeyDeclared, fixture } from "./fixture.ts"
 

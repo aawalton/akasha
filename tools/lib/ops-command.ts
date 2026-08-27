@@ -4,6 +4,7 @@ import { dirname } from "node:path"
 import { akashaCommandPages, akashaCommands, akashaEntryFor } from "../ops/akasha.ts"
 import { declaredCommands } from "../ops/declared.ts"
 import { HELP_FLAGS, type CommandModule } from "../ops/surface.ts"
+import { blobId } from "../../repo/git/git.ts"
 
 const DECLARATION_DIRS: readonly string[] = ["commands", "lib"]
 
@@ -61,7 +62,7 @@ function cachePath(): string {
 
 export interface DeclaredCommand {
   readonly source: string
-  readonly help: number
+  readonly help: string
 }
 
 async function deriveManifest(): Promise<Record<string, DeclaredCommand> | null> {
@@ -81,7 +82,7 @@ async function deriveManifest(): Promise<Record<string, DeclaredCommand> | null>
       continue
     }
     if (module.help?.irreversible === "irreversible") {
-      out[at] = { source: command.source, help: helpDigest(module.help) }
+      out[at] = { source: command.source, help: helpOid(module.help) }
     }
   }
   return out
@@ -166,7 +167,7 @@ export function helpKey(source: string): string {
   return `${source}::help`
 }
 
-export function helpDigest(help: unknown): number {
+export function helpOid(help: unknown): string {
   const text = JSON.stringify(help ?? {}) ?? "{}"
-  return Number.parseInt(Bun.hash(text).toString(16).padStart(16, "0").slice(0, 12), 16)
+  return blobId(new TextEncoder().encode(text))
 }

@@ -1,5 +1,5 @@
 
-import { hookAgentId } from "./read-log.ts"
+import { hookAgentId } from "./read-record.ts"
 import { setTurnState } from "./seat-turn.ts"
 import type { SeatTurnStamp } from "./seat-turn-state.ts"
 

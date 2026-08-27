@@ -1,6 +1,6 @@
 import { refuses, standingOn, stoodAside } from "../lib/required-reading-standing.ts"
 import { codeCheckoutOf, expandHome } from "../lib/code-checkout.ts"
-import { recordingAgentId } from "../lib/read-log.ts"
+import { recordingAgentId } from "../lib/read-record.ts"
 import { canonicalize, isInside, normalizeAbsolute } from "../../repo/path/path"
 import { resolveRoots } from "../../repo/roots/roots"
 

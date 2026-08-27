@@ -1,6 +1,6 @@
 import { describe, expect, it } from "bun:test"
-import { bodyItself, carriedReading, type Moved, sameBody } from "../lib/read-log.ts"
-import type { Entry } from "../../agent/read-log.ts"
+import { bodyItself, carriedReading, type Moved, sameBody } from "../lib/read-record.ts"
+import type { Entry } from "../../agent/read-record.ts"
 
 const FILE = "/var/tmp/carry-readings-test/body.md"
 

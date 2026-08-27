@@ -1,4 +1,4 @@
-import { hookAgentId, recordingAgentId } from "../lib/read-log.ts"
+import { hookAgentId, recordingAgentId } from "../lib/read-record.ts"
 import { removeSubagentPage, removeSubagentPagesOf, writeSubagentPage } from "../lib/subagent-page.ts"
 import { SUBAGENT_MARK } from "../lib/subagent.ts"
 

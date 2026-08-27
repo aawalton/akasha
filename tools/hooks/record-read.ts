@@ -1,7 +1,7 @@
 
-import { readFileSync, statSync } from "node:fs"
+import { readFileSync } from "node:fs"
 import { blobId } from "../../repo/git/git.ts"
-import { countLines, DEFAULT_READ_LIMIT, recordingAgentId, recordRead } from "../lib/read-log.ts"
+import { countLines, DEFAULT_READ_LIMIT, recordingAgentId, recordRead } from "../lib/read-record.ts"
 import { canonicalize, isInside } from "../../repo/path/path"
 import { resolveRoots } from "../../repo/roots/roots"
 
@@ -28,15 +28,15 @@ async function main(): Promise<void> {
 
   const resolved = canonicalize(filePath)
   const roots = resolveRoots()
-  if (!isInside(roots.akasha, resolved) && !isInside(roots.memory, resolved)) return
+  if (!isInside(roots.instructions, resolved) && !isInside(roots.memory, resolved)) return
 
   try {
     const bytes = readFileSync(resolved)
     const lines = countLines(new TextDecoder().decode(bytes))
     const start = positiveInteger(call.offset, 1)
     const end = Math.min(lines, start + positiveInteger(call.limit, DEFAULT_READ_LIMIT) - 1)
-    if (end < start) return
-    recordRead(agent, resolved, statSync(resolved).mtimeMs, [start, end], blobId(bytes))
+    if (start !== 1 || end < lines) return
+    recordRead(agent, resolved, Date.now(), blobId(bytes))
   } catch {
   }
 }

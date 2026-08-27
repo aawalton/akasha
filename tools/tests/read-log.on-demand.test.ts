@@ -4,7 +4,7 @@ import { readFileSync, statSync } from "node:fs"
 import { attachmentPathFor, writeAttachment } from "../../page/attachment-file.ts"
 import { recordEpoch, replacedAt } from "../lib/epoch.ts"
 import { blobId } from "../../repo/git/git.ts"
-import { lastReadAt, loadPath, READINGS, readingsOf, recordRead, resetReadings } from "../lib/read-log.ts"
+import { lastReadAt, loadPath, READINGS, readingsOf, recordRead, resetReadings } from "../lib/read-record.ts"
 import { canonicalize } from "../../repo/path/path"
 import { type Fixture, fixture } from "./fixture.ts"
 

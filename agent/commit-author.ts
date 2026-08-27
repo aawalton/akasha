@@ -5,7 +5,7 @@ import { compiledPageTypeFor } from "../page/property/frontmatter.ts"
 import { registryOf } from "../page/property/registry.ts"
 import { trackedIn } from "../page/tracked/tracked.ts"
 import { akashaRoot, rootsHere } from "../repo/roots/roots.ts"
-import { agentPageFor } from "./read-log.ts"
+import { agentPageFor } from "./read-record.ts"
 import { writerId } from "./writer.ts"
 
 const PERSONA_SUFFIX = ".persona.md"

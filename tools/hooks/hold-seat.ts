@@ -1,6 +1,6 @@
 
 import { seatStanding, stoodAside } from "../lib/hold-seat.ts"
-import { recordingAgentId } from "../lib/read-log.ts"
+import { recordingAgentId } from "../lib/read-record.ts"
 import { fromDisk, refusalText } from "../lib/refusal.ts"
 import { resolveRoots } from "../../repo/roots/roots"
 

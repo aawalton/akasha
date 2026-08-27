@@ -5,7 +5,7 @@ import { discarded } from "../../../agent/discarded.ts"
 import { canonicalize } from "../../../repo/path/path.ts"
 import { ANSWER_CEILING, costOf, restCall } from "../../../agent/read-answer.ts"
 import { conditionalBelow, conditionalCaption, conditionalText } from "./conditional.ts"
-import { agentPageFor, readLogFor, replacedAt } from "../../../agent/read-log.ts"
+import { agentPageFor, readRecordFor, replacedAt } from "../../../agent/read-record.ts"
 import { readOne } from "../../../agent/read-one.ts"
 import { requiredFor } from "./required.ts"
 import { seatTargets } from "./seat.ts"
@@ -200,7 +200,7 @@ export default async function read(argv: readonly string[]): Promise<void> {
   }
   const page = agent === null ? null : agentPageFor(agent)
   const cutoff = page === null ? 0 : replacedAt(page)
-  const log = agent === null ? null : readLogFor(agent)
+  const log = agent === null ? null : readRecordFor(agent)
   const workspace = mkdtempSync(`${SCRATCH}/akasha-read-`)
   const queue = [...targets, ...required.targets]
   const conditional = args.seat ? conditionalBelow(queue, from) : []
@@ -246,7 +246,7 @@ export default async function read(argv: readonly string[]): Promise<void> {
       say(...lines)
       taken += 1
       if (page !== null && emission.record !== null) {
-        recordRead(page, cutoff, canonical, emission.record.at, emission.record.span, emission.record.blob)
+        recordRead(page, cutoff, canonical, emission.record.seenAt, emission.record.oid)
       }
     }
   } finally {

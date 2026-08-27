@@ -2,7 +2,7 @@
 import { existsSync, readFileSync, statSync } from "node:fs"
 import { whenText } from "./hold-seat-words.ts"
 import { blobId } from "../../repo/git/git.ts"
-import { countLines, firstUnreadLine, ownRead, sameBody } from "./read-log.ts"
+import { countLines, ownRead, sameBody } from "./read-record.ts"
 import { canonicalize } from "../../repo/path/path"
 
 export type Verdict =
@@ -29,11 +29,10 @@ export function verdictOn(
   const lines = countLines(body)
   if (lines === 0) return { read: true }
   const canonical = canonicalize(absolute)
-  const mark = blobId(bytes)
+  const oid = blobId(bytes)
   const against = (reader: string): Verdict => {
     const reading = ownRead(reader, canonical)
-    const readAt = reading === null ? null : reading.at
-    if (reading === null || readAt === null) {
+    if (reading === null) {
       return {
         seen: false,
         remedy:
@@ -41,23 +40,16 @@ export function verdictOn(
           `Read all ${lines} lines of ${absolute}`,
       }
     }
-    if (!sameBody(reading, mark)) {
+    if (!sameBody(reading, oid)) {
       return {
         seen: true,
         remedy:
           `CHANGED SINCE YOU READ IT — \`${named}\` is part of your ${claimed}; you read it as it ` +
-          `stood at ${whenText(readAt)} and it changed at ${whenText(changedAt)}. ` +
+          `stood at ${whenText(reading.seenAt)} and it changed at ${whenText(changedAt)}. ` +
           `Re-read all ${lines} lines of ${absolute}`,
       }
     }
-    const unread = firstUnreadLine(reader, canonical, mark, lines)
-    if (unread === null) return { read: true }
-    return {
-      seen: true,
-      remedy:
-        `PARTLY READ — \`${named}\` is part of your ${claimed}; line ${unread} of ${lines} onward ` +
-        `is unread. Read ${absolute} from line ${unread} (\`offset: ${unread}\`)`,
-    }
+    return { read: true }
   }
   return against(agent)
 }

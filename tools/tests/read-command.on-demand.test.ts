@@ -2,7 +2,7 @@
 import { afterEach, beforeEach, describe, expect, test } from "bun:test"
 import { mkdtempSync, rmSync, statSync } from "node:fs"
 import { tmpdir } from "node:os"
-import { countLines } from "../lib/read-log.ts"
+import { countLines } from "../lib/read-record.ts"
 import { readOne } from "../../agent/read-one.ts"
 import { type Fixture, fixture } from "./fixture.ts"
 

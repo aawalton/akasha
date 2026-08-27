@@ -2,7 +2,7 @@
 import { afterEach, beforeEach, describe, expect, test } from "bun:test"
 import { closeSync, mkdirSync, openSync, readFileSync, writeFileSync } from "node:fs"
 import { dirname } from "node:path"
-import { readingsOf } from "../lib/read-log.ts"
+import { readingsOf } from "../lib/read-record.ts"
 import { canonicalize } from "../../repo/path/path"
 import { toolArgv } from "../lib/tool-argv.ts"
 import { type Fixture, fixture, installGates, installRepos } from "./fixture.ts"

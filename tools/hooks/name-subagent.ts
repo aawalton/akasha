@@ -1,5 +1,5 @@
 
-import { hookAgentId, recordingAgentId } from "../lib/read-log.ts"
+import { hookAgentId, recordingAgentId } from "../lib/read-record.ts"
 
 const SPELLABLE = /^[A-Za-z0-9_-]+$/
 
