@@ -61,11 +61,7 @@ afterAll(() => rmSync(root, { recursive: true, force: true }))
 const away = join(root, "no-such-repo")
 
 const ROOTS: Roots = {
-  instructions: root,
-  code: away,
-  memory: away,
-  books: away,
-  stories: away,
+  akasha: root,
   "code-editor": away,
 }
 
@@ -78,7 +74,7 @@ describe("a page type whose pages stand in a `rows: jsonl` sidecar", () => {
   it("names each page by the slug the line states, and by its parent and line where none is stated", () => {
     const rows = deriver(ROOTS).rows("sighting") ?? []
     expect(rows.map((row) => row.values.chapter)).toEqual(["one", "two", "three", "four"])
-    expect(rows[2]?.at).toBe("instructions:pages/spell/ward.sightings.jsonl#0")
+    expect(rows[2]?.at).toBe("akasha:pages/spell/ward.sightings.jsonl#0")
   })
 
   it("carries the page holding it under a key named for that page type", () => {
@@ -88,7 +84,7 @@ describe("a page type whose pages stand in a `rows: jsonl` sidecar", () => {
 
   it("gathers the sidecars of a page type extending the one the property is declared on", () => {
     const rows = deriver(ROOTS).rows("sighting") ?? []
-    expect(rows.at(-1)?.at).toBe("instructions:pages/rite/vigil.sightings.jsonl#0")
+    expect(rows.at(-1)?.at).toBe("akasha:pages/rite/vigil.sightings.jsonl#0")
   })
 
   it("reports the property holding it, so a reader knows where its pages stand", () => {
@@ -147,17 +143,17 @@ describe("the page holding a sidecar", () => {
 describe("one whole page", () => {
   it("answers a page held in a sidecar with each relation replaced by what it names", () => {
     const got = whole(ROOTS, "sighting", "mend-first")
-    expect(got?.at).toBe("instructions:pages/spell/mend.sightings.jsonl#0")
+    expect(got?.at).toBe("akasha:pages/spell/mend.sightings.jsonl#0")
     expect(got?.relations["reader-slug"]).toEqual([
-      { pageType: "reader", name: "ada", title: "Ada", at: "instructions:pages/reader/ada.md" },
+      { pageType: "reader", name: "ada", title: "Ada", at: "akasha:pages/reader/ada.md" },
     ])
   })
 
   it("says a relation names nothing rather than dropping it", () => {
     const got = whole(ROOTS, "spell", "mend")
     expect(got?.relations["sightings"]).toEqual([
-      { pageType: "sighting", name: "mend-first", title: null, at: "instructions:pages/spell/mend.sightings.jsonl#0" },
-      { pageType: "sighting", name: "mend-second", title: null, at: "instructions:pages/spell/mend.sightings.jsonl#1" },
+      { pageType: "sighting", name: "mend-first", title: null, at: "akasha:pages/spell/mend.sightings.jsonl#0" },
+      { pageType: "sighting", name: "mend-second", title: null, at: "akasha:pages/spell/mend.sightings.jsonl#1" },
     ])
   })
 })

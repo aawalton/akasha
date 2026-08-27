@@ -15,26 +15,26 @@ const property = (on: string, key: string, lines: readonly string[]): string =>
 const FILES: Readonly<Record<string, string>> = {
   "pages/page-type/page-type.page-type.md": kind("page-type", [
     "extends-slug: page",
-    "files: instructions:pages/page-type/**/*.md",
+    "files: akasha:pages/page-type/**/*.md",
   ]),
   "pages/page-type/page.page-type.md": kind("page", ["extends-slug: none", "files: none"]),
   "pages/page-type/task.page-type.md": kind("task", [
     "extends-slug: page",
-    "files: instructions:pages/task/**/*.md",
+    "files: akasha:pages/task/**/*.md",
     "id: 019f0000-0000-7000-8000-00000000aaaa",
     "owner-slug: person-slug",
   ]),
   "pages/page-type/chore.md": kind("chore", [
     "extends-slug: task",
-    "files: instructions:pages/chore/**/*.md",
+    "files: akasha:pages/chore/**/*.md",
   ]),
   "pages/page-type/page-property-definition.page-type.md": kind("page-property-definition", [
     "extends-slug: page",
-    "files: instructions:pages/page-property-definition/**/*.md",
+    "files: akasha:pages/page-property-definition/**/*.md",
   ]),
   "pages/page-type/alan-harness-tracking-field.page-type.md": kind("alan-harness-tracking-field", [
     "extends-slug: page-property-definition",
-    "files: instructions:pages/alan-harness-tracking-field/**/*.md",
+    "files: akasha:pages/alan-harness-tracking-field/**/*.md",
   ]),
 
   "pages/page-property-definition/page-title.page-property-definition.md": property("page-type/page", "title", [
@@ -91,11 +91,7 @@ afterAll(() => rmSync(root, { recursive: true, force: true }))
 const away = join(root, "no-such-repo")
 
 const ROOTS: Roots = {
-  instructions: root,
-  code: away,
-  memory: away,
-  books: away,
-  stories: away,
+  akasha: root,
   "code-editor": away,
 }
 

@@ -7,7 +7,7 @@ import type { Roots } from "../../page/page"
 const page = (lines: readonly string[]): string => `---\n${lines.join("\n")}\n---\n`
 
 const kind = (slug: string, place: string): string =>
-  page([`page-type-slug: page-type`, `slug: ${slug}`, "extends-slug: none", `files: instructions:${place}`])
+  page([`page-type-slug: page-type`, `slug: ${slug}`, "extends-slug: none", `files: akasha:${place}`])
 
 const property = (on: string, key: string, lines: readonly string[]): string =>
   page([`defined-on-slug: ${on}`, `key: ${key}`, ...lines])
@@ -49,11 +49,7 @@ afterAll(() => rmSync(root, { recursive: true, force: true }))
 const away = join(root, "no-such-repo")
 
 const ROOTS: Roots = {
-  instructions: root,
-  code: away,
-  memory: away,
-  books: away,
-  stories: away,
+  akasha: root,
   "code-editor": away,
 }
 

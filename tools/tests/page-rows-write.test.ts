@@ -53,11 +53,7 @@ afterAll(() => {
 const away = join(root, "no-such-repo")
 
 const ROOTS: Roots = {
-  instructions: root,
-  code: away,
-  memory: away,
-  books: away,
-  stories: away,
+  akasha: root,
   "code-editor": away,
 }
 
@@ -106,7 +102,7 @@ describe("a page type another page holds in its rows", () => {
   it("is read back by the same reader that answers a query over it", () => {
     writeRow(ROOTS, "keeper-day", "ada", { slug: "ada-one", mood: "bright" }, "watcher")
     writeRow(ROOTS, "keeper-day", "ada", { slug: "ada-two", mood: "low" }, "watcher")
-    const read = rowsPagesIn(ROOTS, `instructions:pages/keeper/ada.md`, "ada", "keeper", "days", false, () => {})
+    const read = rowsPagesIn(ROOTS, `akasha:pages/keeper/ada.md`, "ada", "keeper", "days", false, () => {})
     expect(read.map((one) => one.named)).toEqual(["ada-one", "ada-two"])
     expect(read[0]?.values["keeper-slug"]).toBe("ada")
   })
@@ -237,7 +233,7 @@ describe("a rows property whose rows pass one file's bound", () => {
       expect(statSync(path).size).toBeLessThanOrEqual(PART_CEILING_BYTES + 200_100)
     }
     expect(rows().length).toBe(60)
-    const read = rowsPagesIn(ROOTS, `instructions:pages/keeper/ada.md`, "ada", "keeper", "days", false, () => {})
+    const read = rowsPagesIn(ROOTS, `akasha:pages/keeper/ada.md`, "ada", "keeper", "days", false, () => {})
     expect(read.length).toBe(60)
     expect(read.map((one) => one.named)).toContain("wide-59")
   })

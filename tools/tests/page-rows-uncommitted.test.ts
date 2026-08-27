@@ -53,11 +53,7 @@ afterAll(() => {
 
 const away = join(root, "no-such-repo")
 const ROOTS: Roots = {
-  instructions: root,
-  code: away,
-  memory: away,
-  books: away,
-  stories: away,
+  akasha: root,
   "code-editor": away,
 }
 
@@ -117,7 +113,7 @@ describe("what a write to an uncommitted rows property does", () => {
 
   it("reads the row back, a row being read as a page wherever a page is read", () => {
     writeRow(ROOTS, "keeper-read", "ada", { slug: "two", at: 2 })
-    const read = rowsPagesIn(ROOTS, "instructions:pages/keeper/ada.md", "ada", "keeper", "reads", true, () => {})
+    const read = rowsPagesIn(ROOTS, "akasha:pages/keeper/ada.md", "ada", "keeper", "reads", true, () => {})
     expect(read.map((one) => one.values.slug).sort()).toEqual(["one", "two"])
   })
 
