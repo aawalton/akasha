@@ -1,12 +1,12 @@
 import { readFileSync, statSync, writeFileSync } from "node:fs"
 import { agentId } from "../lib/read-record.ts"
 import { type Roots } from "../../page/page"
-import { AKASHA, CODE, resolveRoots, rootFor } from "../../repo/roots/roots"
+import { AKASHA, resolveRoots, rootFor } from "../../repo/roots/roots"
 import { toolArgv } from "../lib/tool-argv.ts"
 import { recordOwnRead } from "../lib/command.ts"
 import { type Comment, commentsIn, UnscannableFile } from "./comments.ts"
 import { classify, DOMAIN_DOC, FORMS_DOC, type Form, formsFrom } from "./forms.ts"
-import { isTree, packagesIn, reachedIn, reasonSaid, SET_ASIDE, type SetAside, setAside, tracked, type Tree } from "./tree.ts"
+import { packagesIn, reachedIn, tracked } from "./tree.ts"
 
 const HELP = `bun tools/code-comment/strip.ts — take out every comment standing outside the forms
 
@@ -23,28 +23,18 @@ the read and the write is left alone and named rather than landed over.
 IT LANDS IN ONE COMMIT. A sweep arriving in batches leaves the tree in a state nobody chose
 if any batch refuses, and a run stopped halfway reads exactly like one that finished.
 
-WHERE IT LANDS DEPENDS ON THE TREE. In the instructions repo it commits through
-\`ops write --mechanical\`, which is the only way anything becomes durable there. In the
-code repo it writes the files and stops: that tree lands through a branch and CI, and the
-same run has to mend whatever the deletion made false before any of it is worth committing.
-
-TWO KINDS OF FILE ARE LEFT ALONE IN THE CODE REPO and counted, the same two every check
-there filters its own files on. A MACHINE-WRITTEN file, because stripping one is undone by
-the next run of whatever wrote it, so the comment belongs to that generator's template. And
-a file UNDER TEST, under a \`__fixtures__\` directory, because a comment in a fixture is a
-specimen the check is proved against rather than commentary — and gutting one need turn
-nothing red, since a check reading a carrier that is gone reports no violations either.
+IT COMMITS THROUGH \`ops write --mechanical\`, which is the only way anything becomes
+durable here.
 
 Usage:
-  bun ~/repos/akasha/tools/code-comment/strip.ts [--repo instructions|code] [--under <path>] [--write]
+  bun ~/repos/akasha/tools/code-comment/strip.ts [--under <path>] [--write]
 
 Flags:
-  --repo <name>       Which tree to strip: \`instructions\` (default) or \`code\`.
   --under <path>      Everything beneath this directory, a package or a whole area of
                       the tree. What a project is scoped to, and what a run should cover.
   --file-path <path>  One file, relative to the repo root, instead of every file the domain is required reading for.
   --diff              Print the result rather than counting it. Use with --file-path.
-  --write             Land it: a commit in the instructions repo, files on disk in the code repo.
+  --write             Land it: a commit here.
   --help              This.
 
 Exit codes:
@@ -135,15 +125,6 @@ interface Stripped {
   readonly at: number
 }
 
-function landOnDisk(root: string, stripped: readonly Stripped[]): void {
-  const moved = stripped.filter((one) => statSync(`${root}/${one.file_path}`).mtimeMs !== one.at)
-  for (const one of moved) process.stdout.write(`moved after this read it, so left alone: ${one.file_path}\n`)
-  const written = stripped.filter((one) => !moved.includes(one))
-  for (const one of written) writeFileSync(`${root}/${one.file_path}`, one.content)
-  process.stdout.write(`${written.length} file(s) written; nothing committed, this tree lands through its branch\n`)
-  process.stdout.write("run the formatter over them before the suite: a comment holding a literal apart is gone\n")
-}
-
 function land(roots: Roots, stripped: readonly Stripped[]): void {
   const root = rootFor(roots, AKASHA)
   const moved = stripped.filter((one) => statSync(`${root}/${one.file_path}`).mtimeMs !== one.at)
@@ -174,35 +155,19 @@ function flag(argv: readonly string[], name: string): string | null {
 }
 
 function run(argv: readonly string[]): void {
-  const asked = flag(argv, "--repo") ?? "instructions"
-  if (!isTree(asked)) {
-    process.stderr.write("error: --repo takes `instructions` or `code`\n")
-    process.exitCode = 1
-    return
-  }
-  const tree: Tree = asked
   const roots = resolveRoots()
-  const root = tree === "code" ? rootFor(roots, CODE) : rootFor(roots, AKASHA)
+  const root = rootFor(roots, AKASHA)
   const forms = formsFrom(readFileSync(`${rootFor(roots, AKASHA)}/${FORMS_DOC}`, "utf8"))
   const named = flag(argv, "--file-path")
   const scope = flag(argv, "--under")
-  const reached = named === null ? reachedIn(rootFor(roots, AKASHA), root, tree) : [named]
+  const reached = named === null ? reachedIn(rootFor(roots, AKASHA), root, "instructions") : [named]
   const scoped = scope === null ? reached : reached.filter((relPath) => relPath.startsWith(`${scope}/`))
   if (scope !== null && scoped.length === 0) {
     process.stderr.write(`error: nothing required to be read against ${DOMAIN_DOC} stands under ${scope} in ${root}\n`)
     process.exitCode = 1
     return
   }
-  const asideBy = new Map<string, SetAside>()
-  if (tree === "code") {
-    for (const relPath of scoped) {
-      const reason = setAside(relPath, () => readFileSync(`${root}/${relPath}`, "utf8"))
-      if (reason !== null) asideBy.set(relPath, reason)
-    }
-  }
-  const aside = [...asideBy.keys()]
-  const held = new Set(aside)
-  const files = scoped.filter((relPath) => !held.has(relPath))
+  const files = scoped
   const unproved: string[] = []
   const pending: Stripped[] = []
   let changed = 0
@@ -233,17 +198,9 @@ function run(argv: readonly string[]): void {
     if (!argv.includes("--write")) continue
     pending.push({ file_path: relPath, content: now, at: statSync(`${root}/${relPath}`).mtimeMs })
   }
-  if (argv.includes("--write") && pending.length > 0) {
-    if (tree === "code") landOnDisk(root, pending)
-    else land(roots, pending)
-  }
+  if (argv.includes("--write") && pending.length > 0) land(roots, pending)
   if (!argv.includes("--diff")) {
     process.stdout.write(`${changed} of ${files.length} files lose ${taken} bytes of comment\n`)
-    for (const reason of SET_ASIDE) {
-      const these = aside.filter((relPath) => asideBy.get(relPath) === reason)
-      if (these.length === 0) continue
-      process.stdout.write(`${these.length} ${reason} file(s) left alone; ${reasonSaid(reason)}\n`)
-    }
   }
   if (unproved.length > 0) {
     process.stdout.write(`\nleft alone, because the result could not be proved the same code:\n${unproved.join("\n")}\n`)
