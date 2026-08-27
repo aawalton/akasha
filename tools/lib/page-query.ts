@@ -17,8 +17,6 @@ import { type Roots } from "../../page/page"
 import { isAddressable } from "../../repo/roots/roots"
 import { WAKE_DAY, type Woke, wokeOn } from "./wake-day.ts"
 
-export type { Row, Values }
-
 export const UNREACHED = "names no page type whose pages are files"
 
 export interface Test {
