@@ -8,11 +8,11 @@
  *
  * WHY NOTHING IN THIS FILE WALKS THE CORPUS. Two graphs stand over those documents.
  * `domain-parents:` admits several values and many domains use several, so a view drawn
- * from that edge shows those domains once per parent — `tools/dag.ts` in the instructions
- * repository draws exactly that, and draws it correctly. `champion-persona:` picks the one
+ * from that edge shows those domains once per parent — `tools/dag.ts` draws exactly that, and
+ * draws it correctly. `champion-persona:` picks the one
  * parent championing descends, and that edge is a tree: one line per domain. A traversal written here
  * would be a second answer to who champions what, free to drift from the repository's own, and
- * it would be the one nobody watches. So `ops instructions champions --tree --json` is called
+ * it would be the one nobody watches. So `ops akasha champions --tree --json` is called
  * and its answer is parsed.
  *
  * PARSED RATHER THAN CAST. This crosses a process boundary. A shape check here turns a
@@ -85,12 +85,12 @@ export function parseDomainTree(stdout: string): DomainTree {
 	try {
 		value = JSON.parse(stdout);
 	} catch (err) {
-		throw new Error(`ops instructions champions --tree --json did not print JSON: ${String(err)}`);
+		throw new Error(`ops akasha champions --tree --json did not print JSON: ${String(err)}`);
 	}
 	const parsed = DOMAIN_TREE_SCHEMA.safeParse(value);
 	if (!parsed.success) {
 		throw new Error(
-			`ops instructions champions --tree --json printed a shape this cannot read: ${parsed.error.message}`
+			`ops akasha champions --tree --json printed a shape this cannot read: ${parsed.error.message}`
 		);
 	}
 	return parsed.data;
@@ -109,8 +109,8 @@ export function countDomains(nodes: readonly DomainNode[]): number {
  * The absolute path of a domain's document.
  *
  * Joined against the repo the verb named rather than against a path this extension holds:
- * where the instructions repository sits is the harness's fact, and a second copy of it
- * here would be a second thing to be wrong.
+ * where that repository sits is the harness's fact, and a second copy of it here would be a
+ * second thing to be wrong.
  */
 export function documentPath(tree: DomainTree, node: DomainNode): string {
 	return path.join(tree.repo, node.relPath);
@@ -123,7 +123,7 @@ export function documentPath(tree: DomainTree, node: DomainNode): string {
  * empty on 2026-08-13. See that file for the measurement.
  */
 export async function readDomainTree(): Promise<DomainTree> {
-	const stdout = await runOps(['instructions', 'champions', '--tree', '--json'], {
+	const stdout = await runOps(['akasha', 'champions', '--tree', '--json'], {
 		timeout: READ_TIMEOUT_MS,
 		maxBuffer: MAX_BUFFER,
 	});
