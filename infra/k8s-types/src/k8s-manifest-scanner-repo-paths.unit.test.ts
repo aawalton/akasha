@@ -20,11 +20,11 @@ spec:
         - name: supervisor
           command:
             - bun
-            - /app/repo/packages/shared/worker-supervisor/src/main.ts
+            - /app/repo/shared/worker-supervisor/src/main.ts
           image: registry:5000/cluster/bun-git:latest
 `
     const { docs } = scanManifestText(text)
-    expect(at(docs, 0).repoPaths).toEqual(["packages/shared/worker-supervisor/src/main.ts"])
+    expect(at(docs, 0).repoPaths).toEqual(["shared/worker-supervisor/src/main.ts"])
   })
 
   test("an env value naming a program is picked up alongside the command", () => {
@@ -39,15 +39,15 @@ spec:
         - name: supervisor
           command:
             - bun
-            - /app/repo/packages/shared/worker-supervisor/src/main.ts
+            - /app/repo/shared/worker-supervisor/src/main.ts
           env:
             - name: WORKER_MAIN_PATH
-              value: /app/repo/packages/infra/ci/worker/src/main.ts
+              value: /app/repo/infra/ci-worker/src/main.ts
 `
     const { docs } = scanManifestText(text)
     expect(at(docs, 0).repoPaths).toEqual([
-      "packages/shared/worker-supervisor/src/main.ts",
-      "packages/infra/ci/worker/src/main.ts",
+      "shared/worker-supervisor/src/main.ts",
+      "infra/ci-worker/src/main.ts",
     ])
   })
 
@@ -59,12 +59,12 @@ metadata:
 spec:
   containers:
     - name: a
-      args: ["packages/b/src/second.tsx", "packages/a/src/first.ts"]
+      args: ["b/src/second.tsx", "a/src/first.ts"]
     - name: b
-      args: ["packages/a/src/first.ts"]
+      args: ["a/src/first.ts"]
 `
     const { docs } = scanManifestText(text)
-    expect(at(docs, 0).repoPaths).toEqual(["packages/b/src/second.tsx", "packages/a/src/first.ts"])
+    expect(at(docs, 0).repoPaths).toEqual(["b/src/second.tsx", "a/src/first.ts"])
   })
 
   test("a doc naming no repo TypeScript reports an empty list rather than omitting the field", () => {
@@ -92,7 +92,7 @@ metadata:
 spec:
   containers:
     - name: a
-      command: ["bun", "packages/one/src/main.ts"]
+      command: ["bun", "one/src/main.ts"]
 ---
 apiVersion: v1
 kind: Pod
@@ -101,10 +101,10 @@ metadata:
 spec:
   containers:
     - name: b
-      command: ["bun", "packages/two/src/main.ts"]
+      command: ["bun", "two/src/main.ts"]
 `
     const { docs } = scanManifestText(text)
-    expect(at(docs, 0).repoPaths).toEqual(["packages/one/src/main.ts"])
-    expect(at(docs, 1).repoPaths).toEqual(["packages/two/src/main.ts"])
+    expect(at(docs, 0).repoPaths).toEqual(["one/src/main.ts"])
+    expect(at(docs, 1).repoPaths).toEqual(["two/src/main.ts"])
   })
 })

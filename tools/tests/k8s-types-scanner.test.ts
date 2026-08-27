@@ -203,14 +203,14 @@ describe("scanManifestText repo paths", () => {
         "apiVersion: v1",
         "kind: ConfigMap",
         "data:",
-        "  a: packages/infra/k8s-types/src/hostnames.ts",
-        "  b: packages/infra/k8s-types/src/hostnames.ts",
-        "  c: packages/shared/graph/producers/src/k8s/extract.tsx"
+        "  a: infra/k8s-types/src/hostnames.ts",
+        "  b: infra/k8s-types/src/hostnames.ts",
+        "  c: shared/graph-producers/src/k8s/extract.tsx"
       )
     ).docs[0]
     expect(doc?.repoPaths).toEqual([
-      "packages/infra/k8s-types/src/hostnames.ts",
-      "packages/shared/graph/producers/src/k8s/extract.tsx",
+      "infra/k8s-types/src/hostnames.ts",
+      "shared/graph-producers/src/k8s/extract.tsx",
     ])
   })
 })
