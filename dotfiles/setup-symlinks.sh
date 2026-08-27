@@ -4,8 +4,7 @@ set -euo pipefail
 
 DOTFILES="$(cd -- "$(dirname -- "$(readlink -f -- "$0")")" && pwd -P)"
 . "$DOTFILES/../tools/lib/repo-roots.sh"
-CODE="$CODE_ROOT"
-REPOS="$(dirname -- "$INSTRUCTIONS_ROOT")"
+REPOS="$(dirname -- "$AKASHA_ROOT")"
 
 . "$DOTFILES/lib/link.sh"
 
@@ -22,9 +21,6 @@ link "$DOTFILES/bin/ops" "$HOME/.local/bin/ops"
 [ "$(uname)" = "Darwin" ] || link "$DOTFILES/.config/containers/registries.conf.d/01-insecure-cluster-registry.conf" "$HOME/.config/containers/registries.conf.d/01-insecure-cluster-registry.conf"
 [ "$(uname)" = "Darwin" ] || link "$DOTFILES/.local/share/applications/wallpaper-black.desktop" "$HOME/.local/share/applications/wallpaper-black.desktop"
 link "$DOTFILES/repos/.vscode" "$REPOS/.vscode"
-
-echo "Setting up Claude config symlinks..."
-link "$CODE/.claude/.mcp.json" "$HOME/.claude/.mcp.json"
 
 if [ "$(uname)" = "Darwin" ]; then
   echo "Skipping /etc/sysctl.d symlink (Linux-only; macOS detected)."

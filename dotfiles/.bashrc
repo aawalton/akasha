@@ -146,9 +146,9 @@ eval "$(bun run "$AKASHA_ROOT/tools/aw/cli.ts" init bash)"
 export DISABLE_COST_WARNINGS=1
 
 # $INSTRUCTIONS_ROOT/packages/infra/scripts
-export PATH="$INSTRUCTIONS_ROOT/packages/infra/scripts:$PATH"
+export PATH="$AKASHA_ROOT/infra/scripts:$PATH"
 
-export PATH="$INSTRUCTIONS_ROOT/dotfiles/bin:$PATH"
+export PATH="$AKASHA_ROOT/dotfiles/bin:$PATH"
 
 # Talos cluster node access. Talos nodes run no sshd — reach them via the
 # talosctl gRPC API (:50000) over the tailscale-routed LAN, not ssh. node-N IPs
