@@ -1,0 +1,189 @@
+---
+id: e09d0956-cf0d-5dd2-8188-bf17bb5a360e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 18: Born Detective"
+slug: 0020-chapter-18-born-detective
+partOf: quiet-life-of-the-mute-archmage-op-archmage-academy
+position: 20
+ownLength: 2092
+unit: words
+publishedAt: 2026-06-02
+link: "https://www.royalroad.com/fiction/167476/quiet-life-of-the-mute-archmage-op-archmage-academy/chapter/3484622/chapter-18-born-detective"
+royalRoadId: "3484622"
+---
+
+Molly observed the subtle shift in Jasmine’s attention as it drifted toward the corner where she stood. The moment their eyes met, a gentle warmth smoothed the woman’s features. “You came earlier than expected, little snow,” Jasmine said. Her gaze then traveled to Sebastian, and a slight crease appeared on her features as she registered the unfamiliar young man standing beside Molly. She parted her lips, ready to speak, but Fiona’s voice cut through before a single word could leave her mouth. “Nice to see you again, Sebastian.”
+
+Jasmine glanced at her daughter, who offered a confirming nod. “He’s a close colleague of mine,” Fiona explained.
+
+“Did I just hear… close?” Ren purred, savoring the word the instant it left his sister’s mouth. Fiona shot him a pointed look, which he answered with a cheshire grin of satisfaction spreading across his face.
+
+With a snort, Fiona tore her gaze away from him. She stepped out from behind the counter and walked toward Sebastian.
+
+“Nice to see you too, Fiona,” Sebastian said, an upward curl lifting his lips as he observed the siblings banter.
+
+Fiona returned a small smirk. Her focus shifted to Molly, who lingered beside Sebastian. “Thanks,” Fiona said, her tone warmer now. “But you didn’t have to risk your safety just to verify who he was.”
+
+Molly’s face immediately flooded with heat. Why did she have to say it here, in front of everyone?
+
+She darted a glance at Jasmine, who wore a puzzled look, before Ren leaned closer and whispered something in his mother’s ear. A flash of understanding crossed Jasmine’s face.
+
+Internally, Molly fumbled, her fingers tightening around the small basket of chocolates as she scrambled for a way to explain that she had simply followed agent 004’s codename, the classic “buy time until identity cleared” method. But before she could physically fumble, Jasmine gave her a look so full of tenderness that it stilled her entirely. “Just don’t hurt yourself,” Jasmine said from where she stood.
+
+Molly's expression blanked for a heartbeat, caught completely off guard. Then, her face brightened from the sense of familial warmth and she nodded with firm resolve.
+
+Sebastian, who had unwittingly become the center of it all, coughed lightly into his fist, pulling everyone’s attention toward him.
+
+Fiona raised a brow as Sebastian moved with a graceful stride toward the counter where Jasmine remained. Once he arrived, he dipped into a short bow. “Good morning, ma’am. You must be Miss Jasmine?”
+
+Jasmine’s lips curled upward. “Yes, that’s me.”
+
+Ren had already slipped silently to Molly’s side, his footsteps soundless on the floor. He angled his head down and whispered, “I have a feeling he’s about to say something that’ll make Fiona blush.”
+
+A smirk tugged at the corner of Molly’s mouth. The black orb drifted out from her robe pocket.
+
+~ I don’t think so though…
+
+Ren grinned. “Two chocolates for me if it happens.”
+
+Molly mirrored his grin.
+
+~ Deal.
+
+Sebastian, blissfully unaware of the wager unfolding behind him, continued. “I see,” he said, before adding with a noble curl of his lips, “Now I understand where she inherited her unquestionable beauty from.”
+
+“W-what!” Fiona’s voice echoed against the bakery walls. Every gaze landed on her, her cheeks blazing a vivid scarlet. “What do you think you’re saying, Sebastian?”
+
+“Told you,” Ren murmured as two boxes of chocolate dropped neatly into his outstretched hand.
+
+Molly gave a vigorous nod, her eyes glued to Fiona, whose flustered stare swung toward the spot where she and Ren stood snickering.
+
+Almost in perfect unison, a cat-like curve of amusement surfaced on both their faces.
+
+Ren opened his mouth. “Fiona, why didn’t you tell us you have a boyfriend?”
+
+Fiona sputtered, her face reddening deeper by the second. She did the only thing she could think of in that instant. Her gaze whipped sharply toward Sebastian, eyes blazing. “Explain yourself,” she urged, demanding he correct the misunderstanding he had created before it spiraled any further.
+
+Sebastian immediately offered a wry laugh under the weight of her dangerous glare. “Fiona, why the glare? I’m not wrong, am I?” A smirk curved his lips. “You might just be one of the most beautiful people I’ve ever seen.”
+
+Fiona’s eye twitched. The scarlet across her cheeks burned deeper, as though she stood on the very edge of combusting from sheer embarrassment. “You…” She strode forward in three quick steps, grabbed him by the hand, and hauled him toward the entrance passageway. “I’ll be right back, Mom,” she called, dragging him past the threshold.
+
+“Take care,” Jasmine said, a ghost of a laugh pulling at the corner of her mouth as she watched her daughter tug the charming young man out of the bakery.
+
+A sigh escaped her. “Young love,” she murmured, her attention drifting to Ren and Molly, who were giggling mischievously and craning their necks to peer at the passageway until Fiona finally disappeared from sight.
+
+******
+
+Fiona pulled Sebastian along, her grip firm around his wrist while low laughter still rumbled from his chest. She led him down the cobblestone path and around a corner where fewer people milled about. Once they stopped, she released him and fixed him with a razor-sharp look. “What was that for?” she demanded.
+
+“Ha… that was refreshing,” Sebastian said, his laughter finally subsiding. He caught his breath and glanced at her, his expression softening. “You have a great family.” He held her gaze, the warmth lingering there. “Cherish them.”
+
+The pointed edge in Fiona’s expression receded, replaced by something gentler. “Thanks.”
+
+Sebastian inclined his head, staring at her with quiet intensity.
+
+Noticing this, Fiona lifted a brow. “What?”
+
+“Nothing much.” He continued to study her for a moment longer before his lips curved upward once more. “Now that I look at you properly, you really are beautifu— Ouch!” He winced theatrically as Fiona’s fist connected with his shoulder.
+
+“Just tell me what someone as important as you is doing here in my hometown,” she said, dismissing his flattery without a second thought.
+
+“But… I was only trying to speak the truth,” Sebastian muttered. However, the serious expression settling onto Fiona’s face made him sigh, his own features sobering in an instant.
+
+“I’m in pursuit of a maniac mage who escaped while being transported to another prison.” He shifted his gaze to meet hers. “I lost track of him near a stretch of forest a few kilometers away from Sigsug.”
+
+Fiona’s expression hardened. “Do you think he’s here?”
+
+Sebastian shook his head. “Absolutely not. He’d be caught immediately if he came here.” His eyes locked onto hers, unblinking. “You know we’re nearing the end of the year?”
+
+Noticing the gravity tightening his tone, Fiona straightened her posture. “Yes. What about it?”
+
+Sebastian tilted his head back, his gaze traveling toward the sky above. “Do you remember what creature travels through the different forests of the world when winter draws near?”
+
+Fiona gave a short nod. “The guardians of nature. The creatures that preserve the forest, protecting their bloom until winter passes.” Her eyes rose to meet the sky as well. “Phragons,” she breathed.
+
+Her eyes widened sharply, and she spun toward Sebastian. “Is it what I’m thinking?”
+
+Sebastian gave a grim nod. “Since phragons are spiritual beasts created to safeguard the forest during the cold season.” His gaze hardened. “That maniac is trying to use them for a summoning ritual.”
+
+“He’s trying to summon something dangerous,” Fiona exhaled, her gaze darting reflexively toward the direction of Eoma’s bakery.
+
+“He’s trying to summon a being that defies the very laws of the living.”
+
+****
+
+Molly shifted her weight from one foot to the other, nerves prickling beneath her skin as she lingered near the entrance passageway. She was waiting for the baker that Jasmine said would come to pick her up. Beside her, Ren leaned against the wall, his back resting comfortably against it as he popped chocolates from the small box into his mouth.
+
+“There’s no need to be nervous,” he said, catching the restless fidget in her movements. “I know you’ll do great.”
+
+Molly turned to him and offered a weak upward curve of her lips.
+
+~ Thank you.
+
+Ren gave a thumbs up in reply. “Just make sure not to burn yourself.”
+
+Molly nodded vigorously, a flicker of determination igniting in her eyes as she steadied herself, pushing the jitters as far down as they could go. Her mind began drifting toward the kind of bread she might bake. Strawberry-flavored bread was her favorite. Perhaps she’d learn how to make that today.
+
+No. No. No. She shook the thoughts away. She would simply follow whatever recipe they were baking today. First, she’d learn the fundamentals of bread making, then she could progress to the more advanced methods later.
+
+Yes. Her expression brightened. That was definitely the better idea.
+
+While she was lost in thought, the bakery door swung open. Fiona strode inside, her expression neutral, with Sebastian following calmly behind her.
+
+“Where’s Mom?” Fiona asked Ren, who regarded her with a lopsided grin.
+
+“She’s inside the storage room,” he said.
+
+Fiona nodded, her face betraying little, and walked farther into the bakery. Ren watched her retreating figure, the playfulness gradually draining from his expression and leaving something more serious behind. He turned to Molly. “I’ll be right back,” he said, then headed after Fiona into the storage room.
+
+Molly watched them disappear, leaving her alone with Sebastian.
+
+A soft clearing of the throat sounded beside her. She turned to find Sebastian wearing a serene expression. “My time here might be shorter than I expected,” he began. A sigh escaped him. “I would have loved to stay a little longer, have some fun, and maybe even go on other errands with you.” A sudden beam flashed across his features. “Just like how Agent 004 would have done.” He winked.
+
+Molly’s cheeks reddened with fresh embarrassment.
+
+He really did know what she had been doing.
+
+Seeing the mortified look blooming on her face, Sebastian laughed.
+
+~ Not funny.
+
+“Alright. Alright. I’m sorry,” Sebastian said as he read the words hovering in the air. After his laughter subsided, he asked, “Tell me. At which volume did you stop?”
+
+Molly gave him a pointed look, suspecting another round of teasing.
+
+Sebastian raised both hands in surrender. “Not for jokes,” he assured her, and the pointed look receded. The black orb drifted forward to project her thoughts.
+
+~ Volume three.
+
+The corners of Sebastian’s mouth lifted as he read the message. “Volume three,” he echoed. “You’re still two books behind from the current volume.”
+
+Molly’s ears practically perked up at this news.
+
+~ Really?
+
+Sebastian gave a short nod. “’Born Detective’ released two new volumes four months ago. It seems they haven’t been distributed around this region yet, and they might not reach here for another three to five months.”
+
+Molly’s expression dulled slightly. That was an awfully long time for the books to travel so far. She’d been desperate to read the next installment, especially since the third volume had ended on a cliffhanger that kept her mind churning for days.
+
+“But I might be able to bring them to you,” she heard Sebastian say, and her expression immediately brightened.
+
+~ Really? When can you bring them? It’ll be great if it’s possible in three weeks. Much better if it’s less. Oh, you can also tell me the price, I’ll gladly pay. I think I can spare some coins from my savings.
+
+“Hold on,” Sebastian laughed. “Think slowly. You’re basically going to write a whole essay if you keep going.”
+
+Molly’s face reddened as she stared at the string of words suspended in the air and noticed just how much she had already projected. The text dissolved instantly into tiny swirling particles.
+
+“Firstly, you’re not paying for anything.” He began, “It’s a gift from me.”
+
+Molly’s expression warmed. She dipped into a bow of gratitude, which Sebastian immediately dismissed with a wave of his hand.
+
+“Secondly,” he continued, “they’ll only arrive when I’m about to leave.” He paused, thinking. “And that will be in about a week and a half, I think.” He glanced at Molly, whose features had already settled back into her usual bright expression.
+
+Sebastian’s gaze softened. “So in a week plus, you’ll have the two new books of ‘Born Detective’ in your hands.”
+
+Just as he finished speaking, the bakery door abruptly swung open, and a figure stepped inside.
+
+A brilliant grin spread across Molly’s face as she noticed who it was.
+
+It seemed the baker had finally arrived.

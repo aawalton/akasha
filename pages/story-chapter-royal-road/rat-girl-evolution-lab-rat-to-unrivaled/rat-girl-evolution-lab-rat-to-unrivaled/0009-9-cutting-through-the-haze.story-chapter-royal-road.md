@@ -1,0 +1,149 @@
+---
+id: 89a82ba1-2bbc-5bd7-8bde-1954f0e38abc
+page-type-slug: story-chapter-royal-road
+title: "9: Cutting Through the Haze"
+slug: 0009-9-cutting-through-the-haze
+partOf: rat-girl-evolution-lab-rat-to-unrivaled
+position: 9
+ownLength: 2443
+unit: words
+publishedAt: 2025-09-07
+link: "https://www.royalroad.com/fiction/131412/rat-girl-evolution-lab-rat-to-unrivaled/chapter/2580955/9-cutting-through-the-haze"
+royalRoadId: "2580955"
+---
+
+The echoes of the door slamming reverberated through the entire room they had just stepped inside of, sending faint tremors through the metal framework. Stale air was filled with the sound, and several people glanced up at them.
+
+She choked down the urge to hide, only in part because there was nothing to hide behind, apart from the human who had brought her here in the first place. Stay calm. This is all part of the act.
+
+Instead, she forced her eyes around the room, trying to take in every detail. There was a lot, but also very little. The room itself was nothing but row after row of seats, almost all of which were filled with humans of all kinds. Soft, thin carpet covered the floor, and a similar substance lined the walls.
+
+Each of the sparse details stood out as she was guided to a pair of open seats, and the world began to slowly move.
+
+Large windows of glass filled in the frame of iron, and glowing gems above, linked by thin metal wires, provided a gentle glow of red light to supplement the sun.
+
+Her heart instantly froze in place within her chest, then tripled in speed by the next beat. Huge glass windows…
+
+Suddenly, that stale air felt very, very dry. No, it wasn’t the air that was dry, but her mouth. The air was heavy, weighing down on her tangibly, making it hard to move, to breathe. The faint glow of the gems bounced off of the shining glass and metal…
+
+Her breathing came faster, quickening with each instance as she labored to draw in that weighted air, fighting against it as her chest grew tighter and tighter. A human hand, filled with impossible, irresistible strength, reaching out to grab her…
+
+Only it was small, by comparison, and rested gently on her shoulder, rather than crushing her in its grasp. The owner of said hand looked at her, eyes mired in concern and brow furrowed. “Are you okay?”
+
+His whole arm was shaking, all the way up. So was she, the rat realized, her entire body trembling. Her shoulders had hunched in, and her gloved hands were gripping her arms so tightly she could feel the points of clawed fingertips digging into her flesh, threatening to draw blood.
+
+“I—I’m fine,” she managed to squeak out. “It’s just…”
+
+He smiled reassuringly. “First time?”
+
+She nodded. It’s the exact opposite, actually.
+
+“Don’t worry about it,” Durm said. “I hear a lot of people feel unwell on trains, especially before they have a chance to get used to them.”
+
+He paused, thinking. “Try to just look out the window, enjoy the views?”
+
+Within seconds, the area of human buildings had vanished, carried away by the mountains the monster they rode cut through and the forests that loomed over them in the gaps. Everything she could see was clouded by a faint haze of steam, one that only grew thicker and thicker as the train picked up speed, until the view looked as much as clouds as it did like nature.
+
+She observed it quietly, as though detached from her body, her mind sitting on its own in a separate plane. That didn’t help much, though it did stop the worst effects from spreading to her body again. It went mostly limp, staring blankly through the glass.
+
+The steam looked like smoke, now, even if it was lighter in color. Just like the fire the lab had burned in. Her own reflection was faintly visible in it, a smoky image painted on the window.
+
+It looked nothing like her, in the slightest. It was strange, in a way. How a single painful thought could warp all of reality into constant reminders of the suffering etched into one’s flesh. All the aching wounds of her body had vanished with her transformation.
+
+Or perhaps it would be more accurate to say that her body itself had vanished, leaving her trapped in this shell. Yes, shell, that was a good way to refer to it. It offered protection, safety, concealment from those who hunted her and a way to turn their fangs aside. It would be better if she could focus on that positive, rather than just how wrong it felt to see the reflection of a pale-skinned human girl drooling mindlessly, purple eyes staring blankly through her head without seeing.
+
+Maybe that was just the price she had to pay, for her escape. For her chance at vengeance. It didn’t really matter though, did it? Whether she had been willing to pay it or not. It hadn’t been a choice. That was the whole reason she needed vengeance in the first place.
+
+Jolting back to reality, she snapped her mouth closed and wiped the drool from it hurriedly. Her teeth hadn’t been fully humanized. It was best to avoid drawing as much attention to them—and the rest of her body—as possible.
+
+“Are you sure you’re okay, Violet?”
+
+The rat looked down at the sword. It seemed fine. The outside, at least. She wasn’t sure how advisable it would be to draw the blade all the way out to examine it fully in the middle of a packed… train, he had said. But if she didn’t, it was unlikely he would know about any issues with or damage to the sword in the first place.
+
+“Yeah, it’s fine.”
+
+She patted the hilt gently as she said that, giving him a fake smile. Or not so fake a one, maybe. It would be lying if she said there was no sense of comfort from the sword. Not just the blade itself, but what it represented.
+
+She had turned the tables on humans. She had been the one killing them. And she had come out of it better off and stronger than ever before.
+
+It was possible for her to win against them, something in all her life before the prior night, she had never truly believed.
+
+Perhaps that was why this human, Durm, was so interested in the sword. He took its name, and asked after it. He treated it almost like a person in its own right. And the original owner had done the same, even interesting it to his killing without a second thought. Speaking of him…
+
+Gripping an imaginary sword in her hand, she pantomimed out the motions of his strikes at 1/10th size, trying to match up the movements of her head with the movements of her hand. She still couldn’t figure out how he seemed to cut the air, whipping the sword about as though it was part of his body, only with a speed and sharpness unlike any living being she had ever seen.
+
+Was it by letting the weight move it? She ran through the simulation in her mind. The weight of the sword, lead with it, let the arm trail behind… No, that wasn’t it.
+
+Whatever he had done, as much as it pained to admit her, coming from a human, it had been a thing of beauty.
+
+Maybe if she…
+
+Her hand rose up, grip changing slightly, tight upon the phantom blade, and it was stopped as soon as the arc started. The feeling of dread started to creep back in.
+
+The strong hand of the man sitting next to her reached out, pulling her arm in. “You’re practicing the sword, no? Fairly new to it?”
+
+“Y—Yeah.” She nodded.
+
+“Then take some advice from me. You’re holding it all wrong, to start. That’s a light, elegant cut you just attempted, a sharp, smooth, slicing motion.”
+
+His words drew to mind that faint glow of purple fire that had been the arc of the blade before as he continued. “Instead of gripping it like a hammer, for that you want to use a handshake. It grants you the greater range of motion and acceleration needed.”
+
+“Hammer? Handshake?” Her head tilted with confusion, and she only realized her blunder a half second after it was too late to take back the inquiries and actions. “No, no! I mean—”
+
+He merely laughed, suspicion she had expected being merely mirth. “I know a proper society handshake might not be universal, but a hammer? What kind of backwater village could you have grown up in to not even be familiar with one of those?”
+
+“Or…” She froze as he leaned in, eyes sharp. “This isn’t your native language, is it? That’s not just a regional accent. It’s a whole different tongue bleeding through. Your original tongue.”
+
+“Oh, ah! Yes! That’s it!” Dangling from a cliff once more, the rat seized the vines that fell alongside her. “I grew up in a small cabin in the woods, raised by humans from an other land.”
+
+He suddenly reached for her head, and she dodged, flattening her body against the window. His arm stopped coming down, hovering in front of her forehead just a fist away from touching before he let it droop back down.
+
+“Do you not like head pats? I was only going to tussle up your hair a little bit…”
+
+And exposed my rat ears?! She wanted to scream. But that would be as bad for her as having let him touch would have been. Another knot of heaviness formed in her gut. She glanced at the window again, noticing how the haziness had grown even more pronounced.
+
+“No, please…” It didn’t require any acting to add the aspect of fear into her voice. The follow up excuse, though, was perfect improv that built upon the foundation of mistruth he had already handed her. “It’s forbidden, in my culture. I’m sorry.”
+
+“Forbidden? For men to touch girls? Are you a Motops? Or for adults to touch children? A Rhemmese?”
+
+The names and meanings spun together in her head. Were those different types of humans? Was she supposed to know them? Stick to the story, she told herself. He wants to fill in the gaps, to do the work for you to make everything connect.
+
+“No, I’m… We’re… Touching heads is bad.” She shook her head at that line. “I mean, letting someone else hold your head. It means you belong to them. Your life in their hands.”
+
+There was an element of truth to that. No rat she knew of, assuming most others were like those of the lab had been, would willingly let a human hold their head. It would be horrifying. Maybe a little bit too much of that leaked through. His face turned concerned.
+
+“And you’ve had bad experiences with that, haven’t you?” He didn’t let her answer the question. “Ignore that. I shouldn’t be pushing you. We were talking about handshakes, right?”
+
+Loosely, he held out his hand, and with a light encouragement clasped her own in it. She could feel the difference in strength from the size alone, even without the firmness and the impossibly steady, massive pulse of mana, the second largest she had ever come across.
+
+He shook her hand gently. “That’s a handshake. When doing the snapping movement of a sword strike, you want that same feeling. The looseness means that your arm can accelerate all the all through the range of motion, carrying the sword with it and guiding it for as long as possible.
+
+“As for the original, it’s a greeting, a mark of respect for another. Showing that you’re intending peace, reaching out weapon hands to one another with nothing in them, and feeling the very thing the other person uses to enact their will on the world. You can tell a lot about someone from their hands, you know.”
+
+“Respect…”
+
+That earned her a bright nod and smile. “Like for a trusted friend, or a reliable ally, or even an honorable opponent.”
+
+An opponent. That was something she could understand. This man was a human, her enemy. She couldn’t trust him. But he was attempting to treat her with kindness, even if only because she was masquerading as one of his own kind. At the very least, that made him better than those bastards from her past.
+
+An honorable opponent indeed. “I understand.”
+
+He pointed down to Violet next. “That’s an easy way to remember how to hold the sword. The sword is your friend, your ally. So you grip it with a handshake, and get to know it. It’s something you need to rely on with your life itself sometimes, after all. It’s no weak relationship.”
+
+Grip them firmly, and learn from them. That was what she had been trying to do the whole time, right? Or…
+
+She had been trying to grip what she thought the sword should be, not what it was. The first man had held the sword differently, used it in a different manner. But was that because it was the correct manner? Or because it was the correct manner for him?
+
+The hilt was far larger in her hands than it had seemed for him. He had let the motion of his wrist pull him, the weight of the blade guiding the strike, flowing down from forefinger to pinky. It was the same as what she had done just now, with Durm in their conversation. Letting the way that he saw her, what he wanted to say, the weight of his assumptions and preconceptions, guide her lies so that they fit all the better.
+
+The sword was heavier for her, so she shouldn’t try to use it with great speed, rushing the motion. She didn’t have enough muscle for that, maybe not even if she enhanced herself with mana. At least, not enough to trust against any other able to wield it.
+
+For the blade, that seemed to resonate. It had all of its weight for a reason, just the same as its length or its sharpness.
+
+Outside, the steam had finally clouded over the window entirely while they spoke. The outer world was nothing but a dim haze, just like it had been for all her life behind the pane of glass. She channeled all her fear, her panic, and her faint, flickering, newfound trust down into the sword, feeling the mana within it pulse in time with her heart.
+
+Then it changed, the source becoming the servant, and her heart pulsing in time with the mana, the faint cost of the blade instead becoming a faint sharpness that tingled her fingers and palm, raced up her arm, and settled in her eyes. The fog began to clear, both within and without, and newly empowered eyes pierced through the haze of the water-filled air.
+
+Outside, even though the smog of human creation, she could see the outside world again.
+
+It was beautiful.

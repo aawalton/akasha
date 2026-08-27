@@ -1,0 +1,129 @@
+---
+id: 60549d6a-22ea-542f-9dce-1616ab1b7b42
+page-type-slug: story-chapter-royal-road
+title: "Chapter 32: Weak"
+slug: 0034-chapter-32-weak
+partOf: quiet-life-of-the-mute-archmage-op-archmage-academy
+position: 34
+ownLength: 2643
+unit: words
+publishedAt: 2026-07-15
+link: "https://www.royalroad.com/fiction/167476/quiet-life-of-the-mute-archmage-op-archmage-academy/chapter/3682452/chapter-32-weak"
+royalRoadId: "3682452"
+---
+
+Molly gazed down at them, a worry they could not see settling into the lines of her hidden face. Her eyes lingered on Fiona the longest, she was the most wounded among the three, though much of the injury had already been healed. A faint, tight breath slipped from Molly's lips. She would have arrived sooner, had it not been for the other wyverns she had to subdue.
+
+"Fascinating." The voice that broke through the night was vast, each syllable dragging with it an unspoken weight, a declaration that seemed to crawl into the marrow of the world. "I didn't know a human could stop my decree—and easily, no less." The tone was almost too calm. It echoed endlessly, a resonance that burrowed into the roots of existence, and the sky above began to lose its color.
+
+Molly lifted her gaze. Her [Tempest Dial] was gone, neither dispelled nor unraveled, but killed, as though the very concept of the storm had been struck dead. The heavy rain ceased in an instant, the last droplets falling like a final exhale before the air turned still. Her eyes climbed higher, tracing the fractured reality where the seam between worlds gaped wider. The enormous skeletal hand pulled itself further through the tear, and then a great skull emerged slowly from within those depthless shadows, its eye sockets burning with a cold, sickly violet that pulsed like a dying heartbeat.
+
+Molly watched in silence as the head came forth from the parted reality that led to the underworld. A towering, desiccated corpse followed, far more ancient and withered than any common skeleton. Its old bones were darkened with the stain of ages, the ivory long since surrendered to the color of root and grave-earth. It wore the black tattered remains of a robe, stained with things better left unnamed, the fabric crumbling at its edges. Long, bony fingers stretched and clamped at the air, testing their weight against the world of the living. Molly lifted her head to meet the gaze of the being before her. She stared at the skull fixed in a permanent, knowing grin.
+
+A displeased frown settled onto her shrouded features. She knew what manner of creature this was. Based on all she had studied, all that Jen had taught her through long hours of instruction. This being was a lich, and based on its presence, its size, the sheer suffocating pressure that radiated from its frame, Molly suspected this lich was an ancient one, a creature that had cheated life and death itself, twisting the natural order into a mockery of immortality.
+
+As if sensing her displeasure, the lich chuckled. The sound warped the air around it, bending the atmosphere until it pressed against Molly like a jest made at her very existence.
+
+She paid the mockery no mind. She simply kept staring at the lich, her eyes unblinking within the shadows of her hood, as her thoughts churned through calculations. She was deciding what to do about this bone of an existence. She was estimating how to minimize the destruction that would inevitably erupt from a battle between a being of its caliber and her own restrained power. Most of all, she was trying to devise a way to bypass the lich's magic immunity, all while doing her utmost not to rely on her affinity magic again.
+
+Oblivious to the silent calculations spinning behind Molly's shrouded face, the lich spoke. "I assume you're here to stop me?" It asked, the question delivered with the casual patience of something that had all the time in the world.
+
+Molly did not reply immediately. She stared at the towering corpse for a long, suspended moment before offering a brief, deliberate nod.
+
+A sigh escaped the lich. "I'm afraid I cannot allow you to do that." It stretched out one skeletal hand. "But since you've piqued my interest, I can let you live. So I ask of you, back away."
+
+Molly did not reply to the lich's words. She floated calmly in the exact spot she occupied, her black robes stirring faintly with the last whispers of the dead storm. Her gaze shifted away from the lich and settled on the three figures below, Fiona, Sebastian, and the green-haired woman whose name she did not yet know. She stared at them for a brief moment before reaching inward, toward the shared consciousness that tethered her to a presence far more gentle than the one looming above.
+
+'Nom Nom.' She called internally, her mental voice steady despite the weight of the moment. 'Let's follow with our plan.'
+
+'Don't worry,' Nom Nom's voice echoed back, warm and sure. 'Leave them to me and my family.'
+
+Molly watched as Nom Nom descended from the sky, flanked by two other Phragons. Their translucent forms cut through the lingering haze with a silent, feline grace. When they landed on the muddy ground, their claws sinking into the churned earth, they let out low, rumbling calls while gesturing with their heads, an unmistakable command to climb onto their backs.
+
+Fiona appeared confused at first by the sudden arrival of the creatures, her eyes flicking from the Phragons to the hooded figure suspended in the sky and then to the towering horror of the lich. Understanding hardened her expression a heartbeat later. She turned to Sebastian and Zen and gave them a sharp nod. Sebastian returned the gesture without hesitation, hoisting himself onto one of the Phragons with the practiced ease of someone accustomed to strange mounts. Zen climbed onto the second, her stoic face betraying nothing even as her eyes lingered on the lich for a fraction of a second longer than necessary. Fiona swung herself onto Nom Nom's back, her grip finding purchase on the cool, velvety surface of the translucent hide.
+
+Nom Nom cast one final glance upward at Molly. 'Be careful. I can feel this being's very existence as a flaw. It is very dangerous.'
+
+A small smile lifted the corner of Molly's lips, hidden within the shadows of her hood. 'I will.' She projected the thought. 'Be careful too, and fly as fast as you can, alright?'
+
+'I certainly will.' Nom Nom's projected. She turned to the other Phragons, and without a sound exchanged, they understood. With a synchronized beat of their broad wings, the creatures launched into the air, flying swiftly toward a direction far from the massive battle that was about to erupt. Molly watched as Nom Nom and the others dissolved into the darkness of the night, their silhouettes shrinking until they were nothing but ghosts against the horizon. A wave of relief washed through her when she knew they would be safe. Before coming here, she had made certain that no one else remained in the forest, no stragglers, no hidden souls left to be caught in the coming storm.
+
+A low chuckle drew her attention back to the lich. She turned to face it and saw the ancient creature shaking its skull as though pitying a choice it considered foolish.
+
+"Humans..." The lich's voice dropped into a dangerous growl. "You never learn."
+
+Then, as if the world itself held its breath, the lich's voice thundered outward, rumbling through the entire forest, making even the sky dye itself a deeper, more lifeless grey.
+
+"I, Moés, hereby vow..."
+
+The voice was not merely heard. It was felt, a resonance that vibrated through the very marrow of existence. It was not simply sound. It was power, raw and unfiltered, tearing at the fabric of reality itself.
+
+"...the destined death of everything that chooses to stand in my path."
+
+The rumbling began again, a deep, rolling growl that seemed to rise from the earth and descend from the sky in equal measure.
+
+"O death... listen to the being that once defied you. Listen to the one whom you cursed but used the curse as a weapon."
+
+The lich raised a skeletal arm, and with that motion, reality itself seemed to fracture. Death coalesced around its bony hand, rippling like living shadows that devoured both air and light with an insatiable hunger. The space it touched cracked, spiderwebbing outward with jagged, splintering lines, as though the very concept of existence could not endure the pressure of that grip.
+
+"Listen... and become my blade once again."
+
+The rift it clutched splintered further, widening like a wound forced open, and from its fathomless depths, the lich pulled forth a weapon.
+
+A scythe.
+
+The scythe was a thing born of nightmares. Death formulas were etched into every inch of its form, swirling around the weapon like a sentient storm of silent endings. The blade itself seemed to drink the surrounding light, leaving only a void where its edge passed. The scythe pulsed with a rhythm that felt alive, a slow, thrumming heartbeat that was not its own but an extension of the lich's dreadful will.
+
+The sky greyed further. The world fell silent, as if bowing in submission to the lich's unveiled presence.
+
+The lich raised a single free finger and pointed it directly at Molly.
+
+"Before I finish you off, I would like a mutual introduction between us, since you are the first slightly important person I've met upon returning to this world." The lich paused, its skeletal head tilting with something that might have been formality. "My name is Moés Má-vet." Its skull dipped downward in a shallow bow. "What is yours?"
+
+Molly stared at the lich. She did not reply, not because she refused, but because she could not. She was mute. After a heartbeat of silence, she lifted her hand, pointed to her mouth, and shook her head slowly.
+
+"Ah... a mute," the lich said upon noticing the gesture. "What an impossible existence you are."
+
+Just as the observation left the lich's lipless mouth, a voice entered Molly's mind. 'So... what can I address you as?'
+
+'Molly.' She projected the thought calmly. And the moment the silent syllable departed from her consciousness, the rough white symbols that crowded the night air convulsed inward, collapsing toward her feet like light being sucked into a closing wound. They arranged themselves with violent, urgent speed.
+
+The first symbols formed the image of a great, bold X—two slashing lines intersecting at their exact centers, their ends flaring slightly outward like the tips of snapped threads. This was the sign of severance, of a presence crossed out from the page of the present. Following it, nine smaller X-shapes spiraled around the central mark, each one nested within the next in a shrinking gyre that pulled the eye toward the vanishing point at the core. Between them, the remaining symbols clustered into tiny, fading motes that blinked in and out of existence, creating the completed root—a root that spelled departure, the erasure of location, the step between spaces.
+
+The final symbol was the structure that encapsulated the entire array. Then, with a hollow, rushing sound like air flooding a vacuum, the completed departure formula was suddenly dyed a deep, swallowing indigo, the color of a door slammed shut, the color of space folding inward upon itself.
+
+Molly lifted her gaze and stared directly at the lich as she concluded inwardly. 'Molly Valtoria.'
+
+'Molly Valtoria,' the lich repeated, the syllables rolling through its mind with the slow deliberation of something tasting a rare vintage. 'A very nice name you have.' A sigh escaped the ancient being as it raised its scythe, the death blade dyeing everywhere it passed through a sickly grey. Then, with the deep, hollow voice of finality, the lich spoke its verdict aloud.
+
+"Too bad that this is where you end."
+
+And then it began.
+
+In an instant, Molly vanished. There was no blur of motion, no fading, no transition the eye could track, she was simply deleted from the spot, as if she had never occupied it at all. The lich's figure blurred in the same heartbeat, and the forest around them was immediately swallowed by a chaotic maelstrom of wind.
+
+Almost simultaneously, high above in the night clouds, a new set of rough white symbols surged into being. They did not shudder or drift, they snapped into place, summoned by an unspoken twin command that answered only to Molly's will.
+
+The first symbols formed the image of a clean, luminous ring, a perfect 'O' of unbroken continuity. The 'O' hummed like a portal's rim, whole and welcoming. Surrounding this central mark, nine long, slender lines radiated outward in a starburst, each one tipped with a tiny arrowhead pointing away from the center, as though guiding someone back into the world. Between these lines, smaller symbols shaped themselves into soft motes of light that spiraled gently inward, forming the completed root—a root that spelled arrival, reassembly, the assertion of presence, the completion of the step.
+
+The final symbol was the structure, a great circle that encapsulated the entire arrangement. Then, with a gentle, rising chime that cut through the chaos like a single clear note, the completed formula was suddenly dyed a soft, luminous gold, the color of dawn touching a threshold, the color of a door swinging open.
+
+From the center of the emblem, Molly's figure rematerialized as though stepping through an invisible curtain, fully whole and present. She dissolved the [Blink] formula with a flicker of thought and moved without pause. Her hand swept through the air in a quiet, fluid dance, and she silently commanded the very fabric of reality. A soundless utterance rippled outward from her will, and the rough white symbols drifting through the clouds obeyed without the slightest hesitation. They surged in front of her, gathering in a massive, churning wave. The symbols began taking shape, arranging themselves with violent precision into the structure of the [Tier 10] formula—[Void Hole].
+
+The structure wove itself into a perfect circle, encapsulating the entire arrangement. The completed spell was the spitting image of a vast gravitational force, something that seemed to tear a hole into the skin of reality itself. The air around it warped and bent into impossible angles for the eye to follow. In an instant, the formula dyed a dull, dark bluish-purple, the color of a bruise on the flesh of the world.
+
+A massive suction force erupted from the completed emblem as Molly hurled it toward the already-appearing lich, whose scythe was raised high for a descending strike.
+
+The blade came down and sliced through the [Void Hole] before the spell could even reach its target. Without stopping, without so much as slowing, the lich swung the scythe again. The tip of the death-blade arced toward Molly's throat in a motion so fluid it seemed to erase the distance between them, the sky dyeing a deeper grey in its wake. Molly's figure deleted from the spot, gone as though stricken from the record of existence. The lich's gaze snapped behind it, and there she was, already hurling another [Void Hole] with a speed that normal eyes could never hope to follow.
+
+The lich flicked its death scythe with the casual ease of swatting an insect. The [Void Hole] split cleanly in two, its gravitational maw collapsing inward before the spell deleted itself from reality entirely.
+
+The lich's eye sockets, burning with that cold, sickly violet, settled on the black-robed figure floating amidst the clouds. Its skull tilted slightly to the side, a motion of idle curiosity rather than exertion. When its voice came, it was a low, mocking growl that seemed to seep into the very air.
+
+"Weak."
+
+Molly's gaze hardened at the word, her eyes narrowing within the depths of her hood. But soon after, a small curl lifted the corner of her lips. She was impressed. The lich had just shown her exactly what she had been testing for.
+
+By the way things were playing out, Molly suspected she might just have to increase her output.
+
+Perhaps more than usual.

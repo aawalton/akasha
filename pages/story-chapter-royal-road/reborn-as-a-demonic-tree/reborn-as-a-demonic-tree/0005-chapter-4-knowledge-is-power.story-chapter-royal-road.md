@@ -1,0 +1,159 @@
+---
+id: d0356c09-9c09-5d0c-be35-4465cf56c045
+page-type-slug: story-chapter-royal-road
+title: "Chapter 4: Knowledge is Power"
+slug: 0005-chapter-4-knowledge-is-power
+partOf: reborn-as-a-demonic-tree
+position: 5
+ownLength: 2032
+unit: words
+ownProgress: 2032
+publishedAt: 2023-01-07
+link: "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/1081384/chapter-4-knowledge-is-power"
+royalRoadId: "1081384"
+markedReadAt: "2026-06-29T19:01:39.127Z"
+---
+
+Autumn arrived with good news.
+
+"Tree, I won!" The girl seemed in an ecstatic mood as she sat on the bench. "I didn't lose a single round, and by the end, they were calling me Demoness Stella Crestfallen! How funny is that?"
+
+"I finally got her name!" Ashlock was happy to finally learn the name of the annoying human that kept interrupting him. Referring to her as 'girl' had been getting exhausting. Sadly, Stella kept calling him Tree, but that was fine.
+
+"I even accidentally killed the scion of the Ravenborne family. Their Grand Elder was beyond furious, but what could I do? The poor boy froze up and didn't block my attack." Stella's victory speech was interrupted by a servant.
+
+"Miss, would you like some tea?"
+
+"Sure. Bring some for my friend here as well." Stella said while patting Ashlock's bark.
+
+The servant left with a sly smile that Stella didn't seem to notice. She was too busy recounting her epic one-sided victories at the tournament.
+
+Ashlock found the servant's behavior odd, so he activated his {Eye of the Tree God} skill, and his world view shifted from the purple grass courtyard to an ariel view of the mountain. "Seems the view range has expanded a little." Ashlock could now see more than just the mountaintop; the mountain's base was now in view, and he could even see the slope of a neighboring mountain. "Now, where is that servant..." Ashlock rotated the view to try and peer through the windows, and eventually, he found a room near the exotic garden courtyard with someone very similar looking to the servant through the window. It was hard to make out what was going on inside, but from his previous investigations, this room should be some kind of alchemist room.
+
+"I believe the servant quarters and kitchen are on the other side of the pavilion..." Ashlock felt making tea in an alchemist's room wasn't too far-fetched for a cultivation world but was still suspicious.
+
+"Tree, I need to repay you..." Stella was leaning against his bark and playing with the earrings in her fingers. "I would give you these back, but what use are earrings to a tree? Is there something else you want?"
+
+"Food!" Ashlock wanted to shout. "If I got a few attack skills, I could hunt these darn birds that perch on my branches, but instead, I get language translation and some overpowered earrings."
+
+"Tree, I know you can hear me... do you understand me, though?" Stella let out a sigh. "Trees like knowledge, right?" Stella sat cross-legged on the bench, turned to face Ashlock, and placed a hand on his bark. Purple flames materialized on her palm and softly spread out on Ashlock's bark.
+
+"Bitch are you burning me?!" So after everything he had done, she was scorching him?
+
+"Wow, tree, to cultivate to the 3rd realm in only a few years is very impressive! Of course, I am no tree expert, but I heard they usually cultivate very, very slowly."
+
+The invasive Qi was a little probing but, overall, felt rather nice. Ashlock tried to push her Qi away, but even inside his body, it was like trying to ward off a tsunami with a shovel. "How does such a young girl have so much power? Are all humans this fast at cultivation?"
+
+Stella had her eyes closed, and she let out a long breath. "While I attempt to impart a cultivation technique on you, let me tell you the realms. The Qi Realm, the first realm of cultivation, has nine layers. People in the Qi Realm can strengthen their bodies with ambient Qi and live long, healthy lives. Some also learn martial arts and can smash boulders while in the Qi Realm."
+
+Ashlock tried to ignore the tickling sensation of Stella's Qi inspecting his body and listened intently to her talk. The cultivation systems for man and tree may differ but learning the strength of his enemies was always ideal. "So I am in the Qi Realm, and I have six more layers until reaching the next realm," Ashlock grumbled. "It's been four years, and I am still stuck in the 3rd layer. At this rate, I will be a million years old before reaching the highest realm!"
+
+"Then, there is the Soul Forge realm after the Qi Realm. This is where the weak fail and the path of a true cultivator begins. The Soul Forge realm has no layers and is achieved once the cultivator has formed a soul core."
+
+Stella then mumbled to herself if a tree could even understand such terms. "A soul core is hard to explain in tree terms, but the important thing to know is if a person fails to form their soul core, they become a cripple and can never cultivate again."
+
+Ashlock could obviously understand what Stella was talking about to some degree. "But what if I fail to form a soul core? Will I become a cripple too?" Ashlock wondered. Unlike humans, trees can lose a branch and, over time, grow it back. "Just like the branch destroyed by those blue energy cultivators. It has grown back better than ever already." Ashlock was now a little afraid of reaching the Soul Forge realm. Could Stella guide him somehow?
+
+"Once a cultivator has formed a soul core, they can funnel the ambient Qi in the air through the soul core to produce soul fire. The Soul Fire realm has nine stages, and it's the one I am in." Stella smiled as she flexed the purple flames that coated her arms. "This is why without a perfect soul core, a cultivator is a cripple. So make sure to take your time forming one mister tree."
+
+Ashlock wanted to ask why her soul fire was purple, but unfortunately, she didn't elaborate.
+
+"Then there is the Star Core realm..." Stella held back from crying at the mention of the realm that claimed her father's life. "Sorry... hard to talk about that one..." Stella sighed before continuing. "And above the Star Core is Nascent Soul and Monarch, but I'll speak of those another time. Those two realms are a long time away for the both of us."
+
+Ashlock was itching to discover the potential heights he could reach, but maybe knowing the horrors a Monarch cultivator could achieve would give him nightmares. He was just a little Qi Realm sapling, after all.
+
+"Miss, I have brought the tea." The servant stood at a respectful distance from Stella with two wooden cups of steaming tea in her hands.
+
+"Okay, I am busy... give the tree his tea and leave mine beside me," Stella said with her eyes still closed and purple flames cascading out of her hands.
+
+The servant's eye twitched, but she complied with Stella's words. She walked over to one of Ashlock's exposed roots and dumped the tea.
+
+[POTENT POISON DETECTED]
+
+Ashlock's brain buzzed as his body automatically acted to suppress the poison. It felt like someone had poured boiling oil on his foot—the pain was tremendous. Stella seemed to feel the chaotic flow of his Qi and frowned.
+
+"Calm down, tree. I'm almost done." Stella patted his bark and continued formulating a cultivation technique for him.
+
+The pain lasted for a minute but then thankfully subsided. "What a lethal poison! That felt more like cyanide than any poison I know." Ashlock was no expert, but he theorized that despite his low realm, his enormous size and abundant Qi helped suppress the poison. Taking a look at the concentrating Stella, Ashlock couldn't help but doubt she would survive drinking such a poison.
+
+[Skill {Basic Poison Resistance [F]} Learned!]
+
+"Wait... I can learn skills?" Ashlock wanted to smack himself mentally. He had assumed he could only gain skills through the system's daily sign-in. The possibility of learning new skills hadn't even crossed his mind. "Status!"
+
+[Demonic Spirit Sapling (Age: 4)]
+
+[Qi Realm: 3rd Stage]
+
+[Skills…]
+
+{Eye of the Tree God[A]}
+
+{Language of the World[B]}
+
+{Devour[C]}
+
+{Basic Meditation[F]}
+
+{Basic Poison Resistance [F]}
+
+"Sure enough, I actually did learn a new skill!" Ashlock was ecstatic, but the situation demanded his attention. It was safe to assume that the other cup of tea was also poisoned. "Maybe the sign-in can give me something helpful?"
+
+Idletree Daily Sign-In System
+
+Day: 1818
+
+Daily Credit: 120
+
+Sacrifice Credit: 0
+
+[Sign in?]
+
+"Only 120 credits. How pitiful. Yes, sign in."
+
+[Sign in successful, 120 credits consumed…]
+
+[Unlocked a C-grade skill: Qi Fruit Production]
+
+"Right... That doesn't sound useful at all." Ashlock activated the skill, and a menu appeared in his mind. It let him select many properties for the fruit, such as size, taste, and growth rate.
+
+He could even give properties of skills to the fruit, such as {Basic Poison Resistance}. "To grow a fruit, I have to consume my Qi?" Ashlock frowned. Any Qi he spent he had to regain through meditation, and since his meditation technique was F grade, it would take far too long to replenish the lost Qi.
+
+Deciding to at least test it, Ashlock picked a fast-growing fruit that tasted like an apple and gave it a {Basic Poison Resistance} buff. According to the menu, anyone who ate the fruit would gain poison resistance for a day.
+
+"Five months!?" Ashlock glared at the menu that had calculated the minimum growth time of the fruit while using one hundred percent of the Qi he accumulated from meditation. Removing the taste shaved off a month and then removing the added skill brought it down to three days. "So I can produce a tasteless fruit that contains a little Qi in three days but adding a skill or flavor greatly increases the production time..."
+
+Ashlock may be a magical cultivating man-eating tree. But he was still a tree. To a human, three days is a long time. To him, it was nothing. Sadly the situation was urgent, and Stella had picked the wrong teammate for a situation like this.
+
+"Is there any way I can warn her?" Ashlock mulled over the problem as he glared at the impatient servant whose eyes shifted between Stella—emitting a scary amount of soul fire, and the steaming cup of tea beside her on the bench.
+
+"Phew!" The purple soul fire dissipated, and Stella stretched her back. "This will be more complicated than I thought... unsurprisingly, a tree's biology is far too different from humans, so all the techniques I know won't work. But, I guess I can check out the library tomorrow for you..."
+
+That was to be expected, but Ashlock was still disappointed. A better meditation technique would really help him out right now.
+
+"Miss, your tea is getting cold."
+
+Stella gave the servant an odd look. "Why are you still here? Is there anything else?"
+
+The servant gulped and bowed. "No, miss..."
+
+"Thank you, that will be all." Stella waved the servant off as she seemed lost in thought.
+
+The servant turned to leave, and Stella absentmindedly brought the still-warm tea to her lips.
+
+Ashlock cursed. There was a chance she would survive; it was even possible the tea contained rare ingredients that helped with cultivation but were harmful to trees. But Ashlock didn't like the suspicious behavior of the servant.
+
+If he had another method to convey his thoughts, he would definitely do it. But alas, with his limited arsenal of combat or communication abilities, this was the only option.
+
+Ashlock targeted the servant and cast {Devour} with as much Qi as possible. The ground rumbled as black vines surged out of the purple grass.
+
+Stella was startled by a sudden scream and spilled some tea onto her dress; it sizzled as it dissolved some of the dress. Stella's soul fire erupted, and the tea instantly evaporated, letting off a nasty stench. Stella dropped the cup, and her cold eyes looked up at the servant tied up by many vines crushing her to death.
+
+Ashlock felt the message had been conveyed and the crisis averted, so he tried to cancel out the {Devour} skill...
+
+[Skill cannot be canceled]
+
+A few seconds passed, and the servant cried as blood erupted from her mouth like a fountain.
+
+[+5 SC]
+
+"Well, shit."

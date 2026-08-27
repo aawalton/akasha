@@ -1,0 +1,139 @@
+---
+id: 519dd95f-7153-59b9-bfaf-97fba0f7d327
+page-type-slug: story-chapter-royal-road
+title: "10: Clean Breaks"
+slug: 0010-10-clean-breaks
+partOf: rat-girl-evolution-lab-rat-to-unrivaled
+position: 10
+ownLength: 2254
+unit: words
+publishedAt: 2025-09-09
+link: "https://www.royalroad.com/fiction/131412/rat-girl-evolution-lab-rat-to-unrivaled/chapter/2586488/10-clean-breaks"
+royalRoadId: "2586488"
+---
+
+“Well, does that make sense now?”
+
+The rat jolted back around, mind struggling to catch up for a fraction of a second. Right, right. He didn’t know about her mana breakthrough, probably. It would just look to him like she had grasped the hilt of the sword and gone silent, lost in the sensation for a moment.
+
+Durm smiled expectantly, awaiting an answer. She gave him one.
+
+“Thank you. I… I think I understand now.”
+
+And she did, even if a human teaching her such a thing opened a whole new world that lacked understanding. At the very least, she was now more confident of her ability to see the new answers needed clearly.
+
+Not just the little things of the train that now stood out more, like how the seats, below the cushions and metal framings, were nothing but an empty space covered with hanging cloth. Or how the humans all around seemed to be lost in squares of thin sheets, paper, she knew it was called, which for some reason intrigued them deeply.
+
+But it opened up that precious, beloved outside world, and she was able to see it clearly even as it defied her expectations.
+
+For example, the way that the land behind the steam had started to change, leveling out as forests became sweeping plains of grass and mountains square, flat plateaus. In time, they grew more and more sparse of trees, until there was nothing but a flat expanse of grass for as far as she could see.
+
+Then it got strange.
+
+The plateaus became neater, more orderly, more square. Strange plants cropped up on them, the dirt impossibly leveled by some unnatural means to force them into neat rows that water flowed through, and then down the next plateau to be used in those rows of plants below it as well.
+
+The train wasn’t going down with the land, and she watched as it drew farther and farther away from the ground below, even as human buildings began to crop up. At first here and there, scattered and small, but they grew closer and closer as the train continued to slow, until they were in the midst of massive blocks so close to one another that she could imagine jumping between their windows.
+
+That was, if she was willing to brave the falls, the shortest of them being several dozen stories tall, tiny dots on the ground far below all she could see of humanity on the streets. Clouds of steam issued from strange blocks of buildings here and there, often paired with the flashing of gems. The train trudged through one after another. Then it came to a stop entirely, and a glance back to the other window showed the rat that it had pulled up to on the buildings, almost entirely docked within it but for the side which she had been looking out the window of.
+
+Durm laughed again, and she found herself looking at him in perplexion. What was so funny? He answered the thought a moment later, as if he had plucked it from her head.
+
+“I’m sorry, but I love seeing you people from the wild areas get stunned by a big city for the first time. I mean, you would think we had just been swallowed by a dragon, not a building, looking at you.” He choked down another chuckle.
+
+She didn’t have time to respond before he froze.
+
+Every ounce of blood drained from his face, and his eyes locked onto the entry to the train car, an expression spreading that she could only name as dread.
+
+She turned, following his gaze. The horror spread to her own features as well, twisting them against her best efforts.
+
+It wasn’t the fact that half a dozen men, moving in perfect order and coordination, had just filed in that scared her. It wasn’t their weapons, polished, perfect, and handled with practiced ease, that made her heart leap up into her throat. It wasn’t even the ominous, dull hum of magic spreading out from them, tingeing the air with their will manifest which caused her to clench her teeth down with full force to stop their points from chattering.
+
+It was the long, pristine white coats that each and every one of them wore.
+
+It wouldn’t be accurate, exactly, to describe what happened to her as being struck with a jolt of fear. It wouldn’t quite be right to say that she became still. Nor would it be correct, in the strictest of terms, to say that she lost her mind.
+
+The rat was instantly filled with a crippling terror so great that from her eyes to her breathing, she completely and utterly froze, her mind going so blank as for not a single thought to appear in it, all of them drowned in the tide of panic that swept her under.
+
+When her sanity returned, just barely enough for her to make sure that her heart still beat, all she could focus upon were the men. Every detail leapt into her mind at once in a mix of observation and recollection, blending memory and reality into one.
+
+These coats aren’t lab coats, she realized. They were made of a more robust material, and the pockets were fewer and longer. They also had proper belts underneath, for holding blades, not for holding the flaps closed.
+
+If anything, they were more like unsullied white cloaks, optimized for battle.
+
+Or not unsullied. A closer look, with mana trickling into her eyes, revealed that each and every one was covered in countless layers of stains, each so bleached as to be almost invisible to the naked eye. Rips as well, mended with white thread of patches of clothing usually less mired with past markings.
+
+She had only a second to take all that in, before her instincts screamed at her to move, as every one of their eyes locked on to her in kind. Durm moved first.
+
+With his aura of mana flaring out fully, he strode up to them, panic from a second prior gone.
+
+“Gentlemen!” he said. “My allies, my fellows, my friends. To what do I owe this great pleasure?”
+
+No, they hadn’t been looking at her, save for the fact that she had been next to him. Every last one of them switched to him, before one turned around to secure the train door behind them. The foremost one stepped forwards in kind, ignoring the offered handshake and scowling through a face that had nothing but contempt written in its many scars.
+
+“Durminus Guardian Leheaux.” The words rolled from his tongue as though he was pained to keep them there. “You know full well ‘to what’. The only question is if you will die calmly on the execution block, or screaming in pain, right here, right now.”
+
+Durm, Durminus, she supposed, raised his hands in a reaction that looked as if he had intended it to be panicked, but hadn’t had his heart in it. “Woah, woah there. Take a look around, friends. You’re Custodians of the Church, and you’re trying to pick a fight with one of it’s loyal servants? Okay, that makes sense. I suppose you might have some reason for hating me, even if what it might be is outside my realm of knowledge.”
+
+He paused, casting his hands and eyes around the room. “But this much collateral damage? That’s not like you, Jel. You’re a shining spear of justice, right? The one who purges dangers?”
+
+The scarred man pulled something out of his pocket. A long, rolled piece of paper, which he held up and let unfurl before speaking. It hit the ground before it stopped rolling.
+
+“A list of your crimes, then. Seven counts of grand theft, eighteen assaults of church members, one count of heresy, one count of murder, and other things that don’t carry the death penalty, which I will therefore omit.”
+
+To the accused’s credit, the shock on his face and in his body language looked real. At least, to all those watching. To the accuser in front of him, the dull resignation in his eyes shone through all too clearly.
+
+“The Gilded Library holds no lies,” he said, with all the weight of a line repeated thousands of times.
+
+The other man met his eyes and nodded. “That’s what I was about to say to you.”
+
+“But here, of all places? Even pretending for one ridiculous moment that all those charges aren’t made up, the middle of a crowded train is—”
+
+“Perhaps I should not have omitted the history of defrauding and running cons on church members, then. Maybe it would have quelled your tongue.”
+
+Ever since they had first started talking, the rat had been doing two things. Taking count of her pockets, and trying to quash her panicked memories for long enough to think of something, anything she could do to get out of this.
+
+Humans in white coats, auras of cruelty dripping off of them…
+
+Gems, glowing in the ceiling with heat and light…
+
+Huge glass walls, offering no concealment for the hunted…
+
+Her, small, far smaller than those before her…
+
+She forced the memories from her head, and they were forced right back into it by the world around her that recreated them.
+
+Humans in white coats, who she needed to escape from. A network of gems in the roof and walls, filled with light. The massive display of windows, panes of wide, pure glass. And her, as small as ever in comparison.
+
+That was how she obtained the plan.
+
+The gems of the lab had been meant to give heat primarily, rather than light, to its inhabitants, and that was what caused them to explode into flames as they drained the mana from her. They had also been linked, somehow, intangibly, so that what happened to one happened to all.
+
+That was presumably the purpose of the copper lines leading from each one to the next, here. The light of the one next to her flickered, for a moment, as she lay a hand upon it. Then nothing. No response from her mana.
+
+The two men continued their conversation, though others had begun to creep forwards, walling Durm off as he protested.
+
+“You can’t mean to say that I’m such a threat as to warrant getting innocents killed, right?! These are trumped up falsehoods! Complete and utter lies!” A hint of an accent slipped into his words. “It’s just not right, hear me? It’s a blotted setup!”
+
+The rat touched the gem again, trying to force the mana that had gathered in her hand out of it. Nothing happened. The voice of her temporary companion grew louder, more panicked, and less refined. She tightened her grip until the faint edges left of the stone dug into her hand through the glove. Still nothing.
+
+The scarred man reached for his belt again, this time with more haste. That was when the train exploded into blinding light and shattering glass.
+
+Her claws had finally worn through the tips of the glove fingers, and the moment they pressed against the construct it drank in mana until the light of the whole room was more eye-searing than staring into the sun.
+
+She had been the only one to expect that, her eyes already filled with mana sharp enough to cut through, and her other hand whipped out, sending the strongest stream of force she could at the window directly next to Durm, before sweeping it back along the row. Cracks appeared along the length of the train, but only the first one broke. That was fine.
+
+With her other hand she drove the pommel of her sword into the glass of her own window, and it shattered in a single strike.
+
+Screams filled the air, and the weight of a dozen different auras of mana springing to life at once was tangible. The rat didn’t care, focused on nothing but her own escape.
+
+When the light cleared, both she and Durm were gone from the sight of the white coated men, the scarred one instantly appearing at her window to peer out, and then was back at the one on the opposite side with his sword out and a spell in his hand by the time his men had scrabbled for the own weapons.
+
+He fired it out, a flash of dull red light that seemed to suck the air out of the room, and a distant sound of cracking stone came in a second later. He clicked his teeth in irritation, and shouted a command. “Half of you Rankers follow me! The other half, out the other window! You, Mlon, circle around, make sure he doesn’t get on any other train!”
+
+Not a single passenger moved until they were gone, the last traces of their mana lingering in the air. Then, with a host of reactions from laughter to crying, they gathered their things, formed into groups, and with the urgings and apologies of a uniformed woman who opened the door, filed out one at a time, leaving the wrecked shell of the once lively train behind.
+
+It was only a minute after that silence truly settled in that a head crowned with white hair and rounded ears poked out from beneath one of the seats, sneaking a glance around.
+
+Within her heart, the rat formed a feeling she never thought to aim at a human, even if it was only at his usefulness.
+
+Thank you for being my bait, Durm.

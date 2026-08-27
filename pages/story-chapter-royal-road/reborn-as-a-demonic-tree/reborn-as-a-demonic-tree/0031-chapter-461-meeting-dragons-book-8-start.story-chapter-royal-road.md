@@ -1,0 +1,235 @@
+---
+id: f095531d-9bac-5789-ad77-ed37be0eec2d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 461: Meeting Dragons (Book 8 Start)"
+slug: 0031-chapter-461-meeting-dragons-book-8-start
+partOf: reborn-as-a-demonic-tree
+position: 31
+ownLength: 3328
+unit: words
+ownProgress: 3328
+publishedAt: 2025-07-28
+link: "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/2473772/chapter-461-meeting-dragons-book-8-start"
+royalRoadId: "2473772"
+markedReadAt: "2026-06-29T19:02:34.053Z"
+---
+
+Nymeria, daughter of Astralis, one of the Primal Overlords, stood within the swaying room of her moving fortress. It tilted from side to side in a rhythmic fashion, matching the endless march forward of the great Dreadmaw Colossus, whose back the fortress was built upon.
+
+It had been her father, Astralis, who tamed the great beast. After all, Dreadmaws weren't easily tamable beasts, much less a Colossus variant. Nymeria could see nothing but the swirling storm around them as the Dreadmaw towered over the landscape at a hundred meters tall. Its body was a hideous fusion of reptile, mammal, and something wholly unnatural. It had charred brown skin covered with glowing red scars that pulsed like veins beneath the surface. Its legs were thick and gnarled, more like petrified tree trunks than flesh, each step shaking the earth for miles. Its eyes, which were to the side of her watchtower, were hollow voids that bled smoke from the fires within its stomach. Though some believed the beast to be blind, Nymeria knew that the Dreadmaw perceived the world through spiritual echoes, feeling the tremors of Qi through the ground and air.
+
+However, its most striking feature by far was its maw. Always open, the Dreadmaw devoured anything in its path to sustain itself, including boulders, rivers, trees, and most importantly, fleeing monsters.
+
+Nymeria sighed as she drummed her claws on the windowsill. How long will it take to reach the next spiritual spring? My cultivation has reached a standstill because of this darn storm that the great Zephyrine likely erected. She side-eyed her guards—wyverns from various factions lined the walls like statues. While they maintained their professionalism in her presence, she could tell they were all growing restless. Dragons and any similar species were incredibly Qi-attuned monsters, so this felt like being starved. I must rush to the next spiritual spring as soon as possible to secure a good spot for my clan. My siblings might already be getting a tail up on me.
+
+Her thoughts were broken by a shadow in the storm that was growing in size. At first, it was nothing but a dot. But soon it took on the vague shape of a winged monster. The Dreadmaw seemed to notice the incoming snack as it moved its titanic head.
+
+"No," Nymeria snarled, pulsing her Star Core Realm Qi into the floor. A runic circuit built into the fortress redirected her Qi into the runes burned into the Dreadmaw's spine and brain. They glowed with power—the Dreadmaw released a world-shaking roar before twisting its titanic maw away from the food.
+
+Two wyvern guards rushed to her side and awaited orders.
+
+"Go, see who dares to approach us." Nymeria snarled in the common beast tongue.
+
+"As you wish," the green and blue-scaled wyverns perched on the large windowsill, spread their wings, and rushed toward the shadow. Nymeria waited patiently with her Qi crackling below her skin, but it was a false alarm. A fire wyvern was escorted to the windowsill by the two guards.
+
+"It's one of ours, Mistress Nymeria."
+
+"I can see that," Nymeria snarled. "Ignarok, what are you doing here? I thought you were in an advanced party?"
+
+The fire wyvern collapsed from exhaustion against the wall as the two guards flanked him, ready to strike if necessary.
+
+"They are all dead..." the wyvern wheezed, "Killed by the trees."
+
+Nymeria raised a brow. "How can trees kill drakes?"
+
+"They are no normal trees, Mistress. They are demonic spirit trees—thousands, maybe even millions of them. If they are harmed, they release a red miasma that turns any monster it seems to touch into a tree... one of them. They are multiplying at a rapid rate."
+
+Nymeria crossed her arms. "Spirit trees take thousands of years to develop, yet I've never heard of them growing along this leyline. If you want to fabricate a story, come up with a better one next time."
+
+"But that's not all!" Ignarok continued, his breathing and expression restless. "On my way here, I saw monster corpses being taken to these flying islands where they are twisted into abominations of wood that endlessly attack us. I asked about them and was told that after a few days, they seemed to run out of Qi and return to lifeless husks, but by then, they usually managed to kill another monster that would rise in its place."
+
+Nymeria searched Ignarok's expression. He didn't seem to be lying, but what he said was unbelievable.
+
+"I met with a shadow lich made of wood. Maybe it was one of these abominations, but it was far stronger than you and could speak—Anubis was its name. It claimed to be a servant of the great spirit tree and said its master wanted to speak to you." Ignarok said, presenting a comically small piece of jade pinched between his claws. "It said you could use this communication jade to talk with them."
+
+"Give it." Holding out her hand, she accepted the appropriately sized communication jade. Since Nymeria was half human and half dragon, she felt most comfortable in her human form, with a horn and scales running down the side of her body. Both were silver, as were her serpentine eyes, which she had inherited from her father.
+
+While she had seen one of these before, she wasn't familiar with using it. She eyed it with a hint of confusion.
+
+"They want me to talk to them?" She tilted her head. "Why?"
+
+"I was actually the one to suggest it," Ignarok hung his head low. "I apologize, Mistress. I wanted to live, so I suggested they let me go so I could set up a meeting between you."
+
+"You dare?" The blue wyvern growled and leaned in threateningly. "Not only did you abandon your post, but you even flew off with your tail between your legs? How do you think this reflects on Mistress Nymeria's image? You coward, I should gut you and drink your blo—"
+
+"That's enough," Nymeria snarled, silencing the guard mid-sentence. "Ignarok is indeed cowardly, but if what he said about everything is true, this could be a good opportunity."
+
+Some life returned to Ignarok's eyes. "I agree, Mistress!"
+
+"But I will have to verify your words with my own eyes, as you could have been tricked by an illusion formation—cultivators of old have tricked you dumb beasts with such things before," Nymeria said, looking intently at the communication jade. "What you have suggested is deeply concerning, however. If the weaker beasts are turned into abominations and made to fight against us, we will be without food and have to waste Qi battling our way to the spiritual spring. We might even struggle to push past the various human cultivation sects between us and the target."
+
+Nymeria stored the jade between the scales running down her chest. "How long until we reach the front line?" She asked the green-scaled wyvern guard.
+
+"About three days, Mistress."
+
+"Very good. I'll speak with this spirit tree after verifying the situation for myself."
+
+***
+
+Three days passed, and Nymeria couldn't believe her eyes. The frontline was in chaos—thunder roared overhead as golden lightning from the heavens endlessly struck down at demonic trees' souls that floated within the sanctuary of their canopies. Their leaves burned, their branches were blown off, and the ground around them was charred. Some corpses of monsters forced to try and push through were struck down and slowly absorbed by the acidic soil surrounding them, or floated off toward the sky islands Ignarok mentioned that were nothing but giant shadows looming ahead in the storm.
+
+"We can't get any closer to those trees," the blue-scaled wyvern guard informed her. "The heavenly lightning is striking the ground and causing plumes of that cursed mist to rise and mix with the storm. We also can't fly over them without going through that lightning storm, so we are stuck."
+
+Nymeria ground her teeth. This was bad. Very bad. The number one rule of the beast tide that every monster knew was that to survive, they had to keep pressing forward no matter what. If not, you became the food of the strong in the later waves, or reached the spiritual spring too late to establish a territory.
+
+Luckily, she had rushed ahead due to Ignarok's warning, so she had bought herself some time before the Nascent Soul Realm monsters pressed down on her neck.
+
+"Stop," she commanded the Dreadmaw Colossus. If it got any closer, it would devour those trees, and while its stomach was known to be able to digest the world itself, she didn't want to take any chances with that cursed mist. It let out a terrible roar of pain as the runes engraved into its body compelled it to obey.
+
+Stupid beast, do you want to become a tree? Listen to me.
+
+Eventually, the Dreadmaw Colossus stopped. But it needed constant feeding to maintain its titanic body, which was like a burning forge. Should she restrain it from moving forward for too long, it would start eating itself.
+
+"Get Ignarok for me," Nymeria instructed as she retrieved the communication jade from between her scales. One of the wyvern guards went to retrieve the fire wyvern while she stared at the jade.
+
+Now, how am I going to use this? Do I just insert Qi? Wait, will they only be able to speak the human tongue? I've not spoken it in so long that they might judge me for it. Damn it, what do I even say? Sorry, please let me pass? I don't even know who I'm going to be talking to. A tree? Can spirit trees even speak?
+
+"Mistress, I'm here," Ignarok said as he entered the chamber. His head tilted, and he looked out the window. "It's gotten worse than before."
+
+Nymeria met his gaze. "While I can't see any sign of the shadow lich you mentioned, everything else checks out. Many of our drakes have been turned into those wooden abominations and are fighting against us. This is not good—at this rate, we won't have the numbers left to secure a territory at the next spiritual spring."
+
+"Then, what do you propose we do?" Ignarok said, bowing his head.
+
+"We only have one option other than owing a favor to a stronger faction or begging the Primal Overlords," Nymeria sighed as she held up the communication jade. "To make a call. You will stay here as my advisor, as you have spoken with them before, and I believe seeing you alive will foster some goodwill."
+
+"As you wish."
+
+I hate being the leader sometimes. Nymeria thought as she saw the terror and hope in the eyes of the guards and other monsters in the chamber. Even her half-brother, Echo—a full-fledged dragon—was curled up in the corner and watching curiously.
+
+"Are you sure about this, Nymeria?" Echo asked in draconic. "It will shame us greatly if you beg the humans for help."
+
+"It's not the humans, Echo. The only person we know from this strange but powerful new foe standing in our way was a Nascent Soul Realm shadow lich that apparently worked for the great spirit tree." Her eyes narrowed. "Besides, what's so bad about the humans?"
+
+"They are pitifully weak creatures—"
+
+"What's wrong with that?" Nymeria snapped back.
+
+Echo stared at her. "Weakness is a sin. Survival of the fittest is all that should matter in this world, yet those humans cower behind walls while consuming pills made from our blood and guts for power and fighting together to take down stronger threats. It's disgusting."
+
+There was a murmur of agreement throughout the room, though Nymeria doubted most of them understood even half of what her brother had said. He liked to be poetic, so he used quite unusual draconic words. The group felt a natural need to agree with him because he was a true-blooded dragon.
+
+Well, except Nymeria, of course. She simply scoffed. "You're just parroting Father's views."
+
+"Of course I am," Echo closed his eyes, signaling he was done with the conversation. "He is the almighty Celestial Star Dragon. No other dragon on this layer of creation has a more distinguished and noble bloodline than his. The blood runs through you as well, though tainted by humankind."
+
+Nymeria resisted the urge to pulverize Echo's head into the ground. That is how her father, Astralis, would solve the issue—with violence. But she found it made more of a mess than it was worth.
+
+"I hope you get turned into a pill someday, you overgrown lizard," Nymeria said, earning an amused snort from Echo, who was pretending to sleep. "And to answer your question, yes, I'm sure of this. Unless you can offer a solution? No? Just going to keep pretending to sleep? That's what I thought."
+
+Calming herself and trying to ignore the stares of the others depending on her for survival, she held up the jade and infused it with her Qi. It began to pulse softly with green light like a beating heart, yet nothing happened. Time stretched on, and no matter how much Qi she pushed into the jade, it didn't change.
+
+Just pulsing softly with a green glow.
+
+It began to get awkward.
+
+Just when she was about to give up, a green light shone out of the stone, and she saw a projection of a person.
+
+A human girl.
+
+"Hah!" Echo snorted loudly from the side. "I told you it would be a filthy human."
+
+Nymeria ignored her stupid half-brother. Yes, it was a human, which wasn't ideal.
+
+"Greetings," the girl said.
+
+"Hello..." Nymeria said awkwardly, "I haven't spoken in the human tongue in a long time, so I apologize if I sound weird."
+
+"Don't worry," she replied in perfect draconic, "My name is Stella Crestfallen. You must be Nymeria?"
+
+Nymeria side-eyed Echo, who looked utterly shocked. While she hid it well, she was too. This girl spoke near-perfect draconic, yet there was no horn on her head or scales on her skin. She even wore human clothes. Yet there was this dangerous glint in her eye and the aura of someone not to be taken lightly—a tyrant.
+
+"Yes, I'm Nymeria," she gulped. "How do you know draconic?"
+
+"A dragon taught me, and I'm a fast learner," Stella shrugged.
+
+"You know a dragon?"
+
+"I sure do."
+
+"I was expecting to speak with the great spirit tree. Do you know of this tree?"
+
+"Yeah," Stella grinned. "That spirit tree is my father."
+
+Nymeria raised a brow. "So you know dragons and are half spirit tree?"
+
+"Something like that—it's quite complicated," she paused. "I see you are half dragon? How well-versed are you with human culture and social norms?"
+
+"Um, not that familiar," Nymeria admitted. "While my mother was human, she left when I was a child, and I grew up surrounded by fellow monsters in the wilderness. I know how your cities and sects are vaguely set up, but only from the abandoned ruins as we walk behind the initial wave of monsters."
+
+"Fascinating."
+
+Nymeria wasn't sure why she was being so open and answering this strange girl's questions, but she didn't feel the need to be hostile or mysterious; this girl was oddly easy to talk to despite being human... or tree. Whatever she was.
+
+Maybe they were just bonding over both having a weird parental situation.
+
+"So... are these spirit trees calling down lightning related to your father, this great spirit tree in some way?"
+
+Stella nodded. "They are his offspring and operate as an extension of him. As are the floating islands and the Ents."
+
+Ents? Those must be the names for those wooden abominations. Nymeria frowned. "Your father," she said aloud, "He seems incredibly strong."
+
+"He is, as are the people and monsters in our sect. We have the strength to stand up to the beast tide and wipe it out, as I'm sure you are noticing."
+
+Nymeria briefly glanced outside the window at the death and destruction. "You could say that," she agreed. While what was on display wasn't enough to contend with Zephyrine, that didn't concern her. Her focus was on being able to pass these trees and continue forward. Whether this spirit tree had the strength to wipe out the beast tide or not didn't matter if she never lived to see it.
+
+That's why she decided to try to negotiate.
+
+"What is it you propose?" Nymeria asked. As she was quite lacking in information about this group's goals, she decided to go on the offensive.
+
+Stella tapped her chin. "We want the beast tide to pass around our territory without interfering. While we have the strength to fight you all off, I'm sure you know that a fight never benefits anyone. It's just a waste of Qi and time."
+
+"While I agree with your suggestion, unlike humans, we are not a cohesive unit," Nymeria pointed out. "The only monsters I can order are those under me. None of us wants to fight with the human cultivators; we are forced to fight and clear the path for the stronger monsters behind us."
+
+"Are you not the daughter of a Primal Overlord? Can't you ask him to order the monsters to avoid our lands?"
+
+Nymeria snorted, "The last time I asked my father for help, he threw me through a building. I think that is a favorable outcome for what he would do if I told him I was making a deal with the humans."
+
+"Really," Stella frowned. "But if we have the strength to fight and kill the Primal Overlords, why wouldn't they want to avoid us?"
+
+Echo laughed from across the room.
+
+Nymeria glared at him, "What's so funny?"
+
+Uncurling, the dragon walked over and placed his head next to Nymeria. She could smell his breath and feel the air coming from his nose.
+
+"Listen, little human, I'm only saying this out of respect for you speaking in draconic. The Primal Overlords will see you, foolish humans, as an opportunity to eliminate one another. The balance between the Primal Overlords is delicate, so the appearance of an outside force will change everything."
+
+Stella nodded. "I see. Is there any way we can contact Zephyrine? My mother and Zephyrine are acquainted, but she cannot contact Zephyrine directly."
+
+Echo's eyes widened, as did Nymeria's.
+
+She coughed into her hand. "Ahem, and who might your mother be?"
+
+"You might not believe this," Stella paused, "but my mother is the World Tree."
+
+Nymeria and Echo exchanged a look.
+
+"You're a liar," Echo growled deeply. His great claw smacked the communication jade out of Nymeria's hand, and it bounced a few times before coming to a stop against a pillar. The projection of Stella was now sideways along the floor.
+
+"I don't lie, dragon," Stella replied, unfazed by his reaction.
+
+"All humans are deceitful bugs that should be crushed."
+
+"Stop Echo!" Nymeria demanded, but the prideful dragon didn't listen. He crushed the communication jade underfoot into green dust, cutting the connection.
+
+Silence blanketed the room.
+
+Echo snorted at Nymeria. "You saw her—she was clearly human yet claimed her father is a spirit tree and her mother is the World Tree? And they have the strength to fight off Zephyrine? Don't be ridiculous. The only part I believed is that she knew a dragon, but it was probably being kept in a cage and forced to teach her." He turned his massive body and trudged toward the exit of the room.
+
+Yet he was stopped, not by Nymeria or any of the guards.
+
+The doorway had been replaced by a tear in space that soon widened to become a portal. But it was strange. Unlike a normal spatial portal, it was corrupted, as if it were eating through reality itself.
+
+From within the portal's darkness, a human girl stepped out—the one she had just been speaking to—and she had her sword drawn.
+
+She also hadn't come alone... there was a dragon behind her.

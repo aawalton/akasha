@@ -1,0 +1,113 @@
+---
+id: 83a428bd-b446-595f-92ce-077e8487d1c6
+page-type-slug: story-chapter-royal-road
+title: "Chapter 563: Alliance"
+slug: 0130-chapter-563-alliance
+partOf: rise-of-the-living-forge
+position: 130
+ownLength: 1645
+unit: words
+ownProgress: 1645
+publishedAt: 2026-02-24
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3087953/chapter-563-alliance"
+royalRoadId: "3087953"
+markedReadAt: "2026-06-29T20:02:36.122Z"
+---
+
+“How?” Neil exclaimed, nearly launching himself out of his chair. He realized his mistake a moment later and winced, cringing in on himself. Screaming like a madman whilst in the VIP section really wasn’t a great way to make an impression — not to mention that if one of the other people in the upper levels overheard him, they could pinpoint who he was and potentially track him down for an item he’d bought.
+
+“Don’t worry,” the girl said with a laugh as she spotted his expression. “The VIP area is completely soundproofed. Nobody is going to be able to overhear you. Feel free to scream as loud as you like. The only ones listening will be us.”
+
+Somehow, that wasn’t nearly as comforting as it felt like it had been meant to be.
+
+“I see,” Neil said. He paused for a moment. Then he threw his hands up into the air. “Then how? Has the 3rdround of the auction been going on simultaneously this whole time? Are all the good items already gone?”
+
+“Oh, come on,” the girl said with a snicker. “If that were the case, we’d have had to be real assholes to sell the VIP seat to you this late into the game. No, the 3rd round hasn’t started yet.”
+
+“Then why are they broke?” Neil asked. Another chilling thought struck him. “The other VIP seats werepurchased by powerful guilds, right?”
+
+There’s no way they scammed everyone into thinking there’s a VIP section when it’s completely empty or full of random people with barely any coin to their name, right? That would be genius… but if word got out about it—
+
+“You’re a bit paranoid, aren’t you?” the girl asked, shaking her head as she patted Neil on the shoulder and spun him around so he was looking at the plate of pastries beside his chair. “Have a muffin. We’re not out to scam you. There are a lot easier ways to part idiots from their money.”
+
+“Then why is everyone devoid of money?” Neil asked.
+
+The girl grabbed a muffin and plopped it into his hand. “Because they spent all of it on resources. Probably well before the auction even began. Everyone here is only interested in the most valuable stuff the Menagerie has, and no amount of gold can buy that kind of thing.”
+
+Neil’s eyes widened. “Are you implying that the final round of the auction literally doesn’t even accept gold?”
+
+“Yep,” the girl said with a nod. She pointed at the pastry in his hand. “Muffin. Eat it. Or I will. It looks too tasty to leave alone.”
+
+What kind of customer service is this?
+
+Neil mutely took a bite out of the muffin. It was, admittedly, incredibly good. He chewed for a moment before swallowing.
+
+“What was your name again?”
+
+“Reya.” The girl paused for a moment. “Unless you’re going to place a complaint. Then it’s Madiv.”
+
+Neil coughed, raising a hand to cover his mouth to keep himself from laughing. “Noted. Then would you tell me exactly how it is I’m meant to compete in a competition against a bunch of major guilds who have pre-prepared immense amounts of… what, magical materials?”
+
+“Pretty much,” Reya said cheerfully.
+
+“How am I meant to win against that?” Neil asked, exasperated and more than a little angry. “We don’t have a huge amount of resources prepared! The Bronze Dragons don’t specialize in that kind of thing. We’ve just got items and gold, and that’s what I brought. Shouldn’t you have announced—”
+
+“Relax,” Reya said with a laugh. She glanced at his muffin. Neil shoved the rest of it into his mouth, and a small grin flitted across her face. She raised her hand, dangling a small coin pouch before him. “As I said, if we wanted to, there are much easier ways to lift money off you.”
+
+Neil blinked. His hand shot down to his side. Then his eyes narrowed. He held his hand out and Reya tossed the pouch back to him.
+
+“Then what am I to do?” Neil asked, pulling the pouch open to quickly count the coins. They were all there.
+
+“When we decided to sell the last seat of the auction, we figured there was a good chance someone wouldn’t have much in the way of resources prepared quite yet,” Reya explained. “So we’ve got a connection for you. A major trading house. If you put the capital up, they’ve got several deals practically waiting to be made. All you have to do is back them.”
+
+Neil’s brow furrowed. He tilted his head to the side. “Wait. You want me to be… what, the funding for a deal that you’ve basically already arranged?”
+
+“Yep.”
+
+“Why?” Neil asked. “The Menagerie can’t possibly be low on coin. Not now, of all times. The only benefit to something like that would be the coin you got out of selling the VIP seat and a small commission you might be making on the 3rd party trade. That definitely isn’t worth the hassle.”
+
+“Hey. It’s just a way to make sure you can get your hands on some materials that we need,” Reya said with the shrug of a shoulder. “It’s up to you if you want to partake or not. I can bring the merchant in. You can bargain and everything. The deal is in your hands.”
+
+Neil’s eyes narrowed. Something about this felt slightly off. There was a chance Reya was just being completely honest, but the Menagerie hadn’t done anything so arbitrary yet. Every part of the auction had felt intentional.
+
+For them to just decide to toss their new VIP member some random deal to buy resources from a connection they themselves had established, just to give those materials back to them… something was up.
+
+If the third party is someone that they’ve got close enough relations with to bring here, then the only way they could possibly come out ahead would be if their win condition wasn’t the items I purchased at all.
+
+“It’s us,” Neil muttered. He sent an incredulous look at Reya. “It’s us, isn’t it?”
+
+“I’m sorry?” Reya asked.
+
+“The thing you get out of this,” Neil said, even more confident of his conclusion with every word he said. “It’s us. That’s the only possible angle you could have for having me buy items from your own supplier. You get to say that you’re working with Bronze Dragon.”
+
+Reya stared at Neil blankly. For a moment, he could have sworn she had no idea what he was talking about. He nearly convinced himself that he’d just gotten confused before a grin stretched across her lips.
+
+“Yup. It does help things along that you’re on the same page, though. We’re all for over-the-table deals. And it’s a win-win, wouldn’t you say? You get items to use in the auction, and we get to build up our list of allies.”
+
+“As impressive as this entire auction is, you can’t expect Bronze Dragon to fully back you after just one event,” Neil said. “You know that, right?”
+
+“Sure,” Reya said with a shrug. “But everyone else doesn’t need to know that, do they?”
+
+“What use does an alliance with no weight behind it carry? We won’t back you up in a fight. That’s far too great a commitment just for—”
+
+Reya held her hand up. The smile faded away from her face as her features grew serious. “I’m sorry. I really should have clarified this the moment you caught on. We don’t need your help. All we need is your name.”
+
+Neil’s brow furrowed. “You want an alliance in just name?”
+
+“Correct,” Reya said. “I’m going to be honest with you, Neil. We’ve been watching you. Quite closely, to be honest. Finding somebody like your guild was one of the main goals of our auction. It’s no mistake that you’re sitting here right now.”
+
+Neil paused. A memory flickered through his head. An image of the smile pulling across Madiv’s lips a moment before someone else had nearly outbid him for the seat in the VIP section. The hair on the back of his neck stood on end.
+
+“Why?” Neil asked.
+
+“Because Bronze Dragon doesn’t have close ties with any groups we’re not friendly with,” Reya replied. “You’re competent, respectable, and smart enough to recognize when to take a good opportunity. We don’t need anything other than your name. Having Bronze Dragon as an ally of the Menagerie will let us keep growing our network by having a permanent, respectable name in the mix that people recognize.”
+
+“But the issue goes both ways,” Neil said slowly. “If the Menagerie do get attacked and Bronze Dragon doesn’t intervene, that reputation you just mentioned would suffer. You’d be forcing our hand.”
+
+“I can see where you’re coming from,” Reya said. “But that will never be an issue. If the scenario comes where we get attacked by someone strong enough that we need your help in a direct fight… well, your help wouldn’t matter. Here. Why don’t I send you that member of our allied merchants? You can decide if you want to trade with them when the time comes. The 3rd round hasn’t started yet.”
+
+“Sure,” Neil said slowly. “I suppose that wouldn’t hurt. But I think you’ve still lost me. You don’t think our help would matter? Just what are you implying?”
+
+“It’s simple.” Reya started toward the edge of the room. She paused just before the wall to glance over her shoulder at Neil. “If I was to count the full strength of the Menagerie and the combat-ready allies we do have, we’re already stronger than you are. The world just hasn’t figured it out yet — and we’d like to keep it that way.”
+
+And then she stepped straight through the wall, passing through it and vanishing as if she’d never been there.

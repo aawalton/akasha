@@ -1,0 +1,155 @@
+---
+id: a9b60ed0-32b9-5bc4-a33c-8e8e2798621a
+page-type-slug: story-chapter-royal-road
+title: "3. Learning Experience"
+slug: 0005-3-learning-experience
+partOf: salvos
+position: 5
+ownLength: 2100
+unit: words
+publishedAt: 2020-11-20
+link: "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/587965/3-learning-experience"
+royalRoadId: "587965"
+---
+
+3. Learning Experience
+
+Salvos
+
+Species: [Infant Demon]
+
+Subspecies: [Demon Larva] - Lvl. 4
+
+General Skills:
+
+[Identification] - Lvl. 3
+
+[Racial Skill: Universal Language Comprehension] - Lvl. 1
+
+Stats:
+
+[Available Stat Points: 10]
+
+[Vitality]: 5
+
+[Strength]: 5
+
+[Endurance]: 5
+
+[Wisdom]: 5
+
+[Agility]: 10
+
+Skills:
+
+[Available Skill Points: 3]
+
+[Unused Skill Slot] x5
+
+I evaluated my Status after having killed the Level 6 [Demon Larva] by myself. The others— the survivors from the encounter— had left without me. None of them turned around to try and help me when I confronted the large Demon.
+
+Not that it mattered to me; somehow I knew that if they had helped out, I would have gained less experience from killing it, which would have given me less levels too. So I actually preferred that they stayed out of the fight.
+
+Anyway, it was not like I was happy with the amount of levels I gained in the first place. I had doubled my levels, going from Level 2 to Level 4. And while that seemed like quite the achievement at first, I still wasn’t satisfied. The large Demon was Level 6— since I killed it, shouldn’t I be at least Level 6 too?
+
+Something told me that that wasn’t how it worked. But it should!
+
+I might not have been as big as it, and I might not have had as many levels as it, but I killed it when the others failed or fled. The fact that I deserved more of a reward than what I got led me to conclude that the world wasn’t fair. Which was unfortunate, but it wasn’t something I was going to dwell on. Instead, I focused on my Status.
+
+Currently, I had 3 available Skill Points and 10 available Stat Points. I still had no Skills for me to invest my Skill Points in— which confused me in more ways than one. For example, how was I supposed to gain a Skill? How was it different from a General Skill? Why couldn’t I use my Skill Points on my General Skills?
+
+Unable to solve this mystery behind Skills, I then decided to simply look at my Stat Points for now. As I had figured out earlier, [Agility] was something that made me faster… in addition to other things I couldn’t parse right now. When I had spent all 5 of my Stat Points on [Agility], my body changed— kind of like how the large Demon’s body changed after it had leveled.
+
+I grew these… limbs. They ran down the side of my body, not exactly forming full rows of them, but still rather numerous. It was a strange feeling, suddenly changing forms. It was something I was probably going to get used to for now, whenever I spent Stat Points.
+
+I considered the other Stats I had: [Vitality], [Strength], [Endurance], and [Wisdom]. I could guess vaguely what each of these Stats did by themselves. There were other facets to these Stats, but I was certain [Vitality] would give me more health, [Strength] would make me stronger, [Endurance] would increase my durability, and [Wisdom]... would grow my magic power?
+
+I puzzled over this idea of magic for a moment, until my mind drew a link between magic and the Skill Slots I had available. Apparently, magic was something every living being was capable of doing, but was aided by the Skills and General Skills they learned.
+
+That was interesting. I had been curious about what these Skills were just a moment ago, and now knowing that having more [Wisdom] was somehow connected to them made me decide to experiment with it. For now, I was going to spend 3 of my Stat Points on [Wisdom], 2 on [Vitality], and keep the remaining 5 to figure out for later.
+
+Immediately after using the Stat Points, my body began to quiver. It started to shift, changing in size as I grew slightly bigger. It wasn’t as drastic as a growth the large Demon went through— something told me that not only would different combinations of Stats result in different changes to the body, but the individuality of myself and the others made the changes we underwent specific to us as well.
+
+However, while the change that came over me from increasing my [Vitality] was made apparent to me in more ways than one, I was left confused by my [Wisdom]. I did not feel smarter or anything too blatant like that. In fact, I almost thought that nothing had happened from growing my [Wisdom] for a moment.
+
+That was until I stopped focusing on myself, and turned my attention to the world around me. After I became Level 2 from leveling in [Identification] twice, I had thought my perception of things was more sharp. And while that didn’t change this time, I felt like my vision was now piercing through some veil that I didn’t even know was there before.
+
+There were… lines? Or something else. A thing called mana was cutting through the world. It was not doing so intrusively, but rather in a way that kept it together. It was like strings woven together and into each other to create something that was whole.
+
+I tried to reach out and grab one of these strings, but found my physical limb simply passing over through it. It was hard to touch; I knew my body would not be able to interact with it in this simple of a way. I had to understand it more. I had to learn about them— follow these strings— to get a better grasp of what they were, so I could actually touch and move them.
+
+So that was what I did. Very quickly, I spent the rest of my Stat Points between [Strength], [Endurance], and [Agility]. For now, I was content with my speed so I only increased it by a single point, while splitting the rest equally between [Strength] and [Endurance].
+
+Once again, the changes from these Stats were more tangible and obvious at first, but I intuitively knew that the changes I experienced went beyond simple physical changes.
+
+—--
+
+I would have thought it would take a while for me to have to get used to my new, bigger body; with extra parts to me coming in the limbs as well as a longer form, it was quite a significant change to what I was before. And yet, I did not find it uncomfortable using my limbs to move through the rocky terrain.
+
+The bits and pieces of rock sticking out of my limbs were barely a nuisance, and I could even move faster now. And while that sped up my process of simply moving, apparently moving faster somehow correlated with meeting other Demons faster. Unfortunately however, these Demons I met weren’t like the first group I had encountered.
+
+Defeated [Demon Larva - Lvl. 3]!
+
+Experience is awarded for defeating an enemy!
+
+Subspecies [Demon Larva] Level Up!
+
+[Demon Larva - Lvl. 4] -> [Demon Larva - Lvl. 5]
+
+Gained 5 Stat Points and 1 Skill Point!
+
+That was the third Demon I had seen since I defeated the large Demon, and just like the large Demon, all of these Demons attacked me mindlessly. I had approached the first one— a Level 2 Demon— because it didn’t seem too dangerous.
+
+And while it wasn’t dangerous per se, it did try to tackle me. I didn’t have much difficulty dodging the surprise attack, although dispatching it wasn’t as quick of an endeavour. With my relatively low [Strength], I couldn’t crush it in a single blow and relied on multiple strikes to beat it.
+
+After that, I approached the other Demons more cautiously, but still they charged at me. And while they were all lower leveled than me, they didn’t even hesitate in their attack. At first, I had considered it to be a bit of a nuisance, but after I leveled, I decided it was a good thing— in a way.
+
+While I risked dying whenever these Demons came after me, if I defeated them I gained experience which would help me level up myself. And not only was leveling up a satisfying thing, it made me stronger.
+
+With this strength, I could defend myself better. With this strength, I could survive!
+
+But that was boring. There wasn’t really anything for me to do; I had tried investigating more strangely shaped rocks, but I lost interest in them far faster than before. Eventually, I turned my attention to those large rocks in the distance— those mountains.
+
+It was strange. These tall, massive shapes became smaller as I went further away from them— they didn’t sink into the ground, but instead appeared to almost simply shrink in size. I had not traveled to one before, however after making this observation, I decided to traverse up one of the smaller hills.
+
+I had known that a hill became larger as I approached one, but it was still such a jarring sight seeing it turn from this vague outline into this towering shape before me. Putting 2 of my Stat points into [Wisdom] and [Agility], with the last remaining point into [Strength], I scurried my way up.
+
+I didn’t do nothing on this trek; I was being productive. I raised one of my limbs up, running it through the invisible strings of mana as I continued trying to acquaint myself with it. It wasn’t exactly telling me anything in specific, but I felt like I was learning more about it. My vision of the mana wasn’t completely clear just yet, however—
+
+General Skill [Basic Mana Manipulation] Learned!
+
+Experience is awarded for the learning of a General Skill!
+
+I stopped right in my tracks as the words resounded in my head; I tilted my body, trying to figure out what just happened. I… learned a General Skill? That was right, it was still a Level 1 Skill. But that was better than nothing. Now I knew I was capable of learning General Skills— that was how I gained them.
+
+It might not have been the exact same process for Skills, but it was probably a somewhat similar one. I lifted one of my limbs and tugged at the mana strings, and instead of just passing through nothing, I felt the barest sense of something being there.
+
+It was a slight feeling— something that showed me nothing, while opening up endless possibilities at the same time. And it happened just as I crested the top of the hill.
+
+I rested there, at the peak of this massive rock. I cast my gaze around the landscape, at the flatlands down below, and at the other mountains that rose above the one I was on. I was Level 5, and while it was satisfying to know that I had reached a level similar to the large Demon, it still frustrated that I was not at its level yet.
+
+In a way, I was like this hill. Tall, but not the tallest. Not anywhere close. Something blazed within me; a decision that I came to naturally. I wanted to level— not just to Level 6 or some other arbitrary level. I wanted to keep leveling until I could not anymore.
+
+I wasn’t sure if there was a limit, and if there was one, I did not know how high I could even go. And yet, it gave me something to do. I wanted more in my life than to simply exist. The rocks and the land— they were interesting at first, but they lost their novelty after a while. Seeing the same thing over and over again became dull over time.
+
+So I gave myself a goal. It was my will. And when I went down the hill, back to the flat landscape, I was not just wandering aimlessly anymore. I was on the hunt. Searching for those mindless Demons that destroyed everything they saw.
+
+And it wasn’t long before I saw the next ones ahead. I let go of the strands of mana I was holding onto the entire time— apparently [Basic Mana Manipulation] was a hard General Skill to level since it was still at Level 1— and focused on the lumbering Demon. It charged me, of course. That was what all these wild Demons did.
+
+As for me? I leveled.
+
+Defeated [Demon Larva - Lvl. 3]!
+
+Experience is awarded for defeating an enemy!
+
+Defeated [Demon Larva - Lvl. 4]!
+
+Experience is awarded for defeating an enemy!
+
+Defeated [Demon Larva - Lvl. 3]!
+
+Experience is awarded for defeating an enemy!
+
+Defeated [Demon Larva - Lvl. 2]!
+
+Less experience is awarded—

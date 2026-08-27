@@ -1,0 +1,369 @@
+---
+id: 3eedca44-dee1-573e-9b90-20c315b4f310
+page-type-slug: story-chapter-royal-road
+title: "Side Story 1: Survival of the Fittest"
+slug: 0009-side-story-1-survival-of-the-fittest
+partOf: salvos
+position: 9
+ownLength: 3470
+unit: words
+publishedAt: 2021-03-07
+link: "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/642805/side-story-1-survival-of-the-fittest"
+royalRoadId: "642805"
+---
+
+Side Story 1: Survival of the Fittest
+
+NYEVETII was scared.
+
+She did not know what being scared meant, or what that feeling even was. But she knew she was scared when she reached the edge of the world.
+
+A dark abyss threatened to swallow her— it pulled at her forever. Her being was tugged, then pressed. She wanted this moment to end, yet it continued.
+
+Her thoughts were clouded in fear. She pleaded for some sort of reprieve. And after an eternity passed, she got it.
+
+—--
+
+Nyevetii woke up to the sound of splashing. She had been… not alive? And now she was.
+
+Existence came and took her like a strong current, pushing her into the waterfall of red against her will. She did not know where she was, just that darkling clouds loomed over her in her little puddle.
+
+The storm continued, a pattering of black precipitation flooding the white landscape around her. The sea built up— the vast ocean of darkness that held her grew bloated. Until finally, she managed to wriggle her way to land.
+
+Nyevetii
+
+Species: [Infant Demon]
+
+Subspecies: [Demon Larva] - Lvl. 1
+
+General Skills:
+
+[Identification] - Lvl. 1
+
+[Racial Skill: Universal Language Comprehension] - Lvl. 1
+
+Stats:
+
+[Available Stat Points: 0]
+
+[Vitality]: 5
+
+[Strength]: 5
+
+[Endurance]: 5
+
+[Wisdom]: 5
+
+[Agility]: 5
+
+Skills:
+
+[Available Skill Points: 0]
+
+[Unused Skill Slot] x5
+
+I am… Nyevetii, she thought to herself. That was… her name! I am Nyevetii!
+
+She excitedly flopped out of the sable water, unsure of what everything else in her head meant, but happy to be herself anyway. The black raindrops covered her body, still falling, but slowly fading. It did not bother Nyevetii. This place— wherever she was— was far better than the place she had been before!
+
+Nyevetii glanced around, finally deciding to take in her surroundings when she spotted the first of the others. Slowly making their way out of the same dark water that held her were a myriad of oddly shaped creatures. They looked like writhing masses of flesh, of different colors but roughly the same oval shape.
+
+She found herself curiously crawling her way towards them. As the first drew itself to land, Nyevetii couldn’t help herself but approach it. She peered at it— peered at it curiously.
+
+It stared back up at her, confused. It had peculiar green eyes and a dark blue body. It did not move when Nyevetii looked at it. Only when she turned away did it pull itself ashore, following her.
+
+Nyevetii moved on from the dark blue thing to a more vibrant, yellow thing with black streaks running through its body. Again, she looked at it casually, and again the thing stopped moving. She moved on after a moment, to the next of the things!
+
+How strange, why are they acting like this?
+
+She wasn’t entirely sure what these things were, although she really wanted to find out. And she eventually got her answer, right as she went up to one of the things with only a single eye. She inspected it, trying to parse what it was—
+
+[Demon Larva - Lvl. 1]
+
+Nyevetii jerked back. What? She backed up as the thing— the [Demon Larva]— hauled itself onto the land, undeterred by her presence unlike the others. Watching it make its way up to her, Nyevetii paused to think for a moment. They’re… like me?
+
+She tried to look down at herself— she tried to see what she looked like. And sure enough, her body was just like theirs. She was a [Demon Larva] too.
+
+They were like her. She was like them.
+
+Casting her gaze around, she saw more and more of these things— these creatures like her— pop out of the dark water. They were being birthed, just like her, and had the same Subspecies as her.
+
+Something swelled up inside of Nyevetii. She felt a shiver run through her body— the feeling, the knowing that something else was like her…
+
+It made her excited!
+
+Nyevetii danced around the shore of the black sea, identifying each and every other Demon that made its way up. Each time, she took their information with the same previous excitement, and each time, they produced the same results.
+
+[Demon Larva - Lvl. 1]
+
+[Demon Larva - Lvl. 1]
+
+[Demon Larva - Lvl. 1]
+
+[Demon Larva - Lvl. 1]
+
+[Demon Larva - Lvl. 1]
+
+And yet, this did not deter Nyevetii in the slightest. She was happy— excited! She had thought that she would return to being alone in that void of nothingness, but now she was free from it and surrounded by others just like her!
+
+This was a wonderful place!
+
+—--
+
+General Skill [Identification] Level Up!
+
+[Identification - Lvl. 1] -> [Identification - Lvl. 2]!
+
+Experience is awarded for the leveling of a General Skill!
+
+General Skill [Identification] Level Up!
+
+[Identification - Lvl. 2] -> [Identification - Lvl. 3]!
+
+Experience is awarded for the leveling of a General Skill!
+
+General Skill [Identification] Level Up!
+
+[Identification - Lvl. 3] -> [Identification - Lvl. 4]!
+
+Experience is awarded for the leveling of a General Skill!
+
+Subspecies [Demon Larva] Level Up!
+
+[Demon Larva - Lvl. 1] -> [Demon Larva - Lvl. 2]
+
+Gained 5 Stat Points and 1 Skill Point!
+
+Subspecies [Demon Larva] Level Up!
+
+[Demon Larva - Lvl. 2] -> [Demon Larva - Lvl. 3]
+
+Gained 5 Stat Points and 1 Skill Point!
+
+Nyevetii wasn’t sure how much time had passed since the others gathered around her, puzzled by her excited demeanour. But she identified each and every one of them, earning her two whole levels in both her Subspecies and her General Skill!
+
+She distributed her Stats without much thought, and somehow became more. She stretched out the nub-like protrusions that she had just grown as the others gathered around her, mesmerized by the sudden change to her being.
+
+Trying to explain how she leveled without words, she eventually helped a few of them reach a higher level, although most remained stuck at Level 1. Then their journey began!
+
+They travelled through the tumulous landscape, wandering around with the same excitement she felt, surely! The rain continued— until it didn’t. And the rocks pricked at her skin… until she got used to it.
+
+There wasn’t much to see, much to explore. But when she saw something new, she felt the excitement within her return. Apparently, they weren’t the only [Demon Larvae] in this world!
+
+She encountered more— one of them was Level 3, just like her!
+
+It had been scared. Afraid of her. But when she approached it, reaching one of her limbs out. It slowly relaxed.
+
+It grew out of the rock it was hiding under, and followed her along with the rest of her group. And they pressed on!
+
+Another [Demon Larva], one with light red skin, milled about in the hazy, white sea. But when Nyevetii approached it, it was drawn to her. It followed her, just like everyone else!
+
+There were many others. Of all kinds of shapes and colors. One of them nearly blended in with the white, its silver color too similar to the pure background!
+
+Nyevetii found herself cheerfully approaching each new [Demon Larva] she encountered. They always joined her. They always followed her. It was such a wonderful world, after all.
+
+This place… is paradise! Nyevetii thought to herself as she made her way towards the base of a hill, the other [Demon Larvae] following behind her. There, a large figure blocked the way. At first she had thought it was a rock. But as she got a closer look, she realized it was another [Demon Larva]— Level 5!
+
+It was a welcome surprise.
+
+Nyevetii scuttled up to it without a second thought. After all, why would she think twice about doing what she had done a dozen times before? This was just another [Demon Larva].
+
+It would look back at her as she peers into it, until eventually deciding to join her too! In her journey through this great place. Unlike that terrible place she had been before. The place where she was alone— where time seemed to last for an eternity and a moment at the same time.
+
+She raised a limb and offered it to the large Demon, happy thoughts flying through her head. Her head lost in the sky as the large Demon raised its head. This place was so unlike where she had been before. There were so many things here for her, and it was so wonderful, she would never go back!
+
+Squish.
+
+VULGUS watched as the Level 3 Demon was crushed by the Level 5 Demon. He did not move at first, perplexed at what just happened. What happened to her…? Then a Demon next to him moved— a Level 2 Demon.
+
+She charged with an intensity that drew him forward. Just like how the Level 3 Demon had drawn him from the dark water when he had been about to pull himself ashore. The dark blue skin of Vulgus stood out in the red sky as he threw himself at the Level 5 Demon.
+
+His attack bruised at its skin, leaving marks and swellings. Another two Demons, Level 1 Demons, joined them. The combined attacks of the three pushed the Level 5 Demon back.
+
+The Level 2 Demon rushed forward, radiating an anger that did not need to be said. Her emotions could be felt by Vulgus. And that fueled him. It made him mad too!
+
+And she was crushed.
+
+The Level 5 Demon swiped at Vulgus, battering his body. He flew through the air once more, but this time, nothing more than a broken mess.
+
+The dark blue Demon was squashed and left for dead a moment after.
+
+IGNOM knew the large Demon was trouble the moment he saw it. He wasn’t a fool. He had encountered its kind before. Back when he was with his own companions.
+
+They had been slaughtered, and he somehow escaped then. Only to run into the foolishly chipper Level 3 Demon that suicided into the large Demon. Perhaps he should have felt a sense of loss over her death. But right now, all he could think was to save himself.
+
+He turned and ran. And that was the right move.
+
+Four other foolish Demons attacked the large Demon, only to be killed in mere moments while the rest stared on in shock. Then the shock that held them broke, and they made for a break for it as well.
+
+However, Ignom was a ways ahead of them. And he left them all behind, letting the large Demon slaughter the rest. He had to live. They didn’t matter.
+
+Not to him.
+
+—--
+
+Ignom ran and ran and ran. Not just from the large Demon, but from the other wild Demons he would encounter. They would assail him— assail a group he was in. And the group would always try to fight back.
+
+Foolish, he thought.
+
+Fleeing once more, Ignom escaped death for another moment. There was no use fighting back against these wild Demons. Especially not the [Hellhounds] that tore apart [Demon Larvae] like they were nothing.
+
+Unfortunately, those [Hellhounds] proved to be enemies he couldn’t run from.
+
+They chased after him and caught him with ease. They began ripping and tearing into his body as he curled up, desperately trying to escape death. That was until they were all blown apart— incinerated by flames that did not touch him.
+
+A figure loomed over him. A blue Demon with a crooked horn. Ignom tried to identify him, but couldn’t.
+
+All Ignom knew was that the Demon with crooked horns spoke a word and he was seized. Several pairs of hands carried him and threw him to a group of [Demon Larvae]. But unlike the other groups of [Demon Larvae] he had been a part of, he realized that these ones were like him. Not foolish.
+
+Afraid.
+
+—--
+
+Ignom was herded alongside the other [Demon Larvae], not knowing where they were being brought to. However, he stayed in line, the words of the Demon with crooked horns gripping him with fear.
+
+“Keep on moving! If you break, you will be killed!”
+
+Or at least, that was until the other [Hellhounds], [Hellbeasts], and wild Demons showed up. A swarm of them attacked their procession, and Ignom knew what would happen next. They would be overwhelmed— there were so many of them, they came like a wave.
+
+Ignom watched hesitantly at first as the wild Demons charged. But when it became clear they were outnumbered, he did what he would usually do. The smart thing.
+
+He ran.
+
+Ignom broke and fled, along with a number of other [Demon Larvae]. Not foolish, he thought, confirming his assessment from before.
+
+He made the right decision, the only intelligent choice, and ran from the horde of wild Demons. They would be overwhelmed and slaughtered, after all. That was what always happened. Or at least, that had been the deluded thoughts of Ignom.
+
+Then reality hit him like a spear. It pierced through his skin and skewered him to a wall. His vision turned black, like the blood that poured out of his dying corpse. Confusion had taken him for a moment, but a voice broke him from it, making him realize that in the end, he had been the fool.
+
+“I had warned you! I warned you you would be killed! Learn this lesson, the rest of you—”
+
+TABURAS did not understand.
+
+She had wandered the world aimlessly— her birth was not accompanied by any others. She saw rocks and black pools forming, and understood not how the rocks were made or why the dark rain fell.
+
+Everything made little sense until she encountered the other Demons like her. And while she perceived their existence, she did not know why they existed. Nor why she existed in the first place.
+
+That was, until she saw the large Demon. At first, she had been surprised. When the Level 3 Demon was squished, she did not know what to do. It was out of the ordinary. Such a thing had never occurred before.
+
+But after fleeing and running into more Demons. More of her kind. Now she understood.
+
+Defeated [Demon Larva - Lvl. 2]!
+
+Experience is awarded for defeating an enemy!
+
+Defeated [Demon Larva - Lvl. 3]!
+
+Experience is awarded for defeating an enemy!
+
+Defeated [Demon Larva - Lvl. 1]!
+
+Experience is awarded for defeating an enemy!
+
+Defeated [Demon Larva - Lvl. 5]!
+
+Experience is awarded for defeating an enemy!
+
+Subspecies [Demon Larva] Level Up!
+
+[Demon Larva - Lvl. 2] -> [Demon Larva - Lvl. 3]
+
+Gained 5 Stat Points and 1 Skill Point!
+
+Subspecies [Demon Larva] Level Up!
+
+[Demon Larva - Lvl. 3] -> [Demon Larva - Lvl. 4]
+
+Gained 5 Stat Points and 1 Skill Point!
+
+Subspecies [Demon Larva] Level Up!
+
+[Demon Larva - Lvl. 4] -> [Demon Larva - Lvl. 5]
+
+Gained 5 Stat Points and 1 Skill Point!
+
+Taburas saw Demons killing each other, and so she followed. With each level she gained, she felt more complete. With each Demon she killed, she reveled in pleasure.
+
+Life had a simple meaning, and it was to simply kill and kill and kill and kill—
+
+And she never once thought that an enemy would be too strong for her.
+
+“What’s this? Another wild Demon?”
+
+The blast of ice from the tall, green Demon sent her flying back. She tried to get up, but realized her entire body had gone numb. It was supposed to be painful— every other time she had been hurt, she had been in pain. Yet, her body felt nothing.
+
+The other Demon— a gangly red one with a pair of wings— laughed.
+
+“Of course it’s another wild Demon. Did you really think finding any survivors after the Advent would be so easy? You should’ve joined me in hunting for them before the Desolation came.”
+
+“As if a Lesser Demon like me would survive that. Whatever, let’s just finish her off and go—”
+
+Taburas struggled to get up. She glared up at the two Demons, not even registering her as a threat. Her instincts drove her forward— or was it what she learned from watching how the Netherworld worked? The ideas instilled in her by her surroundings.
+
+She did not know.
+
+But she pushed forward and everything went dark.
+
+HAEC wondered why the others had to die. Why did his group have to be slaughtered. It was a thought that sat in the back of his mind as he fled from death.
+
+He had been useless. Helpless to face the large Demon. And he ran like a coward.
+
+That pained him for some reason. It made him feel… worthless. Like he had no reason to live. He grappled with that feeling, trying to survive. He fought the wild Demons he could— escaped the fights he wouldn’t possibly win.
+
+But still, he found himself lost. Without a goal. Eventually face to face with the harsh reality that he, too, would die.
+
+He had been resting at the bottom of a hill when the wild Demon jumped him. He did not know where it came from, just that it struck him from behind. His [Vitality] was high, but this wild Demon was higher leveled than him.
+
+It clung onto him, smashing him as he struggled to break free. He tried to push it off, however it held on and smashed him again. And again. And again.
+
+Why?
+
+The single thought crossed his mind.
+
+Why do I even have to live?
+
+He wanted the question to be answered, but there was nothing to answer it for him. So eventually, he stopped struggling. He accepted that he would die, just like the others. He let his vision grow dark and the cold take over him.
+
+His life ended here— snuffed out and put to rest.
+
+.
+
+.
+
+.
+
+Then there was fire.
+
+A blaze of hope lit up inside him as he watched a silver Demon come and defeat the wild Demon. She stood over him, the red sky shining down on her— the wisps of flames around her fading slightly, but she was victorious.
+
+The wild Demon lay dead.
+
+And Haec found a reason to live.
+
+Author's Note:
+
+3,000 words.
+
+So, I had this very cool idea in my head for the first Side Story, and... it was a lot harder to write than I thought.
+
+Perhaps it's because this was my first time writing Tragedy. I'm not really sure how to write a tragic short story, so I felt like it fell a little bit flat. However, I'm not going to dwell on it. The only way I can improve my writing is to write more and experiment in different genres. This was a completely new genre to me, and I tried my hardest to write it well.
+
+Anyway, these kinds of Side Stories will not be common. Future Side Stories will mostly follow the typical side character POV type thing, including characters like Haec, Saffron, etc. This is supposed to be the Side Story for last month, and I know I'm a little bit late, however I am unfortunately a tiny bit busy between Uni, Melas, Salvos, and having a life outside of it all.
+
+That means there'll be another Side Story for this month, however, unlike this Side Story, it will only be available to the $10 tier. That's right, this is the first and only Side Story that will be made public. As mentioned before, my patreon tiers have changed and it is now as follows:
+
+$1 - General Support, no reward but my gratitude.
+
+$5 - Access to 19 Salvos chapters ahead on patreon, soon to be 20.
+
+$10 - Access to Side Story chapters and lore stuff.
+
+$20, $50, $69 - Vanity tier and a chance to contribute to the story in a significant way.
+
+If any of this appeals to you, I do hope you consider supporting me on patreon. I am currently a full time student working as a full time author too, and I would really like to make writing my job after I finish Uni (soon this year) instead of going to Law School to become a Lawyer. Because I'll be honest, I have heard a lot of horror stories from Lawyers I know, and I'd rather not... deal with that.
+
+So consider supporting me here: https://www.patreon.com/MelasD
+
+I hope you enjoyed it, and let me know what you think! This was meant to be a Tragedy, provide a bit of backstory on Haec, and explore the Netherworld even more since I really liked writing about that place and the Demons in it!
+
+The meaning of the names behind some of the characters here were quite obvious, but some are less so. Can you guess all of them?

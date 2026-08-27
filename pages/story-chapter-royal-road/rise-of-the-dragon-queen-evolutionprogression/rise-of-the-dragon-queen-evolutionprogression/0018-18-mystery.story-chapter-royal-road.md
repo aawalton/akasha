@@ -1,0 +1,209 @@
+---
+id: 7de6098e-3ce4-530c-b639-4ee779924499
+page-type-slug: story-chapter-royal-road
+title: "18 - Mystery"
+slug: 0018-18-mystery
+partOf: rise-of-the-dragon-queen-evolutionprogression
+position: 18
+ownLength: 1949
+unit: words
+publishedAt: 2025-10-11
+link: "https://www.royalroad.com/fiction/129546/rise-of-the-dragon-queen-evolutionprogression/chapter/2669181/18-mystery"
+royalRoadId: "2669181"
+---
+
+Stella's eyes fluttered open amidst a waking dream. Humming filled her ears, deep and following some predefined rhythm.
+
+It was ominous, growing louder until she realized it wasn't humming, but chanting. The language wasn't familiar, but it was very short, blunt, and harsh like a razor blade.
+
+The scene in her dreams was blurry, in the usual sort of way that was constant for most of her dreams. The shapes grew slowly more defined, the sources of the chanting becoming more apparent. People in long, black cloaks stood against the bloody walls of an underground cellar.
+
+As Stella became more skeptical and more confused, she realized she could understand, to some degree, what they were chanting about. It was instinct more than anything that told her she had to go to them, that any other choice was a lesser one.
+
+They're calling to me, she thought.
+
+Abruptly, she realized she was dreaming and woke up, sweaty and gasping. The culprit was Fire, who was leaning on her like he wasn't hundreds of pounds. She pulled away, tucking herself underneath Smoke’s wing. She was in her usual circle of sleep, the fledglings taking her old position as wing-blanket.
+
+What was that all about? Oh well, it was just a dream…
+
+***
+
+Stella had decided to visit Timmy, the old farmer who'd grown herbs for his wife prior to her being cured from some mysterious illness.
+
+“It's nice to see you, Stella! Come in!” Timmy exclaimed when he opened the door.
+
+Stella came in and they both sat at the dining table.
+
+“Why have you come to visit?” Timmy asked, smiling.
+
+The old man looked seven years younger with all the worry gone from his face. Stella smiled back at him.
+
+“I'm just here to say hello! And see how your wife is doing!”
+
+“Charlotte is wonderful, all thanks to your medicine.”
+
+“Oh, well, it wasn't completely mine—”
+
+“Charlotte! Come say hi to Stella!”
+
+“Coming!”
+
+Stella blinked in surprise as footsteps echoed, and then his wife, beautiful with curly white hair, entered through the kitchen archway. She smiled at Stella and they shook hands.
+
+“Do you want some cookies? I've heard so much about you, but I didn't know what you'd like, so I just made some of everything.”
+
+“Oh! Yes! I like all kinds!”
+
+“Well, isn't that just right as rain?”
+
+Stella was given a plate of many cookies, which she consumed like a hyper-powered vacuum. As she munched, Charlotte and Timmy said cute things to one another. Then she went to do laundry, even though Timmy insisted he could do it.
+
+“I have to keep busy, especially while I'm building back my strength,” was Charlotte’s explanation.
+
+As Stella continued to enjoy her cookies, she figured now would be the perfect time to ask about the local gossip. Timmy was a farmer on the edge of town, but that didn't mean he didn't talk to other townsfolk.
+
+“Have you heard the recent news?” Timmy asked before she could say anything.
+
+“About the missing people?”
+
+“Ah! You have heard! Quite troubling, isn't it?”
+
+“Yes, it is. That's why I want to learn all I can…”
+
+Timmy nodded, agreeing wholeheartedly. He snatched one of the cookies from the plate and hummed after a bite.
+
+Yeah, those are good… Stella drooled a little.
+
+“It seems they all said something about strange dreams prior to disappearing. Some suspect it's the doing of magic, while others say… Well… They say it's an omen.”
+
+Stella removed one of the five cookies from her cheeks.
+
+“An omen?” She mumbled.
+
+“Yes, something the gods are trying to use to tell the rest of us to pack up and leave while we can. I might just do that, I can't have anything else hurting my wife now, can I?”
+
+Stella swallowed, and it was so painful that tears sprang to her eyes. But she also felt sad, reinforcing the tears with emotion. She clutched Timmy's hand, the one he had just used to pick up the last cookie.
+
+“I promise, I will protect you and your wife,” Stella swore solemnly.
+
+Timmy teared up and then blinked confusedly as Stella took the cookie from his hand and hastily shoved it into her mouth.
+
+“I see you ate them all! Did you like them?” Charlotte asked, coming around the corner in the midst of folding a dress.
+
+“Yes!” Stella and Timmy exclaimed in the same instant.
+
+“Well, I'm glad. I know I can't repay you for helping me, not with money. But I want to do all I can. And after meeting you, I just know you deserve all of it. Do you mind if I call you, granddaughter?”
+
+Stella shook her head, sniffling.
+
+She hugged the warm, wrinkly, charming elderly couple and then decided it was time to leave. She had more investigating to do if she wanted to secure her next round of cookies from Charlotte.
+
+Today she didn't visit Michael. She hoped he wouldn't be too sad without her, but she was duty-bound to become a detective.
+
+The reality was that she was the only one capable of doing this task. Because she was strong and she was a dragon. Others risked getting hurt. Poison, cold, and heat resistance made her the perfect candidate for deadly quests such as this one. But more than that, she wanted to keep others safe.
+
+It was an instinct she couldn't shake, and she wondered if that type of morality was left over from her old life. Maybe, if she had been born without her past memories, she would have become something to fear.
+
+Was that why the King hated all alpha dragons? She had no idea.
+
+Her investigation began with sniffing. Enhanced senses allowed her to get the lay of the land just by hearing or smelling. By closing her eyes and focusing, she could hear conversations on the other side of town and smell baked bread from farmhouses in the distance.
+
+I can even hear rumors and try to find out where people went missing. I'll start my search there.
+
+“The town meeting two days ago? Well, I heard that the council was already looking into the disappearances. But it's not like that leader of ours will do anything, he isn't even from this region, that's obvious by his hair color.”
+
+Okay, new person… One that's less disgusting.
+
+“Mommy! MOMMY, I WANT IT NO!W GIVE IT TO ME!”
+
+Stella covered her ears and reeled in her senses. After her ears had been ringing for about ten minutes, she managed to hear a tidbit of information just beyond where she was, sitting on the porch of a shop.
+
+Apparently, another disappearance has occurred just recently, at a house on the northeast side of Fellheart. Stella went to that area, and though she couldn't pinpoint the house, she could tell who had disappeared by the sound of crying.
+
+There may be another reason, but this is a good start.
+
+It would've been suspicious if she'd went door to door, asking if anyone was missing and requiring a piece of their clothing to track them like a bloodhound, so instead she simply got as close as she could without seeming suspicious and then scented the air.
+
+But the world was full of scent, particularly human scent. It was a tangle, and it was nearly impossible after a certain distance from the home to keep on a trail.
+
+I should train my nose better, then maybe this would be easy, Stella thought, committing to the idea.
+
+Eventually, Stella took to sniffing close to the ground. She for sure looked like a creep. Despite her cute dress and glorious pigtails, she wasn't exempt from being seen as a threat.
+
+As she crouched, sniffing and then waddling forwards, someone tapped on her shoulder and nearly made her jump out of her skin.
+
+“What are you doing?”
+
+It was Michael!
+
+Stella hit him in the chest with her small fists, her natural strength making those ‘play punches’ feel very real to Michael, who thus keeled over.
+
+"Don't follow me around!”
+
+Stella was red-faced as she made her escape between two nearby houses. Michael was too hurt to give chase, so she stopped running and took a seat on a bench, calming herself.
+
+That was embarrassing, Stella thought.
+
+He's a useless tutor who can barely teach me any good skills. But, he can surely STALK PEOPLE like a pro! She thought indignantly.
+
+It was then that an idea struck her. Perhaps another tutor was what she needed to solve this mystery.
+
+Yeah, one that can teach me how to find people without them being suspicious while I do it! Wait… Is that just a stalker… Eh, nah.
+
+But, how did she intend to find a tutor who could teach her something like that?
+
+Stella's search began at a tavern where she asked some locals where to find a tutor. Some of the people there were tutors themselves, but usually for armed combat skills.
+
+In the end, it was a quiet guy who usually went to the local library. It was a small library, nothing like the massive public ones Stella recalled from Earth. The books weren't fiction, but history and law. There honestly wasn't much there, and spiders populated more than people, but sure enough, a guy that fit the description she'd gotten from the tavern was inside.
+
+He has dreadlocks, beautifully dark skin, and thick eyebrows that made him look rather serious when frowning at a book. His dreads were short, and all around, he looked quite young for a tutor. When Stella approached, he looked at her like she was going to bite.
+
+“Yes?” He asked when she didn't speak.
+
+“H-Hi! I'm looking for a tutor, one for skills for like… Investigation?”
+
+He closed the book he was reading and smiled a little, seemingly more comfortable after knowing why a random girl was staring at him with a worried look.
+
+“You mean perception-based intellect skills, I can do that. I will list a few I have, and then you pick what one you want transferred.”
+
+Wow, is it really this simple usually? Michael never let me do something like this. Maybe there are different levels of tutors.
+
+“What do I pay you?”
+
+“Before we decide that, let's see the skill you want. My name's Kadeem by the way.”
+
+“I'm Stella.”
+
+Kadeem listed over fifty different skills, and by the end, Stella didn't know what was up and what was down. She had kinda dozed off after taking a seat across from him.
+
+“So, which do you choose?” Kadeem asked.
+
+Shoot!
+
+“Erm, the one that lets me track people from a distance.”
+
+“Oh! You mean Faded Paths! That's one of my favorites.”
+
+Stella nodded hastily, glad that she hadn't been scolded. Kadeem held out a hand and, assuming he wanted money, she rummaged around her satchel and handed him a silver.
+
+“Is this enough?” She asked.
+
+Kadeem chuckled and then dropped the coin back into her palm.
+
+“At most it'll cost 20 coppers, but that's not why I offered my hand. You'll need to grasp it for me to begin the transfer.”
+
+Wow! This is super easy!
+
+“Whoa, okay!”
+
+She took both his hands, and then a gold light locked their hands together, something flowing into her. She felt giddy, watching the strange light show take place as Kadeem closed his eyes and seemed deep in focus.
+
+Abruptly, the golden tendrils receded, and Kadeem released her hands, a look of pity on his face.
+
+“I'm sorry, even as an Ancient Master class tutor, I can't transfer the skill. It would be easy, especially for me… But your intelligence…”
+
+No! No, I'm not stupid!
+
+“It's too low.”
+
+No!

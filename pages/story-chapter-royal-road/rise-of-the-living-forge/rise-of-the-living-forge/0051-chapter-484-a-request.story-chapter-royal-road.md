@@ -1,0 +1,133 @@
+---
+id: bb8926f3-f213-5ffa-9853-e3981a93f9c5
+page-type-slug: story-chapter-royal-road
+title: "Chapter 484: A request"
+slug: 0051-chapter-484-a-request
+partOf: rise-of-the-living-forge
+position: 51
+ownLength: 1623
+unit: words
+ownProgress: 1623
+publishedAt: 2025-09-15
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2602428/chapter-484-a-request"
+royalRoadId: "2602428"
+markedReadAt: "2026-06-29T20:00:04.435Z"
+---
+
+Arwin’s teeth chattered in his head. His entire body felt like it had been strapped to the back of a very angry dragon. He clenched his jaw as every bone in his body shook and lurched in attempts to free themselves from the fleshy cage that contained them.
+
+His hair stood on end and his skin rippled with waves of goosebumps. Raw magic seared into every part of him, pushing its way into his body without any regard for the weak meat in its path.
+
+This was about as close as one could ever become with the Mesh. He may as well have been a part of it. Arwin’s thoughts were a tiny dinghy adrift in a sea of pure, relentless magic. Waves slammed against that boat in attempt to capsize it and wash his mind away.
+
+Arwin reached deep within himself. He reached past the magic searing through his being and into the very core of who he was. Power crashed against him in relentless waves, growing stronger by the second.
+
+The longer he sent within the Leyline, the closer he felt himself coming to the Mesh. Magic rushed through his entire body like it was nothing more than the bed of a riverbank. It filled everything from his heart to his fingernails.
+
+“Resist it!” Two yelled over the thunderous crash filling Arwin’s mind. “You have to hold strong! Don’t let the magic overwhelm you. But don’t sacrifice yourself for this. You can try again! The Leyline will be here. This is not a sprint. It is a battle of endurance, and you can only win if—”
+
+“Could you be quiet?” Arwin asked. His eyes snapped open and he looked down at Two, staring through the pillar of golden light enveloping him. “I’m trying to concentrate.”
+
+Two’s warning ground to a sputtering halt. His lips worked for a moment as he tried to process what he was looking at. Then he blinked.
+
+“I — what? Did you just—”
+
+“Please?” Arwin asked, a flicker of annoyance shooting through him. The waves of magic crashing against his mind showed no signs of ceasing, and they were really starting to get annoying.
+
+This almost tickled.
+
+At some point, Arwin imagined it would have hurt. But that point would have been before he’d been plunged into a literal sea of magical black lava. It had burned him to his very soul, and he hadn’t gone through that just to emerge the same as he had been before.
+
+That very magic still churned within him. It always would. And in the face of that power, the Leyline was little more than a nice massage that sizzled a bit more than he would have liked. His skin burned, his hair tingled, his eyes watered — and that was it.
+
+Arwin felt no pain at all.
+
+Even just walking up to the Leyline had been less comfortable than actually sitting in it. Now that his eyes had adjusted to the golden light, it wasn’t even that bad.
+
+“What?” Two asked, staring at Arwin with his mouth agape in disbelief. “Concentrate, man. This isn’t about putting on a good show. We’ve all been where you are. If you’ve got the mental fortitude to resist the magic to this degree, then just keep at it. You might actually have a chance of completing the preparations on your first try.”
+
+“I don’t think you understand,” Arwin said. He leaned back in the chair in an attempt to get a little more comfortable. There was only so much he could do when he was sitting on stone, but he still gave it his best shot. “This doesn’t hurt. At all.”
+
+“What do you mean?” Twelve asked. “How could it not hurt? That’s the whole point. The veins of magic within you are getting softened. This is like taking a chisel to cleaning teeth plaque. How could it not hurt?”
+
+“It’s your damn chisel,” Arwin replied. “You tell me. Maybe its broken.”
+
+Two strode into the room, holding a hand up in front of his face to protect his eyes. He clambered up the hill toward Arwin, then reached out to poke a finger into the beam of golden light.
+
+He let out a pained hiss and yanked his hand back, nearly slipping back down the hill in his haste to get away from the Leyline. Two retreated all the way through the door of the room before sending an accusatory glare at Arwin.
+
+“What is wrong with you? It’s working perfectly fine!”
+
+“Is it?” Arwin cocked his head to the side. The tingle had gotten a little stronger. He still certainly wouldn’t have considered this as anything nearing the word painful. “I’m not feeling much at all.”
+
+The annoyance evaporated from Two’s expression as he realized that Arwin was dead serious.
+
+“Wait. Do you really feel nothing?” Two asked.
+
+“Not nothing. Just… not much of anything either,” Arwin replied. He resisted the urge to yawn. That felt like it would have just been rude. “Mildly uncomfortable would probably be the best word for this. Can you turn the concentration up or something?”
+
+“Turn the—” Two cut himself off with an indignant sputter. “That’s a Leyline! A connection to the Mesh itself! Godspit, man. What do you mean, turn it up? It’s raw Mesh! There’s no more up to go! Would his majesty prefer I reveal we actually have a second room with two inexplicably intersecting Leylines perfectly ready to super-charge you?”
+
+“That does sound like it might be more effective.”
+
+“You’ve got to be kidding me,” Two muttered. “I can’t believe this. Even One struggled immensely to withstand the preparations. Are you really certain you feel nothing? And you’re sitting in the chair properly?”
+
+“It’s a chair,” Arwin said flatly. “How do you sit wrong in a chair?”
+
+“I don’t know!” Two snapped. “I’ve never had a conversation with someone undergoing the preparations before. It never came up!”
+
+“What should I do, then?” Arwin asked. He scratched at his neck, taking a moment to enjoy the magic beating against him. It really did feel rather nice now.
+
+An aggressive massage. Starts a bit uncomfy, but it really gets the kinks out of you. At least, I think it would. I’ve never actually had a massage. Maybe I should ask Lillia if she wants to go get one sometime.
+
+“Are you okay?” Two asked urgently. “Are you zoning off? It’s imperative you remove yourself before you fall unconscious. If you pass out in that chair—”
+
+“I was thinking about my girlfriend,” Arwin said.
+
+Two coughed. “I — uh, right. Whatever keeps you going.”
+
+“Not in that way, you pervert,” Arwin snapped. “I — oh, never mind. How long do I have to sit here? This is just ridiculous.”
+
+“I don’t know. This has never happened before.” Two ran a hand through his hair. “Can you feel your magic changing?”
+
+Arwin’s brow furrowed. He reached within himself. There was definitely something happening. Every one of his organs tingled, and he could feel magic flowing through his veins. Two’s earlier explanation of how the Leyline worked did seem to fit.
+
+“I kind of feel… a bit tenderized, I guess?” Arwin guessed.
+
+Two threw his hands up. “Tenderized. You feel tenderized. That thing nearly killed me!”
+
+“Sorry?”
+
+“I — oh, forget it,” Two said, pinching the bridge of his nose between two fingers. “I suppose I’ll go let the clean-up crew know that they won’t be needed.”
+
+“Clean-up crew?” Arwin asked.
+
+Two just shook his head. “You don’t want to know.”
+
+“Fair enough,” Arwin said with a shrug. “So what now? I just sit here until the tenderization is done?”
+
+“I don’t know,” Two said. “Normally, it would go until you felt a real shift. Like the final piece of a puzzle moving into place but not quite slotting itself in. That last step comes with Sunsetting. It’s normally a very easy moment to spot given it’s the first time your body decides to stop trying to kill you.”
+
+“Maybe it’s easier for me because I’ve already been Sunset?” Ariwn guessed.
+
+“Unlikely. If anything, it should be worse,” Two said with a furrowed brow. “The damage your old class took from that forcible Sunsetting should mean you have even more bumps and cracks to smooth over. I think this is above my paygrade. You think you can sit there for a while longer?”
+
+“Don’t see why not,” Arwin replied.
+
+Two shook his head. “Then… do that. I’m going to go consult with One. He’s not ready to meet you yet, but he needs to hear about this.”
+
+Arwin shrugged again. “Sure thing. I’ll be here. If anything like that happens, I’ll get up. Maybe it just takes a moment to kick up to full strength. The tingling has been getting a bit stronger.”
+
+“Tingling,” Two muttered. “I nearly screamed my lungs out the first three times I sat on that chair. And you’re worried about tingling. Keep your ass on that chair until something breaks, Arwin.” The other man blew out an exasperated, disbelieving breath and turned on his heel, starting down the hall.
+
+“Oh, hold on,” Arwin called.
+
+Two spun back to him, nearly racing into the room. “Yes? Are you feeling—”
+
+“Could you bring me a glass of water or something, though?” Arwin scratched at the side of his neck. “I’m thirsty.”
+
+“A glass of water. While you’re sitting in a Leyline. Enduring what has literally killed warriors an entire Tier above your stage.” The white-armored warrior stared at him for a long second as if trying to determine if this whole thing was some giant prank.
+
+“Is that a no?”
+
+Two heaved a heavy sigh. “I’ll bring you some water on the way back.”

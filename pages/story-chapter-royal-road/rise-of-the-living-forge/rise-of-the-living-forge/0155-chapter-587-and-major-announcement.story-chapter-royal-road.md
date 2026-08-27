@@ -1,0 +1,111 @@
+---
+id: db4719a3-9c8a-5c0d-8f4f-9e664b7a4aab
+page-type-slug: story-chapter-royal-road
+title: "Chapter 587 & MAJOR ANNOUNCEMENT"
+slug: 0155-chapter-587-and-major-announcement
+partOf: rise-of-the-living-forge
+position: 155
+ownLength: 1708
+unit: words
+publishedAt: 2026-05-07
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3366671/chapter-587-major-announcement"
+royalRoadId: "3366671"
+---
+
+Even as magic poured into Arwin’s soul, his eyes remained focused on the glowing words twisting to form beneath the name of Lillia’s new armor set.
+
+Midnight Dream
+
+[Soulforged]: Forged at the hands of a Forbidden Soulmancer, the Hearthmother, and an awakened building, Midnight’s Dream was created to be the final set of armor that the Hearthmother ever needed.
+
+[Hearth Passage]: Midnight Dream is connected to the shadows of the Hearth. This armor allows its wearer to use any patch of natural darkness to return to their Hearth at the cost of magical energy. The amount of magical energy needed scales with the distance that must be traveled.
+
+[Visions in the Night]: At the cost of magical energy, Midnight Dream extends its influence into the shadows of all those who fall under its domain, drawing them under its wielder’s control.
+
+[Moonlit Reflection]: Midnight Dream exists simultaneously upon its wearer and their shadows.
+
+[Shadow Drinker]: Drain the light out of all sources near Midnight Dream, pulling magical energy from within them to bolster this item and its wielder. Midnight Dream will repair any damage done to it so long as even a scrap of it remains.
+
+[A Dream of Darkness]: The wielder of this item can temporarily transform parts of their body into shadow at the cost of magical energy. While they are in a shadow form, they are completely immune to all manner of physical attacks. However, [Shadow Drinker] cannot be used in this state. Bright light and magical attacks will severely damage the wielder while they are in this state.
+
+[Born of Night]: Midnight’s Dream can be shifted to reside entirely upon its wielders shadow whenever its wielder does not desire to wear it. The armor can re-form itself upon them after a short delay so long as there is a patch of darkness near them.
+
+[Soul Armor]: Midnight Dream’s status is unreadable to all but the ones who made it and its owner. It is resistant to all forms of magic and physical impact.
+
+The Infernal Armory fell completely silent as everyone stared at the finished set of armor laying before them. Not one of them dared even speak as they read over the long list of abilities granted to Lillia’s new equipment. Just reading through it was a challenge in itself. The sheer amount of magical energy that creating the item had created made for a very effective distraction.
+
+But even that wasn’t enough to stop Arwin from taking it in. He swallowed. Midnight’s Dream was borderline terrifying. The abilities it granted were ridiculous for a mere piece of armor. Letting Lillia teleport back to the Devil’s Den at will, not to mention turning herself to shadow and becoming completely immune to physical attacks… that was ridiculous.
+
+Arwin was pretty sure that the ability included magically enhanced physical weapons. And if it did, it meant she was basically entirely immune to any warrior class so long as she had magical energy. It wasn’t like she even had to re-materialize to fight back. She was a mage, after all. Lillia could just end a fight by attacking with her shadows or reposition to a better location if things were going poorly.
+
+But the armor’s abilities didn’t stop there. There was no doubt that this was the most ambiguous of all the Soul Items he’d made. A number of the abilities seemed to heavily revolve around the shadows that fell under Lillia’s domain. Arwin didn’t have the faintest idea as to what that meant.
+
+He finally managed to pull his eyes away from the finished armor to glance at Lillia. Judging by the look on her face, she wasn’t quite as confused as he felt. Her eyes were wide with a strong mixture of disbelief and desire.
+
+“Godspit,” Lillia whispered, finally breaking the spell of silence that hung over them all. “This…”
+
+“Not half bad,” the Armory said, rubbing its obsidian hands together to create a rather loud, grating screech. All three of them winced. The Armory let its hands drop. It paused for a moment, then continued. “A set worthy of being proud of. This is the difference that I create. This is what I am truly capable of.”
+
+“And we helped too, a bit. Motivational support, really,” Arwin said dryly as he wiped the sweat from his brow.
+
+Lillia let out an amused snort, though her eyes never once left the armor. “Did we? I thought we were just standing around and looking pretty. I don’t remember helping much at all.”
+
+“You are being sarcastic,” the Armory said. “Stop that. I do not like it. You were also helpful in the creation of the armor.”
+
+“Thank you. I’m relieved to know that you feel that way,” Arwin said with a straight face. “I don’t know what I’d do if you didn’t think we—”
+
+“But if there were three of me, I imagine I could have done even better, should such a thing even be possible,” the Armory said. It shook its head sadly. “Unfortunately, such a vision will remain a dream. There can never be more than one of me.”
+
+Arwin coughed into his fist to hide a laugh. He wasn’t sure if he’d ever get over the Armory’s incredible arrogance. But, unfortunately for the Armory, he was a bit too connected to the building for him to actually believe many of the words it spoke.
+
+The building’s true thoughts had been made more than clear to both him and Lillia from when they had been join in the song of creation. Not a single one of them could have created anything like this on their own — and the Armory didn’t truly feel like it was any better than they were.
+
+Not by much, at least.
+
+Arwin and Lillia exchanged a wry glance. Then Lillia gingerly approached the dark Soul Item. She crouched beside it, letting a hand rest against its black surface. A ripple of shadow coiled up from the armor and slithered along her arm. Then, as Arwin watched raptly, the entire set transformed into a stream of darkness and vanished into her shadow.
+
+Lillia rose back to her feet. Shadows twisted into being around her body. Sharp edges materialized from pools of inky black. Within seconds, Midnight Dream formed around her. The armor looked even more imposing on her body than it had on the ground.
+
+It covered her body completely in a perfect fit, leaving no part of her flesh exposed. The only part of her that he could make out was the faint purple glow of her eyes hidden behind the vertical lines protecting her face. Everything else was covered in armor and wrapped in darkness.
+
+Lillia shifted her stance, then bounced up and down on the balls of her feet. Shadows clung to her body like scraps of tattered cloth. The armor didn’t make so much as the faintest sound as she moved. It was perfectly silent.
+
+“This is incredible,” Lillia said. Her voice emerged from the armor warped. Colder. Even though Arwin knew damn well who was behind the faceplate, a faint prickle of ice still rolled across the back of his neck. Lillia didn’t seem to notice. “I can move so easily. And it’s so light. I can barely even tell I’m wearing armor!”
+
+“As expected,” the Armory said. “Did you expect anything less than perfect from me?”
+
+The armor rippled, then blew apart into fragments of smokey darkness to leave Lillia standing in her plain clothes once again. She looked down as the scraps of her armor flowed down into her shadow, then raised her gaze again.
+
+“I… I’m not sure what to say,” Lillia said. She swallowed. “This is incredible.”
+
+“You have already said that,” the Armory said. “But you may feel free to say it again. A few more times, if you wish. No more than that. I am not an egomaniac.”
+
+Lillia let out a snort of laughter.
+
+“What?” The Armory asked. “I don’t appreciate that response.”
+
+“Nothing,” Lillia said, coughing into her fist. Then she let her hand lower as her features grew serious. “I…seriously. Thank you. Both of you. This might be the nicest piece of equipment that I’ve ever had. That somehow includes all the Legendary items that I had back in the Horde. That description might actually be right. I can’t think of a single piece of armor that could ever replace this.”
+
+The Armory scoffed. “Of course. That would be because—”
+
+It didn’t get to finish the rest of its sentence. Lillia pulled its body, which was still really just a chunk of shaped obsidian, into a hug. The Armory let out a choked cough. It stood awkwardly for several seconds until Lillia released it.
+
+“What was that?” Lillia asked.
+
+“Nothing,” the Armory replied. “Nothing at all. I’m spent. My energy is low. I will retire.”
+
+Its obsidian body sank back into the ground, meddling with the floor of the Armory and vanishing. A smile pulled across Arwin’s features. He was more than aware of how much magical power he had right now. It was nowhere near the point where there would be a need to rest and recover.
+
+Looks like even the Armory can get embarrassed, huh? Good to—
+
+Lillia pulled Arwin into a tight hug. The breath caught in his chest and his thoughts momentarily sputtered out as her lips brushed against his neck.
+
+“Thank you,” she whispered.
+
+Arwin’s mind ground to a halt for a second. Then Lillia let him go and took a step back.
+
+Arwin coughed. “I — yeah. Of course. You made it too, you know.”
+
+“Working together on something doesn’t absolve anyone of appreciation,” Lillia replied with a wry smile. “And I don’t exactly need to thank myself. I know I did a good job. I’m looking forward to seeing just what this armor is capable of... and cashing in all the magical energy I earned for making this. This is a boost in more than one way.”
+
+“Yeah,” Arwin said, swallowing as his thoughts finally pulled themselves back on track. A grin crossed his own lips. “Me too. With the amount of magic I just earned… well, I don’t think I’m going to be an Adept for much longer.”

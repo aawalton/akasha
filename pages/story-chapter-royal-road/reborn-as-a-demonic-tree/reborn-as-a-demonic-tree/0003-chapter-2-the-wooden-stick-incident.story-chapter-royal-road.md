@@ -1,0 +1,147 @@
+---
+id: 34617953-160d-589f-9900-f2087f8f0691
+page-type-slug: story-chapter-royal-road
+title: "Chapter 2: The Wooden Stick Incident"
+slug: 0003-chapter-2-the-wooden-stick-incident
+partOf: reborn-as-a-demonic-tree
+position: 3
+ownLength: 1446
+unit: words
+ownProgress: 1446
+publishedAt: 2023-01-07
+link: "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/1081297/chapter-2-the-wooden-stick-incident"
+royalRoadId: "1081297"
+markedReadAt: "2026-06-29T19:01:35.259Z"
+---
+
+The courtyard was desolate—a cold breeze rustled Ashlock's scarlet leaves as his mind slowly awoke from a long sleep. Ashlock jolted awake as a sound similar to a ding resounded in his head. In confusion, Ashlock read the string of words that materialized in his mind.
+
+Idletree Daily Sign-In System
+
+Day: 1050
+
+Daily Credit: 1050
+
+Sacrifice Credit: 6
+
+[Sign in?]
+
+"Sign in?" Ashlock stared at the question.
+
+"Oh right, the system unlocked." Despite months passing, to Ashlock, it had felt like a short nap. "So my system is a sign-in system?" Ashlock had read many novels back on Earth, and a sign-in system was common.
+
+They rewarded the system user for remaining in a certain location for a long time by providing escalating rewards with each passing day. Eventually, all these wastrel young masters that had been banished to the cold palace, never to be seen again, returned after a hundred years as an undisputed existence with enough wealth and power to rule a nation.
+
+But Ashlock was a tree.
+
+What use were weapons, cultivation pills, or immense wealth to a tree stuck in a courtyard? "Well, on the plus side, if the rewards increase over time, I can sleep away until I gain something useful to me… like maybe some new skills? Or a way to cultivate faster."
+
+Ashlock accepted the fate that he would spend a lot of time talking to himself about various things; the question is, how long until he went mad? Maybe he was already mad. He had consumed humans for nutrition and hadn't batted an eye.
+
+Seeing no harm in trusting the system, Ashlock decided to [Sign-In].
+
+[Sign in successful, 1056 credits consumed…]
+
+[Unlocked an A-grade skill: Eye of the Tree God]
+
+"Eye of the Tree God?" Ashlock's brain buzzed as the darkness that shrouded him vanished, and his view range rapidly expanded in all directions.
+
+"Ugh." Ashlock tried to close his eyes in a vain attempt to block out the world, but alas, he had no eyes. He could only suffer as his mind was overloaded with more visual stimuli than he had ever endured when he was human. Deciding there was no other way out from the onslaught, Ashlock chose the easy way out and fell asleep.
+
+***
+
+Idletree Daily Sign-In System
+
+Day: 1051
+
+Daily Credit: 1
+
+Sacrifice Credit: 0
+
+[Sign in?]
+
+Ashlock awoke as he felt the presence of a girl he was familiar with. Confused, he spread his spiritual sight and realized the courtyard was empty.
+
+"Where is she?" Ashlock focused on the feeling, and his worldview shifted to an aerial view.
+
+"Wow..." Ashlock looked down at a small tree in the central courtyard of a Chinese-style pavilion. It was the size of an adult with beautiful red leaves and rugged obsidian bark. "Is this the power of the [Eye of the Tree God] skill?"
+
+Ashlock zoomed out, and now an entire mountain was in view.
+
+A lone girl with flowing blonde hair climbed up a thousand steps to the pavilion's entrance.
+
+Ashlock recognized her as the girl who had helped him unlock his system all those months ago. He watched for a bit longer, but from the aerial view, she was a tiny speck climbing a very tall mountain.
+
+"It kinda feels like watching drone or CCTV footage." Ashlock hummed to himself as he rotated and moved the view to look at the pavilion from all sides.
+
+The massive pavilion was built atop the mountain with walls of pristine white stone topped with black wood roofs. There were also red vines covering the mountain and growing up the walls.
+
+Other than the central courtyard containing Ashlock's body, there were another four courtyards with varying features. One included a herb garden with many exotic plants—another had a large pond with fish similar to Koi swimming around.
+
+Ashlock also spotted a training courtyard with a sandy-looking floor and training dummies made of wood. The final one had a raised stone platform covered in strange runes.
+
+During the tour of his home, Ashlock also spotted a few humans walking past the pavilion's windows. "So there are other humans here. Why does their presence not awaken me like the girl?" A mystery for another time.
+
+Ashlock started to feel a strain on his mind, so he canceled out the {Eye of the Tree God} skill. "I can't use it all the time? A shame... hopefully, through training, I can use it for longer periods or perhaps increase my view range?"
+
+Then Ashlock remembered the sign-in notification. As if on cue, it reappeared, and Ashlock chose to [Sign-In].
+
+[Sign in successful, 1 credit consumed…]
+
+[Unlocked an F-grade item: Wooden stick]
+
+"…A wooden stick?" Ashlock was baffled. Compared to the last reward, this was almost insulting.
+
+"Shouldn't the rewards scale with time? Was the first reward a first-time sign-in bonus or something?" Ashlock thought back to the system messages and discovered the reason. "It consumed my credits… I had 1056 last time but only 1 today. So I get rewarded for accumulating credits first before signing in?"
+
+This would need more investigation. "But where is my wooden stick?"
+
+Ashlock looked around himself, but there were no wooden sticks. Just purple grass and his black roots. Then as if the system detected his thoughts, a large empty space within himself was revealed, and inside this space was a singular wooden stick. "Is this a pocket dimension?"
+
+Ashlock concentrated on the stick, and to his shock, it vanished from his pocket dimension and materialized a meter from himself in the purple grass. Ashlock tried to summon the stick back, but nothing happened.
+
+A few minutes passed with Ashlock glaring at the wooden stick and shouting random commands in his mind hoping to get the wooden stick back. Finally, giving up, Ashlock noticed he could now see the entire courtyard with his regular sight rather than just a meter. He could even sense the movement of a person through the walls... And they were heading straight toward him.
+
+A sliding wooden door revealed it was the blonde girl with magical abilities that killed the two men. She wore a thick winter-style black robe with a single red lotus sown on its chest area. Moving gracefully, she followed the cobbled walkway through the purple grass and passed the wooden stick.
+
+She paused, and then with a tilt of her head, she bent down and picked up the stick.
+
+Only now, as she ran her finger across its surface, Ashlock noticed a significant issue with the stick—it was too perfect. As if it was a PNG out of a video game. Both ends were perfectly cut, something not achievable in reality, and its surface was smoother than glass. A sly smile appeared on the girl's face.
+
+By her height and features, Ashlock discerned she couldn't be older than ten, but the memory of her murdering two men in cold blood and revealing a decapitated head was fresh in his mind. "Did she notice me… fuck." As a magical man-eating tree, Ashlock was lacking in combat capabilities.
+
+She stepped closer, and Ashlock debated casting his {Devour} skill. Before he knew it, she had closed the gap and patted his trunk with a smile. She spoke a few words that Ashlock couldn't understand, but she seemed happy about something.
+
+Then to Ashlock's relief, the girl turned to leave with the stick. Purple flames flickered across her body, and to Ashlock's shock, she teleported back inside the building using a mysterious movement technique.
+
+"Show off..." Ashlock grumbled.
+
+With the crisis averted, he felt more determined than ever to grow stronger.
+
+"I hope my next sign-in bonus is a better meditation technique."
+
+Sadly, with how his system functioned, it was the Gods' will to decide his fate. He could spend years accumulating credits just to cash in and unlock a worthless item like a sword. "What the hell could I use a sword for anyway?"
+
+Before his intense training session... involving a lot of sleeping, Ashlock checked his status page.
+
+[Demonic Spirit Sapling (Age: 2)]
+
+[Qi Realm: 2nd Stage]
+
+Skills:
+
+{Eye of the Tree God[A]}
+
+{Devour[C]}
+
+{Basic Meditation[F]}
+
+"So weak. Should I sleep until I reach the next realm?"
+
+Ashlock scowled at his F-grade meditation skill.
+
+"Why did I get some dumb eye skill and a wooden stick? Increasing my meditation speed and becoming a godlike tree would be way better."
+
+Taking one final look around the courtyard, Ashlock activated his meditation skill and felt the trickle of ambient Qi through his leaves as he felt his mind drift away.
+
+Unknown to the sleeping tree, the young girl gleefully left the mountaintop pavilion with the [Wooden Stick] in her hand.

@@ -1,0 +1,131 @@
+---
+id: 983c7219-1e3d-5634-8ff7-7d2e01a7c542
+page-type-slug: story-chapter-royal-road
+title: "Chapter 527: Sunsetted"
+slug: 0093-chapter-527-sunsetted
+partOf: rise-of-the-living-forge
+position: 93
+ownLength: 1539
+unit: words
+ownProgress: 1539
+publishedAt: 2025-12-08
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2829970/chapter-527-sunsetted"
+royalRoadId: "2829970"
+markedReadAt: "2026-06-29T20:01:24.485Z"
+---
+
+Caldera collided with the Golden Guardian’s head with an echoing crunch. The statue crumpled in on itself. Obsidian spikes of jagged, solidified magma tore out from beneath the hammer and sheared through the crumpling gold with loud shrieks.
+
+Arwin’s blow slammed the statue back down into the ground and embedded it a foot within the stone like a squashed bug. The entire Guardian lurched, its limbs clanging against the piles of gold as they splayed out in odd directions.
+
+Beads of sweat rolled down Arwin’s brow and his breath came in sharp gasps. The intensity of the power that had just torn through his entire body to wind through Caldera and unleash into the Golden Guardian had been immense.
+
+He was pretty sure he would have passed out had he tried to utilize so much magic before his class had been Sunset. Even with his new resilience, it felt as if he’d been wrung out. Arwin forced his hands to release the hilt of his hammer. All the power Caldera had gathered from repeated, uninterrupted blows against the Guardian had been even more than he’d been expecting.
+
+The Guardian didn’t move again. Its head was still embedded in a pile of melted golden slag beneath Caldera. A flower of glistening obsidian had bloomed to swallow its entire head and carve deep into its upper body.
+
+Coins shifted to Arwin’s side. Olive clambered up the hill he stood on, her eyes going wide as she stared at the fallen statue.
+
+“Holy shit,” Olive said. “What did you do to it?”
+
+“I hit it,” Arwin replied. He paused for a moment as he glanced down at the shattered remains of the statue. “Hard.”
+
+“I suppose this is what happens when you train one strategy a thousand times instead of a thousand strategies one time,” Kien said as he joined Olive. He shook his head. “Definitely stick to hitting things. It works well.”
+
+“We should make sure it’s dead,” Arwin said. “That was a statue. Smashing its head isn’t exactly guaranteed to kill something that doesn’t have a brain.”
+
+“It’s dead,” Kien said. “I got energy from the kill.”
+
+“So did I,” Olive said, nodding to Anna as the other woman joined them beside the fallen statue. “Guess sunsetting your class doesn’t change the fact that you don’t get energy from killing monsters.”
+
+“Interesting,” Arwin said slowly. The purpose of Sunsetting was basically to liberate someone of the main restrictions that the Mesh put over classes to let them focus on exactly what they wanted to do.
+
+Theoretically speaking, I shouldn’t be limited by the crafting-class rules at this point. Killing monsters should hypothetically be able to get me magical energy. I suppose I’m not getting it because I have no desire to kill metal golems, so the energy had no reason to enter me.
+
+That’s… interesting indeed.
+
+“Look,” Olive said, nodding over her shoulder. “The door.”
+
+Arwin glanced in the direction she’d indicated. The Vault exit was open. Killing the statue had evidently been all that was required to let them out again. Arwin banished the Gehenna armor, then scratched the back of his neck.
+
+Huh. That’s…
+
+“A bit disappointing,” Kien said. Then he let out a snort. “You know what the problem with ancient vaults is? They build with the knowledge they have at the time. Shit changes. I bet the statue trap was a hell of a lot more effective when it wasn’t the most common trick in the book. Makes you feel a bit bad for them.”
+
+“Bragging before we’ve actually gotten out of the vault is probably a bad idea,” Anna observed. “That’s just tempting fate.”
+
+“There’s a difference between blind confidence and understanding,” Kien said. He crouched beside the statue and scooped up a gold coin to examine it. “There’s definitely another trap in here. Probably a greed-based one.”
+
+“Greed?” Olive asked. She tilted her head to the side. “I haven’t heard of those.”
+
+“They fell out of practice. People nowadays are more concerned with actually keeping robber’s noses out of their shit rather than teaching them a lesson,” Kien said with a snort. “You see how the ground is completely covered with gold?”
+
+“Bit hard to miss,” Olive said.
+
+“Yeah, well — take too much, and I’m willing to bet the entire room self destructs. Maybe it drops open into a pit or the whole thing catches fire. Who knows. But generally, the idea is you let the thieves that have restraint live and kill the greedy ones so you can feel like you’ve had some kind of positive influence on the world by being a dick about what happens to your gold after you die.”
+
+“Seems like you’ve got opinions on the subject,” Arwin said.
+
+Kien grunted. “Done too many dungeons in my time, Arwin. Seen too many people get killed in terrible ways. It’s why I preferred to work alone. Is it really that different for you?”
+
+“I didn’t do all that many dungeons,” Arwin replied. “I did them to train, sure, but after that… rarely. My focus was more toward the Horde. They didn’t need the Hero clearing out dungeons and accidentally getting himself caught in something they didn’t control. Hell, maybe they controlled the dungeons too. Who knows. Not worth worrying about anymore. So what do you recommend we do here?”
+
+“Take the best stuff,” Kien replied. “There’s a lot of it. Take what we can carry, focusing magical items. We can grab a good bit of gold as well, but don’t go crazy. If you see anything odd, call out a warning. That’s it.”
+
+Arwin glanced at the others. Then he shrugged. Kien seemed confident enough, and the magical items were the reason they were here in the first place. This strategy seemed as good as any other.
+
+“Sounds good,” Arwin said. He paused for a moment as he looked back around the room around them. “Say… do you think they’ll mind if I take a few bits of the golem with me?”
+
+“It’s not in the shape to do much about it,” Kien said dryly. “I doubt they’d mind.”
+
+“Great,” Arwin said. “Then get to it, everyone. Gather up the magical items. Let’s move quickly. We haven’t been here that long, but I don’t want to tempt fate. We’ve got a schedule to keep.”
+
+***
+
+Rodrick awoke.
+
+His heart pounded in his chest like a runaway horse and sweat coated his brow. Thoughts spun through his mind so fast that he could barely grasp any of them. Confusion budded up, but he crushed it out before even an instant had passed.
+
+Rodrick’s mind sliced through the fog that tried to cloud it. Memories clicked back into place as he kept his body’s movements exactly as they had been. He was lying in bed. A rather comfortable one.The sweat wasn’t new, and he’d clearly been having quite an intense dream.
+
+He made sure to keep the beat of his heart at exactly the same eccentric pace as he let his eyes dart around behind his closed eyelids as if dreaming. The last thing one wanted to do when waking up in an unfamiliar place was give away the fact that they had awoken.
+
+Was I captured? How? When? I—
+
+Oh.
+
+Rodrick opened his eyes.
+
+Two sat at a chair near the foot of the bed. The man looked tired. He started slightly as Rodrick moved.
+
+“When did you wake up?” Two asked. “I didn’t even realize.”
+
+“Only just now,” Rodrick replied. He sat up. “How long has it been?”
+
+“A day,” Two replied. “You were exhausted. The first normal thing I’ve seen you do, actually. I was starting to think that literally every single member of the Menagerie was somehow superhuman. But I guess even you can’t tank Sunsetting your class without needing some recovery time. How are you feeling?”
+
+Rodrick paused for a moment. He looked down at himself. Now that Two asked, it struck Rodrick that he felt better than he had in a long, long time. Old aches and pains were gone. His mind felt sharper. Younger, almost.
+
+And his magic… it had changed.
+
+A faint smile pulled at the corners of Rodrick’s lips. He didn’t even need to check his status. Old bindings, restrictions on skills that had been there for years… they were gone. He was no longer a Fallen Paladin.
+
+How am I feeling?
+
+“New,” Rodrick said. “I’m feeling new.”
+
+“New.” Two nodded. “Good. No ill feelings? Destabilization? Odd thoughts or feelings of being… fragile?”
+
+“None. I feel fresher than the day I was born,” Rodrick said. He swung his legs out of bed and rose to his feet. He felt great. The rest had clearly done him a lot of good — and that wasn’t even getting started on the literal benefits of getting his class Sunset.
+
+But those could wait.
+
+“Where’s Eleven?”
+
+“Waiting,” Two replied. “Sleeping, probably. But she’ll be ready. I take it you’re eager to get moving.”
+
+“Is there anything more that must be done to ensure the process is successful?”
+
+“No,” Two replied with a weary smile. “It’s done. You’ve Sunset your class, Rodrick. Congratulations.”
+
+“Thank you,” Rodrick said. “Then please find Eleven. The Menagerie is waiting for me.”

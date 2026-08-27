@@ -1,0 +1,227 @@
+---
+id: eec3830f-600d-52f0-bb24-42639c9f4f89
+page-type-slug: story-chapter-royal-road
+title: "247. Accretion"
+slug: 0036-247-accretion
+partOf: salvos
+position: 36
+ownLength: 1992
+unit: words
+publishedAt: 2021-12-21
+link: "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/810684/247-accretion"
+royalRoadId: "810684"
+---
+
+247. Accretion
+
+Gold light glinted and glittered off fractal panes, pulsating like the molten surface of a volcano.  These panels formed a polyhedron room that shimmered and shifted, constantly rotating as the number of flat faces changed. Each spin would turn the room into a different shape. It morphed into a cube. Then a dodecahedron. Then a pyramid. Then an icosidodecahedron.
+
+And it was in this spinning room, I stood straight as I faced the Devil. Somehow, my balance was unperturbed by the eccentricity of it. I crouched and placed a hand on the glass-like floor. Beyond this lattice that trapped me was a black canvas that stretched infinitely outwards. It was haphazardly painted with speckles of mundane objects like shirts or blankets. However, there were other things floating around that made this abstract world even more absurd.
+
+Water that was caught in the process of falling and frozen in place— not ice, but water. A tree floated above it, shaking like its branches were caught in the wind. There was no wind.
+
+Half of a house hovered against the dark. The base of a fountain was in the midst of shattering, but didn’t shatter. A stalactite hung from a ceiling that wasn’t there. Fragments of objects or places that were ripped out and caught in the pullulating silence of this darkness.
+
+And above it all— above the polyhedron room I was in— came the source of the light.
+
+It was like a ring made from thousands of tons of gold, still burning from the heat of the furnace. I followed its edges as it expanded outwards to eternity. A giant, glowing halo. But it wasn’t static; it didn’t just float there. It seemed to spin and swirl into itself. Into a single hole that was somehow darker than its surroundings. As though the gold was being sucked into a vortex of nothingness, and everything else around it was in threat of being swallowed as well.
+
+I gaped at this glorious sight. And the Devil chuckled.
+
+“Yeah… I’d advise you against going out there.”
+
+“Where am I? What is that?”
+
+“You’re in one of the many folds between the Nexeus’ planes. It was probably where you’d end up when you tried and failed to create that portal to the Netherworld a month or two ago. Well, your crushed remains, at least.”
+
+“Huh.”
+
+I slowly took a step back, making sure I could actually walk on the glass-like surface. It took me a moment to gain my bearings, and when I did, I realized I could no longer sense my clone. It was as he said, this was no longer the Mortal Realm. My connection to my clone was gone.
+
+The Devil continued.
+
+“And that thing up there is what you call a supermassive black hole. But don’t worry, it’s not going to swallow us. It’s trapped, just like everything else out there.”
+
+“Trapped?”
+
+“Space and time doesn't work the same way here as it does in the planes of the Nexeus. Don’t get me wrong, it does work, unlike the void beyond. That’s how things can even exist. But it’s… broken.”
+
+“What about this?”
+
+I tapped my foot on the floor. It clinked like it was made of some kind of metal.
+
+“This is my own pocket dimension. In here, time and space works like normal. I can make it bigger, of course. But that isn’t necessary— I rarely have guests over, you see.”
+
+He shook his head. The Devil was back to his normal self, no longer pretending to be a Human. With a flicker, I joined him and reverted out of my [Partial Mortality] form. He continued.
+
+“Anyway, that’s enough about me. It’s time for your training to begin.”
+
+He sauntered over to me and crossed his arms. I cocked my head.
+
+“My training? What am I supposed to do in this tiny space?”
+
+I gestured around— I could probably hop back and forth from one end to another with very little issue. The Devil smiled.
+
+“Ah, but there are two facets to every lesson. The first is the theoretical, and the second is the practical. Just like a professor standing in front of a lecture hall, I brought you here to edify you, dear daughter.”
+
+“I’m not your daughter.”
+
+“Look around. Don’t see with your eyes, but see with your mind. You are not grasping just the scale of this place.”
+
+“What do you mean? It’s pretty big, yes, but—”
+
+I narrowed my eyes as I activated [Planar Navigation]. The Skill normally allowed me to see the world around me through the space it occupied. And, well, I found myself staring at what appeared to be a one by one foot of space.
+
+I blinked.
+
+“What is…?”
+
+“Now you see what I’m talking about.”
+
+The Devil grinned as he spread his arms wide.
+
+“That is right. This entire world of black you see around you is no larger than your Lair, Salvos. It is tiny. And yet, here you stand. And yet, here we stand. Beneath that monolith of death. An infinite abyss.”
+
+“But… how?”
+
+I worked my jaw. He laughed.
+
+“Isn’t it obvious? Space here is warped, as I said. We are smashed between the planes. Between the Mortal Realm and the Netherworld.”
+
+“But how are we even here? Shouldn’t we be instantly crushed too?”
+
+“That, my dear daughter, is thanks to space magic. The very same you wish to master.”
+
+The Devil twirled around and strutted away from me. He placed his hands on his hips before he continued.
+
+“Now that I have shown you theoretically the kind of power you can attain— that you can grasp. You, yourself, will have to work towards it.”
+
+He snapped his fingers, and everything dissolved around me. In the blink of an eye, I found myself standing at the bottom of a steep cliff. I was inundated by a deluge of light. It washed over me, nearly knocking me over with how bright it was compared to the place I was in just before.
+
+The cliff that loomed over me oversaw a vast and vibrant landscape. Colorful with splatterings of orange and red and yellow. Tall, crooked pillars of stone rose up like trees, covering this rocky forest with sharp shadows. These rock formations were multi-layered. Strata that formed a gradient from a brighter shade of red above to a darker shade below.
+
+Canyons and crevices creased the earth like the lines on a leaf’s surface. But there were no leaves here. No trees. It didn’t even look like there’d be any rain for days or months.
+
+My brows knitted together into a frown.
+
+“Where are we now?”
+
+I looked around, taking in this barren landscape. I was either in a desert at the top of a mountain range, or I was in a deep gouge with tall cliffs and mountains.
+
+“This, my little girl, is the Beastmen Plains. Or, at least, the entrance to it.”
+
+The Devil stepped aside, letting me take in the view. When I was done gawking, he continued.
+
+“Your first practical is very simple: you need to grow stronger.
+
+“I… what?”
+
+I stared at him, puzzled. But he didn’t care to elaborate.
+
+“Simply put, you are forbidden from using any of your Subspecies’ Skills here. Instead, you are to level your Class and only your Class.”
+
+“Um, why? Aren’t I trying to get a Grand Skill for my Subspecies?”
+
+I questioned him further, and he sighed.
+
+“A Grand Skill cannot be created from nothing, Salvos. It requires peril and danger and experience and knowledge. Your Class is barely even above 50. The first step you need to make before you can attain a Grand Skill is to garner more experience. Only when you have reached your next Class advancement, can you begin the next step of your training.”
+
+“What? Seriously?”
+
+I threw my hands in the air.
+
+“Come on! Why would my Class matter?”
+
+“Oh, it matters.”
+
+His eyes twinkled as he grinned.
+
+“It matters more than you’d think.”
+
+“What does that even mean?”
+
+I asked. Of course, he didn’t answer.
+
+“Regardless, I won’t just leave you to do as you liked, here. Before I leave, I shall give you a simple goal. It’s not too complicated. A simple hunting mission.”
+
+I sighed.
+
+“And what is this mission?”
+
+“Find the Cursed Boulder.”
+
+The Devil spoke simply, and I paused. I repeated after him.
+
+“Um, find the Cursed Boulder?”
+
+“That’s right. I want you to find the Cursed Boulder. It lies somewhere beyond these lands— within the Beastmen Plains. And once you find it, you are to destroy it.”
+
+“That’s it?”
+
+I cocked my head. He nodded.
+
+“That’s it. You may track it down as you please. Ask around— or simply teleport until you find it. But you cannot leave beyond this point.”
+
+He drew a line in the sand behind me.
+
+“You are only allowed to go further into the Beastmen Plains, not away from it. These are the only stipulations you have.”
+
+“I see, I see.”
+
+I nodded along with a hand on my chin.
+
+“But wait— what happens if I destroy this Cursed Boulder and I still haven’t advanced in my Class yet?”
+
+“That will not be a problem.”
+
+The Devil bounced back behind the line and smiled.
+
+“So, any more questions?”
+
+I tilted my head back. In the back of my mind, I felt a connection return. My clone hadn’t vanished while our connection was severed. She had been moving entirely on autopilot without me. And she’d been slowly fading away without my supply of mana. However, just like a Primordial Weapon, she would take a while to fully dissipate.
+
+Not unless she was actively fighting in battle. Even then, I was pretty sure she could sustain herself for enough time without me.
+
+I raised my hand.
+
+“Actually, am I allowed to continue supplying my clone with—”
+
+“Good.”
+
+The Devil clapped, and a portal appeared behind him.
+
+“Now that I’ve answered all your questions, I’ll be taking my leave now. Ta-ta!”
+
+He leapt into the portal and vanished. I watched him go, feeling my arm droop to the side.
+
+“Huh.”
+
+I shrugged.
+
+“He didn’t say no.”
+
+It wasn’t like my clone used up a lot of energy, anyway. Sure, whenever I initially cast [Salvo of Vanity], it’d eat up a huge chunk of my mana. But once that was done, maintaining my clone would be easy.
+
+“Alright, I guess it’s time for me to find that Cursed Boulder, huh?”
+
+I looked around me— at the innumerous number of possible boulder candidates scattered around. And something clicked in my head.
+
+“Wait, is the Devil seriously asking me to find a specific rock? How am I supposed to do that?!”
+
+“And now, it’s time for me to sit back and watch.”
+
+Sal sat in his own little pocket dimension as one of the fractal panels flickered to life, showing Salvos on the other side. He smirked, leaning back and watching the little girl pick up and turn over every piece of pebble she saw.
+
+He yawned.
+
+“This is boring. What about him? What is he up to?”
+
+Snapping his fingers, Sal made another of the glass-like panes glow, and a different scene showed itself right next to the first. Belzu flew with his army towards another city, sending hordes and hordes of monsters forward to crush it without lifting a single finger.
+
+These were the two most interesting events that were happening in the Mortal Realm at the moment, but one was subtle, while the other was sending ripples throughout the world. Both were brilliant blips that could potentially shape the future, however only one would last.
+
+Both were little specks of flames that were going to clash with each other.
+
+“The question is: which of you will burn brightly and quickly, and which of you will scorch the earth and forever leave your mark?”
+
+That was something Sal was eager to find out.

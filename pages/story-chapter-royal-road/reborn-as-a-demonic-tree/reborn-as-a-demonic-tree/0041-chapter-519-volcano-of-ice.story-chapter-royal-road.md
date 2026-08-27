@@ -1,0 +1,203 @@
+---
+id: 19056a67-1d31-5eb9-8689-c97f5cd4a1b8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 519: Volcano of Ice"
+slug: 0041-chapter-519-volcano-of-ice
+partOf: reborn-as-a-demonic-tree
+position: 41
+ownLength: 3320
+unit: words
+ownProgress: 3320
+publishedAt: 2025-12-31
+link: "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/2896441/chapter-519-volcano-of-ice"
+royalRoadId: "2896441"
+markedReadAt: "2026-06-29T19:02:55.044Z"
+---
+
+Stella shepherded Zephyrine out of Tiberius's office as soon as possible, partly because Tiberius seemed about to faint from stress, but also because, frankly, she didn't trust the man. He was the leader of an information guild that had originated from the Celestial Empire, and for the right price, he would disclose anything he knew.
+
+The Ashfallen Sect already had too many enemies to risk giving away valuable information, which included the location and identity of a dragon. Kaida and Astralis were the only two dragons Stella had met so far, and both were incredibly powerful. In times like this, she was sure that all members of the Celestial Empire's Council would be very interested in getting their hands on a dragon, either as a pet, slave, ally, or research subject. They were trying to create the perfect cultivator, after all, and dragons were pretty darn close.
+
+So they had left through a portal Ash had quickly conjured for them, which deposited them high above a destroyed city. Stella had held Jasmine under her arms like a sack of potatoes while Zephyrine returned to her giant, ethereal deer form and casually stood in the air. Stella placed Jasmine on Zephyrine's back first before climbing on herself to take the position closer to the head, as she would no doubt need to act as a human shield for Jasmine as they traveled.
+
+Stella had seen Zephyrine's speed in the past and knew it wasn't something to take lightly.
+
+"Don't worry, I won't let you fall," Stella said, glancing back at Jasmine, who was gripping her waist a little too tightly.
+
+Jasmine relaxed, but only a little. Unburying her head from Stella's back, she looked down at the remnants of the city below. "What is this place?" she asked in a small voice.
+
+Due to the destruction, it even took Stella a moment to recognize it.
+
+"Nightshade City in the Tainted Cloud Sect, I think? That mountain in the center looks rather familiar..."
+
+"Yes, that mountain used to be the Eternal Pursuit Pavilion," Ash said through the shadow lich, who was floating beside them. "Or at least what's left of it after the beast tide passed through."
+
+Stella whistled. The sheer scale of the devastation was hard to take in. For as far as the eye could see, every building had been flattened, creating a swamp of mud, wood, and stone. Even the mountains had sustained damage, no doubt from massive monsters passing by. Nightshade City wasn't only destroyed, it was completely uninhabitable. In the far distance, she could see Zephyrine's storm, which was no doubt shielding the tail end of the advancing beast tide.
+
+"This is what would have happened to Darklight and Ashfallen City if we hadn't managed to divert the beast tide," Stella said and shuddered at the thought. No wonder the mortals and cultivators of the wilderness had long ago accepted that when facing the beast tide, the only option was to relocate, as even trying to wait out the beast tide was pointless, as nothing would remain standing in the monster's wake.
+
+"By the lack of human corpses, I would assume there was a full evacuation before the tide arrived?" Zephyrine asked, seemingly mostly unfazed by the destruction before her, as if she had seen such scenes a hundred times before.
+
+"Yeah." Stella slowly nodded. "Ash used portals to move millions of people to Desolark City. We also made a lot of Yinxi Coins in the process from the Celestial Warden. You know, that guy you almost gave a heart attack to earlier?"
+
+Zephyrine snorted. "That was hardly my fault. Formations are a silly concept that humans came up with to compensate for their weaknesses. I've only ever tried breaching them to kill the humans cowering within—never have I tried to go through the front door, as you called it."
+
+"That's... a reasonable line of thinking."
+
+"No, it's not, Master," Jasmine corrected her.
+
+Stella frowned. "Well, I think it is."
+
+"Zephyrine was coming to meet you, not eat you. She should have tried another way inside after the formation resisted her." Jasmine paused and laughed a little at the memory. "Though it was quite funny seeing Tiberius panic like that. It makes me want to strive for the Monarch Realm even more now."
+
+Stella blinked in disbelief. "Hold your horses there, my ambitious disciple. At least learn to fly before you try reaching for the stars. The Nascent Soul Realm is where the real challenge starts, as you can't ascend until you learn your affinity's law. Not to mention the absurd amount of Qi it takes to power up two separate souls."
+
+Jasmine shrugged. "If it takes me ten years or a thousand, I want to get there someday."
+
+Zephyrine glanced back with those calm eyes of hers. "Ten years, child? You must be joking. Even a thousand years to reach Monarch Realm would be generous for a human," Zephyrine paused, "though, I suppose with the help of that crafty spirit tree you all follow, anything is possible now."
+
+"That's right, my dad is awesome," Stella nodded proudly.
+
+"Hey, are there some monsters down there?" Jasmine asked, changing the subject as she leaned over and squinted at the ground. "They seem familiar..."
+
+"Monsters? Perhaps there are some left over from the beast tide," Stella followed her disciple's gaze, and her eyes widened in surprise. "Is that Guppy?"
+
+"What is a guppy?" Zephyrine asked.
+
+"My pet, a Darktide Devourer that hatched from an egg," Stella said, swinging her leg over and preparing to leap down. "You stay here, Jasmine. I'll be right back."
+
+Jumping off Zephyrine's back, Stella plummeted to the ground like a meteor, and while the landing didn't feel any rougher than when she had jumped from Ash's branches as a kid, the surroundings didn't seem to mirror that sentiment as she obliterated the rubble beneath her and sent up a wave of mud.
+
+"Oops," Stella said, stepping out of a freshly made crater and heading over to the two stunned monsters. Guppy recognized her first, and the serpentine horror gleefully slithered over, drooling corrosive saliva between jagged teeth while the mantis Jasmine had rescued from the Mystic Realm followed at a tentative distance behind. Glancing between the two and patting Guppy on the head, she smiled. "You two have grown a lot! Especially you," she focused on the mantis. "I believe you were in the Soul Fire Realm before and only a meter tall last time I saw you."
+
+While the mantis hadn't grown too much in size, it had certainly matured into a camouflaged killing machine with an impressive Star Core Realm cultivation.
+
+The mantis gave an awkward bow, impressing Stella further.
+
+"I guess that means the language comprehension fruit I gave you worked? The truffles must have too, considering your leap in cultivation," Stella nodded with satisfaction. She had sent these two out into the beast tide to train and also cull the monsters, but had forgotten about them and only now realized she had never given them a way to get back home. "Do you two want to stay out here?"
+
+Guppy let out a sad cry.
+
+"I guess that means no. Sorry about that, you two. I should have come to get you sooner," Stella patted Guppy again and then looked to the sky. From down here, Zephyrine and Anubis looked like two dots. But the power radiating off them was unmistakable. "Ash, could you make a portal for these two back to Red Vine Peak!?"
+
+Tendrils of desolation Qi rose from the ground and interwined in the air beside them. The air trembled as the desolation bore a hole through reality, and a rift was torn open.
+
+"I'm sorry I can't hang around, but go through whenever you are ready. I'll see you both soon." Stella then hurtled back into the sky and landed softly on Zephyrine's back.
+
+"I can't believe it, we forgot about them," Stella said, shaking her head in disbelief.
+
+"I didn't, Master," Jasmine frowned. "I just thought his training wasn't over yet."
+
+"Ah, yeah, right. Me too," Stella nodded. "The extra time we left them out here has shown results better than expected. The mantis saw a leap in cultivation and is now in the Star Core Realm, meaning he is strong enough to act as your guard now. Perhaps with that camouflage ability, he could even be useful for the Covenant. Speaking of which, we should get a move on to the Frozen Star Sect, as I have no idea how long it will take to raise a Fleshtree that can grow bodies."
+
+"Grow bodies... what?" Jasmine asked, blinking in confusion.
+
+"I'll explain later," Stella assured her, dodging having to explain such a strange and gruesome topic just yet.
+
+"Stella, this is as far as I can take you," Ash said, floating Anubis closer. "Since I focused on expanding my roots toward the Celestial Empire, I haven't ventured westward as much as I maybe should have. Since you are also using Zephyrine as your mode of transport rather than one of my Bastions, once you crest that mountain range, I will be unable to see or talk with you."
+
+Stella could sense the concern hidden deep within the shadow lich's golden flame eyes. Ash was worried about her.
+
+"Don't worry, Dad, Zephyrine will be watching over me, and I'll return before you've noticed I was even gone!"
+
+"I somehow highly doubt that," Ash chuckled, "but please be safe. Zephyrine, take care of your little sister."
+
+Zephyrine snorted. "If something can threaten me, we have bigger problems to worry about. She will be fine."
+
+"I suppose that's true," the shadow lich floated a few meters away and paused. "I guess this is goodbye for now, Stella and Jasmine. Please be safe and come back soon. I'll be waiting—same place as always."
+
+Stella nodded and tried to ignore the tear forming at the edge of her eye. Over that mountain range, she would embark on an adventure out of Ash's reach. One that would involve her meeting her brother face-to-face for the first time.
+
+"Hold on tight. If we want to make it there in good time, I'm going to go at full speed," Zephyrine said as storm clouds filled with crackling lightning began to gather around them.
+
+Stella felt Jasmine grab onto her even tighter than before and could hardly blame her. She also found herself gripping tufts of Zephyrine's fur and wondering if she was about to take flight.
+
+"Bye, Dad!" Stella shouted. "I'll be back soon!"
+
+The shadow lich waved back at her, but she could also feel Ash's attention overhead.
+
+"Ready?" Zephyrine asked, but it wasn't really a question. The Monarch Realm deer lowered her head, and the storm clouds around them let out an earth-shattering boom of thunder, and they suddenly accelerated forward.
+
+Stella strained her neck to stop her head from flying off her shoulders and was thankful that Zephyrine had decided to slowly accelerate rather than jump instantly to her full speed. However, as the thunder and flashing lightning around them increased, so did the wind blasting her in the face. Left with no choice, Stella raised an arm and created a shield of aether Qi before her. It rippled violently as the wind battered it.
+
+Well, this is going to be an intense trip, to say the least.
+
+***
+
+Two uncomfortable days passed, with the occasional rest stop along the way to let Jasmine sleep, eat, and recover. While Stella could have survived the whole trip without breaks, she wasn't exactly complaining and was glad she had brought Jasmine along, as it provided a convenient excuse to relax. They often stopped beside lakes with waterfalls. It was peaceful, as with one pulse of either Stella or Zephyrine's soul pressure, every monster for a hundred miles fled for their lives, leaving them alone.
+
+One thing Stella missed, that she didn't usually notice, was Ash's all-encompassing presence. Even when he wasn't directly watching her, she felt his Qi shifting beneath the ground through his roots that sprawled out for seemingly ever.
+
+However, she was determined to make sure that leaving home would be worth it. The dragon bone in her hand suddenly took on a chill, making her glance up and her eyes widen in shock. "I see snow!" she said far too keenly as she pointed into the distance.
+
+Jasmine, who had been half asleep, yawned as she peeked past Stella and instantly regretted it as the wind blasted her in the face. They had to be traveling at over the speed of sound—so if not for being a cultivator and for Stella's protection, Jasmine's neck would have snapped in half.
+
+"Shouldn't be too long now, maybe another day at most," Zephyrine said.
+
+As they drew closer to the snow, Stella noticed something was amiss. The air around them hadn't chilled much, and the onset of ice seemed... abrupt. Especially considering the terrain they had been passing over for the last few hours had been hundreds of active volcanoes and streams of molten magma. Yet despite the sweltering heat making the air shimmer, there was a sudden border with the magma, and then just... ice. Mountains and valleys caked in it.
+
+"Is this all because of the ice dragon you killed?" Stella asked.
+
+Zephyrine nodded. "Monarch Realms have total dominion over their surroundings and even the ability to create inner worlds. When one dies, the environment is bent to their will. Even when their soul moves on, echoes of their existence can last for thousands of years."
+
+"Whoa," Stella said, and then a realization hit her. She was almost powerful enough to cause this. Another visit or two to the Eternal Realm, and her death would affect the world in this way. On that note, what would Ash's death cause once he reached the Monarch Realm? Would the entire layer of creation be devoured by a black hole of desolation?
+
+Perhaps Ash's plan to blast the Council members with his desolation beam would cause more of a fallout than he was expecting. They weren't dealing with Star Core Realms that could blow up a section of a city or a Nascent Soul Realm that could destroy a whole area. No, these were Monarch Realms that comprehended a law of reality and walked around with the power of an inner world barely restrained within them.
+
+"Though I don't remember the ice being this thick the last time I was here," Zephyrine mused.
+
+"Why did you come here? Actually, you never told me why you killed Ilyzathar, as I had us leave Tiberius's office before you could tell me."
+
+"As I said before, it's a long story," Zephyrine said, sighing. Stella was only able to hear her because Zephyrine was infusing the wind howling past her ears with her voice. "But to shorten it as much as possible, I believe Ilyzathar escaped from a higher layer of creation all the way down here. Despite her cultivation being many realms above what you can hope to achieve down here, she was practically suffocating from the lack of Qi. Her body was dying on her."
+
+"Why did she come down so far?"
+
+"No choice. The hunters were likely relentless, and dragons, while powerful, are highly sought after as their flesh, blood, bone, and more can be used in many high-grade pills."
+
+Stella nodded. She couldn't even imagine the amazing pills she could create if she could gut Astralis.
+
+"Hold on, did you speak with Ilyzathar when you met?"
+
+"Barely. After hearing rumors about a slumbering dragon, I went with the intention of begging the great ice dragon for help in saving our mother. However, what I found after months of traveling was a terribly sick dragon on the brink of death after having just given birth to a child." Zephyrine licked her lips. "It was by consuming that dragon's flesh over the course of a year that helped me step into the Monarch Realm."
+
+"You ate her alive while her kid watched?!" Jasmine yelled out in surprise.
+
+"If not me, then another monster would. Perhaps even her own child," Zephyrine said calmly. "Hey, don't frown like that, child. I almost died many times over while searching desperately for Ilyzathar, only to find a living corpse once I arrived. A few more years, and she probably would have passed naturally."
+
+"But still..." Jasmine muttered, looking sad.
+
+"Monsters kill and devour one another. That's how we get strong," Zephyrine said, a hint of firmness in her tone. "Any other monster in my position would have taken the opportunity too."
+
+"It's a brutal world out there, Jasmine. You know this," Stella sighed, looking down at Zephyrine's white fur that blended seamlessly with the frozen landscape blurring beneath them. "Wait, Zephyrine, what happened to Ilyzathar's child?"
+
+"I don't know," Zephyrine admitted. "While I was tempted to eat the child too, I ultimately decided to let it live. While a little risky, I doubt the child will remember me. It was a newborn at the time, hardly the size of my head."
+
+Stella nodded slowly. The conversation died down, and they continued onward. The landscape continued to be nothing but endless white in all directions, with the volcanoes long behind them.
+
+"We are approaching the Frozen Star Sect now," Zephyrine said, waking Stella out of her half-daze. Sure enough, in the distance and dominating the horizon, she could see a truly massive volcano of ice that dwarfed the previous ones she had seen by hundreds of times. The sun reflected off its jagged surface, making the volcano shine with a blue radiance. Stella was in awe. It practically reached up into space and could likely cradle a moon.
+
+"Tiberius wasn't lying," Stella mumbled, pocketing the dragon bone. "I really can't miss it."
+
+"Despite it looking close, I suspect it will take a few more hours to reach the bottom. How are you two holding up—wait," Zephyrine paused and seemed panicked as she glanced at the ground.
+
+"What is it?"
+
+"I don't know," Zephyrine replied. "I felt danger."
+
+"Danger?" Stella said, her hair involuntarily standing on the back of her neck. A deep chill washed over her, laced with intense killing intent. Something was preying on them, something strong.
+
+Zephyrine slowed a little and pulled in the storm surrounding them. She scrutinized the blinding white landscape, but there was nothing to see—just ice-covered mountains.
+
+"Maybe we should turn back," Stella suggested, as Ash's warnings played in her mind. Whatever was releasing this killing intent had to be in the Monarch Realm. Was it the leader of the Frozen Star Sect? Surely not, she had messaged Janus ahead of time to let them know she was coming.
+
+So just who could it be?
+
+Her thoughts came to an abrupt halt as the ground below them erupted like a volcano. Stella didn't even have time to process what was happening, even with the help of her bloodline, as they became surrounded by a storm of hail made of ice shards the size of buildings.
+
+"This is bad," Zephyrine said, radiating her soul pressure to take control of their immediate surroundings. "You two should get out of here."
+
+"Zephyrine!" a godly beast roared, its voice laced with the weight of an inner world, shaking Stella's soul to its core. She felt Jasmine faint onto her back. "How dare you show yourself before me again!"
+
+With a pulse of spiritual pressure, Zephyrine wiped out the surrounding storm, revealing the foe that had been lying in wait, floating before them. It was a truly massive dragon, whose body seemed to be carved from translucent ice with a mane that flowed like a snowstorm given shape. His eyes were deep and ancient, the color of glaciers, and carried a keen intellect and rage.
+
+"Ao Lingxuan," Zephyrine said calmly. "I didn't expect you to still be alive."

@@ -1,0 +1,125 @@
+---
+id: ac3c2ff2-f682-510d-aca0-45c883e77c9a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 491: Sunset"
+slug: 0058-chapter-491-sunset
+partOf: rise-of-the-living-forge
+position: 58
+ownLength: 1604
+unit: words
+ownProgress: 1604
+publishedAt: 2025-09-25
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2628279/chapter-491-sunset"
+royalRoadId: "2628279"
+markedReadAt: "2026-06-29T20:00:17.434Z"
+---
+
+Arwin wasn’t sure how long he stood there. The passing of time seemed to turn into little more than the hiss of sand rushing past his ears. All he knew was that time had passed. Nothing else mattered.
+
+Every part of his focus was on Lillia. If the faint twitch of her tail hadn’t been proof that she was still awake, he might have wondered if she’d fallen asleep or passed out. Standing out here and watching Lillia push through the preparations to Sunset her class was a thousand times more painful than doing it himself.
+
+He was dimly aware of Two’s presence beside him. The other man had been muttering under his breath the entire time, but not one of the words had reached Arwin’s ears. He’d taken to pacing back and forth, occasionally taking a half-step into the room before changing his mind and turning back.
+
+Time passed on.
+
+Minutes, hours, it could have been either. Arwin was pretty sure it hadn’t been much more, though. The Hungering Maw would have started acting up if that much time had passed. Even if it had, Arwin wouldn’t have budged from this spot until he had absolutely no choice but to move.
+
+And then Lillia’s eyes snapped open.
+
+Two let out a startled curse as Lillia abruptly shot to her feet like she’d been stung on the backside. Her gaze seemed to shift in and out of focus for an instant as she squinted through the molten gold light, swaying in place.
+
+Then Lillia stepped off the platform and slid down the side of the twisted hill. She stumbled at the bottom but caught herself before she could fall. Arwin met her halfway to the door before he even realized that he’d moved.
+
+“Are you okay?” he asked.
+
+“Tenderized. Like a pork chop,” Lillia said. Her voice sounded slightly more distant than normal, as if her thoughts were still back in the beam behind her.
+
+The two of them stepped out into the hall. Two closed the door behind them with a heavy thud before spinning to Lillia.
+
+“And you feel… different?” Two confirmed. “You sense the shift?”
+
+“It was like there was a pop,” Lillia said. “And then things stopped changing.”
+
+“Shit,” Two muttered. “Another one of you. On your first try. Absolutely fucking ridiculous. We need to move. The next stage should be cleaned up and ready for you. Follow me.”
+
+“Cleaned up?” Lillia asked.
+
+Two didn’t respond. He was already striding back off the way they’d come. Arwin and Lillia followed after him. Despite Lillia’s disorientation, she didn’t seem to need any assistance walking — and Arwin didn’t offer it.
+
+He just kept close enough to her that she would have a shoulder to grab onto if the situation arose. For whatever reason, she hadn’t had nearly as easy of a time with the preparations as he had.
+
+The three of them were outside in record time. Two led them back over to the mouth of the volcano. Lillia blinked as she looked down along the path to the platform waiting for her just above the lava.
+
+As Two had said, it had been cleaned. Arwin didn’t envy whoever had been granted that job. Whatever the black fluid that had come up from up from him had been… it certainly hadn’t been something he’d want to be anywhere near. Especially not in these boiling temperatures.
+
+“What do I do?” Lillia asked.
+
+“Go down to the platform,” Two replied. “The hard part is over. All that remains is to focus on you. Who you truly are. What you truly desire. Sit down upon the platform and allow your magic to align itself with who you’ve become.”
+
+“That’s it?” Lillia asked. “It’s a fancy meditation course?”
+
+“Why are people always surprised when something is straight forward?” Two asked. “Not that it is. You’ll see. But don’t waste time. You don’t want your magic to settle back down. The sooner you make connection with your desires, the sooner everything will set and the easier it will be.”
+
+Lillia nodded. She stepped away from them, striding down the path without another word.
+
+“How long did this bit take me?” Arwin asked, not taking his eyes off Lillia as she descended toward the platform.
+
+“Impatient, are we?” Two asked. He swallowed, then shook his head. “Not nearly as long. But Lillia is past the most difficult part. For her to have endured that on her first try, without any of the normal training before preparation… what is wrong with the two of you?”
+
+“Maybe it has something to do with already being Sunset once.”
+
+Two let out a noncommittal grunt. “I don’t know anymore. But it looked like Lillia could feel at least some of the pain that she should have. I was beginning to wonder if the Leyline wasn’t working right. Now I’m wondering if we’re all just weak. She didn’t even flinch.”
+
+“She’s Lillia,” Arwin said, as if that answered every question.
+
+And it did.
+
+Neither of them spoke again. They just stood in silence, staring down at the platform as Lillia arrived upon it. She lowered herself into a seated position, crossing her legs beneath her, resting her arms on her knees as she closed her eyes.
+
+The Mesh said it wanted to speak with her as well. I wonder what it’ll say. I wonder what it’ll change. Will it make it so that she can make more taverns? Unbind her from the current one so she can properly travel? Or make the bindings stronger?
+
+There would be no answer. Not until she was done.
+
+And, while Arwin had never felt himself a particularly impatient person, that moment couldn’t come soon enough. He would have done a great number of morally ambiguous things just to get the answer a little sooner.
+
+Sitting around and doing nothing but watching was just painful. But there was absolutely nothing he could do to help. Arwin’s lips thinned. The only thing making this marginally better was the knowledge that there was absolutely no chance that Lillia would fail.
+
+She was Lillia. He had faith in every member of the menagerie, but Lillia was the Demon Queen. He knew her inability to be struck down better than anyone else. After all the times they’d fought, it was hard not to.
+
+But what will we do for the next person we choose? Who am I going to put at a risk like this? I can’t protect them by preventing them from getting stronger. We have to take advantage of the ability to Sunset our classes.
+
+Who can I tell to do it first, though? Especially when it’s likely it’ll be some time before the next? They’ll have to train for god knows how long, which means I’ll have to leave them with Setting Sun. I don’t want to spare anyone from the Menagerie. I want them all home… but I can’t exactly have that.
+
+“Not everyone is going to be as easy as you and Lillia,” Two said, his eyes not leaving the platform in the center of the volcano. “Whatever the reason, I know for a fact the two of you were a special case. We can’t take the risk with others.”
+
+“What, can you read my mind?”
+
+Two let out a sound that might have been a laugh. “No. But I’ve seen that look on your face before. Whenever I spoke with One while he was deciding which of our recruits to attempt to Sunset.”
+
+“Is this where you tell me it’s safe provided sufficient preparation?” Arwin asked.
+
+“No,” Two replied. “This is the part where I tell you to choose the right person or don’t choose at all. If they aren’t ready, preparations or not, their class could be irreparably damaged. You’re the guild leader, Arwin. You don’t get bullshit. You get the truth. Your feelings aren’t part of the equation.”
+
+Arwin grunted. He didn’t say anything else. There was nothing else for him to say. His thoughts were already adrift — and he wasn’t about to select anyone at all without talking to Lillia first. It felt a bit invasive, but there was literally nobody who knew every member of the Menagerie better than Lillia did. The Devil’s Den revealed all of their stats to her, after all.
+
+Minutes dragged by.
+
+“Why is it taking so long?” Arwin finally asked, the impatience forcing its way past his lips. “Did I really take this long?”
+
+What is the Mesh telling her?
+
+“Yes,” Two said flatly. “Much longer, actually. Just wait. I would tell you to relax, but it’s pointless. I already know. But nothing can be changed at this point. Whatever changes occurring have already happened. This is just letting the sediment settle.”
+
+Arwin was midway through forming a reply when Lillia suddenly lurched forward, catching herself with her hands an instant before her face smashed into the hot stone platform. She heaved, a deluge of black sludge pouring from between her lips as she hacked and sputtered for breath.
+
+“You’d think getting rid of all that incompatible magic would feel better,” Two observed. “But it never does.”
+
+Arwin didn’t offer up an answer. He was too focused on Lillia. She continued to throw up for another several long seconds, the vile liquid splattering across the platform all around her as Lillia’s body purged itself.
+
+And then her eyes raised.
+
+Lillia’s gaze met Arwin’s.
+
+He didn’t need any words. The look within her eyes was more than enough. Whatever conversation she had had with the Mesh… it was over.
+
+The Demon Queen had Sunset her class.

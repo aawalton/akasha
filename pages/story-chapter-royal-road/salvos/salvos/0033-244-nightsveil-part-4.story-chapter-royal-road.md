@@ -1,0 +1,267 @@
+---
+id: 8ecc080e-da82-59a8-ac86-63b5ab658ae8
+page-type-slug: story-chapter-royal-road
+title: "244. Nightsveil Part 4"
+slug: 0033-244-nightsveil-part-4
+partOf: salvos
+position: 33
+ownLength: 1971
+unit: words
+publishedAt: 2021-12-11
+link: "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/804233/244-nightsveil-part-4"
+royalRoadId: "804233"
+---
+
+244. Nightsveil Part 4
+
+Disclaimer: This chapter is written in an experimental style. Images will be provided alongside the chapter to show what is meant to be conveyed. For the best reading experience, you can download the pdf of the chapter here.
+
+I already know some of y'all are gonna complain about the experimental style. If it's too difficult for you to read, you can skip over it.
+
+Nightsveil lay in ruin. Hordes of terrible monsters ambled about its broken streets, carving the roads open with the blood and bodies of the city’s inhabitants. There were tens of thousands— maybe even hundreds of thousands of these creatures. A pack of Gatho Mammoths stormed through a palatial structure, felling its round towers and coating their fur with the gray of dust. Mindreapers zipped over the clouds just beneath the moonlight, like moths gathering around a lamp at the dead of night.
+
+Once, this city had been full of life. Now, it was just a shadow of its former self.
+
+There were a few stragglers— some survivors. But they’d be dealt with soon enough. Belzu was methodical in his slaughter, but not foolish or reckless. That was why he hovered over the temple, casting his gaze down at us from the heavens above.
+
+I saw his silhouette through the cracked stained glass windows. His morbidly corpulent figure played behind the ornate decorations surrounding the crumbling walls of the Sanctuary of Fauna. He looked like a bug— a wicked, giant bug with barbed legs poking out from his sides just beneath his invisible, flapping wings.
+
+What was he doing? I wondered why he hadn’t just attacked us— why he hadn’t just sent a thousand curses our way. But then I evaluated him. I saw how exhausted he looked. He was soaked in black ooze. Demon’s blood. His own blood
+
+The siege of Nightsveil had taken its toll on the Primeval Demon. Despite his ostensible victory, he was still tired and injured from the fight. That was why he waited. For his army to converge. And for something else—
+
+My eyes flickered, turning back to the Merrysters standing behind me. Saffron and Cinne stood over Crocus, protective. The Lady held up the necklace—
+
+“Don’t.”
+
+Her brother stopped her. Saffron blinked.
+
+“Why not? Father needs the Breastplate—”
+
+“And that is what that Demon wants. Look.”
+
+They faced Belzu, and I saw his bulbous eyes narrow ever-so-slightly. He had with him an ornate sword— a blade that exuded luminescence brighter than the moon in the dark of the night.
+
+I wondered what that was about.
+
+I stepped forward, creating a Primordial Scythe. I waved it at him through the broken windows of the temple, shouting.
+
+“Hey, ugyl! Go away! We’re just about to leave, alright?”
+
+He glared at me with recognition in his eyes, and I gulped.
+
+“Um, I take back what I said. You don’t look that ugly. You kinda look tasty, actually.”
+
+Belzu shook his head, descending like a slow comet falling upon the world, bringing with him calamity.
+
+“I shall take my leave from this city.”
+
+His voice boomed and shook the temple. The Primeval Demon’s gaze bore into me— through me. His gaze landed on the necklace Saffron had been holding.
+
+“Not until I have what’s mine.”
+
+Cinne snatched it from her hands, whispering quickly, and it flashed, locking it from Belzu’s use. But that didn’t allay the Primeval Demon’s approach. He brought one of his crooked arms up, pointing at us.
+
+“Give it to me.”
+
+Again, the world shook. When Belzu opened his mouth once more, a bright light accompanied it, swallowing me whole.
+
+“G I V E T O M E M Y S A L V A T I O N.”
+
+They took the time to tether together
+
+what seemed sharp and splendor
+
+a whip of scorn and
+
+anger that struck me
+
+with no visible danger
+
+yet it aroused a clangor
+
+within my stoic demeanor
+
+for I found that what they abhorred
+
+was nothing more than just my core.
+
+And when I saw my companions
+
+something shattered.
+
+My time in this mortal plane
+
+seem so fruitless— without gain.
+
+But when I stood in the Netherworld, crying, balled, and curled. I saw a familiar face, amongst this desolate place. He smiled and laughed cheerfully, as kind as he used to be. My first ever friend was there with me, following blindly and trusting me. And I believed— I truly believed that we’d       forev         er           be             t              o               g              e               t              h               e              r              .                     U            n              t             i              l                             t              h               e                          d             r            e           a            m
+
+S H A T T E R E D
+
+And
+
+then
+
+I
+
+was
+
+falling,
+
+turning,
+
+spinning,
+
+whipping
+
+from
+
+side
+
+to
+
+side.
+
+A
+
+crack
+
+sent
+
+me
+
+knocking
+
+back
+
+but
+
+—I was on my feet again, this time in a world of white. A blank canvas, left unpainted. I glanced around, frowning, only for a sudden claw to tear through the empty sheet like it was paper and slice me on the leg.
+
+Black blood blotched the ground, inking this white world black. Another cut sent a sputtering of scarlet out and splotching the sheet. I spun around, readying myself for the next attack. I tried to create a weapon— any weapon. But my magic didn’t come to life. Not in this dead world of white.
+
+I screamed as I was sliced from every angle. My blood came in all colors— blue, green, indigo, violet— an iridescent painting that brought this canvas to life. I lay there, bent over and coughing as I tried to gather myself. But before I could even stand, the world was flipped over.
+
+I                                                            the world spun back around. Butfound                                                    before                                    Imyself                                                  down                                      couldstanding                                               upside                                    noton                                                         was                                        seemy                                                        I                                              thingsside.                                                     Then           right.Then I was standing up straight once more.
+
+.left things seeing actually was I ,it describe to had I If
+
+.normal to back return ever would things if wondered I .alright ,weird was it ,Well
+
+˙ǝɯ punoɹɐ ƃuᴉʇɟᴉɥs ʇdǝʞ ƃuᴉɥʇʎɹǝʌƎ
+
+tuB
+
+eerf nekorb d'I
+
+.erofeb ti morf
+
+dluoc I
+
+.niaga ti od
+
+I closed my eyes, shutting off most of my senses.
+
+It was difficult, trying to ignore the encroaching feeling of magic around.
+
+It smothered my entire being, trying to force its way into my body.
+
+It told me what to feel, what to hear, what to see, what to taste, and what to smell.
+
+But I fought back. I used what he couldn’t intrude on. My perception of space.
+
+And I saw the reality of it all.
+
+Saffron, Cinne, and Harold kneeled at the altar as Crocus held up a rainbow-colored breastplate that shimmered like the stained glass windows during the day. Belzu descended upon the temple, breaking the ceiling as colorful shards rained onto the marble floor. The Primeval Demon wore a twist smile on his face as he reached out with his clawing hands and grabbed for the treasure—
+
+“Stop!”
+
+I broke free from the illusion, swinging at Belzu before he could bear the Breastplate of Alexander. To be honest, I didn’t even know why he wanted it. Just that it couldn’t be good if he wanted it. [Intimidation] halted him in his tracks for a brief moment, long enough for me to swing at his chest with a [Radiant Slash].
+
+He screamed and recoiled, knocked back from the attack. Bleeding and wounded. I snapped my fingers and yelled at Saffron and the others.
+
+[Recall Skill: Zealous Call].
+
+They broke free from the illusion in an instant. I growled at them as I prepared for Belzu’s fury to rain down on us.
+
+“[Haste]. Hurry up and put on the breastplate!”
+
+I cast the spell on all of us as Belzu shook off the [Radiant Slash]. His gaze snapped up at me, anger burning in his eyes.
+
+“How dare you… you mere Arch—”
+
+I dove backwards, splitting in two and grabbing everyone as Belzu exploded. I’d touched him with [Demon’s Mark] when I slashed his chest. The blast took out the entire temple and more, but I was no longer there. We were already flying away, heading out of the city by the time the smoke cleared. Cinne blinked as he looked at what was holding him.
+
+“W-what is this?”
+
+“My clone! It’s a Skill of mine!”
+
+I explained as we dove around buildings and structures. I carried Saffron and her father, while my other self held up Cinne and Harold. We flew side-by-side— my clone was more than image of myself. She really did have all my Skills. She even kept up with me as I ascended up to the clouds to escape from Belzu.
+
+But behind, I saw the Primeval Demon rise from the ashes. From the smoke and the debris and the crater, he came, and his fury followed alongside him.
+
+I gritted my teeth. But before I could say anything, I saw his army gather before us. Mindreapers, Vurats, Crypt Horrors, Winged Fangs— tens of thousands of them moved to bar our path. It was like someone had just created a new part for a river, and the water was rushing to fill that gap. All around us, monsters came. And I knew we’d be caught. I sighed.
+
+“Hey, um, Crocus, are you feeling better?”
+
+The man groaned as he grabbed his head. He was wearing the Breastplate of Alexander— apparently it had worked and dispelled whatever curse that had been placed on him.
+
+“I am… fine. Relatively speaking, at least.”
+
+“Good. Can I have the breastplate next?”
+
+He blinked, looking at me with a frown.
+
+“I-I…”
+
+A monster screeched in the distance— probably a [Queen Howre] or some other kind of Ground Craver. Whatever protestations he was about to espouse was silenced and he quickly tugged at the straps. He removed the Breastplate of Alexander, handing it to me. I happily accepted it with a [Faux Limb].
+
+“Thank you!”
+
+I flew over to my clone as the monsters encroached on us. Belzu sped our way, and Saffron looked over at me, blinking.
+
+“What are you doing, Salvos?”
+
+I paused. I commanded my clone to create [Faux Limbs], and she did as she was told. I handed Saffron and Crocus over to my clone.
+
+“You guys will be getting out of here, while I—”
+
+I turned to Belzu, raising the Breastplate of Alexander. Her eyes widened.
+
+“No…”
+
+Her voice came out, cracked and weak. She reached for me as I was about to fly off.
+
+“You can’t do that, Salvos. Don’t be an idiot!”
+
+I shook my head, speaking softly.
+
+“It is the only way.”
+
+“Don’t do it!”
+
+I didn’t face her as she continued. But I could feel the pain in her voice. She shouted at me.
+
+“I don’t want you to die, either! I didn’t ask you to come here to die for us. Don’t sacrifice yourself for me, Salvos. Please. I can’t possibly live knowing that I forced you to die for me. I… I...”
+
+I hesitated. I looked over at Saffron as tears streamed down her face. She was incredibly torn up over this. Even her brother and father were surprised at her reaction.
+
+Then I cocked my head.
+
+“Um, what are you talking about?”
+
+Saffron froze. She looked at me, still with some tears in her eyes.
+
+“I… aren’t you going to face that Demon alone?”
+
+“Face that Demon alone? Are you stupid? I’m not stupid! I’ll die if I do that!”
+
+I scoffed as I crossed my arms. Cinne narrowed his eyes, peering at me.
+
+“Wait, then what are you doing?”
+
+“Isn’t it obvious?”
+
+I looked back at Belzu as he came— a storm of wrath heading our way. I held up the Breastplate of Alexander once more. Its bright and colorful metal glinted under the scintillating stars of the night.
+
+“I’m giving him what he wants.”

@@ -1,0 +1,287 @@
+---
+id: 44b66a7c-8b7e-5411-a06d-1bc0f982198e
+page-type-slug: story-chapter-royal-road
+title: "716. Betrayal"
+slug: 0122-716-betrayal
+partOf: salvos
+position: 122
+ownLength: 1780
+unit: words
+publishedAt: 2024-10-31
+link: "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1877765/716-betrayal"
+royalRoadId: "1877765"
+---
+
+716. Betrayal
+
+I wasn’t sure how to react. I wasn’t even sure how to process what was going on. Manos was the Executioner— the leader of the Deathsquad Hunters. According to everyone that had spoken about him to me, he was one of Regnorex’s loyalists. Or at least, he was supposed to be a loyalist.
+
+However, right now, he didn’t seem like much of a loyalist to me.
+
+“Oh man, I can’t wait to get rid of this damn collar. I swear I’ve had it on for over a hundred cycles at this point…”
+
+Manos groaned as he rubbed at the collar at his wrist. He shrugged to himself as Sicar, Hartia, Haec, Ultis, and Aliq just stared at him.
+
+“At least it’s better than having it on my neck. That was terribly uncomfortable.”
+
+Looking up, he faced the Fairy who was gaping to the side.
+
+“Well? What are you waiting for, Hartia? De-collar me already.”
+
+Manos stared at Hartia expectantly. The Fairy tried to work his jaw.
+
+“I—”
+
+And Sicar spoke up, stepping forward.
+
+“Manos, you can’t be serious, right?”
+
+“I mean, do I look like I’m joking around?”
+
+Manos asked, turning to Sicar with a quizzical brow raised. Sicar shook his head as he gestured exasperatedly in the direction of the Demon King’s Domain.
+
+“But do you seriously think we stand a chance of defeating Regnorex?”
+
+“If everyone in his kingdom rebels against him? Probably? Maybe? Or maybe not? But at least I’ll put up a fight before I die, rather than be killed with the snap of a finger.”
+
+Manos waved a hand dismissively back in response at the other Level 190 Primeval Demon. Sicar hesitated, taking a step back.
+
+“But… but if you’re defecting, that means as a member of the Deathsquad Hunters, I have to kill you! And how am I supposed to do that when I’m lower-leveled than you?”
+
+I blinked when I heard this, glancing between the two of them. Manos gave Sicar a flat stare.
+
+“You know, you can defect with me too, right?”
+
+“But I don’t want to die!”
+
+Sicar exclaimed. Manos crossed his arms and sighed.
+
+“Well, it’s either you die to me right now, or you die to Regnorex later.”
+
+“Is there a third option where I live?”
+
+Sicar asked desperately, and Manos paused. The Executioner tilted his head back.
+
+“Not really?”
+
+“You can’t be serious…”
+
+Sicar’s shoulders sagged.
+
+And as the two Primeval Demons conversed, I glanced towards Haec hesitantly. I pointed at them and whispered.
+
+“Are they messing with us? Or is Manos seriously joining us?”
+
+“I… I don’t know. I never spoke with Manos before. I was always too intimidated by him, watching him from afar.”
+
+My companion answered. I opened my mouth to ask the same question to Hartia, but Manos spoke up from the side.
+
+“I am serious. Come on, didn’t I already prove myself by killing Jofis? If the two of us teamed up, you’d all be dead right now.”
+
+Manos snorted, crossing his arms. I blinked, then he continued.
+
+“Also, Sicar is joining you guys with me.”
+
+“Wait, you can’t just decide that for me!”
+
+Sicar protested, but Manos shrugged.
+
+“You were taking too long to make a decision. So I made it for you.”
+
+“But—”
+
+“Too late, you’re already on our side now. Hartia, de-collar us.”
+
+Manos stared expectantly at Hartia. The Fairy glanced between them, before nodding slowly.
+
+“Very well.”
+
+And Hartia waved a hand over the two Primeval Demons. I grimaced, wondering if they were going to resist it— if this was some kind of a ploy.
+
+But all I heard was a pair of clinks. And then the collars collapsed, detached from the two high-leveled Deathsquad Hunters.
+
+“Finally.”
+
+Manos whispered as he rubbed his right wrist. He started forward as Haec and I tensed. But the leader of the Deathsquad Hunters paused, taking note of the two Demons who were with us.
+
+“Oh, I recognize you two. You’re… Ultima? And Ali?”
+
+“Ultis and Aliq, sir.”
+
+Sicar corrected the Executioner. Manos nodded.
+
+“Right, right. And here I thought you were dead. So you defected too, huh? See, Sicar, seems like we’re already making the right choice.”
+
+Manos grinned at the two of them. They shrank back, unsure of how to respond. But Manos just turned away from them.
+
+“What about Venas? Did he defect too? I don’t see him around here, though.”
+
+I pursed my lips, before finally speaking up for the first time since Manos said he was defecting.
+
+“No, Venas is dead.”
+
+I said as I shook my head.
+
+“I killed him.”
+
+I wondered how Manos would react to hearing that. But he simply nodded at me.
+
+“That’s a shame. His Grand Skill would’ve been quite useful in foiling Regnorex’s stupid plans. But I guess he was always quite dedicated to the cause. More than me, at least. I only did what I had to do to survive.”
+
+Manos closed his eyes for a moment. But then he took a deep breath and took another step towards us.
+
+“Anyway, where’s this rebellion of yours? There’s a bunch more of you guys, right?”
+
+“They’re—”
+
+I opened my mouth to answer the question, but Haec stepped forward, stopping me.
+
+“Wait.”
+
+Haec peered at Manos who tilted his head curiously back at the former Heir of the Netherworld. I glanced between the two of them, before Haec continued.
+
+“How do we know we can trust you?”
+
+“Hm?”
+
+Manos tilted his head curiously. Haec shook his head.
+
+“What if this is all just a ploy for you to find our base? We cannot just trust you.”
+
+Haec stood steadfast, even in the face of the Executioner. Sicar blinked as he looked up.
+
+“Wait, is this a ploy?”
+
+Sicar asked, and Manos sighed.
+
+“No, it’s not. And if it was one, I would not say yes in front of them.”
+
+“Right…”
+
+Manos looked back towards Haec understandingly.
+
+“Anyway, what you said is a fair concern. But honestly, I don’t even know how am I supposed to earn your trust.”
+
+“That’s—”
+
+Haec started, but I stepped forward.
+
+“I’ve got it.”
+
+I spoke up as I took in a deep breath. Hartia, Ultis, and Aliq looked my way, realizing what I was going to do. But Haec wore a confused look on his face. Which made sense. After all, he had never seen me use this Skill before.
+
+“[Truth Divination].”
+
+I whispered as I met Manos’s gaze. The Executioner just tilted his head for a moment, unsure of what was going on. Only for his eyes to grow wide a moment later. My gaze pierced straight into his soul. And what I saw within him was—
+
+Regret.
+
+A heavy regret that captured his entire being. It was like the constant terrible sensation of pulling teeth. It felt like I was being crushed— buried under a mountain of bones. And as I tried to claw my way out of that weight of all the souls I had taken, I found myself falling into the deepest depths of an ocean where I could not discern neither light nor sound nor smell.
+
+Where my entire being was numb from all the lives I had taken, and all I wanted now was salvation.
+
+Blinking, I jolted back as this sensation faded away, and I returned to reality. Manos stared at me quizzically as he took a step back, and he looked down at himself.
+
+“What just happened? What did you do to me?”
+
+He asked, frowning as he inspected his four arms.
+
+“For some reason, I suddenly felt the overwhelming urge to protect my friends and kill my enemies. And I don’t even have friends to protect or enemies to kill!”
+
+The Executioner exclaimed. I swayed where I stood for a moment, and Haec steadied me from the side. My companion looked at me worriedly.
+
+“Are you alright, Salvos?”
+
+“I’m… fine.”
+
+I caught myself as I took in a deep breath. Then slowly, I turned to face Haec.
+
+“Manos is serious about this.”
+
+Haec stared at me for a moment, looking like he wanted to protest. I gave him a reassuring look.
+
+“I was right about Hartia, and I know for sure I am right about this. Haec, you have to trust me.”
+
+My companion chewed his lower lip hesitatingly, before he closed his eyes.
+
+“Very well, I trust you, Salvos.”
+
+He drew back, and I smiled back at him. But then, I slowly turned to face Manos. He was standing there, staring at himself in confusion, before he blinked when I called out to him.
+
+“Come on. We’ll show you the way. After that, we’ll deal with the rest of the legions.”
+
+I gestured for him to follow as I drew back.
+
+“Of course, of course.”
+
+Manos chuckled as he nodded, following along. And with that, we left the battlefield where Jofis died behind. All the while, I looked through all the notifications I received from defeating Jofis.
+
+Defeated [Disgraced Hellking - Lvl. 196]
+
+Abundant experience is awarded for defeating an immortal enemy!
+
+More experience is awarded for defeating an enemy at least 20 levels above you!
+
+Less experience is awarded for defeating an enemy with the help of others!
+
+Grand Skill [Racial Skill: Divine Essence of the Angelic Devil Princess] can now be leveled!
+
+Subspecies [Angelic Devil Princess] Level Up!
+
+[Angelic Devil Princess – Lvl. 169] -> [Angelic Devil Princess – Lvl. 170]
+
+Gained 5 Stat Points and 3 Skill Points!
+
+Gained 1 Grand Skill Skill Point!
+
+Subspecies [Angelic Devil Princess] Level Up!
+
+[Angelic Devil Princess – Lvl. 170] -> [Angelic Devil Princess – Lvl. 171]
+
+Gained 5 Stat Points and 3 Skill Points!
+
+Subspecies [Angelic Devil Princess] Level Up!
+
+[Angelic Devil Princess – Lvl. 171] -> [Angelic Devil Princess – Lvl. 172]
+
+Gained 5 Stat Points and 3 Skill Points!
+
+Subspecies [Angelic Devil Princess] Level Up!
+
+[Angelic Devil Princess – Lvl. 172] -> [Angelic Devil Princess – Lvl. 173]
+
+Gained 5 Stat Points and 3 Skill Points!
+
+Subspecies [Angelic Devil Princess] Level Up!
+
+[Angelic Devil Princess – Lvl. 173] -> [Angelic Devil Princess – Lvl. 174]
+
+Gained 5 Stat Points and 3 Skill Points!
+
+Class [C-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝rr-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝pt-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝d Appr-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝nt-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝c-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝] Level Up!
+
+[C-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝rr-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝pt-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝d Appr-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝nt-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝c-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝ - Lvl. 154] -> [C-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝rr-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝pt-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝d Appr-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝nt-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝c-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝ - Lvl. 155]
+
+Gained 2 Secondary Skill Points!
+
+Gained 1 Grand Skill Point!
+
+Class [C-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝rr-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝pt-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝d Appr-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝nt-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝c-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝] Level Up!
+
+[C-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝rr-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝pt-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝d Appr-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝nt-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝c-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝ - Lvl. 155] -> [C-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝rr-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝pt-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝d Appr-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝nt-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝c-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝ - Lvl. 156]
+
+Gained 2 Secondary Skill Points!
+
+Class [C-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝rr-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝pt-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝d Appr-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝nt-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝c-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝] Level Up!
+
+[C-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝rr-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝pt-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝d Appr-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝nt-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝c-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝ - Lvl. 156] -> [C-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝rr-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝pt-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝d Appr-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝nt-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝c-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝ - Lvl. 157]
+
+Gained 2 Secondary Skill Points!
+
+Class [C-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝rr-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝pt-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝d Appr-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝nt-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝c-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝] Level Up!
+
+[C-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝rr-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝pt-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝d Appr-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝nt-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝c-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝ - Lvl. 157] -> [C-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝rr-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝pt-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝d Appr-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝nt-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝c-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝ - Lvl. 158]
+
+Gained 2 Secondary Skill Points!
+
+[Title Available]

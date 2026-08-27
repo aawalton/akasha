@@ -1,0 +1,119 @@
+---
+id: 1323ab3f-2e10-5022-a7b3-f52187f8d619
+page-type-slug: story-chapter-royal-road
+title: "Chapter 591: Rennovations"
+slug: 0159-chapter-591-rennovations
+partOf: rise-of-the-living-forge
+position: 159
+ownLength: 1669
+unit: words
+publishedAt: 2026-05-14
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3395055/chapter-591-rennovations"
+royalRoadId: "3395055"
+---
+
+The vast majority of the Menagerie gathered in the dining room the following morning. More of them were there than there had been in a while. Maeve stood alongside Elias as if she’d always been there. She gave Arwin a small nod as he and Lillia joined everyone else at the row of tables the shadow imps had pushed together.
+
+He returned it. It was only a few seconds later that he registered the fact that she’d been off Sunsetting her class until — apparently — just now. His gaze snapped back over to her. A small smile tugged at a corner of her lips. She simply inclined a shoulder. Whatever Sunsetting had done for her, it seemed she still opted to avoid speaking.
+
+“It went well,” Elias said, noting the look on Arwin’s face. “She got back last night. Eleven dropped her off.”
+
+Reya’s head snapped up from the table where she’d been drowsily staring at her hands. All the sleep evaporated from her features as her mind finally recognized what had changed. “Did she say anything about Olive?”
+
+Elias shook his head. “No. Eleven refused to update us on the progress. Said it was invasive and none of our business, but that Olive was doing just fine and everything was as expected. She’s tough.”
+
+That… sounds like she updated us on how things are going, does it not?
+
+Arwin and Lillia exchanged a glance. She just shrugged. Eleven’s actions, unless they involved sleeping, were typically somewhat difficult to understand.
+
+“She already leave?” Arwin asked.
+
+Lillia nodded. “Yeah. She’s not here right now now.”
+
+“I guess they’re waiting until Olive is done to get the next person,” Art said. He interlaced his fingers as a thoughtful expression crossed over his features. “I wonder why. Maybe she’s more work than expected and Two doesn’t have time to split his attention.”
+
+“There’s no point speculating,” Rodrick said. He glanced over to the kitchen as a small horde of imps emerged from within it bearing plates of food. Everyone fell silent for a few moments as the clatter of ceramic filled the room and breakfast was deposited before them all. It took a decent amount of time.
+
+That really wasn’t much surprise. The only ones missing from the table today were Madiv, Esmerelda, and Olive. Every other member of the Menagerie had made it back as expected. Even Koyu had made a rare appearance for breakfast.
+
+Once the table had been set, it was another few minutes before anyone said anything. They all immediately turned their attention to the food and set about devouring it before daring waste valuable time on anything other than eating. Only when Arwin had polished off his plate did he speak.
+
+“Lillia and I were thinking it’s been a while since we’ve paid a dungeon a visit,” Arwin said. “We’ve both got some things we’d like to test out, and it’ll be a good chance of pace. Only so long you can sit working in a row.”
+
+“Sounds like quitter talk to me,” Wallace said gruffly. “But if that means you’re going to let me use your smithy for a day, I’m not going to complain.”
+
+“Not alone,” Koyu said. “I was planning on testing some theories of my own in preparation for the Revenant-killing weapon. I believe they need to be further explored before any real progress can be made.”
+
+Wallace grunted. “Two of us, then. Works for me.”
+
+“Who were you going to take to the dungeon?” Reya asked. “We’ve still got to keep everything else running, right? We’re not taking a day off?”
+
+Lillia shook her head. “No. I’d prefer to avoid something like that. My kitchen will work with or without me present. Do you think you can keep up the delivery service? We’re offering fewer devices right now since Olive is out, so—”
+
+“Shouldn’t be a problem,” Reya said with a thumbs-up. “Don’t worry about it. And Vix can help me if we need it. Anna finally let her out of chair-jail.”
+
+“Chair jail?” Arwin asked.
+
+Vix grimaced. “She wouldn’t let me use my magic or test out how much stronger my new heart is up until yesterday. I’ve just been sitting around like a potato. It’s been so boring.”
+
+“It was to ensure you didn’t kill yourself. Replacing an entire heart is an absolutely insane modification. I trust you can realize that much,” Anna said, crossing her arms in front of her chest and leveling a stare at Vix. “The fact that you’re even alive right now is a testament to… I don’t even know what. But it’s incredible. It was important to ensure you didn’t go straining something damaged and keeling over where nobody could help you.”
+
+Vix grinned sheepishly. “I know. Sorry. I was just bored.”
+
+Anna snorted. “It’s fine. I’ve gotten worse from Rodrick.”
+
+“Hey!” Rodrick exclaimed. “Don’t bring me into this! I haven’t done anything!”
+
+“Not this time,” Anna replied with a smirk. “But Vix should be capable of heading out now. Everything seems stable within her. I don’t believe she’s in any danger. It looks like her body has completely taken to her new heart.”
+
+Art didn’t say anything, but the relief that crossed over his features was palpable. The stress that he’d been under must have been immense.
+
+“In that case, is there anyone that wants to come to the dungeon?” Arwin asked. “We don’t have any other major projects actively underway, so it’s an open invitation to two people. That should be more than enough for an Expert Tier.”
+
+“Honestly, I’m tempted to offer going myself, but I don’t think I’d hold up in an Expert Tier dungeon,” Monica said. The orc gave them an embarrassed grin. “It’s been a while since I’ve actually fought any monsters. I might end up holding you back if you’re doing a dangerous dungeon.”
+
+“We should do something about that,” Arwin said with a small frown. “You should be ready for a fight regardless of where or who it’s with. I’m sure Olive will be more than happy to run some dungeons with you when she gets back.”
+
+“I’ll go,” Vanessa volunteered. She let out a long burp. Then she cleared her throat. “Scuse me. Ate too fast. I’m always down for a good dungeon, though. People don’t get too happy if you hack someone apart in the middle of a busy street. Dungeons, on the other hand, have far fewer societal rules. Don’t mind accompanying Monica and whoever else the next time ‘round as well.”
+
+Arwin exchanged a glance with Lillia. They’d never run a dungeon with Vanessa before. She was certainly… well, Vanessa. But she more than knew her way around a weapon. She was probably reliable enough. There was no reason to refuse her offer. Lillia shrugged slightly.
+
+“Works for us,” Arwin said.
+
+“Then I’ll come as well,” Kien said. He drummed his fingers against the table. “I’ve been antsy ever since the fight with The Beast. I didn’t perform as well as I would have liked. A good challenge will be just what I need.”
+
+“That leaves us with more than enough to hold down the street,” Rodrick said. “Shouldn’t be any trouble, even if someone wants to try something.”
+
+“Is that something you’re expecting?” Thane asked, glancing up from his place in sudden concern. “Don’t you basically know everything that everyone is thinking? What about that project you’ve been working on with Art?”
+
+“No. I don’t expect it at all,” Rodrick said. “But that doesn’t mean we shouldn’t be ready for it. No information is ever absolute. Things happen, and nobody can prepare for every single possibility. Not even me.”
+
+“I probably could,” Art said.
+
+Rodrick sent him a sidelong look.
+
+Art just grinned. “You got a problem, old man?”
+
+“I am not old,” Rodrick replied. “You’re just young. And ignorant. And I’ll have you know that I have prepared for everything. Part of that includes preparing for the things that you haven’t prepared for.”
+
+“That... how does that even work?” Thane asked.
+
+“Don’t bother,” Anna said with a shake of her head. She rested a hand on Thane’s shoulder. “I’ve tried. It never works. Just get out while you’re still ahead.”
+
+“Sage advice,” Lillia said. As she rose from her chair, a small horde of shadow imps emerged from the kitchen to ferry everyone’s plates back to their proper places. “Not to rush anyone, but I’m eager to get moving. For those coming to the dungeon with us, please get ready. We’ll be leaving shortly. Also — this is probably a good time to mention that there will be some noise around the Devil’s Den and the street in general over the next few days. Just some forewarning.”
+
+“Why?” Thane asked.
+
+Before Lillia could answer, there was a sharp rap on the door of the Den. A smile pulled over her lips. The door swung open on its own, revealing two men standing beyond. The first was Ridley. The mason had an eager expression plastered across his features. Standing behind him was Jake, the accountant from the Merchant’s Guild, who somehow looked even more excited.
+
+“It’s been some time. You lot have made far better progress with your street than I could have ever expected,” Jake said. “I thought I might be hearing from you at some point soon. And it’s not hard to tell why given my present company.”
+
+“We have some new buildings we’re going to register,” Lillia said casually. “I figured we’d get ahead of letting the Guild know that we’ll be renovating the Menagerie’s street.”
+
+“I imagine you’ve got the money for it now. I heard about the auction.” Jake let out a laugh and shook his head. “Incredible work, by the way. So what’ll it be? I don’t want to take up too much of your time. A new building? Two?”
+
+“I just told you, didn’t I?”
+
+Jake’s smile faltered as confusion passed over his features. “What?”
+
+“The street.” Lillia smiled. “We're renovating the entire street.”

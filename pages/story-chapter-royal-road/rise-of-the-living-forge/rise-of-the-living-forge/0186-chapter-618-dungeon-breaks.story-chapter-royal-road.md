@@ -1,0 +1,149 @@
+---
+id: 405c751b-1af5-569f-a440-25c9c6d3c9e8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 618: Dungeon Breaks"
+slug: 0186-chapter-618-dungeon-breaks
+partOf: rise-of-the-living-forge
+position: 186
+ownLength: 2010
+unit: words
+publishedAt: 2026-07-01
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3617267/chapter-618-dungeon-breaks"
+royalRoadId: "3617267"
+---
+
+Kien’s armor would be the most simple Soul Weapon that Arwin had made to date.
+
+That didn’t make it even slightly more simple to create. If anything, it actually made parts even more difficult. The set was to be so straightforward that even the slightest deviation from its purpose from anything ranging from materials to intention would result in glaring flaws.
+
+He’d spent over a week determining exactly how it could be made together with Koyu and Wallace. A simple set meant that the quality of every single piece of metal they used had to be absolutely perfect. It meant that it would be focused to the point of razor-sharpness. It would be made specifically for Kien’s exact fighting style and personality, created to be entirely worthless to anyone else even if it weren’t soulbound to him.
+
+It took the Menagerie several more days to collect the pieces they needed to create it. Even with all the materials they’d gotten from the auction, there were a few final parts that Arwin couldn’t compromise on. It was fortunate that there was no shortage at all of monsters and dungeons.
+
+Milten had more adventurers than ever before. The sheer magical energy concentrated around the town had long since started drawing more dungeons to spawn in the areas around it. But even that had seemingly accelerated. There were Expert level dungeons popping up all over.
+
+Arwin could swear that Rodrick had informed them of no less than three in the last week. It wasn’t exactly the forefront of his focus, though. His attention was entirely consumed by his work. The rest of the Menagerie were able to bring him the components he needed — and he wasted no time at all in getting started on the final set of armor that Kien would ever need.
+
+Koyu and Wallace joined him in the preparations. It would have been difficult to sway either of them to stay away, even if they’d wanted to. They were all too invested in this point, and that wasn’t even counting the huge amount of magical energy that every Soul Item rewarded its creators with.
+
+“Right. This one shouldn’t take too long,” Wallace said, rubbing his hands together as he looked over all the materials they’d gathered in the Infernal Armory. Various bronze-colored ingots sat on one of the building’s obsidian shelves. None of them looked like it could have been worth more than a single gold. Some were even tarnished to the point of nearly being a dull, glossy black. A blood-red ruby about the size of Arwin’s palm glistened alongside them.
+
+But if Arwin had been forced to put a value amount to the raw materials of this piece, he would have guessed somewhere close to 10,000 gold. Every single bar here was already purified to the highest degree. Despite appearances, this metal couldn’t have possibly been farther from plain.
+
+He could literally taste and smell the magical energy in the air around them. It was raw and fresh, like a freshly tilled field. There was practically a song in the air before he’d even gotten started. Everything within the smithy was so attuned in purpose that a part of him wouldn’t have been surprised if the set pulled itself together on its own.
+
+“It already took a while,” Koyu said. “We’ve spent more preparing for this one than we did making some of the others. It will require precision.”
+
+“No harder or easier than our other projects. Just different,” Arwin said. He stretched his arms out before him and flexed his fingers. He was eager to get started. His stomach, for once, wasn’t gnawing at him. But that was because Lillia had made him a very large meal this morning in preparation for starting the creation of Kien’s armor.
+
+She’d have a similarly sized one ready in the evening. He was definitely going to need it. The Maw hadn’t made itself any more scarce in recent days. But it would be fine. It had to be. Arwin just needed a little more time. They weren’t all that far from answers.
+
+When they figured out what the ancient power helping the Guild was and determined what it was doing to corrupt a Leyline, he got the very strong feeling that his own quest would be either complete or damn near close to it. They just had to push a little bit farther.
+
+Arwin was already sitting on quite a bit of magical energy from his recent projects yet. He hadn’t used it yet. He still wasn’t sure exactly where he wanted to. But this armor would give him even more to work with. He — and all of the Menagerie — were accelerating at incredible rates. Sunsetting made their rate of growth impossibly fast in all the ways that the Hero’s growth should have been.
+
+Time’s running out for the Adventurer’s Guild. We just have to make sure we’re in position to finish things off when everything comes crashing down on top of them.
+
+The door opened behind them.
+
+Arwin glanced over his shoulder as Kein stepped into the inner portion of the smithy, escorted by the obsidian form of the Infernal Armory itself.
+
+“What’s going on?” he asked. “Is something wrong?”
+
+“No,” Arwin said. “We’re just making you your armor, and it’s far easier to do that when you’re actually present and helping with its creation.”
+
+“Wait, what?” For once, Kien’s stoic demeanor broke. “Me? But—”
+
+“It wasn’t an offer,” Arwin said with a wry smile. “Get over here and help us, Kien. You’re one of our strongest front-liners. We need you protected. Especially with all the new dungeons popping up. Or are you going to say that you’d be able to handle your tasks and training better with worse armor?”
+
+Kien hesitated for a moment. Then he gave them a sharp nod. “I will help. Thank you.”
+
+“Save your thanks for after. There’s no guarantee we don’t go and royally screw this up,” Wallace said gruffly.
+
+“If we do, we will try again,” Koyu said. “I have confidence in our abilities.”
+
+“Wow,” Wallace said, sending a sidelong glance at Koyu. “That’s optimistic, coming from you. Wake up on the right side of the bed?”
+
+Koyu gave the dwarf a faint smile. “Perhaps. Leave it to a dwarf to find issue in even this.”
+
+“Hey,” Wallace said. “We’ve refined being grating down to a science. Don’t give me shit for it.”
+
+“Enough banter,” Arwin said with a laugh. “Come on. Let’s get this done, shall we? We’ve already done all the hard work. All that’s left is to make it.”
+
+“Is… that really how it works?” Kien asked with a frown as he moved to join them by the anvil. “This is easy?”
+
+“Not in the slightest,” Wallace said with a snort. “But that hasn’t stopped us yet. Let’s see what you’re made of. Just follow Arwin’s lead and lend us energy. Do that and, if we’re lucky, you’ll be walking out of here in a shiny new suit of armor before night falls.”
+
+***
+
+Rodrick pursed his lips and stared at the plain wall before him.
+
+His fingers drummed against the armrest of his chair unbeknownst to the rest of his body. The information flowing through his mind came in a constant river, flashes of thoughts and visions from the people that had joined his network. There was so much as of late that he’d been forced to dedicate a fair amount of the magical energy he got into upgrading his body to process all the knowledge and keep it from tearing his mind apart.
+
+The costs of his Sunsetted abilities were not low. That wasn’t even to consider the terrifying amount of gold that he was paying all the people in his network to ensure they were comfortable and well compensated for the tasks he asked of them — and that was only about 80% of his contacts.
+
+He paid the others in a different currency.
+
+But the information he’d been getting lately was concerning.
+
+There had been six Dungeon Breaks in the past week.
+
+Six.
+
+And that was just in the area he was directly observing, largely around Thornhelm and other cities closer to the center of the Kingdom. Milten hadn’t seen any since the one that the Menagerie averted. But, if anything, that concerned him even more.
+
+A Dungeon Break at the outskirts of the empire was one thing. But for six of them to somehow happen in areas that should have been under Guild supervision was beyond unheard of. It was downright ridiculous. There should have been so many competent adventurers in the center areas of the kingdom that even one of them would be improbable at best.
+
+For so many to have happened in rapid succession… that was concerning. And worse was that there didn’t seem to be any direct relation between the Dungeon Breaks. Each one appeared independent. For so many to have happened within just the span of a few days… it strongly implied that there were far more happening throughout the kingdom.
+
+How many? Why?
+
+Rodrick’s jaw tightened.
+
+Too many. That was the answer.
+
+Events like this were not coincidences. And the fact that none had occurred at the edges of the Kingdom, where the Guild’s influence was weakest and where they were most likely due to a lack of capable adventurers clearing out dungeons, lent pretty easily to a very concerning theory.
+
+And the timing… with the gradual awakening of the Hero and Demon Queen…
+
+The door creaked behind Rodrick.
+
+He glanced away from the wall, cutting off the streams of information flowing through his mind, as Anna stepped into the room. She quietly made her way over to sit down on the bed behind him. Neither of them spoke for several seconds.
+
+“I’m not working right now,” Rodrick said. “You don’t have to be quiet. Thank you for your consideration, though.”
+
+“You looked concerned,” Anna said.
+
+It was a moment longer before he responded.
+
+“I am,” Rodrick said.
+
+“Is the Guild finally planning a move on Milten?” Anna asked.
+
+Rodrick shook his head slowly. “No. Not that I can see. Art hasn’t managed to find anything either. I find the idea that they could completely evade both of us unlikely. It’s far more likely that we just… aren’t on the top of their list of problems right now. And that list has been growing as of late. Things are not going well for the Guild.”
+
+“You say that like it isn’t a good thing,” Anna said. She glanced at his hand. “When better to strike than when they’re weak?”
+
+Rodrick forced his fingers to stop drumming against the chair.  “A cornered animal is the most dangerous. There have been six dungeon breaks, Anna. Past Thornhelm.”
+
+Anna’s eyes widened. “Six?”
+
+“In less than a week.”
+
+“What?” Anna muttered. “But that shouldn’t be possible. Near large cities?”
+
+Rodrick nodded.
+
+“How?” Anna asked. “Any dungeon that close would have been swarmed by adventurers to claim all the excess energy. And so many of them... Even if it wasn’t so close to the center of the Kingdom, that would be baffling.”
+
+“It would be,” Rodrick said grimly. “If it was a coincidence.”
+
+Anna’s back stiffened. Rodrick didn’t have to say anything else. She knew what he was implying immediately.
+
+“You think the Guild is intentionally keeping adventurers away from destabilized dungeons to cause Dungeon Breaks and destabilize the kingdom? What, to keep their attention away from how badly their control is crumbling?”
+
+“That is becoming increasingly likely. The Guild seems desperate,” Rodrick said. He was silent for a second as he chewed his lower lip. Then he sighed. “But I don’t think they’re keeping adventurers away from dungeons. That would cause too much of a stir. Even they wouldn’t be able to completely conceal it.”
+
+“Then…”
+
+“It’s them,” Rodrick said quietly. “I think the Guild is causing Dungeon Breaks. En masse. Everything I can see leads me to believe that they’re gearing up to plunge the entire Kingdom into chaos.”

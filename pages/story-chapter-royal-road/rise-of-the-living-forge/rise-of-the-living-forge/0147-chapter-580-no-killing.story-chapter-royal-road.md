@@ -1,0 +1,181 @@
+---
+id: 54d58ac6-0cd8-57af-b679-aaed85484ffd
+page-type-slug: story-chapter-royal-road
+title: "Chapter 580: No killing. "
+slug: 0147-chapter-580-no-killing
+partOf: rise-of-the-living-forge
+position: 147
+ownLength: 2106
+unit: words
+publishedAt: 2026-03-31
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3214557/chapter-580-no-killing"
+royalRoadId: "3214557"
+---
+
+The ground met Olive’s back and forced a surprised grunt from her lungs. She laid there for a moment, staring up at the stone ceiling of a cave above her, before rolling to the side and pushing herself up to her feet with a grimace. Her stomach shifted, all the food that she’d just shoveled into it reminding her of its presence.
+
+“Sorry,” Eleven said from beneath the thick mop of black hair covering her features. “I thought that would be funny.”
+
+Olive looked down at the chair lying at her feet.
+
+“You realize Lillia is going to kill you for stealing her chair, right?” Olive brushed herself off. “Would it have really killed you to just give me a moment to situate myself?”
+
+“It’s far easier to have a sharp cut. Keeps you motivated to get back faster because of the somewhat lacking parting. You can’t let yourself fail if you know that you never had a chance to properly wrap things up with the others,” Eleven said.
+
+“Really?” Olive asked. “That works?”
+
+“No clue,” Eleven replied. “I just came up with it a few minutes ago. You’ll have to let me know.”
+
+Olive snorted. And, beneath the long hair covering the other woman’s features, she could have sworn she caught a flicker of a grin.
+
+“Lovely,” Olive said. She flexed her fingers. “So, where do we start? And do I get to meet Maeve? She’s also here, right?”
+
+“You do not,” Eleven replied. She nodded over Olive’s shoulder. “Two is waiting for you. Maeve is currently meditating before the final stage. She needed a little extra time. Her case is… well, unique. All of the Menagerie seems to be. But that’s Two’s problem. He’ll explain more. Best of luck.”
+
+Before Olive could say anything else, Eleven vanished into a portal.
+
+Olive stared at the spot where the other woman had been a moment ago. Then she blew a strand of hair away from her face. She turned on her heel and looked in the direction that Eleven had indicated. Leaning aghast the wall with his arms crossed in front of his chest was a man clad in pure white armor.
+
+His sharp eyes bore into Olive like those of an inquisitor. He was definitely older than her, but stress had aged him further still. She wouldn’t have gone so far as to say that his eyes were cold, but they certainly weren’t what one would consider the most welcoming.
+
+Great. Another hardass warrior. Haven’t met enough of those in my time. Guess I can’t complain too much. I guess that’s basically what I used to be, isn’t it?
+
+Olive raised a hand in weary greeting. “Hello. I’m—”
+
+“Olive,” the white-armored man said. He pushed away from the wall and started toward her.  “I gathered from the arm. We know who you are.”
+
+Well, that’s not creepy.
+
+“Then you have me at a disadvantage.”
+
+“I am Two,” the man replied. He came to a stop before Olive and gave her a once-over before extending his hand. “I was wondering when they’d send you over.”
+
+“Me specifically?” Olive asked, taking Two’s hand and shaking it.
+
+“Most of the Menagerie has been interesting. But yes. You specifically,” Two replied. He paused for a moment as a rather odd emotion passed across his features. Olive wasn’t quite sure what it could have been described as. Trepidation? Unease? Annoyance? It could have been any of them. Then Two shook his head as if to clear it. “But before we get started, do you have anything experience with torture?”
+
+Olive choked. “What?”
+
+“Torture,” Two repeated. “Have you spent expensive time training for cognitive hazards? Is your mind or body more resilient to certain phenomena than it should be? Are you immune to any manners of magic or some other weird circumstance that I haven’t even though to mention yet?”
+
+“Do I really want to answer this question?” Olive asked warily. “Because that is not the kind of question that you ask someone that you’re not planning on torturing.”
+
+“Trust me,” Two said wearily. “I can assure you that this is a very important question. One that will save both of us a very significant amount of displeasure. When I was preparing Rodrick to Sunset his class, I was unaware of just how… resilient he is. We wasted days. I do not plan to repeat that mistake.”
+
+“The preparation is torture?”
+
+“The preparation is forging your body and mind to ensure they are sufficiently powerful to withstand what is to come,” Two replied. “Sunsetting is not a relaxing process. You will be pushed to the very limits of your being. If you are not capable of withstanding such an event, you will suffer dire consequences. So it should be fairly simple to see why I need to know this.”
+
+“Oh,” Olive said. She frowned. “I suppose that makes sense. Then, to answer your question, no. I don’t think I have any special resistances.”
+
+“I see,” Two said. He started to turn. Then he stopped to look back at her. “Are you quite certain?”
+
+“Pretty certain,” Olive said. “I’m not all that special at all. I’m just a swordswoman. I do have a magic cursed arm, though. It’s resistant to some stuff. But it’s my arm. Not me.”
+
+“Does it come off?”
+
+“No.”
+
+“I see. Then we can account for that. But I’m not so sure about the lacking in special aspects part of your claims. Do you mind if I run a few tests to ensure that fact?”
+
+“I… guess not?” Olive’s brow furrowed. “Like with a magic—”
+
+Two flicked Olive in the forehead.
+
+“Ow!” Olive jerked back, grabbing her head and glaring at Two. “Godspit. That hurt! How strong are you? And what was that for?”
+
+“That was the test,” Two replied. He almost seemed surprised that Olive had been hurt, which was somehow odder than any other reaction he could have had.
+
+Olive rubbed at her smarting forehead. Two was a hell of a lot stronger than he looked. It felt like someone had punched her, and he didn’t even seem to have been trying.
+
+“Did I pass?” Olive asked after a moment.
+
+“No,” Two said.
+
+“Oh,” Olive said. “You know, this is a whole lot less mystical and spooky than I was expecting. I had this really built up in my head. Thought you’d show up in a dark cloak muttering ancient incantations or some crap like that.”
+
+“There was a time when it was certainly more… formal. But I decided to take a slightly more direct approach with the Menagerie,” Two said wth a defeated sigh. “My adherence to certain things was met with an immovable object. It was not a pleasant experience for either of us.”
+
+Olive tilted her head to the side. Then her eyes lit up in realization.
+
+“Rodrick?”
+
+“Rodrick,” Two said. The corner of his lip twitched. “Are you—”
+
+“Nothing like him, unfortunately,” Olive said. “I’m just a swordswoman.”
+
+Two grunted. “We shall see. And there is nothing unfortunate about not being Rodrick. Now, follow me.”
+
+Olive fell in line behind him as the two headed out of the room and started down a hall running through the cave. Her eyes wandered along the rough walls, the sudden silence buying her time to think. Setting Sun’s guildhall was warmer than a cave should have been. She wouldn’t have quite called it comfortable, but it could have been considerably worse.
+
+“How did you lose it?” Two asked as they turned a sloping corner in the corridor.
+
+“Huh?” Olive asked. “Lose what?”
+
+“The arm,” Two replied. “I don’t imagine you were born with the cursed one. It’s made out of wood. Humans generally aren’t.”
+
+Is he being sarcastic?
+
+“I screwed up,” Olive replied. “I got so focused on one aspect of my life that I ignored all the others. It bit me in the ass. Not much else to say there.”
+
+“You seem content,” Two observed. “You don’t feel bitter about it?”
+
+“Seems a bit stupid to feel bitter about my own mistake. I can’t blame anyone for it but myself,” Olive replied.
+
+“I somehow doubt you were the one that cut your own arm off.”
+
+“It was my actions that led to it. And at the end of the day, the only thing you can control is yourself,” Olive said. “What good would I get out of blaming someone else? And I wouldn’t want to change anything about my past. It got me where I am now. If I hadn’t lost my arm, I might not have ever joined the Menagerie.”
+
+“Quite the cost to pay to join a guild,” Two said. The two of them stepped into a small room training room. It had floors of soft, squeaky wood and walls covered with all sorts of heavy sparring weapons. “Does your new arm serve you better than the old one?”
+
+“At times,” Olive said.
+
+Two walked across the room. He took a sword from the wall, then turned to look back at Olive for the first time since they’d started walking. “And the other times?”
+
+“We make do,” Olive replied.
+
+“We. The arm is intelligent, then?” Two said  nodded to the weapons on the wall. “Take one.”
+
+“It is. And I’m good,” Olive replied. “I’ll take one when I need one.”
+
+The corners of Two’s lips pulled up. “You get on with your arm well?”
+
+“We have an understanding,” Olive replied. “That’s about all I can as for. It’s not me. I’m not it. But we’ve got the same body. There’s only so much you can do in that situation. Not without constantly fighting.”
+
+“You trust this cursed arm of yours, then.” The ground creaked beneath Two. Then he exploded forward, appearing before Olive in the span of a breath. His sparring sword accelerated toward her, only to let out a loud crack as it slammed into a wooden growth. A thick gnarl of wood had sprouted free of Olive’s arm and risen up to stop Two’s blow from connecting with her side.
+
+“I suppose I do. We have an understanding.”
+
+Two’s smile grew wider. “Then let’s see what the two of you are capable of. We will continue until you can no longer fight.”
+
+“What if I win?” Olive asked, taking a step back. Wood creaked as her arm extended, grabbing an axe from the wall and pulling it over to her side. She hoisted the weapon before herself. “I don’t go into fights expecting to lose.”
+
+“Win?” Two tilted his head to the side. “I don’t think that very likely.”
+
+“I don’t think I asked if it was likely. I asked what would happen if I did.”
+
+“For you to win… well, I suppose you would need to have perfect synchronization between yourself and that cursed arm of yours,” Two replied. “That would be the only way you even had a chance. But if that chance occurred… then I suppose I would allow you to Sunset immediately.”
+
+“Really?” Olive asked, her eyes widening. “All I have to do is beat you in a sparring match? That’s the prerequisite?”
+
+“It should be sufficient,” Two said. His pure white armor shimmered, then vanished to leave behind only plain clothes. “I am trying a new method for preparing people for Sunsetting. A personalized one. But it should be every part as effective. So, yes. If you manage to knock me off my feet, then you will win and I will permit you to Sunset your class.”
+
+Olive grinned. “That sounds good to me. I’m ready. Come at—”
+
+The rest of her sentence vanished as all the air was driven from her lungs. Her eyes bulged as she found Two’s knee lodged directly in the center of her stomach. Olive flew back, rolling across the slightly padded floor as her axe flew from her grip. She drove her cursed arm into the ground and shoved herself back upright in a stumble.
+
+“Are you sure you were ready?” Two asked with an arched eyebrow. He spun the sword at his side. “Because that wasn’t particularly effective.”
+
+Olive’s eyes narrowed. A presence prickled against the back of her mind.
+
+Let’s kill him.
+
+No killing. But we can sure as hell beat the life out of him.
+
+Boring.
+
+Oh, shut it. Just help me fight this guy so we can get stronger.
+
+Olive flexed her arm. The wood cracked and groaned as power pumped from it and through her body. Her arm shot to the side, grabbing a hammer from the wall and dragging it back over to herself.
+
+“Right,” Olive growled, lowering her stance. “Let’s do this.”

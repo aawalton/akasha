@@ -1,0 +1,143 @@
+---
+id: 11717d54-532e-5548-9387-cd30ab4ee5f9
+page-type-slug: story-chapter-royal-road
+title: "21 - Aspects Are..."
+slug: 0021-21-aspects-are
+partOf: rise-of-the-dragon-queen-evolutionprogression
+position: 21
+ownLength: 1997
+unit: words
+publishedAt: 2025-11-05
+link: "https://www.royalroad.com/fiction/129546/rise-of-the-dragon-queen-evolutionprogression/chapter/2733072/21-aspects-are"
+royalRoadId: "2733072"
+---
+
+Apparently, Shamun didn't know anything about any missing persons. In fact, he was overall pretty useless. After some tenuous attempts at blackmail, he agreed to give Stella a skill she fancied.
+
+It was the only thing she could think to take from him, and after some discussion, she found that despite the fact that Shamun wasn't a tutor, he knew a bit of how it worked.
+
+Apparently, a tutor who was gifted enough could even transfer skills between people. Given that one was highly versed in the skill and the other had the ability to obtain it with their current stats and abilities. So, Kadeem, the skilled tutor Stella had located in the library before, served as that gifted person.
+
+[‘Scent Of Fortune' Skill transfer successful. Due to current status, skill has been downgraded to ‘Lucky Trail'. No levels have been retained.]
+
+Wow! It really worked! Kind of…
+
+After thanking Kadeem and glaring daggers at Shamun, Stella left the guild building and visited Michael. Along the way, she investigated her newly acquired skill.
+
+Kadeem had mentioned something like this might happen. Skill transfers weren't his strong suit, and their success depended highly on a few different factors. One of which was whether or not the person observing the skill had sufficient existing knowledge to obtain the transferred skill in its true form. Sometimes, said skill would even come with a few levels already in place.
+
+[Lucky Trail: Follow a trail of value. Scent is more potent the more value there is.]
+
+It was simple enough. Actually, it sounded like something a thief might use. Stella wondered why Octavius Shamun would possess an upgraded version of a skill probably only useful for thieves, but swiftly suppressed the thought. It didn't matter. She knew full well he was scum.
+
+“Where’ve you been?” Michael asked when she arrived at his cart.
+
+She leaned against it and stole a half-eaten apple, taking a bite and enjoying the look of horror that crossed Michael's face. She wasn't going to give it back.
+
+“Busy doing stuff, anyway, how have you been? Business boomin’?”
+
+“Not exactly, but not having to pay any fees will definitely help me build things back up. Thank you, really. I would ask about how you could be so strong, but I know better than to—hey!”
+
+Stella had already started to wander off the second his vocal inflections became questioning.
+
+“I have stuff to do, cya!”
+
+She had sold her red gills from the vampire fish in order to pay Kadeem for his services.
+
+Stella had big plans for [Lucky Trail] and already knew what her next step was to find the culprit responsible for missing people. She would plant money on people she thought might go missing; the more valuable, the stronger the scent. So, if she just planted something of value on them, then she could track said trail.
+
+The easiest way to obtain value was by selling monster parts. She could've assisted Michael with his business, but she had no desire to take money from him or to sit around and wait for the value to come to her. It was quicker to just kill some bugs or a giant boar.
+
+It was about time she let loose her old dragon queen power anyway. Especially, with the introduction of her new skill, [Vaporize].
+
+In the forest, Stella intentionally searched for high-grade monsters. Ones that were big, loud, and looking for a fight. The quiet little guys were obviously less rare and therefore less valuable.
+
+The best way to lure in monsters was via her own blood, which, for some reason, seemed tasty to them. Even if it attracted a lot of useless monsters, it would just as likely attract some higher value ones too. She transformed her teeth into their sharper variant and then punctured the middle of her forearm. Blood drizzled the ground, setting the trap.
+
+Now I wait.
+
+Stella decided on a tree and perched in a low-hanging branch, sitting deathly still as she waited for her quarry. As she did so, her pupils expanded kind of like a cat about to pounce. In the forest, she could relax, let her tail hang down, and her horns sprout. She kept her wings hidden, though.
+
+Eventually, a big cat of some kind came prowling around. It sniffed the spotting of blood and then crouched to lick the soil.
+
+It didn't appear sickly or starving. Stella hadn't the slightest idea why it would value her blood so much, or why it would be trying to lick it from the dirt. She mentally committed to the idea of observing at some point, even feeding her blood intentionally in large quantities to see if perhaps it had some kind of effect on monsters. For now, she would just follow her original plan.
+
+She pounced on the surprisingly muscular big cat. It was gold, like a lion, and reminded her almost of a saber tooth. Her confidence was maybe a little excessive; she'd just pounded an apex predator after all. But that paid off. One use of her [Vaporize] skill, and the cat was dead, its body half charred.
+
+[You've defeated Golden Saber.]
+
+[Evolution progress has increased to 40%]
+
+[Item ‘Gold Fang’ x2 has been dropped by Golden Saber.]
+
+Stella stored the large, golden fangs in her satchel. She made no attempts to harvest the kill, as she wasn't familiar with eating animals like this and wasn't sure if it would suit her tastes. Instead of leaving it to the wilderness to consume, she hauled it back to camp and left it for the fledglings.
+
+Moving to a new spot, one not soaked in a suspicious amount of blood (something even a wild beast could discern), she placed a new trap and scaled a tree once more.
+
+After once again killing a fairly weak creature, she actually felt bad. It wasn't an interesting fight, and it wasn't like they stood a chance. She plopped her new loot into her satchel and went deeper into the forest. Her idea was to go to the location where she found the thunder boar. Or, as close as she could get before running into substantial trouble.
+
+Her wings were still healing, so she needed to be careful. But, it wasn't like she was super breakable. It was likely she'd survive any encounter, even if it was with another Thunder Boar.
+
+To her surprise, she actually managed to lure in just the right kind of monster. A giant scorpion. They were the color of amber and really shiny. If they weren't so mean and deadly, they would've been nice to just observe.
+
+How scorpions and boar lived in the same region, she didn't know, but these were significantly less dangerous than thunder boar. For one, they didn't have lightning rain down from the sky. They had dangerous hind ends, but Stella was good at being agile. It came naturally to her.
+
+The first one's tail struck the ground, releasing a gush of green toxins where she'd just been. Stella was certain its life was over, except when she stopped to aim its tail, reflexively unfurled to strike her.
+
+The scorpion slowly turned, watching her slide out of the way. It wasn't smart. It hadn't been observing her, but its reflexes were superb. Its amber shell glistened as it activated some kind of skill. Stella panicked, moving even farther back and crouching down, prepared for something deadly.
+
+If I have to, I'll use my wings to block the attack. They might be injured, but I need to survive.
+
+Maybe this hadn't been a good idea after all.
+
+The scorpion stood still for a long time, glistening, shining with lines of the golden amber moving hypnotically across its much darker shell. But nothing happened. Nothing but that.
+
+Stella frowned.
+
+What is it doing?
+
+From a distance, she sent a line of fire out, using her maw just because it was fun and came more naturally. Vaporize didn't hurt her at all, but once it made contact with the scorpion's shell, it reacted like a sticky explosive.
+
+Sparks flew and smoke sailed upwards, covering whatever the results of Stella's attack. But the scorpion screeched, raising a claw and recoiling. Stella wasted no time sending another blast. The scorpion screeched again, charging her.
+
+It was fast, much faster than she expected. Before she could move, it slapped her with a claw, sending her into a fallen tree.
+
+Stella groaned, peeling herself from the log and blinking away stars. The scorpion didn't follow through, too preoccupied with being on fire. Its shell had been broken in small areas, exactly where the [Vaporize] blast had hit. But then it started to glow again, and its shell healed itself.
+
+Is it hardening?
+
+Another [Vaporize] blast revealed less damage, meaning a harder shell. It has used a skill, one that hardened its protective outer layer. If it continued, would she be unable to harm it?
+
+Stella tried something she had never done before and attempted to cast [Vaporize] with more force. Mana built in her center, rising in density until eventually it burst from her maw, the explosive ball hitting the monster almost like a bomb.
+
+The scorpion's hardened shell shattered in vital places, allowing her to follow through with close-range claw strikes. When it was finally dead, she ate some of it, invigorating her for the next battle. She became a bit of a maniac as she explored, finding the scorpion nest where she could let loose.
+
+She defeated several scorpions before getting tired, leveling her [Vaporize] skill to level 2, and collecting a mix of poison sacks, scorpion armor, and delicious meat.
+
+It felt good to go all out. She consumed the scorpions raw, unsurprised to find the texture and flavor similar to crab but better than centipede. She leveled her [Wrath Of The Ravenous] skill to level 3. It appeared leveling SS skills was extremely difficult, but it didn't matter much given they were already insanely powerful. She wondered what they would become upon evolving or upgrading.
+
+[Answer: SS skills eventually upgrade into SSS skills.]
+
+Whoa! More S’s? Sounds pretty cool.
+
+[It is. They are the most powerful skills. All S+ skills are considered the rarest.]
+
+Stella felt pretty hyped up after that. She destroyed some more monsters without acquiring any levels. She ruined her attire (not her everyday wear, luckily), then headed back to camp.
+
+The fledglings were happy to eat the single scorpion she managed to drag all the way back. They didn't even offer her a bite. They were growing by the day, so she didn't mind.
+
+As she relaxed, she considered her rewards screen. Her renown had reached some sort of milestone and was now offering her rewards. But the reward was strange.
+
+[Aspect Absorption x1: A single-use ability to absorb the aspect of a spirit, item, or entity. Can only be used for evolution. Unused aspects will be held as tribute for future evolutions.]
+
+Tribute? Aspects? What does that mean?
+
+Stella’s evolutions didn't require any kind of tribute, and thus far, she'd never heard of an ‘aspect’. For now, she would leave it alone.
+
+[Answer: Aspects are—]
+
+No, leave it alone. I have enough on my mind. After we figure out this missing persons case, then I can fool around with this. It should be solved by tonight anyway.
+
+She sifted through her loot and then took it to town to sell. She didn't need the armor. It didn't suit her in style, and it wasn't like she wanted to look like G.I. Joe. The poison sacks were also sold.
+
+Seven poison sacks were 50 copper each. The armor had come in pieces and was, surprisingly, a full set after killing so many scorpions. It sold for 7 silver. The golden fangs were 4 silver pieces. Stella was delighted by the results of her hard work. After exchanging all the copper for silver, her total was such an immense improvement that it increased her wealth!

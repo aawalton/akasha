@@ -1,0 +1,237 @@
+---
+id: 2b2340fe-7b11-5483-9464-c939319f1003
+page-type-slug: story-chapter-royal-road
+title: "Chapter 15 – [Doomsday Meteor]"
+slug: 0016-chapter-15-doomsday-meteor
+partOf: rock-falls-everyone-dies
+position: 16
+ownLength: 1566
+unit: words
+ownProgress: 1566
+publishedAt: 2023-01-28
+link: "https://www.royalroad.com/fiction/55418/rock-falls-everyone-dies/chapter/1099423/chapter-15-doomsday-meteor"
+royalRoadId: "1099423"
+markedReadAt: "2026-06-29T22:50:47.093Z"
+---
+
+A rock is never late, nor is it ever early.
+
+Because rocks do not count the years. They do not take note of the time. But… there were numbers that the rock cared about. Mass. Diameter. Velocity.
+
+From those three, most other things followed. The rock had a simple philosophy: If it encountered a problem, it would strive to increase those three numbers, and usually, the problem would be solved.
+
+It had worked this far.
+
+And so, as the rock finally arrived at the [Doomsday Meteor], after a long age spent in travel, it took note of the numbers.
+
+It knew how fast it was approaching the other. It knew how fast the other was growing in its sight. It could estimate things. Running a patient calculation in its mind, the rock estimated the [Doomsday Meteor].
+
+It was about... 10 000 meters wide, and assuming it was as dense as our hero, it would probably weigh around 1 361 356 816 555 580 kilograms. A simple calculation for our rock. And a clear result.
+
+It was... quite a bit bigger than the rock.
+
+But—the bigger rock had no spark. As it cast out with its [Cultivator] senses, our hero saw that there was no will guiding the [Doomsday Meteor] forward, just the iron grip of gravity.
+
+Did it feel disappointed? Maybe. Perhaps the rock had hoped to encounter someone of its kin finally. What would that meeting be like?
+
+The closest it had ever gotten was the earth elemental, but that had been a construct of magic controlling rock, not a true rock itself.
+
+A cousin at best.
+
+So, when it saw that the giant meteor had no spark, the rock did not exactly feel saddened, because it did not know what it had lost. But any potential hope was extinguished, and a journey of anticipation was turned to normalcy.
+
+Things remained the same.
+
+But still, the rock did not rush to battle its larger kin, it did not rush to destroy it. Nor did it try to absorb it into its asteroid swarm, or to turn it off course using its gravity abilities.
+
+No—for a while, the rock just watched. And thought. It remembered the people of flesh, who piloted the metal shells from within. A smaller thing, controlling a bigger thing.
+
+And the rock had an idea.
+
+The system had forbidden it from absorbing new mass directly, forcing it to grow through levels alone. But our hero was not one to follow convention and regulation when a more straightforward path was presented.
+
+First—it experimented.
+
+The rock stopped the three concentric rings of asteroids around it, pausing that eternal dance for a brief moment. Then it painted a deep well of gravity on its own position, a deep hole, and sat down at the very bottom.
+
+And the other rocks started falling in. Gathering. Collecting.
+
+Until the rock was covered by a vast layer of stone, extending its size hundredfold. And it felt… right. Like something that made sense.
+
+But as it moved, the shell shifted too, following along like a loose blanket of pebbles.
+
+Not an iron shield.
+
+The rock realized that composed of single bits like that, it was too fragile of a thing, not like the ironforged suits of the fleshy things. But…
+
+Once more it observed the giant meteor ahead. That one would do very well indeed.
+
+And so the rock finally accelerated forward, flying towards that craggy exterior. But it did not speed too much, it moved slowly.
+
+Current Velocity: 18.2 m/s
+
+Because the rock did not want to smash the meteor to bits. It had to stay together, all in one piece for the rock’s plan to work. A simple plan, the same one it had always had. Increase mass, increase diameter.
+
+And it landed on the surface. On a hard, rock-solid surface. One much like its own, although the precise composition was a bit off.
+
+How could it get inside?
+
+It again remembered the two suits of metal, and especially the other one. For although it had not seen use in the battle, it did have a very distinctive shape attached to its right arm. A tool of a former mining suit.
+
+A drill.
+
+The rock focused on its [Diamond Skin], this time trying to make something… different. Not a covering all over, just one spot. It gathered up all its Qi, sending them not to the surface, but just beyond. Forming an arrowhead of diamond, extending out of the rock like a unicorn’s mighty horn.
+
+It aimed the drill head towards the [Doomsday Meteor], and again did something different, something new. It used [Energy Shift], but did not do the same kinetic energy conversion as always.
+
+No—it created rotation.
+
+The rock started spinning, drill head against the giant, and began burrowing inside. Rock was forever, but so were diamonds, and so the drill pushed through.
+
+Not in a hurry. Not in a rush.
+
+Calmly. Methodically.
+
+The drill crushed bits of rock to dust, which the rock then had to move away, using [Meteor Shower] and little channels of gravity. Occasionally it had to pull out, letting the crushed pulp dribble out, and then it would head back inside.
+
+And soon, very soon, the rock reached the center of the meteor.
+
+It stopped the drill, letting the diamond bits formed from Qi fade away, and focused its senses. Focused its domain.
+
+Because what really was the difference between the rock it was inside of now, and itself? Why did the rock have a spark, and the [Doomsday Meteor] did not?
+
+It gathered up its domain, the great boundary extending out, and began compressing it. Because it fit just over the meteor, like a well-sized glove. Closer and closer. Onto the very surface of the giant meteor, until it was almost bursting through at the seams.
+
+And then it began infusing the whole region with Qi, taking control.
+
+The rock felt Qi vessels sprout and spread out through the meteor, like little cables of electricity, spreading out to cover it wholesale. And gradually, its consciousness expanded.
+
+It could feel the larger body of rock. Not as its own, but like an attachment. And it was fixed firmly inside.
+
+Next, the rock painted a deep well of gravity on the hole it had dug through, and let rock and dust fall back inside, blocking off the ending. And then it tried to activate [Diamond Skin]. A brilliantly gleaming shell spread out.
+
+And it covered the whole asteroid, giant thing as it was. Even the hole the rock had burrowed inside through.
+
+The rock felt at its grown mass—larger than any it had seen on the mountaintop.
+
+Then—with an exertion of gravity—it gave the whole mass the tiniest nudge. Sent it off course.
+
+And a planet was saved.
+
+Galactic Defender Quest Cleared!
+
+Congratulations!
+
+Bonus Experience awarded!
+
+Experience gained!
+
+5 000 / 20000 xp
+
+The rock was not too pleased by the lack of a levelup, but on the other hand, it did not need the system's help to grow. Nor to learn new skills.
+
+It had grown a lot larger by attaching itself to the larger rock and taking control of it. It had learned to do that all by itself, solely by practicing its Qi manipulation.
+
+It felt at its new form, more connected than before, and gave it another nudge. Just the tiniest one.
+
+Galactic Defender Alert!
+
+Class 10 [Doomsday meteor] (<Unnamed>) will hit [Planet Dirt] in 220 years!
+
+ERROR_THIS_IS_YOU
+
+INFINITE XP GLITCHES ARE CURRENTLY DISABLED FOR [unnamed]
+
+NOT ELIGIBLE FOR A QUEST REWARD
+
+Yes, the rock nudged the course right back where it had been—not because it had tried to fool the system into granting it infinite experience, although that would have been nice, but because this form was worthy. This form was large. With this form—it had grown enough to challenge its foes, to reach the end of its quest.
+
+But, it had only grown the first two of its three key numbers. A true solution still needed that final bit, and our hero was no mere lifeless [Doomsday Meteor].
+
+It used [Energy Shift], and began accelerating. Not just mass and diameter, but velocity too.
+
+And a number began shrinking.
+
+The old one, the one it had been following for so long, but a new one too. The new one moved slowly—very slowly. Because it was not easy to accelerate so much new mass. But… it too began shrinking.
+
+Quest:
+
+Planet Destruction: 220 years
+
+And eventually ticked over, after a long time of accelerating.
+
+Quest:
+
+Planet Destruction: 219 years
+
+Yes, this number too was shrinking now, faster than it should have. And the rock rumbled inside its new shell, anticipating a grand homecoming.
+
+Anticipating the end of its quest. That jade statue, reaching out towards it.
+
+Now, it was really time.
+
+Quest:
+
+Current Altitude: 14 959 787 069 100m
+
+Full Status:
+
+[Unnamed]
+
+Title(s): Line-Ender, Patient Ambusher, Bane of Demons, Grandmaster of Closed Door Cultivation, Galactic Defender
+
+🗿
+
+HP: 144/144
+
+Mana: 0/0
+
+Level: 11
+
+Experience: 5000/20000
+
+Class: Meteorite
+
+Sub-class: Cultivator 8
+
+Race: Gneiss Stone
+
+Gold: 100%
+
+STATS
+
+Diameter (d): 9.23m (10km)
+
+Mass (m): 1 069 226kg (larger)
+
+Energy Level (E): 10 000 MW
+
+Core Temp (T): 4000K
+
+Domain size (d) = 10.0km
+
+ABILITIES
+
+Collide
+
+Steer
+
+Energy Shift
+
+Pivot Point
+
+Pivot Point: Orbital Slingshot
+
+Just a Rock
+
+Meditate
+
+Diamond Skin
+
+Stolen Cultivation
+
+Meteor Shower
+
+Kin of Stone
+
+Gravity Launcher

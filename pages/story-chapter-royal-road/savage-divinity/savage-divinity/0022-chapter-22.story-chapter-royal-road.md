@@ -1,0 +1,111 @@
+---
+id: 52dd0b1e-b9e1-529b-8a35-7ae5cca613c5
+page-type-slug: story-chapter-royal-road
+title: "Chapter 22"
+slug: 0022-chapter-22
+partOf: savage-divinity
+position: 22
+ownLength: 2398
+unit: words
+publishedAt: 2016-03-21
+link: "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/59988/chapter-22"
+royalRoadId: "59988"
+---
+
+Mila watched as Rain swung away at the wooden log. He'd been at it since he arrived, almost two hours ago. The sun had long set, and he still swung away, illuminated by torchlight, fiercely determined to destroy as many logs as he could. What an idiot.
+
+Her best friend adored this odd, log-hating, training maniac of a loner. Lin would always gush about her 'Big Brother Rainy'. Mila just didn't understand what Lin saw in him. He spent all his free time training. A boring statue given life.
+
+Every time Mila came for extra practice, he would be here, doing some nonsensical practice. Once, she watched him punched an iron board for an hour. It was impossible to concentrate, with the constant, dull, thwang, thwang thwang. When she thought he was finally done, he just switched to punching with his the other hand. She almost wanted to pull her tail off. A night of training, ruined by distraction. It was maddening.
+
+Today was much the same. Meaningless repetition of a senseless action. Thwack. Pause. Thwack. Pause. That stupid look on his face. And for what? Nothing. There was no conceivable reason for him to do this.
+
+She had to know. He always did the oddest training. He had to have a reason, besides to drive her mad. She ran her hands through her short red hair, making herself presentable. Once ready, she walked over to him and asked curtly, “What are you doing?”
+
+He turned to her and blinked. After a pause he replied, “Practicing?”
+
+She groaned inwardly. 'Why was that a question?' She tried again. “Why are you just swinging at a wooden log? You've been doing it for a long time.”
+
+He blinked once again, speaking slowly this time. “I am practicing with my weapon.”
+
+Mila ground her teeth. 'He must be an idiot.' She took a breath. “What are you practicing? How to make kindling?”
+
+He opened his mouth in realization. He held his sword in two hands, displaying it and said, “This is a spiritual weapon. That means you can insert Inner Energy into it. That's what I'm practicing.” He gave a patronizing half-smile.
+
+Mila closed her eyes, and counted to ten. 'He cannot be doing this without intent. No one can be this mule headed.' She counted to ten once more. She opened her eyes. Rain had turned back, preparing to chop at the log again. “Stop. Stop. Just stop. I understand that you are practicing. I know that you have a spiritual weapon. My father made it. I wrapped the hilt and scabbard. I also have my own spiritual weapon. I am well aware of how to infuse it with chi.” Frustration threatened to overwhelm her. “What I want to know is, what exactly are you trying to accomplish?”
+
+“Oh, err, okay. Um, I'm practicing to control my chi, to evenly spread it through the weapon. When done properly, it should cut the log in half with a single strike. Did you say your father made this?” His eyes were lit up in interest.
+
+Mila palmed her face. After a long moment, she sighed, and spoke. “You are an idiot. Simply infusing chi into the weapon will not make it sharper. All it will do is strengthen the weapon, the same as when you take heavenly energy into your body.” He had been chipping at logs all night for nothing. She had involved herself with an idiot.
+
+“Oh? OHHH, okay, that makes sense. But I watched Baatar cut a metal bar in two with my sword, just this morning. How do I do that?” The idiot was now asking her for advice. Just perfect. She should have just stayed away. She cursed her own curiosity.
+
+“It's an advanced form of chi manipulation. You should just ask your mentor.” She needed to separate herself from him. His stupidity might be contagious. The poor thing was mad from solitude.
+
+“Ah, thank you. I will do so tomorrow.” He actually gave her a small bow, a few centimeters, but a bow nonetheless. “I apologize, but I don't know your name.”
+
+She stiffened. They had been in classes together for 3 years now. Sure he missed classes when his mentor returned, but that just 4 months of the year. How did he not know everyone's name? He truly was an idiot. “My name is Sumila.” Mila curtly gave him her name, disregarding etiquette. He makes no effort to learn the names of his own class, he doesn't deserve a tribesman's introduction.
+
+He bowed once more. It was disgraceful, always lowering his head. “Thank you for explaining my mistake, Sumila. I jumped to conclusions on my own.” This idiot didn't even realize he was being insulted. “You said you wrapped this? It is beautifully done.”
+
+She straightened a little at the praise. Most didn't appreciate how nicely she made the wrappings. She made sure to make them functional, yet pretty. Her Papa always eschewed designs and patterns in his forging, claiming aesthetics were worthless to a weapon, but what young warrior wants to buy a plain weapon? As long as it did not affect it's function, she saw no reason a weapon couldn't be nice to look at. A nice hilt wrapping, some carving in the pommel, a design on the scabbard, all could provide form, without interfering with function. Maybe she had been wrong about him.
+
+No harm in giving him a little advice. She turned to study the markings on the log, uneven as if torn rather than cut. “You're forcing your chi into the weapon too quickly.” She'd done the same thing at first. “You only need to connect with the weapon, and the chi will flow naturally.”
+
+He cocked his head at her, looking confused. “But I need to force the chi around my body though? It just sits around my stomach otherwise.” He patted his belly. Mila held back a giggle. What a childish explanation of chi. It gathered in one's core, 'not sit's in one's stomach'. She didn't look down on him for it though. His current words and actions made him seem more genuine than when he was bowing and saluting.
+
+She thought for a moment on how to best explain.“Is that how you heal? By forcing it? No, you simply direct it. Your chi is a gift from the Heavens. It contains the knowledge of what to do. You just allow it to do so. There is no need to force your chi into the weapon. Chi has no physical form, yet it can be found in every part of you. All you need to do is become one with your weapon, and your chi will naturally know the path.” She pointed at his sword and continued, “The weapon is masterfully made, to properly distribute chi on its own. You are unbalancing it when you forcefully exert influence over it. You must harmonize with your weapon, and that problem will be largely solved. It will take time. You can't have had it for more than a day.”
+
+He frowned, digesting her words. “This word, 'harmonize', what does it mean?”
+
+Mila scratched her head. He was more of an idiot than she thought. This was going to be difficult. She looked down to think of a simple way to explain. Her brow furrowed in confusion. “Why is your chest bleeding?”
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Akanai moved through the Forms, decades of repetition allowing her the strength and poise to do so effortlessly. She had decided to focus on the Forms of the Bull. Angry, powerful, and unpredictable, the strengths of this Form reflected her mood this night. Mila had begged off of chores, running off to train with her fellow students. It was late, and she had yet to return. She would not train this long. Akanai knew her daughter. To not only shirk her chores, but her training as well?
+
+Akanai moved through 'Uplifts the Sequoia', 'Traverses the Mountain', 'Stomps the Wolf'. She continued to move through the Forms, sharp claps of wind following her movements, furrows in the grass left by her feet. A clang sounds as her fist sails through the iron punching board. She stopped, breathing erratic, hand stuck through the board.
+
+“Ai, old wife, your temper is showing. Our courtyard is destroyed. How are we to receive guests like this? We would lose face, showing a scene such as this.” Husolt stepped out from their room at the sound, exclaiming sarcastically at the sight of their courtyard.
+
+Her husband did not truly care about their garden. His words were a repetition of her own, from when he had gotten drunk and uprooted their peach tree. A true bear of a man, brash and blunt, his single clear eye smiling at her. Akanai sniffed in displeasure. This was no time for frivolities. “Your daughter has run off to do Mother knows what, with Mother knows who. Such a daughter, so lacking in grace and tact. She's too much like yourself.” She couldn't scold Mila, so she would scold him. “Unable to learn anything but your bad habits. Telling racy jokes, playing stupid pranks, carousing in the night. Who would marry a girl like that? How are we to find a husband for little Mila?”
+
+Husolt held his hands up, in a mock defeated pose. Still the man joked. Their daughters future was in peril. She gave up glaring at him, it did no good. She looked around at the chaos wrought in her rampage. The rock garden had been toppled. The replacement plum tree was missing some bark. Two steps would need to be replaced. Some flowers would need to be planted, to hide the scars in the grass. Maybe peonies. “This infuriating daughter will frustrate me to death.”
+
+“I'm sorry I'm late Mama - ,” Sumila had come through the door, the sight freezing her tongue. She immediately turned to run out.
+
+“Halt right this moment, young lady.” Akanai dashed across the yard, lifting her tiny daughter by the scruff. “Do you have any notion of the time? Where have you been, and with who? See if I don't have a chat with their mothers. You were supposed to be off training.”
+
+“But Mama, I was. I was training. I stayed at the yard all night, you can ask Tumen, he was on duty there.” Sumila was plaintive, indignant. Not shameful or angry. Her round bear ears, so similar to Husolt's, lay still. Akanai turned Mila around, legs dangling in the air. Her long, bushy, red-brown tail twitched incessantly. Her daughter was not lying.
+
+“If you were training, then why did you stay so long? Were you meditating on some insight?” She put Mila down and bent over to speak with her, eye to eye, smoothing her collar. Mila had been wronged, and Akanai would need to make up for it. Was their daughter finally showing maturity?
+
+Mila bit her lip and mumbled an answer. When pressed, she spoke up. “I was talking to Rain.” Akanai sighed. Chatting with a boy. She brightened. A boy. Little Mila is showing interest? Akanai grimaced. A boy.
+
+“Who is this Rain? The name seems familiar, but I cannot place it.” Husolt had ambled over, guiding Mila into the sitting room. Akanai allowed herself to be led there as well.
+
+“He's Baatar's disciple, the boy that lives with Alsantset. We were talking about the sword you made him Papa.” Sumila was playing at being the sweet daughter, hoping to win her father onto her side. The big oaf fell for it each time.
+
+“And for this you are an hour late? What did you do, explain the entire forging process?” Akanai snorted. She needed to control the conversation, before Husolt grew too soft-hearted.
+
+“YES! It was so frustrating. He kept asking questions, about how we made the sword, the materials and the process for the metals. He wouldn't let me leave!” Little Mila seemed on the verge of tears. How dare that little runt make her daughter cry!
+
+“Oh? He was interested in such things?” Husolt scratched at his stubble. “Perhaps we should invite him to the forge. He's Taduk's student right? With him gone, the boy has the time. I wouldn't mind showing him around. It's always good to know some blacksmithing.”
+
+Mila glared at her father and spat out a venomous, “No! He'll just stay here forever, asking all his stupid questions. He doesn't know some of the simplest things. Then while explaining, he interrupts and makes you explain all the words he doesn't know. He's so dumb, he'll never be able to become an herbalist. I pity Lin, having to help him all the time.”
+
+Akanai eyed her normally easy-going daughter. “The boy seems to have made an impression on you.”
+
+Mila made a face, like sucking on a lemon. “He’s an idiot. Maddeningly so. And a liar. He claimed he killed a Terror Bird today. With his sword. Why lie so obviously? A fool. I never should have spoken to him.”
+
+Akanai calmed her daughter down, and shooed her off to bed. She had never seen Mila so angry at someone before. A girl quick to anger, but normally quick to forgive as well. She remained in the sitting room with her husband. She snuggled into his arms and decided to seek his opinion. “What do you think we should do, husband? She shows interest in him. Love and hate walk a thin line.”
+
+He just smiled. A slack faced, warm, loving smile. The lovable oaf did not even have a lick of concern for the situation.
+
+Akanai sat back up and shot him a look. “You think we should do nothing? Should we not meet the boy at least?”
+
+Husolt laughed. “Old wife, you've already made your decision. Why ask me? Do as you please. Just don't scare the boy too badly. They're children. Then again, from what little Taduk tells me, I would bet the boy doesn't scare easy.” He chuckled briefly before quickly adding, “Do not take that as a challenge, dear heart.”
+
+Akanai smiled sweetly at her husband and turned to settle back into his arms. “Of course, my dear husband. I will behave properly. I’ll simply have a visit with the pup tomorrow morning, before he begins his training.”
+
+She looked forward to seeing how her star pupil's disciple would measure up.

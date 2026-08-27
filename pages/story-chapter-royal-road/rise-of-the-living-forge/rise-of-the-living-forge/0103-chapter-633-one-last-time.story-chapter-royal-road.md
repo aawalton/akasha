@@ -1,0 +1,109 @@
+---
+id: 08c9eea0-fcbc-5714-b679-0f79738cacea
+page-type-slug: story-chapter-royal-road
+title: "Chapter 633: One last time"
+slug: 0103-chapter-633-one-last-time
+partOf: rise-of-the-living-forge
+position: 103
+ownLength: 1685
+unit: words
+publishedAt: 2026-08-17
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3825636/chapter-633-one-last-time"
+royalRoadId: "3825636"
+---
+
+“Tonight?” Arwin asked, his voice rising higher than he’d planned for it to. “But Anna and Reya are both still Sunsetting. We aren’t at full power. There was more I had to prepare. We—”
+
+“There is no other option,” One said sharply. “We will strike. Tonight, Arwin. Whether you join us or not. We have no choice. I am not exaggerating. I would not make this call lightly. But the rock has been pushed. It will roll down the mountain whether we wish it to or not. Will you stand by our side or not?”
+
+Arwin’s jaw clenched. His hands tightened into fists at his sides. This wasn’t a decision he could make on his own. They weren’t ready. He knew that. She did too. But they couldn’t control reality. This was the hand that they’d been dealt.
+
+He didn’t have to ask Lillia anything — and she didn’t need to ask him.
+
+“We’ll fight,” Lillia said. “I’m waking the rest of the Menagerie. All those who feel prepared will come with us. What are the chances we get attacked at home base while we’re out?”
+
+“Incredibly high,” One said in a grim tone. “They will know who you are the moment you are within the Guildwall. Our time will be tight and they will have forces at your doors within the hour.”
+
+“We’ll talk in the main room,” Arwin said, striding past One and Eleven. “How much time do we have to act?”
+
+“We must move as quickly as possible,” One said, limping after Arwin. The sound of his metal leg grating against the ground followed him as all four of them strode out into the main room of the Devil’s Den.
+
+“We can get you to the Deepmind,” Eleven said. “And we’ll hold down the way for you to get back out. This isn’t meant to be a suicide mission. But we won’t be able to do more than that. Most of our forces are already deployed dealing with the Hero and Demon Queen. That’s the only way we’ll be able to convince the Guild that we’ve overplayed their hand. They’ll send their strongest warriors to fight us.”
+
+“That’ll be our opportunity,” came Rodrick’s voice from the stairs. The former paladin strode down the steps, taking them two at a time, and into the room, his armor already pulled on. His features were ice cold. “Can you defeat the Guild?”
+
+“No,” One said grimly. “Not in a direct fight. But we can hold them down for quite some time. That will keep their most powerful reinforcements from turning to collapse around you. But their weaker ones will still likely arrive. Eleven will protect the portal. I will send Six with her. They will be strong, but not forever.”
+
+“We’ll buy you thirty minutes,” Eleven said. For once, she didn’t sound tired in the slightest. “I can’t promise a second longer than that. Even the Guild’s weaker forces will be enough to give us some serious trouble.”
+
+“We’ll need to keep people here as well,” Rodrick said. He put a hand on the hilt of his sword. “A quarter, at least. Otherwise Milten may fall by the time we return.”
+
+More of the Menagerie piled into the room. Thane and Esmerelda came through the front door, followed moments afterward by Madiv. Koyu appeared in his new metal body, and Wallace skidded down the stairs seconds later. Vanessa came in after them. Art and Vix were next, descending the stairs to join the group. Ida was right on their heels. Elias, Maeve, and Olive followed her down the stairs, as did Monica. Kien emerged from the basement. Even the Beast came, following in Kien’s wake.
+
+It didn’t take long to fill everyone in on the situation.
+
+Near a dozen cold gazes met Arwin’s as he looked out over his people. There wasn’t any doubt in a single one of their eyes.
+
+“Tonight,” Arwin said. “It isn’t what we wanted. But it’s what we’ve got. I need to know who will come with me to strike at the Deepmind directly. But there’s no guarantee that anyone coming with me will make it back. This...”
+
+He trailed off.
+
+Every hand in the room had risen.
+
+Despite everything, a burst of laughter fell from Arwin’s lips.
+
+“I should have guessed. But we need people to defend the Devil’s Den as well. Milten will be attacked. We can’t let the Guild collapse in on us from behind. Some will have to remain.”
+
+“Just choose quickly,” One said. He leaned heavily against the counter, letting out a rattling breath. “My people are already in position. We’ll strike soon. And when we do, we won’t have long to act. If the current Hero and Demon Queen fall before we can interfere, then we may not be able to rally people around them and sew doubt as to the war’s origin. The death counts will be enormous.”
+
+“I’ll stay,” Esmerelda said. “But I’ll fight to protect this city. I’ve grown rather attached. My base of power is my hut, so I would be more effective here regardless.”
+
+“I can stay as well,” Madiv said reluctantly. “I have a building here. As much as I wish to fight… I am not the strongest combatant against an unknown opponent.”
+
+Art and Vix exchanged a glance. Then Art looked to Rodrick.
+
+“Are you going? One of us should remain here.”
+
+“I’ll go,” Rodrick said with a grim nod. “You and Vix protect our way back.”
+
+“Then I’ll stay as well,” Monica said. “I’m not nearly as strong as the rest of you. I’ll probably be of much more use holding down the fort.”
+
+“Lillia?” Olive asked. “Are you going? Or staying?”
+
+“I’m seeing this to its conclusion,” Lillia said. Her lips went thin. “I will be there when the Guild falls. And I have… options. Don’t worry about me. I will go, but you can count on the Den to back you up. I’ll leave Uriel as well. That should keep the area more than defended enough.”
+
+“Then it seems I am staying as well,” The Beast said. He stretched his arms over his head, then yawned. “No matter. So long as I get to kill something, I really don’t care. I suspect the Guild will send more than enough interesting toys to break right to us.”
+
+“I will come as well,” Koyu said. “You will need my strength.”
+
+Nobody questioned that.
+
+“Then that leaves me, Arwin, Elias, Maeve, Olive, Rodrick, Koyu, and Kien to attack the Deepmind,” Lillia said. She was silent for a moment. Then she nodded. “Yes. I think that should work. I wish Reya and Anna were here. Can—”
+
+“No,” Eleven said with a shake of her head. “They’re in the process of Sunsetting already. Their preparations are complete. Two is watching over them — but they can’t join yet.”
+
+“Shit,” Arwin said. Then he shook his head. “No matter. We can’t get caught over what cannot be changed. It seems the lots have been cast. With any luck, the two of them will return to a war that’s already been won.”
+
+“Or they’ll return to nothing at all,” Eleven said under her breath.
+
+“We do not need your pessimism now, of all times,” One said sharply. “We will win. We must. And do not forget that I, too, will be fighting. I might not be what I once was, but the Guild has respected us for a reason. I will not go quietly.”
+
+Eleven’s face paled slightly. Then she nodded. “Yes. My apologies. I… I fear for the future.”
+
+“That is why we must fight,” One said. His one eye smoldered with anger and determination. “For all those who will never see it and to make one for those who can. Complete what preparations you can, Menagerie. We have minutes. You must destroy the Deepmind while we fight. If you cannot… do not throw your lives away.”
+
+“What?” Arwin frowned. “What do you—”
+
+“We will keep the portal open,” One said firmly. “I do not know how powerful the Deepmind is. There is a chance you cannot defeat it. It is a terrible thought, but one we must acknowledge. I would prefer that you are able to pull back and rejoin us in our fight rather than dying pointlessly. If you cannot defeat it, you must retreat. The slightest chance of victory is better than pointless death.”
+
+“We can’t afford to fail,” Arwin said. “We will—”
+
+“Failure is inevitable,” One said, his sharp voice cutting through the air like a blade. “What matters is how we react to it. Do not waste your lives. Promise me. Fight. Win, if you can. We will endeavor to do the same. But if you cannot — return. You will have found something. Even a partial victory is better than complete defeat. As badly as we need to strike now… even if all we can do is pass the information on to the next generation, we must do it.”
+
+Arwin’s jaw set. The idea of failing to take the guild down now, after all this time… he couldn’t accept it. No matter how bad the odds were, they had to win. But One’s cold stare wouldn’t let him answer with anything but a curt nod.
+
+“We’ll pull back if victory is literally impossible,” Arwin said. “And then we’ll back you up in your fight around the Demon Queen and the Hero. If we can’t stop the Deepmind, maybe we can protect them so they can show the world the truth. It’ll be better than nothing.”
+
+“So it will,” One said. He let out a slow, heavy breath. “Ready yourselves. Handle what final preparations you have. Then we will march. May the Mesh stand by our sides.”
+
+“Already on it,” Lillia said. The door to the kitchen swung open. Imps poured out from within it, bearing plates of food upon their head and hurrying to bring them over to everyone in the room. Lillia held her arms outward as her lips pulled up in a thin, mirthless smile. “Would anyone care for a last meal?”

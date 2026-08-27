@@ -1,0 +1,111 @@
+---
+id: 7940a41b-9765-5ff9-a6a1-d51dfaf32b5d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 493: A Plan & ANNOUNCEMENT"
+slug: 0060-chapter-493-a-plan-and-announcement
+partOf: rise-of-the-living-forge
+position: 60
+ownLength: 1516
+unit: words
+ownProgress: 1516
+publishedAt: 2025-09-30
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2640525/chapter-493-a-plan-announcement"
+royalRoadId: "2640525"
+markedReadAt: "2026-06-29T20:00:21.450Z"
+---
+
+“Delivery?” Arwin asked. He’d never even considered the possibility of that. Lillia had been bound to her tavern for so long, the Mesh’s restraints on her making it so that people had to stay over and eat within it, that the idea of her being able to send food out of the tavern on purpose was so foreign that it took him a moment to register it. But the more he thought about it, the more it made sense.
+
+There was only so much space within the Devil’s Den. No matter how much Lillia expanded it, there would be a limited number of seats. Normal inns didn’t really have a problem with that. Most chefs were limited by how fast they could cook.
+
+But Lillia could practically automate everything. The entirety of the Devil’s Den moved in accordance to her thoughts. There was nothing stopping her from making a dozen dishes at the exact same time.
+
+Nothing except for a lack of customers that could all sit down at once. But if they could just send the food out to people outside the Devil’s Den or offer take-out, then the number of people Lillia could serve increased exponentially.
+
+“Yeah, delivery,” Lillia said. “Do you think it’s a bad idea?”
+
+“No, not at all,” Arwin said with a firm shake of his head. “That’s genius. It would still count for your satisfaction and everything? You aren’t going to… you know?”
+
+“Drop dead because less people are inside the tavern?” Lillia asked with a wry laugh. “No. I asked the Mesh about that. It’s more about fulfilling the satisfaction levels than anything else. As long as I do that — my role is fulfilled.”
+
+“Damn,” Arwin said. “And this gives us some other options as well! We can give Madiv something to do while Ridley is working on the auction house. And not just him. Olive, Reya, anyone who wants to get some extra experience fighting — they could deliver the food. Weaker dungeons would be no trouble for them at all, and it would earn money for the Menagerie at the same time.”
+
+“It works out perfectly, doesn’t it?” Lillia asked. “We could send groups for the more difficult deliveries to make sure nobody gets hurt. All we’d need is a way for people to remotely contact us while they’re in a dungeon. Do you think you could make something like that? I know they exist. You remember, Ida?”
+
+Arwin’s brow furrowed in thought for a moment. “The dwarf? Yeah. What about her?”
+
+“She had a stone that let her communicate with her mother instantaneously,” Lillia said. “If you could emulate that and include the location of the person trying to call us…”
+
+Arwin nodded. “Yeah. I see what you’re getting at. Honestly, compared to the other things I’ve made recently, that should be simple. I would need some sort of main unit with a bunch of smaller ones that you can connect to it at will. It might need a lot of magical energy to sustain once enough of them get added… but it’s doable. Yeah, I’m almost confident I can make that. I could start tomorrow. I don’t think it would take me long at all to get a prototype, especially if Wallace and Koyu help.”
+
+Lillia wrapped her arms around him in a tight hug, resting her chin against his collarbone from behind him. “Thank you. That would be perfect. I’ll talk to Reya and the others about seeing if they’re interested. If not, we can always hire some other people. No point leaving money sitting around. It’s better to put it to use.”
+
+“Like who?” Arwin asked. “Vanessa?”
+
+He let out a laugh.
+
+Then he stopped. Lillia wasn’t laughing. And, now that he thought about it, Vanessa probably would have been a terrifyingly effective delivery woman. She’d done a great job at sticking to the plan during Thane’s party.
+
+“We’re hiring Vanessa, aren’t we?” Arwin asked.
+
+“Yeah,” Lillia said. “I think we are.”
+
+“That’s probably going to be a bit of a shitshow.”
+
+“What isn’t?”
+
+“Fair enough,” Arwin admitted with a chuckle. “Then—”
+
+“Hold on,” Lillia said, still pressed against his back. “Before we get too far down this, we need to finish what we started. The Mesh told me a lot. Not as much as I would have liked, but I want to get the rest of it out while it’s still fresh.”
+
+“Oh, shit. Right,” Arwin said. “I have a little more that it told me that I should fill you in on when you’re done.”
+
+Lillia hesitated for a moment longer before speaking. “Honestly… most of the rest of our conversation was largely personal. I wanted to know about — well, it doesn’t matter. It couldn’t answer most of what I wanted. But I did ask it about you.”
+
+“About me?” Arwin asked, blinking. “What about me?”
+
+“You aren’t from this planet,” Lillia said softly. “None of this is technically your fight. I grew up here. You were summoned when you were a child against your will. So… I asked if you could ever go back. If you wanted to.”
+
+Arwin stiffened. “To Earth?”
+
+“Yeah,” Lillia said. He felt her swallow. “You—”
+
+“I don’t care,” Arwin turned, pulling Lillia around so she was pressed against his chest and his forehead was against hers. He couldn’t see her expression in the pitch black, but he didn’t need to. “Thank you, Lillia. But this is my home now. Here, with you. And with the Menagerie. Earth is gone. And, while we need to find a way to make sure more children don’t end up like me… I’m not going back. Even if I could.”
+
+Lillia’s grip tightened around him as a soft laugh slipped from her lips. “That’s a good thing. I’m glad.”
+
+“I’d hope so,” Arwin said, letting out a small chuckle of his own. “Were you hoping I’d run off or something?”
+
+“Even if you wanted to, you can’t,” Lillia replied. “There’s no way back. The Mesh confirmed it. There’s no magic on Earth, so you can’t be summoned to it. You’re stuck here with us.”
+
+“Did you really think I’d ever want to leave?”
+
+Lillia shifted, letting her lips brush across Arwin’s cheek before pulling back.
+
+“No. But I wanted to see if you could, just in case you ever wanted to. And in case… well, in case we fail. In case the world—”
+
+“That isn’t happening,” Arwin said. His hands found her shoulders and tightened around them. “We aren’t going to fail, Lillia. There’s a way. The Mesh gave us everything it could to find that way — and we will.”
+
+“Do you actually believe that?” Lillia asked.
+
+“I can’t afford to believe anything else,” Arwin said with a shrug. “And I’ve never been good at setting realistic goals. What kind of idiot hero would set his sights on the Demon Queen? Takes a special kind of idiocy to give that a shot.”
+
+Lillia’s tail whacked him on the side of his leg as she let out a small laugh. “Don’t flirt with me while I’m trying to be serious, you oaf. You’re going to ruin my concentration.”
+
+“Is that such a bad thing?” Arwin arched an eyebrow and leaned in closer. He might not have been able to see in the darkness, but he’d spent more than enough time within it to get a very good sense for where Lillia was and just how close he could get before they touched. He could feel her breath brushing against his face.
+
+Lillia’s laughter turned into a strangled cough. “Well, if you put it that—”
+
+“Ah.” Arwin pulled back abruptly. “We do need to figure out which of the Menagerie we should send to get Sunsetted before we get too distracted.”
+
+“You bastard,” Lillia said, amusement mingling with annoyance in her voice. “You’re not going to get away with changing the topic like that. You’re living on borrowed time.”
+
+“Noted.” Arwin grinned, but it quickly fell away as his features turned serious once more. “So… what do we do?”
+
+Lillia let out a huff. “What do you think? The same thing we’ve always done. We ask them. I agree that we have to hide the full extent of what Sunsetting does for the time being… but we can’t just select somebody. I don’t know how I’d do that. They need to know the dangers of what they’re getting into.”
+
+“I — huh.” Arwin blinked. “Yeah. That would work best, wouldn’t it?”
+
+“One day, you’ll remember that you don’t have to take the burden onto every decision onto your own shoulders,” Lillia said. Her hair brushed against Arwin’s shoulder as she shook her head. “Let’s go gather everyone. We’ll choose who — if anyone — will join Eleven the next time she comes by. Then you can get started on that project you promised me… and when night comes, a certain former hero is going to pay for his sins against the Demon Queen.”
+
+“That,” Arwin said, the corners of his lips twitching into a smile, “sounds like a plan.”

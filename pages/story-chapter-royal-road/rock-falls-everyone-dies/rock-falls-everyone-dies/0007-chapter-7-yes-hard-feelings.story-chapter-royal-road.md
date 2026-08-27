@@ -1,0 +1,317 @@
+---
+id: ec053dbf-6c20-5755-88ea-7966c610fd31
+page-type-slug: story-chapter-royal-road
+title: "Chapter 7 – Yes Hard Feelings"
+slug: 0007-chapter-7-yes-hard-feelings
+partOf: rock-falls-everyone-dies
+position: 7
+ownLength: 1714
+unit: words
+ownProgress: 1714
+publishedAt: 2023-01-22
+link: "https://www.royalroad.com/fiction/55418/rock-falls-everyone-dies/chapter/1094532/chapter-7-yes-hard-feelings"
+royalRoadId: "1094532"
+markedReadAt: "2026-06-29T22:50:28.283Z"
+---
+
+Deep down, inside a mountain, a [Dungeon Core] was panicking. A [Bone Core] to be precise. For some reason, the intruder to his [Bone Zone]…
+
+Was just not stopping.
+
+“Why? Why does he not stop? What manner of invader is this?”
+
+A gleaming blue gem floated in the dungeon’s deepest room, with only his goblin [Necromancer] lieutenants as listeners.
+
+He could sense the intruder delving ever deeper, at accelerating speed—
+
+And nothing was stopping him.
+
+“I’ve tried the flamethrowers, but he just stood in them! Same with the poison gas! Throgg and his flesh horror were defeated in a matter of seconds! The welcoming skeletons even faster!”
+
+If he had had fingers, he would have bit them bloody. But alas, all the core could do was shift color, red to blue to red, and vibrate.
+
+And shout.
+
+“Go! The rest of you, go! Prepare the bone abomination! And the mega-death pit! Get ready to activate it! He’s almost there! How is he so fast? Go! Move!”
+
+His goblins finally sprang to motion, running to manipulate the complex lever and pulley system which controlled the dungeon’s many traps. The core spun in place, glaring at each subordinate in turn, panic growing as he felt the intruder getting nearer and nearer.
+
+But most of all—the status just did not make sense.
+
+// DUNGEON INVASION IN PROGRESS:
+
+// INVADERS: 1// INVADER AVERAGE LEVEL: 6
+
+It was just one level 6 invader.
+
+He himself was a level 19 [Bone Core], and the flesh horror had been at least 15. “What kind of ridiculously broken class can this be? A [Hero]? Please tell me it’s not a [Hero].”
+
+“S-sir,” one of the goblins hesitantly said, lifting up a hand.
+
+The core spun, aiming a bright red light at his face. “What is it?”
+
+The goblin gulped. “The [Hero] left this realm 6 months ago—there shouldn’t be another one.”
+
+The core focused the bright light into a burning red lazer, and scorched a hole through the goblin’s head. It fell down to the ground, dead.
+
+“You fool, do you not think I know that already?”
+
+The core almost began another rant then and there, but then he stopped—the intruder was right on the spot. He spun, red light rapidly blinking. “Now! Activate the mega-death-pit-of-doom now! He’s right there!”
+
+A goblin pulled a lever, and the core felt a shift in the dungeon as a corridors floor fell down, revealing a 40-meter drop, straight into the mega-bone-golem’s lair.
+
+He sensed the intruder drop down, and finally felt some relief. At least with this—
+
+Then the intruder suddenly paused in place, midair, 30 meters above the bottom, movement slowing down considerably.
+
+The core shrieked. “Levitation magic too?”
+
+No. The intruder had started falling again.
+
+“What is going on—at that speed—surely they will—”
+
+The intruder approached the ground like a stone, and the core held the light in place, red with no blinks, awaiting the impact. The bone horror is right next, ready, this can’t go—
+
+Then the intruder suddenly shifted, all speed transferring from vertical to horizontal in one smooth rotation, and blasted right into the bone horror, smashing it into pieces in an instant.
+
+“N-no… What? What was that? A [Double Jump], into a forward slash? No—it’s all wrong—”
+
+He paused. The enemy was still moving—right here. There was only a short corridor between the pit’s bottom and this room.
+
+He looked over his shaking minions, thoughts dark. So it’s come to this…
+
+The core took hold of the various lifestrands emanating from it, then ripped them all apart. The goblins vanished with terrified screams, dissolving into pits of blood. Light rapidly blinking, the core shoved all the remaining life energy into the ground, in a true last ditch effort.
+
+To summon a defender.
+
+“Arise! Greater Rock Golem!”
+
+A lumbering, circular figure of stone rose up from the floor like a giant tortoise, then legs spouted out from it, and it shakily got up. It loomed into place, a veritable mountain ripping itself free from the ground.
+
+“Go! Kill the intruder now!”
+
+The golem took a step forward, but at that same moment, the vault doors blasted open as the intruder entered.
+
+The core’s flashing light stopped on the figure that had arrived into the middle of the room, stopping in place there.
+
+A… stone?
+
+“Go! Kill it!” he said, using all his authority to force the golem on the move as fast as possible.
+
+But the golem… It stepped forward and made a gesture to the stone.
+
+The core started losing his mind. “What are you… Don’t try to duel it!”
+
+—
+
+A duel.
+
+The rock sensed the golem’s intentions right away, a bond of kinship between those of common birth. The beings of stone.
+
+An honorable duel with all the hard feelings.
+
+Because was not honor a rock-solid feeling?
+
+The rock was making many new realizations about the world. But it accepted the duel, shuffling forward and dipping forward in a small courtesy bow.
+
+A queer blinking thing was flashing furiously in the background, but the rock did not care for it. This was a duel of stone.
+
+And for a duel of stone… there was only one contest that mattered.
+
+Energy Shift activated!
+
+Converting [Thermal Energy] to [Kinetic Energy]!
+
+Δ20K = Δ20 m/s
+
+New velocity for [Unnamed]: 20 m/s
+
+Remaining stored Temperature: 60 K
+
+They both launched at each other, fast as they could.
+
+Collide activated!
+
+[Unnamed] Dealt 14.3 * 434.6 / 4  = 1554 dmg to [Greater Earth Golem]
+
+New Velocity for [Unnamed]: 3 m/s
+
+Collision Damage received!
+
+HP 7/13 -> 5/13
+
+The earth golem... Was not destroyed. The stone watched in disbelief as only the segment it had flown through sloughed off, the rest of the golem moving in to fill the blank spot. This enemy did not operate on the same principles as all the previous ones. It was...
+
+A true foe.
+
+Both duelists back from the first joust, feeling at new injuries that would become scars of honour. A large crack now went through the rock, and the golem had lost a lot of mass, a great mass slowly dripping off it.
+
+That was the difference between them.
+
+The rock would either be whole or destroyed completely. Its nature did not allow for losing a bit of mass. The golem meanwhile did not gather any cracks, but lost bits and pieces as a tradeoff.
+
+A solid core, versus a moving landslide.
+
+Which would win?
+
+They both ignored the light that was blinking annoyingly in the background. It did not matter. This was a matter between a brotherhood of stone—no gem of carbon could interfere.
+
+Time for the second joust—the contestants launched each other again.
+
+Energy Shift activated!
+
+Converting [Thermal Energy] to [Kinetic Energy]!
+
+Δ30K = Δ30 m/s
+
+New velocity for [Unnamed]: 30 m/s
+
+Remaining stored Temperature: 30 K
+
+Faster than the first time, that had been just a test. The true duel started now.
+
+Collide activated!
+
+[Unnamed] Dealt 25.1 * 434.6 / 4  = 2727 dmg to [Greater Earth Golem]
+
+New Velocity for [Unnamed]: 3 m/s
+
+Collision Damage received!
+
+HP 5/13 -> 3/13
+
+Grievous wounds—the rock felt a crack almost connect through it, splitting it in two. But it held on.
+
+It did not lose mass. The golem… it was worse for wear. Devastated. Half its mass gone, but still—it rose up resolutely, determination solidifying its outer shell.
+
+With a small exertion of energy, the rock gave a salute of honor. It was the finest battle it had ever been in.
+
+The two prepared for the third and final joust, when suddenly—
+
+The annoying flashing light thing flared out, finally done with just waiting around, and a melting-hot beam emanated from its center, straight at the rock. It was not ready to dodge, and low on health, could it—
+
+Suddenly the golem moved, with the strength of a landslide, blocking off the beam with its own body.
+
+The rock stared—stunned like a statue, or a rock—at the heroic sacrifice. A true warrior, who would not hesitate to put death before dishonor.
+
+The flashing thing screeched in rage as the golem fell, dissolving into muck and rocks onto the ground.
+
+A flaming fire lit within the rock’s soul. It aimed at the hateful interrupter of a sacred battle, releasing all the energy within its body.
+
+An absolute killing blow, with no mercy to it. It flew at the dungeon core and—
+
+It did not stand a chance.
+
+The damage was irrelevant, as soon as it met the relentless forces of physics, the core cracked, and fell apart, shattering into shards of glittering light. A new notification came.
+
+Dungeon: The Bone Zone Cleared!
+
+Congratulations!
+
+Bonus Experience awarded!
+
+Level up!
+
+400 / 250 xp
+
+Discarding overflow xp
+
+You have reached level 7!
+
+Stats up!
+
+Mass (m): 343.6kg -> 1466.7kg
+
+Diameter (d): 0.68m -> 1.03m
+
+HP: 13 -> 21
+
+New Ability Gained!
+
+Like a Rock
+
+Activate to disguise yourself, making others think you are just a rock.
+
+The rock saluted its fallen adversary, and celebrated its new level. Life and death, both at once.
+
+A beautiful thing.
+
+It appreciated the poetry in the moment for a single moment, then turned to leave.
+
+Then looked up.
+
+At the many-many stairs that stood between it and the corridor up above. The room was sealed otherwise, a simple box with levels and ropes all along the walls. But the rock…
+
+—Suddenly realized how cold it was.
+
+Remaining stored Temperature: 0 K
+
+Current Velocity: 0 m/s
+
+It had no energy, nothing to move with.
+
+Not even to roll around the room for a bit, to explore, to attempt something with the ropes.
+
+There was no mountain to roll down. There was no slope. No domain of gravity.
+
+Just a flat plane.
+
+Stuck.
+
+And so—the rock reflected on the honorable duel it had ended its adventuring career on…
+
+And felt satisfied.
+
+Maybe this was not so bad. It would remain here, honoring the fallen golem.
+
+A fine end.
+
+—
+
+Or was it?
+
+Quest:
+
+Current Altitude: 5 192m
+
+Full Status:
+
+[Unnamed]
+
+Title(s): Line-Ender, Patient Ambusher, Bane of Demons
+
+🗿
+
+HP: 11/21
+
+Mana: 0/0
+
+Level: 7
+
+Experience: 0/500
+
+Class: Rolling Stone
+
+Sub-class: None
+
+Race: Gneiss Stone
+
+Gold: 0
+
+STATS
+
+Diameter (d): 1.03m
+
+Mass (m): 1466.7kg
+
+ABILITIES
+
+Collide
+
+Steer
+
+Energy Shift
+
+Pivot Point
+
+Like a Rock

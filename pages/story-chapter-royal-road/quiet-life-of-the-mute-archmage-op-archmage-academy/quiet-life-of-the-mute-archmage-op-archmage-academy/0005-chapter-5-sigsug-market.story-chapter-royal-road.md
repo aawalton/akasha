@@ -1,0 +1,177 @@
+---
+id: 9dccc4ba-f00a-5156-a751-1609979538e0
+page-type-slug: story-chapter-royal-road
+title: "Chapter 5: Sigsug Market"
+slug: 0005-chapter-5-sigsug-market
+partOf: quiet-life-of-the-mute-archmage-op-archmage-academy
+position: 5
+ownLength: 2271
+unit: words
+publishedAt: 2026-05-13
+link: "https://www.royalroad.com/fiction/167476/quiet-life-of-the-mute-archmage-op-archmage-academy/chapter/3389195/chapter-5-sigsug-market"
+royalRoadId: "3389195"
+---
+
+The village of Sigsug lay wrapped in the gentle embrace of early autumn, the air crisp with the faint promise of rain. Morning dew clung to the cobblestone paths, glinting like tiny jewels under the pale sunlight.
+
+A deep sigh escaped the lips of a young girl, no older than thirteen, her pale white hair tumbling past her shoulders and catching the light like a sea of spilled snow. Her deep crimson eyes, thoughtful and intent, surveyed the already bustling market square. A neatly woven basket hung from the crook of her right arm like a handbag, while her other hand tightened around the folds of her robe as she stood anchored at the market's heart.
+
+Molly's gaze darted from stall to stall, a nervous expression flickering across her face as she considered her first move. Today, she had boldly decided to descend the hill alone and purchase the ingredients for dinner, having declared to Jen that she would cook the meal herself for the special occasion.
+
+Jen had insisted on accompanying her, as she always did, but Molly, stubborn to her core, had kindly refused the offer.
+
+Which brought her to her current predicament.
+
+Where should she even begin?
+
+Another sigh slipped from her lips. Her eyes swept over the colorful stalls that lined the market street in neat, orderly rows. The voices of sellers boomed through the crowd, each cry competing for attention.
+
+"Come get your Lion fish here! Only four copper coins! Freshly caught just a few hours ago!" a man bellowed from his stall.
+
+"Water turkey! Get your fresh water turkey!" another seller shouted, her voice tangling with the man's.
+
+"Red lettuce here! Fresh red lettuce! Carefully imported. Just one gold coin! One gold coin."
+
+Molly frowned at those words. One gold coin? Wasn't that far too expensive for a simple red lettuce? She remembered clearly that the price two weeks ago had been a mere six silver coins.
+
+As if sensing her very thought, an elderly man who had been shuffling toward the red lettuce stall came to a halt, his brow furrowing. "One gold coin?" he repeated, turning to the young seller.
+
+"Young man, isn't that a bit excessive? I know the plague has dried up our greens, but that doesn't excuse inflating the price this much." The elderly man let out a weary sigh. "At least sell it for seven silver coins."
+
+The young seller lifted a brow and studied the elderly man for a long moment, as though weighing his words. "Old man, that's simply how the price stands. I paid seven silver coins for just one of these, not to mention the carriage fee I covered to bring them here."
+
+He exhaled. "Ever since the healing specialists failed to cure the plague from our crops, farmers from other villages have raised the prices of their greens. And since red lettuces are very special vegetables, their price rose significantly."
+
+He shrugged. "That's just how business works."
+
+The elder clicked his tongue at the seller's explanation. "I can't argue with that," he muttered, shaking his head as he walked away, clearly deciding to purchase something else.
+
+Molly, who had observed the entire exchange, couldn't help but shake her head too. A sigh escaped her as she retrieved a small jotter she had tucked inside her basket. She flipped it open and turned to the page where she had written: 'Red lettuce x2'
+
+She stared at the words for a moment, then reached for the wooden pen hooked to the top of the jotter. Holding it poised, she fixed her gaze on the words, caught in the decision of whether to buy the red lettuce or strike it from her list altogether.
+
+A frown soon settled on her delicate features. The red lettuce was a necessary component for the main dish, the 'Rose Porridge,' and the recipe demanded it as the primary ingredient.
+
+But the real question now was: was she willing to spend two gold coins on red lettuce alone, or should she remove the ingredient and find a replacement?
+
+Her thoughts deepened as she considered what Jen would have done in this moment.
+
+A response came instantly to mind, in Jen's familiar voice:
+
+'If you want something, Molly, just buy it. As long as I'm around, money isn't the problem.'
+
+Molly shook her head firmly at the very notion. She detested wasting money, even if Jen wouldn't mind.
+
+According to the book she had read on financial management, one should spend only when necessary, cut down all useless expenses, and save at all times.
+
+And Molly intended to do precisely that. After pondering for a long moment, she decided to cancel the 'x2' and replace it with 'x1.'
+
+She exhaled in quiet pride and began walking with renewed enthusiasm toward the red lettuce stall, which was brightly decorated with a red canopy and yellow-and-blue paneled sides.
+
+When she stepped inside, she noticed the young seller had already returned and was now speaking with a lady who appeared to be a customer.
+
+Molly raised a brow, edging closer until she stood waiting beside the counter where the negotiation was unfolding.
+
+"I'll give you nine silver coins per bunch," the lady said, eyeing the stock of lettuce visible through a transparent door that led into what seemed to be a magically chilled storage room.
+
+He shook his head. "If I do that, I'll be at a loss, madam. Please, try to understand. It isn't cheap for me to acquire these."
+
+Seeing his insistence, the lady sighed. "Alright," she said, glancing once more at the refrigerated storage. "Just give me ten bunches."
+
+The seller's expression brightened immediately. "Right away, ma'am." He hurried to the magical cooler, opened it, and retrieved exactly ten bunches of red lettuce. Placing them into a basket, he handed it to the lady. "Thank you for your patronage."
+
+The lady gave a curt nod and walked away.
+
+Molly released a deep breath as she realized it was now her turn. She stepped closer to the counter.
+
+The seller's brown gaze finally landed on her, and his lips curled upward. "Well, well. If it isn't my quiet friend." A warm smile spread across his face.
+
+"You didn't come with your mom today?" he asked, watching as a black orb, clearly a magical artifact, drifted out from Molly's robe and hovered at eye level.
+
+The orb shuddered for a moment before dissolving into tiny particles. The particles swirled in the air, shaping themselves with each motion until they formed a sentence:
+
+~ Good morning, Mr. James. No, I didn't come with her today. I decided to come alone.
+
+Molly's expression brightened as the words materialized, conveying her thoughts.
+
+He raised his brows at the message. "Is that so?"
+
+Molly nodded vigorously, a bright smile illuminating her face.
+
+Mr. James gave a short nod of acknowledgment. He leaned on the counter. "So, what would you like today?"
+
+The tiny black particles shuddered once more and swirled, rearranging themselves into a new sentence.
+
+~ I would like one red lettuce, please.
+
+He smiled. "Well then, young lady, that'll be one gold coin."
+
+Molly nodded. The particles in the air vibrated, swirling for a moment before coalescing back into a solid black orb, returning to their original state.
+
+She proceeded to hand Mr James one gold coin she had kept inside her robe pocket.
+
+He accepted them with a small smile of thanks and walked calmly to the magical cooler, opening it when he arrived.
+
+A few moments later, Molly watched as Mr. James returned, holding a bunch of red lettuce in his hands.
+
+She offered him her basket, allowing him to place them gently inside.
+
+Afterward, Molly smiled brightly and waved at Mr James, bidding him farewell.
+
+"Have a nice day, young lady," he replied, returning her wave as he watched her step out of his stall.
+
+The lively marketplace greeted Molly once more. The people of Sigsug moved through the market street, each absorbed in their own errands.
+
+Molly's eyes roamed, searching for her next destination.
+
+As she scanned the crowd, she noticed a young boy huddled at the corner of one of the stalls. Judging by his small stature, he seemed no older than five. His blue hair cascaded over his forehead as he clutched something close to his chest, sobbing silently.
+
+Molly frowned when she saw the small boy. She glanced around; a few passersby had paused when they noticed the crying child, but they soon continued on their way as a young woman knelt beside him.
+
+"What's wrong?" The young woman asked in a warm tone.
+
+The little boy kept sobbing as he spoke. "It's Puui." He opened his trembling arms to reveal a sleek black kitten. Its eyes were squeezed shut, and its breathing rose and fell faintly, the struggle for survival evident in every shallow breath.
+
+The young woman's orange eyes was filled with sadness as she observed the kitten. She recognized the condition immediately. 'Mana poisoning,' she thought grimly. 'A severe case at that. Just what did this kitten consume?' She knew well that mana poisoning in unawakened animals usually occurred when they eat raw food possessing a high mana capacity.
+
+She forced a smile, meeting the little boy's tearful gaze. "Where are your parents?" she asked gently.
+
+The young boy shook his head. "Mom and dad are inside the stall." He pointed to the structure he was leaning against. Then he held his kitten tighter. "Mom said Puui can't survive without advanced healing magic, and she said it's too expensive right now." His sobbing intensified.
+
+The young woman sighed inwardly. That was, unfortunately, the truth. The cat would not survive without a proper healing formula, and healing mages always charged exorbitantly for their services. 'It's a shame I never learned any advanced healing formulas,' she thought. 'I would have loved to help if I possessed an extra coin too. I suppose this little kitten will simply have to rest peacefully.'
+
+She drew a deep breath, preparing herself to break the news to the boy gently. But at that moment, her orange eyes caught sight of a young girl, no older than thirteen, her pale white hair shifting slightly as she knelt beside them too. Her deep crimson eyes gazed at the boy with a sad expression. Then, she patted him softly, as if promising that everything would be all right.
+
+The little boy watched as the older girl smiled at him and extended her hand toward the black kitten, muttering a few silent words. Then, something extraordinary happened. The boy's eyes widened as he watched the image of a cross take form. Almost instantly, other smaller crosses materialized around it, and a large circle soon encapsulated the entire arrangement. Then, as if by illusion, the completed formula was suddenly dyed a vivid, glowing green.
+
+His heart skipped a beat as he watched the green glow intensify. Soon, faint motes of emerald light drifted out from the completed symbol, landing softly upon Puui's sleek black fur and dissolving into it upon contact.
+
+"Puui!" the boy screamed in delight as he saw his kitten open its eyes slowly, a weak meow escaping its tiny mouth.
+
+He giggled, hugging his kitten with fierce warmth. His eyes turned to the young girl who had healed his companion. "Thank you very much, aunty!" he beamed.
+
+Molly smiled warmly and patted the boy's head for a moment before rising to her feet. She offered a short bow of greeting to the young woman, who stared back at her, orange eyes wide, her mouth agape. Molly bowed again hurriedly and began walking away, clearly unwilling to answer any questions.
+
+After she had returned to her original spot, her eyes finally landed on the stall selling Lion fish. The elderly vendor wore a bright smile on his face, having just sold a sizable portion of his stock to a customer. His blue eyes scanned for the next person standing at the front of the waiting line.
+
+Molly observed the queue of people, a slight frown creasing her brow as she calculated how long it would take to reach her turn.
+
+She even began considering whether she should acquire the other ingredients first before returning here. Perhaps she could visit the bakery, and by the time she came back, the crowd might have thinned.
+
+Molly shook her head at that thought. If she did that, the fish would be finished, and she didn't want to buy any other fish except Lion fish or white fish. If the lion fish is sold out here, finding it at another stall would be difficult; any other vendor would likely have a crowd like this one, or even larger. And Molly knew all too well that the alternative, white fish, had already begun to grow scarce everywhere.
+
+So she resigned herself to waiting in line.
+
+"H-how did you do that?"
+
+Just as she was about to move, she winced at the hesitant yet utterly dumbfounded voice of the young woman from earlier.
+
+Molly's eyes shifted slightly, scrambling for a way to respond without actually answering. She had nothing to tell the woman in the first place, and besides, the healing spell was a mere [Tier 3] formula, not a high-tier spell. Molly hadn't imagined it would draw attention toward her. She had even pretended to chant the incantation. Had the woman found out?
+
+Molly hesitated, about to turn so she wouldn't appear rude, but just then, she heard a distant roar, and soon after, an enormous shadow swept across the sky.
+
+A woman screamed. "A Grand Wyvern!"
+
+"Run!"
+
+Chaos erupted everywhere.

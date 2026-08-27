@@ -1,0 +1,63 @@
+---
+id: 4bf3efb4-0ae7-5b47-831e-a257e56128d8
+page-type-slug: story-chapter-royal-road
+title: "SALVOS WEBTOON (pre-emptive) ANNOUNCEMENT + Patreon tier updates"
+slug: 0059-salvos-webtoon-pre-emptive-announcement-patreon
+partOf: salvos
+position: 59
+ownLength: 1076
+unit: words
+publishedAt: 2022-08-04
+link: "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/963346/salvos-webtoon-pre-emptive-announcement-patreon"
+royalRoadId: "963346"
+---
+
+And there you have it! The prologue scene shown in webtoon form!
+
+God, I have been working on this for a while. Literally, for the last 18 months, ever since I did that webcomic special between Salvos and Melas, I have been trying to create a Salvos webcomic. I have spent OVER $10,000 and gone through DOZENS OF ARTISTS to find an artist that I really like. That's right. That's not even what I will be spending on the webcomic itself, but the whole process to get to this point so far. The estimated cost of a full season will be... a lot more than that, to say the least. A rough ballpark of five to ten times that amount. So... yeah.
+
+Anyway, that's enough about the financial aspect of the webcomic. Let's go over a few things about this project.
+
+First of all, it will, obviously, be distributed by... well, I can't say who yet, but it will be done so in a way to ensure it reaches as wide of an audience as possible. Don't worry, I ain't half-assing this shit. I've been working on this for far too long to half ass this stage of the webtoon. Fun fact, I started Salvos with the intention to turn it into a webtoon in mind, and I will follow through with this goal of mine no matter what.
+
+Secondly, it's still in the early stages, and honestly, this may be a bit preemptive because this will probably only start officially posting by next year. At the earliest, it will begin posting by December this year. But that's at the very earliest. It will most likely, as I said, begin posting in the first half of next year.
+
+Thirdly, who will be funding this? Well, me of course. And... possibly you guys. As you can tell from the title, this isn't just a webtoon announcement. This is an announcement about changes to my patreon. As you can probably remember from roughly seventeen months ago, I decided to change my patreon tiers from $10 to $5 because I was afraid of overcharging my readers. I said to myself then that I would not charge more than $5 for chapters ahead without a valid reason, and, well, this is a valid reason.
+
+Unfortunately, since Salvos never went to Kindle Unlimited to make fat stacks of cash, and will never go to Kindle Unlimited as I promised, I don't exactly have fat stacks of cash lying around to help fund a Salvos webtoon. As such, I have been grinding hard, constantly starting new projects for this very reason-- to help pay for all the expenses that will be associated with a Salvos webtoon. So, if you've ever found yourself wondering, "Why do you start so many new stories Mr MelasDelta?" Now you know.
+
+So there will be some Patreon tier changes:
+
+Still, I will be raising my top patreon advanced tier from $5 ahead to $10 ahead. The current $5 tier patrons will not be affected, since they will still be getting 20 chapters ahead, but now the $10 tier will be getting 30 chapters ahead. An additional 10 more chapters ahead.
+
+Now, the tiers will look like so:
+
+$3 for 10 chapters ahead, occasional webcomic updates
+
+$5 for 20 chapters ahead, occasional webcomic updates
+
+$10 for 30 chapters ahead, side stories, and regular webcomic updates
+
+Of course, I would've loved to have all 10 chapters ready at this point in time, but as you all can probably remember, my life was kind of turned upside down last month, so I have about... 2 extra chapter ahead of the $5 tier for the $10 tier right now. I will, however, be working hard every week to up the number of advanced chapters for the $10 tier, so I will be posting a minimum of 6 or 7 chapters a week on patreon for the next month or two, if you subscribe to the $10 tier, as opposed to only 4 or 5 chapters a week if you're a public reader or a $3 or a $5 tier reader. Your schedule hasn't changed, again-- there's just a 'better' tier now until I'm up to 30 chapters ahead.
+
+In addition to that, $10 tier patrons will be getting quite a bit of updates/previews in regards to the webtoon, while $5 tier patrons will get only a few important updates.
+
+What happens in the Webtoon?
+
+Alright, we went off track for a bit. Back to the Webtoon stuff. A couple things to note: there will be quite a few changes made for the webcomic adaptation of Salvos. Specifically, in relation to pacing. I feel like the early chapters of Salvos could be tightened up a bit... as well as some chapters later on in volume 3 and volume 4. So the webcomic will have slightly different events happening. Don't get me wrong! It'll still follow the broad strokes quite stringently! But I feel like I could've done so much better in regards to pacing, especially for the Netherworld arc.
+
+What does this mean for novel readers? Well, nothing really. It just means the novel and webtoon will diverge slightly at times, but will ultimately be the same story. Here's one such example of a slight divergence:
+
+In any case, I'm sure you can tell I ain't going to be holding back in terms of the art quality. There's a lot more I could show, like... Salvos staring at rocks and stuff.
+
+To wrap up:
+
+But the point is that this will be a full-on webtoon production with the best art I can afford. I have cycled through soooo many artists to get to this point. If you'd like to see some of the previous artwork I'd gotten, I'll be posting fun little edits and clips on my YouTube channel.
+
+Here's one such example of comparing an older version of the webtoon prologue with the current version: When the Webtoon Art Glows Up - YouTube Pls leave a like and subscribe thx.
+
+Spoilers: it's a massive upgrade.
+
+Anyway, that's all for now. Hope y'all are as excited about this announcement as me. Because I am fucking tired, with moving countries, the funeral, trying to get a visa, and working on this in the background while posting 7-10 chapters a week... god, I am so tired.
+
+It's been ya boi, MelasDelta. Next chap will be up in 12 hours or so. See ya then.

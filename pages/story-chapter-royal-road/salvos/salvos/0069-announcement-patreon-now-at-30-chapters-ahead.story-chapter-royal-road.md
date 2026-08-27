@@ -1,0 +1,25 @@
+---
+id: ac66e24d-bfaf-5387-9b12-a09198649997
+page-type-slug: story-chapter-royal-road
+title: "Announcement: Patreon now at 30 chapters ahead!"
+slug: 0069-announcement-patreon-now-at-30-chapters-ahead
+partOf: salvos
+position: 69
+ownLength: 186
+unit: words
+publishedAt: 2022-11-02
+link: "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1029959/announcement-patreon-now-at-30-chapters-ahead"
+royalRoadId: "1029959"
+---
+
+Sup y'all,
+
+I am very happy to finally announce that my patreon has HIT 30 CHAPTERS AHEAD. It took me a long fucking while. And yes, I have been so busy with so many irl things like moving countries and my Grandma's funeral and the webcomic and more. But I finally increased my patreon chapters from 20 ahead to 30 ahead.
+
+If you don't remember, I increased my patreon tiers from $5 to $10 to help fund the Salvos Webcomic, which is proceeding swimmingly. If you want to check out updates on it, look at my Twitter here. Also please give it a follow, ty.
+
+https://twitter.com/melas_delta/status/1586803149582598145
+
+But yeah, it's the start of the new month, and you can finally read up to 30 chapters ahead on patreon, so now's the best time to become a patron. The schedule will resume as per normal now that I've finally gotten all this resolved, but if you want to read 30 chapters ahead (god, finally I can say that) or support the webcomic, check out my patreon HERE.
+
+It's ya boi, MelasDelta, and hope y'all have a great day.

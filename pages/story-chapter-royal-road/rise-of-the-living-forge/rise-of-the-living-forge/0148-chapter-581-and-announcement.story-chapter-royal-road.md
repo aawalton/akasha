@@ -1,0 +1,129 @@
+---
+id: b0e0b7e5-753e-5e2b-9a40-fa098477afc8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 581 & Announcement"
+slug: 0148-chapter-581-and-announcement
+partOf: rise-of-the-living-forge
+position: 148
+ownLength: 2078
+unit: words
+publishedAt: 2026-04-01
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3218405/chapter-581-announcement"
+royalRoadId: "3218405"
+---
+
+Indrana drummed her fingers against the cold stone table as excited conversation rolled out all around her in the large hall. Lines from years of scowling remained etched into her features, unmarred by the high energy of the rest of the Council.
+
+Haley had done well. The report of the Council’s winnings from the Menagerie’s auction laid before them all, and it was quite the sizable amount. Nobody could claim that the Menagerie had lied to them. The items from the Vault they’d cleared had been incredible.
+
+It was hard to come by Legendary items already. But to find ones that were rare or unique enough that even master smiths would salivate over the chance to deconstruct and learn from… that was a different situation altogether. Even with the ridiculous amount of materials that they’d spent today, nobody in the council had any doubt that they’d come out ahead today.
+
+Nobody but Indrana.
+
+While everyone else celebrated over the potential of what they’d just purchased, her thoughts were elsewhere. They were on her interactions with the Menagerie. With the monsters that controlled that so-called crafting guild. She hadn’t forgotten what they were capable of.
+
+And, unlike the rest of the Council, she’d dealt with them firsthand.
+
+They’d invaded her sanctum. They’d killed an expert Dwarven Warrior. And, though it was being brushed under the rug, they’d entirely outmaneuvered battalions from multiple Councilmembers. Everyone was celebrating over the fact that they’d won out in the auction… and not one of them was wondering why a guild would ever sell items like this.
+
+It made no sense. Legendary weapons like these weren’t easily found. Items like the ones the Menagerie had sold were influential enough to drag a low-rate guild up the ranks and greatly boost their potential, allowing their members to get far stronger.
+
+The Menagerie weren’t even a merchant guild. They didn’t get any real benefit from spending massive amounts of money and influence just to gain attention for their auction house. An auction house was only worth as much as the items being sold in it, and it would only gain any real level of notoriety if they continued to sell valuable items.
+
+Selling Legendary items was an incredibly short-sighted move. It was like burning the guild’s future in exchange for a bunch of fast extra resources now. And something like that was a move that only a desperate or stupid guild would make.
+
+The Menagerie did not strike Indrana as either of those tow things. So if they were going around selling Legendary items as if they were Epic… she couldn’t help but feel like the Council had overlooked something completely.
+
+Her lips thinned into a flat line.
+
+But Indrana said nothing.
+
+She had held her position in the Council for a long time. That was not by sheer coincidence. If nothing else, Indrana was shrewd. She knew when the bell tolled. Even if she hadn’t been forcibly sided with the Menagerie, the rest of the Council was so focused on profit that they’d overlooked a fairly obvious warning sign.
+
+Or perhaps they’d all seen that warning and chosen to ignore it. The problems of the future weren’t yet worth worrying about. All they cared about was lining their pockets as quickly as possible. Which, ironically enough, was exactly what they had incorrectly assumed the Menagerie was doing.
+
+Perhaps the Council has grown complacent. We’ve been sitting too easily with the funds from the Guild. But this world does not tolerate complacence.
+
+An upheaval is coming.
+
+And when it did, Indrana had every plan of being on the top — no matter whose side she had to stand on to get there.
+
+***
+
+Arwin crossed his arms in front of his chest as he studied the piles of expensive material laid out before him. The steady, ever-beating thump of a Dungeon Heart tickled the back of his head as the powerful — and unsettling — material steadily thumped away in the corner of the armory.
+
+The sheer wealth was staggering. He didn’t even want to try and think about how much all of this was worth. It probably didn’t even matter. Materials like this couldn’t be bought with gold in the first place. They weren’t for sale unless you knew somebody like the Dwarven Council… and the council never would have parted with any of this stuff if they hadn’t wanted the legendary items from the Vault so badly.
+
+Arwin’s lips twitched in amusement. He couldn’t help but wonder what the Council would have thought if they knew he was more than capable of making any of the weapons that had been contained within the Vault. As powerful as they had seemed, their potential paled in comparison with an Awakened Soul Weapon.
+
+Sucks to be them. I don’t feel bad ripping off an organization like the Council, though. They had it coming. Insufferable bastards.
+
+“You seem awful satisfied with yourself.”
+
+Arwin turned as Koyu stepped into the room behind him. The door closed itself behind the Lich, and a small grin pulled at the corners of Arwin’s lips.
+
+“We all should be. This went perfectly.”
+
+“So it did,” Koyu agreed. “Though I did not expect to find a Revenant here, of all places. We have some trouble waiting for us. I have put a great deal of stock in your abilities to create a weapon that can end him. Not just for our sake, but for his.”
+
+Arwin grimaced. “You mentioned that briefly at dinner. What exactly do we need here? And how long do I have again?”
+
+“Two weeks,” Koyu replied. “That is when the Beast will return. We must have a weapon capable of ending him by then. Trust me. It is a mercy. A Revenant is a ball of tortured souls that subsumes everything it kills, drawing them into the mix of agony. They are neigh immortal and incredibly dangerous. Revenants have only ever been made — and unmade — through Soulmancy.”
+
+“Well, that’s lovely,” Arwin said. His lips thinned. “Doesn’t sound like a great existence at all. There’s no way to… I don’t know. Cure it?”
+
+“It is not an illness,” Koyu replied with a shake of his head. “It is Soulmancy. The form of which I originally feared you capable of. The only solution is release. All of the Revenant’s power and ability come from the very thing that tortures it. If you undo that, then the Revenant is nothing but a thousand dead souls losing for release.”
+
+Well, when you put it like that…
+
+“I see,” Arwin said. He nodded his understanding. “Then there isn’t much choice. I’ll find a way to make the weapon. You’ll help, I presume?”
+
+“You would be hard pressed to create an atrocity like this without the help of someone experienced in the old ways of Soulmancy. You must know what you seek to destroy in order to create a weapon that can end it. But it will take me time to think what we can do. I will study the materials we have collected.”
+
+“Good idea,” Arwin said. “I’ve already spoken with most of them. They’re sorted. The pile on the left there are the ones willing to become weapons, so I’d focus your attention there. Anything else will end up creating something pretty sub-par, and I doubt a weapon less than perfect will be able to kill someone who is literally immortal.”
+
+“Your ability is… very useful,” Koyu said. “Carry on with whatever it was you were doing. Ignore me. This will take a while.”
+
+“Take your time,” Arwin replied. He glanced over at the Dungeon Heart beating away in the corner of the room. It had nudged itself a few feet forward since the last time he’d looked at it. Or, more accurately, the Infernal Armory had moved it forward. It wasn’t hard to guess what the building was asking. “But one thing. The Dungeon Heart. Will it be useful for this?”
+
+Koyu shook his head immediately. “We will not need an animate weapon to kill the Revenant. If anything, it would be best if the weapon’s existence was ended immediately after its duty is done. We do not need objects like that existing within our world.”
+
+“Right,” Arwin said. “That makes sense. So it should be fine if I use the Dungeon Heart for something else?”
+
+“It will create no issues.”
+
+A faint ripple of energy passed through the ground at that. The Infernal Armory was clearly somewhat pleased with its answer. While Dungeon Hearts were able to create new awakened buildings, Arwin hadn’t forgotten the other potential use for them. According to the Infernal Armory, they could also be used to upgrade the buildings.
+
+Arwin had no reason to believe that not to be the case.
+
+And one of the biggest things I’ve learned is that I can’t do everything on my own. If I want to keep making stronger weapons, I’m not the only element in the equation. The Infernal Armory is an extension of my powers. If I can make it much more powerful, then my potential will also increase accordingly.
+
+The solution here was looking pretty evident. As useful as making another awakened building would have been, what Arwin needed the most right now was a way to make even stronger weapons and armor. Not just for the purposes of defeating the Beast, but also to protect his guild members.
+
+Arwin walked over to the Dungeon Heart and picked it up. A coil of red mist twisted across the ground behind him. It rose into the air as invisible footsteps moved through it until the presence of the Armory stood at Arwin’s side.
+
+“For me?” The Armory asked, the hunger palpable in its words.
+
+“Yes,” Arwin said, a grin tugging at his lips. “All yours. This time around, at least. Just don’t go expecting every single one we get after this. And just so you know, this better be impressive. I’m going to be pissed if we spend a Dungeon Heart and you only get a slightly shinier exterior.”
+
+Laughter rolled through the air around Arwin’s head. Black tendrils extended from the walls, coiling through the air and winding together to pool into a makeshift palm before him.
+
+“Give me the Heart,” the Armory said. “And then I will show you exactly what I am capable of.”
+
+This is an announcement, not part of the chapter.
+
+I am putting this here because I know some people skip over the notes etc. I don't want to ever use this space for promo of anything, so this is just for series-related information. Announcement below!
+
+--
+
+Heya all! I hope you're doing well. A few people have asked, so I'll say that I'm doing okay. Health hasn't been the best as of late but it's improving.
+
+I have some pretty big news for Forge. I'm actually getting somewhat close to the ending that I've had planned for the series since its launch (on patreon, that is. Not on RR. RR has several months of content left at a minimum by my guess). I don't know exactly how some of the final pieces will fall out, but I want to do my absolute best to get it right. Ending a webserial is... tough.
+
+And for that reason, I really want to focus in on it and do my damn best to get it right. I'm going to be spending this month (April 1st-May1st) doing some very heavy plotting for forge rather than keeping at the 4 per week pace. I'll still be writing forge chapters, but at a very heavily delayed speed. I want the room to be able to take longer per chapter and edit/polish, especially when I get close the ending of the final arc.
+
+I will say I don't know (yet) the exact time until it's completely finished. I'm definitely not 10 chapters away or anything close to that, and the last arc might take slightly longer than I expect. The serial still has more ground to cover, so I expect it'll go for at least 1-2 months after this one. Maybe more. Not exactly sure yet. This will just give me time to make sure that when I do get to the ending, it's as close to as I visualize it to be as possible.
+
+Thanks all! There will be sporadic chapter posts over april, but i'll be focusing on plotting and refining the last arc.
+
+Cheers!

@@ -1,0 +1,131 @@
+---
+id: 4c269fc8-d93b-52bd-bdde-9b01b1c7d9ee
+page-type-slug: story-chapter-royal-road
+title: "Chapter 572: Devils"
+slug: 0139-chapter-572-devils
+partOf: rise-of-the-living-forge
+position: 139
+ownLength: 1973
+unit: words
+publishedAt: 2026-03-12
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3142227/chapter-572-devils"
+royalRoadId: "3142227"
+---
+
+The Mausoleum was a mess. Loud chatter filled the air as people in the lower sections milled about uncomfortably. Neil couldn’t blame them. When the first rumbles had first reached his ears, he’d thought there had been an earthquake of some sort.
+
+It had quickly become apparent that wasn’t the case. There was a fight going on outside — and from the intensity of the rumbling that had managed to reach the Mausoleum, it wasn’t a small one. Someone quite powerful was attacking the Menagerie.
+
+But they didn’t seem to much mind. Madiv had just continued the auction, pressing ahead without so much as a comforting word. He didn’t even address the rumbling crashes just barely reaching them from outside. And while that had been enough for a bit, the fight had gone on a hell of a lot longer than it should have.
+
+The people in the lower sections were understandably concerned. Being trapped inside a building like a bunch of fish in a barrel was not the best position to be in if someone powerful enough to fight the powerful guards posted up at the auction house’s entrance managed to win.
+
+And given how long this fight had been going… there was a decent chance that whoever the attacker was would end up winning. There was a pretty good chance that the ones in the VIP areas were worried too, but Neil had no idea what any of them were thinking because of the magical sound dampening protecting them from prying ears.
+
+What is going on out there? And what is taking them so long to address it? This whole place is one panicked idiot running for the door away from a stampede. As powerful as many of the adventurers here are, being stuck in a room like this when someone attacks is just asking for an explosive to get flung into the center of the room where nobody can dodge. Not all of us have powerful survival skills.
+
+And it seemed that the Menagerie had realized that as well. Madiv had finally paused his sales, an annoyed expression crossing over his features as he raised his hands into the air. Then he brought them together with a loud clap, magically amplified to boom through the room like a thunderclap.
+
+Everyone spun toward him, the growing unease momentarily suspended.
+
+“Would you stop that?” Madiv asked sharply, letting his hands lower. “We are trying to hold an auction here, and acting disruptivly ruins the experience for everyone. There are still a few items left in the second round. After it is complete, you will be free to speak as loudly as you want — outside of my building.”
+
+“Why aren’t you saying anything about the fight outside?” Someone called. “You can’t expect us to ignore it! If there’s someone powerful enough to challenge the guards, then we could be in danger. It would be better to let us out of the room so we can see what’s going on.”
+
+Neil didn’t miss the fact that the speaking adventurer wasn’t offering to help with the fight. That wasn’t really much of a surprise. Nobody was going to risk their neck defending someone else’s auction. But, even aside from not being trapped and clueless, getting to watch the fight would be good entertainment.
+
+“What a stupid question.” Madiv tilted his head to the side. “Why would we bother addressing something as unimportant as that? How ridiculous would it be to pause our auction and let everyone wander out every single time some idiot attacked this street?”
+
+“Every time?” Another adventurer asked. “What do you mean? This—”
+
+“Is easily the third or fourth attempt to interfere today,” Madiv said with a short bark of laughter. “And one that has already ended. Do you hear anything else?”
+
+The room stilled for a moment as everyone fell silent, trying to pick up on the sounds of fighting. Neil was among their number, but Madiv was right. Everything had gone quiet once again. There were no more sounds coming from outside the building.
+
+“Now calm yourselves,” Madiv said. He shook his head in disappointment. “This is hardly worth our attention. Wouldn’t you expect there to be some degree of interference from idiots trying to claim what isn’t theirs by force? We have a great deal of valuable items up for auction. It’s only natural.”
+
+Neil shook his head.
+
+Of course we did. It was practically a given. But there’s a big difference between expecting an attack and realizing that the Menagerie is guarded by one of the more powerful guilds in the kingdom. Guards that clearly just struggled against whoever just attacked us.
+
+The question on everyone’s mind now…
+
+“How do we know your guards won?” An adventurer from the lower sections asked nervously. “Anyone able to give them that much trouble could be powerful. It might even be an entire guild attacking.”
+
+“And you think the best move to deal with a mass scale attack like that is to run outside and find out by sticking your face into a waiting sword?” Madiv asked wryly. “No. This was no guild. Just a few hooligans that were a little more difficult to deal with than we would have liked. The guards at the front of the Auction House were not even involved. They have not yet left their posts.”
+
+Neil’s eyes widened slightly.
+
+What? But the intensity of the fighting… that wasn’t some clash between weak adventurers. For it to have been at that intensity, for that long, the fighters must have been really damn powerful. Even what the Menagerie showed themselves to be capable of at the Proving Grounds is unlikely to have made this much noise and disturbance.
+
+Does this mean the guild backing them is acting themselves? Or were the Menagerie holding back during the Proving Grounds to conceal the extent of their power?
+
+A chill ran its fingers down the back of Neil’s spine. There was another possibility. One that felt even more uneasy than the previous ideas. One that was almost too ludicrous to accept… but it wasn’t one he could dismiss.
+
+It was the possibility that the Menagerie hadn’t held back at all. They’d put their best foot forward during the Proving Grounds and didn’t have a backing at all. It was the concept, however ludicrous it may have been, that they had simply grown this much stronger in the time since the Proving Grounds.
+
+Neil hesitated for a moment. But there were still no noises coming from outside. The fight was well and truly over. There was always the possibility that the Menagerie’s forces had lost the fight… but he was starting to suspect that wasn’t the case.
+
+He hesitated for a moment. Then his eyes narrowed. Perhaps the Menagerie had rigged this entire thing. There was a decent chance that the entire fight had been fake, all for the purpose of convincing him to bend knee. Hell — there might have even been other people they were trying to convince to join them.
+
+Neil didn’t know. There was no way to know. Not yet, at least. But people who waited for 100% certainty were rarely the ones that got to take advantage of a situation. Bronze Dragon trusted him to make calls. That was why he was here.
+
+And it was time to make a call.
+
+“Reya?” Neil asked. He felt slightly awkward speaking to the thin air. He doubted anyone was just sitting around and waiting for—
+
+“Yes?” Reya stepped through a wall nearly launching Neil straight out of his chair in surprise.
+
+“Shit!” Neil exclaimed. “Were you just standing around and waiting for me to say something? I thought you left!”
+
+“Oh. Nah. I was in the hall waiting,” Reya replied without a hint of shame. “You heard my last line, didn’t you? The world just hasn’t figured it out yet — and we’d like to keep it that way. It was badass. No way I was going to just walk off after a one-liner like that. So, have you decided on a path forward?”
+
+She doesn’t feel any shame at all about… oh, forget it.
+
+Neil couldn’t help a small smile from pulling at the corners of his lips. The honesty was refreshing. “You’ve got me. I’ll accept the offer you gave us. Connect me with that merchant in preparation for the 3rd round of the Auction. I’ll buy from them.”
+
+Reya arched an eyebrow. “And?”
+
+“We’ll agree to list ourselves as the Menagerie’s ally. But don’t expect us to properly back you until we see that you’re stronger than you look. There’s only so much influence I have,” Neil warned. “I can get you what you’ve asked for, but that’s it. If you’ve started a war you can’t back, we aren’t saving you.”
+
+Reya just laughed and extended her hand. “That’s quite fine with us. Trust me. We don’t need anything but your name right now. Welcome aboard. We’ll send for the merchant shortly.”
+
+Neil took her hand, and the two of them shook.
+
+Then there was a short pause. He cleared his throat. “So… the fight. Clever ruse?”
+
+“The fight?” Reya blinked. Then she shook her head. “No. That was a real attack.”
+
+Neil blinked. “Truly?”
+
+“Yeah.” Reya nodded. “That would have been a good scam though, yeah? I wish we’d thought of it. I’d love to take credit for that. Know a few other people who would too. But no, this wasn’t some kind of bargaining tactic. It was just an attack.”
+
+“By who?” Neil asked. “That didn’t sound like it was a small fight.”
+
+“Don’t think it was,” Reya said. “I took a quick peek out the wall. Some of the street is destroyed. Someone had a bad day. But that’s about the end of it. I’m sure they’ve been dealt with.”
+
+“Subdued?” Neil asked. “Do you know who the attacker was?”
+
+“Nah,” Reya replied. “I’m not getting live updates.”
+
+“Then how do you know you won? Is it possible that your people were defeated and the attacker is just biding their time to attack us?”
+
+Reya tilted her head to the side as if the very question were odd. “No.”
+
+“How do you know?”
+
+“Because the damage was just a small section of the street, and we haven’t even called half of our strongest combatants out to fight yet. They’re still sitting around,” Reya said with a shrug. “If the fight had been going really bad, more of us would have mobilized.”
+
+“I thought you were a crafting guild.”
+
+Reya glanced at Neil out of the corners of her eyes. “We are. And?”
+
+Neil opened his mouth. Then he closed it again. “You know what? Never mind. Can you just send that merchant in? I want to get ready for the 3rd round of the auction.”
+
+Reya smiled. “With pleasure. Her name is Melissa. I’ll go get her and make the introduction for you. Welcome aboard, Neil.”
+
+Then she was gone, an apparition slipping through the wall and vanishing from sight. Neil stared at the spot where she’d been for a few moments before slowly letting his gaze drift back to the center of the auction house. Everyone had calmed now that the sounds of the fight were gone, and Madiv was back to his task of selling items.
+
+He tried to pay attention, but it just didn’t quite work. Neil’s fingers just kept drumming against his thigh as he shifted uncomfortably in his chair. It was strange. He was completely convinced that this was worth the risk and investment. Even in spite of all the odds against the Menagerie actually being genuine… Neil was actually certain that this investment would pay out for Bronze Dragon.
+
+So why is it that I feel like I’ve just made a deal with a devil?

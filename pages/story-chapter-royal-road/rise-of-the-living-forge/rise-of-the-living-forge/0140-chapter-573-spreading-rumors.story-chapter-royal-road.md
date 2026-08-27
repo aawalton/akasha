@@ -1,0 +1,97 @@
+---
+id: c037fc02-1da7-556c-a369-117241ca69b8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 573: Spreading Rumors"
+slug: 0140-chapter-573-spreading-rumors
+partOf: rise-of-the-living-forge
+position: 140
+ownLength: 1554
+unit: words
+publishedAt: 2026-03-12
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3143868/chapter-573-spreading-rumors"
+royalRoadId: "3143868"
+---
+
+Arwin was surprised to find that he felt considerably more calm than he’d initially expected. Neither he nor Lillia had so much as risen from their chairs for the duration of the sounds of fighting coming from outside on the street.
+
+The sound meant that the fight was still going. And it had gone on for quite some time. A few minutes was more than enough for Rodrick to have sent for them. The fact that he hadn’t made it quite clear that everything had been under his control from the start.
+
+It was a strange feeling, sitting around and doing nothing while the rest of the Menagerie fought. But that, too, was part of the plan. There were more purposes to this auction than just earning an absolute shit-ton of money and magical materials.
+
+One of them was putting the most powerful face forward for the future. The time that the Menagerie had to hide and stay out of the way of the public eye was long past. It wouldn’t be possible for them to avoid the Guild any longer.
+
+And when one couldn’t dodge a problem, the second best thing to do was meet it head on. They had to come out swinging. There were few ways to do that better than ensuring any rumors that spread about the fights that occurred outside the Mausoleum spoke as to how the Menagerie hadn’t even had to use their full strength.
+
+They’d dealt with all their attackers without even drawing on all the members of their guild. But not just that. They’d deal with every threat without even leaning on the support that the Dwarven Council’s puppet guild was lending them.
+
+The Secret Eye is going to have to update our ranking pretty damn soon, I’d say. And something tells me we’re going to go up quite a bit.
+
+“You look relaxed,” Lillia said. “I guess Rodrick’s plan worked?”
+
+“They do tend to do that, don’t they?” Arwin asked with a chuckle. “Am I really that much of a worrier that it’s odd for me to be—”
+
+“Yes,” Lillia said. She smiled, putting a hand on his forearm and giving it a small squeeze. “You are.”
+
+“Suppose I walked into that one,” Arwin said. He glanced back down to the center of the auction house. Madiv was still doing his thing, though the 2nd round of the auction was nearly at a close. “But this has turned out much better than expected, hasn’t it?”
+
+“I think it has, yeah. We’ll have to speak with Madiv to figure out what the final numbers are at the end of things. Still, there have been quite a few items that people let us sell for them. Even with us only taking a small percentage of those sales… it’s going to end up adding up to quite a lot before adding the items we provided ourselves.”
+
+A ripple passed through the wall. Both Lillia and Arwin paused, turning as Reya stepped into the room.
+
+“We got him,” Reya said with a smug grin.
+
+“You’re going to need to be a lot more specific than that,” Arwin said. “The guy that was attacking?”
+
+“Huh? No. I’ve got no clue about how that’s going, but Rodrick hasn’t called for any more backup. I’m pretty sure everything is fine there. I meant Neil,” Reya replied. “He’s onboard with meeting Melissa. I’ve already sent her to his room. I think they’re bargaining now.”
+
+“Oh. That’s good too,” Lillia said. “Great job. That’ll be a useful tool to leverage in the future. But does he actually have enough to win much of anything in the 3rd round? He’s up against groups like the Dwarven Council. ”
+
+“I think he’s going to have enough to be able to get one item, so long as it isn’t too expensive. Probably not any of the better stuff,” Reya admitted. “But we went for the reliable guild over the richer ones. We can already wring the other guys for their money. This is more about strategy, right?”
+
+Lillia grinned and nodded. “Quite right. I was just whinging. Maybe bring them some extra food from storage. Negotiations always go best when you’re eating something while you’re at it.”
+
+“Sure,” Reya said. “What about the other VIP rooms?”
+
+“Leave them be for now,” Arwin said. “I don’t want more dealings with them than we need. Better to let our work speak for itself. Those kinds of people play by different rules than the rest of us.”
+
+“What do you mean?” Reya asked, tilting her head to the side. “Who doesn’t like food?”
+
+“Not that.” Arwin shook his head. “What I mean is that they’re too powerful. Anything nice you do for them won’t be seen as a kind service. It’ll be seen as us trying to beg our way into their good graces. It’ll have the opposite effect of what we want.”
+
+“You mean the best way to win them over is to act like assholes toward them?”
+
+“That isn’t exactly what I—”
+
+“Yeah,” Lillia said. “That’s pretty much it.”
+
+“Huh,” Reya said. “Who would have thought? Good to know. Well, I’ll go deliver the stuff to Neil. And just to confirm, you guys are ready for the next stage, right? There are only three items left to be sold in this one.”
+
+Arwin’s fingers drummed against the armrest of his chair for a moment. In truth, there really wasn’t much at all for him to prepare. Perhaps that was what made this feel so awkward. The rest of the Menagerie were all hard at work. But the only thing he had to do for this entire auction — assuming things went how they wanted them to — was to sit here and point at the offered items he wanted.
+
+“I’m ready,” Arwin finally said. “It’s not exactly the hardest job, you know.”
+
+Reya gave him a thumbs up. “Sounds good. I’ll signal to Madiv that he doesn’t have to stall out for anything and we can proceed as soon as he’s prepared to wrap things up. See ya!”
+
+And then she was gone, slipping through a wall and vanishing once more. Arwin let out a small, amused huff.
+
+“I’m starting to wonder if those bracers were a mistake. She’s all too good at popping in and out like some kind of ghost. At this point, between her and Koyu, our street is somehow even more haunted than it was when we first got here.”
+
+“Hey. It’s useful,” Lillia said with a shrug. “That’s all you can ask for. Do you already know what kind of things you’re going to be looking for from the auction? At the end of the day, the only one who decides who wins any of the items is going to be you. You’re not going to have much time to figure out if the materials being offered are good or not.”
+
+“It’s fine,” Arwin said. “I’m pretty good at identifying magical materials at this point. Well, their strength, at least. I don’t think I can figure out their properties at a glance. But that’s enough. The most pressing pieces I need are just things to fix up Koyu. I promised him a new body. That’s my next project. After that comes armor for the rest of the Menagerie. So I’ll mostly just be looking for all the components I need to create that. We also promised Esmeralda that we’d let her pick out a few components as well. She did make a potion for the 3rd round, not to mention the other item she’s provided.”
+
+Lillia grimaced. “Yeah. Don’t. I’m trying not to think of the implications of that particular deal we struck with her. Sometimes I can’t tell if she’s on our side or not.”
+
+“She is,” Arwin said, slightly less confident in his words than he would have liked. “And this isn’t going to hurt us. It’s her job. If she didn’t do it, then there would be devil weapons running around everywhere. Given the fact that I never even saw one prior to meeting her, I’d say she’s done well enough.”
+
+“That’s true,” Lillia allowed. She blew a strand of hair away from her face with a small huff. Then she shook her head. “Logically, it makes sense. But the whole point of her job is making sure those things get to the right people, isn’t it?”
+
+Arwin scratched the back of his head. “Maybe this one just wanted to be sold on an auction.”
+
+“I would say I don’t think anything would want to be degraded to the point of just being sold at an auction like some pastry at a market, but I suppose there are devils in those weapons. Maybe they’re into it.”
+
+“From what we know of them so far?” Arwin grimaced. “They definitely are.”
+
+“Well, I suppose we’ll just have to hope that the weapon is either a relatively reasonable one like the devil that Thane got and ends up in the hands of someone decent…”
+
+“…Or it’s really evil and ends up with someone we really don’t like,” Arwin finished with a grim nod. “Either way, we’re not going to have any trouble spreading rumors about ourselves after this. This last round is definitely going to ensure this is an auction to be remembered.”

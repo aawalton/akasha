@@ -1,0 +1,133 @@
+---
+id: fcadf41b-c1db-5546-b9e6-c36f822517e6
+page-type-slug: story-chapter-royal-road
+title: "Chapter 494: Brand"
+slug: 0061-chapter-494-brand
+partOf: rise-of-the-living-forge
+position: 61
+ownLength: 1713
+unit: words
+ownProgress: 1713
+publishedAt: 2025-10-01
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2643522/chapter-494-brand"
+royalRoadId: "2643522"
+markedReadAt: "2026-06-29T20:00:23.283Z"
+---
+
+“I volunteer as tribute!” Reya proclaimed.
+
+“No,” Arwin, Lillia, Rodrick, Madiv, Olive, Esmerelda, Kien and Anna all said at roughly the exact same time.
+
+Had Art and Vix been present at the time, Arwin got the feeling that they probably would have added their own voices into the mix.
+
+Thane just cleared his throat awkwardly.
+
+“Aw,” Reya said. “Why not?”
+
+“Did you listen to any of what we just went over beyond the undetermined benefits of Sunsetting your class?” Arwin asked.
+
+Reya cleared her throat. “Er… most of it?”
+
+“You’d need to leave. Possibly for months,” Lillia said. “And go through grueling training. This isn’t something you can just do lightly, Reya. You’d need an immense amount of discipline, not to mention having to part ways with us for a long time. Are you really sure you want to do that?”
+
+Reya scratched her back. Olive sent her a particularly intense look, and she cleared her throat again.
+
+“On second thought, maybe not. It just sounded a bit cool.”
+
+“Of course it’s cool,” Olive grumbled. “Getting stronger is cool. That’s the point. But I’m going to have to pass as well. I can’t see myself wandering off for weeks or months right now. There’s too much I want to accomplish… and I don’t think I’m in the right mental state for more enourmous changes. I just want to focus on my current abilities at the moment.”
+
+“A wise decision,” Kien said. “And similar reasoning to my own. I have only just gotten a Class back after my brother stole my power from me. I have no desire to change things up again so suddenly. And, besides, I am enjoying my new abilties.”
+
+“You won’t even say what your abilities actually are,” Esmerelda grumbled. “Miserly bastard with his ugly ass broom. Don’t think for a second I buy your lies, boy. I know you’re hiding something.”
+
+“That would be because I am,” Kien said with a wry smile. “But nonetheless, I have no desire to Sunset my class at this time.”
+
+“I am content as well,” Madiv said. “There is too much for me to do right now. I have far too many tasks to accomplish. Power doesn’t hold nearly as much of a draw as success does. Between the auction house and finding new business opportunities… I am satiated. For now.”
+
+“You don’t have to be so ominous about it, you bat,” Esmerelda said. “Half your opportunities are mooching off of this old woman. But I’ve obviously got no interest in Sunsetting. That sounds like work that I can’t be arsed to do… probably because I’ve already done it.”
+
+“I don’t think I was included in the offer… but I don’t think I want to Sunset my class yet either,” Thane said. He paused for a moment as he searched for words. “I like to make important decisions after significant amounts of research and preparation. There are too many unknown variables in this. I know that’s intentional, but if I can’t figure out what lies before me, then I don’t think I’d want to get myself into it anytime soon. I also just joined the Menagerie and got my class. It would be too early.”
+
+“Your opinion is always welcome. Nobody is lesser than another here,” Arwin said. “And while I don’t think you can always know the outcomes of a situation before acting, I think you’ve made the right choice here. Nobody should Sunset their class if they aren’t absolutely certain they want to. It is a risk.”
+
+“I know you’re avoiding this, but I’d like to know one thing,” Rodrick said, his features unreadable. “Sunsetting your class… can it remove aspects that don’t fit you? Would it be able to shave away abilities that you no longer use or want to use?”
+
+“Yes,” Arwin said simply.
+
+Rodrick exchanged a glance with Anna. Neither of them said anything, but it seemed an entire conversation passed between their eyes before he looked back to Arwin. A few seconds of silence passed as everyone waited for someone else to speak.
+
+Nobody did. It only took a single look at the room for everyone to tell just who wanted to take Arwin up on the offer. Out of the entire Menagerie, there was only one person that Arwin would have suspected actually interested in Sunsetting his classes quickly.
+
+“I… I think I would like to do this,” Rodrick said. “But I don’t want to inconvenience everyone. My network—”
+
+“Bah,” Esmerelda snapped. “You think we’re a bunch of babies, boy? I’ve suckled on teats long since before your mother even knew what one was.”
+
+“I — what?” Rodrick blinked. “What?”
+
+“Never mind that,” Esmerelda snapped. “Old turn of phrase. I forget which ones work and which don’t. The point of the matter is — you aren’t the only one that knows how to sniff around. We can survive without you for a few weeks. Art will be back soon. Between him and Koyu, we have enough ways to deal with unexpected surprises. You ain’t our only line of defense.”
+
+“The addled grandmother is correct. It is rare, but it happens,” Madiv said. “You have given enough already, Rodrick. There are times when doing something for yourself is important.”
+
+“You would know,” Esmerelda said. “You do it all the time.”
+
+“I most certainly do not,” Madiv snapped. “I live in service to my Queen. Everything I do is to ensure my longevity so that I may continue to serve my purpose to the best of my capabilities.”
+
+“Guys, please,” Arwin said, pressing a hand to the bridge of his nose. “But they are right, Rodrick. And this isn’t just something for you. It would help you be more effective as well. If you want to Sunset your class, nobody here would say otherwise. I think you’re probably the best option for it, to be totally honest.”
+
+“As do I,” Lillia said. “So long as you are aware of the risk. There is no guarantee this will be safe. It is a dangerous procedure.”
+
+“Life is dangerous,” Rodrick said though a snort. “Nothing has stopped me yet, and I’ll be damned if I get taken out by some fancy magic procedure. I’ll need a little while just to make sure my networks keep running without me. I don’t want to leave them confused or unpaid. A few days should be enough.”
+
+“I think that should be fine,” Arwin said. “It’ll be a little before Eleven shows back up anyway. It gives us all time to prepare. There are going to be a few other changes happening as well.”
+
+“There are?” Reya asked. “What are they?”
+
+Lillia grinned. “The Devil’s Den will now be doing delivery. Food, drink, the lot. Arwin is going to be working on making us a way to let people remotely call us to their location. But, in the meantime, we need to prepare. I want to know if anyone is interested in—”
+
+“I am!” Reya exclaimed. “Olive is too!”
+
+“Hey!” Olive said. “She hasn’t even said what it is yet! Don’t sign me up so fast!”
+
+“But I wanna do something together,” Reya said, her nose scrunching in a small pout. “All we do is spar. It could be fun!”
+
+“I…” Olive trailed off. She looked from Reya to Lillia, then blew out a defeated sigh. “Oh, damn it. That isn’t fair. Stop looking at me like — Fine. Fine, okay? We’ll do it.”
+
+Reya’s eyes lit up. “Awesome! What are we doing?”
+
+Lillia shook her head. “You’re both hopeless, but I suppose it works out. You’re well suited to this. I need people to get word out that we’ll be doing delivery inside dungeons soon, and then I’ll need someone to actually do the deliveries once we get all the equipment ready to carry them out.”
+
+“Huh,” Olive said. “So basically dungeon delving with a package we have to protect? That seems rather fun, actually. Good practice too. I know some teams practice by having a target to defend while they fight. It forces you to think more creatively and push yourself farther.”
+
+“Yes, but there’s more to it than that. The magical effects my food has fade over time. The more time between leaving the doors of the Devil’s Den and being eaten, the less effective they’ll be. So…”
+
+“We have to be fast,” Reya said. “You want us to basically sprint through the dungeons as fast as possible while keeping your food from getting smashed to bits.”
+
+“Exactly,” Lillia said. “It’s not going to be easy, but—”
+
+“That sounds awesome!” Reya exclaimed. “Right?”
+
+“It does sound like great practice,” Olive admitted. “I think it’s apparent enough that we’re in.”
+
+A smile crossed Lillia’s lips. “Thank you both. This will be new, but I think it could be a huge new move for the Menagerie’s reach. No other tavern can even think of offering anything like this. We’ll become more than a place people come to at night. We’re going to become their #1 source for all things food, wherever and whenever.”
+
+“Yes,” Madiv exclaimed, his eyes lighting up. “Step by step, meal by meal, we will take over the world!”
+
+They all stared at him.
+
+“Too far?” Madiv asked, clearing his throat.
+
+“A bit too far,” Lillia said with a nod.
+
+“We will establish a household brand known to all?” Madiv offered.
+
+“That works,” Lillia said.
+
+“A brand,” Madiv said, rolling the word over in his mouth. “Yes. Very good. A brand that will consume all others and leave nothing but the great name of the Menagerie behind.”
+
+“You’ve ruined it again,” Esmerelda said.
+
+“He’s getting there,” Lillia said, clearly trying to hold back a laugh. “For now… I think we’ve all got some work to do. Preparation will take a little time. But I don’t want to pressure Arwin too hard. We can’t do this until—”
+
+“Two days,” Arwin said confidently. Lillia’s excitement was contagious. She was so eager for this that it was impossible to feel anything but the same. “I can make what you need within two days. Maybe even by tomorrow.”
+
+Lillia’s grin widened and she clapped her hands together. “Then let’s get to work, shall we? In two days, the Devil’s Den will begin offering deliveries!”

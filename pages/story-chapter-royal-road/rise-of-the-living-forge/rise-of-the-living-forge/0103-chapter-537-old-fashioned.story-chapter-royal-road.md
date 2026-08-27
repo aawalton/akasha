@@ -1,0 +1,185 @@
+---
+id: fc698d41-4563-5a46-a5b3-d11ffa5870bb
+page-type-slug: story-chapter-royal-road
+title: "Chapter 537: Old-fashioned"
+slug: 0103-chapter-537-old-fashioned
+partOf: rise-of-the-living-forge
+position: 103
+ownLength: 2160
+unit: words
+ownProgress: 2160
+publishedAt: 2026-01-01
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2898513/chapter-537-old-fashioned"
+royalRoadId: "2898513"
+markedReadAt: "2026-06-29T20:01:43.733Z"
+---
+
+Thane kept his hand on Vireth’s hilt, his eyes narrow. The alleyway was just deep enough that they were out of sight of the crowd. But no matter if anyone could see them or not, the sound of a fight wasn’t exactly that easy to conceal. There wasn’t even a reason to let things get as far as a fight.
+
+Sorry, Vireth.
+
+“Help!” Thane yelled. “We’ve got some people trying to stir trouble!”
+
+The men laughed. None of them looked even slightly concerned.
+
+“That’s not going to work, boy,” the man in front of Thane said. His lips pulled into a cruel sneer. “Did you really think we’d just come waltzing in without some way to deal with problems? Nobody can hear you. Sound isn’t leaving the alley.”
+
+A knot formed in Thane’s stomach. The complete lack of a response from anyone in the crowd made it clear. Someone should have overheard him. It didn’t even have to be the Menagerie. There were more than enough adventurers on the street that would have come running at a call for help.
+
+But not one person had even poked their head into the alley.
+
+Someone’s got a sound-dampening ability or something. That means these guys aren’t just random thugs. The thug said something about me doing just fine. So they’re here specifically for someone from the Menagerie.
+
+Shit.
+
+“You get two options,” the lead thug said. “You can come with us quietly — or we can break your legs and take you that way. Up to you, kid. But I’m personally hoping you go with the latter. A struggle always makes things more fun. It’ll certainly make the trip feel a little more worth it. This was almost too easy.”
+
+Vireth rattled at Thane’s side.
+
+“Let me out, Thane,” Vireth whispered in his ear. “Or are you going to research them to death? Talk them into becoming your friend? I’m sure that’ll work. Why not let them break a few limbs just to make sure they mean business? After all, they could be lovely people at heart. We should find out, right? Wait for them to beat you like a stray dog?”
+
+Vireth—
+
+“Maybe you should bend over and give them a big ‘ole target to aim for,” Vireth continued. “Hell, give me to them. It would be rude not to make sure they weren’t properly armed, right?”
+
+“Time’s up,” the thug said. His grin stretched across his face. “Looks like you chose the second option.”
+
+“Maybe he’s joking,” Vireth said in a sneering tone. “Nobody would ever really want to hurt someone for no reason, right? You—”
+
+“Vireth,” Thane snarled out loud. “Shut your damn mouth.”
+
+The devil’s mental mouth snapped shut.
+
+“Oh,” Vireth said, stunned. There was something else in her voice. It almost sounded pleased, but that couldn’t have been right — and Thane didn’t have the time or care to figure out what was going on with the devil.
+
+“Now he’s talking to himself,” one of the other thugs said with a snort. “Let’s make this fast. It’s hardly worth our time.”
+
+Thane’s teeth clenched. He wrapped his hand around Vireth’s handle and pulled the black blade free from where she rested at his side.
+
+“Finally,” Vireth said, her tone still mollified. She sounded a little happier than Thane would have expected for having just gotten scolded. “Let me guess. I can’t hurt any of these louts? You don’t want blood on your hands? That’ll make it tougher, but—”
+
+“Kill them,” Thane said. “All but one.”
+
+Vireth fell silent. The devil didn’t even manage to muster up a response to Thane. She just went completely silent, as if someone had stolen the air right from her lungs.
+
+The lead thug let out a burst of laughter. He drew a heavy club from his side and smirked. “Praying that someone kills us? Not exactly a kind god you follow, but I’ve heard worse.”
+
+He brought his club whistling down toward Thane.
+
+Vireth shuddered. Her blade snapped to the side, knocking the club away from its path and sending it smashing into the ground a foot away from Thane.
+
+Black strands exploded out from her hilt. They wound down Thane’s arm and spread across his chest in an undulating metallic film. Worm-like ripples passed within the dark material as it conformed to his body, wrapping around his neck and crawling up across his face, covering both his nose and mouth.
+
+Thane didn’t even have a chance to cry out in surprise before the black metal poured into his mouth and nose, suffocating him. He staggered, clawing at his neck.
+
+Vireth! What are you doing!?
+
+Her only response was distant laughter. The black substance wrapped nearly half of his body, covering his entire right side and swallowing all but his left eye and a small portion of his face around it.
+
+“What the shit?” the lead thug asked, taking a step back as he raised his club. “What is that?”
+
+Thane’s lungs burned. He hadn’t had a chance to breathe in before Vireth had enveloped him. He drew in a sharp breath despite himself — only to find out that he could breathe just as easily as normal.
+
+“Take him out!” the other thug yelled, lunging forward and drawing a short sword free from his side in a flash. He drove it toward Thane’s stomach.
+
+Thane found his body twisting against his will. Vireth pirouetted his body right by the blow, letting the blade pass inches past him, and drove his shoulder into the thug’s chest. There was a loud crunch.  The man staggered back with a surprised wheeze. His back hit the wall, anger spreading across his features.
+
+Anger twisted the thug’s face. He pushed himself forward — and a faint snik cut through the air. The thug jerked to a stop.
+
+Then his eyes flicked down.
+
+Vireth’s blade protruded from his heart.
+
+Disbelief splashed across his features. His mouth opened. But, before he could speak, Vireth tore herself free from his chest. The sword sank into Thane’s palm, vanishing into the membrane wrapping half his body. Long, jagged claws formed on Thane’s right hand.
+
+Vireth thrust his hand forward, driving it right into the man’s neck. The claws cut through his skin so easily that there might as well have been nothing there. Then she tore them free.
+
+Blood exploded out from the man’s neck like a broken fountain. It sprayed across the alleyway as he crumpled to the ground, eyes going glassy as a coughing wheeze slipped from his throat.
+
+Vireth’s laughter bubbled out from Thane’s lips. But it wasn’t just hers. Her voice overlaid with Thane’s in an odd, cruel duet.
+
+“That hits the spot,” the devil said in a shuddering whisper. “It’s been so long since I’ve tasted blood. Gods, I’ve missed this. It makes all the waiting worth it. Witness the strength of your blade, Thane. See the moon turn red once more. The Crimson Night has returned.”
+
+“Brinn! No!” the first thug screamed, horror and fury exploding across his features. “You bastard! Screw the job! Kill him!”
+
+He lunged.
+
+Vireth thrust Thane’s hand forward. A river of black liquid coursed out from his palm. It slammed into the thug and drove him into the wall with enough force to shatter the brick behind him. Then, in an instant, it hardened into the shape of a jagged hand. The devil yanked the man back before them.
+
+Before he could try to escape Vireth’s grip, she drove him down into the ground feet-first. Two loud cracks split the alleyway as both of his legs shattered. The man screamed, but he didn’t even have a chance to finish before Vireth whipped him into the wall head-first.
+
+His skull exploded like an overripe watermelon. Vicera splattered across the stone. Vireth dropped his body, the river of dark liquid flowing back to twist back into the shell covering half of Thane’s body.
+
+The last of the thugs went pale. He took a step back, then spun and sprinted in the opposite direction.
+
+Vireth’s laughter grew louder.
+
+Then Thane lurched forward. His stomach lurched up into his throat. He’d never moved this fast in his life. The alleyway shifted around him as he suddenly found himself standing directly in front of the fleeing man, Vireth’s delighted cackling still pouring out from his mouth.
+
+The man stumbled. He nearly tripped over his own feet in his haste to turn and run in the other direction.
+
+Vireth thrust Thane’s hand forward. Strands of black liquid burst free, wrapping around the man’s legs and yanking them out from under him. He screamed as she dragged him into the air, his sword spinning from his grip and clattering to the ground beneath him.
+
+That’s the last one, Vireth. I need him alive.
+
+“Let me go!” the thug screamed. “I’m sorry! We didn’t—”
+
+Black liquid rushed down his legs, winding down his chest and wrapping around his throat. Whatever else he’d been hoping to say ended in a terrified, choking sputter as the dark material poured into his mouth.
+
+Then Vireth dropped him on his head.
+
+The man landed with a painful-sounding thud. His body flopped over, falling still on the blood-splattered ground of the alleyway.
+
+“He’s not dead,” Vireth said before Thane could say anything. “Just unconscious.”
+
+And then there was silence one more, broken only by the drip of blood and splattered chunks of what had once been a man dripping from the walls of the alley.
+
+The darkness covering Thane pulled away. It slithered back down his arm to re-form into a plain black sword clenched in his white-knuckled grip. Thane’s heart still pounded in his chest like a runaway horse.
+
+He stared at the carnage surrounding him. Then he swallowed. Vireth had completely slaughtered three men in the span of seconds — and she definitely hadn’t been going anywhere near the extents of her strength.
+
+A second passed. Then two.
+
+“Are you just going to stand there?” Vireth asked. She wasn’t laughing anymore. Her voice actually sounded nervous, as if she realized she’d taken things a step too far a little too late. “Say something. Don’t just stare. They were trying to kill you. I protected you.”
+
+Protected… is a strong word.
+
+“I… it’s been a long time,” Vireth said. “I got carried away. They weren’t strong enough. I — I don’t have to fight like that every time. I can be more restrained. Don’t stop using me.”
+
+Thane stared at the bodies littering the ground for a second longer. Then his eyes narrowed.
+
+Next time, you better be. That was disgusting. You got blood everywhere. We’re going to have to spend some time studying just what you can do.
+
+“You… aren’t mad?” Vireth asked cautiously.
+
+Thane crouched beside the now-headless corpse and rifled through the dead man’s pockets.
+
+I asked you to kill them, Vireth. What kind of idiot would I be if I got mad at you for doing what I asked? I knew damn well what I was saying. I’m not that sheltered. They were going to try to kidnap me.
+
+Thane’s search came up empty. The man didn’t have anything in his pockets. Whoever had sent them didn’t want to be tied back to the job. His lips pressed together in displeasure.
+
+“That’s… true. Of course,” Vireth said. “It would be foolish. You just didn’t strike me as—”
+
+The type to not care about this?
+
+The corners of Thane’s lips twitched. It wasn’t quite a smile. He wasn’t sure he could pull off a smile when the remains of two corpses were splattered across the stone around him.
+
+“Yes,” Vireth said. “You’re surprisingly calm about this. Have you ever even seen a body before?”
+
+Do you think that all research is comfortable? The purpose of discovery is to delve where others haven’t delved before. I’ve dissected bodies. Monsters. Animals. Humans. All the same, really — though I was never the one that killed them myself.
+
+Thane moved to the second man and started to search him. He could still feel the adrenaline pounding in his veins. It was taking everything he had not to jitter on the spot.
+
+“You can research things like that?” Vireth asked. “You?”
+
+Don’t sound so surprised. You’d be surprised what you can learn from a body. That doesn’t mean I enjoy killing people.
+
+“Who would have thought?” Vireth’s voice turned to a purr. “My wielder enjoys desecrating the dead. I knew I sensed something in you. We’ll make a monster of you yet, my wielder.”
+
+I do not like desecrating the dead. Don’t take my words out of context.
+
+Vireth just laughed.
+
+Thane sighed. He wiped the blood on his hands off on the dead man’s clothes, then rose to his feet. The second man didn’t have anything either. It looked like they were going to have to get information the old fashioned way.
+
+Rodrick was going to want to see this.

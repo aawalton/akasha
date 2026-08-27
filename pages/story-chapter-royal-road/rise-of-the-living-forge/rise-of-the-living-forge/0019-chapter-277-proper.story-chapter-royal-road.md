@@ -1,0 +1,120 @@
+---
+id: 213b4459-17f4-5ceb-a307-839c84ec1dc5
+page-type-slug: story-chapter-royal-road
+title: "Chapter 277: Proper"
+partOf: rise-of-the-living-forge
+position: 19
+ownLength: 1994
+unit: words
+ownProgress: 1994
+publishedAt: 2024-09-18
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge-book-6-stubbing-in-3/chapter/1808941/chapter-277-proper"
+royalRoadId: "1808941"
+markedReadAt: "2026-06-29T19:59:04.040Z"
+---
+
+For the next hour, Arwin tested the Ashleaf Tree pieces. He burned them, crushed them, warped them, and melted them. He put them through every test he could to push the components of the tree to the limits and determine just how far they would make it under the less than gentle techniques of Dwarven Smithing.
+
+And as it turned out, the Ashleaf Tree could take quite a bit.
+
+The wood was surprisingly resilient. It was no metal, but flame didn’t take to it well at all. Every part of the tree was different in composition. The tree’s core was springy and surprisingly malleable, but it was easily cut and didn’t hold up long under much assault of any sort. It, unfortunately, went up in flames shortly after being introduced to any amount of magma.
+
+Its bark was considerably less movable. While Arwin could still bend it, it was far stiffer and harder than the core parts of the tree. The bark was as hard as metal and immensely tough. It was able to resist the heat of the lava for nearly a minute before it went from smoldering to aflame.
+
+The roots were somewhere right down the middle. They were malleable and strong, but not nearly as malleable as the tree’s core nor as tough as its bark. The roots were, unfortunately, also quite flammable. They didn’t last long at all when he put them into the magma.
+
+And therein laid the issue. Anything he worked with had to be able to resist the magma for long enough for him to form a connection with its song. The heat of the molten rock threatened to make using the wood as the core of his materials instead of metal impossible.
+
+Arwin’s tests were getting close to making him give up on using the wood as the core of the arm. If it couldn’t survive the magma, then there was just nothing to be done. The only thing that stopped him was functionality. The wood seemed perfect for just about every aspect other than usability.
+
+Swapping to a metal core would heavily decrease just how flexible the arm was. If Olive couldn’t control her makeshift limb like a normal one, then it wouldn’t be nearly as useful of a replacement.
+
+Arwin chewed his lower lip in thought as he examined a piece of Ashwood bark. He held it above the magma, but not so close that it could catch aflame, and dug through his mind in search of hidden inspiration. There had to be a way around this.
+
+Wood wasn’t meant to be forged — but this wasn’t normal wood. It was so hard and malleable that it felt like there was enough overlap that his magic could shore up the potential issues with the concept.
+
+He passed the piece of wood from one hand to the other. Frustration bubbled in his chest, but he didn’t let it free. Getting pissed wasn’t going to help anyone. The Infernal Armory was unfortunately failing to be particularly useful, so he was on his own at the moment. He had to find a way to pull this off.
+
+Maybe I should talk with Lillia… but she’s busy as well. I can’t just use her as a sounding board when she’s got her own projects to work on. We’ll need her cooking to boost us up before fighting Twelve. I can’t hog all the resources and attention for myself.
+
+Arwin’s brow creased and he tapped his foot against the ground. Waves of heat rolled from the magma and into his face, sending droplets of sweat rolling down his skin and soaking into his clothes. His eyes drifted back to the piece wood he was holding.
+
+[Soul Flame] still cloaked both of his hands to protect them from the lava. They were close enough that even his natural resistance wasn’t enough to ignore the temperature. The wood was more resistant to heat than his own body, but neither of them would survive getting dipped right into the lava.
+
+That was why he —
+
+Wait. Is my [Soul Flame] not burning the wood?
+
+Both of his hands were covered with the magical fire. That included the one that was holding the piece of Ashleaf wood. The [Soul Flame] licking against it did nothing but singe the piece. It wasn’t intense enough to burn it.
+
+Arwin looked from the wood to the lava. His senses focused and he extended the reach of the flame, extending it to cover the entirety of the wood before plunging the entire thing back into the bubbling mass of lava in the bowl before him.
+
+He waited a minute, his heart starting to beat faster, before pulling it free. A delighted grin spread across Arwin’s face. The wood hadn’t burnt. His [Soul Flame] was definitely eating away at it, but it hadn’t been completely destroyed.
+
+Arwin dismissed the fire with a thought and used [Scourge] to scratch away layers of the blackened wood. The excitement in his stomach grew further. The bottom layer of the wood could be described only as slightly toasted. It hadn’t been burnt.
+
+“So that’s how I’ll have to do it,” Arwin murmured to himself, studying the wood in a new light. “My [Soul Flame] can protect more than just myself. I can use it to protect objects I’m working with from getting completely destroyed by the heat of magma. The purification process might not be as good because I can’t let the wood completely disintegrate… but it’s better than nothing. It’s worth a proper shot.”
+
+“We will craft something, then?” The Infernal Armory asked, wisps of red smoke gathering around the ground beside Arwin. Impatience tinged the invisible being’s voice. “I have been waiting.”
+
+“Well, you weren’t being much help with the figuring things out bit, so you don’t get to complain,” Arwin told the Armory. He set the piece of darkened wood down and then headed over to the pile of wood that had been willing to work with him. There was more than enough for his purposes, though he suspected he’d need the extras to account for any mistakes he made along the way.
+
+Arwin dismissed the magic from his hands and gathered several pieces of core wood in addition to a few roots and sections of bark. He piled it all into his arms and brought it over to the center of the workshop. A pillar rose up from the ground, flattening at its top to give him a place to deposit everything. Arwin set the materials down and gave the Armory an appreciative nod.
+
+“Thanks.”
+
+“Thank me by crafting. I am spending energy. My only desire is to create.”
+
+Arwin chuckled and made his way back over to the basin of lava in the very center of the room. He re-ignited the [Soul Flame] on his hands and dipped them into the magma, pulling out a ball.
+
+Fire coated the inside of his mouth, protecting him from the heat of the magma as he brought it up to his lips and took a bite out of it, chewing with determination. He had a lot of work to get through. The arm was the first of several projects he would have to accomplish if they wanted a chance against Twelve.
+
+Arwin worked, chewing up and preparing his magma until he had a large ball that had been completely bonded to his mind. He wasted no time in grabbing the first piece of wood. Coating it with [Soul Flame], Arwin slid the wood into the ball of magma.
+
+He sent his senses into the lava, feeling for the wood within. Its song was faint, but it was there. A distant thumping heart that bore the desires that every material had. It was harder to hear than metal, but Arwin could just barely make it out.
+
+It was working.
+
+Arwin purified the wood, removing all of the impurities from within it. They weren’t the same as that of metal, but they were still present. Pieces of dirt; blood between fibers. Every microscopic piece that he could get a hold of was banished.
+
+But the process was far from simple. Arwin could feel the wood overheating as he worked. He was on a time limit.
+
+Power pumped into him from the Infernal Armory, intensifying the [Soul Flame] protecting the wood and making sure it didn’t char to a crisp before he could finish his task. He prepared the wood until its song had connected with his, until they could understand each other perfectly.
+
+And then he moved on to the next piece.
+
+An arm was more than a single segment, and every single one of them had to be borderline perfect if he wanted to ensure they all synchronized. The tension on Arwin’s mind intensified as more wood entered the ball of magma.
+
+His back and shoulders throbbed. The veins connecting him and the Infernal Armory thrummed with power. Their dark length pulsated with brilliant orange power as it pumped Arwin full of magic that he sent straight into the materials.
+
+Arwin worked without reservation. He didn’t consider failure as a possibility. He couldn’t afford the distraction. His full focus was completely on forging the wood — an idea so ludicrous that it would have been laughed out of any sane smithy.
+
+He blindly reached out to the plate at his side to gather another piece of wood. His hand met nothing but air.
+
+Arwin blinked. He moved his hand from side to side, but still it found nothing. He lifted his gaze away from the ball of magma perched in his other palm and turned it toward his pile of wood.
+
+There was nothing left.
+
+Every single piece was already within the magma, singing together in harmony. Not just together with him, but with each other.
+
+He’d finished the preparations without even realizing it.
+
+Arwin only let himself be stunned for a moment. He forced his body back into motion and quickly removed the pieces of wood from the lava. They were blackened and burnt, but he could tell from their song that the damage was only external.
+
+After a few minutes of scraping away at them with [Scourge] empowered fingers, Arwin cleaned the ash away and was left with tanned, perfectly prepared pieces of wood that were practically humming with magic and intent.
+
+He didn’t let himself gloat. The preparation was done, but the work was far from finished. All he had was a pile of wood that was ready to be formed into an arm. It had yet to be made.
+
+For a moment, Arwin hesitated. The last time he’d made a Cursed item, the Wyrm had made itself known before he’d started working. But the Ashleaf Tree was silent. It had yet to make an appearance.
+
+His lips thinned and Arwin shook his head. If the Tree didn’t want to cooperate, then that was fine. He couldn’t wait around for it. Either it would come or it wouldn’t.
+
+Arwin arranged the wood, a mental image of Olive’s arm already in his head. The very center of the arm would be made from the core wood of the Ashleaf Tree. It would be surrounded by root material, plated on the outside with bark. That would give it the most mobility while still maintaining some defensive properties.
+
+“Give me some Brightsteel,” Arwin said.
+
+A slot in the wall opened. Black strands extended from behind Arwin to grab two ingots of Brightsteel from within it and ferried the metal back over to him, depositing it on his work table.
+
+He had all the components he needed. Now all that was left to do was make connectors to fasten the pieces of the arm together while he infused it with the last bit of magic.
+
+Then he would face the vision. And, should he be successful, he would turn the arm from a pile of heated wood into a proper Cursed item.

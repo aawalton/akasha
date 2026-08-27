@@ -1,0 +1,195 @@
+---
+id: 6f1ef468-3e6f-5ae5-971d-47b5375993ba
+page-type-slug: story-chapter-royal-road
+title: "Chapter 562: The Tessellate Patriarch"
+slug: 0086-chapter-562-the-tessellate-patriarch
+partOf: reborn-as-a-demonic-tree
+position: 86
+ownLength: 2723
+unit: words
+publishedAt: 2026-04-22
+link: "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3306304/chapter-562-the-tessellate-patriarch"
+royalRoadId: "3306304"
+---
+
+Stella locked eyes with the Patriarch of the Tessellate family and was extremely glad that she was incapable of making portals, and they were separated by the aether mirror.
+
+It felt like the entire world had gone silent as the Patriarch, an exceedingly tall man who looked older than the mountains yet commanded an undeniably ruthless presence, took his time appraising her. As Stella stared into his glassy eyes that seemed to contain the wisdom of an immortal, the man finally opened his mouth.
+
+"Impressive," was all he said before looking toward Thalos.
+
+Stella barely managed to maintain her composure, and she didn't feel any better even as the Patriarch's attention shifted. "It would appear you weren't lying, my son."
+
+Thalos tensed. "Yes, Father, she returned to the Citadel not long ago to complete an ascension. She agreed to this meeting with you due to the generous assistance we provided."
+
+"I see," the Patriarch said whimsically. "Though I have to wonder, what happened to the time dilation you spoke of? If we can communicate like this, our timelines must be running in parallel."
+
+Stella felt Thalos's gaze on her back.
+
+"I paused it for this meeting," Stella lied, and was surprised by how her voice sounded ethereal, as if it came from everywhere at once, when channeling her Aetherial domain.
+
+"You can do that?" the Patriarch said, sounding skeptical. "Time manipulation is a power reserved for the realm of the high gods."
+
+Stella simply smiled, offering no response to his indirect question. Her goal was to get through the meeting without revealing too much and, if possible, leave with some form of reward.
+
+The truth was, she barely understood how any of this was working. Creating the aether mirror as a means of communication was the absolute limit of what she could manage. A portal? Forget it. Even with a gateway already in place, merely lacking a connection, she had no way to break Ash's hold over the pocket realm or force a tunnel through it. This was the best she could do, as clairvoyance was a far simpler feat than tearing open a path through reality itself.
+
+If the Patriarch was displeased by her lack of response, he didn't show it on his wrinkled face. "I digress," he said, switching topics. "Time manipulation aside, introductions are in order. Your highness's name was Stella, right?"
+
+Stella nodded.
+
+"Family name?" he inquired curiously.
+
+"Not for you to know," Stella replied, her tone sharper than she had intended. Realizing it, she quickly clarified with another lie. "There's a reason I chose your family's Citadel as the place for my ascension and why my father sealed it from prying eyes. If our enemies were to learn that I am here, they would reduce this Citadel to dust just to reach me."
+
+Her gaze hardened as she met his.
+
+"Even you might not be safe, Patriarch."
+
+While everyone in the room tensed at her words, the Patriarch showed no such reaction. Instead, he saw through her lies, and his skepticism grew. "I doubt your enemies could reach you unless they also have a way to traverse down the layers of creation like you do."
+
+Stella barely managed to resist clicking her tongue in annoyance. Compared to Thalos, who was easy to deceive because he feared her due to Khaos's excellent timing, this man would be harder to deal with. Crossing her arms, she thought about how to reply for a moment and decided to try to end this conversation as soon as possible.
+
+"If you are hoping to fish for the way I move between layers, you're going to have to offer me a more juicy bait," Stella said with a deadpan expression. "Or to put it more bluntly, in case you don't understand, you need to prove you are worth my father's attention, as he's the one you have to impress for such knowledge. Without his permission, I cannot help you."
+
+Stella crossed her arms and awaited his move.
+
+"Not one to speak in circles, then," the Patriarch closed his glassy eyes for a moment before letting out a sigh. "In respect of your bluntness, I too will be blunt. I believe there is only one thing in my family's possession that may interest a cultivator of your father's supposed standing."
+
+Stella perked up slightly. She had expected more questions, yet they were getting straight to the potential reward. "I can't promise it will be adequate," Stella informed him.
+
+"Oh, I believe it will be, as even the gods desire it," the Patriarch said, slowly opening his eyes and looking at her. After a long pause, he finally revealed it. "I possess a divine fragment and would willingly part with it for your father's assistance in connecting my family again."
+
+"A divine fragment?" Stella said, trying to remember where she had heard of them before.
+
+Clearly, it meant a lot to this family. Since it was seemingly important to a powerful cultivator of the sixth layer like the Patriarch, it would no doubt benefit the Ashfallen Sect in some way. But she wasn't knowledgeable about its capabilities, and by the way the mood shifted in the room, everyone knew what it was. This meant she couldn't ask for clarification.
+
+"Yes, a divine fragment," the Patriarch said, patting near his heart. "When I switch out of this old vessel, I can free it and gift it to your father. With it, any person can obtain unlimited cultivation potential, and if they collect all nine of them, they can become a true god and contest the heavens."
+
+Oh... OH! Stella finally remembered what they were and was glad her domain fractured the space around her as it helped hide her surprise. Senior Lee had given Ash one in the past, which turned him into a demi-divine from a demonic spirit tree. If collecting all nine would help turn him into a true god that could rival the heavens, it was definitely something Ash would be interested in. I'll tell him when I return home, and then we can figure out a plan.
+
+"So, what do you say to working together?" The Patriarch gave an amicable smile. "The fragment is yours if your father provides a way to connect the sixth, fifth, and fourth layers of creation."
+
+"I will relay your offer to my father when I return and see if he is interested," Stella assured him calmly. "Though it may be some time until you receive an answer, as we are currently waging a large war that is taking up most of his focus and leaves little room for side projects like this."
+
+The Patriarch nodded. "I understand. In the meantime, my son will continue to provide anything you need during your stay."
+
+"His hospitality has been much appreciated thus far," Stella replied while side-eying Thalos.
+
+"Before you go," the Patriarch suddenly said, his tone shifting from business to more friendly. "One Aether cultivator to another, how did you do it?"
+
+"Do what?" Stella asked curiously.
+
+"House the Aether in your body like that? Everyone interprets their affinity differently upon becoming a Monarch and creating their domain, but the Aether isn't one to be controlled so easily."
+
+Stella pretended to consider his question for a moment before replying. "I could tell you... but it will cost another divine fragment."
+
+The Patriarch didn't seem amused. "I've never met someone like you before," he said, his jaw tightening. "Are all the nobles from the highest layers of creation like you?"
+
+"My father thinks I'm a handful," Stella said, shrugging.
+
+Truthfully, she didn't know how she was housing the Aether like this and couldn't give a definitive answer, as she differed from other cultivators. She was created through an experiment meant to forge the perfect cultivator from the World Tree's sap; she possessed the ancient Crestfallen bloodline, her spirit roots were flawless, and the extraordinary resources she had been granted access to gave her a foundation no other cultivator likely possessed. The reason for her ability to host the Aether could be any of these factors or a combination of them.
+
+"If that's all, I have other matters to attend to," Stella said, noticing the Patriarch's annoyance and wishing to escape before he ordered Thalos to imprison her. She was already growing exhausted, as domains were far more intensive to maintain than she had expected.
+
+The Patriarch gave her a curt nod in response. He looked displeased at being cut off, but what was Stella to do? She was a fraud, faking everything, and the longer the meeting dragged on, the more likely she was to be discovered.
+
+Snapping her fingers, she made the Aether mirror fracture and collapse. The formations flared to life a second later, and the useless portal that led nowhere rippled back to life, filling the empty tunnel. Stella instantly noted the stark difference between her own flawless Aether Qi that she had fed the mirror compared to the purity of the artificially generated Qi from the formation.
+
+She turned to Thalos, who had an unreadable expression on his face.
+
+"I will be returning to my house now."
+
+Thalos nodded. "As you heard from my father, inform me if you need anything during your stay here," he said, but his tone was far from friendly.
+
+Stella didn't mind the tone so long as he didn't want to kill her after she insulted his father and family so openly. Turning to Kael and her pet Monarch dragon, she smiled. "Let's go."
+
+Kael returned the smile. "I'll lead the way—"
+
+"No need," Stella said. She had her domain active, so she might as well make use of it. Placing a light hand on Kael's and Ao's shoulders, she stepped forward and effortlessly pushed them into the Aether with her. The defensive formations throughout the Tessellate families' fortress flared to life in an aggressive rush and attempted to suppress her, to no avail. In what seemed like an instant, they arrived at her house and the room that contained the destroyed ascension formation.
+
+Kael stumbled forward, while Ao wordlessly stood at her side.
+
+"How—"
+
+"Did I do that?" Stella finished Kael's thought and smirked. "My new domain allows me to do many things, but that was just a cheap trick."
+
+"Cheap trick?" Kael scoffed and shook his head. "Don't act so ignorant. That was the deepest, most protected room of the Tessellate family's fortress, and you just casually teleported all three of us out of it! I bet that old man couldn't pull that off without breaking the formations!"
+
+Stella shrugged. "I died for this power. I feel being able to move around unimpeded is a fair trade-off."
+
+Kael eyed her weirdly. "What do you mean by 'died'?"
+
+"Exactly that. The Stella you knew was obliterated into a million pieces," she said, enjoying the confusion on his face. "Anyway, that's besides the point—"
+
+"No, it's not," Kael said, looking concerned. He got closer and inspected her while frowning. "Are you alright?"
+
+"Of course. I was already a broken person before—this just sealed the deal," Stella said, laughing at her own joke. Neither of her companions mirrored her amusement. She cast her gaze to the charred ground and sighed. "Okay, fine. It was a terrifying experience that I wouldn't wish upon my worst enemy. Is that what you wanted to hear, Kael? But look, I'm here now, and I'm stronger than ever. I survived."
+
+"Sometimes I can't tell if you're suicidal, crazy, or both," Kael grumbled. "Why are you so obsessed with strength to the point of dying for it anyway? Aren't you the daughter of a god or something? Can't he protect you?"
+
+"He can," Stella said, her voice dropping to a whisper. "But I... don't want to be a liability to him anymore." She glanced up, expecting Kael to mock her while knowing nothing of her situation. Instead, he looked oddly determined.
+
+"I don't want to be a liability anymore either," he said, nodding to himself. "I want to become a Monarch, like you. But the books detailing the experience of becoming a Monarch are all confusing. I don't want to go through the hell that you did for power, but what would a more normal ascension be like?"
+
+Stella once again had no idea. "I think all ascensions to the Monarch Realm are unique, which is why the books are so confusing," she said after pondering for a moment. "I didn't end up forming an Inner World like the books suggested—the Aether serves as my spiritual world. I also surrendered myself to my affinity, whereas the books spoke of domination."
+
+"What about domains?" Kael asked.
+
+"Again, I think they are all unique and take on the traits or ideals of the cultivator," Stella mused. "For example, my domain links me with the Aether, allowing me to move freely and retreat to the Aether for as long as I wish. I think it manifested this way because of my rather... free-spirited nature and desire to come and go as I please."
+
+"Is that why your eyes are white like the Aether?"
+
+Stella tilted her head. "What do you mean?"
+
+Kael retrieved a mirror from his spatial ring and turned it toward her. Stella looked at her reflection and flinched. Her hand rose instinctively to her face, fingers tracing the faintly glowing fractal patterns etched across her skin. Then, with growing unease, she pried her eyes open wider, just to be sure.
+
+They were completely white, like milk.
+
+It was deeply unsettling.
+
+She grinned. "I look intimidating."
+
+Kael agreed as he lowered the mirror. "I don't think the Tessellate Patriarch would have taken you as seriously if not for this change in your appearance brought about by your domain. Speaking of, when are you going to be returning home?"
+
+"Soon, but first, I want you to punch me."
+
+"P—Punch you?" Kael stammered. "Why?"
+
+"Just do it. Actually, use a sword instead. Try and slice me in two."
+
+"But what if I hurt you?"
+
+Stella scoffed. "If you can hurt me, I'll fulfill one request of yours."
+
+Kael suddenly turned serious. "Anything?" he clarified.
+
+"Yeah," Stella narrowed her eyes. "Anything at all."
+
+Stella was taken aback by how a sword materialized in his hand in the blink of an eye, and he struck down at her without hesitation—only for his sword to get stuck in place.
+
+"What?!" he exclaimed, his arms trembling as he put his all into it. "Why can't I strike you?"
+
+Stella calmly looked at the blade an inch from her face. "Because what stands between me and you is not empty space, but the Aether. While other people's domains expand outwards to encompass an area, mine occupies the distance between us. Look closely, the sword is moving, just very slowly."
+
+"But why?" Kael said as he continued to struggle.
+
+"I made the actual distance between us a few miles rather than mere meters."
+
+"That's ridiculous," Kael complained. "How is anyone supposed to kill you then?"
+
+"Many ways," Stella said casually, swatting the sword aside. The blade flew from Kael's grip and clattered uselessly across the ground. "If their cultivation is higher than mine, their domain can simply crush mine. And if they have superior control over the Aether—or another spatial affinity that can shorten distance—they could override any attempt I make to keep them away. It's a neat trick against weaker opponents or those who don't have a way to counter it."
+
+"Like me," Kael frowned.
+
+"Well, yeah, a Nascent Soul Realm can never beat a Monarch," Stella chuckled and dismissed her domain. Reality around her shifted as the Aether faded into the background once more, and the strain on her soul relaxed. "Don't look so glum, Kael. I'm sure that whatever request you thought of that gave you such motivation to cut my face can come true someday."
+
+"I doubt it," Kael said bitterly.
+
+"Now I'm curious. What was it?" Stella asked.
+
+"I..." he gulped. "I can't say."
+
+Stella studied his shifting expression before giving up. Whatever it was, it likely wasn't more important than the pressing Fleshfruit tree research she had to finish before returning home.
+
+"One week in here and I'm leaving," she said, nodding to herself. Ash was awaiting her return, and she couldn't wait to hunt some Monarchs of the Celestial Empire.

@@ -1,0 +1,127 @@
+---
+id: 29099851-c95a-5306-822a-def4b4437e6b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 530: Stalling"
+slug: 0096-chapter-530-stalling
+partOf: rise-of-the-living-forge
+position: 96
+ownLength: 1879
+unit: words
+ownProgress: 1879
+publishedAt: 2025-12-11
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2838970/chapter-530-stalling"
+royalRoadId: "2838970"
+markedReadAt: "2026-06-29T20:01:30.695Z"
+---
+
+Art stared in stunned disbelief. He’d accounted for a whole host of possibilities in his plan. But, somehow, he’d never considered the option of Rodrick showing up while looking literally identical to a short wrinkly dwarven councilwoman half his height and ten times his age.
+
+“Rodrick!” Reya exclaimed in delight. “You’re back! Did it work? How was it? Are you feeling okay?”
+
+“It was… surprising,” Rodrick replied after a moment. The corner of his lip twitched. “I don’t think I’m meant to say much more than that. Especially not in the open. But it’s good to see everyone again. Even if it’s only been a few days, it feels longer.”
+
+“Your armor let you do that?” Art finally managed, getting a hold of himself once more. “That was the most convincing illusion I’ve ever seen. I could have sworn it was real.”
+
+“It was,” Rodrick replied. “Lillia said that she made it was a major group effort. I didn’t get much time to get updated on it, though. When I heard the plan, I asked Eleven to send me right over here. We really need to find someone with her skillset. That portal magic is incredible.”
+
+“You have great timing,” Vix said. “That was almost really unfortunate. I think the dwarves were about to attack us. Did you actually show up right in time to save us?”
+
+Rodrick’s grin grew wider. “No. I’ve been here for about ten minutes. I wanted to see how Art handled things. It was a great plan. I’m surprised myself. The Dwarven Council is much greedier than I thought.”
+
+“They were going to kill us all to take the loot,” Elias said, his eyes narrowing in anger behind the bandages slithering back to wrap around his body. “Bastards.”
+
+“Strikingly short-sighted as well,” Art muttered. “Arwin is probably one of the best smiths in the kingdom at this point. Maybe the best. The waitlist to hire him is enormous, and most of those people aren’t even getting seen anyways. You’d think the council would want access to that.”
+
+“Or to remove it,” Reya said. “But unless they were trying to bait him into action, attacking us wouldn’t be the way to accomplish anything, is it?”
+
+“It isn’t,” Rodrick agreed. He pursed his lips. “It seems likely there’s a split in the Dwarven Council.”
+
+“Yeah,” Art said. “Those guards were way too uncomfortable with Indrana. They took her orders, but not in the way that would imply they’ve worked together much. It seems likely they’re working for a different member of the Council. They still have to obey any of the Councilmembers, but they weren’t meant to be here. Not officially.”
+
+Rodrick nodded. “That’s my take on it as well. Which means we can’t dawdle here for long. If we’re right, the Dwarven Council’s official delegation should still be headed right toward this location or toward Milten. Given the fact that we no longer have the Blacktongues here…”
+
+“We should leave,” Art said. “Immediately. I don’t suppose you asked Eleven to stick around for a bit longer? The plan was to hightail it back to the Devil’s Den, but it’s still quite the trip. It would be a lot faster if there was a convenient portal waiting for us.”
+
+Rodrick smiled.
+
+***
+
+Lillia drummed her fingers against her thigh as she waited in the shadows of the main room. The clink of utensils and murmur of magically muted conversation filled the building. They were a welcome distraction.
+
+Art’s team had returned several hours ago, teleported back by Eleven. Lillia had sent them all to the basement. Nobody could know they were back. Not until Arwin’s team returned bearing the actual loot.
+
+And so here she stood in wait.
+
+Her kitchen was currently cooking lunch. She’d checked on everything a few times, but her involvement wasn’t needed at this stage. The delivery service had been temporarily paused since everyone was either out or stationed on the street in the case of an attack.
+
+Everything was set up to make sure Art’s plan worked out. Rodrick had somehow managed to show up twice — once after finishing his Sunsetting, then once again when he’d returned with Art’s team several hours ago.
+
+Everything was happening so fast that a small part of Lillia wondered if it had happened at all. There would be a great deal to talk about very soon. But, unfortunately, that soon was not yet now. She had to remain focused on the plan.
+
+And that, unfortunately, meant she had to stand around twiddling her thumbs. The chances of someone attacking the Menagerie right now weren’t very high, but they had a skeleton crew so long as they had to pretend that Art hadn’t yet made it back to the Den. She needed to be prepared.
+
+There was Uriel, of course, but Lillia didn’t want to reveal that particular card in the wrong way. They’d already discussed the best way to use the Devil’s Den’s body. And, if things went to plan, it would involve keeping Uriel largely hidden until the official opening of the Auction House.
+
+And in order for that to happen, we need to awaken the building with the Dungeon Heart we’ve been saving up. Ridley already finished the actual building aspects, but there’s no finalizing it until Arwin comes back.
+
+There’s a chance that the council sends a group straight here rather than to intercept Art. If they do…
+
+Lillia’s senses prickled as somebody stepped onto the doorstep of the Devil’s Den. Her eyes narrowed as their information revealed itself to her mind instantly. With the exception of Eleven, nobody was able to evade her knowledge once they were on her property.
+
+And the newcomer was no different. Lillia swept forward, striding straight for the door.
+
+I guess I called this upon myself by being annoyed about being bored.
+
+The door flew open just in time for the gauntleted hand that had been raising to knock on it to whistle through the air, striking nothing at all.
+
+There was a dwarf standing on her doorstep. She wore golden armor dressed up with red tassels and ribbons that made absolutely no attempt to hide the amount of money or artistry that had gone into the equipment’s creation.
+
+They also did nothing to limit its ability. The armor wasn’t just for show, and the magic infused into it was nothing insignificant. There were enchantments against most forms of damage, resistance to mental effects, and a number of other buffs that would easily let it contend with even some of Arwin’s work.
+
+Two more dwarves stood just behind the one on the Den’s doorstep, clad in similar equipment but outside the range of Lillia’s magic.
+
+“What an unexpected surprise,” Lillia said. “Representatives of the Council. What do we owe the pleasure?”
+
+If the dwarf was surprised, she didn’t let it show. She just gave Lillia thin smile, her rugged features barely changing as her lips pulled up. “There is news of the Menagerie successfully acquiring items from an old vault. Items that we believe you plan to put up for purchase.”
+
+The dwarf’s attention wasn’t on Lillia. She squinted into the darkness, clearly trying to see if she could spot any members of the Menagerie that had been on the mission. Lillia hid a smirk. The dwarf wouldn’t find anything.
+
+Not because her shadows hid them, but because they weren’t there.
+
+Fortunately for her, the dwarf had absolutely no way at all to know that. Telling if someone wasn’t present was just as hard as telling if they were when you couldn’t see anything at all.
+
+“We’d be happy to sell to you when the time comes,” Lillia said. “But through the proper channels. We’ll be establishing an Auction House on the street.”
+
+“I believe you misunderstand me, Lillia,” the dwarf said, her voice going cold. “We have no interest in bidding. We will purchase your items. For a fair price.”
+
+Lillia smiled. She moved to stand directly in front of the dwarf, then leaned down so they were eye level. Shadows gathered at her back, rising over Lillia’s shoulders in a pair of inky wings.
+
+“And you misunderstand me, Haley,” Lillia said. “We allowed word of our acquisitions to reach your ears because we’re willing to welcome you to the opening of our new Auction House as a show of friendship. There are more than enough other wealthy people that would be thrilled to purchase from us. But we prefer to work with allies. If you want access to any of the best items from the Vault, watch your tone.”
+
+A flicker of unease passed through the dwarf’s features at the sound of her name.
+
+“Are you sure taking such a bold stance with—”
+
+“You’re still standing in front of me,” Lillia observed. “This isn’t the council’s meeting hall. This is my domain. Step back. You don’t make the demands here. We’re offering you an opportunity. What do you say when someone does you a favor?”
+
+Haley stared at Lillia for a short second. Then her smile grew ever so slightly wider.
+
+“Thank you,” Haley said. “Very well. But we’re not delusional. Friendship is not cheaply purchased from either side. We’re going to need proof of these items, and you’re not going to give us access to anything for our word alone.”
+
+“Is that so?” Lillia asked, examining her fingernails. “And what are you suggesting?”
+
+“Show me one of the items from the vault,” Haley said. “If it’s to the standard that interests us, then we’ll do what you’ve called us here for.”
+
+“And what is that?” Lillia asked. “Seems like you’re making a lot of assumptions.”
+
+“We’ll back the auction house through one of our representative guilds,” Haley said simply. “Nobody will ever use a house that isn’t properly supported and insured. And an auction house is only as good as those who sell at it. If the Menagerie wants to make a real profit, you need to show your facility is safe.”
+
+“We’re more than capable of protecting ourselves. What makes you think we need your help?”
+
+“It’s not about if you’re capable or not. It’s about what people think,” Haley countered. “And we both know that the support of a massive guild would be enough to convince people that it’s safe to use your auction house. We’re not asking for much. You don’t have to sell us anything early. We just want proof of quality. It’s a simple request… if you’re telling the truth about having cleared that Vault, of course. It would be a different story if you only announced your plans to use the Council to clean up the Blacktongues for you.”
+
+Lillia kept her expression flat. The Dwarven Council had good information. That wasn’t a surprise. They were a powerful organization — but two things could be true at once. The council wouldn’t care at all about being used so long as they got what they wanted. Dealing with a minor noble family was hardly that big of a deal for them.
+
+It shouldn’t be too long until Arwin makes it back. I need to stall until then.
+
+“Why don’t you come inside?” Lillia asked, stepping to the side. “We’ll see what we can do for each other.”

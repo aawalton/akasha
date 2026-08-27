@@ -1,0 +1,137 @@
+---
+id: 1bc69411-2551-5faf-8e5a-62b4b4a97954
+page-type-slug: story-chapter-royal-road
+title: "723. Scope (End Of book 13)"
+slug: 0129-723-scope-end-of-book-13
+partOf: salvos
+position: 129
+ownLength: 1350
+unit: words
+publishedAt: 2024-11-06
+link: "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1889104/723-scope-end-of-book-13"
+royalRoadId: "1889104"
+---
+
+723. Scope
+
+It had no name.
+
+Oftentimes, it was referred to as ‘child’ by its creator. But it knew that this was a title— a term of endearment, even— however it intuitively understood that was not a name.
+
+So the child just accepted that it had no name. And it did what it was told by its creator. For if not for its creator, it would have no purpose.
+
+It would have no existence.
+
+Thus it purged the corruption. It used its divine rays to blast the outpouring of distorted creatures back into the end of the world they came from. That was not all. It repaired the broken space— through sheer destructive force, of course.
+
+Because that was all the child knew. To destroy. For the sake of its creator.
+
+And that was what its siblings did too. Together, they continued to inundate the corruption with their purifying light.
+
+But as they flooded the landscape with their divine-ordained power, something crept along the side of the mountain range to the distance. The child spotted it first. Its many eyes darted in the direction of the moving figure, staring curiously.
+
+Because it had been told that the area had been evacuated, even before the arrival of [The Judge Ordained By The Arcraem]. After all, every Spirit within the vicinity of an End Vent had been told to leave, warned of the threat that was imposed to the area.
+
+And yet, these figures moved. Were they even Spirits?
+
+The child didn’t know. It had only ever been allowed to see the [Angels] and [Seraphims]. But nothing more from its creator's kingdom.
+
+However, a curious part of the child wondered where exactly these figures were heading to. There were four of them, and they seemed to be moving towards where the remains of [The Judge Ordained By The Arcraem] had been sent flying towards.
+
+The child wanted to intercept them— to question them. But it reminded itself of its place. It was only supposed to follow orders. So it ignored them.
+
+Because it was ordered only to purge the corruption, so that was what it would do.
+
+So as Edithe, Druma, Willy, and Centina made their way through the valley, the [Ophanims] ignored them, focusing on blasting the corruption into nonexistence in the background.
+
+“Are you really done?”
+
+The voice came echoing through the tunnel. It was almost a mocking tone. Perhaps even uncaring. However, the young man knew that it was intentionally meant to aggravate him.
+
+To push him further.
+
+To force him to stand tall and strong.
+
+So even as Daniel panted, he raised his head and glared up at the shadowed figure standing at the mouth of the cavern.
+
+“I am not done.”
+
+The [Hero] from Earth said as he raised the Sword of Alexander. And Yves Virgil just grinned, crossing arms as he leant against the cave entrance.
+
+“Are you sure about that? You know, Kacey is starting to get worried that you’re going to die here.”
+
+The Watcher drew back, placing his hands behind the back of his head.
+
+“And I am too. Because, like, I’m going to be honest— you’re really weak for a [Hero]. Maybe you should give up.”
+
+Daniel just gritted his teeth and turned away from the man standing there. He looked back towards the darkness of the cave, seeing a dim light making its approach.
+
+“I don’t care. I won’t surrender.”
+
+And as he spoke, he heard a chittering sound approaching. At the same time, Yves just chuckled as he strode away from the cavern, his footfalls slowly disappearing in the distance.
+
+“You better focus, then. Otherwise, you’ll join the souls of the fallen gods trapped in perdition.”
+
+As those words echoed around Daniel, he heard the soft chittering. He saw the shadows make their approach. He inhaled deeply, preparing himself for what was to come as he stared into the seemingly endless void ahead.
+
+And even though he saw nothing, he could feel their terrible presence. It was like staring at flowers made of human teeth. An unsettling sensation that grew into something deeper; something further; something far more incomprehensible.
+
+Until they arrived.
+
+And they swarmed him with their disfigured bodies— they reached for him with their cloying claws. But Daniel cut them down, even if they… always… came… back.
+
+Rachel smiled as she set the picnic basket down before the barrier protecting Mavos Academy. It was morning. The sun was rising over the horizon, and she was the only one here. Usually. Oriur and the others would only join her later in the afternoon.
+
+But that didn’t mean she was here alone. Taking in a deep breath, she spread her arms wide and greeted her audience.
+
+“Hello! I’m back again!”
+
+Because there they were— diligently waiting for her. Like they always were. A few dozen or so Centinels, quietly sitting there and listening as she spoke to them with glee. Even an [Ancient Centinel] stood there, not attacking the barrier. It just silently stared at her as she sat down and began to dig into her picnic basket.
+
+And as she spoke, they listened. They stared at her. Perhaps even menacingly. But they didn’t try to attack.
+
+“Sorry I’m a bit late today. But I prepared some snacks. This is a tuna sandwich. It’s made from—”
+
+After all, Rachel had grown to know each one of them at this point, and so did they grow to know her.
+
+We arrived back at the base we had set up for our little rebellion, bringing both Manos and Sicar with us. When they arrived, the gathered Demons in the area immediately tried to flee in fear. But Haec began to reassure everyone that everything was ok. Slowly, they began to ask questions, wondering exactly what happened during the battle with Jofis.
+
+But I didn’t bother with any of those conversations. I just sat down to do what I needed to do right now.
+
+“Let’s see what new Title options I’ve got.”
+
+I grinned as I pulled up my availabilities.
+
+[Titles Availables]
+
+And my eyes grew wide at what I saw.
+
+Edithe took the risk. She thought they would ignore her. And she was right. The [Ophanims] didn’t even glance her way, and their attacks wouldn’t even harm her if they got close to her. So she navigated through the valley, making her way to where she had last seen the Archangel.
+
+Because she needed to get to it. It was the reason why she came here to the Spirit Plane. And if it was truly dead, then she was trapped. So it didn’t matter if she died. So she gathered the courage to test her theory and moved.
+
+Druma, Willy, and Centina had been apprehensive at first. But they eventually relented and followed her when they saw that it was safe.
+
+It would take a while for Edithe to reach her destination. Which was why she made haste. After all, she needed to cross such a vast valley, before scaling through the ruins of a destroyed mountain range.
+
+And as she continued crossing the valley, she truly hoped that the Archangel somehow survived what happened to it. Otherwise, all her hope would be crushed.
+
+Otherwise, she would have come to the Spirit Plane for no reason whatsoever.
+
+But before Edithe could even make it across the valley, she came to a halt as she saw something glinting up ahead.
+
+It was something that was still lying on the ground, left behind from the battle between the two Supreme Spirits.
+
+Between the two gods.
+
+And it was—
+
+[Scythe Of The Arcraem: Legendary Grade - ???]
+
+…maybe I didn’t actually come to the Spirit Plane for nothing, after all, Edithe thought as she came to a halt before the flaming object.
+
+End Of Book 13
+
+Author's Notes:
+
+Thanks for reading another book of Salvos! Public Salvos chapters will go on break for about a month or so, but patreon chapters are still being posted to refill the backlog! So if you're interested in reading what happens next, be sure to check out the Patreon!

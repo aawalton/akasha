@@ -1,0 +1,143 @@
+---
+id: d735a7a2-2d11-5d00-bd31-bda4f0a91fa8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 570: Not nearly Enough"
+slug: 0137-chapter-570-not-nearly-enough
+partOf: rise-of-the-living-forge
+position: 137
+ownLength: 1848
+unit: words
+publishedAt: 2026-03-09
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3133038/chapter-570-not-nearly-enough"
+royalRoadId: "3133038"
+---
+
+Kien moved in a blur, his broom slicing through the air in a keen hum as he darted around the street. The loud crack of shattering stone filled the air all around him as his broom struck the rocks that the Beast hurtled in his direction.
+
+And it wasn’t enough.
+
+Kien knew it, and the Beast knew it too. There were only so many things he could dodge at once. And, when the Beast could hurtle a dozen small rock fragments at the speed of shooting arrows, his abilities started to reach their limit.
+
+Several bloody furrows already ached all along his body from where the rocks had managed to slip past his defenses. But Kien didn’t have the privilege of indulging that pain. Every single scrap of his attention was focused on the fight.
+
+There was no room for anything else. The Beast wasn’t holding back anymore. Neither of them were. They moved in a blur around the alley, Kien’s desperately trying to catch up with the other man and close the distance while the Beast peppered him with shot after shot.
+
+“Now this is what I’m talking about,” the Beast’s laughter echoed behind him as he deftly slipped around and past Kien’s strikes. He’d clearly learned his lesson about trying to take the other man in hand-to-hand combat — and it didn’t look like his ego extended far enough to risk taking another blow for no reason. “What will you do now, street sweeper? You’re not going to last much longer at this rate.”
+
+Kien’s jaw clenched as he skipped back, striking three stones out of the air with his broom and narrowly avoiding another as it sliced past his face, narrowly failing to kill him on the spot and only leaving a sharp, stinging line of pain in its wake.
+
+What might have been the most annoying part of the Beast’s words was the fact that the man was genuinely curious. He wasn’t trying to taunt Kien. It wasn’t even arrogance. The Beast actually, genuinely, wanted to know if Kien was strong enough to survive the fight for longer or if this was the limit of his ability.
+
+But Kien didn’t have it in him to respond. All he could do was keep himself alive. He pushed himself to his limits, his body blurring as he converted every scrap of power he had into movement — and it still wasn’t enough.
+
+Another rock scored across his side. His broom swept through nothing but air as the Beast slipped away from the blow once again. Tracking him was practically impossible. He was just too damn fast.
+
+Kien couldn’t predict him either. The Beast seemed to move at random. Every step he took was disjointed from the last, every movement so sudden and abrupt that it was like trying to track the path of a fly.
+
+“Is this all?” the Beast asked, skidding to a stop at the back of the alley as his head tilted to the side. He didn’t sound disappointed anymore. “Wow. Not bad. Not bad at all. Are you even Expert rank?”
+
+“No,” Kien said, readying his broom before him as his thoughts spun in search of some kind of advantage. He wasn’t going to survive the next round if things stayed the same. If the Beast had been treating this as a real life-or-death fight rather than a battle to push his own limits, it would have ended already.
+
+“Damn,” the Beast said, picking up another rock and snapping it in two. “I’m jealous. You’re going to be stronger than I am in the future. Won’t be much longer until you surpass me with an ability like this. But… why are you so fresh? Did you just become an adventurer?”
+
+“None of your concern,” Kien said, watching the Beast warily in preparation for the other man’s next attack. He didn’t know what the point of any of these questions was, but every second he bought was one for the rest of the Menagerie to finish their preparations.
+
+“No. That can’t be it,” the Beast said, answering his own question. “You fight too well. But not with your power. You’re good, but you’re fresh. Uncreative. And you don’t strike me as a boring fighter. Your normal moves are interesting. So that means you’re new to the power itself. Odd indeed.”
+
+Shit. This guy is scarily smart. How can he tell so much from just a short fight? I don’t think I ever could have gotten half as good of a read on an opponent from what we’ve done. Just who is the Beast?
+
+“Either way… you’ve got a long way to go,” the Beast said. “Far too much potential to waste. I want another good fight out of you. A real one, when you’re closer to my rank. But I think we’re out of time, now. I think I just heard a nice crunch. Sounds like your armor just splattered that idiot Mask. Well done.”
+
+Kien’s eyes widened slightly.
+
+Is he bluffing? No. He gets nothing from that. So his senses are that good? I haven’t heard anything at all.
+
+“We could call it off,” Kien offered. “You can still leave.”
+
+The Beast let out a bark of laughter. “Oh, no. I can’t. Orders are orders. That guy was disposable. You got any next of kin? People you care about that I can kill to make sure you come seek me out again?”
+
+“What is your problem?” Kien snarled. “I think I’d hunt a madman like you just to make sure you don’t go after anyone else.”
+
+A black-toothed grin split across the Beast’s face. “That works for me. Until the next time we meet. I’m expecting to be impressed.”
+
+Then he vanished.
+
+He reappeared directly in front of Kien, his leg accelerating in a black streak. Kien yanked on his powers — but the Beast’s foot didn’t touch him.
+
+It slammed down into the ground with a brilliant crash.
+
+The street shattered. Kien stumbled as the ground caved beneath him. Stones and thick chunks debris flew up into the air all around him. There were a dozen deafening cracks as the Beast blurred, striking a dozen different rocks toward Kien all in the same instant.
+
+There was no time to dodge. Kien’s eyes only had an instant to go wide.
+
+He’d been wrong.
+
+All this time, the Beast had been holding back.
+
+There were several loud cracks. A shadow sliced over him. Kien tensed, his teeth gritted in preparation for the rocks hurtling toward him — but nothing so much as brushed across his skin.
+
+A thick wooden branch stretched before his face. But not just before him. It wound around his head in a protective cage, the rocks that had been headed straight for him embedded deep within it.
+
+Both Kien and the Beast looked up as a form dropped down from the rooftop, the wood racing back toward them. Stones clattered and bounced across the ground at Olive’s feet as her cursed arm retraced back to its proper position at her side.
+
+“Who’s this ragmuffin, Kien?” Olive asked, cracking her neck and flexing her fingers as the last of the stones fell out of her arm. “And what the hell do you think you’re doing, almost letting him beat you?”
+
+“Another weird one,” the Beast said, his eyes lighting up as he turned from Kien toward Olive.
+
+“Careful,” Kien barked. “He’s fast! Incredibly so!”
+
+“Faster than most human eyes can trace,” the Beast confirmed with a wry smile. “Were you just waiting around on that rooftop to pull off a cool entrance? You couldn’t have possibly blocked that attack if you weren’t ready for it, girl.”
+
+Olive smirked. “You’ve got me.”
+
+She extended her hand to the side. The air rippled. Then, with a hum, a massive black hammer materialized within her grip. Oppressive waves of heat rolled off the weapon in a thick haze.
+
+Caldera. She’s serious. Good.
+
+The Beast’s eyes narrowed. “What is that?”
+
+“Why don’t you come and find out?” Olive asked, raising the massive hammer. “See if you’re faster than my arm. It’s only wood, after all.”
+
+“A tempting offer,” the Beast said. “I accept.”
+
+The ground beneath him cracked.
+
+He vanished.
+
+Olive didn’t even so much as budge.
+
+Kien didn’t waste his breath on calling out a warning. He just lunged, throwing himself toward Olive as fast as he could move. There was no doubt that she was an apt warrior in many ways — but the Beast was faster than her.
+
+Much faster.
+
+Unfortunately, she wasn’t the only one that the Beast was faster than. Even as Kien’s hands raised to push her out of the way, the Beast materialized right beside Olive’s cursed arm. There was no way for her to hit him. Even if she’d had the reaction time to try, he was too close to Caldera for Olive to swing the weapon properly.
+
+But Olive didn’t even react to the Beast’s presence. She didn’t seem to have noticed the fact that he’d reappeared beside her even as his hand reached out for her throat, dirty fingernails extending to wring her out like a wet towel.
+
+And then the Beast jerked to a stop.
+
+He let out a choking wheeze as his legs kicked forward and his eyes bulged. It was like he’d run straight into an invisible line in the sky. Then, with a strangled gargle, the Beast was hoisted a foot up into the air.
+
+A shimmer of pale blue passed through the air. It was a wire. A razor thin wire made of cold frost, running up to the blue wraith standing atop the roof behind the Beast.
+
+“Another one?” the Beast wheezed, clawing at his freezing wire wound around his neck. “How many of you are there?”
+
+“Enough,” Koyu replied, pulling the Beast another foot into the air as he tightened the wire around the ragged man’s neck.
+
+The Beast’s lips twitched as he tried to form a word.
+
+Then he smiled.
+
+The Beast vanished. Koyu’s razor wire sliced down on nothing, its target suddenly free of its grip, as the Beast reappeared on the far end of the alley. Blood trickled from a vicious cut that encircled from his neck.
+
+Kien blinked.
+
+What? How? That—
+
+“You aren’t just fast,” Kien muttered. “You’re literally teleporting.”
+
+The Beast grinned. “Well done. I do occasionally have to lean on magic. It’s not my favorite tool, but it has its uses. Are there any more of you that are going to come crawling out of the woodworks?”
+
+“Probably,” Olive replied, adjusting her grip on Caldera and beckoning the Beast forward. “I hope you aren’t too pissed. Getting ganged up on should be expected when you invade someone’s home. You lost the right to a fair fight the moment you attacked us here.”
+
+“A fair fight? What, against everyone here? This is a start, but we’re not even close.” the Beast asked, cocking his head to the side. His lips pulled back into a sneering smile. “You’re going to need more people.”

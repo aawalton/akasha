@@ -1,0 +1,119 @@
+---
+id: 7856af80-ac89-5483-9883-d460090db73b
+page-type-slug: story-chapter-royal-road
+title: "525. Ruins + Announcement"
+slug: 0082-525-ruins-announcement
+partOf: salvos
+position: 82
+ownLength: 2021
+unit: words
+publishedAt: 2023-03-26
+link: "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1149037/525-ruins-announcement"
+royalRoadId: "1149037"
+---
+
+525. Ruins
+
+I entered the crevice as my wings beat weakly behind me. I heard the lightning thunder in the distance, and I saw the flash of dark light. It was like I was blinking when I didn’t actually blink. And it happened constantly. A tempest that raged on, striking down countless winged Demons from the air.
+
+The death throes of wild Demons echoed all around me. I had even seen a Primeval Demon fall amidst the battle. Its corpse was consumed by the boiling lava below, and the victors left to survive the shifting landscape of the Netherworld.
+
+And here I was, trapped amidst this chaos. Injured and exhausted. I flew between the cracks that scarred the earth, feeling the intense heat of molten rocks burning below me. I looked down, seeing the crimson river bubble and crackle, before shaking my head.
+
+After the initial eruptions that exploded from the ground, the lava would stop rising. It simmered below, a deadly floor at the bottom of the cracked earth. If I fell into it— I would probably survive. But I would still be hurt from it. Especially at my current state.
+
+So I kept low. I escaped the fighting, and I avoided the black lightning. The occasional wild Demon fell into the crevice, tumbling to their fiery doom ahead of me, and a handful of lightning bolts crashed around the lip of the ravine. But none struck me.
+
+And I could actually recover.
+
+I sighed, looking down at the burn marks across my right shoulder. I glanced back and saw the holes in my wings. My injuries slowly healed, and I flitted slowly down a fork in the ravine. It split off into two directions— large gulfs that led away from each other. To the left, the crevice continued on until it intersected through a broken mountain. And to the right, the crevice cut through the vast flatlands.
+
+I stared at my two options for a moment, unsure where to go. Then I heard the rumbling— I saw the shaking. The right ravine trembled as a tremor washed over it, and its narrow crack widened. I watched as wild Demons stumbled over the edge. [Hellhounds], [Hellbeasts], and the like. They were caught in this widening crack— shallower crevices tore open perpendicular to the gulf, like roots spreading far and wide. Spurts of lava shot into the air and incinerated the Lesser Demons.
+
+I blinked a few times before shaking my head. I swept my gaze back towards the only option I had left. The gulf that led towards the shattered mountain. It remained idle— unmoving and sinuous. It was… safe?
+
+At least, it wasn’t rapidly expanding and bursting with molten rocks. So I flew forward. I didn’t look back. Even as I heard a bolt of lightning crash behind me, tearing the earth asunder. I continued on, searching for a moment of respite. But that moment never came.
+
+I simply got used to hearing the crackle ripping across the sky. I heard the occasional boom of another eruption exploding from the earth. I saw the shower of lava raining in the distance, and I felt the rumbling of a nearby tear in the earth. I didn’t fly too quickly. I took my time, healing as I glided towards the broken mountain in the distance.
+
+I wasn’t sure how much time had passed. I simply knew that my Grand Skills— neither of them— were available to me just yet. So it must not have been that long since this event… whatever it was… began.
+
+And it wasn’t like my flight forward had been completely uneventful. A flock of [Vampyr Bats] descended upon me, and I quickly incinerated them with my [The Holy Flames]. Then a group of [Hellwolves] leapt off the cliffside, trying to sink their fangs on me. I easily avoided their attacks, and they fell into the lava below.
+
+They burned, but they didn’t die. I looked down at them in pity as they tossed and turned in the molten rocks. They screeched, then howled. And that attracted even more of their companions. Or maybe they hadn’t even been companions— just other wild Demons looking for a kill.
+
+I looked up as more [Hellhounds] and [Hellwolves] rained down at me, and I cursed. I sped up, hurrying through the ravine as I sent the occasional blast of gray flames to deflect the falling wild Demons. I heard more shrieks coming from above, and I cursed.
+
+“I should have just incinerated those [Hellwolves]...”
+
+There was nothing I could do now other than press on. I sped up, leaving these wild Demons behind as they poured off the edge of the cliff, down to the ravine in a mindless mass that only slaughtered each other. I reached another fork in the cracks, but this time, it split between three directions.
+
+I chose the middle gulf, flying up as it ascended atop the tall white mountain. Below me, the river of lava rose as well— and we crested up to the top of the broken mountain. It had been cracked open from all sides. A caldera lay at the center, and I watched as a sea of molten rock poured down the mountainside.
+
+I swept my gaze over the terrain around me for a brief moment. Now that the chaos had calmed just a little bit, I could finally see the changes that had quickly shredded its way through the Netherworld. As far as the eye could see, cracks had ripped their way through the ground. It was like the white canvas had been a glass window, and somehow had punched it just hard enough to damage it, but not completely shatter it.
+
+I pursed my lips as I saw this scene. I could see the crimson glow of the molten magma at the bottom of each crevice. But it seemed that the worst had passed. Mostly. There was the occasional geyser of lava sputtering up into the air, and I could still see hordes of wild Demons battle in the distance. It wasn’t like there was no longer any land. The land was just… fractured.
+
+And that simply forced the wild Demons to meet each other. It turned the landscape into a battlefield. Wherever I looked, I saw fighting. Even above, up in the sky. No— especially above, up in the sky.
+
+The dark tempest tearing its way overhead didn’t slow in the slightest. The cacophonous crackle of thunder continued drumming above. I just stared at the countless winged Demons, locked in aerial combat, only to be ripped apart by the callus black lightning.
+
+I had never seen the Netherworld in such a state. It was almost completely alien to me. I felt like I had been dropped into the wrong plane. But this was the right place. I was sure of it. I sighed and descended into the caldera. A single white rock lay at the center of the lake of lava, and I descended upon it. I found it curious why this little island seemed to remain unharmed even when the rest of the mountain had collapsed. It was even square in shape— honestly, quite odd.
+
+But I didn’t question it. Instead, I finally let my wings rest as I landed on my two feet. I sighed in relief, letting [Rest] activate.
+
+“Finally…”
+
+I murmured and lay there on this square-shaped island in the middle of the lava lake. I didn’t move for a moment. I just looked up at the white sky. The bright crack overhead seemed to be spreading, reaching the very edges of the Netherworld, beyond the horizon. There was a flash of black light as I felt the holes tattering my wings recovering.
+
+I didn’t move for a moment. Just a moment. Then I saw the shadowed figures tumbling through the air. At first, a pair of specked figures. But as they drew closer, I saw their true sizes. Massive hulking beasts. I narrowed my eyes.
+
+And I realized they were Primeval Demons.
+
+A pair of them. They battled in the sky as a flock of winged Demons barely followed. I heard their shrieks, and saw a blast of blue flames. My eyes flickered as I got to my feet, realizing they were crashing straight towards me.
+
+I recognized one of them. It was the [Chthonic Agaros] from before. The Level 171 Primeval Demon that had torn apart the [Archarachne] that had been attacking me. And it was accompanied by a horde of Archdemons— [Savage Agarats] that adhered to its will. Minions that mindlessly followed its orders.
+
+But I looked past that winged Primeval Demon. Instead, I stared at the four armed creature at its side. Far larger. With bone-like wings that spread out behind its back. It hissed, unleashing a blast of blue flames that engulfed the [Chthonic Agaros] as I watched.
+
+[Hellabomination - Lvl. 181]
+
+It looked almost familiar.
+
+Together, the pair of Primeval Demons fell straight my way, and I tensed. I didn’t know where I could escape to. All around me was fighting. Wild Demons locked in battle. From [Fiends] to [Djinns] to [Hellbeasts] to [Legions].
+
+There was nowhere for me to escape. But I had to make a decision quick. I scanned my surroundings with my eyes as the [Hellabomination] grabbed the other Primeval Demon and ripped it in half. I watched the [Chthonic Agaros] go limp, then saw the glinting blue flames wisp out as the giant wild Demon rapidly crashed my way.
+
+I pursed my lips— then my eyes went wide when I saw my escape. Not through my own eyes, but through my spatial senses.
+
+The blast of blue flames shot out, incinerating the [Savage Agarats], before shooting my way. And I moved. I teleported out of the way, all at once
+
+The world went dark around me, and I heard the explosion in the distance. But it was muffled. The blast of blue flames didn’t reach me. I wasn’t burnt to a crisp. It was almost like the blast struck a wall overhead. And then I felt the world shaking. I felt the ground beneath my feet trembling. I raised my head, and I heard the distant cries of the [Hellabomination]. That of anger and fury. It roared.
+
+And nothing. It didn’t rip me apart, because I wasn’t there. I was below it.
+
+I was safe. I sighed in relief as I looked around at my surroundings. I saw a white ceiling above— where I had come from. It shook for a moment as everything around me rumbled. But the shaking stopped soon enough— a mere echo of the explosion of blue flames.
+
+“That was close…”
+
+I mumbled to myself. I collapsed to the ground, sighing in relief. I was in a cave chamber. Directly below the lava lake. Beneath the island I had been resting on. I hadn’t realized this broken mountain was hollow on the inside until I activated my spatial senses.
+
+And even then, it had been… difficult to teleport in. I had to focus for a moment, until I could finally break in. I got to my feet with a frown.
+
+“Although… this is a weird cave, isn’t it?”
+
+I looked around, seeing the brick-like floor beneath me. I saw the black walls, and I spotted the broken doorways. I paused. This didn’t seem right. It wasn’t a cavern. It couldn’t have been a natural formation.
+
+And it wasn’t. I froze, finally taking in where I was. This wasn’t just a cave chamber— it was a cave chamber that had been carved into the mountain. It was a Lair… no— it was something more.
+
+The realization settled in, and I heard a voice echo in my head. It made my eyes snap wide. I felt a shiver run down my spine as my mind spoke to me. And I realized where I was.
+
+Now Entering [Dungeon: Remnants of the First Demon Kingdom]
+
+I blinked a few times, processing those words. And my jaw dropped.
+
+“This is a Dungeon… in the Netherworld?!”
+
+I gaped for a moments, before shaking my head.
+
+“But— how?”

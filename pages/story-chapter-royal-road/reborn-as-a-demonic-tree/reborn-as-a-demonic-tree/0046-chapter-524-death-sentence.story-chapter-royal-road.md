@@ -1,0 +1,151 @@
+---
+id: 57fba808-4b0f-55ea-a32d-6c44338d479d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 524: Death Sentence"
+slug: 0046-chapter-524-death-sentence
+partOf: reborn-as-a-demonic-tree
+position: 46
+ownLength: 2791
+unit: words
+ownProgress: 2791
+publishedAt: 2026-01-12
+link: "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/2936646/chapter-524-death-sentence"
+royalRoadId: "2936646"
+markedReadAt: "2026-06-29T19:03:06.596Z"
+---
+
+"Thane, what is in your shadow?" Faelorian asked while hesitantly stepping back. Bright green nature Qi, so perfectly refined that it radiated off Faelorian like an aurora flare, wreathed him in a protective aura. All of the vines around him were tensed and ready to strike at the slightest movement.
+
+Ashlock was surprised by Faelorian's defensive reaction. If the Monarch had seen Anubis lurking in Thane's shadow, why was he afraid? The Ent was only in the Nascent Soul Realm, so he shouldn't pose any threat to him. Perhaps he couldn't peer into the shadow dimension to perceive Anubis's identity or cultivation level, or was the man simply this paranoid over every little thing?
+
+Due to the lighting in the room coming in from an east-facing window, Thane's shadow wasn't directly behind him but rather off to the side. The bushy-bearded man hurriedly glanced to the side and inspected his perfectly normal-looking shadow with a trembling gaze. "W-What do you mean?" Thane asked hesitantly. "Is there something really lurking in my shadow? N-Not that I'm doubting you," he quickly clarified, "It's just that my cultivation is far too inferior to comprehend what you are seeing, my Lord."
+
+"Even I'm not too sure," Faelorian admitted, confirming Ashlock's theory as he kept his eyes glued to Thane's shadow, not even daring to blink. "But I'm sure there's something there."
+
+"How do you know?" Thane asked, his voice shaking with fear.
+
+"Because I'm a Monarch," Faelorian replied firmly without taking his eyes off Thane's shadow. Raising his hand, the many vines surrounding him and Thane moved in unison like trained snakes. "Earlier, I lost my temper, and my surroundings answered. Every wall, ceiling, and floor erupted in these vines as a result. Not a single part of this room wasn't under my control," he then pointed a finger at Thane's shadow, "except for the area beneath your shadow. Something in there resisted my control."
+
+Sure enough, vines were coming out of the floor all around him, except for his shadow. In the chaos of the room, it wasn't apparent at first glance, but now that Faelorian had pointed it out, it was strikingly obvious.
+
+Ashlock's mind was racing as he tried to think about what he should do. While Anubis wasn't one of his strongest Ents, it would be a real shame to lose him. But perhaps Anubis would be fine? Faelorian had confirmed he was unable to perceive Anubis's existence, just that something was there.
+
+Thane's eyes widened with realization, which halted Ashlock's thoughts. He didn't like the look on the man's face one bit.
+
+"I think... it might be the All-Seeing Eye. Perhaps he's spying on me?"
+
+"Spying on you?" Faelorian took another step back. "How? Explain, or I will crush you like I should have all those years ago." The way the vines tensed again and began to close in showed the Monarch was serious about his threat.
+
+"W-Wait a moment, my Lord!" Thane said and hurriedly explained, "When I went to investigate the meeting point given by the All-Seeing Eye on Councilman Cyphion's orders, I spoke with the evil god—or at least what he called his mouthpiece. It was a three-meter-tall shadow lich, far stronger than me but weaker than you. He left by sinking into the shadows, but he must have snuck into mine before I returned to the Empire."
+
+Ashlock sighed. He had thought his knowledge of shadow law, after gaining control of Tartarus, would hide Anubis from everything. However, sneaking the Ent into Thane's shadow and expecting him to remain hidden from the senses of Monarchs was clearly foolish in hindsight.
+
+Though what annoyed him even more was why Thane had to be this perceptive. If he had just shut his mouth, things wouldn't have gotten complicated.
+
+Now the question was what to do? Anubis couldn't fight or flee from Faelorian, and talking was out of the question. Ashlock was, after all, destroying Floridawn—and unlike Cyphion, who wanted the empire to fall so he could seize it, Faelorian sought to preserve his position at the top. For a man who already had it all, there were likely no false promises he would fall for.
+
+"What should we do?" Thane stammered, eying his shadow like it was going to eat him, all the while Faelorian stayed quiet. The Monarch was deep in thought yet never took his eyes off the shadow.
+
+Ashlock was also busy thinking. His roots hadn't reached this deep into Floridawn yet, nor were there any demonic trees nearby for him to use Progeny Dominion on. He couldn't even make a portal to send someone in, as his Qi couldn't reach this far. If not for Anubis, he wouldn't even be able to listen in on this conversation in the first place. He was currently deep in enemy lines, far from his roots, leaving him with no options. He couldn't even blast the house from his Crown of the Withered Sovereign, as it could only target locations within the range of his roots. Deploying Moros also didn't seem ideal without the Monarchs on his side to defend and empower it. He had once again overreached and landed himself, or more specifically, one of his Ents, in trouble.
+
+Though times were different. His Ents weren't the same as before. Now, upon death, they could regenerate from the surrounding Qi, and even if they fully died, they would plant a demonic tree. He also had Generals now. Perhaps he could even call in Nyxalia for help? Though that was a last resort. He let out a breath and relaxed.
+
+Right now, Anubis didn't seem to be in immediate danger. The best thing to do was hold back and wait.
+
+"When you spoke with the All-Seeing Eye, what did you discuss? Leave nothing out," Faelorian insisted after breaking his silence. It seemed his moments of contemplation hadn't given him an answer.
+
+Thane nodded and began to explain, "It was only brief, but the All-Seeing Eye told me his goal in hopes I would join him. It's to destroy the Celestial Empire and kill all the Monarchs who oppose him."
+
+Ashlock laughed. While that wasn't wrong, he hadn't mentioned a single thing about his goals to Thane. He had lost hope for his newest pawn a moment ago, but hope was back now. Somehow, Thane had the gall to spin a new web of lies despite his perilous position. If only he knew just how accurate he truly was.
+
+"The All-Seeing Eye wants to kill all the Monarchs that oppose him?" Faelorian said, raising a brow. "Does this plan involve the Monarch killing altar you mentioned before?"
+
+"Very likely, yes," Thane nodded eagerly.
+
+Faelorian turned wistful as he considered the situation. He began to wander around the room, though his eyes never left Thane's shadow. Eventually, he paused. "This smells of opportunity."
+
+Ashlock liked the sound of those words. Perhaps they could work together?
+
+"But I don't dabble in deals with evil gods," Faelorian said, snapping his fingers. Holes suddenly appeared in the ceiling, and concentrated beams of seemingly ordinary light shone down through an intricate network of arrays. Clearly, the light was anything but ordinary, as a strange, brightly glowing grass bloomed all around Thane's shadow, and Ashlock found his connection to Anubis abruptly cut.
+
+He was back on Red Vine Peak.
+
+"Anubis?" He quickly tried to reach out to his Ent and was relieved to feel a faint connection. Anubis wasn't dead, at least not yet, but something was cutting Anubis off from the shadow dimension. "Was that glowing grass some kind of containment formation? Just how did he do that?"
+
+Either way, Ashlock wasn't happy. Anubis was one of his favorite and most used Ents, and now he had been stolen from him. "First, Cyphion steals my demonic sword, and now Faelorian has captured my shadow lich. These Monarchs really don't seem to respect the concept of ownership."
+
+To be fair, though, he was destroying their city, and if they were to swap places, he wouldn't trust or make a deal with an evil god either. He hadn't even gone in with the intention of striking any deals in the first place—that had all been Thane's doing. All he wanted was for all the Monarchs to conveniently gather in one place so he could desolation beam them, hoping to kill one or two and create massive chaos among the Empire's Council.
+
+The question was, now what should he do?
+
+Ashlock hummed to himself as he looked at his quiet courtyard. He wasn't without options—he just didn't particularly like any of them. Anubis was trapped, away from his roots, and likely under the careful watch of a Monarch who was on their home turf. Extraction of Anubis wouldn't be impossible if he sent in Larry and a few others, but was it worth the risk? Honestly, he didn't know. But he also wanted to show Faelorian and any other Monarch in the Celestial Empire that he wasn't someone who could be messed with. Having a reputation was important for people to take you seriously, especially with his goal of bringing them all together in seeking a meeting with him.
+
+He would have to make a statement by using the full might of the Ashfallen Sect, and Faelorian had offered himself as the target. Heading to Tartarus, he needed to see if Nox could help him reestablish a connection to Anubis, as he wanted to deliver a message directly to Faelorian.
+
+***
+
+"Thane, you can step away now," Councilman Faelorian said, and Thane was happy to comply. What he didn't expect was the disorienting feeling of seeing his own shadow remain in place as he stepped away. A new shadow formed a second later, as if reality remembered he needed one. Yet there it was, his old shadow, rooted in place by a blindingly bright ring of grass.
+
+"You can trap someone's shadow like that?" Thane muttered, genuinely in awe for once rather than saying whatever he felt Faelorian wanted to hear.
+
+"I'd hardly consider it your shadow," Faelorian mused as he circled the containment. "Whatever is lurking within has hijacked your shadow, using it as an anchor point. Now that I've contained the shadow and the being within, shall we confirm what it is?"
+
+Thane simply nodded, knowing Faelorian didn't really care for his opinion. Narrating out loud was more theatrics than anything. However, he couldn't help but say, "Are you really going against the All-Seeing Eye? An evil god?"
+
+Faelorian snorted. "Have you ever seen this All-Seeing Eye in the flesh? How do you know he is really an evil god, or a god at all?"
+
+"Because..." Thane paused. That was a good point. The supposed mouthpiece had claimed himself a god, and because of how respectfully Cyphion acted, he had assumed it to be true. But Cyphion had also never mentioned meeting the All-Seeing Eye, only stealing his demonic sword and respecting his dominion over desolation Qi.
+
+"Now, don't get me wrong, gods do stand above cultivators like myself due to being heaven-favored and able to wield divine energy. But just like anything else under the heavens, gods aren't undefeatable. That aside, I think he's lying," Faelorian gestured with his chin toward a large window that faced the city. "While that is an impressive amount of Qi being output—far more than I'd dare to waste—and carries the weight of an Inner World with many daos mixed in, it's no doubt somehow the Qi of a Nascent Soul Realm cultivator. Not only that, but I don't sense any divine energy."
+
+"So you think the All-Seeing Eye is a fraud?"
+
+"Fraudulent god or not, he's possibly the greatest evil the Celestial Empire has faced since its founding. Do you think any being would expend this much Qi on destroying Floridawn for no reason? As I'm sure you have concluded, like any noble in the know would, that this All-Seeing Eye's target is the grand formation restraining the World Tree."
+
+Thane nodded. He and the Emperya Enforcer, who was killed by Cyphion, had reached the same conclusion.
+
+"So, whether the All-Seeing Eye has the strength of a god to kill a Monarch or not, there won't be a Celestial Empire left to rule over if the World Tree breaks free of her restraints. A fact I assume the power-hungry Cyphion overlooked?"
+
+Thane nodded again but was secretly breaking out in a cold sweat. When Faelorian had mentioned that this smelled of opportunity, he had thought his plan had worked. All he wanted was for the two Councilmen involved in his exile to go to the meeting place with different agendas and end up dead.
+
+Of course, Councilman Faelorian Lysanthos, the leader of the Flower Accord, was a far harder man to deceive. He hadn't expected it to be easy, but he had never considered the possibility that the All-Seeing Eye wasn't as powerful as he seemed.
+
+Then who should I side with? Cyphion is worthless unless Faelorian dies. But Faelorian is useless if the All-Seeing Eye succeeds in destroying the formation and brings down the Celestial Empire, as my exile will no longer be a worthy concern. However, if I side with the All-Seeing Eye and anyone finds out, I'm dead.
+
+In fact, he wasn't sure if the All-Seeing Eye had already decided to kill him after listening to what he had just said to Faelorian. Perhaps it was already too late for him.
+
+He felt a headache coming. This is why he despised navigating politics, especially when a war was involved.
+
+"Now, let's see if you were telling the truth," Faelorian said and leaned over the containment array. Dipping his finger into the restrained shadow like one would into a lake, the aura of nature around his hand hissed as the shadow dimension resisted his entrance. "You really think you can stop me?" Faelorian sneered and thrust his whole hand down. The hissing turned into violent crackling, and the shadow dimension finally gave way, letting him plunge his entire arm in. Reaching around, he seemed to grab hold of something and dragged it out.
+
+The moment the lich's head crested the surface, the containment array began to react, sending arcs of scorching light at the head and melting away the shadows as if it were being cleansed. Once more of the body was visible, vines rushed forward and restrained the lich's limbs, effectively cocooning the monster.
+
+"Well, would you look at that," Faelorian muttered as he stepped back to stand beside Thane. "It really is as you described. A three-meter-tall lich made from bamboo. What an interesting creature."
+
+"Its eyes..."
+
+Faelorian glanced at him. "What about its eyes?"
+
+"They aren't golden like before, and there isn't that same weight to the gaze anymore."
+
+"Did you say golden?" Faelorian rubbed his chin. "Perhaps he really can control divine energy?"
+
+"What are you planning to do with it now?" Thane asked curiously.
+
+"Well, now that my curiosity has been sated, I guess I'll wait and see how this evil god will react to having his mouthpiece stolen. His response will dictate my actions moving forward."
+
+"I don't think that is a very good idea..." Thane began but swallowed his words as the containment array suddenly glowed with power, seemingly resisting a foreign force. The dark flames of the shadow lich went out, and in their place, flames of vibrant gold appeared. The lich opened its mouth despite the restraints and formation, doing everything it could to burn it with light.
+
+"Councilman Faelorian, you have been marked for death by the Covenant. It may not be today, tomorrow, or this year, but death will find you all the same," the lich leaned forward—causing a few vines to snap—and the monster grinned at them. "The All-Seeing Eye will dine on your flesh and savor your soul."
+
+The eyes then dimmed once more, and the lich fell forward like a puppet cut from its strings. However, the overpowered formation continued scorching the lich with light, swiftly turning the creature to dust that melted back down into the shadows. However, it didn't end there. The grass began to darken as Qi uncontrollably poured from the surroundings into the shadows.
+
+"Enough," Faelorian commanded, and everything stopped. The shadow was gone, and the grass array was in shambles.
+
+A pin-drop silence blanketed the room.
+
+"Leave me," Faelorian said, turning to exit the room before Thane got a chance to see his face. However, by his swift departure through the hole in the far wall, the Monarch seemed to be taking the words of the dying lich seriously.
+
+Now left alone in the dark room, Thane mulled over the lich's words.
+
+Just who is the Covenant?

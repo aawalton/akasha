@@ -1,0 +1,115 @@
+---
+id: 5ff17718-a2f8-5c80-9678-5881bd9d9158
+page-type-slug: story-chapter-royal-road
+title: "Chapter 586: Dreams of Midnight"
+slug: 0154-chapter-586-dreams-of-midnight
+partOf: rise-of-the-living-forge
+position: 154
+ownLength: 2010
+unit: words
+publishedAt: 2026-05-06
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3362678/chapter-586-dreams-of-midnight"
+royalRoadId: "3362678"
+---
+
+The first thing that Arwin noticed about smithing alongside Lillia and the upgraded Infernal armory was just how easy it all was. That wasn’t to say it had been difficult to work with Koyu and Wallace before. Both of the two were incredibly competent and knew exactly what they were doing. There was absolutely no denying just how useful and beneficial their presences were when he was working.
+
+But this was different. The only word that Arwin could even come up with to properly describe it was effortless. He didn’t even have to think about synchronizing the song of his desires with the Armory and Lillia. It practically synchronized itself.
+
+Every single movement they made felt so obvious that no other option even seemed possible. Even their materials seemed to pick up on the harmony. Normally, Arwin had to adjust the song until it found a balance between every single component within a project.
+
+But this time around, the materials seemed to do that themselves. When he dipped the black metal into a ball of his Soul Magma, it practically spat out all the impurities within itself on its own. He could have sworn that the metal was literally forming its own body into ingots before he could do anything to guide it.
+
+Every task felt a thousand times easier than normal. Of course, a fair amount of that was due to the fact that they were making a Soul Weapon for Lillia rather than someone else, which meant there was one less element in the mix. Still, he couldn’t remember ever creating something with such ease.
+
+For the first time in Arwin’s journey, the speed of their crafting actually seemed to outpace time. The tasks flitted by instead of the time. They did more than just work a single piece of Lillia into the armor. Rather than leave it at that, she helped them through every piece of the creation. Her effort and sweat — along with no shortage of blood from small cuts as they worked — was woven into every single part of the Soul Item.
+
+A stack of purified and prepared materials soon appeared on the floor of the armory beside the hearth, ready and eager to be forged.
+
+The Armory moved the pieces into the roaring flames within the hearth, letting them heat the magical material to a molten white before bringing them over to the armory. Arwin and the body of the Armory fell into a rhythm, their hammers crashing down on the metal in a ringing song.
+
+They didn’t pause or slow their work once. It didn’t even feel like there was a difference between them. They were just two hands that belonged to the same body. What almost felt like an infinite stream of power flowed out from Lillia and ran through the pathways that connected them all, pouring out through every strike and into the metal.
+
+Magic swirled through the heart of the Infernal Armory in a shimmering golden storm. It sparked around the rapidly forming plates of metal, shimmering like threads that had had been embossed into the metal as the basic pieces that they would use to form the entire set of armor slowly came into being.
+
+Once they’d finished with the black metal, the three of them moved on to the silver that would be used for its accents. Purifying and preparing it went just as quickly as the prior section of their work. It couldn’t have even been a total of an hour before they had completed readying all the silver they would need.
+
+Despite the enormous amount of work that creating an entire set required, after just a short while longer, they had somehow managed to get every single basic component that they needed readied and swallowed into the swirling song that had swelled to envelop the entirety of the Armory.
+
+And yet — not one of them was tired. Arwin was still brimming with magical power, as was the Infernal Armory. Lillia didn’t show any more signs of fatigue than they did. There was no need to stop and rest. And, even if they’d wanted to, Arwin wasn’t certain they could have.
+
+The song had gotten so intense that stopping before the armor was completed felt like it would be a crime in itself. The materials demanded to be put into their final form. They wouldn’t allow the hands forging them to stop now. Not when their future was so close.
+
+It was all that Arwin and the others could do to oblige them.
+
+And so they forged.
+
+Arwin and the Armory worked in perfect unison, smoothing and readying the many interlocking pieces of Lillia’s armor. They fashioned the bolts that would be used to fashion the sections together with the same system that her current armor used. They guided the parts into their needed shapes — though the metal seemed to know exactly what it needed to be before they even did much at all to guide it.
+
+Pieces of the armor almost seemed to pull themselves together of their own accord. Arwin, Lillia, and the Armory were nothing more than notes within the song that would now accept no option other than to be heard up until its ending. But the speed did absolutely nothing to negatively impact the armor’s quality.
+
+The Infernal Armory’s hand grew a thin blade which it heated in the flame of the impossibly hot Soul Fire furnace. It used the blade to carefully emboss designs into every single one of the pins, which were then placed to secure the interlocking pieces of the chestpiece together.
+
+The chestpiece was roughly the same shape as Lillia’s previous equipment, but the pitch black metal it had been made out of almost made it look like waves lapping across the shore of a lake in the dead of night. The silver accents running throughout its segments only added to that feeling as if they were frozen strands of moonlight woven through the dark water.
+
+The basic shapes of the gauntlets, leg armor, and boots came together in rapid succession after the chestpiece. After them came the helmet. It had several vertical slits running down its face to allow Lillia to see out from it while still granting her the most protection possible. A pair of unpolished silver horns curled at either side of the helm like those of a ram.
+
+Once every single part of the armor’s basic structure had been created, they immediately set about carving the final designs into the metal. Arwin handled the larger inscriptions while the Armory focused on details. While neither of them could have been said to be an expert in inscriptions or fine detailing work, they focused on making patterns rather than specific art.
+
+The result only magnified the water-like qualities of the armor even further. Something about the dark metal almost seemed to ripple and shift in the firelight under the faintest of movements. Brilliant gold mist swayed with every movement they took. It clung to their skin in faint clumps and poured into the armor as it grew nearer and nearer to completion.
+
+Arwin’s entire body felt like it was alight with magical energy. Power burned in his fingertips and filled his senses entirely. He couldn’t even tell what scent the magic had anymore. There was so much that trying to focus on a single smell made him lose track of all the others.
+
+All they could do was keep moving forward.
+
+Only as they drew closer to the finish did Arwin finally start to feel some of the magical energy wane. The thick layers of gold that had laid themselves over the room thinned out, much of it been swallowed up the Armory and forced into Lillia’s soon-to-be armor.
+
+Arwin felt his magical power starting to wane as the time stretched on. Lillia and the Armory were similarly affected. But, strangely enough, that didn’t make anything harder. The song actually felt even more powerful now than it had been when they’d had their full strength.
+
+“The pauldrons needs a bit more,” the Armory informed Arwin almost casually, as if they were simply sitting down over the dinner table rather than carefully piecing together a set of magical equipment with enough power packed into it to flatten the Menagerie’s street if something went wrong. “The pattern there isn’t finished.”
+
+“I’m finishing the greaves right now,” Arwin replied without looking up. The song swirled through his entire body as he worked. Even though he was a horrible multitasker, their conversation didn’t seem to disrupt the flow of their work in the slightest. “They’re almost done.”
+
+“I’ve got it. I want to try making a little bit myself,” Lillia said. “Can you make me knife to work with?”
+
+“Feel free,” the Armory said. A black tendril extended from the ground, its tip sharpening into a blade that dipped itself into the hearth. Once it had heated, the strand floated over Lillia’s shoulder and lowered into her grip. She walked over to the anvil beside Arwin and started working on the pauldrons.
+
+Even though she had even less experience with fine detailing work than Arwin and the Armory did, it hardly mattered. All of them were part of the song. One hand was as good as another.
+
+When the greaves were finished and Arwin had confirmed every interlocking piece moved exactly as it was intended to, he moved up to finalizing the gauntlets. Lillia had already completed her work on the greaves and was mid-way through snacking on a small pastry that she’d pulled out of her bag.
+
+Arwin paused for a moment. Then he cleared his throat.
+
+“Did you always have those?” Arwin asked.
+
+Lillia wordlessly passed him another one. The Armory turned to look at her. Lillia gave it a pastry as well.
+
+None of them actually needed the extra magical energy. They had more than enough left to finish pushing through the final phases of the project. But not one of them felt any pressure or rush to do anything like that. Instead, they ate their pastries.
+
+The song and the armor waited. Maybe they were eating as well — or, at least, enjoying the sensations passing through the mental connection.
+
+Then, once everyone had finished, they got back to work.
+
+As they put the final touches onto the armor, there was no pressure. No rush to complete before they exhausted their strength or deadline sprinting up behind them. There was only their focus and the magic flowing through them.
+
+Arwin put the last touches to the patterns on the chestpiece. Lillia finished up adjusting some of the plates on the gauntlets, and the Armory completed smoothing out the horns on the helmet.
+
+The remaining magic within the room dwindled down to nothing more than a few final motes of golden energy around the armor. It was almost as if the air in the armory had paused to draw in a breath.
+
+Then, though not a single one of them realized it, all three of them sat back as one.
+
+The song ended. Their work was finished.
+
+A beat passed in utter stillness.
+
+Magical power exploded out with a roar.
+
+Arwin staggered back, throwing his hands up before his face as a wave of brilliant golden light crashed through the walls of the Infernal Armory. Energy drove into his chest with enough force to knock the breath from his lungs. Pressure sent him and Lillia both skidding back a foot.
+
+They raised their hands, squinting through the brilliant light as it faded to get a look at the finished set of armor laying on the glossy ground of the Infernal Armory. Arwin barely even dared move.
+
+Shimmering in the air above the armor was nothing more than a name. A relieved smile pulled across Arwin’s lips. He released the breath that had caught in his chest. Even as the excess power slipped away and the light faded entirely, he could feel the power radiating off the metal.
+
+Midnight Dream
+
+Lillia’s armor was finished.

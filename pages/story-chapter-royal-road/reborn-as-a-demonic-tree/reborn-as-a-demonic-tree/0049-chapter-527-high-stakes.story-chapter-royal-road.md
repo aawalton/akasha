@@ -1,0 +1,195 @@
+---
+id: 40f5930c-c0ed-5fa1-b95e-28ccc7df9eda
+page-type-slug: story-chapter-royal-road
+title: "Chapter 527: High Stakes"
+slug: 0049-chapter-527-high-stakes
+partOf: reborn-as-a-demonic-tree
+position: 49
+ownLength: 3190
+unit: words
+ownProgress: 3190
+publishedAt: 2026-01-19
+link: "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/2958960/chapter-527-high-stakes"
+royalRoadId: "2958960"
+markedReadAt: "2026-06-29T19:03:12.841Z"
+---
+
+"I concede," Ao Lingxuan uttered words he had never once said in his many years of life. Not when he fought tooth and nail in the chasm, nor as the head of one of the most powerful sects on this layer of creation. Worst of all was the person, the demon, to whom these words were uttered.
+
+Zephyrine.
+
+The ethereal, white-furred deer that had haunted his dreams more than he cared to admit. The one whom he believed until now had executed his mother in cold blood and cast him down into the icy depths to die. His whole life of struggle until this point had been to hear Zephyrine, this living heart demon, plead for her life, beg for forgiveness, and admit defeat.
+
+Instead, it was he who was defeated—forced to cower on the ground, surrounded by dozens of broken pillars of ice. His domain was crumbling all around him. The storm had won.
+
+"Well, that's a surprise. I thought you wouldn't surrender until I beat your scales black and blue," Zephyrine said, sounding amused. The corner of her bloodied lip curled upwards as she floated over him, lightning crackling around her form. While Ao Lingxuan had landed the occasional hit on Zephyrine, the difference between them was insurmountable. Even for a stubborn dragon like him, he couldn't keep going.
+
+But there was another reason he had decided to concede.
+
+"I have no reason to go so far against my savior," Ao Lingxuan said, wincing in pain. His scales, while not black or blue, harbored deep cracks from the battle, and his Qi reserves had taken a substantial hit. It was simply nonsensical to keep this fight going any longer. "While I'll never forgive you for what you did, I now understand why you did it, and I no longer harbor the rage and hatred I once did. I'm tired."
+
+"That makes two of us," Zephyrine said, holding out her hand. "Take my hand, Ao Lingxuan. I think we should return to the Frozen Star Sect as soon as possible."
+
+Ao Lingxuan hesitantly took the offered hand. It was soft and warm to the touch, as they had both taken on human form at some point during the battle. For Ao Lingxuan, he had switched to his human form because fighting as a few hundred meters-long dragon made dodging attacks rather difficult. Sometimes the nimbleness provided by the inferior human form was appealing.
+
+"Why must we return to the sect with haste?" Ao Lingxuan asked, noticing Zephyrine's unease as he was hauled to his feet.
+
+"Do you not sense the scars of battle above?"
+
+Ao Lingxuan glanced up and was surprised that Zephyrine was right. There were lingering scars on reality from a battle, one involving Qi of at least the Nascent Soul Realm level. Ao Lingxuan was humbled once again. Not only had Zephyrine been beating him with one hand behind her back, but she had been keenly aware of their surroundings while consuming his entire focus.
+
+"My sister is also missing," Zephyrine said.
+
+"Your sister?" Ao Lingxuan furrowed his brows as he got to his feet. Had she come with another deer? No, there had only been another human with her. "Do you mean that girl who was riding on your back?"
+
+Zephyrine nodded. "She's a bit of a notorious troublemaker in the Ashfallen Sect, and while I've not witnessed many incidents from her, I don't think it's a good idea for her to be out of my sight." Her gaze drifted to the ice volcano in the distance. "From the Qi signatures, I believe she chased down a dozen or so members of your sect in that direction."
+
+"Very well, let us return with haste," Ao Lingxuan transformed back into a massive dragon and took to the skies. Yet he hesitated for a moment. Did he even want to return to his sect, his head hung in shame as a loser? Would his Elders still revere him, knowing his catastrophic loss? Could he even live with himself, burdened by this deep humiliation? He let out a sigh and shot forward across the frozen landscape, unleashing world-shaking sonic booms as he went.
+
+Zephyrine easily caught up with him, still in her human form. Her expression betrayed her worry.
+
+He stole a few glances at her, his lip quivering in rage. Just because he had conceded didn't mean the battle was over. He would find a way to recover his pride one way or another. But that would have to wait until he could get rid of Zephyrine and her sister from his lands.
+
+Returning to the sect less than an hour later, he ascended the volcano's heaven-reaching slope, dove through the billowing wall of steam, and emerged high above the vast ice volcano, wings spread wide.
+
+"I remember your mother's corpse barely fitting inside this volcano," Zephyrine commented as she casually surveyed the surroundings. "Where did it go?"
+
+Ao Lingxuan's eye twitched. "It didn't go anywhere. My mother's corpse became one with the volcano, encrusting it with ice and greatly expanding its size."
+
+"Now that you mention it, the volcano does seem far larger than I remember."
+
+"Where is your sister?" Ao Lingxuan said, changing the topic away from his dead mother's corpse. It would remain down there, encrusted in ice for eternity, and there was nothing anyone could do about it.
+
+"There's no way for me to know," Zephyrine said, scanning the sect nestled in the volcano below. "She has a way to hide her cultivation, so she avoids any detection methods."
+
+Ao Lingxuan didn't believe that, nor did he care. He just wanted them gone and fast, so he came up with a solution. "If she has caused any problems, my Elders will know. Come with me."
+
+He dove down toward the largest of the buildings, a grand palace of ice he had crafted for himself in the center of the crater. While it was dragon-sized, he transformed into a human during his descent and landed on a large south-facing balcony. He quickly donned a thick robe to cover his cracked scales and wiped away the blood. A second later, a giddy Grand Elder, adorned in a pristine white robe, barged into the room without knocking.
+
+"Grand Elder Hanxu, what has you looking so full of life?" Ao Lingxuan said, genuinely surprised that the frozen corpse had a spring in his step. He was the first human Ao Lingxuan had decided not to eat and was the reason the Frozen Star Sect existed today.
+
+"Patriarch, you're not going to believe this," Grand Elder Hanxu rasped, catching his breath. He slowly looked up and gave a toothy grin. "A rich little lamb has entered the Lion's Den. We are talking millions of Yinxi Coins being milked. No matter how many times this girl loses, she keeps doubling down and raising the stakes. Even the Elders have sunk their teeth in and are lining their pockets as we speak."
+
+Ao Lingxuan would mirror the Grand Elder's excitement on any other day. Who wouldn't when they heard about Yinxi Coins being gambled in the millions? But he had a slight suspicion this little lamb, as Grand Elder Hanxu called her, was the sister of a very vengeful Monarch who happened to be touching down right beside him.
+
+"Did this lamb give her name?" Zephyrine asked coldly.
+
+Grand Elder Hanxu gave a bone-creaking bow toward Zephyrine. "My apologies. Not that I know of. All I heard is that she is a Princess from the Ashfallen Sect, and there are rumors that she controls the vast wealth of the Ashfallen Trading Company. You know, that same group that has caused great trouble for the Golden Dragon Alchemy Guild?"
+
+Ao Lingxuan felt the air around him still, as if reality was holding its breath. The effect extended to Ao Lingxuan himself, as he found himself having to breathe manually with a tense knot forming in his stomach.
+
+Grand Elder Hanxu locked eyes with Zephyrine. "Did I say something wrong, mistress?"
+
+"Take us to her now," Zephyrine commanded, her tone leaving no room for rebuttal.
+
+Grand Elder Hanxu, the ever-loyal servant, glanced at Ao Lingxuan for permission, which he gave with a curt nod.
+
+"Right this way," Elder Hanxu smiled, "to the den of lions."
+
+Ao Lingxuan followed a step behind the clearly agitated Zephyrine and barely managed to hold back a smile. He had figured out an exploitable weak spot to regain his lost pride.
+
+This little sister of hers.
+
+***
+
+Attached to the Eternal Pursuit Pavilion's outpost in the Frozen Star Sect was a large building, aptly named the Lion's Den. It was a gambling house sponsored by Ao Lingxuan himself and was the main way he siphoned wealth from his sect members to add to his hoard—sometimes directly by gambling with other Elders, but he also received a percentage of the Lion Den's profits. This entire operation was the brainchild of Grand Elder Hanxu, a way to bring entertainment to the frozen wasteland that attracted cultivators from all over while lining the sect's pockets.
+
+In all his years, Ao Lingxuan had never seen the Lion's Den so lively. The noise inside the massive ice-carved room was deafening as he strode up to the banister of his exclusive balcony and gazed down at the masses below. On a typical night, there was abundant space for people to drift between the different games. But tonight? It was infested with humans. Cultivators from various factions and backgrounds, and even people from afar, were standing shoulder to shoulder, gathered around a single table on a slightly raised stage.
+
+On the left side, casually stroking a white-furred squirrel asleep in her lap, was a beautiful young woman wearing oddly tattered black robes. Her eyes, a crazed pink, instantly reminded Ao Lingxuan of Zephyrine. On the other side of the table, in the formal robes of the volcano cultists that openly opposed him, was Grand Elder Vokar. The usually serious man had a wide grin as his group of fellow cultists gathered around his chair and cheered him on.
+
+He was no doubt winning a lot if the towers of Lion Den marked chips encircling him were anything to go by. From a quick count, Ao Lingxuan estimated there were over a million Yinxi Coins' worth of chips on his side of the table—a truly ludicrous sum—but somehow the young woman had over double that on her side of the table. However, those definitely weren't winnings if the expression on Janus's face, standing at her side, was anything to go by.
+
+Ao Lingxuan narrowed his eyes. He had been told by Janus that his sister was coming to visit. He never would have suspected that Janus was also related to Zephyrine. Just what kind of accursed family tree was this?
+
+"Stella, please stop," Janus begged, his desperate tone contrasting with the chaotic cheers. "You've lost millions already to such simple tricks. Come on, I don't need you to win back my money anymore. All you're doing is lining the pockets of these fools."
+
+"Don't listen to your sore loser of a brother, Princess!" Grand Elder Vokar said joyfully. "The night is still young! How about a new game?"
+
+The Princess smiled dumbly. "Sure, it's all so fun. Whatever you choose, I will play. We can even up the stakes to keep things interesting."
+
+"I like the sound of that! Oh, look, I just so happen to have a freshly crafted set of Mystic Jade Cards to play with. All you have to do is flip over more matching pairs than I do to win."
+
+Janus leaned one hand on the table, his face dyed red with anger. "Freshly made my ass, you already know the order. She will only agree if she can be the one to shuffle them."
+
+"Very well," Grand Elder Vokar said, his smile reaching his ears. "What do you say to a half a million Yinxi Coin bet?"
+
+Janus huffed. "Don't play this game, Stella. Look how confident he is! He knows he will win no matter what. It has to be a trick."
+
+Stella ignored Janus and grinned. "Let's do it!"
+
+Just how dumb is this girl? Ao Lingxuan wondered in disbelief. Or is she really that rich to not care about half a million Yinxi Coins?
+
+"Great, here you go," Grand Elder Vokar passed the deck of Mystic Jade Cards, and Stella got to shuffle them. She then placed them down in a grid, one by one, with their backs facing upward.
+
+"She's going to lose," Ao Lingxuan said simply. He knew Grand Elder Vokar only played when his win was assured. His method of cheating would be foolproof.
+
+"I'm going to stop this," Zephyrine said, but Ao Lingxuan quickly put out his arm to stop her.
+
+"Respect the rules of the Lion's Den. Once a bet has been accepted, it must be seen through to the end," he said firmly. No matter the reason, if this rule were broken, it would hurt the Lion Den's reputation as the most legitimate gambling place on the 9th layer of creation.
+
+Zephyrine frowned. "If her father learns of this, things will get bad."
+
+"We will see," Ao Lingxuan said simply, not taking her words to heart. Who cared about some Patriarch of a sect that didn't exist until a year ago? He had connections and allies he could call upon if needed.
+
+"The game will now begin!" an Elder announced.
+
+Without moving, the Princess and Grand Elder Vokar began rapidly flipping cards over. There were a hundred spread across the table, with fifty possible pairs. The game was as much about memorization as it was about speed.
+
+While Grand Elder Vokar seemed incredibly focused, it was apparent the Princess was hardly taking it seriously, as she seemed laid back and half-focused on scratching her pet's ear. The sound of jade slabs flipping over was loud, and the match only lasted a handful of seconds.
+
+"Match over!" the Elder called out and began counting. "The Princess of the Ashfallen Sect has 49 pairs, while Grand Elder Vokar has 51, making him the winner again by a thin margin!"
+
+A cheer broke out once more as half a million Lion Den chips were moved across the table.
+
+Ao Lingxuan smirked at the scene, feeling joy seeing that Zephyrine's little sister was such a fool.
+
+"I need to stop her—" Zephyrine began, but Ao Lingxuan wasn't going to let this opportunity slide. Before the deer could move, he had already jumped down onto the stage. The room instantly went silent at his presence, and the Princess eyed him with curiosity.
+
+"Princess of Ashfallen, I, Ao Lingxuan, Patriarch of the Frozen Star Sect, propose a bet," he said, his Qi-empowered words echoing through the room.
+
+"Oh?" the girl said, tilting her head. "My dad is a Patriarch and quite wealthy too! This sounds fun!"
+
+Zephyrine appeared at Ao Lingxuan's side a second later, seething with rage. "Ao Lingxuan? Just what do you think you're doing?" she hissed.
+
+"Calm down, sister, it's just a bit of fun!" Stella said.
+
+"A bit of fun?" Zephyrine snorted. "I don't even know the value of these Yinxi Coins, but by the way these humans are behaving, I can tell they see you as a free meal. You're disgracing our name and bloodline," she said venomously.
+
+That seemed to tick Stella off. "I am the Princess of the Ashfallen Sect. I can do whatever I want!"
+
+Zephyrine clicked her tongue. "Arrogant child. How can you act like this at your age?!"
+
+"Now, now, let the girl do as she pleases," Ao Lingxuan said, slowly pushing Grand Elder Vokar out of his seat and casually wiping his stacks of chips off the table. "Princess Stella, was it? Are you able to act with the full authority of the Ashfallen Sect and Ashfallen Trading Company?"
+
+"Of course," she said, sticking her nose arrogantly in the air.
+
+"Then, how about a bit of a bigger bet than those before? I will bet five million Yinxi Coins, but only if we play a game of my choosing."
+
+Stella seemed to contemplate his bet for a moment, and then looked... disappointed. "Oh. Only five million? I was hoping for more to really make things interesting."
+
+"Ten million?" Ao Lingxuan offered. That was his entire personal wealth, and he would have to call in some old debts to gather the funds. It was the most he could reasonably offer.
+
+"Nah, still boring," Stella said, stroking the squirrel idly. "In fact, I might just call it for today if even the Patriarch of this place can't entertain me."
+
+Ao Lingxuan's eye twitched. "Fine, name your price." Ultimately, his victory was assured as the game was going to be rigged in his favor, and this dumb girl had lost every round leading up to this.
+
+Besides, he didn't care about the bet. All he wanted was to further humiliate Zephyrine.
+
+"Mhm," Stella hummed, seemingly bored as she inspected her nails. "What about," she glanced up and met his gaze, "we bet our souls?"
+
+The room went silent.
+
+"Are you INSANE?!" Janus roared from her side, and Zephyrine seemed genuinely one step away from tearing the entire sect down. Ao Lingxuan was equally in disbelief. He had never met such a fearless person in his life. Their souls? Just who could make such a bet on a game that was obviously going to be rigged?
+
+"Scared?" Stella said, seeming disappointed again. "As expected of someone who would lose to my sister." She stood up, her chair scraping on the icy floor as she rose. "I guess this will be the end of my gambling fun then."
+
+"No hold on," Ao Lingxuan said, gritting his teeth. "Fine, I'll do it. Let's bet our souls." The ludicrous words almost didn't leave his mouth, and he was in shock that they did. He just bet his soul, of all things. But if there was an ultimate way to get back at Zephyrine, it was having her little sister chained at his feet like a stray wolf, whimpering for scraps. He was already savoring the scene right now. His mind began to wander. Perhaps he would even let his Grand Elders ravage her in the streets, just for fun.
+
+However, his dreams fell to the wayside as Stella grinned and sat back down as a seemingly new person. That dumb, empty-headed glee she had shown before had been replaced with a calculating gaze. It instantly put him on edge. Something was wrong.
+
+"Rules of the den, no backing out now," Stella repeated his own establishment's rules back to him like a heavenly decree as she leaned on the table. "We bet our souls on a single game. The winner takes the other for all they are, right down to their soul. Those are the terms you have agreed to, are they not?"
+
+He slowly nodded.
+
+"Great," Stella smiled like a spawn of hell. "Now, Ao Lingxuan, what game will we play with our very souls at stake? The choice is yours to make."

@@ -1,0 +1,273 @@
+---
+id: 1a50cee7-065d-5d53-97ba-01fc9c51a0cd
+page-type-slug: story-chapter-royal-road
+title: "Chapter 600: Soul Space"
+slug: 0124-chapter-600-soul-space
+partOf: reborn-as-a-demonic-tree
+position: 124
+ownLength: 3281
+unit: words
+publishedAt: 2026-08-05
+link: "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3774626/chapter-600-soul-space"
+royalRoadId: "3774626"
+---
+
+"Diana, how did you get here so fast?" Ashlock asked.
+
+"What do you mean?" Diana replied with a smug grin. "I've been here the whole time, right, Douglas?"
+
+Douglas absentmindedly nodded. His attention was glued to the sky in the vague direction Ashlock was looking down from. Unbelievably, tears were forming in the man's eyes.
+
+"Boss," he said, wiping his eyes on his sleeve. "I'm so glad to finally hear from you. I thought—"
+
+Diana hit him on the back. "What are you crying for? We had everything under control, didn't we?"
+
+"Ah, yes, we did," he said, slightly regaining his composure. He puffed out his chest and leaned on his walking stick. The gemstone crown on his head made him look regal as attacks danced across the Radiant Dawn's shields overhead. "Diana is right. There is nothing to worry about here, Boss. I have everything under control and will ensure none of our cities fall to the Celestial Empire's invasion."
+
+"It must have been hard," Ashlock said, easily looking past Diana's attempts to conceal it. "But I seem to have made the right choice in leaving the fleet in your capable hands, Fleet Commander."
+
+Douglas smiled and bowed. "Only the hardest-fought battles are worth winning, Boss."
+
+"Well said, Douglas. Well said." Ashlock then turned his attention to Diana. "The corpses? Where are they?"
+
+"Knowing you would want them, I stowed them away in the ship's hull. Take a look below."
+
+Ashlock followed the roots spreading through the Bastion and soon found a hold with a pile of corpses dozens of meters high. The demonic mist hanging in the room swirled at his arrival and solidified into the figure of Diana.
+
+"Ah, so that's how you're doing it," Ashlock said as he tore open a desolation rift. "A perk of reaching Monarch Realm?"
+
+"And being the sole inheritor of the Ravena bloodline," Diana grinned. "I'm now an Archdemon of the immortal mist."
+
+"An Archdemon? That sounds fearsome," Ashlock said as his power rippled through the room, and he picked up the bloody heap of corpses. He didn't have the time or care to ask where they had all come from, and simply accepted the offering.
+
+Diana straightened up and suddenly looked serious. "The Monarchs of the Celestial Empire are fleeing."
+
+"What do you mean?" Ashlock asked, confused. "Here?"
+
+Diana shook her head. "I'm present in multiple places at once, remember? I'm talking about back at the Hellroot Abyss and the Celestial Empire—"
+
+Ashlock was already moving, his vision blurred as he shifted his consciousness through his roots and arrived at his Hellroot Abyss a moment later—just in time to see multiple Monarchs punching through Larry's domain and out into the night sky.
+
+The Monarchs continued up the World Tree's trunk, not stopping until they vanished into the canopy, far out of the reach of his Hellroot Abyss.
+
+"What happened? Why did they all flee?" Ashlock asked everyone present.
+
+Magnus answered when nobody else did. "It was as if they were ordered to as they all left at once."
+
+"What about the ones in the caverns?"
+
+"They fled using artifacts," Larry informed him.
+
+"No! I was so close," Ashlock cursed. "I only needed two more Monarch souls to complete my ascension after devouring the Wind Monarch and Thal'korr."
+
+"Master, should we chase after the fleeing Monarchs?" Khaos asked, her void-coated claws twitching in anticipation.
+
+"No." Ashlock looked up. "Fighting outside of Larry's domain is too risky, and we are all at our limit. They have given us a chance to recover, so we will take it. Compared to them, who will take months or even years to recover, we can do so in days."
+
+He canceled his Hungering Maw, pulling the abyss back in, and relaxed his desolation Qi from pouring into the surroundings.
+
+"Larry, keep your domain raised for a while longer as Nyxalia recovers, and we assess the Celestial Empire Monarchs' plan. If they suddenly strike, I don't want us to be wiped out."
+
+"As you wish, Master," Larry replied as he emerged from the depths of the cavern.
+
+"You should rest, Ashlock," Nyxalia said as she wrapped her tendrils around the offered corpses and began pulling free the lingering souls to feast. "I can feel your soul's pain."
+
+"I can't rest. Not yet." Ashlock said adamantly. "Not until I've found a way in and rescued Stella."
+
+***
+
+Janus hated to admit it, but the Eternal Pursuit Pavilion's accommodations for Jade Sentinels were, somehow, a step down from his quarters at the Frozen Star Sect. The bed was too short. The walls were thin enough that he could hear a couple arguing about Yinxi Coins three rooms over. And the spirit wine they served at the front desk tasted like someone had filtered it through an old sock.
+
+It was clear that the place had been constructed hastily compared to the main buildings. Perhaps they hadn't expected many visitors, considering how far Desolark City was from everywhere else.
+
+But it was isolated, anonymous, and, most importantly, not Red Vine Peak or near Stella.
+
+Janus sat on the edge of the bed, watching the night sky burn over Desolark City. The Eternal Pursuit Pavilion was perched on a mountain outside the city, giving him a front-row seat to the dozens of airships tearing each other apart above it. Storms raged. Fireballs bloomed in the dark. Thunderous explosions rolled across the wilderness as the Ashfallen Sect's flagship answered with meteors that punched through shields and shattered hulls with ease.
+
+"It's been days since the battle began. I'm surprised they haven't won yet," Janus muttered quietly since Rowan was asleep in the corner of the room. "Ashlock must be busy elsewhere for them to struggle so much."
+
+Shaking his head, he got under the sheets and closed his eyes.
+
+Cultivators of his level didn't need sleep, but it helped ease the mind. Unfortunately, sleep didn't usually come easily to him these days, not without spirit wine to drown memories of the past. But the recent days following his conversation with Stella had been long.
+
+No matter how he tried to silence it, that meeting kept replaying in his mind.
+
+He had laid it all bare for Stella, his past actions and delusions, and had accepted his death. Yet, she had laughed at him and looked down at him with disgust. If that hadn't been bad enough, her following words had been so cold that they pierced his heart.
+
+"I can tell from your actions and words that you really want the guilt off your shoulders. So death would be a kindness, and I won't forgive you for as long as I live. This is the limit of my mercy. Get out of my house."
+
+Janus sighed and rolled over. He briefly glanced at Rowan, who was peacefully asleep, and wondered if he was even deserving of a disciple. He had almost fed his own sister to a bloodline devouring cultivator so he could feel like the chosen one again.
+
+I've lost everything I had to her, and even when I offered my life, she rejected it, he thought darkly. Am I truly that worthless that I'm even denied the freedom from my past?
+
+Within minutes, the dim room blurred at the edges, and his consciousness slipped down into the warm dark.
+
+The peaceful dream he longed for was torn from him.
+
+In its place appeared a circular hall of polished obsidian, ringed by tall mirrors. Each mirror was taller than a man, and in every one of them, a different version of Janus Crestfallen stared back.
+
+The version closest to him, wearing a calming smile he hadn't shown in forever, stepped out.
+
+Janus's breath stopped in his chest.
+
+"It's been a while," said the Mirrored One.
+
+"Not long enough," Janus replied. His voice came out steady. "Did I forget to lock the door?"
+
+The Mirrored One laughed—Janus's own laugh, the one he used when he was about to lose money and didn't want anyone to see it bother him.
+
+"Always the comedian. No, my vessel. You closed the door very firmly and bolted it behind you. But I felt a rise in you, and have come bearing an offer." The Mirrored One stepped closer, and the obsidian floor rippled like still water beneath his feet. "Your sister has been taken by the Crowned One."
+
+That was news to Janus. If his eyes could snap open in shock, they would. But in this dream realm, he was a prisoner to the Mirrored One.
+
+"I don't believe you."
+
+"Don't you?" The Mirrored One tilted his head. It was unsettling seeing his own face doubting him. "I will admit, she didn't exactly go running back to be the Crowned One's vessel. No, she was foolish enough to believe she could kill him and was captured in the process."
+
+Now that Janus could believe, it explained Ashlock's absence from the battle over Desolark City. He had to be tearing the Celestial Empire apart.
+
+"She was always a fool," he muttered. "But she cast me aside. I have no relation to her anymore."
+
+"You two share the Crestfallen Bloodline—"
+
+"Mine is inferior," Janus shot back.
+
+"Inferior, but good enough for our purpose," The Mirrored One grinned and offered a hand. His hand. "Stella's soul is linked to another, a Monarch Realm ice dragon, making possession too risky. But this bond can be transferred to you, as you share the same blood. With the bond broken, the Crowned One can accomplish his goal."
+
+Janus stared at the offered hand.
+
+"I think you know what needs to be done," The Mirrored One continued. "For us to have our revenge."
+
+Janus knew exactly what The Mirrored One was suggesting without needing clarification.
+
+"Sorry, Rowan," Janus muttered as he extended his hand. "I have something I must finish to truly be free."
+
+***
+
+The soul space had no sun.
+
+There was no moon, no stars, no sky to speak of—only the cracked vault overhead, threaded through with veins of dead gold that pulsed faintly whenever the Crowned One paced beneath them.
+
+He's stressing about something again, Stella idly thought, plucking at the loose thread on her sleeve. Perhaps Tree is getting close to freeing me, though I have no idea what is happening outside this place.
+
+She sat casually on the lowest step of the throne, one knee drawn up, chin resting on her palm.
+
+The Crowned One stalked another lap around the chamber, checking the golden lines carefully. His crown of light, which had been blinding when they'd first arrived, now sat a noticeable shade dimmer above his brow.
+
+Stella found that very interesting and watched him orbit through the room like a moon that had forgotten its planet.
+
+"You are testing my patience, vessel," The Crowned One's voice echoed through the space.
+
+That makes two of us, Stella thought without meeting his gaze.
+
+She had stopped answering when she'd figured out that her silence aggravated him far more than any retort. The Crowned One was the sin of pride. He could only feel in control if there was someone he could belittle. If she wouldn't cower at his feet, beg for her life, or even argue, then he began to crack.
+
+Stella was the one in control. The Crowned One had discovered her soul link to Ao Lingxuan, but couldn't do anything to break it. He'd stabbed her a hundred times, broken her arms, gouged out her eyes, and every other form of torture he could come up with. Yet, she remained physically unharmed. Anything he did to her body in here transferred straight down the soul link to Ao Lingxuan.
+
+The Crowned One could break every bone in her body. She would feel none of it.
+
+Unable to torture her, inhabit her body, or get her to speak, he was forced to entertain himself, and the six silhouettes ringed around the chamber, half-faded into the walls.
+
+The Crowned One stopped pacing. He turned, slowly, to face her.
+
+"I have been generous," he said. His voice had taken on a brittle quality over the last several days. "I have explained your origins to you. I have shown you the futility of resistance. I have allowed you the comfort of believing you could wait for rescue, when no rescue is coming."
+
+Stella looked up at him with mild interest, the way one might look at a fly settling on a windowsill.
+
+"And yet you resist your purpose. Why? Do you not tire of this pointless farce?"
+
+Because you don't decide my purpose, Stella thought, but didn't say.
+
+The Crowned One's crown flickered along with the entire room. Whatever was keeping this place together was failing.
+
+He noticed her noticing. His jaw tightened.
+
+"Speak to me, vessel."
+
+"You told me to sit tight a day ago," Stella said mildly. "Which is it?"
+
+"Do not be cute with me—"
+
+"I'm not cute. I'm bored." She let her head loll back against the step behind her. "Are you going to do something, or are you just going to walk in circles until your crown burns out?"
+
+The Crowned One was across the room in a single step.
+
+He didn't walk over. The space between them simply folded, and he was suddenly there, looming over her with a fist of golden light above her face. Stella didn't flinch.
+
+"Going to punch me again?" She tilted her head, allowing her hair to fall over her face.
+
+It was a strange thing to know you were untouchable in a place designed to be a cage.
+
+"You think," the Crowned One said, very quietly, "that your composure is bravery. It is nothing but delusion." He lowered the fist of golden light, but only slightly. "You believe rescue is coming. You believe that thing outside, that overgrown weed pretending to be a god, will breach my soul space and pull you free. He will not. He cannot. He does not even know where you are."
+
+Stella snorted. "That overgrown weed, as you call him, is my father and better in every way than you and me. He was a sapling when I found him, smaller than me, and he couldn't talk yet. But I talked to him anyway because nobody else would talk to me, and one day he talked back. He told me he would protect me, and then he did for ten years. He kept that promise every single day. So I don't doubt for one second that this space is beyond his reach. He will topple the heavens to find me if that's what it takes."
+
+The Crowned One scoffed. "Topple the heavens? You're not that important, and neither is that weed."
+
+"Yet you go to such lengths to capture me and hold me here? How curious," Stella relaxed against the staircase and yawned. "This conversation is tiresome. Don't you need to step out and stop my father from tearing your little Empire down?"
+
+The Crowned One studied her expression for a long moment, and Stella easily held his glare.
+
+He was a tall man, plain-faced, almost unremarkable. The sin of pride had no face of his own. He wore borrowed flesh, and his expressions sat on it like ill-fitting masks.
+
+She almost felt pity for him.
+
+Her thoughts must have shown, as the Crowned One narrowed his eyes at her.
+
+"What are you thinking?"
+
+"Nothing," Stella said.
+
+"You looked at me as though—" He cut himself off. "Do not pretend to understand me, Stella Crestfallen. You are a child of the World Tree's sap. You are a vessel I commissioned. You—"
+
+"I know what you commissioned." Stella stood up, finally, brushing dust from her cloak. "A pretty body with an ancient bloodline for your soul to wear once your stolen one gave out. You told me all of this on day one." She tilted her head. "Are you going to say anything new, or shall I sit back down and return to being bored in your childish presence?"
+
+The Crowned One stared at her in disbelief.
+
+She held his gaze.
+
+"You think you made me," she said, her voice rising. "You did not. The person I am today was shaped by those around me until now."
+
+The Crowned One laughed at her as if she were an ignorant child. "You allow yourself to be molded by others?" He shook his head. "Those at the top don't rely on others, they carve the path themselves. That is why I stand here, and you cower down there."
+
+Stella began ascending the steps to his throne.
+
+"My father isn't you. It's a demonic spirit tree. My mother is not some sap I was crafted from, she is the World Tree that once connected realms. My elder sister is a mythical deer. My brother is a man who once tried to feed me to a bloodline cultivator, and I let him live anyway because he is still family." She smiled faintly. "My best friend is a demoness who always supports me. My disciple is a child who is as curious about the world as I am. Maple is an otherworldly being, but I feed him acorns and pat his fluffy head. Larry looks out for me, even though he is hard to understand sometimes. Douglas annoys me, and I think he is stupid, but he always pulls through and gets the job done. Elaine is smart, and I try to learn from her. Elysia is crazy, but dedicated."
+
+"None of these people matter—"
+
+"I am who I am because of them, Crowned One. That is what makes me Stella. Not the Crestfallen bloodline. Not the Aether Law or the Phantom Veil or the daggers in my rings. Them. And some of them love me, which is something you have never once experienced, and which is why you don't understand what you're dealing with."
+
+The Crowned One's crown was very dim now, and he seemed speechless.
+
+"You wanted to break my pride and spirit so I would submit," Stella said. "You thought my pride was the kind that stands alone, like yours does, and you thought if you put me in a room with no Qi and no sky and no allies, you could starve it out."
+
+She reached the top step.
+
+"My pride and self-worth don't work like that. My pride is the weight of a forest at my back. You can't starve it. You'd have to kill all of them first, and you can't even beat them. You can't defeat anyone."
+
+The Crowned One stared at her atop his throne.
+
+"You are," he said slowly, "the most insufferable creature I have ever attempted to inhabit."
+
+"That's a new one," Stella admitted.
+
+"And you think your words have wounded me."
+
+"No," Stella said, looking at him with pity. "I think you have been broken for a long time."
+
+The crown of light above his brow snuffed out.
+
+For a single breath, in the dimness, she could see his face properly, and it was not the face of a godly cultivator. It was the face of an old, tired man who had been alive for so long that he had forgotten his own name.
+
+Then the crown flared back to full brightness, and the moment passed, and he was the Crowned One again. His face was a mask, and his fury was back in full force.
+
+"Enough."
+
+The other sins stirred.
+
+"Bring him in."
+
+A wound in the room briefly opened. Stella glanced at it with idle curiosity, but her eyes widened as a person she hadn't expected to see again stepped through into her prison.
+
+Her elder brother, Janus Crestfallen, met her gaze with the coldness of a stranger.

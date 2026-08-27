@@ -1,0 +1,199 @@
+---
+id: a362b3aa-6f20-5c6d-959b-82eb7447c976
+page-type-slug: story-chapter-royal-road
+title: "290. Interlude - Saffron's Savior Part One (Start of Volume 5 Part 2)"
+slug: 0041-290-interlude-saffrons-savior-part-one-start-of
+partOf: salvos
+position: 41
+ownLength: 2311
+unit: words
+publishedAt: 2022-02-28
+link: "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/855015/290-interlude-saffrons-savior-part-one-start-of"
+royalRoadId: "855015"
+---
+
+290. Interlude - Saffron's Savior Part One
+
+Ever since she was a child, Saffron Merryster had feared only one thing: the idea that the Regnorex, the Demon King of the Netherworld, would make his return during her lifetime. It was a reasonable fear for her. As a Human Vampire, she would’ve likely lived far longer than her non-Vampire Human counterparts— a century, at the bare minimum. As long as she didn’t get herself killed through reckless means.
+
+It was something to do with Vampire biology that let them live for nearly a millennia. The oldest Vampire in history was said to have lived through all of the Immortal King Alexander’s reign; she had been the only responsible for elevating the status of their kind from pests and plagues to that of nobility, due to her friendship with him. She died of unknown causes shortly after his death to the Demon King, but before her passing, she warned future generations of Vampires to remain vigilante. Beware of the return of the Demons. Beware of their merciless slaughter.
+
+Beware of Regnorex, for he is at the gates.
+
+Unfortunately, over the millennia since, the sensibilities of Human Vampires had eroded. They’d become negligent in their luxury, focusing not on their duties as Vampires— as Demon Slayers and Demons Hunters— but on the politics that would ensure their privileged life remained… well, privileged.
+
+Saffron hated it. She despised the languor of politicking and scheming. There was no unity to the actions of the Five Greater Vampire Families. They sabotaged each other, colluded against each other, and even brought each other to destruction. Because of that, there were now only Four Greater Vampire Families left.
+
+Even now, when the situation was dire— when an entire country had been razed to ashes by a terrible Primeval Demon— the families refused to cooperate. To work together to tackle this threat. They were far too concerned with protecting their own interests.
+
+Sighing, Saffron collapsed into her bed as she read the magical transmission she received from her Father. He had gone to the Veridian Family’s estate to speak with them about the situation with the Primeval Demon. And what he had gotten was… nothing substantive.
+
+It had gone about as well as Saffron meeting with the Norwood Family. She’d arrived at the Norwood estate nearly two months ago, now. There were some members of the family who were willing to work with the Merryster Family, but gaining the goodwill of all the members was next-to-impossible. Even with Zin Norwood’s assistance— the former Matriarch and mother of the current Patriarch, Gannon Norwood— it was hard to rally the supported needed for total cooperation between the Four Greater Vampire Families.
+
+The only way it was feasible was to get the heads of each family to work together. Saffron was friends— formerly engaged— with Gannon Norwood, so she was certain she could convince him of her cause. After all, the last time she spoke with him about the Primeval Demon, he was very clearly staunchly pro-action.
+
+“Unfortunately, since he’s also a senator of Shedos, he’s currently too busy to speak with us.”
+
+Saffron just sprawled herself on her bed, exhausted. Normally, as a noble, she wouldn’t let herself be see in this state by others, but the only other person in the room was someone she trusted— and also who wouldn’t judge her for her actions.
+
+“This is so annoying.”
+
+She groaned. The glowing figure standing in the corner cocked her head, and Saffron chuckled.
+
+“To think that the only person I can reliably trust right now is a Demon. It’s almost ironic.”
+
+That was right. The figure accompanying her was a Demon. Or, kind of a Demon. It was actually a Demon’s clone, made entirely out of golden fire. The clone of Salvos.
+
+She had aided Saffron throughout this whole ordeal with the Primeval Demon, even going as far as to save Saffron’s Father and Brother during the fall of Nightsveil.
+
+“Although, I sometimes wish you were actually here.”
+
+The Salvos clone waved her arms as Saffron stared at her. She couldn’t speak, so Saffron didn’t know why Salvos herself couldn’t come here. With the vague gestures the Salvos clone made— and the poor attempts at writing with fire— Saffron deduced that Salvos was busy battling Centinels for whatever reason.
+
+“Well, either way, I’m grateful for all that you’ve already done, Salvos.”
+
+Saffron smiled and rolled over in her bed. Night had come long ago, and after a whole day of inconclusive meetings with Zin’s relatives and other members of the Norwood Family, the young noble was about ready to pass out.
+
+Her eyes fluttered shut as a yawn escaped her lips. There was no need to set up wards or runes here— not only was Norwood Keep enchanted so that even Level 100 assassins and the like would find it difficult to infiltrate the walls, but the Salvos clone was here. Saffron was safe.
+
+So, she simply went to sleep knowing that nothing would happen.
+
+—--
+
+And nothing happened.
+
+The next day, Saffron woke up without trouble whatsoever. She yawned and got to her feet, greeting the Salvos clone before getting dressed and going about her day. Well, before that, she had to explain for the fiftieth time how makeup worked to the clone.
+
+“Please stop staring at me like this is some ancient, eccentric ritual. Unlike you, most women aren’t born with a natural glow to their skin.”
+
+The Salvos clone beamed at the praise, literally blazing and glowing brighter. Saffron rolled her eyes.
+
+“I didn’t mean it like that and you know it.”
+
+Once she was finished, the young noble headed out of her room to a patio in the garden. Her sister, Mons Merryster, was having tea with Zin. They were laughing as they chatted casually— a sight which annoyed Saffron because, sure, there could be a full-scale interplanar war between the Mortal Realm and the Netherworld, but impressions still had to be maintained, right?
+
+Not like Saffron herself wasn’t guilty of it considering she spent thirty minutes doing her makeup in the morning. Sighing, she joined the tea session.
+
+“You look awfully weary, sister. I suppose you didn’t have a good night’s sleep?”
+
+Mons raised a brow as a maid poured a cup of tea for Saffron. Then the older Merryster sibling glanced over to the golden figure to the side, a smile slipping onto her face.
+
+“Or perhaps you and your friend were relieving some… stress together, all night?”
+
+Saffron scowled.
+
+“Salvos and I are simply friends, Mons. Nothing more, so please stop making it weird.”
+
+“Very well, if you insist, dear sister. But know that I’m mostly teasing you to ease the tension.”
+
+“It has simply replaced the tension with an awkward air. Let us please just move on.”
+
+Zin laughed at this interaction between sisters. She was in the middle of creating a lush scene— running a paintbrush over a vibrant canvas of colors. With a smile, she lowered the brush and faced the young noble.
+
+“Good morning, Saffron Merryster. Your sister and I were simply discussing our recent meeting with my younger brother. While Mardyth was quite intrigued by your… passion, over the matter, he didn’t feel the same urgency as you did.”
+
+Saffron blinked— they had spoken with Mardyth Norwood nearly a week ago. Had he only gotten back to Zin about the discussion now?
+
+“But he is aware of the fall of Nixa, is he not? I do not understand how there can be a lack of urgency on anyone’s part now that an entire nation has fallen.”
+
+Zin shrugged as she placed the sweet treat back onto the table. She dabbed a napkin on her mouth, speaking casually.
+
+“While I disagree with his reasoning, his response makes sense. Nixa was not a great warring state, even if it is a major trading country. The reinforcements provided to it were mostly comprised of soldiers of the Vaun Qieur Empire. Other nations weren’t as generous. The Primeval Demon’s rampage has even stalled now that it has advanced out into Inoria. He takes that as proof enough.”
+
+“How could he be so foolish to believe that when his own sister's life— your life— was nearly taken by an Archdemon just a month ago?”
+
+It was vexing to Saffron. These people all used logic that didn’t hold up at all. It could be dismantled in a mere moment: they didn’t want to admit that they were more interested in preserving their position than fighting for a just cause.
+
+Zin waved a hand, sighing.
+
+“Well, my brother simply claims that there hasn’t been an attempt since. If the situation were really as dire as you made out to be, then there’d be assassins coming for all our lives. As it is now, their lives haven’t yet been upheaved.”
+
+“That’s ridiculous and you know it.”
+
+Saffron snapped. She got to her feet, exasperatedly gesticulating at the Salvos clone and herself.
+
+“We’ve seen what that Primeval Demon can do. It has an ever-growing army that numbers in the hundreds of thousands, and now it has support from Archdemon assassins going after our families. Just because the problem isn’t knocking down our doors, threatening to destroy their homes, doesn’t mean it isn’t urgent. It means it can still be stopped.”
+
+She panted as she finished, and Zin calmly sipped from a teacup. Mons placed a hand on her sister’s shoulder, calming her down.
+
+“There’s no need to kill the messenger. Zin is simply stating her brother’s side of the argument.”
+
+“His side has no argument.”
+
+Saffron glared at Mons. The older Merryster sibling scoffed.
+
+“I understand your perspective more than anyone, sister. But simply dismissing others as unreasonable would not do any good— not when we’re trying to win goodwill.”
+
+“And that’s exactly my issue here. Why must we play teatime and politics when there are far more pressing issues at hand?”
+
+It never made sense to Saffron, and now more than ever, it still didn’t. She slumped into her chair as the Salvos clone cocked her head from behind, clearly confused.
+
+A moment of silence passed over the group, even though the Salvos clone genuinely looked like she wanted to ask some questions there and then. Finally, Zin shook her head and smiled at Saffron.
+
+“I admire your passion, Saffron Merryster. I truly do.”
+
+Then her lips pressed thinly together.
+
+“But we cannot change the world and how it works, only how we navigate it. I wish as much as you do that the solution will present itself— that our Four Greater Vampire Families will work together to repel this Demon invasion as we had many millennia ago. But clearly it requires time and effort to produce results.”
+
+Saffron watched as Zin rose from her chair. The former Matriarch of the Norwood Family stood tall, her chin held high, exuding the aura and grace of a true noble. One that commanded power in the room.
+
+The young noble almost instinctively averted her gaze, although she managed to steel herself and meet Zin’s crimson and hazel eyes.
+
+“I understand that much, lady Zin. However, even after our countless meetings ever since we came here, we have yet to convert any prominent member of your family to our cause.”
+
+“Perhaps not.”
+
+Zin raised a knowing brow.
+
+“But you only need the support of a single individual from the Norwood Family for that all to change. And I assure you, he will meet with you soon, Saffron Merryster. He is fascinated by you. Especially after you rejected his courting years ago.”
+
+Saffron shuffled her feet before naturally crossing her legs.
+
+“Are you implying that Gannon Norwood will finally be returning here to discuss this matter with us?”
+
+“That is actually what Zin Norwood and I have been discussing before you barged in with your temper.”
+
+The older Merryster sister chuckled, and Saffron scowled. Zin simply stepped out of the patio, gesturing for the pair to follow after.
+
+“And as for the fruits of our labor, come— let me show you what our efforts have produced.”
+
+They exited the garden, heading back into the keep. A maid was waiting for them at the entrance.
+
+“You have visitors, lady Zin.”
+
+She bowed deeply at Zin, and Saffron frowned.
+
+“Visitors?”
+
+“Indeed. A delegation. One from a family you have yet to contact with all your resourcefulness, Saffron Merryster.”
+
+Zin Norwood strolled past the maid, leading both sisters down the stone hallway. They walked past various paintings— portraits that depicted botanical gardens and vast rainforests. Each one, the former Matriarch paused to admire.
+
+She fractionally glanced back at Saffron.
+
+“One of the Four Greater Vampire Families. Another important piece that is needed to defeat this Demon threat.”
+
+The young noble’s eyes widened.
+
+“The Crimsonfang Family?”
+
+They were the last of the Four Greater Vampire Families— the only one which the Merryster Family had poor relations with. But the Norwoods weren’t close with them either, especially after they had worked with the Veridian Family to ruin the Slydrifts.
+
+“Why are they here?”
+
+Saffron didn’t understand how such a meeting had been arranged. But Zin just laughed.
+
+“My son is a politician, Saffron Merryster. He has earned the goodwill of more than just the populace of Shedos. Ever since he became head of our family, he has labored hard to restore relations between the Norwoods and Crimsonfangs back to normalcy.”
+
+“And Gannon arranged this?”
+
+“No. I did.”
+
+Zin’s eyes twinkled as they turned down a corridor.
+
+“Roman Crimsonfang is a good friend of my son. He has agreed to hear us out in exchange for—”
+
+But before she could finish, a scream cut her off. A blood curdling cry that echoed down the hallway. Saffron’s gaze snapped up, and the Salvos clone tensed. Someone shouted for help as blades clashed in the distance.
+
+“Assassin attack!”

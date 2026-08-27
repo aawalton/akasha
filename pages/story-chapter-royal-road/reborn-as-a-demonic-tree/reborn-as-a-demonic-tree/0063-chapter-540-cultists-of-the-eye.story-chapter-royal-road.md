@@ -1,0 +1,189 @@
+---
+id: edfda4d4-4d3e-5aee-abfe-c4124bacb317
+page-type-slug: story-chapter-royal-road
+title: "Chapter 540: Cultists of the Eye"
+slug: 0063-chapter-540-cultists-of-the-eye
+partOf: reborn-as-a-demonic-tree
+position: 63
+ownLength: 2965
+unit: words
+ownProgress: 2965
+publishedAt: 2026-03-02
+link: "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3109283/chapter-540-cultists-of-the-eye"
+royalRoadId: "3109283"
+markedReadAt: "2026-06-29T19:03:41.928Z"
+---
+
+Thane blinked in disbelief.
+
+A cultist? For the All-Seeing Eye, no less?
+
+The man seemed normal enough, yet something about his kind smile felt terribly out of place. The bottom floor of the restaurant was in an even worse state than the second floor, with a few dead bodies that had succumbed to the desolation haphazardly piled up in the corner. The very same desolation that this cultist's apparently kind-hearted god had unleashed on this land and its people.
+
+Thane didn't get it. How could a mentally sane person step into such a dreary place in good spirits and ask the suffering to worship the god who had caused it? There were a few possibilities. Either this man was a delusional psychopath, being mind-controlled by the god, or possibly the worst option: this cultist saw the people of the Celestial Empire as less than people. Would a farmer look sad when taking their pigs to be slaughtered? No. They would be delighted as it was finally payday.
+
+"Sir..." a raspy voice cut through the tense silence between them. It was an elderly-looking woman, or perhaps she had been middle-aged but had aged rapidly due to the desolation.
+
+The cultist turned to look at the woman with the same kind smile he had given Thane.
+
+"What can I do for you, miss?"
+
+"Can... mortals join in worship too?"
+
+The man's smile widened. "Of course! In fact, we will welcome you with open arms, unlike the Celestial Empire, which treats you all like disposable trash." The shadow creature behind him moved back, and Thane heard the snarl of a monster beyond the wall. It turned and, with a swift movement, seemingly silenced the monster. Through spiritual sense, he felt the darkness swirling and a new twisted being taking the monster's place.
+
+In that moment, Thane caught onto their scheme. He had thought the spreading desolation was to destroy the grand formation to free the World Tree, but it seemed there was another purpose. Drive the mortals to the brink, show them that the Monarchs of the Celestial Empire wouldn't save them, and then offer them salvation so long as they switched sides.
+
+The Celestial Empire doesn't benefit much from mortals besides mining and farming, but that might not be the same for the All-Seeing Eye. Thane looked closer at the twisted being. Had it always been a monster? Or perhaps it had been a living person once?
+
+"If I can continue to live, then I will join you," the woman rasped, barely able to raise her arm.
+
+The cultist strode over and crouched before her, his smile never faltering. "You made the right choice. Since you took such initiative to join, I'll be offering you the best starter package." He reached into his robe and pulled out a large book. "Here, take this."
+
+"A book?" The woman looked slightly disappointed.
+
+"Now, now, don't look so down. Let me open it for you." The cultist slowly opened the hefty book and revealed it was hollow inside. "Here on the left side are the rules of the cult. See, there aren't too many. On the right side is the good stuff. Besides the thick robe that will serve you in this cold, there are samples of three truffles. The largest slice will grant you passive resistance to desolation; this one will restore your youth and let you keep it well into your hundreds. However, best of all is this truffle. It will make you a cultivator."
+
+As if raised from the dead, the gaze of every slumbering mortal in the room shifted toward the cultist with sudden interest. A truffle that granted immunity to the desolation that was killing them would have been enough to get them lining up to join, but there was one that restored youth? Both of those, Thane could believe existed. But the last one? That shattered any believability this cult had.
+
+"Don't eat any of them," Thane said resolutely. "He's lying."
+
+The cultist chuckled and side-eyed him. "Let me guess, you believe the lie that cultivators like yourself are heaven-chosen? That you are someone special?"
+
+"Lie?" Thane snorted. "Cultivators are heaven-chosen. Everyone knows that."
+
+"Then my existence is a lie? I was born a mortal, unable to cultivate. That was until the benevolent All-Seeing Eye decided to steal the power of cultivation from the heavens and present it to us mortals." The cultist stared at him, his gaze dangerous, and the twisted being, shrouded in darkness, loomed closer.
+
+"I'll join too," the kid from earlier called from the staircase.
+
+Thane glanced at the kid in mute horror. He had no doubt in his mind that these truffles were poisonous or would turn these mortals into monsters.
+
+The cultist's strange smile returned in an instant. "Another one is interested, excellent. You have made a good choice, child. Come here, I'll give you an equally good starter package as this spirited woman here."
+
+Thane watched in silence as the kid came down the rickety steps and made his way through the dreary room, having to hop over the many people who were unable to stand until he reached the cultist. Another large book was brought out of the man's cloak and presented to the child.
+
+The kid reached up to take the book but paused, his expression unreadable.
+
+"Is something the matter, child?" the cultist asked.
+
+"Why?" he asked in a small voice.
+
+The cultist tilted his head. "Why, what? I'm happy to answer any questions you have."
+
+"Why are my parents dying? What did they do wrong to deserve this?"
+
+That was a good question. This All-Seeing Eye's motives seemed all over the place. One moment, he's bringing ruin to the Celestial Empire, the next, he's trying to convert its dying citizens to their cause.
+
+"Nothing," the cultist said honestly. "But you've lived a life of bliss on tainted land that thrives off the suffering and enslavement of the World Tree. This land needs to be brought to ruin so it may be regrown in the All-Seeing Eye's image. So, while you and your parents aren't directly involved, you have still benefited."
+
+"Benefited?" The kid seemed genuinely baffled at such a statement. From the clothes he and his parents wore, Thane couldn't blame his shock. While most in the Celestial Empire flourished, like the cultist said, compared to those out in the wilderness, not everyone's experience was equal. The poor still existed under the shade of the World Tree.
+
+"Compared to the people out in the wilderness, you don't fear death from monsters," the cultist pointed out, "but I digress. The All-Seeing Eye has recognized that not everyone is equally responsible, and that's why I'm here to offer you a chance to not only live but also thrive as a cultivator. The same benefits will not be extended to cultivators loyal to the Monarchs who rule this place." The cultist pushed the book forward. "Take the book, kid. This world is a dark and cruel place; only personal strength and trust in the All-Seeing Eye will see you through. Save yourself and your dear family."
+
+The kid slowly nodded and took the book.
+
+"It worked?!" the woman from earlier shouted in a mixture of shock and horror. She was standing up, inspecting her arms that she could now move as if they weren't her own. "The air, it no longer burns."
+
+Thane saw a crazed look appear in the woman's eyes as she eyed the other two truffles nestled in the book. If the first one worked, it was fair to believe the other two would as well.
+
+"It's just not possible," Thane muttered under his breath. He started backing up as more mortals in the room began to stir awake and show interest in the joining. It had to be some kind of trick. Even the desolation-resistant truffle must have taken years to carefully grow. To give out such a treasure for free, to a dying mortal no less? It was simply insanity to him, even if in an effort to foster goodwill.
+
+He located a backdoor and quietly snuck out. The cultist either didn't notice his departure or didn't care. Crouching on the roof, he took in his surroundings. The shadow angel was still in the distance, lording over the whole area and flooding the land with darkness. In the streets, the beings made of twisted wood and shadow were ganging up on the monsters, pulverising them and raising them as one of their own. Cultists navigated around the rising monsters and entered buildings, likely to try to convert people like the one he had just encountered.
+
+This is a nightmare, Thane mumbled. I need to get out of here.
+
+A nasty stench that burned his nose rose from the building where he was crouched. I knew it was poison, he thought as he quietly dropped down into the alley. Keeping his back to the wall, he peered through an ajar window and saw both the woman and the kid from earlier kneeling over and vomiting. There was also putrid black gunk oozing out of their pores and staining their clothes.
+
+To the other mortals in the room, they likely thought it was poisoning. But as a cultivator, Thane knew better.
+
+They are expelling impurities? Thane thought, his eyes widening.
+
+"Suffer through it," the cultist said to them. "Your mortal bodies are filled with impurities, further worsened by the exposure to desolation. They have to be purged first before your spirit roots can be unclogged and start functioning. Cultivators aren't heaven-chosen; we all have spirit roots. Some are simply born with functional ones, while the rest of us were born with too many impurities to cycle Qi efficiently..."
+
+Despite the terrible smell and scene, Thane found himself unable to tear his eyes away as the cultist continued to explain and calm people down. Minutes passed until the kid eventually stood up. He looked deathly pale and had to wipe his mouth. But there was something indescribably different about him now.
+
+No way. Thane forcefully opened the window, breaking the latch, and jumped inside. Rushing past the mortals over to the boy, he grabbed his wrist and forcefully cycled Qi. "Impossible," Thane said, checking over and over again to make sure he wasn't mistaken. "Kid, you really have the potential to be a cultivator now—"
+
+The kid forcefully pulled his arm away, and death stared at him.
+
+"What?" Thane asked, genuinely surprised at the hostile reaction.
+
+"You lied to me," the kid said with disgust. "You would rather tell me cultivators are heaven-chosen and leave my family and me to die than admit you have powers that can be gained by eating a simple truffle."
+
+"A simple truffle?!" It was Thane's turn to stare at the kid and scoff as if he had heard the most ridiculous statement of all time. "That is no simple truffle at all! Wars would be fought over it—its very existence should be an impossibility!"
+
+"You're both right," the cultist said with a smile that reached his eyes and didn't care to follow up on what he meant. Instead, he looked at Thane. "Now that you have seen I bear no bad intentions, will you join us? While I wish to raise mortals into cultivators to serve our god, a cultivator of your standing would be a good addition."
+
+"No—I can't join as much as I would like to," he said, shaking his head. If Councilman Cyphion discovered he had sided with the All-Seeing Eye, he would kill him... or would he? Perhaps this was a way for him to increase his usefulness to the Monarch while having justification for getting away from here and searching for a way to remove Cyphion's Qi from his heart. "Wait, could I go and ask someone first if I can join?"
+
+The cultist shrugged. "You aren't a direct subordinate of the Celestial Empire, so feel free to do as you please. Despite how it appears, we aren't bad guys here," he gestured out the door. "Please go."
+
+"Thank you," Thane said, cautiously walking past the cultist and the woman who was changing into the provided black robes. The twisted being cloaked in shadows watched him leave without pulverizing him to mush, as he had half expected.
+
+Thane stood in the street for a moment, feeling the cold winter air burn his lungs. All around him, twisted beings of shadow marched forward, uninterested in his presence. Across the street, a woman wearing the same attire as the cultist from earlier gave him a nod and a smile as she went about her business.
+
+He hopped on his sword and headed toward Cyphion's residence. As the All-Seeing Eye's biggest fan, he had high hopes of selling his idea.
+
+***
+
+Ashlock hadn't forgotten his discussion with Elaine regarding the war's brutality from a while ago. Yet, he had gone ahead with his plan to bring Floridawn to ruin, as it was the city covering the majority of the grand formation that was keeping the World Tree's soul enslaved.
+
+However, with Floridawn's destruction failing to draw out a single Monarch who desired a meeting with him, it was time to move to the next phase.
+
+"Thanatos, the monsters have served their purpose," Ashlock told his General with the lazy tone of an emperor. "Execute them all and turn the beast tide into an army of Ents. Ensure that the new Ents leave the mortals alone, and only cultivators clearly loyal to the Celestial Empire should be targeted."
+
+"As you wish, my Lord," Thanatos said, rising up into the sky. "The slaughter will now commence."
+
+Ashlock watched from above as shadow fiends crawled out from the darkened streets to butcher the confused monsters alongside his Ents.
+
+"It's nothing personal," Ashlock mused. "With one of my Generals arriving on the battlefield, you will all serve me better in death as members of my immortal army."
+
+He had to take this brutal measure as he had no way to control the monsters. Even if Zephyrine herself were here, she couldn't guarantee that the monsters would show restraint and that the mortals of the Celestial Empire would be left to live. He also had to assure the safety of his cultists, whom he was deploying into the city via portals, as many of them were barely in the Soul Fire Realm and wouldn't survive against the monsters.
+
+The darkened streets ran red with blood. The slaughter of the monsters and the subsequent sharp rise in the number of Ents came swiftly. Just like the mortals, the monsters had been forced to keep marching forward by the encroaching desolation, which had also weakened them.
+
+Ashlock was pleased as he watched from above near Thanatos as his cultists went about their activities.
+
+"The desolation-resistant pills seem to be working well," Ashlock said idly.
+
+"Is it really wise to provide pills that give resistance to your own ability to attack, my Lord?"
+
+"They only provide minimal resistance to ambient desolation. If I were to pour in more Qi to increase the intensity, those pills would be worthless," Ashlock explained. "Besides, it's better than my own people suffering while spreading my name."
+
+He could already feel the flow of divine energy flowing into him. Likely generated from the mortals more out of fear than reverence so far, but he was sure that would change once people saw the effects of his truffles, fruits, and pills.
+
+"The high-value starter packs should be distributed soon," Ashlock mused. "I wonder how the mortals here will react to learning they can become cultivators and turn into my new customers for when I move the Ashfallen Trading Company's operations here."
+
+Freebies were marketing 101. Ashlock had made a thousand or so of those high-value starter packs to get the buzz going and to reward the first people willing to switch sides. He wasn't generous enough to try growing enough truffles or fruits to turn billions of mortals into cultivators. He just had to convert enough people to prove it was possible, and then he was sure they would be lining up to worship him.
+
+"While the destruction of their home is unfortunate, hopefully, I can make it up to them in the end with a brighter future under my rule," Ashlock muttered, unable to ignore the obvious devastation brought about by war before him.
+
+"In time, they will praise your name, my Lord," Thanatos said.
+
+"I only need their praise for divine energy," Ashlock sighed. "I still find the whole god dynamic a little strange—" he paused and looked into the sky at the same time as Thanatos.
+
+"My Lord..."
+
+"I know," Ashlock said. He could feel it too. "A Monarch is watching us through the shadow dimension."
+
+But they weren't attacking.
+
+"Should I flee?" Thanatos asked. Despite being a peak Nascent Soul Realm General with shadow law, he would still have to bow before a Monarch, especially one with affinities similar to his.
+
+"No, wait. Stand your ground," Ashlock said, keeping his eyes on the sky where he vaguely sensed the Monarch's presence. "Perhaps they would be open to a chat?"
+
+"Do you wish for me to try contacting them?"
+
+"Yes," Ashlock decided after a moment of contemplation. "Your soul is linked to the shadow throne, so nothing too bad should happen. Give them a hello."
+
+"She responded."
+
+"She? That was fast," Ashlock said, surprised. "What did she say?"
+
+A woman's voice that was not Thanatos's echoed in his mind.
+
+"Were you the one who cursed the World Tree?"
+
+Ashlock was delighted.
+
+"Of course, they finally show interest once their precious golden sap supply is cut off," Ashlock chuckled. "Thanatos, simply reply with nothing but the coordinates of the mountain peak I've got set up for the meeting."

@@ -1,0 +1,183 @@
+---
+id: d7125ebb-32c2-5b9d-8ab0-69600b0b345e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 513: Encroaching Desolation"
+slug: 0035-chapter-513-encroaching-desolation
+partOf: reborn-as-a-demonic-tree
+position: 35
+ownLength: 3008
+unit: words
+ownProgress: 3008
+publishedAt: 2025-12-16
+link: "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/2851704/chapter-513-encroaching-desolation"
+royalRoadId: "2851704"
+markedReadAt: "2026-06-29T19:02:42.486Z"
+---
+
+Thane awoke to the ringing of bells. Not the pleasant wind chimes synonymous with the month-long festivals of Floridawn—these were loud, bone-rattling clangs that echoed throughout the entire city as if heralding the fall of the sky. Such a heavy, metallic sound was rare in Floridawn, a place intertwined with the harmony of nature.
+
+"Ugh," Thane groaned, rubbing his head and looking around. With nowhere to go after arriving in the inner city so late at night, Thane had taken up residence in the alleyway between a mushroom-covered inn that had rudely rejected him and a herbal tea shop.
+
+The onset of panic among the citizens was electric. People were rushing past the alley despite the early morning, and shutters from the upper floors of the inn opened one by one, with curious, bedheaded mortals poking out with confused curiosity.
+
+"Hey!"
+
+Thane turned his attention toward the voice and saw a red-faced man glaring at him.
+
+"Yes, you! The beggar! Tell me—what in the nine realms is going on?"
+
+Beggar? Who are you calling a beggar? Thane cursed in his mind. However, he had enough self-awareness to realize that while that was a rather rude assumption, he couldn't exactly deny looking like one. He hadn't bothered to take care of his beard or general hygiene while living out in the wilderness, and the day spent saving all his thorn spitters and quickly harvesting his herbs while fighting off the strange decaying Qi had done a number on his clothes.
+
+"Why are you asking me?" Thane replied calmly while hastily getting up.
+
+"Because you must have seen it!" The drunkard continued ranting, spittle flying from his mouth. "Which brat from the noble families got into a fight and caused mass destruction this time?"
+
+Thane paused and blinked. "Noble brat? What are you talking about..." he said, but paused as realization came to him.
+
+The people of Floridawn have never seen monsters or war, so the only time the warning bells like this go off is when two powerful cultivators are fighting, and mortals must find shelter if they want to survive. Does that mean that someone like this hungover fool doesn't even know of the encroaching beast tide?
+
+Thane wasn't sure. He had only been aware of such things due to his relationships with the higher-ups in Floridawn. Perhaps the ordinary mortals of the city didn't know their death at the claws of monsters was coming.
+
+"So?! What is it? You look like you know something!" the man demanded impatiently. "Tell me now, else I'll have to come down there and beat it out of you!"
+
+"Maybe I do know something," Thane said, clicking his fingers—his spatial ring flashed with a silver light, and a levitating sword appeared before him. Lightly stepping onto it, he pulsed his Star Core to make it rise. On his way up, he paused before the window of the hungover man, who looked so shocked his eyes were bulging out of his head.
+
+"I—errr," the flabbergasted mortal tried and failed to form words. Stumbling back from the window and visibly shaking, he collapsed to his knees and kissed the floor without being prompted. "Senior... please... forgive my foolish words and disrespect. I had no idea you were someone of such high stature! I swear!" He hesitantly looked up, sweating profusely like a pig. "I will do anything to atone for my words—"
+
+"No need," Thane said, looking into the distance. "I'm hardly a cultivator worth respecting, just a traveling artist trying to survive."
+
+"Oh, honorable senior! What a noble and peaceful outlook you have. Though I must say, if someone of your stature is just trying to survive, I might as well be a walking undead!"
+
+Thane appraised the man for a moment and debated telling him the fate that awaited him, but felt he was being lenient enough as is. In the past, he might have chopped this man's head off. But years in the wilderness had taught him that nature was brutal enough to waste time fighting each other. "Walking undead, huh?" Thane muttered. "Perhaps that would be a better fate than what awaits you."
+
+"Huh? Did you say something, senior?" the trembling man asked, but Thane was already gone. Rising into the sky, he scanned his surroundings. He wasn't the only Star Core Realm cultivator in the area, as he counted about a dozen other Qi trails leading to esteemed cultivators perched upon their swords and glancing around, trying to figure out the situation.
+
+Of course, he was aware of the situation, as he had spent all of yesterday running from it. Focusing on the north, where the bells seemed to be originating, he squinted and confirmed his worst fears.
+
+The unrelenting decay hadn't slowed and was already upon him after a few hours of rest. From afar, the signs of decay were subtle and perhaps not immediately apparent to those giving a casual glance. But if one were to look closer, they would see the tips of tree leaves turning yellow, the once vibrant grass that covered the city turning to dust, and flowers decorating windowsills and walkways wilting. Nature was shutting down and dying before Thane's eyes.
+
+The image of his home before he left flashed in his mind. It had only taken half a day, but by noon, the foliage around his home had rotted. The carefully cared-for moss had turned to dust, and the once lively forest had gone eerily quiet. Only the World Tree's exposed root, in which he had built his house in a nook, seemed unaffected by the encroaching decay.
+
+"Soon that fate will befall this city," Thane mused, his eyes darting between the streets. People were gathering in the streets and seemed more confused by the bells than scared, as they were unclear about the nature of the danger.
+
+I doubt that even those who set them off understand the threat they face.
+
+"Cultivator."
+
+Thane tensed and looked behind him to see a man wearing a black cloak with the symbol of Empyrea.
+
+What is an Enforcer of the Chairman doing here in Floridawn? Wait, does he recognize me, and is he here to enforce my exile? Thane thought, raising a brow. While it wasn't unheard of to encounter Enforcers outside of Empyrea, this was the inner city of Floridawn. No, if he recognized me, he would have addressed me by name. Perhaps the Enforcers have received reports of the approaching decay and are coming to investigate?
+
+"Do you practice nature affinity?" the Enforcer asked, uncaring of his reaction.
+
+Thane hesitated before answering, "I do. Why?"
+
+"Good. Come with me," the Enforcer demanded, his tone leaving no room for rebuke. Floating past him on their sword, the Enforcer headed north toward the decay.
+
+Thane frowned. That was the opposite direction from where he was heading.
+
+"Don't test my patience, cultivator," the Enforcer said without looking back. "Follow me closely."
+
+Thane bowed ever so slightly and did as he was told, all the while seething in his heart. This was a perfect example of why he had moved to the wilderness despite the isolation and monsters. He despised people like this who had authority, not because of their personal strength, but because of the powerhouse they acted like a dog for. In this bastard's case, he was wagging his tail for the Chairman of the Celestial Empire, who was arguably the most influential and powerful cultivator. If Thane were to defy this Enforcer, he would only invite the wrath of the Empyrea Guard upon him—a fate he had seen befall a few power-hungry nobles back when he was part of that world, and it was not a pretty sight to behold: bodies placed on pikes, manors aflame, so much screaming and terror.
+
+He shook his head to empty it of those dark days.
+
+Arriving at the perceived edge of the decay, the Enforcer came to a drifting stop and turned his sword to face him. "You will be responsible for this area," the man said, vaguely gesturing at a large part of the city.
+
+Thane unenthusiastically looked down at the city he had abandoned long ago. It seemed that a few mortals lining the streets had started to notice that the strange Qi slowly killing the plant life was also affecting them. Panic was settling in, and he could see some families hastily packing their bags as the bells continued to ring.
+
+"Responsible in what way?" Thane questioned the Enforcer, the faintest hint of annoyance creeping into his tone. He had to get going, to move further inland and away from the decay.
+
+"Flood the area with nature Qi to stop this strange phenomenon," the Enforcer commanded him and turned to leave.
+
+"What?!" Thane said, unable to hold back his annoyance any longer. "Who gave you the authority to demand how I use my carefully cultivated Qi?"
+
+"His Excellency the Chairman," the Enforcer said, a slight smirk tugging at the edge of his lips. "Any other questions, cultivator? If not, you should get to it before the decay spreads any further."
+
+Thane gritted his teeth and shook his head resolutely. "It's pointless. I already tried, and the decay is unstoppable—" he paused, closing his mouth. "Never mind, I'll give it a try."
+
+The Enforcer appraised him with narrowed eyes. "Hold on. You said you have tried already?" He floated closer.
+
+"No, well, kind of," Thane quickly clarified, well aware that his decade of speaking to nothing but plants might have affected his ability to keep things to himself. "I've seen something like this before, and I can assure you that no amount of nature Qi will stop it."
+
+For a short moment, Thane thought he had successfully convinced the Enforcer as the man paused to contemplate his claim.
+
+"Prove it to me," the Enforcer said eventually, crossing his arms.
+
+Darn it! Why did I have to say anything? Thane lamented to himself. Now he was being forced to waste Qi with the Enforcer watching over and ensuring he did so. Also, why did he think admitting to having seen this before was a good idea? The whole reason he was trying to head inland was to sell the information he knew to the nobles. The last thing he wanted was the Enforcers beating it out of him.
+
+Setting down on the ground, he pushed a fair amount of nature Qi into the ground. Not his absolute maximum, but enough to prove his point without the Enforcer demanding he put in more.
+
+"That's not enough," the Enforcer shouted down from above.
+
+Thane felt his skin crawl, and his hands tightened with rage. Yet, feeling the subtle pressure from the Enforcer's superior cultivation pressing down on his back, he bared his teeth. His Star Core burned brightly, illuminating him and the street with dark green flames. All around him, life was breathed into the dying flora and more. Flowers that had wilted stood up and bloomed, the yellowing trees regained their vibrant green, and sprouted new shoots. He didn't stop until he had almost emptied his reserves.
+
+"There," Thane proclaimed, standing up. "I have nothing more to give."
+
+Cheers from the nearby mortals who had been in the middle of hastily packing up echoed all around him, but Thane's attention was entirely on the Enforcer floating on their sword above him. The man, while arrogant, was an Enforcer hand-picked by Empyrea. He was no fool and, within seconds, could see what Thane had warned him would happen. The man frowned and jumped from his sword to the ground, terrifying the nearby mortals who had been cheering a second ago.
+
+Thane could hardly blame them. The Enforcer's black uniform stood out like a sore thumb against the vibrant surroundings, and his frown was in stark contrast to the joy that the mortals were experiencing.
+
+Of course, Thane knew the relief given at the expense of his Qi was temporary. The decay couldn't be stopped, and soon everything around him would be reduced to dust.
+
+"I told you," Thane said. "But you just wouldn't listen to me."
+
+The Enforcer ignored him, dropped to one knee, and fanned his fingers on the root-woven street. Closing his eyes, the Enforcer's aura commanded silence from everyone. "Mhm, it's as you said," the Enforcer opened his eyes and glanced up at Thane. "The decay cannot be stopped, only delayed. But I'm curious, is this really decay?"
+
+To Thane's surprise, the Enforcer suddenly became engulfed in what he assumed was cosmic Qi, a relatively rare affinity, and without holding back like Thane initially had, the Enforcer pushed the gathered cosmic Qi into the ground. The root-woven street barely managed to contain the crackling energy that sprawled out and threatened to tear reality apart.
+
+However, the Enforcer had imparted a strong will into the dispersed Qi, ensuring it didn't bring down a whole section of the city. After the chaos settled, the Enforcer checked on the ground once more.
+
+"This is worse than I thought," the Enforcer said, his expression grave.
+
+"How so?" Thane asked, interested in the Enforcer's discovery.
+
+"I have a feeling it's not decay."
+
+"What could it be then?"
+
+The Enforcer glanced at him, then back at the ground. "Decay is a dao more typically associated with nature and the lifecycle of living matter, right? While challenging, there should have been countermeasures we could have put in place to halt its progression or reduce its impact while we identify the source."
+
+Thane nodded. He had spent his fair share of time meditating on the many daos associated with nature Qi, and one of the most important ones to grasp was decay. "What you've said is true, but why are you doubting this is decay in the first place? Don't you see it withering the plants and devouring my nature Qi?"
+
+The Enforcer considered for a moment before shaking his head. "Nature-attuned decay wouldn't do anything to my cosmic Qi. I think it's more likely to be desolation... which is a whole other beast. It doesn't simply recycle living matter like decay‚ it reduces everything to dust. Living or immaterial, nothing will survive. Some call it the destructive and dark path of spatial Qi, though I've never met someone who cultivates it."
+
+"Wait, everything?" Thane glanced at the World Tree looming over them. It was no secret to the nobles that the World Tree wasn't peaceful; it was enslaved by a grand formation that spread throughout the whole Empire. If the formation were to be destroyed, the Celestial Empire would crumble.
+
+"I have the same fear," the Enforcer said, following his gaze. "The formation has already sustained some minor damage, but if it can't be stopped—well, I'm sure anywhere under the World Tree's canopy is the last place anyone will want to be."
+
+Thane paled at the Enforcer's words. He had planned to head inland, sell the information he knew, and be pardoned from his exile. What he hadn't expected was for this to be a problem on this scale. Taking a moment to consider his options, he realized there was no future for him without Floridawn.
+
+"Can you bring me to a Councilman? I have something I need to tell them," he asked the Enforcer.
+
+"I can do you one better," the Enforcer said, pulling out a communication jade. "Councilman Cyphion was already on his way to check on the situation. I'll request his presence here and provide his insight on this."
+
+"Thank you," Thane said. While he had some grievances with Floridawn and the Celestial Empire in general, he wasn't so cold-hearted to watch the city he grew up in wither to dust. Lost in thought, he only noticed the Councilman's arrival by the sudden, unmistakable pressure weighing down on the surroundings.
+
+A young-looking man, adorning a simple white robe, stepped out of the portal. Embroidered on his chest was an unassuming white flower, but Thane knew it was a queen of the night, a cactus flower known to bloom once a year, only to wilt by morning.
+
+Councilman Cyphion's eyes widened in surprise. "Thane? Is that you?"
+
+"It's been a while," Thane smiled, ignoring the shock on the Enforcer's face. While this barking dog could only call on Cyphion, Thane was an old acquaintance. He had done some of the decorations in the man's home.
+
+"The beard alone tells me that, it um," Cyphion paused, wrinkling his nose, "suits you, yeah. This Enforcer here informed me you possess something to share?"
+
+"Before that, my lord," the Enforcer stepped into the conversation. "I have reason to believe what we are facing is not decay as initially expected, but rather desolation."
+
+"Desolation?" Cyphion said, his eyes oddly lit up at the mention of the affinity that destroys all. "Could it be him?"
+
+"My lord?"
+
+"Oh," Cyphion blinked. "It's nothing, and yes, you're right." He tasted the air. "This is indeed desolation Qi, and of high quality. Nearly Monarch Realm, I believe. Now, Thane, what is it you wished to share with me?"
+
+"The source of this desolation," Thane paused, feeling the attention of Cyphion and the Enforcer on him, "I believe it to be a tree of some kind. One that is different from the World Tree."
+
+Councilman Cyphion looked between the two of them and frowned.
+
+"Trust me, just dig down and you will see what I mean—"
+
+"Oh, I trust what you say is true, Thane," a sigh escaped his lips. "I just wish it wasn't you who found out." He walked past them both with a complicated expression. Pausing a few steps away, he suddenly looked up into the sky as if a bird had caught his attention, and a smile tugged at the edge of his lips. "As I suspected, he's here."
+
+"Who?" Thane couldn't help but ask.
+
+"The All-Seeing Eye, a god I once stole a sword from," Cyphion replied, "and now that you know that," he looked over his shoulder, and Thane shivered from the coldness in his eyes. "You're going to have to die."

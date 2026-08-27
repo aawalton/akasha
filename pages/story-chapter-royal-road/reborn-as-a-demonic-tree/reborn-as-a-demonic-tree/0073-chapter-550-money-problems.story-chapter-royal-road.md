@@ -1,0 +1,211 @@
+---
+id: 11c5c29b-bad1-5f70-8fb6-639e4376f94d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 550: Money Problems"
+slug: 0073-chapter-550-money-problems
+partOf: reborn-as-a-demonic-tree
+position: 73
+ownLength: 3150
+unit: words
+publishedAt: 2026-03-25
+link: "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3193382/chapter-550-money-problems"
+royalRoadId: "3193382"
+---
+
+Tessellate Citadel, a spatial and aether pocket realm orbiting the 6th layer of creation.
+
+Kael had not been idle in Princess Stella's absence from the Tessellate Citadel. She had left him in charge of her recently purchased estate, and he had done his best to live up to her expectations.
+
+However, taking care of her manor, which was the size of a small city on the inside due to the spatial enlarging arrays, had been too much for him to manage alone, so he had employed some of his Rift Born friends who had attended Stella's birthday party to assist with the decorations.
+
+After outfitting the house with the finest furniture, statues, and artwork he could find for sale, he still had half of the hundred thousand Flux Stella had entrusted to him left over. An outcome he had expected and warned Stella of, as the hundred thousand Flux she had given him was enough to outfit many mansions of this size.
+
+With the work done and unsure what to do with the remainder, as Stella was still gone, he returned to his old home to clean it out to kill some time—and that was when he noticed something that made his stomach sink. Even though the portal to the mainland had been restored when Stella left, the Tessellate Council still hadn't begun distributing food to the Rift Born. Starving children and exhausted families lined the streets. The sight twisted something deep in his chest.
+
+I'm finally in a position to help them, he thought. But the only way was with Stella's money—funds she'd trusted him to spend on decorating her mansion, not helping people. He wrestled with the decision for days. Each time he went back, the Citadel's lower levels looked worse, not better. The sight of so much suffering ate away at him daily until he finally forced himself to choose. Stella could be somewhat unhinged, but he'd seen what lay beneath: a kind heart. She'll forgive me, he convinced himself. If she treated a random Rift Born like me with such kindness, then surely she would do the same for others. Also, it's not like she seemed to care for this money anyway. It will be fine. Surely she won't chop off my head for this.
+
+Shaking away the vision of Stella grinning as she decapitated him, he devoted himself to using the remainder of Stella's funds to help the Rift Born. By relying on Lady Solari, their mysterious neighbor who had bought the other two houses next to Stella's at the auction, he managed to buy food from the private stores of other noble houses in the Citadel and then distribute it to the people for free.
+
+His charitable venture led to the need to hire more Rift Born to manage distribution and transport. Problems and fights arose, so he purchased pills to strengthen the cultivation of those he had hired. He had gotten so caught up in everything that before he knew it, Stella's mansion had been turned into the headquarters for a notable group. Such a combined force had never gathered in the Citadel's history, but with the home belonging to Stella, the Council didn't dare intervene in their actions.
+
+"When are we going to meet the Princess?"
+
+"I wish I knew too," Kael said, not even bothering to glance up from a ledger that confirmed his fears—he was almost out of money. As it turned out, fifty thousand Flux was a considerable amount, but it vanished quickly when used to lift so many families out of poverty rather than for furniture.
+
+"Is she not coming back?"
+
+Kael glanced up from the ledger and met the gaze of the bright-eyed youth. "Jared, can't you see I'm busy here?" he said dryly. "As I've said many times, I have no idea if or when she's coming back."
+
+He looked back down at the ledger spelling his doom.
+
+"Can't you call her?"
+
+Kael snorted and shook his head. "Of course not, I'm only her..." he trailed off. What was he to her? He had acted as her servant during the auction, but that was just an act, right? He had been the one to save her from the shopkeeper, shelter her in his rundown home, and teach her the ways of the Citadel. Meanwhile, she had gifted him resources and not stopped until she was satisfied with his appearance. Never once did she order him to do something or mistreat him.
+
+But she also didn't treat me like a friend. He bit his lip, lost in thought. Did she really use all those resources on me just to turn me into a suitable servant? I mean, there was always going to be a gap between us, as I'm a lowly commoner from a prison pocket realm, whereas she's the daughter of a god.
+
+An unsettling feeling came over him as he stared at the ledger before him. The lack of funds had already been worrisome, but now the numbers seemed painted in blood—his blood and that of his hired friends.
+
+"She's going to kill us," he muttered. "I've done something I shouldn't have..."
+
+"What did you say, Kael?" Jared said, breaking Kael out of his stupor.
+
+"Huh?" Kael said while meeting the youth's confused eyes. "Oh, nothing."
+
+"You said she's going to kill us," Jared said. "Who is she? The Princess?"
+
+"No, no," Kael chuckled while pushing the ledger to the side. "Why would the Princess do such a thing? You misheard me."
+
+Despite Jared being one of the new hires brought on to ensure the estate's security, he was in the Nascent Soul Realm and was an old acquaintance. He used to work for the organization plotting to blow up the Anchor Pylons that Kael had also been in—until Stella beat them to it.
+
+Jared placed his arms firmly on Kael's desk and leaned forward. "I've had my suspicions for a while now," he said quietly, "but you've been stealing from the Princess to fund all of this, haven't you?" His head turned, and he glanced at the ledger.
+
+Kael felt his heart freeze in his chest.
+
+"I..."
+
+"You're a true hero, Kael," Jared said, cutting him off. "I really mean that. Not many would be brave enough to splurge their mistress's funds on feeding the Rift Born—let alone steal from a princess of the heavens. You've gifted weeks of life to me, my family, my friends, and so many more."
+
+Kael clenched his fists under the table.
+
+"Let me be the one to tell them."
+
+Kael slowly looked up. "Tell who what?"
+
+"Everyone—that it's over," he said, tapping the ledger. "Without funds, this all crumbles, and we crawl our way back down to the lower levels."
+
+"No," he whispered, "It's not over just yet. I—I can sell the furniture we bought, even at below market price; it would be worth thirty thousand Flux. That would be enough to keep everything running for a little longer. I could then—um then—let me think. I just need to find a way to raise money. We could—"
+
+"Stop."
+
+Kael shut his mouth.
+
+"You're ranting like a madman. Just... stop." Jared sighed and stepped back. "You're a good man, Kael, with a kind heart. I'm sorry it came to this, I really am. But I can't let you do any more damage. You see, there's a chance the Princess may forgive us all with your blood."
+
+Kael narrowed his eyes. "You want to sacrifice me for forgiveness?"
+
+Jared laughed, "Sacrifice is such a strong word, don't you think? But in essence, yes, that is what I'm suggesting. If you go ahead and start selling the furniture to pay us, that will implicate the rest of us in your scheme."
+
+"My scheme?!" Kael surged to his feet, fury flaring as his chair toppled and crashed behind him. "I only wanted what was best for everyone. Don't make it sound like I've done something wrong—"
+
+"Stealing from a princess, despite the good intentions, is simply suicidal!" Jared yelled back, "And you know it!"
+
+"I didn't steal! I used the money she gave me—"
+
+"For buying furniture!"
+
+"Which I did!" Kael snapped back and gestured around the furnished office. "Besides, it's laughable for you to think my head on a plate would be worth fifty thousand Flux."
+
+"Worth it or not, I won't let you drag the rest of us down into hell with you just so you can remain captain of this sinking boat for a little longer!"
+
+Kael glared at Jared while breathing in and out deeply. His heart was pounding, and his teeth were clenched in rage. "Get out," he said, pointing at the office door. "Did you not hear me? Out. Before I do something I will regret."
+
+Jared smirked. "And why exactly do you think you can order me around? Because you paid me with a little stolen Flux? Gave me some old food? What about next week—or tomorrow? Can you still pretend to be the leader of this place without the Princess showing any signs of returning?"
+
+"What are you suggesting?" Kael said, his eyes narrowing.
+
+"I think the Princess is never coming back, and you know it deep down as well," he said, placing his hands on the desk again and fearlessly leaning forward. "Face the facts, Kael. How long do you think the Tessellate family will tolerate the Rift Born infesting the noble district before they finally crack down and slaughter us all?"
+
+Kael winced and stepped back. That had been another major concern of his. It had been fine when he had been living here alone, but after hiring many Rift Born and having them stationed at Stella's estate, he had already been feeling the pressure.
+
+"I just wanted what was best for everyone," he said quietly.
+
+"We can still save this, Kael," Jared said, his eyes glinting with greed. "The furniture in here is worth fifty thousand Flux, and the house many times more than that now that the Anchor Pylon is fixed. If we sell it all, we can retreat to the lower levels and live out our days like kings."
+
+Kael met Jared's gaze and scoffed. "Jared, you wear your disgusting greed like an oily second skin. Moments ago, you were trying to justify why I should sacrifice myself to appease Stella. Now you're saying she will never return? Is your head rotten? Even after everything I did, you just want control from me, don't you?" He shook his head at the ridiculousness of it all. "I bought all the furniture at an above-market price, and Stella still has the deed to the house. Your plan was never going to work, Jared."
+
+Jared sighed dramatically and stepped back. "I had hoped we could work something out, Kael, I really did." He reached into the folds of his overly large cloak and withdrew a sword. "But even for twenty thousand Flux, I'd happily strike you down." His spiritual pressure exploded outward, throwing the table and everything on it into Kael.
+
+After everything I've done for you, Kael thought, his blood boiling with rage. You still betray me. He punched the table, shattering it into a million pieces. Jumping backward to give himself time, he began to withdraw his sword to block any attempt Jared might make to kill him—the office door clicked open.
+
+Jared froze mid-swing.
+
+Both of them slowly looked toward the far side of the office, past all the destruction, and watched as the door creaked open and a head peeked through.
+
+"Oh, am I interrupting something, Kael?" Stella asked as she glanced between them and surveyed the room.
+
+Kael and Jared exchanged a glance. Kael grinned. "No, of course you aren't," he said smoothly. "Please come in."
+
+Stella nodded at the invitation and strode into the office, looking around curiously. Kael was about to say something when a man—no, a dragon in human form—adorning pristine white robes that matched his snow-white hair and scales, wordlessly followed her inside. By his aura alone, he was no doubt in the Monarch Realm. The discarded pieces of wood from the desk and other items that had been thrown to the floor were crushed to dust under his feet.
+
+Kael gulped. "Sorry for the mess, Stella," he apologized.
+
+"Mhm," Stella hummed in apparent amusement. Snapping her fingers, everything was wrapped in her control and rose into the air. "The decor you chose is a bit shiny for my tastes, but you did a decent job decorating the place, Kael," Stella said as she gracefully made her way around the room, inspecting random floating things that caught her interest.
+
+Kael exchanged a glance with Jared between a few floating pieces of the desk. Jared skillfully returned his sword to the folds of his cloak and fell deathly silent. He didn't even dare to move an inch and simply stood there like a statue.
+
+"I'm glad you somewhat approve of my efforts," Kael said, his gaze being drawn away from Jared to the Monarch dragon. Something was terribly off about him.
+
+Stella lowered a plush sofa and collapsed onto it with a huff. "Approve isn't quite the word I'd use, considering I prefer furniture that is together, rather than in pieces," she said calmly. Clicking her fingers, everything floating in the room crashed to the ground in a worse state than before, as if to emphasize her point. "Now, Kael, would you care to explain to me what happened here and why there are loads of people I don't recognize in my house?"
+
+Kael's blood ran cold.
+
+The sudden battle with Jared had briefly made him forget about the original crisis he faced—the spending of Stella's money. Now it was his turn to stiffen like a statue.
+
+Stella tilted her head to look at him, her blonde hair partially falling over her eyes. "Kael, answer me."
+
+"I—I needed help with the furniture... and to protect the house..." he mumbled, before deflating with defeat and giving up on making excuses. "I used half of the money you gave me to buy food from nobles and feed the Rift Born."
+
+"Okay?" Stella said dismissively, resting her chin on her arm. "That doesn't answer my question, though."
+
+Kael thought he had heard wrong. "Okay? You're fine with it?"
+
+"Why wouldn't I be?" Stella said, sounding confused. "Honestly, I'd forgotten I'd given you money in the first place, so what you do with it is of no concern to me. What is a concern is why the hell are people in my house!"
+
+Kael felt like he was in a dream. The corners of his lips curled into a smile as the reality of the situation set in. He didn't need to be sacrificed to appease Stella; she didn't give a shit about money.
+
+Honestly, he now felt stupid. What heaven-defying princess would care about such funds? She could likely buy the Citadel many times over if she pleased.
+
+Kael relaxed and answered her questions.
+
+"They are servants I hired to furnish the house and guard it from outsiders," Kael said, his tone light as he felt the weight of the world lift from his shoulders.
+
+"Servants?" Stella pursed her lips. "I don't think I'll need any with Ao here," she gestured to the menacing-looking dragon. "Also, put all the furniture in storage or throw it out."
+
+"Uh, why?" Kael asked in disbelief. He had dedicated the last month of his life to outfitting this place for her.
+
+"I need space to build arrays and grow Fleshfruit trees. All this furniture will just get in the way," Stella said, and then turned her attention to Jared. "Who are you?"
+
+Unlike Kael, whose mood had been greatly lifted by Stella's arrival, Jared had gone ashen with fear, which only worsened with the undivided princess's attention. Kael would never forget the terror in Jared's gaze for as long as he lived.
+
+"I'm one of your servants," Jared replied, unable to hide the trembling in his voice. "I was just on my way out, actually." He tried to walk past Stella, only for the dragon to purposely step in his way.
+
+"Do you take me for a fool?" Stella said, not bothering to move from her relaxed position on the couch.
+
+Jared didn't answer. Instead, he mutely stared up at the humanoid dragon looming over him with empty eyes.
+
+Stella shook her head. "I'm the owner of this house and all the formations that span throughout it. I saw everything, Jared," Stella said, and slowly stood up from her seat. "Kael, come on, follow me."
+
+Kael did as he was told and came to Stella's side. She grumbled and led him out into the vast corridor. He could sense her displeasure and wondered what to do.
+
+Clearing his throat, he spoke up. "I'm sorry, I should have handled it all myself rather than letting people inside your home—"
+
+Stella came to an abrupt stop beside the doorway, making him almost walk into the back of her. "I don't care about that," she turned to face him. They were so close. "I'm disappointed in you."
+
+"Huh?" His eyes widened slightly. "Me?"
+
+"You need to grow a spine," she said curtly.
+
+A sudden scream from inside made Kael flinch, followed by the sickening sound of bone crunching and abrupt silence.
+
+"I was waiting outside to see how you handled things," Stella said, not flinching in the slightest at the sound. Raising her hand, she patted him on the shoulder. "I was worried for you, Kael. If you're going to be my sidekick here, I need you to fulfill your role a little better, okay? It reflects badly on me for you to act so meekly."
+
+Kael stared at Stella's hand. "So we are friends?"
+
+Stella laughed and winked at him. "Of course. Now, clean up here and kick everyone out. I'll see you in the main room later, after I've dealt with some visitors."
+
+"Visitors?"
+
+Stella clicked her tongue. "The Tessellate family has my house surrounded. Don't worry, I'll deal with it."
+
+The humanoid dragon emerged from the room with blood-stained hands.
+
+Kael looked into those empty eyes and realized this was what a servant to a princess looked like: unquestionable loyalty, ruthless strength, and a presence that looked suitable next to Stella. He didn't dare imagine what Ao had witnessed during his service to look so empty.
+
+In comparison, Kael felt he didn't measure up. But that was fine. He wasn't Stella's slave or servant, he was her friend.
+
+Ao didn't spare him a glance and simply made his way to the house's entrance. Stella was already gone in a flash of white flames, dealing with the Tessellate family.
+
+Kael was left alone. Peering into the office, he saw the fate of Jared.
+
+"That was a nice white fur rug," Kael grumbled as he stepped into the destroyed room. "Now it's ruined."

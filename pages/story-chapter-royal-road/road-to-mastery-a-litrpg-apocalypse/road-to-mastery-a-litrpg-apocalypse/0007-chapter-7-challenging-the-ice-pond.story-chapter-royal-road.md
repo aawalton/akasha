@@ -1,0 +1,173 @@
+---
+id: 5b845917-b9c7-5853-9c29-1ec8d31dd124
+page-type-slug: story-chapter-royal-road
+title: "Chapter 7: Challenging the Ice Pond"
+slug: 0007-chapter-7-challenging-the-ice-pond
+partOf: road-to-mastery-a-litrpg-apocalypse
+position: 7
+ownLength: 2299
+unit: words
+publishedAt: 2022-11-18
+link: "https://www.royalroad.com/fiction/61041/road-to-mastery-a-litrpg-apocalypse/chapter/1043646/chapter-7-challenging-the-ice-pond"
+royalRoadId: "1043646"
+---
+
+The Integration happened on the 19th of September, 2024. A day later, on the 20th, the world was nowhere near adapting. Millions had died, and the rest were busy organizing into small communities that could protect their members. The bravest had already defeated a monster or two.
+
+On the morning of that day, Jack Rust waged war on a goblin tribe.
+
+The goblins didn’t know it, of course; he didn’t walk in with a war declaration and his head on a silver plate. All they saw was an increased number of hunters failing to return.
+
+Jack stalked them from the high branches, hid in bushes, sprang on them from under the dirt. His fists dealt swift death, and where he passed, only broken goblin corpses remained.
+
+Each kill made him stronger, his fists harder, and his battle experience greater. His fistfighting skill let him fight above his level, but slowly, Jack began to internalize the knowledge. When the margin between success and failure was razor-thin, he realized why his skill made him move in exactly the way it did.
+
+He knew what did and didn’t work, to an extent, but he gradually understood why. At the same time, his increased Physical attribute gave him better awareness and control over his body.
+
+His fighting skill kept rising. Unbeknownst to Jack, this constant life-or-death pressure was the perfect grinding stone.
+
+A goblin squad passed by a bush, yapping about something. The bush suddenly exploded, and a human jumped out, wearing a pair of tattered shorts and nothing else. His shirt had long been torn apart or cut into bandage-like strips, and after a point, he didn’t need shoes.
+
+In their eyes, he was the monster. Caked blood covered his skin, he smelled, and he was dirty, but his eyes were the hardest, sharpest things they’d ever seen.
+
+The three goblins screamed. Before they could react, a fist smashed into one’s head and burst it apart. Another fist buried itself in a goblin sternum, breaking bones and sending its entire body flying backward. The last goblin recovered in time and made a mad dash for safety. Before it could take two steps or shout for help, a hand had grasped its throat firmly.
+
+Jack squeezed and felt a neck snap. He let go, and the goblin’s body collapsed on the forest floor. He stared at his hands silently.
+
+I am a killer…
+
+For the past two days, he’d been hunting and annihilating the goblins. They couldn’t offer resistance anymore, only stand there and die. The only thing restraining his carnage was the time needed to locate new goblin squads—there weren’t too many left.
+
+Am I a monster? he wondered idly. Or am I justified?
+
+The gruesome sight didn’t bother him anymore. He’d gotten used to corpses, to death, to blood and brutal violence. He’d gotten used to the way his soul fluctuated when he went in for the kill, sparking crimson, to the feeling of breaking bones with his bare hands.
+
+He had come to peace with his path. This was reality. In this dungeon, it was him or the monsters—the goblins, in this case—and they would gladly devour any humans they found, they would wreck nature and rampage on innocent people.
+
+He would kill them first. Between himself and monsters, he chose himself, even if it meant becoming a cold-blooded killer—which, in all honesty, wasn’t the worst of things. When the initial social conditioning wore off, he had managed to acclimate. It wasn’t easy or pleasant—but not too terrible either.
+
+Jack looked aside, where the notification waited.
+
+Level Up! You have reached Level 5.
+
+The leveling difficulty didn’t scale too much. It took him one goblin to reach Level 2, three for Level 3, nine for Level 4, and another nine for Level 5. Of course, these last ones were higher-leveled—either the goblins had gotten scared, or they were leveling up as well.
+
+He had tried to keep his numbers low to delay the inevitable. So far, he was okay—the squads were still made up of three goblins each, and he hadn’t seen a hobgoblin outside the tribe. That was bound to change, eventually, but by then, Jack planned to be strong enough.
+
+Another factor that kept his number of kills low was injuries. He was steamrolling them now, but at the start, every fight hung at the edge of a knife. Each ambush was a hard-fought battle that left him with heavy injuries. One time, he even almost died.
+
+He had to crawl back to his cave after each battle, enter the ice pond, and endure the torturous cold that assaulted his injuries. As he grew stronger, he had to go deeper for the healing powers to take effect, and the cold only grew worse, but at least, so did his stat bonuses. The lake had given him another three points in Physical, the equivalent of a level and a half.
+
+Jack’s life had become a cycle of looking for goblins, killing them, healing at the lake, and repeating. It was a fine life.
+
+He quickly assigned the free points from his most recent level-up to Physical, then took a look at his current status.
+
+Name: Jack Rust
+
+Species: Human, Earth-387
+
+Faction: -
+
+Grade: F
+
+Level: 5
+
+Physical: 16
+
+Mental: 7
+
+Will: 6
+
+Skills: Fistfighting (I)
+
+By now, his physical prowess was approaching superhuman levels. He possessed three times the strength of a normal pre-System human—or maybe more—along with a vastly sturdier body, lightning-fast reflexes, crystal-clear kinetic vision, and agility that would put cats to shame—not that he had any to check.
+
+He was possibly exaggerating, but the ease with which he dispatched the goblins confirmed his hypotheses. He felt like a martial arts champion.
+
+The gradual enhancements of level-ups intrigued him. Just how high could they go? Would he eventually become strong enough to break mountains or run faster than cars? Was there an upper limit?
+
+The F-Grade part of his status screen, along with the E-Grade Ice Pond, implied the existence of D, C, B, and A Grades, but even the earth bear had only been Level 15, and it was in an F-rank dungeon. The Dungeon Boss, which could be Level 25, was also F-Grade, unless Jack had misunderstood something.
+
+Just how far away were those other grades? What was the limit? Was there one?
+
+A sense of progression had infiltrated Jack’s psyche and taken over. The feeling of constantly improving yourself by such tremendous amounts was addictive—and familiar, too. He had been addicted to video games once, and this felt similar, though a hundred times better.
+
+He clenched his fists. He wanted to grow stronger, as strong as he could. Then, he could finally take control of his life and be free.
+
+Power was the foundation of everything.
+
+And, luckily, Jack had more than one way to get it.
+
+The sun was setting already, so he walked back to his cave. He had explored the surrounding territory well by now so he knew exactly where he was.
+
+The crack on the rocks was still there, untouched, as was the cramped passage that led deeper in. Jack took the familiar steps, weaved around the rocks and stepped into the small cavern he’d come to call home.
+
+He was welcomed by the ice pond’s familiar glow, a soft white light that now accompanied his sleep. Its cold was condensed, thankfully, so he could rest comfortably on the other side, where he’d taken to sleeping on a patch of flat rock.
+
+However, Jack didn’t plan on being comfortable tonight. He had met his goblin quota early. Now, he planned to once again challenge the pond.
+
+He’d already done that a few times, and he understood how things worked.
+
+From the shore to the small waterfall at the back, the pond was only fifteen feet across. Fifteen short steps. For every step he took, the cold would augment his body by a single point of Physical.
+
+One point wasn’t much for the current Jack, but, if his calculations were correct, the pond had the potential of fifteen points, which was massive. Moreover, he suspected that the waterfall hid something more.
+
+Unfortunately, the pond wasn’t a free lunch. Each step was much harder than the last, and even now, Jack had only managed to take four steps. Today, he would go further. He was determined to test his limits.
+
+He took off his clothes and stepped in the lake with resolve. The cold assaulted him, traveling up his legs and around his body, but he knew the feeling now, and his body was much stronger than it used to be. This cold couldn’t faze him.
+
+He stepped forth. The temperature dropped further, sending long, sharp pins through his calves, but he persevered. Another step. The freezing current licked his legs. He shivered and clenched his teeth, but he still had a ways to go. If he let the third step stop him, how could he defeat the Dungeon Boss?
+
+The fourth step. The water level reached his knees by now, and his legs felt encased in ice. It was clearly water, but it was hard, requiring effort to move. By now, the cold was downright painful, and this was his current record, but Jack was resolved to keep going. He had to take at least the fifth step.
+
+That was easier said than done. His body was stronger than the last time he’d been here, but he still felt crippling fear at the thought of the next step. He took a few moments to get used to the cold before proceeding. He had to be careful.
+
+Finally, he was ready—as ready as could be. He took a step.
+
+He instantly lost feeling in his legs. They were completely numb, but the cold that reached his chest was so painfully piercing that it felt like someone was knitting with his bones. For a moment, he was paralyzed from the waist down. Jack was in terrible pain. His skin was turning blue.
+
+Ice Pond bonus: +1 Physical
+
+The bonus came as the cold finished permeating him. It was a slight respite, but nowhere near enough. Jack’s body screamed at him to turn back, but through the cold and crippling pain, his eyes were fierce. He only stared at the waterfall, so close yet so prohibitively far.
+
+It was mocking him. The waterfall was mocking him. A fire burned in Jack’s heart, fighting against the ice, and his mind was taken over by unbreakable resolve. He knew that moving further would be dangerous, that something bad could happen to his body or he could really lose control of his legs and collapse in the pond forever, but in that moment, he refused to retreat. He would make it. Never again back.
+
+He took a step.
+
+He was in a frozen hell. His entire body felt encased in ice now, not just his legs. He lost feeling everywhere. His pale skin turned blue. His legs spasmed, and it took all his concentration to stay standing despite not feeling them.
+
+His head hurt so bad it was about to break, and his heart struggled to keep beating, almost stopping. Jack’s pain tolerance was swiftly expiring, and he released a muffled roar as he was unable to open his mouth, eyes bulging out like someone was squeezing him to death.
+
+Jack’s entire body screamed to turn back. This time, he didn’t dare say no. If he stayed here any longer, he would die. He had gone too far.
+
+But his legs weren’t moving. They were as solid as rocks. Trying to move them felt like trying to fly.
+
+Jack panicked.
+
+Is this how I die?
+
+Suddenly, a blue exclamation mark flashed in the lower part of his vision, and the cold got a tiny bit easier to withstand. Jack’s eyes bulged again with effort. His entire mental capacity was squeezed into making his fucking legs move. They shivered once.
+
+Jack fell backward. His back splashed into the water that swiftly moved to embrace him. Despite its freezing cold, Jack felt it warm compared to the freezing hell he’d just endured.
+
+He still couldn’t move, however. He lay completely still under the water, gazing at the clean surface just above his eyes.
+
+Am I going to drown? he wondered. He felt fear, panic, bitterness, spite. His body caught on fire. With a tremendous pull of will, Jack used his hands to turn around, then slowly crawled forward through the water. Every moment felt torturous. The end was near, both literally and metaphorically.
+
+He’d only taken six steps into the pond. As he fell back, his head was very close to the edge. He just had to crawl a tiny bit, and do it before his breath ran out. His lungs burned. So did his arms. He kept pushing.
+
+With a final tug of will, his head got out of the water and rested on the cold rock, which felt heavenly by now. He could breathe—and, as he’d pulled himself away from the center of the pond, the cold was receding. He managed to crawl out completely and lay on the stone, shivering, panting, and thanking every god he knew for making it out alive.
+
+FUCK! he would have screamed, if not for his incessantly clattering teeth.
+
+Ice Pond bonus: +1 Physical
+
+Feat of Will performed: +1 Will
+
+He wished he could chuckle.
+
+He’d almost fucked up real bad...but at least he’d made it. He’d gotten the extra stat point, another one, too, and he’d proved to himself what he was capable of. He could push himself to the very limit. He could make it out of this fucking dungeon.
+
+He was Jack Rust. And no matter what the world threw at him, he would survive.
+
+He would thrive.

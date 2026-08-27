@@ -1,0 +1,131 @@
+---
+id: 03a04ec8-29fa-5772-bb48-fb3a177b1c6c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 636: Hero"
+slug: 0106-chapter-636-hero
+partOf: rise-of-the-living-forge
+position: 106
+ownLength: 1951
+unit: words
+publishedAt: 2026-08-20
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3838944/chapter-636-hero"
+royalRoadId: "3838944"
+---
+
+The unease that had been beating against Arwin’s mind reached a crescendo. The Mesh didn’t make any move to identify what they were up against. Something told Arwin that the Mesh was blind here. But it didn’t matter. He didn’t need anyone to tell them how powerful the Deepmind was. All the daggers lodged in its skull… this monster was immensely powerful.
+
+“It still remains to be seen who will die,” Arwin snarled. He tightened his grip on his weapons. This wasn’t the first time that they’d fought an enemy this big. He had no plans of allowing it to be their last. He drew deeply on [Scourge], letting power explode through his veins and course through his muscles.
+
+“Careful,” Koyu warned. “Something is very wrong.”
+
+“Everything is wrong,” Rodrick growled. Dull golden light ignited along his sword. “Let’s fix that.”
+
+The Deepmind raised one of its massive hands.
+
+Arwin exploded into motion.
+
+A shimmering green wall of translucent energy snapped into being between him and the Deepmind, completely encircling the pit in an instant. Arwin leapt into the air and brought Caldera down upon it with a roar. The hammer rang against the magic with an echoing crash.
+
+The barrier didn’t even ripple.
+
+Arwin’s momentum carried him into the barrier, where he collided with a pained grunt. Then he dropped to the ground, staggering as he landed on his feet and took a step back, staring at the magic in disbelief. The barrier stood firm, untouched.
+
+You can’t be serious. I didn’t even scratch it?
+
+The Deepmind’s laughter echoed through the cave.
+
+“So eager to die, Arwin. Was once not enough for you? Necrohammer gave you a second chance at life. You should have appreciated it more. Why are mortals always in such a rush? The end will be all the same. Take a moment to breathe. To understand.”
+
+A torrent of Lillia’s shadows tore over Arwin’s shoulder. They slammed into the pale green barrier, splattering like paint. Her attack had been no more effective than his.
+
+“How do you know about any of this?” Lillia demanded, darkness bending around her feet as she strode to stand beside Arwin. “How do you know who we are?”
+
+“How do I know?” the Deepmind let out a raspy laugh that echoed through the cave like rolling thunder. “I am your new god. I know all. Everything was decided long before you stepped foot into my chamber. You are all puppets on my strings.”
+
+Arwin’s eyes flicked to the Leyline above the huge monster. Then his eyes narrowed.
+
+“No god I’ve ever heard of gets chained up in a hole under the ground,” Arwin growled. “And you sure as hell aren’t the Mesh. You’re nothing but a parasite. The Leylines… they somehow communicate, don’t they? And you’ve just been listening in. That’s how you know One.”
+
+The Deepmind let out another laugh. “How sharp. Yes. I am privy to all that the Mesh is. For your purposes, that makes me a god. And if you think these chains are here to bind me… then you are more of a fool than I believed. If you dance well enough for me, then I might even tell you why. I have long been in want of true entertainment. The years take a toll. Even on one such as me.”
+
+Arwin’s teeth clenched. The Deepmind was fucking with them. But it had all the time in the world. The longer they spent here, the more time the Guild had to react. Time was against them, and the Deepmind knew it.
+
+How the hell do we break this damn barrier? I need a much stronger attack. And the only way I can really get that… we have to keep it talking.
+
+Arwin banished the Wyrm’s Revenge and Caldera. He didn’t have any room for defense here. The Deepmind was too powerful. But if it was just going to sit around and yammer rather than fight, then he had no problem taking advantage of that opportunity.
+
+He summoned Prism’s Reach and Vengeance, slotting the massive arrow into the bow. Then he pulled back on the string. Power hummed through the air, slithering out from Arwin and pouring into the huge weapon. Crystal crept down Arwin’s arm.
+
+The Deepmind didn’t even react. It just leaned in closer, its upside-down skeletal grin growing wider.
+
+“The futile struggles of mortals… they are nothing new. I expect them. The weak never accept the truth. But I must say, I am disappointed. Have the years truly been so cruel to dull your mind this far?”
+
+Arwin ignored the monster. He didn’t have the faintest idea what it was talking about. But if it was trying to distract him, it wouldn’t work. The barrier had to come down. And that meant every single scrap of his attention and power had to go into the magic gathering within the Prism’s Reach.
+
+The crystal had crept down his arm now. Power arced through the air, licking it in hungry tongues, as loud cracks emanated from the bow. He could feel the weapon trembling in excitement. It was more active than any other time Arwin had ever used it. Hell, the weapon was practically trying to leap from his hands in what must have been eagerness to hunt the massive being before it.
+
+All the other members of the Menagerie formed a ring around Arwin. They knew what he was doing — but they didn’t even have to act. Whether it was due to arrogance or confidence, the Deepmind didn’t have the faintest interest in stopping him.
+
+“What are you on about?” Kien asked. “I can assure you, if even one of us knew of your existence before, we would have done everything in our power to destroy you a long time ago.”
+
+A booming laugh tore through the cave. The Deepmind’s entire body shook from the force of its amusement. Then, as quickly as it had started, it stopped. The huge monster leaned forward until its face was practically pressed against the translucent barrier.
+
+“I cannot even call you naïve. You are just blind. But you are a mortal. Such foolishness is expected. Coming from you, one who sees the world in shades of pure black and white, it cannot disappoint me. But I expected better from you… Koyu.”
+
+“No.” Koyu took a step back. Dread entered his voice. Even in Arwin’s concentrated state, he picked up on it. He’d never heard Koyu sound like that. “It cannot be.”
+
+“When did we ever allow the laws of this world to constrain us?” the Deepmind sneered down at them. “Was that not why we set out to grow stronger in the first place, Koyu? And I see that you have succeeded. Even if you are blind… it seems you have found yourself a body, even after your death. That too is impossible. It seems you follow in my footsteps once again.”
+
+“Koyu? What is this?” Rodrick asked. “You know who the Deepmind is?”
+
+Koyu took another step back.
+
+The crystals covering Arwin had wound all the way down his side, now. He’d stuffed the Prism’s Reach full of more magical power than he’d ever tried to fill it with before. The weapon was almost ready to strike. It was shaking so hard now that, if not for the crystal embedding it in place, aiming would have been impossible.
+
+“You are dead. I saw you die,” Koyu said. It didn’t even seem like he’d heard Rodrick. “Gone. Destroyed. No trace of you could possibly remain.”
+
+“And yet, here I stand,” the huge skeleton replied. “Even in spite of your lack of faith. Were you yourself not dead and gone? Did you truly believe yourself to be greater than me? You were never that delusional.”
+
+“Koyu!” Rodrick snarled. “Snap out of it! Who is the Deepmind? If you know anything about it, the information could be invaluable!”
+
+More shadows gathered around Lillia. They rose to loom high above her, growing darker and darker. She didn’t join the conversation. Her focus was the same as Arwin’s — drawing as much power as possible while the Deepmind wasted time talking. Elias and Maeve didn’t say a word either. The two of them just readied themselves, watching Arwin in wait for his attack.
+
+“Don’t be in such a rush. Let it sink in. We’ve both been waiting for this moment for a very long time. And, after all, you only have a few of them left. No point to rush toward the end. Trust me. I’ve seen what waits, and it is not enjoyable,” the Deepmind said. “All the more reason to appreciate the rare moments in life. To fight to hold onto them all the longer… no matter the cost. That has always been our goal. Isn’t that right, Koyu?”
+
+“It is my master,” Koyu said, his voice little more than a dread-filled whisper. “The worst lich of the Old War. He still lives.”
+
+“In the flesh. Part of it, at least.” The Deepmind’s smile held nothing but dead, hungry malice. “That will be rectified soon enough.”
+
+“We’ll see about that,” Arwin snarled.
+
+Then he released his arrow.
+
+A scream filled the air as the Prism’s Vengeance carved through the air in a thick beam of magical energy. The very air seemed to crack and shatter in preparation for its arrival, leaving a stream of shimmering magical fragments in its wake.
+
+The arrow slammed into the barrier.
+
+And, with a deafening crack, the barrier shattered into a thousand shimmering fragments. They rained to the ground as the arrow continued on. It shot straight toward the middle of the Deepmind’s face.
+
+There was a blur of yellowed bone.
+
+Then the arrow slammed to a halt, plucked from the air like nothing more than a toy thrown by the child. The Deepmind held it between two fingers, having stopped it no more than a few feet away from its face.
+
+All the power and momentum that had been within the Prism’s Vengeance had vanished as if they’d never been there. It had come to a complete stop. And, as they all stared in a stunned instant of utter disbelief, the Deepmind snapped the arrow in half.
+
+Arwin felt the connection to the weapon from [Arsenal] evaporate in an instant.
+
+The Deepmind had destroyed the magical weapon as easily as breaking a toothpick.
+
+That can’t be. It’s this powerful?
+
+“Now those are the expressions that mortals should bear when facing their god,” the Deepmind said. It let out a cold, echoing laugh. “The Guild is already aware of your failed attempt. Their forces march on the Menagerie en masse. Not a small expedition. Hundreds of them. I ensured it. You have already served your purpose, after all. The Mesh favored you fools. It filled you all up. And now you have delivered all that power to me. Just as I wished.”
+
+“No,” Lillia said. “You’re lying.”
+
+“Why would I?” The Deepmind tilted its massive head to the side. “You do not need to lie to those who are beneath you. The irony is too delicious for me to conceal it. The Mesh’s chosen weapons… burned as kindling to light the flame that will consume it. And with your end, my body will be truly complete. The next age will finally be upon us.”
+
+It dropped the fragments of the Prism’s Vengeance, letting them latter to the ground before Arwin.
+
+“No,” Arwin muttered. Dread set in his stomach like a chunk of lead. “That—”
+
+“Thank you for your service, Hero,” the Deepmind said. Its huge hand raised into the air, curling into a fist. “And now it is time to fulfill your true, final purpose.”

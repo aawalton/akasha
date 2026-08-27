@@ -1,0 +1,138 @@
+---
+id: 69cbe5cb-b9e0-51dd-af83-2b6f68d711f4
+page-type-slug: story-chapter-royal-road
+title: "Chapter 275: Solutions"
+partOf: rise-of-the-living-forge
+position: 17
+ownLength: 1753
+unit: words
+ownProgress: 1753
+publishedAt: 2024-09-16
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge-stubbing-to-ch555-in/chapter/1805972/chapter-275-solutions"
+royalRoadId: "1805972"
+markedReadAt: "2026-06-29T19:59:00.188Z"
+---
+
+“Why are you holding a corpse?” Arwin asked, staring up at Esmerelda and Madiv.
+
+“I believe it would be because they murdered someone,” Yonas said. The merchant sent a sidelong glance at Arwin. “I charge 100 gold to buy silence. 1000 if you want help disposing the body.”
+
+Madiv dropped the corpse. It crumpled, falling behind a high point in the roof and falling from view. The vampire brushed his hands off. “There is no body.”
+
+“There was definitely a body,” Yonas said.
+
+“Saw it too,” Olive provided.
+
+“Whose side are you on?” Reya hissed.
+
+“Justice.”
+
+Reya stared at Olive. “Seriously?”
+
+“No. I just think it’s funnier to be on Yonas’ side right now.”
+
+“Madiv?” Lillia asked, her voice terse. “I’m certain that you have a good reason as to why you have a dead man on my roof. Would you be so kind as to tell me what it is?”
+
+“He was trying to light the Devil’s Den on fire,” Esmerelda replied.
+
+Madiv held up a badge, and the light caught on it. Arwin recognized it instantly. It was a member of the Ardent Guild. He didn’t know who the person had been, but there was no mistaking the guild insignia.
+
+Though that does not mean it was actually the Ardent guild doing this. It could easily be someone trying to frame them, knowing our guilds are at odds.
+
+“My prices have dropped,” Yonas said. “50 for silence. 500 for hiding the body.”
+
+“Isn’t it bad to lower your own prices when there’s demand for them?” Olive asked.
+
+“No. It establishes him as a trustworthy merchant so we work more with him in the future,” Reya said absently, her attention mostly focused on the roofborne Menagerie members.
+
+Yonas sent Reya a surprised glance. “Very good. Are you a merchant as well?”
+
+“Upon occasion. I help Arwin sell some of his stuff,” Reya replied, coughing into a fist. “Madiv does too. We don’t have to do much. His work sells itself.”
+
+“Interesting,” Yonas said.
+
+“Can we stay focused for a moment?” Rodrick asked. “And would somebody bring that damn body down here? We really don’t need it on the roof.”
+
+Madiv grabbed the corpse and hoisted it into the air. Arwin’s eyes went wide.
+
+“Hold on! Take it down—”
+
+The vampire lobbed the body. It sailed through the air and landed with a wet crunch on the ground in an alleyway to the side of the Devil’s Den.
+
+“—gently,” Arwin finished, pinching the bridge of his nose between two fingers.
+
+Madiv grabbed Esmerelda, much to her displeasure, and jumped off the roof. He alighted on the ground effortlessly without so much as a sound, then plopped the irate woman down at his side.
+
+“My prices have gone back to their former numbers,” Yonas said, sending a look in the direction of the body and grimacing. “Stains are more difficult to get rid of.”
+
+“For the love off — did this idiot actually succeed at burning anything?,” Arwin said wearily. “Are we expecting more company? Or was he on his own?”
+
+“It only happened moments ago,” Esmerelda said. “But I did not notice anyone else in the area. This idiot was indeed acting on his own. Probably on orders.”
+
+“I didn’t hear anyone else in the area when we got back,” Rodrick provided, scratching at the side of his jaw. He tilted his head to the side for a moment before nodding to himself. “I was listening. Nobody now either. Just us.”
+
+Arwin nodded and blew out a breath. “Great. Madiv, deal with the body, please. You made the mess. And next time, dispose of bodies properly.”
+
+Madiv headed over to the corpse and rolled it further into the darkness before heading over to the entrance of the inn and pausing. He glanced back at them.
+
+“You can go in,” Reya said.
+
+“Thank you,” Madiv replied, then strode into the tavern, likely to gather some form of cleaning supplies.
+
+“The good news is that it’s not really all that strange for people to go missing on this street,” Lillia said, her lips pressing thin as she looked in the direction of the dead man. “It’s known for being haunted. This is just one more person that got unlucky. But this is bad news for us. Why would the Ardent guild be sending people to attack us? Or is this a setup?”
+
+“I was wondering the same. It could be both options,” Rodrick said, his features tightening in anger. “If it’s actually the Ardent Guild, then a logical reason would be that they’re trying to make sure we don’t have the time to look for the Dungeon Heart and get it to Twelve. If we do, they know they’re done for. And if it’s a different group — well, there are a number of people that wouldn’t like us. They could be trying to start trouble and might not even know about the Twelve business.”
+
+Arwin’s fists tightened at his sides. “What is it with people in Milten and trying to burn our goddamn buildings down?”
+
+“I must say, arson is an effective distraction,” Yonas said. He pursed his lips and shook his head. “I must be off. I will return in… say, three days? Shortly before Twelve’s return. If you have not discovered a way to deal with him by then, then I will take the Dungeon Heart. And the money to buy my silence. Don’t forget it.”
+
+I’d be annoyed if he wasn’t so agreeable.
+
+Arwin let out a mildly amused huff and inclined his head. “Very well. Until then.”
+
+Yonas nodded. Then, without another word, the merchant turned and strode off.
+
+Arwin wasted no more time in heading into the Infernal Armory. He held the still-beating Dungeon Heart out before him, studying the magical organ as the rest of his guild headed in behind him. They deposited all the bags of material they’d gathered in the front room with a series of heavy thuds and clinks.
+
+For several moments, Arwin was silent.
+
+He had a second Dungeon Heart to work with, but just blindly shoving it into something wouldn’t fix their problem. They needed more than just a slight boost. If they wanted to be able to defeat Twelve, the Menagerie needed a way to completely destroy him before he could even properly realize what was happening.
+
+If I use the Dungeon Heart and it doesn’t work, I just completely screw all of us and we can’t give it to the Dawnseekers. I need an actual plan before I put it anywhere. Sticking it in the Devil’s Den is the most likely way to get a powerful boost… but I don’t know if that will be enough to beat Twelve. We’ll need more. I already know how to make a building fuse with a Dungeon Heart. I can do that in a day, which leaves me two more to try and get the rest of the advantages we’ll need to deal with this.
+
+“I don’t suppose anyone has any actual ideas on how we can pull this off?” Arwin asked. “If Twelve is somewhere around Expert ranked, this isn’t going to be easy.”
+
+“He’s an assassin, so if we can catch him off guard, the fight will be tilted in our favor,” Rodrick provided. “I’m still not done researching him. I’ll get back to that immediately. I might be able to find something we can use.”
+
+Arwin nodded. “That would be very appreciated.”
+
+Rodrick strode out the door without another word, determination already etched into his features.
+
+“What are you going to use the heart on?” Anna asked. “Can you make your Armory even stronger and maybe use that?”
+
+“I don’t know,” Arwin admitted. “I don’t think sticking a second heart in the Armory will do much. I’m going to think on that and try to find the best way to use it… if anything like that is possible. The good news is we know how to make the housing for the heart. It won’t take as long this time around if we figure out a way to use it.”
+
+“So, in the meantime, we have to think of different things we can do,” Olive concluded with a nod. “Every single small advantage is going to count when we’re up against an opponent like this.”
+
+“You know, if anyone has a chance of actually injuring him, it would be Olive or Arwin,” Lillia said. “Nobody else hits as hard as they do. If we could hold Twelve still for long enough, there’s a chance they could kill him before he gets the chance to do anything.”
+
+“I’d never land a blow on an assassin.” Olive blew out a small sigh. “Not with one arm. I’m too slow. Even with you holding him down with shadows and Reya’s magic, it wouldn’t matter.”
+
+“It’s still worth considering,” Arwin said, tapping a finger against his outer thigh. They could stand around and talk in circles forever, but they didn’t have the time to spare. He could think while he worked at the very least. His guild still needed more equipment. If they were going to go up against Twelve, then every single piece would count.
+
+But what would be the most impactful piece I can work on right now? Anna only has a breastplate. Rodrick and Reya could both use some new pieces — Reya especially. Her armor is pretty old.
+
+Lillia is pretty set up, but she doesn’t have full coverage either. I still haven’t even finished my own Dread Executioner Set. That could be a pretty good one to focus on, but out of the entire Menagerie, I’m the one that’s at the least risk.
+
+There’s no point beating Twelve if someone else gets killed in the process. I need to prioritize. The Dread Executioner Set could make me a lot stronger, and all it needs is sabatons. That’s definitely up there.
+
+What else could —
+
+Arwin’s eyes flicked to Olive. She, and the rest of the Menagerie, were all deep in thought, and nobody noticed Arwin’s expression as his eyes moved from her face to her missing arm.
+
+A small grin tugged at the corners of Arwin’s lips as an idea started to form in his mind. It wasn’t going to be enough to stop Twelve by any means, but it had the potential to be a huge step in the right direction.
+
+She isn’t strong enough to properly control her sword with just a single hand.
+
+What if I fixed that?

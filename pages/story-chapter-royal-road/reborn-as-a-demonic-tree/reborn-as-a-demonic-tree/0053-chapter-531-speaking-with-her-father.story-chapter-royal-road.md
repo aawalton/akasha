@@ -1,0 +1,215 @@
+---
+id: ad7e92f6-5c67-5328-b200-3853002addf6
+page-type-slug: story-chapter-royal-road
+title: "Chapter 531: Speaking with her Father"
+slug: 0053-chapter-531-speaking-with-her-father
+partOf: reborn-as-a-demonic-tree
+position: 53
+ownLength: 2777
+unit: words
+ownProgress: 2777
+publishedAt: 2026-02-06
+link: "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3019726/chapter-531-speaking-with-her-father"
+royalRoadId: "3019726"
+markedReadAt: "2026-06-29T19:03:21.002Z"
+---
+
+Tiberius, the Celestial Warden and overseer of the Eternal Pursuit Pavilion just outside Desolark City, frowned as the long-range communication array built into his desk demanded his attention.
+
+"What's happened now?" he mused, checking the sender. His eyes widened.
+
+A Sage Advisor from the Frozen Star Sect's branch? He quickly straightened up and accepted the call, only to be greeted by the hologram of a disheveled Sage Advisor.
+
+"Greetings, Celestial Warden," the man said, his tone heavy. "I am calling to inform you that the Frozen Star Sect has been destroyed."
+
+Tiberius paused at the words that the Sage Advisor had opened with. If not for the destroyed room behind him, he wouldn't have believed such a ridiculous statement.
+
+An ancient sect with a Monarch Realm Patriarch has fallen? Such a thing is borderline impossible!
+
+Tiberius cleared his throat and asked, "You're not joking?"
+
+"No, Celestial Warden. This is no joke, as much as it sounds like one. The Frozen Star Sect is no more, and the Eternal Pursuit Pavilion's operations here have been compromised—we will be evacuating soon."
+
+Sure enough, people were rushing around behind him while the building seemed to tremble and crack.
+
+"The Frozen Star Sect has really fallen? Just what in the nine realms happened over there?!" Tiberius said, slamming his desk in frustration. This was simply unprecedented! The Frozen Star Sect accounted for a third of the Pavilion's wilderness income. With it gone, how was he going to explain such a massive loss to the Chairman? He paused and frowned as a thought occurred to him. Didn't Stella leave for the Frozen Star Sect only a few days ago?
+
+"The details are still developing," the Sage Advisor continued, unaware of his sudden realization, "but I believe the catalyst for this situation can be traced back to a foreign princess who arrived earlier today alongside a Monarch Realm deer. Stella, I believe, was her name."
+
+A long, weary sigh escaped Tiberius's lips. He slumped back in his chair, feeling the last remnants of his will to live drain away. "How? How does she manage to bring down an ancient, powerful sect in a single day?" he muttered, pinching the bridge of his nose in exasperation.
+
+"She was gambling at the Lion's Den—"
+
+"Gambling?!" He sat up, unable to believe what he had just heard.
+
+"Yes, Celestial Warden. The princess was gambling."
+
+A pit formed in Tiberius's stomach. Stella and gambling, he couldn't imagine a worse partnership.
+
+"Okay, and then what happened?" he dared to ask.
+
+"She got tricked into losing millions of Yinxi Coins by the Elders."
+
+"Tricked? Stella?" Tiberius shook his head. He had endured many meetings with Stella and knew for sure that she wasn't someone who would fall for another's game. People played by her rules, not the other way around. "I fail to believe that happened."
+
+"I saw it with my own eyes," the Sage Advisor insisted. "She seemed like a total fool, giggling away and having fun as she blew millions like it was nothing. She only seemed to get serious when the Patriarch arrived."
+
+"What do you mean by 'got serious'?"
+
+The Sage Advisor paused and considered for a moment. "Her whole demeanor shifted, as if it wasn't a game anymore. Not that I can blame her, considering what she bet."
+
+So the Patriarch was her target all along. The other small fry Elders were just there to warm the stage. But what was her end goal? To steal all of his money?
+
+"Did she raise the bet to ten million Yinxi Coins?" Tiberius asked. He vaguely knew how wealthy Stella was, and losing such a sum would put a massive dent in her wealth.
+
+The Sage Advisor actually dared to snort at his suggestion. "No, Celestial Warden. Ao Lingxuan suggested such a bet, and she called it boring and insisted they bet their souls instead."
+
+Tiberius abruptly stood up, sending his chair flying. Adrenaline surged through his veins as he locked eyes with the hologram. "Did she lose?" Every second it took the Sage Advisor to answer felt like a year—sweat dampened his forehead, and his heart pounded in his chest like a war drum. Forget the Frozen Star Sect, if Stella's soul was devoured, that would be the end of this layer of creation. He and everyone else knew that if Ashlock really got motivated to conquer, little could stand in his way.
+
+Losing Stella would be the perfect catalyst for that.
+
+"No, she somehow won, actually," the Sage Advisor said casually, clearly not understanding the gravity of his words.
+
+Tiberius leaned forward on his arms, his head dropped as relief washed over him like a cooling breeze. "Oh, thank the heavens for they have smiled upon us..." he whispered, calming himself.
+
+"Are you alright, Celestial Warden?"
+
+"Barely," he glanced up and picked up his chair. With another sigh, he took his seat once more and faced the projection. "So, Stella won a bet against the Frozen Star Sect's Patriarch for their souls. What is she doing with his soul?"
+
+"Uh," the Sage Advisor looked off to the side as if peering through a window, "they seem to be enslaving him."
+
+"Right, enslaving a Monarch Realm ice dragon makes sense," Tiberius said, slowly nodding to himself. "I still don't understand how the sect fell."
+
+"Well, you see—" the Sage Advisor began, but was cut off by a woman suddenly appearing behind him. One that Tiberius knew too well.
+
+"Is that you, Tiberius?" Stella said, leaning over the startled Sage Advisor.
+
+"Yes, hello Stella," Tiberius replied, putting on the best forced smile he could muster. "I've been hearing about the trouble you have caused and the fall of the great Frozen Star Sect."
+
+Stella laughed. "Great? This place is a shithole full of short-sighted fools. There's nothing great about the Frozen Star Sect at all, especially not anymore."
+
+Tiberius's eye twitched. "I see."
+
+"Anyway, never mind that. Can you pass a message on to my Father?"
+
+Tiberius really didn't want to have to speak with the Ashfallen Sect's Patriarch and try to explain what he had just heard, but what choice did he have? "Yes, I would be honored to pass on a message from you," he said, not hiding his sarcasm.
+
+Stella squinted at him briefly, but ultimately paid his attitude no mind. "Can you tell him a possibly pseudo-Monarch Realm primordial ice dragon is flying toward the Ashfallen Sect?"
+
+"Huh?"
+
+"Don't worry, it shouldn't be a problem for him to deal with. If anything, it's like I'm delivering him a snack. Oh, and tell him I'll be a few more days. I got a little sidetracked, so I haven't found any Fleshfruit trees yet." Stella paused, her face contorting in thought. "I think that's about it, besides the fact that the Frozen Star Sect is now mine, and I'll be bringing back its Patriarch as a pet."
+
+Tiberius just stared at her blankly. He didn't know what to say.
+
+"Um, yeah, that should be all. Alright, bye Tiberius!" She hit the table, cutting the connection.
+
+Tiberius stood there for a full minute, giving his mind a moment to try to comprehend what he had just been told. He sighed deeply and pushed his chair back. Running a hand through his hair, he walked past the window of his office that overlooked the great walls of Desolark City in the distance.
+
+"I still don't understand how one girl can doom an entire Monarch Realm sect in a day," he said, pursing his lips. "Never mind, if it's her, then it totally makes sense."
+
+Though he wasn't sure how her father would take the news.
+
+"I guess it's time to find out," he said, fixing his robes and swiftly leaving his office.
+
+***
+
+While Ashlock awaited the dark embrace of dusk that would serve as the stage for General Thanatos's first attack on the Celestial Empire, he was idly watching Floridawn from afar. Throughout his life, it had been made clear to him that certain affinities of cultivators, or just those above him in power, could sense the presence of his {Eye of the Tree God} skill in the sky. Because of that, he decided to keep more of a distance, at least for now.
+
+It was still the early days of his slow assault on the Celestial Empire. He wasn't in any hurry, as it would still take a while for his roots to sprawl out under Floridawn, and his Cursebloom Sap was still infecting their golden sap supply.
+
+All he had to do was patiently wait. He was slowly pressing on the artery of the Celestial Empire, waiting for it to pop from the pressure. That's when he would strike with his full force. Being rash now would only scare the members of the Council, possibly denying him the chance to ascend.
+
+[Monarch Realm ascension requirements:
+
+Possess an Inner World: 1/1
+
+Comprehend Desolation Law: 67%
+
+Devour the souls of nine Monarch Realm beings: 0/9]
+
+His comprehension had increased by four percent since he received the mission, but he expected a massive boost once Elysia and the Redclaw Grand Elder returned from their trip into the Eternal Realm.
+
+"I would also gain a boost if I managed to devour a Monarch, but that's not going to happen for a while," Ashlock mused. Even with a solid third of Floridawn crumbling to ruin under his desolation and being overrun by monsters from the beast tide, the Monarchs of the Celestial Empire had yet to make a move.
+
+Not that he had expected them to come rushing to the aid of the mortals, which is why he had targeted their precious golden sap. They no doubt had supplies, but once those ran dry, fingers would start pointing blame, and a civil war might break out.
+
+Though all of this was theoretical. Ashlock had never fought a war on this scale before; in fact, he doubted a battle had ever been fought in this way. Rather than a powerful cultivator or monster showing up at the Celestial Empire's doors that could be focused and killed to end the war, he more closely resembled an intangible threat like a plague. This is how a spirit tree fought—nice and slow. The only problem was how boring and Qi-intensive this kind of fighting was. He had to spend most of his time sleeping under the nine moons to recover his immense Qi expenditure, not that he was exactly complaining. It served as the perfect excuse to be lazy.
+
+"I'm hungry," Ashlock grumbled. It had been so long since he last got a taste of something good. Why were Monarch Realm cultivators so cautious? Even Councilman Cyphion, who was supposed to be a fan of his, had sent someone to scout out the meeting area and had yet to make another appearance.
+
+A sudden bell chime echoed through his consciousness, interrupting his musings.
+
+"What was that?" he wondered, tracing the source through his ethereal root network all the way back to Red Vine Peak. There, standing beside the bench under his canopy, were Elder Brent Redclaw and the Celestial Warden.
+
+Elder Brent stood under a small, lonesome branch that sprouted from his trunk, and from the end of it dangled a simple bronze bell. It had slipped his mind, but he had grown the branch recently. A Mudcloak had then attached a bell, and Ashlock had requested his system to amplify the bell's sound through his root network so anyone could get his attention.
+
+"Are you sure such a tiny bell will get his attention?" Tiberius whispered.
+
+"Honestly, I'm not sure," Elder Brent admitted. "But shouting certainly didn't work, and why else would it be here?"
+
+"Maybe it's for the Princess to summon servants?" Tiberius guessed.
+
+Elder Brent laughed. "Servants? Stella doesn't have any of those, as far as I know."
+
+Ashlock found the conversation amusing, but he was also a little concerned about why Tiberius would come here seeking his attention. Thanatos was off, preparing for his attack on the Celestial Empire, so he decided to simply speak to both of them via Abyssal Whispers.
+
+"Tiberius, why are you here?"
+
+The man froze and stiffened at the effortless invasion of his consciousness. Ashlock couldn't blame him, as he often spoke to Tiberius from afar. However, he was standing right below his trunk, meaning all his skills were operating at maximum effectiveness. Ashlock had also been below Tiberius's cultivation level in the past but was now at the peak of the Nascent Soul Realm.
+
+Therefore, his voice carried a mind-breaking weight to it.
+
+"Greetings, Patriarch of the Ashfallen Sect," Tiberius said, barely managing to regain some of his composure. "I come bearing news about your daughter..."
+
+The air around Ashlock stilled as the very fabric of reality reacted to his shift in mood, causing Tiberius to stiffen. Ashlock took any news regarding his daughter with the utmost seriousness, so before Tiberius continued, he wished to confirm that the Celestial Warden wasn't being manipulated or secretly a Monarch Realm cultivator wearing an illusion technique.
+
+He recognized that Stella was a weak spot of his, and you could never be too careful in war.
+
+A dull creak echoed deep in his trunk, followed by a thin vertical line, a hundred meters long, striking down the length of his trunk. The two cultivators stumbled back in fear as the fissure widened, and he peered through the slit at them with his unblinking Evil Eye. In an instant, he punched through the Celestial Warden's spiritual defenses and analyzed his naked soul.
+
+"As you were saying?" Ashlock said, after confirming it was really Tiberius in the flesh and relaxing his gaze.
+
+Tiberius gulped.
+
+"About my daughter," Ashlock insisted. "What do you know?"
+
+"S-She is responsible for destroying the Frozen Star Sect."
+
+"What?!" Elder Brent yelled, the sudden information breaking him out of whatever fear-fueled daze he had been in after seeing Ashlock's Evil Eye.
+
+Ashlock ignored Elder Brent's outburst. While the information was shocking, it also wasn't that surprising. He had a bigger concern. "Is Stella alive? Is she alright?"
+
+"Yes, the Princess is doing just fine. I spoke with her just moments ago."
+
+"That's a relief," Ashlock said, relaxing somewhat. He slowly closed his trunk to seal away his Evil Eye, causing the mountain to tremble ever so slightly in the process as his trunk knitted itself back together as if nothing had ever happened.
+
+"She also wanted me to tell you she would be back in a few days as she got sidetracked, and perhaps more importantly, that a pseudo-Monarch Realm primordial ice dragon is heading towards you."
+
+Ashlock assumed Stella would tell him all the details of how exactly she caused the fall of the Frozen Star Sect another day. Right now, the key details were that she was fine, would be home in a few days, and that a meal was on its way.
+
+"Is that all?" Ashlock asked.
+
+Tiberius and Elder Brent shared a look.
+
+"Yes, Patriarch," the Celestial Warden bowed with his hands cupped before him, "that was all I had to share."
+
+Ashlock dropped a spirit root improvement truffle directly into the Celestial Warden's hands, startling the man.
+
+"This is...?" he asked hesitantly.
+
+"A present from me for bringing this valuable information," Ashlock said, casually tearing a desolation rift that led right back to the Celestial Warden's office outside Desolark City. "It was a pleasure as always, Tiberius."
+
+The Celestial Warden eyed the rift and then bowed once more. "If I learn anything else from the Princess, I will be sure to let you know."
+
+"Please do," Ashlock said, and the Celestial Warden left through the rift.
+
+Ashlock didn't say anything as Elder Brent shot off a string of excuses for leaving and scurried off. His focus was entirely on how he would welcome his new guest.
+
+"Tiberius called it a pseudo-Monarch Realm primordial ice dragon. I assume the pseudo part means it carries the strength of one but isn't actually a Monarch Realm entity, meaning it won't count toward my ascension requirements of devouring nine Monarchs," Ashlock mused. "Therefore, turning it into an Ent is a possibility. However, what really interests me is the mention of primordial ice Qi. Devouring that would greatly increase my understanding of ice dao. In either case, I'd rather go for restraint than for the kill."
+
+If he wanted the beast dead, Khaos would have been the pick for the job.
+
+However, if he wanted to restrain a pseudo-Monarch without killing them, there was only one being in the Ashfallen Sect strong enough to do so.
+
+It was time to call on General Bob.

@@ -1,0 +1,167 @@
+---
+id: 280d5182-daf9-50ff-9dfc-782e94e5de1d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 408: (Interlude) Conversing with a God Tree (Start of Book 7)"
+slug: 0026-chapter-408-interlude-conversing-with-a-god-tree-start-of-bo
+partOf: reborn-as-a-demonic-tree
+position: 26
+ownLength: 3230
+unit: words
+ownProgress: 3230
+publishedAt: 2025-02-24
+link: "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/2087194/chapter-408-interlude-conversing-with-a-god-tree"
+royalRoadId: "2087194"
+markedReadAt: "2026-06-29T19:02:23.220Z"
+---
+
+The Chairman of the Celestial Empire strode through a hallway of twisted golden wood with two attendants in tow. They had followed him for centuries but kept a cautious distance, lest they wanted to be crushed by his Monarch realm soul pressure radiating off him, causing the air around him to shimmer with rage. The trio had just left a meeting with the council, and things had gotten heated.
+
+"Chairman, what are we going to do? At this rate, your hold on Empyrea will fall, which will cause a civil war throughout the Celestial Empire."
+
+"Veyra," The Chairman paused and glared at the woman trailing behind him, "You really believe I can lose control over Empyrea? The capital city of the Empire that I rule?!"
+
+"I do, Chairman," Veyra fearlessly replied and bowed. She was an ethereal beauty well known for her deep wisdom and insight. As much as he wanted to ignore her words, he wasn't such a prideful fool to believe he was above the advice of others.
+
+"Kaelion?" He asked the bronze-skinned warrior at her side, "Do you mirror Veyra's thoughts?"
+
+The man briefly glanced between them before reluctantly nodding, "I do, my lord."
+
+"Why?" The Chairman inquired, earning a frown from Veyra, "Speak freely."
+
+Kaelion awkwardly coughed into his hand, "Ahem, well, while you founded the Celestial Empire and come from a bloodline known to nurture the World Tree, your cultivation has stalled in recent centuries, allowing the leaders of the other factions to catch up." The man paused as if trying to choose his following words carefully, "Furthermore, it has to be said that your intense focus on the Crestfallen project over anything else brought your leadership into question, and even worse..."
+
+The Chairman raised a brow, "What could be even worse?"
+
+"Your relationship with the World Tree," Veyra chimed in, clearly frustrated at Kaelion being questioned over her. "They have begun to question your control over her."
+
+The Chairman clicked his tongue and fell into thought. In a way, he had been asking Kaelion in hopes of getting a different answer. Perhaps an untrodden path forward. Unfortunately, it was as he feared.
+
+Veyra nodded at his reaction, "Chairman, they know, and your reaction to the Crestfallen project falling through only highlighted it further. The winds of change are already blowing. We need to prepare, lest they turn into fierce gales and blow down your tower of sand."
+
+"Tower of sand," The Chairman snorted, "My rule is as deeply rooted as the World Tree's roots are in the soil far beneath us."
+
+Veyra and Kaelion exchanged a look that made the Chairman frown deeply. "Fine, what should I do, Veyra?" She always knew the answer to these types of problems.
+
+"You know there's only one thing you can do, Chairman."
+
+The Chairman closed his eyes with a deep feeling of resignation. He knew what Veyra spoke of, but it was always a profoundly unpleasant experience. "Very well, there's nothing else to be done," The Chairman slowly opened his eyes and looked into Veyra's. "I will convene directly with the World Tree in the presence of the council. Prepare my defensive artifacts and inform the others of this meeting. I will cultivate and mentally prepare in the meantime."
+
+Both of his attendants bowed and left to fulfill his orders. The Chairman stared down the now empty corridor before turning and leaving himself. There was much to prepare, as one did not simply step into the Inner World of a Monarch realm being such as the world tree—especially one that was understandably antagonistic toward him—and expect to survive.
+
+When was the last time we spoke? It must have been almost two decades ago when I told the World Tree that her daughter had been born and that the Crestfallen project had been a success. No, wait, the last time was when I told her that her daughter had been kidnapped. The Chairman frowned deeply. This is going to be unpleasant, to say the least. I doubt she will be happy to see me.
+
+***
+
+Weeks passed, and the time to converse with the World Tree quickly approached. The Chairman stood alongside many council members on a floating island of Empyrea that was around halfway up the World Tree's heaven-piercing trunk. As burrowing into the World Tree's bark was almost impossible, Empyrea was initially built around the tree's roots. As Empyrea's population exploded due to the safety from the beast tides provided by the World Tree, they had to seek new land. As space on the ground was limited, they built upwards. Grand spires rose toward the heavens, but that wasn't enough. Only with the invention of spatial gates was true expansion possible, with cities sprouting up on the World Tree's vast branches and later floating islands between them.
+
+Many centuries ago, the immense population around the World Tree became too hard for the Chairman alone to manage. He split the Celestial Empire into sections and entrusted his close aides at the time to rule over them.
+
+The Chairman stood on the edge of the floating island and looked down at the Celestial Empire. On the surface, it seemed as vibrant and prosperous as ever. But he knew that what had once been a land ruled in harmony was now plagued with ill intentions and personal agendas. Most of those he had trusted in the past had died, many with a dagger in the back by their own family.
+
+In fact, he could pinpoint the exact moment everything had turned sour. Turning around, he looked at a large grotesque hole in the World Tree's trunk of unknown origin or purpose that had opened one day and given direct access into the World Tree's Inner World. It had opened long ago, and he had monopolized it for a long time.
+
+It was a day similar to this one when everything fell apart. I still remember it well. People started questioning my rule, so I showed them this and my relationship with the World Tree. The Chairman rubbed his finger on an amethyst gemstone ring. It was one of the most powerful artifacts he owned, as it let him talk with the World Tree and not have his consciousness collapse in the process. Even with my Monarch Realm cultivation and my own Inner World, I don't stand a chance against a divine being.
+
+"Chairman, are we going to stand around all day like perched birds waiting for a change in the season?" a man with slick-back white hair and a gentle smile said calmly, drawing the attention of the other council members.
+
+"Councilman Faelorian Lysanthos, please be patient. We will enter soon." The Chairman replied, and the leader of The Flower Accord returned a simple nod. While The Flower Accord wasn't openly antagonistic to his Empyrea faction, it was always hard to know what they were thinking.
+
+The Flower Accord lorded over The Blooming Citadel, located at the base of the World Tree in the vast city of Floridawn. It was known to mortals as the city of eternal spring and was renowned for its living architecture, where buildings made from Qi-enhanced trees and flowers blended seamlessly into the exposed World Tree roots that looked like mountain ranges. Due to the rich soil and Qi-filled air, the people of Floridawn lived in a paradise, were able to focus more on the arts, and enjoyed month-long festivals.
+
+Faelorian Lysanthos's elegant robe showed as much. It was a subtle purple embroidered with golden floral patterns, such as lotus blooms, peonies, and vines, intricately stitched with thread infused with Qi, causing them to shimmer faintly in the light. Along the shoulders and cuffs, there was a green and silver accent. As a final touch, higher-ranking members of The Floral Accord had specific flowers embroidered to represent their personal philosophy or achievements. For Faelorian Lysanthos, he had a Silverthorn lily, a pristine white flower with subtle, thorn-like veins of silver that ran through its petals. He had never been close enough with Faelorian to learn its meaning to him, nor did he care to ask.
+
+Best to keep a distance from The Flower Accord. While they seem happy and peaceful on the surface, I bet those subtle thorns of the Silverthorn lily represent Faelorian's ambitions.
+
+A sudden black tulip rose from the ground. It was massive and had an unsettling aura, yet nobody seemed perturbed by its presence. The curved petals of the flower slowly peeled away, revealing a woman. She wore deep ebony robes adorned with delicate silver embroidery that mimicked the veins of leaves. The fabric shimmered faintly, giving her an almost spectral appearance. The seductive robes hung tightly to her figure as if trying to guide the onlooker's gaze up her figure to a blacker-than-night mask with an eerie smile painted onto it, obscuring her face. It was the source of her unsettling aura, as if the mask was cursed and alive.
+
+Mistress Veilshade finally arrives. The Chairman thought with a distaste growing in his mouth. My faction wouldn't be so pressured if not for her and the Umbraholme's snooping.
+
+While he had control over the Eternal Pursuit Pavilion, an information guild he had founded in his youth, a more brutal competitor for information exchange had arisen out of Umbraholme. A city nestled deep within the densest foliage of the World Tree. It's a city known to be in perpetual twilight as the light filtered through the World Tree's vast canopy, creating an eerie, showy ambiance that enshrouded the whole city.
+
+While he hadn't visited Umbraholme in a long time, when he last stepped foot in that city, he felt unnerved by the city's architectural blend of sleek, dark stone and bioluminescent vegetation. People shuffled about the darkness in silent solitude as if every corner they turned could be their last.
+
+That was the type of place Umbraholme had become under the leadership of Mistress Veilshade. A floating island of darkness and death.
+
+"Sorry, I'm late," Mistress Veilshade said as she stepped off her flower, which withered to dust in her wake.
+
+"Now that we are all here, let's not waste any more time." The Chairman declared with a slight edge of spite in his tone as he glared at Mistress Veilshade before walking past her and taking the lead.
+
+"Always such a warm welcome, Chairman." Mistress Veilshade laughed, her voice ever so slightly distorted by her mask as she joined the other council members following him into the tear in the World Tree's bark.
+
+The Chairman ignored her, focusing entirely on the upcoming meeting with the World Tree. He had lived too long to feel nervous about anything, but he could still feel fear, and the World Tree was one of the few beings that still made him feel this primal emotion.
+
+Divine energy flickered around the entrance like aggressive snakes, and an oppressive aura that made his skin prickle emanated from deep within. It was as if he instinctively knew a sleeping beast was awaiting inside, and to step within its territory would spell a swift death. He played with the amethyst ring on his finger to settle his fears.
+
+"It goes without saying, but the World Tree is not to be taken lightly." The Chairman said seriously, "Do not think your Monarch Realm cultivation can compare to hers, especially not inside her Inner World. A misstep and she will crush your soul. Stay near me so I can protect you all. Understood?"
+
+"Yes, Chairman," they all replied in unison. The Chairman smiled slightly. They all seemed to oppose him during meetings in recent decades, but when it came time to meet with the World Tree, they remembered their place and fell into line.
+
+Let's do this. The Chairman took a deep breath before stepping into the slumbering god's domain. Divine energy crackled around him, lashing out against his skin like static. It burned his Qi, but he managed to ignore this much by mobilizing his Monarch Realm Qi to coat his skin. If he were not at such a level, he would surely be pulverized before he ever stepped through.
+
+A blinding kaleidoscopic light enveloped his vision as he felt himself step through to somewhere new. The fresh air around the World Tree was replaced with the heavy scent of ancient rain, blooming flowers, and earth as old as time itself. The oppressive aura of abundant life washed over the Chairman as he fully stepped into the World Tree's Inner World.
+
+No matter how often he came here, it was a life-changing sight.
+
+He was standing on a glowing bridge made of interwoven golden roots. The roots pulsed with a gentle light, like the veins of a living being, toward a central point. Yet he couldn't help but have his gaze drawn toward the sky. Above him was a vast canopy of floating shimmering leaves that appeared translucent, like stained glass. Yet within them, miniature worlds thrived—purple forests of poisonous flora, chaotic oceans of darkness, and ice volcanos. Anything one could imagine could be found in these worlds.
+
+As he watched them, the Chairman wasn't sure why, but he knew the World Tree didn't control these worlds. These leaves simply served as a window into their existence, as if she wanted to watch over them from afar. Though as if appreciating the World Tree's interest, motes of Qi, like colorful snowfall, fell from the canopy of worlds and joined rivers of soft auroras that wove through grand spires of crystalline trees that rose from the abyss on either side of the bridges. The place was further illuminated by lazy clouds of stars, pulsing like radiant orbs in the sky.
+
+After absorbing the greatness of creation for a moment, the Chairman returned his focus to the central point of this realm. It's where the ruler of this place resided, at the end of the golden bridge.
+
+Sitting upon a throne of branches and roots was the avatar of the World Tree's soul. A youthful and radiant figure made from glowing bark and soft light. The Chairman gulped. This Inner World already made him feel small, yet he was barely the size of the avatar's finger—not that the World Tree's avatar was human or even humanoid. It was something indescribable, a vague collection of raw power that had taken form. It was his own mind that seemed to form an appearance in a desperate attempt to comprehend what he was seeing.
+
+The Chairman didn't dare take a step forward. This was as close to the avatar as he was willing to go.
+
+"World Tree, I have come to talk."
+
+An aura of pure rage surged toward them from the throne down the golden bridge like a roaring tsunami. The Chairman raised his ring, filling it with Qi and conjuring a barrier that enveloped himself and the other council members. It was pathetic, but they were forced to cower behind it and wait for the World Tree's rage to subside. A scream of profound pain echoed through the realm from the avatar, making the spires of crystalline trees flash with power.
+
+"I know you are in pain, but you have to understand—" The Chairman choked on his words as the scream ceased and the World Tree's intense gaze landed on him. Defensive artifacts activated, stopping his body from being crushed into a pulp. His consciousness, however, quaked as the World Tree spoke, not in words but in meaning. Directly into his soul, a voice woven from the whispers of the wind, the crash of waves, and the deep groan of mountains thundered through his very being.
+
+"I have no need to speak with dead mortals." The words appeared in his mind, built from flashes of intense emotions from the World Tree.
+
+The Chairman smiled awkwardly. These were words he received from a being he had helped raise and had known for longer than the Celestial Empire had stood tall.
+
+"World Tree, I am alive, am I not? Why do you condemn me as dead?"
+
+"You misunderstand and exploit my kindness," the avatar said, standing and looming over them like a titan. "You puny mortals drink my sap to extend your pathetic lives, thinking I can't fight back. Well, that ends soon."
+
+"She can fight back?" Mistress Veilshade said without hiding the fear and astonishment in her voice.
+
+"Mother nature would never do such a thing," Faelorian said before pausing, "Right?"
+
+The Chairman raised his hand, silencing the chatter between them. While the World Tree was old and timeless, it was sometimes immature and easy to read. He had a sinking feeling about the World Tree's plan, but he had to confirm it.
+
+"World Tree, we protect you from the beast tides. If we were to die, so would you. Tell us, what do the threads of fate say about our futures?"
+
+"Death under a thousand fangs, and your corpses will be ripped to shreds by a thousand claws."
+
+The Chairman's eyes narrowed, "Death by so many fangs and claws? That could only be in reference to the beast tide. You're bringing it here? Are you a fool? If we die at the hands of the beasts, you will be next."
+
+Ancient laughter boomed through the space, shattering the purple shield they were still cowering behind.
+
+"I'm a true immortal being. Even if I were to die at the claws of the beasts I draw here, I would be reborn again. Such is the endless cycle. Meanwhile, your deaths will be gruesome and, most importantly, permanent."
+
+"Tell her to stop this madness, Chairman." Faelorian Lysanthos demanded. "To bring the beast tide here, that's insane! The beast tides have always avoided this place. We aren't prepared for it."
+
+"I... can't stop her." The Chairman admitted through gritted teeth. "The only hope is if we get Stella Crestfallen back—"
+
+"Foolish mortal," the World Tree bellowed as a root of blinding power erupted from the ground before her like a pillar of light, "Stop trying to use my daughter to control me. She is destined to save me, not serve as your hostage."
+
+The Chairman grimaced, "And how do you know that?"
+
+"Because we share the same blood," the World Tree said as the blinding root glowing with power fell down before her, crashing into the bridge and destroying it in a wave.
+
+"Run!" The Chairman shouted, but the seasoned cultivators around him were already on the move. Their Monarch Realm souls hummed with power as they teleported using various techniques to escape the World Tree's Inner World.
+
+The world seemed to explode around them as they barely managed to make it through the tear, returning to the world outside the World Tree.
+
+"What in the nine realms was that?" Faelorian Lysanthos shouted, his usual calm and peaceful demeanor gone. "The beast tide is coming here? Floridawn is on the ground and will be the first hit. I refuse this."
+
+"Don't worry, we should have three more years," The Chairman said, trying to calm him down.
+
+"Oh, Chairman, you don't know?" Mistress Veilshade said with some amusement.
+
+"I don't know what?" He snapped. Now wasn't the time for her games.
+
+"The beast tide," Mistress Veilshade tilted her head in apparent amusement, "It's already on the move. Sources say it's nearing the Blood Lotus Sect. You know... the last known location of your precious little experiment."

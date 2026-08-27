@@ -1,0 +1,143 @@
+---
+id: 0ba72e5f-94c8-5b72-9b7f-036d5fed6fac
+page-type-slug: story-chapter-royal-road
+title: "Chapter 554: Matter of Time"
+slug: 0121-chapter-554-matter-of-time
+partOf: rise-of-the-living-forge
+position: 121
+ownLength: 1789
+unit: words
+ownProgress: 1789
+publishedAt: 2026-02-05
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3015300/chapter-554-matter-of-time"
+royalRoadId: "3015300"
+markedReadAt: "2026-06-29T20:02:18.618Z"
+---
+
+“We have bigger problems than Dorne,” Rodrick said. He interlaced his fingers on the table and leaned back in his chair. “Well. Not problems. But Dorne won’t be one from here on out. So we can focus on the things that actually interest us… such as figuring out who the next person to Sunset should be. That is… assuming Eleven is going to be taking someone else?”
+
+That got everyone’s attention pretty quickly. Everyone turned to look at Koyu. The tall lich paused, clearly somewhat uncomfortable with all the gazes suddenly directed at him. Then he inclined his head slightly.
+
+“She said she would take another when we were ready. It seems they are unused to the rate at which the Menagerie’s members have been able to adapt.”
+
+“That might be because we’ve sent all the crazy ones first,” Anna said through snort of laughter.
+
+“Is that meant to imply someone in the Menagerie isn’t at least a little bit whacked in the head?” Vix asked. “Because I’ve yet to meet them.”
+
+“I take offense to that,” Moncia said. The orc crossed her arms in front of her chest and narrowed her eyes. “I am perfectly normal. This is just my day job.”
+
+“How many other orcs do you know working as bouncers for a tavern?” Lillia asked. “For that matter, how many orcs do you know that have married humans? You and Raen might be among the strangest we’ve met. Not all power is physical. Going through all the difficulties you must have faced just to be together isn’t the kind of thing a normal person would be able to do.”
+
+“I’m not sure if I should take offense to that or not,” Raen said. His voice was slightly muffled by the fact that his head was still rested on Monica’s lap. “But I’ll just treat it as a compliment.”
+
+“Well, either way, I certainly can’t go,” Vix said. “My heart is… well, you know. Don’t want to mess with anything so soon after swapping out one of my slightly more important internal organs. That seems like a recipe for disaster.”
+
+“And I’m not going anywhere until we know Vix is perfectly safe,” Anna added. “Especially with the auction coming up. We’re going to need a healer on hand for when things inevitably go bad.”
+
+“I have not yet grown accustomed enough to my class to want to Sunset,” Kien said. He laid his hands over each other.
+
+“Me too,” Thane said. “Also, don’t we kind of have this whole thing every time someone comes back? Shouldn’t we find an easier way to pick people or something?”
+
+“Of course not,” Esmerelda replied with a scoff. “This is fun. And I have no need for Setting Sun’s services. My class is already dealt with, and I won’t have anyone’s grubby little fingers trying to mess with it again. Madiv obviously can’t go either. He’s occupied for the auction.”
+
+“What about Vanessa?” Thane asked.
+
+Arwin shuddered at that thought. The thug was already more than competent enough as she was. The idea of letting her become even more of a menace was a mildly terrifying one. But she really hadn’t been with the Menagerie for all that long.
+
+“That might be a bit too fast,” Arwin said with a shake of his head. “She’s a new member. And, technically speaking, I don’t know if she’s fully onboard or not. I’d wait longer before offering something like this to her. But, speaking of which, where even is she?”
+
+“Keeping an eye on the shop,” Esmerelda replied. “Some of the weapons have been getting antsy. They’re terrified of her, though. She does a good job keeping them in line.”
+
+That gave Arwin a moment of pause.
+
+The devils are… scared? Of Vanessa?
+
+Why?
+
+He see tell the same question on Lillia’s expression. Neither of them chose to voice it. Experience came with the knowledge that there were some questions that one really just didn’t need the answer to. If Esmerelda felt it was important, she’d tell them.
+
+“What about Elias or Maeve?” Arwin suggested.
+
+Elias’ head shot up. The man rarely spoke during dinner. It was actually somewhat rare for him and Maeve to make an appearance. They tended to spend just about all of their time in dungeons or searching for fights.
+
+Even though everyone in the Menagerie already knew that Elias was a monster, he still clearly didn’t feel comfortable removing the protective wrappings covering his body. He’d only moved enough of the coverings to let him shovel food into his mouth.
+
+“What?” Elias asked.
+
+Beside him, Maeve tilted her head to the side.
+
+“That’s not a bad idea at all,” Arwin said. “What about you or Maeve? Would either of you be interested in Sunsetting? You haven’t been here for the previous conversations, so I don’t think you’ve been offered it before.”
+
+“We’re monsters,” Elias said. “I might not be about to fall apart anymore, but—”
+
+“How does that matter?” Arwin asked, his brow furrowing. “Lillia is a demon. I don’t think the Mesh is going to see you or Maeve any differently than her, is it?”
+
+Elias hesitated for a moment. “I suppose not. To be honest, I haven’t thought of it.”
+
+“Wait,” Thane said. He squinted at Elias, then looked to Maeve. “Monsters? What kind—”
+
+“Later,” Lillia said, raising a hand. “I think we all know what’ll happen if you get going, Thane. You’ll have to save your questions for another time.”
+
+Thane coughed into his fist. “Right. Sorry.”
+
+“It’s fine,” Lillia said. “But Arwin has a good point, Elias. Both you and Maeve are more than capable of Sunsetting your classes if you want to. Being a monster isn’t going to interfere in that.”
+
+Elias didn’t respond for several moments. Then he glanced at Maeve. Neither of them said a word. As always, they didn’t seem to need to speak to communicate. The two were just silent for several seconds.
+
+Then Maeve nodded slightly.
+
+“Maeve is open to it,” Elias said. “She’s willing to try if you’re offering the opportunity and if nobody else would prefer to go first.”
+
+Everyone glanced at each other. Nobody voiced any dissent. Just about every member of the Menagerie was a little bit too busy with the upcoming auction. There wasn’t anyone that they could afford to spare at the moment.
+
+Elias and Maeve were both competent fighters, but the Menagerie had quite the significant amount of defenses already prepared. Letting one of them go Sunset their class was actually the least likely to negatively affect the outcome of anything that happened to the auction.
+
+“Then it sounds like it’s decided,” Arwin said. “Maeve will go. We’ll just have to find Eleven, who definitely isn’t invisible and lying in one of the empty chairs.”
+
+A shimmer passed through the air. Eleven appeared near the end of the table, her head propped up in both hands.
+
+“Am I really getting that predictable?” Eleven asked. “I knew Lillia was aware of my presence. But you’ve got no way to sense me. Did you really just read me off a pure guess?”
+
+“You do, like, one thing,” Arwin said. “It really wasn’t that much of a leap.”
+
+“I’d be offended if I could be bothered,” Eleven said through a yawn. She pushed herself upright and shook herself out. “Right, then. We’re bringing the… what are you, actually?”
+
+“A Siren,” Elias said. “She avoids speaking whenever possible. It has… unfortunate side effects if she isn’t careful.”
+
+Eleven’s head tilted to the side as a shimmer of interest passed through her features. “Now that’s interesting. Sirens… I’ve heard rumors that their voice can sing someone into the greatest sleep of their life. Is that true?”
+
+“Maybe she can show you after her Sunsetting is complete,” Elias said. “But she doesn’t like using her abilities when they aren’t needed.”
+
+“A good night’s sleep is always needed,” Eleven said. She stretched her arms over her head, then shook herself off. She snapped her fingers, tearing a portal in the air open in the ground at her feet. “No matter. On we go. This is the easiest job I’ve had in a while. It’s rare I get to just be a ferryman. There’s so much extra time to sleep. I’m not wasting that time talking.”
+
+Maeve rose to her feet. She exchanged one last silent look with Elias before walking over to join Eleven.
+
+“Mind if I take this?” Eleven asked, glancing at a plate of food on the table.
+
+“Go ahead,” Lillia said.
+
+“Thanks. I love you guys,” Eleven said. “See you soon.”
+
+Maeve dropped into the portal. Without another word, Eleven walked after her. The magic snapped shut behind them.
+
+“She’s a Siren?” Thane asked, his eyes sparkling. “I’ve never met a Siren before.”
+
+Poor Maeve. Something tells me she’s not going to get much time to readjust when she makes it back after completing her Sunsetting. Thane is going to be at her door with a quill and paper to get every scrap of information he can.
+
+“We will not need the backup,” Madiv said. “The preparations have gone very well. I am already just about ready to hold the auction, even if it was tomorrow. All that is missing are the final pieces we’re going to sell.”
+
+Everyone exchanged a glance.  The time until the auction was countable in a matter of days, now. They were so close. Arwin could barely even imagine the new materials and connections this would net them. He didn’t even care about the gold that they’d earn.
+
+This auction was going to be their next step in positioning themselves to take on the Adventurer’s Guild. If it went well, he’d have the resources to continue building the most powerful armor possible for the rest of the Menagerie. It also had the added benefit of swaying the Dwarven Council.
+
+If we pull this off, we might be able to get closer to convincing them to start pulling some of their support from the Adventurer’s Guild. They only care about money and power. I doubt there’s any real loyalty there. Every scrap we take from them is one that the Guild doesn’t get.
+
+But Arwin had no doubt that, if the auction went well, there was absolutely no way that it would fly under the Guild’s nose.
+
+It was only a matter of time before the guild investigated them. And when that time came…
+
+Arwin’s jaw set.
+
+He’d be ready for them.
+
+One way or another, the reckoning that he’d been preparing for ever since he’d awoken with his new class was growing closer — and Arwin planned to make sure that every single member of the Menagerie lived through it.

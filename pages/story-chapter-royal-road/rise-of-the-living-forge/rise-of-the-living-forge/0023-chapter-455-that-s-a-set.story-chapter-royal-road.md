@@ -1,0 +1,127 @@
+---
+id: 7f988383-d526-5fb9-a61f-f7bc74365528
+page-type-slug: story-chapter-royal-road
+title: "Chapter 455: That's a set."
+slug: 0023-chapter-455-that-s-a-set
+partOf: rise-of-the-living-forge
+position: 23
+ownLength: 1549
+unit: words
+ownProgress: 1549
+publishedAt: 2025-07-15
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2437202/chapter-455-thats-a-set"
+royalRoadId: "2437202"
+markedReadAt: "2026-06-29T19:59:11.779Z"
+---
+
+Arwin had lost track of where his shirt ended and his back started. There was so much sweat soaking the cloth to him that they may as well have melded together.
+
+Lava bubbled in the gouges running along the floor of the armory. Heat stung his eyes and bit at his lungs, and the ringing clang echoed in his ears long after he’d stopped using Caldera and had shifted to working with his hands.
+
+Exhaustion beat on the door of his consciousness. His magical reserves were just about drained. Wallace and Koyu didn’t look much better. Even the Infernal Armory had spent every single scrap of power it had to offer.
+
+All of them had put every scrap of strength they had into the armor before Arwin. Now, all that remained was to put in the finishing touches. Everything was so close, but the sheer amount of magic contained within the metal before him left absolutely no room for delay or error.
+
+If there were any imperfections in the work, the armor would only be made at a fraction of its potential at best. And at worst… well, there wouldn’t be much to worry about anymore if that were the case.
+
+Arwin was pretty sure the armor had enough power in it to send the entirety of the Infernal Armory into the next life twice over. He didn’t want to find out.
+
+His fingertips tingled so violently that it felt like he’d stuck them into a beehive as he worked. Magic practically seared itself into his flesh and the armor alike. Arwin ran his hand down the side of the sleek, bronze armor.
+
+It wasn’t just a single piece. They’d made the entire set, from head to toe, in one go, connecting every single part of it on a level far deeper than any normal set could be.
+
+Shapes shifted within it. The base metal was almost like a gossamer sheet catching and twisting the light. Regal accents of gold trim highlighted the piece and spiked protrusions coiled like the spines of a dragon along the outer edges of the gauntlets and greaves.
+
+The helm bore two curling horns on either side of its head. They framed an intricate faceplate strongly inspired by Arwin’s original Ifrit design, but now complete with a flexing joint at the jaw. Its mouth was permanently split into a savage smile. Jagged metal spikes lined the mouth, acting like razor-sharp teeth that would tear through anything that dared stand in their way.
+
+Sharp pauldrons framed the edges of the chestpiece, sculpted from crimson metal into the shape of roaring flames. Their pattern continued into the armor below, shimmering within as if real fire danced within the metal. If someone could seal the very essence of a forge into a piece of equipment, this is probably what it would have looked like.
+
+Arwin’s arms groaned in protest as he squeezed the final iotas of strength out from himself to shove them into the armor. The Mesh hummed around him with such intensity that a part of him felt like it would claim the armor finished before it was done.
+
+But it didn’t. The Mesh bided its time and waited as Arwin applied the final touches — a tiny adjustment to a flame at the edge of a pauldron, a small adjustment to one of the armor’s teeth.
+
+He worked until there was nothing more that he could find. Nothing more that he could change.
+
+Finally, his arms fell.
+
+Arwin swayed in place, the only thing holding him upright the black tendrils connecting him to the walls of the Infernal Armory.
+
+And then he did the only action left available to him — to any of them.
+
+He waited.
+
+And the Mesh answered.
+
+A shrill scream tore through the armory as a brilliant golden flash tore through the air. An enormous wave of pressure exploded out from within the finished armor set. The floor vanished from beneath Arwin’s feet as he found himself launched backward and sent hurtling into the wall of the armory. All the wind was knocked from his lungs in a surprised wheeze.
+
+Two more thuds marked Koyu and Wallace slamming into the walls on the other sides of the smithy.
+
+Arwin fought to draw in a breath. Pressure squeezed him against the wall like it was trying to wring him for juice. He gritted his teeth and forced a hand into the air, squinting through his fingers to try to make sense of what was happening.
+
+The chance never came.
+
+All the pressure bearing down on him suddenly seemed to change its mind. Instead of trying to squeeze him into paste, it suddenly slipped through his skin to enter into his very soul. Arwin drew in a sharp, shocked breath.
+
+Power poured into him. Magical energy the likes of which he’d never felt ignited behind his eyes and burned at his throat. It pumped through his veins like liquid magma and worked its way into his heart, filling him to the very brim.
+
+And only then did a brilliant chime tear through the air in a rolling boom. The thunderous noise dismissed the light like a god banishing a servant, tearing it from the sky in an instant.
+
+Heart hammering in Arwin’s chest, he blinked the stars away from his eyes and staggered to his feet. Shimmering windows from the Mesh danced around him in a golden dance. Arwin paid them little attention for the moment. He only had eyes for one thing — the armor in the center of the room.
+
+On the other sides of the smithy, both Wallace and Koyu rose to their feet as well. A silence hung in the air.
+
+This was far more than just the culmination of a day’s efforts. It was all the research. All the work that had gone into making other equipment to trade for the invaluable materials that had gone into the set — many of which they had no more extras to work with.
+
+Unfortunately, the Mesh would not be denied. The golden windows jerked into view right in front of his face, leaving him with no choice but to gaze upon them. Arwin went to swipe them out of the way. Then he paused.
+
+His breath caught in his chest.
+
+Your Tier has raised by 2 ranks.
+
+You have advanced to [Adept 5].
+
+New Skill Choice Available.
+
+[Mix and Match] has been consumed.
+
+[Core Skills] has been consumed.
+
+[Banging Them Out] has been consumed.
+
+[Pathetic] has been consumed.
+
+Achievement: [The Approaching Storm] has been earned.
+
+[The Approaching Storm] – Awarded for forging an entire Legendary Set in one fell swoop. Effects: One skill in your next Skill Selection has been upgraded. This achievement will be consumed upon choosing your next skill.
+
+Arwin swallowed. And that wasn’t even all the messages. It was just the ones that had been closest to the forefront. But what he saw froze him in his tracks. Any other thoughts he’d had momentarily sputtered out as his brain short circuited.
+
+His mouth felt dry. As little as he wanted to read the Mesh’s messages right now, his eyes couldn’t help but get caught as he looked past them.
+
+He did a double take.
+
+Than a triple.
+
+Arwin’s heart started to beat faster in his chest. His lips parted in disbelief. The words before him couldn’t be true. But they had to be. The Mesh was a great many things, but a liar was not one of them.
+
+He barely even realized that he’d leveled up — though he certainly didn’t miss the fact that he had a new ability to claim and had finally landed at Adept 5. No, his attention was on the final message.
+
+It might have been the most important one of all. A laugh started to bubble up from Arwin’s lips as he read it for the third time in a second, his exhausted eyes finally proving beyond a shadow of a doubt to his mind that they hadn’t been making something up.
+
+He didn’t even need to see the armor.
+
+They had succeeded.
+
+The proof was right there in the message before him. They hadn’t just created any mere set of equipment. They hadn’t just managed to use a combination of smithing techniques that had never been put together in the history of the kingdom, to have a human working together with a lich, a dwarf, and a sentient building for a common goal.
+
+Laughter started to echo through the building. Red mist coiled around Arwin and danced through the air above him as the Infernal Armory shook with unrestrained delight.
+
+“It’s done!” the Armory exclaimed. “My body is complete!”
+
+The four of them hadn’t just succeeded — and they hadn’t even just made a single Legendary item.
+
+They’d made a whole damned set of them.
+
+Arwin had seen a great many magical items in his time. He’d wielded weapons with power that should have been incomprehensible to just about anyone in the kingdom. But now, as he looked at the equipment that was a step beyond a prototype in the center of the Infernal Armory, he knew one thing with complete certainty.
+
+The armor before him was, without a doubt, the most powerful set that Arwin had ever seen.

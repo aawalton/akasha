@@ -1,0 +1,119 @@
+---
+id: 3ff0a3be-fdcf-50a7-bc98-916139756ce4
+page-type-slug: story-chapter-royal-road
+title: "Chapter 495: Guarantee"
+slug: 0062-chapter-495-guarantee
+partOf: rise-of-the-living-forge
+position: 62
+ownLength: 1766
+unit: words
+ownProgress: 1766
+publishedAt: 2025-10-02
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2646104/chapter-495-guarantee"
+royalRoadId: "2646104"
+markedReadAt: "2026-06-29T20:00:25.157Z"
+---
+
+Arwin beat his own estimations. It took him a grand total of several hours to create the communication devices that Lillia had requested. They actually turned out to be surprisingly simple.
+
+There were really only two challenges within the creation. The first was a way to keep the network of items expandable. They only needed a single ‘mother’ piece that all the ‘daughter’ pieces communicated to, but there would have to be a way for him to continuously add new devices to the network.
+
+The most logical way to pull something like that off was to have a common element between all of them. Like a giant, expanding set. But that didn’t mean he could just use lizard scales for every single device he made.
+
+If the scales came from different lizards, they’d have no connection. What he needed was a functionally endless resource that could constantly be drawn from. Something with a close connection to the Devil’s Den… and something that wouldn’t let anybody use it to somehow harm the Devil’s Den through sympathetic magic.
+
+Arwin had learned enough from Twelve to know that leaving easy connections for anyone to strike at them through was a remarkably bad idea.
+
+The answer had been simple.
+
+Lillia’s garbage. Specifically, all the components that her cooking didn’t end up using. Her magic lingered upon the garbage’s surface, but only in passing. It was just enough to form a temporary connection that would last, as far as Arwin could guess, a few days at most.
+
+All he had to do for the daughter pieces was to encase the scraps of garbage within two pieces of interlocking metal, almost like an unfinished puzzle. When they were twisted together, a connection would establish between the daughter and mother device for a short while — which was just long enough for a delivery to take place.
+
+Any devices taken too far away from the Devil’s Den would struggle to have a good connection, but that could always be improved in the future. Arwin didn’t forsee it being a particularly difficult task.
+
+As for the mother device — he made a clock.
+
+It felt like the right idea at the time. Wallace lended a hand, creating a few pieces for Arwin while he built a more permanent connection to the Devil’s den by kidnapping a piece of coal from Lillia’s kitchen.
+
+The coal went into a compartment at the back of the clock. It could be replaced at will. That lack of deep connection to the Devil’s Den further ensured nobody would be able to use sympathetic magic to harm anything important. Any attacks made through the connection would just end up destroying the coal and would leave everything else unharmed.
+
+As it turned out, Wallace had some extensive experience with artisan creations. The moment he came back with the pieces he’d prepared to help Arwin, he also pulled out a number of gears and little trinkets that Arwin had never even seen before.
+
+The dwarf was so excited to make the clock that Arwin barely even got a chance to see half of what he was doing. He just focused on making sure the magic entering the clock held the right intent and using the components that were most willing to work with him.
+
+And then, just a few hours after they had started work — and late in the morning on the day after Arwin had gotten his class Sunsetted — the mother device was done. It was one of the first entirely non-combat oriented items that Arwin had ever made, but he was quite satisfied with the result.
+
+Eat-o-Clock: Epic Quality
+
+[Mother Daughter Array]: The Eat-o-Clock is capable of sustaining connections to [50] daughter items using the item within its core. Connections are created by touching the daughter items to any part of this item’s surface.
+
+[BRRING]: When a daughter item activates the connection between itself and the Eat-o-Clock, the Eat-o-Clock will ring. It will also distribute a [Tracking Bracelet].
+
+[Tracking Bracelets]: The Eat-o-Clock automatically presses temporary [Tracking Bracelets] into being upon the activation of [BRRING] by connecting premade bracelets with small pieces of the core item inside it. They will function for the duration of the connection between the Eat-o-Clock and the daughter item. This ability will not function if there are no materials to create bracelets from.
+
+[Forged For One]: This item was forged specifically to be attached to the Devil’s Den. Its abilities will not function for any other users.
+
+The system was all neatly contained. All he had to do was make blank metal bracelets for the clock, add them to the box along with the piece of coal, and then the clock would handle everything else for him.
+
+Completing the magical item had also rewarded with something that Arwin hadn’t felt before. Just with all the other items he’d made, it had granted him magic when he’d finished making it. But this time had been different.
+
+The magic still entered his body, but it felt… directionless. It just lingered within his soul like an unwound spring. Arwin didn’t feel any direct increase in his strength yet. It was almost as if the power was waiting to be used.
+
+This had to be what the Mesh had spoken of — allowing him to distribute his power how he saw fit instead of letting it do it for him. Arwin resolved to look further into it after he got Lillia the newly created Eat-o-Clock, which already had five blank bracelets readied within it and ready to use.
+
+Arwin and Wallace carried the fruits of their labor into the Devil’s Den. The tavern had already re-opened to the public, and there were more than a few interested gazes that lingered on their backs as they entered the kitchen.
+
+“Whoa,” Wallace said as a box of vegetables hurtled past his head, ferrying its contents away from a sloshing sink and over to where Lillia stood at the far end of the kitchen. The entire room was alive with dancing metal and dishes that flitted in every direction, somehow never colliding with each other.
+
+“You’re done? Already?” Lillia asked, her eyes going wide as she caught a glimpse of the clock in Arwin’s hands.
+
+He grinned and glanced in the dwarf’s direction. “I got some help. Wallace ended up swinging by at a good time.”
+
+“Set it up!” Wallace said eagerly. I want to see how it works. Delivering food… what a novel concept. I’ve never even thought of it before. The logistics seem difficult. But if you could pull this off, it would be incredible! I could have beer! Whenever I wanted! In my own forge!”
+
+“I’m glad to see your assistance was entirely selfless,” Lillia said with a wry grin. She took the clock from Arwin and examined it, her eyes sparking with excitement. She then set it on a shelf.
+
+The metal box really wasn’t anything too impressive to look at. It wasn’t even technically a clock. It didn’t keep the time at all. The only thing that actually gave it any resemblance to a clock was—
+
+A screech rang out through the kitchen as a slot slipped to the side on the box’s front. A small metal sculpture of a bird in flight shot out form within the box, its wings flapping once as it screeched again. Then it retraced back into the box and went silent.
+
+“It connected to the Devil’s Den,” Lillia exclaimed. “How is this a clock, though?”
+
+“Well, it tells you when it’s time to deliver food,” Arwin said, scratching the back of his head. “Kind of clock-adjacent.”
+
+“Only tells one time,” Wallace said. “Food time. Hence the name.”
+
+Lillia snorted. “Thank you. Both of you. I can’t believe you got it ready so quickly. This is even better than I was hoping. Now all we have to do is wait for Reya and Olive’s marketing to start paying off. Hopefully we should have a few interested people pretty quickly. Is it difficult to make more of the… eggs?”
+
+“Eggs?” Arwin asked.
+
+“The daughter items,” Lillia said. “The clock has a bird, so eggs seems appropriate.”
+
+“Huh,” Arwin said. “They are kind of egg-shaped. And no, it’s not difficult at all. I can do it just about as easily as making a random band to snack on. If Reya and Olive manage to get a ton of interest really fast, I can make some more without any trouble. But you’ve made sure they set the price relatively high, right? This is a lot more effort than just serving a meal to someone at your tables.”
+
+Lillia nodded. “Yes. It’s high enough that I don’t think we’ll get instantly swamped with orders. It costs 50 gold.”
+
+Arwin’s eyes widened. “Holy shit. That’s a good amount. I didn’t think…”
+
+“Neither did I,” Lillia admitted. “But the Mesh enforces fair pricing for me as part of my class. I have to. Don’t know why. But, apparently, that’s how much this service is worth right now. Most people can’t afford such an expensive meal. It’s honestly a bit ludicrious. I’m sure the Mesh has its reasons. There are enough wealthy adventurers that—”
+
+The door to the kitchen swung open and Reya’s head popped in. Her eyes lit up as she spotted the three of them and she stepped inside, closing the door behind her.
+
+“I heard you were back!” Reya said. She was clearly out of breath, and a faint sheen of sweat covered her forehead. She wiped her face with the back of her sleeve. “Did you happen to finish your preparations?”
+
+“…yes?” Arwin half asked. “Is everything okay?”
+
+“Yes,” Reya said. She cleared her throat. “I may have a few clients for us.”
+
+“What?” Lillia’s eyes widened. “So fast? Even with the price?”
+
+“Well… I was having a bit of trouble because of that.” Reya cleared her throat. “So I changed up my tactics.”
+
+“What does that mean?” Wallace asked curiously.
+
+“I remembered how Lillia said her food has a time limit on it to be effective when you eat it,” Reya said. She scratched the back of her head. “So I may have added a guarantee to our offer.”
+
+“A guarantee?” Lillia tilted her head to the side. “What did you say, Reya?”
+
+“Err…” Reya gave them a sheepish grin. “The Devil’s Den now proudly assures all of its customers that, so long as they are in or near one of the dungeons surrounding Milten, their meal will be free if it isn’t delivered to them within 30 minutes of placing an order.”

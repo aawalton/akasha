@@ -1,0 +1,109 @@
+---
+id: bb4a4917-97f0-58b2-8b00-f5f980b12b25
+page-type-slug: story-chapter-royal-road
+title: "567. Recollection"
+slug: 0098-567-recollection
+partOf: salvos
+position: 98
+ownLength: 1522
+unit: words
+publishedAt: 2023-06-27
+link: "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1259680/567-recollection"
+royalRoadId: "1259680"
+---
+
+567. Recollection
+
+I woke up.
+
+I blinked my eyes open as my head spun. The world whirled around me, and I tried to regain my bearings. My head was aching. My entire body stung with an intense pain. I groaned as I got to my feet, before taking in the room around me.
+
+I was still in the Remnants of the First Demon Kingdom. It was a Dungeon— one that existed here in the Netherworld. Previously, I thought that Dungeons were a thing of the Mortal Realm. But now I knew that the Netherworld was just like the Mortal Realm.
+
+Or rather— they were similar.
+
+They both had history. They had kings… whether it was in the past or the present, they had rulers and nations. Society existed in the Netherworld. And it wasn’t an idea birthed here by the Demon King Regnorex.
+
+My father had a kingdom once. Long before Regnorex created his own nation. Back then, Sal had been called Samuel, and he had been known as the Devil King.
+
+I didn’t know how much time I spent, but I spent quite some time exploring Sal’s old kingdom. And I learned a lot. For one thing, I discovered that the Netherworld used to consist of twelve different layers. Now, only a single layer remained.
+
+And it was all because of the corruption.
+
+It was the end of the world. Just as the Kobolds had foretold. The Nexeus was collapsing— its three planes no longer could sustain. Everything was going to come to an end. Eventually. Maybe it would happen in a hundred years. Or maybe it would happen in another ten thousand.
+
+I didn’t know. I just knew that I had met a survivor of my dad’s kingdom— a Primordial Demon named Belphegor who had spent eons locked in battle against the end of the world down below. He led me through the Gate of the Netherworld. He showed me what was left of the second layer.
+
+And he showed me the end of the world. The wall of infinite corruption that was consuming the Netherworld— that which was destroying all.
+
+The corruption spread quickly down there in the second layer. It was more corruption than I had ever seen. And it was nothing like the corruption I had faced before. It was stronger. It was far more potent.
+
+Even the Corrupted Rocks I saw down in the second layer were far more dangerous than the Cursed Boulder I encountered in the Beastmen Plains. Each Corrupted Netherstones I battled would have taken down countless Corrupted Islands with ease. I was certain that if the [Ancient Centinel] I fought in the Bloodied Gulf had unleashed its Grand Skill of corruption against a Corrupted Netherstructure, it would still lose with ease.
+
+The only reason I survived down in the second layer for as long as I did was because I had my Grand Skill with me. And even then, I only escaped with my life thanks to Belphegor’s help.
+
+I left him behind to face the end of the world. I wanted to help, but there wasn’t anything I could do against the wall of infinite corruption. It spawned an entire army of corrupted creatures— creating Corrupted Hellspaces out of thin air.
+
+I would have died if I tried to intervene. So I had no choice but to go. But before I did, I promised I would speak with my dad. I would talk with Sal, on behalf of Belphegor.
+
+And that was what I was going to do now.
+
+“...that is if I can even find my Dad.”
+
+I sighed as I took a step forward. While I was still slightly injured from the multiple fights I had gotten into in the second layer, I had mostly recovered during my sleep thanks to [Rest]. And I was ready to leave this Dungeon— to face the destruction of Revelation above.
+
+After all, I had leveled up plenty of times since descending down this DUngeon. And while many of the levels I had gained were not for my Subspecies but for my Class, I had also gained two brand new Grand Skills in the second layer below. I had even become… partially corrupted? At least, to a certain extent.
+
+I looked down at myself, and there was no veil of corruption coating me. I looked no different than I did before I descended into the second layer and fought the corruption. But I knew that I could call forth its power if necessary.
+
+I raised a hand as I narrowed my eyes. There was a flicker of a glint on my fingertips. An iridescent spark— but not that of divinity or flames. It was a distortion. It didn’t emit light in a way that attracted the gaze. It seemed to shine to hide— to obfuscate, rather than illuminate.
+
+It was an odd feeling. I was still unused to drawing the power of the corruption. But I had the power of the corruption now. It was even the source of one of my Grand Skills. It was my Title too.
+
+So I was much stronger now. I was healed and ready to fight unlike when I first returned to the Netherworld.
+
+I could finally seek out Haec again as well.
+
+How much time had passed? I knew that time didn’t flow the same down in the second layer. So it was entirely possible that it had been decades since I last saw Haec, and he had now forgotten about me. Or maybe only an instant had gone by instead, so the days I spent fighting the corruption went by in seconds out here.
+
+Time didn’t flow correctly thanks to the corruption. How out-of-sync it had been… I didn’t know. And the same could be said about the time I spent traversing the multiverse with my dad. I could only speculate.
+
+But that didn’t matter.
+
+It was time for me to leave this Dungeon— to leave the Remnants of the First Demon Kingdom. I started forward as I took in a deep breath.
+
+And I slammed headfirst into an invisible wall.
+
+I scowled as I brought a hand up. It took me a moment, but I quickly realized what was stopping me from continuing on.
+
+“Right— [The World Of My Mind].”
+
+I tapped a clawed finger on the glass-like wall, and the pocket space surrounding me opened. I stepped out of my own little world, before shaking my head. It was my Grand Skill. But it was unlike the other Grand Skills in its application. It was… almost like a passive effect.
+
+I could conjure up this pocket space whenever I wanted. It was no different than when I was able to use [Fragmented Pocket Dimension]. Except [The World Of My Mind] was far stronger— I could use it to transport me and traverse between the folds of the Netherworld without even interacting with my environment.
+
+Just like my dad did when he showed me the multiverse.
+
+But that begged the question— if this was the passive effect of my Grand Skill, what was its active effect? Was there something more it could do that I didn’t know about?
+
+I had just learned it, so I didn’t know for certain. There were a lot of experiments I could do with it. In fact, I could even use [The World Of My Mind] to avoid the destruction of Revelation entirely.
+
+But I shook my head and started past the broken altar, stepping over the pile of ancient collars, before heading up the stairway to exit the Dungeon. I walked with a skip in my step as I ascended the long passageway. I wasn’t going to hide behind my pocket space— I was going to explore the world above.
+
+I knew that it was going to be dangerous. Certainly not as dangerous as the second layer below. However…
+
+I emerged from the stairway, reaching the first chamber I had found myself in when I escaped from the Level 182 [Hellabomination] that had nearly killed me. I teleported in here because I was at death’s door, and I would have been incinerated into ashes.
+
+And yet, now I was going to go back out there. Because I wanted to see how much stronger I had become. I wanted to test myself— and more importantly, I wanted to grow even stronger.
+
+I swept my gaze over the ruins surrounding me. I stared at the broken weapons and the shattered armor littering the ground around me.
+
+I knew what kind of a fate awaited me if I made a mistake. I would perish. But I wanted to test out my new Skills. I wanted to keep my promise to my dad to become the strongest in the Nexeus. But I also wanted to keep my promise to Haec and Belphegor as well.
+
+There were a lot of things I needed to do. And the first step was to leave this place— to face the destruction of Revelation above.
+
+So I grinned as the world warped around me.
+
+And I teleported out.
+
+Now Leaving [Dungeon: Remnants of the First Demon Kingdom].

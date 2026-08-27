@@ -1,0 +1,249 @@
+---
+id: 0a3cb924-1912-5dca-bcd3-e9de5231d705
+page-type-slug: story-chapter-royal-road
+title: "Chapter 13: The White Rain (Part 3)"
+slug: 0014-chapter-13-the-white-rain-part-3
+partOf: quiet-life-of-the-mute-archmage-op-archmage-academy
+position: 14
+ownLength: 2960
+unit: words
+publishedAt: 2026-05-22
+link: "https://www.royalroad.com/fiction/167476/quiet-life-of-the-mute-archmage-op-archmage-academy/chapter/3433995/chapter-13-the-white-rain-part-3"
+royalRoadId: "3433995"
+---
+
+The night wind swept through the wide, afflicted meadow of purplish-brown grass, the blades bowing gently in the cool night air.
+
+A deep sigh escaped the lips of a young woman with light blue hair as she stood at the entrance of a simple cottage. Her orange eyes watched the meadow, observing how the wind combed through the purplish-brown blades as if caressing them. Fiona sighed again, her gaze lifting toward the clear indigo sky where the white rain had fallen an hour before. Now, the full moon shone with its magical silver glow, casting soft, shifting shadows over the land.
+
+"It seems Ren fell asleep." A familiar voice drifted from inside the cottage.
+
+A warm expression settled on Fiona's face as she turned around. Her eyes landed on her mother, Jasmine, who had just emerged from one of the rooms. "Has she fallen asleep already?" Fiona asked.
+
+Jasmine made her way back to the dining chair and sat with practiced calm, briefly glancing at her son, Ren, who had laid his head on the dining table while still seated. Her lips quirked upward in fondness. "She has," Jasmine said, answering her daughter's question.
+
+"Thank heavens she could finally rest." Fiona exhaled in relief while shutting the door with a soft click. "I was worried she might not be able to, which would have been dreadful for her mental state." She walked calmly to the dining area until she stopped right beside her sleeping brother. She leaned in slightly, as if checking whether he was truly asleep. After verifying that he was, Fiona straightened, her eyes briefly flitting to the two empty chairs before she settled into one of them. Her serious gaze locked onto her mother's.
+
+Fiona parted her lips. "Mom, you know me very well." She began. "And you fully know I have a flood of questions that need answers." She spoke calmly, her voice concluding in a low, exhausted tone.
+
+"So please tell me the truth when I ask."
+
+Jasmine gave a short nod, her gaze never shifting from her daughter's.
+
+Seeing her mother's reply, Fiona exhaled in relief. "Alright. Let me start with my first question."
+
+She held her mother's gaze.
+
+"Our ancestor. Who is she really?" Fiona asked.
+
+Jasmine inclined her head upon hearing the question. A ghostly smile played on her lips. "Fiona, do you remember the tale of the burning Fire and the changing Ice?"
+
+"Yes, I remember it very well." Fiona replied, a frown creasing her brow at why her mother would bring that topic up now. But she continued regardless. "Isn't it the story that happened five hundred years ago? The one everyone in the family always tells, as if it's a sacred mural not to be forgotten."
+
+Fiona raised a brow, clearly reluctant to revisit the tale that had been subconsciously etched into her mind because her grandparents had recited the very same story every time she visited them when she was younger.
+
+But by the look of it, her mother's serene expression urged her to remember.
+
+With a tired sigh, she began recollecting. "Five hundred years ago, the era when Sigsug followed the motto 'Only the strong can rule.' The year of coronation for the next ruler's selection took place." She paused briefly, her gaze drifting to Ren, who slept peacefully, oblivious to everything she was saying. A small upward curve graced her lips before she continued.
+
+"Ice had emerged victorious in the battle for selection, proving herself the strongest of all Sigsug's elects, making her the next ruler over the land." Fiona's eyes shifted from Ren to her mother, Jasmine, who already wore a spectral smile on her lips as she listened.
+
+"But on the night of her coronation, Ice rejected the title of ruler, plunging the whole council of elders into confusion with her sudden loss of interest. Based on the law, no other ruler could be chosen through coronation until after ten years, unless the selected candidate was a direct bloodline of the coronated."
+
+Fiona glanced at Jasmine. "So they asked if she wished to choose anyone from her family."
+
+A pause.
+
+"And she chose her younger brother, Fire, bestowing the rulership of Sigsug upon him. At the time, he was just an up-and-coming young elder who helped their parents at the family bakery."
+
+"After the announcement of the next ruler, Ice broke the news to her family that she would be leaving Sigsug to fully pursue the fundamental part of magic. But the real reason she did that wasn't because she thought herself unworthy to rule the people." An amused expression surfaced on Fiona's face.
+
+"It was actually because of something else, something far deeper and more mysterious that even Fire, the brother she trusted with all her heart, never knew, even until now." A sigh escaped Fiona's lips as she concluded.
+
+"And that was how the Changing Ice of Sigsug left her homeland, occasionally visiting until her parents and brother died of old age, before she finally vanished, never to be seen again." She finished, glancing at Jasmine. A confused crease marred her features.
+
+"Mom... was there a reason for retelling this tale?"
+
+"There is..." Jasmine said, a hint of amusement in her voice as she continued. "And don't think you're done, young lady. You clearly didn't finish the last part."
+
+A tired groan escaped Fiona as she turned her face away. "What part?" she asked.
+
+"Do you remember what happened before Fire died?"
+
+"Yes. I remember it was said that after Fire had ruled the people, he stepped down from the throne and became an elder once more while also taking on his late father's bakery business as he awaited his sister's occasional return." She recollected.
+
+"Do you remember the Changing Ice's name?" Jasmine probed further.
+
+"I think she was called... Jen. Jen Eoma." Fiona glanced at Jasmine. "Did I get it correctly?"
+
+Jasmine nodded. "You did."
+
+"Thank heavens." Fiona breathed out, almost resting her head on the dining table from sheer exhaustion. "I was already growing weary of recollecting that tale." She said, her shoulders drooping at her sides, relief washing over her for a moment. But before the sensation could fully settle, Jasmine's next words made Fiona flinch.
+
+"Would you believe me if I told you that the woman who just passed away and Jen Eoma are one and the same?"
+
+The chair Fiona sat on nearly tumbled to the floor from her startled reaction. "What?!" she blurted out subconsciously, almost forgetting that Molly and Ren were asleep.
+
+After seeing Jasmine gesture for her to keep her voice down, Fiona swallowed her next words. She took a deep inhale and a long exhale, repeating the motion until she could finally settle.
+
+"Mom... what do you mean? She's Jen? The Jen?" Fiona said in a hushed tone. "The one from five hundred years ago?"
+
+"She is," Jasmine confirmed.
+
+Fiona frowned. "How is that even possible? I thought she was dead after no one ever saw her again."
+
+Her frown deepened as she scrutinized her mother. "And how did you even know she's the real one?"
+
+"Well..." Jasmine's voice trailed off, that same ghostly smile returning to her lips. "It was a very emotional story."
+
+Her expression dimmed, orange-gray eyes flickering as her consciousness drifted into memory...
+
+A memory from five years ago.
+
+A memory she could never forget, for it had etched itself deep into her mind.
+
+Like a tale not to be forgotten.
+
+*******
+
+It was a memory of herself five years ago, when she stood in the bakery, behind the counter, having already opened the store that morning as she awaited her first customer. She remembered how an orange-colored orb her late father had told her about suddenly began moving from the corner where she had kept it.
+
+Her eyes widened when she noticed the orange sphere hovering in the air and drifting toward the entrance passageway.
+
+"Oh heavens." Her breath caught as she remembered how her father had explained that if this orange orb, which had been in the bakery for generations, ever stirred on its own, it signified the coming of a long-awaited ancestor.
+
+Jasmine's legs moved before her thoughts could follow. She hurried along beside the floating sphere until she reached the entrance passageway, where the photographs of the generations who had inherited this store hung in neat rows.
+
+And right there, her eyes landed on the figure of a woman who appeared to be in her mid-forties or early fifties, her features carrying the weight of years that numbers alone couldn't capture. Her hair was a stark, luminous white, like that of someone who had lived far longer than any ordinary lifetime. Her lush blue eyes held warmth as she wistfully studied the first picture that hung along the entrance passageway, like a gallery of treasured memories.
+
+An upward curl graced the woman's lips as she stared at the photograph, but upon noticing Jasmine, she turned to face her. A warm expression surfaced on her face when she saw Jasmine. But before the woman could open her mouth, her eyes landed on the orange orb that immediately floated to where she was and stopped just a few meters away.
+
+Jasmine watched as a frown flitted across the woman's features, but then, as if piecing everything together, her face lit up. "You still succeeded, you little tomato," she said in an amused tone.
+
+Jasmine couldn't help but frown when she heard the woman speak to the hovering sphere, but her eyes soon widened at what happened next.
+
+Right before her eyes, the orange sphere shuddered for a brief moment. It began dematerializing into small motes of light, reshaping itself soon after until it coalesced into a figure.
+
+It was the figure of a young man with vivid red hair. His deep orange eyes stared at the white-haired woman with a mock frown, though beneath it lay unmistakable warmth.
+
+"Oh please, you muscle panda. Why wouldn't I succeed?" he scowled playfully before puffing out his chest. "I'm the greatest inventor in Sigsug," he declared, earning a laugh from the woman.
+
+Seeing this, a tender expression touched his features. "Welcome home, Jen."
+
+The woman, Jen, smiled. "Thank you very much, Jack."
+
+Jen finally eyed Jack from head to toe. "I wonder why you chose to make your will appear young before me," she said, wincing slightly as she continued in a pretend-offended tone. "Don't tell me you want to laugh at me for choosing to appear elderly?"
+
+Jack grinned. "That's just one part of it. You know I planned all this because I knew you would want to make yourself look old after your marriage to that young man you always blabbered to me about." He sighed. "Oh, how old I was becoming because of the constant love poetry I heard him reciting to you," he said in a wistful tone.
+
+Jen smirked. "Didn't you also grow old because of your wife?" She added with a brighter, more mischievous expression. "And don't let me start with everything you've also whispered to your wife." She raised a brow.
+
+"Should I?"
+
+Jack's face flushed red with embarrassment. "Hey!! Not fair. Don't tell me you heard all that?"
+
+Jen snorted playfully. "I have ears everywhere, remember?"
+
+Jack sighed in defeat. "Alright. You win." He said before shooting a wild grin at Jen. "So... what brings our muscle panda to this outskirts of the world you've traveled away from?" He paused for a moment before adding, "And... how long has it been already? A hundred years? Two hundred, or three hundred?"
+
+Jen raised her right hand and showed her five fingers. "I think it will be five hundred." She said. "And maybe a few twenty years extra."
+
+"Oh-hoho." He chuckled. "That's a long while. I wonder how many generations have passed." He concluded, finally shifting his gaze to Jasmine, who stood motionless as she watched the two people she had never met before. Yet strangely, she felt as if she had seen them almost every day.
+
+A small quirk lifted the corner of Jack's lips as he stared at Jasmine. "You must be the current inheritor? My current lineage?" He said in a warm tone.
+
+At his words, Jasmine finally stirred, her blank expression dissolving, replaced by a swirl of emotions. Fear. Awe. Amusement, and many others. She hurriedly bowed. "Y-yes. Ancestor." She fumbled over her words.
+
+Jack laughed. "Haha. No need for the formalities. Just be yourself. Besides... I'm merely a temporary will created by the remaining lifespan of my original body." Then, as if remembering something, a soft sound escaped his lips as his gaze landed on Jen, whose expression had already dimmed.
+
+"Was... was this why you passed away early?" She asked in a low voice.
+
+Jack pursed his lips as he stared at his elder sister. After a moment, he sighed and gave a short nod. "Yes... it is."
+
+"Why did you do it?" Jen probed, her tone saddening further.
+
+"Well, now seeing you looking all sad again... I did it for myself. My own selfish reason."
+
+He gestured vaguely at the air. "Annie was dead. I didn't want to become an Arch-Sword Mage. My kids had grown and found their own paths, so there was nothing left for me to do."
+
+"And besides... who would have welcomed you better than me?"
+
+A grin bloomed on his lips. "No one."
+
+Jen's expression warmed. "Yeah..." she whispered, shifting her gaze away.
+
+A deep sigh escaped Jack's lips, causing Jen to turn back to him. Her eyes widened slightly, a sorrowful expression masking her features. She knew what was about to happen.
+
+"It seems this is how far I can defy the heavens with the lifespan I sacrificed." He said with a chuckle.
+
+With that, he spread his arms wide. "Well then, my dear sister. Why don't you do this little brother of yours one last favor?" A wide smile plastered his face. "Give me a hug." He said.
+
+Jen mirrored his expression. She stretched out her hands and stepped forward, letting Jack embrace her while she embraced him back. "I love you very much, little tomato."
+
+Jack's expression softened into pure warmth. "I love you too, my dearest sister."
+
+"Please, take care of yourself with what little you have left." He whispered before patting her back. Jen's arms tightened around her brother's dissolving form, her eyes squeezed shut, unwilling to watch him disappear.
+
+With the last remaining will fading, Jen felt a hand ruffle her hair. The final whisper of her brother echoed in the space around her. "How times are but a breeze that flies by."
+
+Jen opened her eyes, staring at the empty space where her brother had once stood. She watched the air for a long moment, motionless, as if expecting something to return.
+
+Then a short, tearful laugh escaped her. She reached for her cheek, finding it wet with tears she hadn't realized she'd shed. "Look at you, making me all emotional on the first week of arriving," she muttered to the empty air before shifting her gaze to Jasmine, who had witnessed everything.
+
+A warm expression formed on her face. "Hello. I'm Jen Valtoria."
+
+Her smile widened.
+
+"It's very nice to meet you."
+
+*****
+
+Jasmine felt a light tap on her shoulders, making her flinch. Her eyes darted to Fiona, who stared at her with a worried expression. "Mom... you're crying," she said.
+
+"Oh." Jasmine reached for her cheeks, finding them wet with tears she hadn't realized she'd shed while lost in thought.
+
+A breathless laugh escaped her. "I didn't notice." She glanced at her daughter with a reassuring look. "Sorry if I made you worry."
+
+Jasmine cleared her throat. "So... where did we stop?" She asked.
+
+Fiona stared at her mother for a long moment. A sigh soon escaped her as she stood. "Why don't we talk about it another time?" She said, leaning close to her mother and kissing her forehead. "Goodnight, Mom."
+
+"Goodnight," Jasmine replied with a warm expression.
+
+Fiona took a few steps until she reached where her brother was sleeping. A mischievous grin appeared on her face.
+
+"Hey." She called out to Ren while tapping his shoulder.
+
+Seeing no reply, Fiona tapped him a second time. "Hey, little muffin."
+
+Ren finally stirred, turning his head the other way with a groan. "Leave me alone. I want to rest."
+
+"Stand up, let's go back home so you can rest more comfortably," she urged.
+
+Ren groaned again. "Well, I'm already comfortable here."
+
+A grin flashed across Fiona's face. "Alright," she said, cracking her fingers as if preparing for something. "It seems I need to carry you then."
+
+At that word, Ren grumbled and finally pushed himself up from the dining chair. His eyes were only partly open as he glanced to where Jasmine sat. "Goodnight, Mom," he mumbled.
+
+"Goodnight, my dear boy," she replied warmly.
+
+Ren began shuffling toward the exit of the simple cottage, Fiona trailing behind him, an amused expression on her face as she watched. She glanced back at Jasmine, who observed them both with a tender look.
+
+A flicker of sadness crossed Fiona's features. She opened her mouth. "Take care of yourself before I come tomorrow," she added warmly before shutting the door. "Send my regards to Molly."
+
+Jasmine watched as her daughter closed the door with a soft click.
+
+Leaving her alone.
+
+She glanced around for a moment, observing the quiet scene before her in silence.
+
+Then a sigh escaped her, and she shifted her gaze toward Molly's room.
+
+Warmth spread across her features when she remembered Jen's final words: 'Take care of Molly for me.'
+
+Her expression softened further into gentle devotion as she whispered in a low voice.
+
+"I'll try my very best."
+
+"...Ancestor Jen."

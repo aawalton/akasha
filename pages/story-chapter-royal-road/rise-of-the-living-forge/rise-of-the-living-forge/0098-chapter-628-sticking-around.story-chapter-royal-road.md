@@ -1,0 +1,141 @@
+---
+id: bdefc06f-cdd1-5ebc-b534-1e32569c54eb
+page-type-slug: story-chapter-royal-road
+title: "Chapter 628: Sticking Around"
+slug: 0098-chapter-628-sticking-around
+partOf: rise-of-the-living-forge
+position: 98
+ownLength: 1693
+unit: words
+publishedAt: 2026-08-06
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3777966/chapter-628-sticking-around"
+royalRoadId: "3777966"
+---
+
+Eleven brought Madiv and Elias back early the next morning. They were all waiting in the kitchen when Arwin and Lillia made their way out of her room, well before the sun had even had a chance to start to rise. Eleven greeted them with a yawn.
+
+“It worked,” she said. “Congratulations. Turns out, undead are just as capable of Sunsetting as anyone else. Who would have thought. I guess nobody can argue that the Mesh isn’t fair.”
+
+Then she yawned again. For what probably should have been a somewhat impressive revelation, Eleven really wasn’t putting much weight behind her words. Arwin couldn’t help but laugh. He raised a hand in greeting.
+
+“Welcome back, both of you. How are you feeling?”
+
+“Tired,” Madiv said.
+
+“Prepared,” Elias said. “But not nearly enough. I have much to practice. I need to see how this has affected my abilities. Is there anything you need of me?”
+
+“Not right now,” Arwin said. He rubbed his eyes. “It’s way too early for—”
+
+“Then I will go. I will report back at night,” Elias said, striding out of the room before Arwin could say another word.
+
+They all watched him leave.
+
+“Curt, that one,” Eleven said from beneath the mat of hair covering her face. “He took on quick, though. Clever guy.”
+
+“I’m going to take offense to that,” Madiv said. “Because it seems to imply that I am not.”
+
+“Never said that,” Eleven said. “I just implied it.”
+
+Madiv grunted. He glanced down at his hands, flexing his fingers before shaking his head and looking back to Lillia. “If it would be okay, I will also be leaving. I wish to determine how much I am now capable of.”
+
+“Neither of them had any major complications,” Eleven provided. “Just a lot of extra prep on Two’s end. Nothing to worry about. They’re good to get at it.”
+
+“Then suit yourself,” Arwin said. “Congratulations on your successful Sunsetting.”
+
+“Thank you,” Madiv said. He paused for a moment. Then he shook his head and strode out of the building. It wasn’t hard to guess that his thoughts were quite far away. Arwin didn’t blame him. Sunsetting was an… experience. Even without the Mesh showing up to knock on their mental doors, it was as exhausting as it was exciting. It wasn’t a surprise Madiv and Elias wanted to see what more they could do and gather some magical energy to try and grow stronger.
+
+“You got your next picks yet?” Eleven asked once the door had closed behind Madiv. “Because, if you haven’t noticed, it’s early. And—”
+
+“You want to be asleep,” Arwin finished. He arched an eyebrow. “Yes?”
+
+“Wow. You know me so well,” Eleven said. “I’m honored. But, yes. That’s precisely correct. So who’s going up next? You’ve got to be getting pretty close to running out now. Just a few more, right?”
+
+“Just a few more,” Lillia confirmed. “We’ll have to go gather them and figure out who wants to go next. Honestly, I didn’t think you’d be done this quick.”
+
+“Things turned out better than expected,” Eleven said with a small nod. “Which is a good thing. With how things have been going, we don’t have the time to spare.”
+
+“Yeah,” Arwin said grimly.
+
+“I’ll tell the Den to wake them up,” Lillia said. “Just give everyone a little bit to get down. Then we can discuss our next steps.”
+
+***
+
+It wasn’t long before the rest of the Menagerie — only somewhat groggy — gathered around Eleven within the main room. Nobody had to explain what was going on. Just the fact that Eleven was here and nobody looked sad meant that Elias and Madiv had succeeded in Sunsetting their Classes.
+
+“Morning,” Reya said through a yawn, nodding to Eleven.
+
+“It is not,” Eleven said. “It is late night at best. So let’s keep this curt.”
+
+“We doing two again?” Anna asked. “Or will it just be one?”
+
+“Two,” Arwin said. He glanced to Eleven. “So long as we didn’t change the plan from the last time we spoke?”
+
+“The only thing that’s changed is the rest of the kingdom is trapped on a mine cart speeding toward the depths of the underworld,” Eleven said. “Our plan remains the same. We have two spots. All that matters is filling them with the right bodies.”
+
+“Well… we’re running out of people,” Lillia said. “That’s making it easier. Kien. Reya. Anna. Art and Vix. Those are our options at the moment.”
+
+“And Vanessa,” Olive said. “She’s with Esmerelda right now. Thane probably is too, but—”
+
+“He’s too young,” Arwin said with a shake of his head. “It’s not safe. And he won’t be fighting. I’m not putting him in the line of fire like that.”
+
+“Yeah,” Olive finished. “So we’ve got 6 people to choose from.”
+
+“I think I’ll pass for now,” Art said after a moment of thought. “I have more important things to be doing along with Rodrick. We have to acknowledge the amount of time we have left. I am not well suited for combat. I won’t be able to take advantage of Sunsetting my class in the few weeks before we strike against the Guild. Not nearly as much as someone like Vanessa or Kien. And I believe Vix and I should probably Sunset our classes together. They are too closely bound.”
+
+“He’s right,” Vix said. “And I’m still getting used to my new heart. Even though everything is stable, didn’t Olive have a bunch of extra trouble because of a magical component?”
+
+“Yeah,” Olive said. “I did.”
+
+“Then I should probably hold off for longer,” Vix concluded. “Honestly, I don’t know if I’ll be in a position to Sunset my class before we attack.”
+
+“You certainly shouldn’t push too hard,” Anna said firmly. “I also think holding off is the right call. You’ll be far more for everyone by keeping a good pace. I think Kien or Reya should be the next ones to go.”
+
+“Or you,” Reya countered. “We need our healer as strong as possible. You’re probably the most important person in our guild right now. If Sunsetting can make you stronger and that lets you save someone… well, it seems pretty obvious to me.”
+
+“I agree with Reya,” Kien said. “Anna is invaluable. Given how small our forces will be, having her be more effective is much more important than any individual warrior at this point. I think it is time for her to Sunset. So long as she is comfortable with it, of course.”
+
+Anna blinked. She glanced around the room, but everyone was nodding in agreement. She hesitated for a second longer.
+
+“Okay,” she said. “I see the argument. You’re not entirely wrong, either. I’m willing to go. I’ve been doing what I can to prepare, anyway. There’s no point pushing it off any longer. Nothing significant is going to improve.”
+
+“That’s one, then,” Eleven said. “Who’s two?”
+
+“If Art and Vix are out right now, it’s Kien, Reya, or Vanessa,” Arwin said. “And we’re working on armor for Vanessa at the moment. We’ll need her around to finish it. So it would be better if someone else goes first. Reya, Kien?”
+
+The two of them exchanged a glance. Then Reya made to open her mouth. But, before she could say anything, Kien beat her to it.
+
+“Do Reya,” he said. “As much as I am interested in the benefits of Sunsetting, it was not long at all ago that I got my class. There is still much for me to learn. The net benefit of advancing her strength will likely be more significant than mine.”
+
+“What?” Reya sent him a surprised look. “Are you serious? You’re much more dangerous of a fighter than I am.”
+
+“I am,” Kien agreed. “But individual strength is not all that matters. Your powers lend themselves well to working with a team. That is far more likely to be useful against this Deepmind being. It would be wiser for you to go, so long as you wish to.”
+
+Reya nodded. “In that case, I’m not gonna say no. I’ve been waiting for this. I’ll do it.”
+
+“Then we have two,” Eleven said. She extended a hand and a portal sliced into being on the ground of the Devil’s Den. She nodded to it. “Either of you have any fancy bits in you that you need me to warn Two about? Cursed arms, the like?”
+
+“Nothing,” Reya said.
+
+“Nothing magical,” Anna said.
+
+“Then in you go,” Eleven said. “Let’s get this over as quickly as possible. Hopefully Two can get you worked out and ready to move in a few days. Don’t expect this to be any faster than that. And remember to take things at your own pace. The speed you lot have been moving at is obscene. It’s meant to take months. That doesn’t mean you’ll all be fast. Don’t kill yourselves trying to be fast, yeah?”
+
+“They’ll be fine.” Rodrick stepped forward and gave Anna a squeeze on the shoulder. “Both of them know their limits and strengths. And they’ll finish when they finish.”
+
+“Yeah. Nothing to worry about here,” Reya said, sending a grin to Olive before glancing to Arwin. “Don’t bother wishing us luck. We won’t need it.”
+
+With that, she strode forward and dropped into the portal. Anna raised her hand. She gave them a curt nod, squeezed Rodrick’s hand before moving it off her shoulder, and followed after Reya.
+
+“Until next time,” Eleven said. “Don’t worry. We’ll take good care of them.”
+
+Then she dropped through the swirling maw of energy, and the Devil’s Den fell silent once more.
+
+It was several seconds before anyone spoke.
+
+“They’re not the only ones that have work to do,” Lillia said as she turned toward the kitchen. “We’ve all got our roles to fill. Let’s keep at it. For anyone that wants breakfast, stick around a bit longer. It won’t be too much longer.”
+
+Everyone exchanged a glance.
+
+Not one of them moved.
+
+They might have been on a tight schedule, but things weren’t nearly bad enough for anybody to even think about skipping out on Lillia’s cooking.

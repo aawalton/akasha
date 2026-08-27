@@ -1,0 +1,221 @@
+---
+id: a0b3cbb3-198d-536d-a907-be1ca8f5a271
+page-type-slug: story-chapter-royal-road
+title: "Chapter 460: A Call (End of Book 7)"
+slug: 0029-chapter-460-a-call-end-of-book-7
+partOf: reborn-as-a-demonic-tree
+position: 29
+ownLength: 3140
+unit: words
+ownProgress: 3140
+publishedAt: 2025-07-18
+link: "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/2446702/chapter-460-a-call-end-of-book-7"
+royalRoadId: "2446702"
+markedReadAt: "2026-06-29T19:02:29.999Z"
+---
+
+Ashlock watched on like a proud father as Kaida left the room in awe. First came his head, followed by the rest of his serpentine form—an undulating mass of black and gold that shimmered like liquid metal. His golden eyes carried a deep wisdom in them as he coiled in the air above the Silverspire family and gazed down upon them like a deity. It was strange, unlike Larry, who carried the aura of a destructive divine being, Kaida had this aura of wisdom about him that made everyone want to kneel before him, not out of fear, but out of reverence.
+
+He simply floated overhead, not saying a word. His eyes locked on Diana.
+
+"Come here, you." Diana raised her hand, and Kaida lowered his head to accept her touch. She scratched his chin like one would a dog, and Kaida closed his eyes in apparent happiness. After a moment, the two separated. "You got bigger since I last saw you," Diana remarked with a smirk, "and far shinier."
+
+Kaida opened his mouth and spoke."Does it suit me?" His tone and powerful voice suited an ancient dragon, yet Kaida was still a child, age-wise.
+
+Diana chuckled, "Of course it does, but where are your scales?"
+
+Kaida pointed to his body with one of his four limbs that ended in three claws, "They are still here, but have a more fluid form than before." He then looked around, "But why was I summoned here?"
+
+Ashlock had Anubis look up, and he spoke through him. "Sebastian here is going to accept the Silverspire Grand Elder's Silver Core on behalf of Ryker, but Cassian Von Silverspire here fears that Sebastian may use this inheritance as leverage in the future to steal the Grand Elder position from Ryker."
+
+Kaida snorted with amusement, "You brought me all the way here for such a trivial dispute between humans?" His head turned, and he gazed deeply at Cassian, causing the Silverspire Grand Elder to take a hesitant step back. "Know this human. I rarely leave the confines of Ashfallen's great library, and there was an agreement that if I were to bestow heavenly contracts, people would come to me. I'm not one to be called upon when convenient. Do you understand?"
+
+Ashlock had been the one to call him here, but it seemed that his lazy pet would pin the blame on a human rather than him.
+
+Cassian bowed deeply, "My apologies, great dragon, it wasn't my intention to disturb your peace over my petty concerns."
+
+"At least you have manners, unlike many. Speaking of, where is that troublesome brat that always disturbs my peace?"
+
+"Stella?" Diana asked, "She got bored with this meeting and left."
+
+A soft snort vacated Kaida's nostrils. "I was hoping to chew her out now that I can speak."
+
+Diana smiled, "You will get your chance—actually, can you speak draconic?"
+
+Kaida glared at Diana as if he were offended. "Of course I can speak draconic. I'm a Celestial Ink Dragon, ancestor to the Midnight Inkwings and ancient scholars of the heavens."
+
+"Perfect. I'm sure Stella will be seeking your guidance soon. She wants to learn draconic."
+
+"Why? Just so she can bother me more?" Kaida shook his head, "It's not a language that someone like her needs to know."
+
+Diana shrugged, "She's expecting a call any day now from the daughter of a Primal Overlord and wants to be able to speak to her in her native tongue to leave a good impression."
+
+"Primal Overlord?" Kaida mused.
+
+"Yeah, one of the strongest monsters in the beast tide. Apparently, he's a powerful dragon and despises anyone who doesn't speak in draconic." Diana said casually, "So Stella wanted to learn before then."
+
+"We will be talking to dragons within the beast tide?" Kaida's eyes flickered with interest. "I wish to speak with these dragons, too."
+
+Diana shrugged. "Help Stella, and I'm sure she will humour your request."
+
+Kaida seemed displeased at having to involve himself with Stella, but the allure of speaking to his own kind won out in the end. "Very well, I will tutor her on draconic. But the language was designed to be nigh impossible for anyone except dragons to speak fluently."
+
+"Ahem," Cassian coughed awkwardly and flinched when the dragon and demoness turned to him. "Sorry to interrupt, but did you say you're going to speak to a monster from the beast tide?"
+
+Diana nodded, "Our Patriarch is adept at all languages, and while slaughtering the waves of beasts, he encountered a wyvern who begged for mercy and in return for being spared, promised to get us in touch with a leader of the beast tide. While we have the strength to fend off the tide, why get our hands dirty if we can come to an agreement?"
+
+"That's... never been done before in history," Cassian said slowly, his brain seemed to have stopped working fully. "We have always had to run with our tails between our legs; nobody ever tried to negotiate with a tide of monsters before."
+
+Diana smiled, "Well, history has never seen a sect like the Ashfallen Sect before. Get used to it."
+
+Cassian hesitantly nodded, "I'll try to."
+
+Ashlock was just listening in. He had thought about stopping the conversation from revealing too much of their plans to the Silverspires, especially since they hadn't signed an oath of secrecy, but then he realized... why would it matter? If word spread that the Ashfallen Sect was capable and planning on negotiating with the beast tide, that would immediately raise their prestige to new heights.
+
+At this point, the only sects that could genuinely threaten him were the Celestial Empire, which already seemed to be at odds with him as they wanted to kidnap Stella, and the Frozen Star sect, where Janus was currently residing. Nobody could threaten him besides these two sects, so his need for secrecy and paranoia was gone.
+
+[+462 SC]
+
+The notification for credits from the destroyed Starweaver vessel flashed in his consciousness. Since none of them had been in the Nascent Soul Realm, he couldn't be bothered to turn them into Ents and just went for the credits. Weirdly, he had expected Celeste Starweaver to be on the airship, but she was missing.
+
+"Maybe I'm still paranoid," Ashlock mused. Otherwise, why would he have bothered to hunt and kill the Starweavers who would never have the strength to match him? "It's better to be paranoid than arrogant, I suppose. On that note, since Kaida is here, I should have him heaven-bind these Silverspires for me."
+
+Once again using Anubis as a mouthpiece, he addressed the giant dragon, "Kaida, you can return to Red Vine Peak after finishing up here. Along with the heaven-binding contract that Sebastian cannot become the Grand Elder of the Silverspire family over Ryker, I also want you to incorporate everyone here into the sect with contracts."
+
+The gold and black dragon looked down at the shadow lich, "Are you sure you want the contracts to be heaven-binding? I can have them tied to you instead. It will carry the same weight as a heavenly contract, but it will have the added benefit that should you die, they will die as well. It will also use less Qi, as convincing the heavens to oversee and manage a contract is quite intensive."
+
+Ashlock didn't believe a contract bound to him would be quite as foolproof as a contract overseen by the heavens. But on the other hand, he had already verified many times that even heavenly-bound contracts could be circumvented anyway, so perhaps the added threat that if he were to die, they would die as well would be a good deterrent.
+
+"Great idea," Ashlock said through Anubis. He then had the shadow lich address the gathered Silverspires. "Those who wish to join the Ashfallen Sect, step forward. Your souls will be tied to me, meaning if I am to die, so will you. However, the benefits of joining my sect will be great."
+
+A tense atmosphere rose in the room. The eyes of the Silverspires flickered between Larry, Kaida, Diana, Anubis, and finally to Cassian. Such overwhelming strength was on display, alongside promises that were hard to turn down, like amazing pills and portal networks. They would even be granted immortality should they die.
+
+They just had to sell their soul for it. In a way, Ashlock really was a demon.
+
+But everyone here also knew that nothing in this life was free. Ashlock had no use for a noble family under his rule that wasn't a hundred percent subservient.
+
+Lyriana was the first to step forward from the crowd while pushing Ryker from behind. "I will stand with Ashfallen," she said clearly, side-eyeing the other wives. "What about you two?"
+
+Selene gracefully stepped forward next with her son. "The threads of fate have spoken. The only path forward lies with Ashfallen."
+
+Valessia proudly stepped forward and dragged the timid Iskiel with her. That left Vespera and her son Daedrin.
+
+"Cassian," Vespera said, her voice strained, "I really don't think this is a good idea. It's one thing to join forces with a sect, but what if they become a new brand of Vincent Nightrose? We will be trapped, our souls tied to a tyrant's reign."
+
+"I understand your point, but step forward, Vespera. The Ashfallen Sect is clearly the undisputed overlord of these lands," Cassian said seriously. "What choice do we have?"
+
+Daedrin stepped forward, leaving his mother Vespera behind. She glared into his back before hesitantly stepping forward. The rest of the Silverspire family followed suit soon after. It was clear that many weren't happy about it, but what could they do? Openly oppose a sect that treated a divine dragon as a mere pet or a Nascent Soul Realm shadow lich as a servant?
+
+This outcome was much to Ashlock's relief, as he really didn't want to be forced to act like the bad guy and kill someone to make an example. He wanted the best for those under his rule, including the Silverspire family.
+
+"Now that everyone has agreed, Kaida, do the honours for Sebastian first."
+
+A black scale detached from Kaida's body, and words were written in golden ink on it. It floated down under the watchful gaze of everyone in the room into Sebastian's waiting hands. He accepted the scale and quietly read it.
+
+"Do you accept the terms, Sebastian?" Kaida said, his voice deep and profound.
+
+Ryker spoke up before the man could reply, "Sebastian, you don't need to do this. I trust you."
+
+"I'd prefer there be no doubts about my intentions," Sebastian gripped the scale tightly and stared at it. "I... accept the terms. Should I break the agreement, my soul is forfeited to the Grove of Eternal Rebirth."
+
+"Very well," Kaida said, and there was a powerful pulse.
+
+The scale melted onto Sebastian's hands and burned into his skin. He collapsed to his knees, clutching his chest in pain—his eyes flickered between silver and gold for a tense moment, and then with a final grunt, his head fell forward.
+
+[Sebastian Silverspire's soul has been linked to yours by a divine contract crafted by the Celestial Ink Dragon Kaida]
+
+Sebastian stood as if nothing had happened and brushed the dust off his robes. After gathering himself, he chuckled. "Phew, that was terrifying. I can feel the connection to the Patriarch."
+
+"Then the agreement has been set in stone. You will inherit the Silver Core without intent of stealing Ryker's right to the Silverspire throne." Ashlock used Anubis to gesture for the Silver Core to be handed over.
+
+Cassian stepped forward with the Silver Core and held it over Sebastian's waiting hand. They met each other's gaze.
+
+"Sebastian, I just wanted to say I appreciate you for proving your dedication and everything you have done for my son."
+
+He deposited the Silver Core in his hand.
+
+"While you are not my son, you are a great benefactor of the family for leading the Ashfallen Sect to us. So I hope the echoes of my past efforts stored within this metal will serve you well on your path and assist you in fulfilling your future duties to Ryker."
+
+He pulled his hand away, "That Silver Core is the greatest gift I can give. Please use it well."
+
+Sebastian bowed deeply with his hands clasped. "I humbly accept this once-in-a-lifetime gift and will do my best to live up to the Grand Elder's expectations."
+
+"Good," Cassian patted Sebastian's shoulder, making him rise. "If you need any further teachings regarding the daos stored in there, I can do my best to guide you."
+
+"I appreciate that." Sebastian gave a small bow.
+
+Cassian then turned to Ryker and ruffled his hair with a smile, "You've caused quite the problem for your old man, you know? But I'm sure you will make a great leader of the family someday."
+
+"Where will you be going, Father?" Ryker asked, tilting his head.
+
+"Nowhere soon, I hope—especially considering I just appointed a five-year-old as the next family head." Cassian chuckled, "But you never know, and a family's ruler must appoint a successor should they die to avoid leaving a bloodbath in their wake." His eyes flickered between Ryker and Diana, and his voice dropped to a whisper. "Maybe you should learn how to rule from Diana and Stella?"
+
+Sebastian smiled awkwardly, "I don't think that is wise, Cassian. Their ruling style only works because they are the Ashfallen Sect."
+
+"Ah, that might be true." Cassian rubbed his chin as he looked up at Kaida, who was circling over the gathered Silverspires and seemed to be setting up a grand array out of floating scales. They hummed with power as golden words danced across their surface.
+
+At this very moment, the Silverspire family looked very much like animals trapped in a cage as they stared up at the formation with fear. Cassian stepped forward with his wives and children to join the rest.
+
+"Begin," Ashlock said through Anubis, and the formation lowered. A spinning circle of floating scales descended to around head level, and divine-looking lightning arced out, striking each person, making them collapse to the ground like Sebastian had.
+
+[Cassian Von Silverspire's soul has been linked to yours by a divine contract crafted by the Celestial Ink Dragon Kaida]
+
+[Lyriana Silverspire's soul has been linked to yours by a divine contract crafted by the Celestial Ink Dragon Kaida]
+
+[Selene Silverspire's soul has been linked to yours by a divine contract crafted by the Celestial Ink Dragon Kaida]
+
+...
+
+The notifications came flooding in, but Ashlock ignored them. Instead, he spoke into Diana's mind.
+
+"I'll leave the Silverspire family to you for now. Once this ritual is over, have them gather as many spirit stones as possible to pay for the repercussions. In the meantime, I'll set up the portal network."
+
+Diana nodded, "Understood, Patriarch."
+
+With that, Ashlock got to work.
+
+***
+
+A busy week passed in a blur.
+
+Idletree Daily Sign-In System
+
+Day: 3679
+
+Daily Credit: 21
+
+Sacrifice Credit: 1837
+
+[Sign in?]
+
+Within his Inner World, there was a man-made landmass that could only be described as an extinct volcano. It was filled to the brim with dimming spirit stones and his ethereal roots spread throughout the pile of spirit stones, sucking the Qi from them and redirecting them to his offspring deep within the beast tide to rapidly advance their cultivation with one goal in mind—to have them reach the Star Core Realm and trigger heavenly tribulations.
+
+What had started as a plan of empowering his offspring to make them resilient enough to survive the extreme winds became somewhat redundant after upgrading his Cursed Sap—but a new way to fight monsters had appeared. Simply strike them down with endless waves of heavenly tribulations.
+
+"Things are going well," Ashlock mused as he looked at the beast tide storm from afar. It had stalled. Above it, heavenly rifts rained down lightning on the storm below. He had feared that the number of spirit stones he could feed his offspring via his cultivation technique {Divine Cycle of Creation and Ruin [SS]} would have run out by now, but the Silverspires were not only filthy rich but also money-making machines.
+
+With the help of the portal network, their metal and spirit stone mining operations had increased in efficiency almost tenfold, giving them an absurd inflow of wealth which the youth, Elders and even the Grand Elder swiftly burned by taking a portal to Ashfallen City and buying as many pills as they could from the Ashfallen Trading Company.
+
+They had even started working alongside the Mudcloaks to create weapons and other things, which they sold to the Eternal Pursuit Pavilion for Yinxi Coins, which then were exchanged for spirit stones.
+
+In fact, the Ashfallen Sect was quickly becoming the largest purchaser of spirit stones in the entire pavilion.
+
+"Taking on the Silverspire family might be one of the greatest booms the sect has seen," Ashlock muttered. He understood now why the Blood Lotus Sect had treated them with care and hadn't been rushed to crush the Grand Elder from ascending. They were invaluable allies. Their fear and respect for him also increased his sacrificial credits to a healthy balance.
+
+"I should look to upgrade or do some draws soon," Ashlock mused as he continued to monitor the distant storm guarded by his Bastions. He knew the level of destruction his antics were causing to the monsters inside, as he regularly went in there to turn the charred corpses into Ents. It was a great system as the monsters couldn't fight back in any sustainable way.
+
+At this rate, he might defeat the beast tide without them ever reaching Red Vine Peak. Only the Overlords and perhaps Nascent Soul Realm monsters would be left if this kept up.
+
+"Those are the real ones I still need to worry about. So long as I have to hold the storm back with desolation Qi, I can't advance my cultivation." Ashlock sighed. He really didn't want this beast tide to keep going.
+
+A sudden flash of white flames interrupted his thoughts. Stella stood on a flying sword in her tattered cult cloak, billowing in the wind. Maple was happily asleep on her head. "I thought I would find you here, Ash!" she said excitedly.
+
+"What's going on?" He asked.
+
+She pulled a glowing green stone from her sleeve and held it up. "You will never guess who's calling!"
+
+Ashlock mirrored her excitement—he had been waiting all week for this.
+
+"Is that the communication stone I gave you? Then it must be Nymeria, that half dragon and half human." Ashlock glanced at the destruction in the distance and couldn't help but chuckle, "It's about time those arrogant monsters came to negotiate."
+
+= Book 7 End =

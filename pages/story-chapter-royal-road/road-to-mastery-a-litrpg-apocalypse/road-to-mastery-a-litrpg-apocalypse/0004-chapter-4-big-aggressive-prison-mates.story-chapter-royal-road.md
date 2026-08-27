@@ -1,0 +1,137 @@
+---
+id: ea29bf0b-acf2-5942-a940-d1c59a51a3c1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 4: Big, Aggressive Prison Mates"
+slug: 0004-chapter-4-big-aggressive-prison-mates
+partOf: road-to-mastery-a-litrpg-apocalypse
+position: 4
+ownLength: 1931
+unit: words
+publishedAt: 2022-11-17
+link: "https://www.royalroad.com/fiction/61041/road-to-mastery-a-litrpg-apocalypse/chapter/1042815/chapter-4-big-aggressive-prison-mates"
+royalRoadId: "1042815"
+---
+
+Jack held his breath as he kept himself low, hiding in a bush. The grating voices were approaching—three of them—and he could tell from their wicked cackles that they were up to no good.
+
+“Kekeke, me bite.”
+
+“Me bite too!”
+
+“The leg is mine!”
+
+“No, mine!”
+
+The goblins weren’t just ugly and in bad taste, they were also exceedingly stupid and stealthy like an elephant. They were crossing the forest like they owned it—which they might, for all Jack knew—speaking freely and paying little to no attention to their surroundings. Said attention was reserved for the bloodied fox carcass they carried, from which they occasionally pinched pieces of meat to devour, fur and all.
+
+As Jack watched their sharp claws tearing pieces of flesh and their sharp teeth chomping on them with gluttony, his distaste for these goblins only grew. They were repulsive beings, an affront to any possible concept of beauty. His stomach turned, but he held it in until they disappeared, completely oblivious to his presence.
+
+Poor fox… he thought, shaking his head. Nature had its ways, but nobody deserved to die to such distasteful creatures. The fact that he’d almost suffered the same fate didn’t escape his notice.
+
+The goblins had been Levels 2, 2, and 3 respectively. He could probably take each of them individually, but not all at once. However, he was slowly coming to understand his plan moving forward—or rather, the rules of the game.
+
+The goblins were weak, stupid, and hated. They were the perfect grinding stone for someone like him, a lone human trapped in the dungeon. He could hunt them down for Levels relatively easily and without many moral setbacks.
+
+Jack didn’t for a moment believe this was a coincidence. Everybody had their agenda, which probably included alien Systems or whatever this was—and that’s without even mentioning how blatantly engineered these goblins were. They were the perfect mobs.
+
+That left Jack with a question. The dungeon description had mentioned three groups of monsters and a Dungeon Boss. If goblins were one group, what about the rest? And what about the Dungeon Boss?
+
+After a moment’s thoughts, he came to a decision. If I really have to fight this dungeon, I should scout the other groups before making a move on the goblins. Information is power.
+
+Right now, the goblins didn’t seem on to him—how could they?—so he had time. Moreover, going by game patterns, the other two groups would be of similar strength. He should research before committing to something.
+
+Again, information was power.
+
+Jack’s cave was in the southern part of the Greenway reserve, slightly to the west, too. Since the goblins were heading south with their prey, that was probably their headquarters. Therefore, Jack changed his previous plan and headed west instead of south. Reaching the edge of the reserve that way would take a little more time, but it was better than running through a bunch of green-skinned man-eaters.
+
+No other goblins appeared as he made his way through thin trees and wide bushes. The only notable thing was the impossibly wide, impressively futuristic, shimmering blue wall that rose from the ground where the reserve ended, stretching to the sky and fading after some point. It extended as far to the right and left as Jack could see, at an almost imperceptible curve, presumably enclosing the entire reserve.
+
+“Fuck me…” he said out loud, looking up at the blue thing. It was opaque, too, so he couldn’t see outside. “I really am trapped…unless I can go through.”
+
+He grabbed a stone and tossed it at the blue wall. It bounced off. He threw another stone, harder, and it was catapulted backward with such force that Jack barely managed to pull his head out of the way. The stone zoomed past and buried itself in an unlucky bush.
+
+“No escape, got it.”
+
+However, he then looked up, where the blue wall faded away and only air remained. It must have been at least sixty feet high.
+
+Can planes go through, then? he wondered. Can birds? Can Superman?
+
+He did his best to throw another stone that high up. He succeeded on the third try, then watched the stone bounce against a patch of blue that suddenly solidified out of thin air. It fell back down with a small thud, and when Jack grabbed it again, it was hot to the touch.
+
+“Only looking, no touching,” he mused, looking up at the open sky. “No way out, then. Got it.”
+
+He considered touching the wall himself, but the System had already informed him he was stuck here until he got the Dungeon Boss. Calling its bluff sounded like a terrible idea.
+
+I am trapped, he realized again. Suddenly, his chest tightened, and he felt panic well up inside him. He forced it down. Deep breaths, he repeated to himself. I’m trapped. I have to fight and level up until I can beat the boss of this place, no matter what it is. Either that or die trying. So, fight now, existential crisis later.
+
+Jack steeled his resolve and forced himself to focus on the here and now. What were his next steps?
+
+Right. Scout out the other monster groups. Maybe they’ll be easier than the goblins.
+
+The goblin headquarters looked to be south, so the other monster groups would be to the north and…east? Unless they were all jumbled up, of course, but Jack doubted that. It didn’t mesh with the game mechanics he was familiar with.
+
+I’ll be on guard, in any case.
+
+Therefore, Jack turned his back to the wall of his new prison and moved deeper inside the reserve, where he’d come from. He could have followed the wall, of course, but its sight upset him greatly. He wanted nothing to do with it.
+
+After the blue wall disappeared in the tree branches, he turned north, keeping his eyes and ears open for any change. Crossing the entire reserve would take hours on foot, but there were monsters out there trying to kill him. He would be damned if he let them.
+
+While traveling, he wondered how he’d adapted so quickly, how he’d accepted magic, goblins, and reality becoming a game. Had the System messed with his mind?
+
+He didn’t think so, though it clearly had the power. Something inside him had just latched on to the change, a part of him desperately hoping for the smothering reality to crumble. Maybe due to how trapped he’d felt in his life; or, maybe, because of how many times he’d fantasized about similar scenarios as a teenager. The world had just gone to shit, everything he knew was thrown out the window, and though there possibly were dull, realistic explanations refuting magic, deep in his heart, Jack wished this was all real.
+
+He didn’t fear the danger; he simply felt alive, like this was how things were supposed to be.
+
+He didn’t have much to lose, anyway; his friends could probably handle themselves, and he had little family. He was only worried about the professor, but…she would manage. She was smart. If anybody could find a way to survive in a new world, it would be her, even despite her old age.
+
+As for himself, there was nothing holding him back. If everything returned to normal, he only had a dull life to look forward to. He would get his PhD, work his ass off as a researcher for thirty-five years, then retire. At least he liked biology, but it didn’t fill him. It wasn’t enough.
+
+This was. Stalking goblins through a forest.
+
+Life is so weird… He shook his head again, refocusing. He wasn’t safe here. He couldn’t afford daydreams.
+
+It was only a moment later that a faint growling sound reached his ears. Jack froze. Nothing in this forest was supposed to growl. His mind went through all possible animals before settling on one.
+
+Slowly, as quietly as he could, he got on the ground and crawled inside a bush. It scratched him, but he couldn’t care less. Inwardly, he prayed that the creature would move away. He’d made a mistake. The other monster groups weren’t as weak as the goblins. The System had cheated.
+
+An animal slowly made its way into his field of vision. He could barely make it out through the branches—a brown behemoth, putting tremendous weight on the ground with each step. He also made out yellow flashes on its fur, but he was too far away to discern them. Not that it mattered—a bear didn’t need magical enhancements to maul him.
+
+Earth Bear, Level 15
+
+Bears are omnivorous creatures that stand at the apex of most food chains. Earth bears, in particular, are a stronger, highly territorial variant. They can use very limited earth magic, and the rocky parts of their fur can be used to craft F-Grade weapons and armor.
+
+Earth Bears are most commonly found in the Ursus Forests of planet Ursi.
+
+It wasn’t heading directly towards Jack, at least, but the mere sight of a bear froze him solid. He couldn’t even shiver or breathe.
+
+If it sees me, I’m dead.
+
+That would be the end of it. There was almost no way to escape a bear in the forest. The wise song came to mind:
+
+If it’s brown, lie down. If it’s black, fight back. If it’s white, goodnight.
+
+Well, this one is brown, but also magical. I guess, if it’s magic, fucking fantastic.
+
+Jack’s thoughts screeched to a halt when the bear suddenly stopped. It raised its snout and sniffed the air. He panicked.
+
+I’m sweaty; can it smell me? Did the bush scratch me? Can it smell my blood? It probably can. Oh, God, I’m so dead.
+
+He considered bolting away, but again, he couldn’t escape a bear in the forest. They could even climb trees—at least, the non-magical variant could, but he wasn’t willing to test this unless he had to.
+
+His mind worked at great speed as it developed plan after plan to somehow survive. His entire body trembled with tension.
+
+However, the bear eventually lowered its head and kept going. Jack couldn’t believe his luck. When it disappeared, and when the sounds of its growling faded away, Jack was left panting, sweaty, and terrified.
+
+I am trapped in a forest with bears.
+
+This brought everything under a new perspective. Not only was there great danger, but the bear wasn’t even the Dungeon Boss. The level range of this dungeon had just risen precipitously. There had to be Level 20 creatures at the very least, and that’s assuming this particular bear was the leader of its group, which didn’t seem too likely.
+
+Plus, there was still a third monster group, which could be even stronger than the bears. It seemed unlikely, but so what? For all Jack knew, the System could have spawned kung-fu tigers in the north-eastern part of the reserve. Even risking a glance at the third group felt idiotic. Could they be better prey then goblins?
+
+He sweated even further until he drenched the soil beneath him. Escaping this dungeon suddenly seemed impossible, and even surviving until someone rescued him was unlikely. His arrogance was stomped to the ground and shit on.
+
+I have to survive.
+
+Jack got up, turned around, and headed back. In this game-like environment, there was a clear path forward. He no longer cared about how premeditated these goblins were, or what the System’s agenda was for guiding his actions like this.
+
+There was only one way to survive, and it was called “kill a shit-ton of goblins.”

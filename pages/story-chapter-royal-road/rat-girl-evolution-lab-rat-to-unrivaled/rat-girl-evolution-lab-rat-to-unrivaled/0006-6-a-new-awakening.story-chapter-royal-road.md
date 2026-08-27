@@ -1,0 +1,187 @@
+---
+id: d35bb5fe-95d7-519d-a74c-612ba77b1513
+page-type-slug: story-chapter-royal-road
+title: "6: A New Awakening"
+slug: 0006-6-a-new-awakening
+partOf: rat-girl-evolution-lab-rat-to-unrivaled
+position: 6
+ownLength: 2412
+unit: words
+publishedAt: 2025-09-04
+link: "https://www.royalroad.com/fiction/131412/rat-girl-evolution-lab-rat-to-unrivaled/chapter/2572855/6-a-new-awakening"
+royalRoadId: "2572855"
+---
+
+His blood was red.
+
+The rat didn’t know why that surprised her. She bled red, after all. She always had, even since before they began to experiment on her.
+
+But some part of her had never expected humans to be the same in this category, when they were different in so many others. She didn’t like that, but she was glad about it at the same time.
+
+If they bled red, just like rats, then it would only be reasonable to think humans could be killed in the same way.
+
+She wrenched the scalpel out, her hand and arm now coated with gore, and as he started to swing the spear down, she drove her right hand forwards, aiming for the wound.
+
+“Enhanced Impact!”
+
+Darkness.
+
+No, not darkness, blood, blood that had burst forth from his wound and coated her face, blinding her for a moment. She frantically wiped it away with her coat, lashing out with her other hand, flailing blinding in the air with her scalpel and hitting nothing.
+
+It thunked into a tree at the same time she gained back some of her sight. The man was gone, she realized, spinning her head around frantically, and then, looking down at her feet.
+
+His belly had burst open, everything pouring out like he had been ripped along the seam punctured by her initial thrust. Her satisfaction was overwhelmed by the need to gag. If her own belly had been any less starving, the rat was certain she would have emptied its contents.
+
+Another thing that shouldn’t have been possible.
+
+No, there wasn’t time for that.
+
+Her hands clenched, one empty and the other gripping onto the sole weapon she had, as she pulled back together her mind and focused it on the fight ahead of her. There was a second lookout, this one who had presumably been awake, judging by the way that he sprinted across the formerly sleeping humans as they stirred awake in a panic, drawing out—
+
+It was beautiful. Shiny, beautiful, glorious. A length of polished steel that was as sharp as a scalpel, as glimmering as a jewel, and as bright as a fire. It shone with a faint mana, and even as the full length of its blade was pointed at her, the rat felt something else, in addition to fear.
+
+Desire.
+
+I want it.
+
+Her tiny blade was hurled forwards, and deflected off to the side by the sword, only stopping him for a single step.
+
+That step was long enough for her left hand, still raised from the throw, to start channeling a stream of mana force that pressed against him, locking him in place even as he tried to step again. She dashed forwards as quickly as she could without losing aim. Snatching up the fallen spear, and he stepped to the side, out of the spell right as she entered range.
+
+As she attempted to follow him with the energy, her arm froze up, muscles and joints locking as it cramped from the force, giving him the chance to move.
+
+He swung, too fast for her to avoid the strike after the fact.
+
+It whistled over her head, clipping strands of hair that were left trailing behind as she dropped down. Her thrust went wide as he knocked it aside with a sweep of his free hand, and she felt the spear spin from her hand as his sword bit into it, yanking it from her fingers.
+
+That slowed his return strike just enough that she was able to pedal away from it, and with the space between them open once more, his blade blurred into motion, dancing in the night with the faintest purple light reflecting off it.
+
+It hummed with mana, mana that seemed to be from both him and the sword, and it cut the air itself with a woosh as he swung it. One strike, two, three, and her back hit a tree. Then the fourth came, faster than she could have ever hoped to dodge.
+
+But she was already back on all fours when he starting the swing, crouching to leap up into him, blinding him with the stream of energy once more from one hand as the one with the watch exploded against his chest with an impact that made her wrist cry out in pain and sent the sound of breaking bones into the night, along with a wet, muffled scream.
+
+Her vision flashed white with pain, clearing to a toppled opponent and three more, still fighting their way out of blankets, shouting in panic and grabbing for weapons. It had been less than ten seconds since the alarm was raised.
+
+How slow…
+
+Another attempt at magic made her left hand spasm, so she ripped the short sword from his dying grasp instead, driving it into the first human as she scrambled to draw her own blade out of the bedroll, and slashing through the blankets of the second as he tried to hold them up as a shield to counter with his weapon, the blade parting the cloth as though it was air.
+
+The third….
+
+The third was gone, vanishing into the woods in the opposite direction of where she had come, leaving nothing but his empty bedding behind.
+
+She could still run after him, hunt him down, make sure he didn’t find any other—
+
+A glance at the watch told her she was down to three points of mana, and the blurring in her vision as she tried to make sense of the numbers let the rat know that her condition wasn’t the best either. It wouldn’t be the smartest choice to go on a wild goose chase now, not when everything she needed was still right here. Prepare first, then move on.
+
+Her train of thought was cut off by a wet, muffled voice.
+
+“What…. What are you?”
+
+The rat turned, seeing that her second opponent, the only one to put up a fight, had managed to flip himself over. He had flipped himself over, every word a wheeze through crushed bones and a punctured lung, but his head was lifted just high enough to look at her.
+
+“I’m a rat,” she said.
+
+A gurgling, laughing wheeze. “I’ve never, hack, seen a rat like you.”
+
+A jolt of pain shot through her chest, as though it was her own body that had been damaged, before he continued.
+
+“I suppose, you look more—” He broke off, coughing. “More like one than a human, at least. T—Tell me… Tell me your name? So I have something to carry to the gilded library of heaven?”
+
+“I don’t know what you mean…” and to be honest, what reason do I have to fulfill your request? You’re a human, an enemy!
+
+“The library…. The—” Another fit of coughing, this one with blood spitting up. “The gilded library of souls…. If I don’t bring anything worthwhile after my death, they won’t let me become a book there…”
+
+“No, I mean, I don’t know what a ‘name’ is.” She tilted her head. “I don’t think I have any, much less enough to give away to a dying man….”
+
+This time, the laughter was distinct, even as it devolved into coughing and hacking, even as enough blood was vomited up to make her stomach swirl and twist again. It eventually died down, becoming wheezing and smaller, more sedating choking noises, until he regained enough composure to speak once again.
+
+“It’s what you call yourself, just like how a tree is a tree, or a rat a rat. You are your name, and it refers to you alone.”
+
+Her mouth half opened, and then closed again, thinking. Do I need a name? They seem like a human thing, after all. I don’t want a human thing. I don’t want to become more human, more like these monsters…
+
+She tasted blood, and realized she was biting into her own lip.
+
+“I don’t want one,” she said quietly. “I’m a rat, not a human.”
+
+“Thank you.” His face was a mess of blood, but white teeth still shone from amongst the red when he smiled. “That’s good information in itself. You can have my sword as repayment. She has a name as well, see? Her name is Violet. Treat her well, please.”
+
+“But I already have your sword—” she wanted to say, but as the last light slipped out of his eyes, something held her back.
+
+“You weren’t that bad, I guess, for a human. I’ll accept the sword.”
+
+He was no longer able to respond, but it didn’t matter. She had been talking more to herself anyways.
+
+It was a nice sword, as far as she knew. Rather, it was the first sword she had ever seen, so as far as the rat knew, all swords were this nice, though the other two she had spotted lacked the same tingle to her mana-sense.
+
+Just holding it and swinging it strained her arm, but there was a sense of comfort to the weight, as she remembered how easily it had split the flesh of the third and fourth human she killed. She swung it again, recalling the clarity and sharpness of the strike that had almost taken her life.
+
+Her own was much more dull, but there was something to it. His strike had… snapped, almost. It had only sped up through the arc, not slowed down, but it had followed a weird progression. She repeated the motion, trying to put force into it throughout the entire movement, the sword tugging her off balance as she did and sending her stumbling into a crate.
+
+Crates!
+
+For a moment, the thrill of combat and then the excitement of her discovery rushing through her, her belly had quieted. Now it leapt back up, stronger than ever, driving her to rip the top of one of the crates off, and then sigh in disappointment as it turned out to be only more human clothes.
+
+The next one, though, baffled her. Large, flat circles of yellow, white, and orange. The rat sniffed them, and detected something, something strange. It tickled the back of her nose, and drew forth a wave of saliva from her mouth.
+
+It was hard to even lift one, and her mouth struggled to bite into it, the hard rind sticking to her teeth. But that little bit of softer, inside flesh she got was enough to cause the rat to pick back up the short sword and hack off a larger piece, and then another, and then another.
+
+Each one tasted different, but they all had a shared undercurrent, even beyond being so delicious. The constant stream of—
+
+Cheese! That’s what they are! Wheels of cheese!
+
+She forced the thought out of her head. It didn’t matter what they were called by the humans, they tasted spectacular, and more importantly, eased the pain that was radiating from her core, causing it to slowly subside with each one she worked through, until she was standing knee high in shreds of rind, her belly stuffed to the point of bursting, and the crate entirely empty.
+
+It was only then that the exhaustion hit her, and the rat realized just how tired she really was. She had never gone anywhere near this long without sleeping before, not even half this long, if she didn’t count her hours curling up into a shivering ball of pain as sleeping.
+
+A yawn forced its way out of her, pulling her eyes down as it did so.
+
+Not yet, just a little bit longer…
+
+The objects at the edges of her eyes, and the areas the farthest away from her focus, blurred and danced. When had they started to do that?
+
+She needed to get a little farther away, to find a safe place…
+
+Her head dipped down, snapping back up as she held the blade against nothing, a panicked reaction of instinct. She lowered it, casting her eyes around, forcing them to function a little more. As much as she wanted to sleep, needed to sleep, she couldn’t afford to. Not yet, not here.
+
+The humans, the humans would come and…
+
+Another yawn came, one she stifled as she trudged out of the previously human-filled clearing. Or still human filled, if she counted corpses as being human.
+
+That was a strange distinction, one she had never noticed until she gained words. A tree was a tree, until it was felled and became wood. A human was a human, until they became a corpse, but then they were still a human.
+
+What did a rat become, then, after death?
+
+No, no, no!
+
+That was how a human would think, pondering language, getting distracted. She wasn’t one of them. She didn’t have those luxuries, didn’t possess the right to be addled by the call of sleep. She needed it, yes, but she couldn’t let her need overcome her caution.
+
+So the rat kept walking, step after step, despite the fact that with each one the quiet, dull beating of her heart in her head threatened to lull her to sleep as it steadily grew slower and slower. Every part of her did.
+
+She was so slow, so heavy, each limb in each movement. It felt like a great effort just to keep her head up, to stop it from slumping onto her shoulder and taking the rest of her to the ground behind it when it rolled off of that.
+
+Better than not pulling the rest of me down.
+
+Another morbid thought, another pondering of an exhausted mind that felt far too human in its lack of restraint.
+
+She glanced back. That’s…. That can’t be….
+
+The human area was only a few dozen steps away from her. I was walking for longer than that, I swear…
+
+No. She couldn’t trust her mind anymore. She needed to find something, now.
+
+There. A densely packed bush, just large enough that she could curl up in the space beneath its branches, being hidden from view while still close enough to the human camp to watch over it. She took the short sword with her, clutching it to her chest, heedless of the sharp edges.
+
+She blinked once, twice, and the rat drifted off into dreams, her eyes never opening for the third blink.
+
+.
+
+. .
+
+. . .
+
+. . . .
+
+. . . . .
+
+She awoke to a world that had been painted anew, in orange and crimson flame.

@@ -1,0 +1,113 @@
+---
+id: d558d2c3-9a66-58c8-af9d-d200e04daba2
+page-type-slug: story-chapter-royal-road
+title: "Chapter 94"
+slug: 0094-chapter-94
+partOf: savage-divinity
+position: 94
+ownLength: 3644
+unit: words
+publishedAt: 2016-07-15
+link: "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/81848/chapter-94"
+royalRoadId: "81848"
+---
+
+Sitting in quiet cultivation, the Heavenly Energy circles within me, funneling into my core where it is refined into chi, my body feels light and buoyant, as if suspended in nothingness, an easy warmth enveloping around me, ever-moving yet never felt. In a steady rhythm, every second, or minute, or hour, I can't tell, a wave crashes against me, but it does nothing to shake me from Balance, simply breaking against me, an unmovable object within the void. Each time the energy crashes against me, a surge pushes through my body and forces its way into my core, the energy stored away without sensation, my mind empty and without thought, clear as a mirror's surface.
+
+This is fucking bullshit.
+
+Breaking out of my meditative state, my eyebrows crease in concentration as I scan my thoughts for new knowledge. After long minutes of frantic searching, I finally let out a frustrated groan, cradling my head in my arms to muffle it. Throwing myself back to sprawl out in the grass, my head crashes against the tree trunk, leaving me once again cradling my head, this time emitting groans of pain.
+
+Right. I decided to sit closer to the tree today. Fuck.
+
+After dealing with the rapidly materializing bruise, I scoot down a safe distance and check behind me for protruding roots, tossing aside a few pebbles before once again throwing myself back, arms and legs akimbo. Lamenting my fate as the eternal underdog, I curse whatever it was I did to deserve this, wallowing in my one man pity party. As I lay in the shady grass, a flock of birds fly by in the distance, and the sounds of the bubbling river makes me wish I could just go down and float in the water, letting all my troubles wash away.
+
+I can't, of course, because of the mother fucking man-eating fish and worse, all hiding beneath the surface, waiting for a taste of my flesh. This world is just chock full of beasties, all of them terrifyingly strong and me woefully under equipped to deal with them. I just want a weapon where I can point and kill. Bang bang, you're dead.
+
+Why is nothing ever easy?
+
+The more I practice, the more I realize just how weak I really am. I was feeling pretty good about myself, a bad-ass warrior, killing Defiled and Ursagon's like chopping wood, even surviving a round with a Demon, which is better than most can say. I thought I was on track to reach the peak, be counted among the greats, a rising star of my generation, figuring Mila was just a statistical outlier. Even if I wasn't the very best, I thought I could make it into the top five percent or something, but no, Akanai comes along with her mystic mumbo jumbo, raising the bar once again, the summit no longer in sight, barely even a dream anymore. Fucking power creep.
+
+She told me that I had Awakened, received a Divine Blessing, meaning I had the bare minimum qualifications to manipulate an element. My former dreams surged to the forefront of my mind, of raining fire and lighting down upon my enemies while I cackle with glee, or commanding the earth to split apart and consume my enemies, crushing them with the bodies of their allies. All while I watch from an appropriately safe distance, of course.
+
+Life, however, is a massive bitch, raising my expectations only to let me fall farther down into the pits of despair as once again, it seemed that I was an exception to the case, thoroughly confusing Akanai after all of her hard work. There should have been an instinctive knowledge of how to use my chi to manipulate my element, but I got nothing, a whole blank space in my brain, not even a hint of knowing something and having forgotten. It was as if all the knowledge had just melted out of my brain, eradicating all traces of it ever being there. All of her advice amounted to 'meditate on it', with little more to go on but it's not her fault. It would seem that I am uniquely incompetent.
+
+Hooray, I'm unique!
+
+...
+
+In five days since, I have made exactly zero progress on my Awakened memories, although my arm has grown another 10 cm, so at least I have that going for me. My stump is almost at my elbow, bringing both a larger area of pain and an endless flood of questions from Tokta, most of which I can't answer. How am I supposed know what part of the blood it's coming from, or how it knows what to become? I don't fully understand it myself, and Tokta is having trouble figuring it out as well, leaving both of us frustrated. It sucks not knowing, but at least it works. I guess warrior just isn't in my job list, it got overwritten by punching bag.
+
+Letting out a large sigh, I imagine my anger escaping from my chest, carried away on the wind to fend for itself, but that's a childish thought, knowing my fears and frustrations are still eating away at me. Closing my eyes, I concentrate once again, this time retreating to my mental planescape to check in on my other problem. I spend too much time inside my head, another thing for me to complain about.
+
+Coming up to the familiar manor, I let myself in, stepping through the open double doors into the open courtyard, the lovely pond bubbling quietly while the plum-tree sits in full blossom, a beautiful purple-pink hue surrounded by greenery. I should have kept this place for myself and given Other me that stupid plain white room, filled with only a couch, a screen, and a single window that overlooks nothing but bright light. Then again, he spends all of his time here, so maybe this is more fair to him.
+
+Making my way towards my room, I open it to find Other me laying in bed, just like I left him, inert and unresponsive. I could have just jumped straight here, but the journey lets me imagine that he will be up and mobile, as if nothing had happened. Going through the motions, I try to wake him, first snapping close to his ears, moving on to making louder noises, before finally shaking him somewhat roughly. Looking down at him, I once again note the differences between us. It's mostly in the lines around the eyes and the set of our jaw, he's always gritting his teeth with his eyes strained, a more focus and alert look about him, even as he lays asleep. If I let him take over for too long, I'd probably get crows feet around my eyes and start grinding my teeth in my sleep.
+
+He's been like this ever since I locked him away during my conversation with Mila, and I feel like absolute shit. I didn't even notice until the next morning when I wanted to practice the Forms with him, too involved in my own problems to think of him until I needed something from him. I tried everything I could to wake him, god-like mental powers and all, but nothing worked, my alter-ego comatose despite my best efforts.
+
+I thought that if I was rid of him I'd be ecstatic, but I've gotten too used to having him around in a short time, the past few days seeming empty without him. It's nice to have someone to complain to, someone who can't run away. Plus, as much as I hate his stupid attitude, sometimes it's refreshing to hear his take on things, an overly simplistic, bash everything sort of problem solving, and imagine what it would be like if I listened.
+
+Saying a short prayer for him, I leave my mental planescape and return to reality, stretching myself awake beneath the morning sun. Today is one of my rest days, with little to do but cultivate and eat, but all of my worries makes it difficult to stay in Balance, especially with the runic ring and the extra complications it brings. Holding my hand out to the light, the ebony ring glimmers on my thumb, a permanent fixture now that I've gotten the hang of it. Maybe it isn't as stupid as I thought, considering that it may be the reason for my 'Awakening', but it might also be the cause of my failure as well. Perhaps it's faulty in some way, I mean what are the chances of making a flawless ring each time? There has to be something wrong, and it would be great if it wasn't me.
+
+Tired of worrying about all my problems, I leave the tiny clearing and head back to camp at an easy walk, my body feeling stiff as if I was wasting away without enough practice. I feel like, in the future, I should just avoid losing body parts. Regeneration is cool and all, but it's something I would rather read about instead of experiencing first-hand. With a longer stump, I have to be more careful not to jostle it in any way, or else the pain magnifies tenfold. Not fun at all.
+
+My wanderings bring me into camp and I begin to circle the area, not ready to go back just yet. After a short jaunt, I hear a greeting. “Little hero!” Wincing at the nickname, I turn and greet Bulat as he sits on the ground playing dice with a few other soldiers. Grinning ferociously, he waves me over, and with nothing better to do, I join him. “Fancy a game of dice with your fellow cripples? Ravil, pour the little hero a drink, will ye?” A young, dark-skinned soldier pours out a measure of alcohol for me into a bowl, filling it to the rim without spilling a single drop. Impressive, considering he wears a bandage over both eyes, the soldiers around him cheering at his performance as he takes a seated bow.
+
+Happily accepting the proffered drink, I tap bowls with the soldiers and drink deeply, putting my empty bowl down on Bulat's flat head while I fish through my pocket for coins, prompting another round of merry laughter. “So what's the game?”
+
+“Big-small, with our mat for other bets. Rustram be the house, rates are standard.” A long haired, wizened man waves a stump at me, everything below the wrist missing. “If you don't know em, then you just gonna have to trust old Bulat here.” The one-legged soldier takes the joke in stride, staying still long enough for me to retrieve my bowl, introducing the other four soldiers around us, all of them with some injury that will lead to their dismissal from the army.
+
+“No problem, I can see that you're an honest man, and besides, you wouldn't cheat a cripple.” After another round of chuckles, we get to playing. Randomly placing a bet on the numbered chart, my attentions completely focus on the sound of the dice rattling in the cup as I eagerly await the reveal, leaving all my worldly problems behind. “Hey, why do you call yourself old, you're like twenty something.”
+
+“Old enough compared to you, little hero.”
+
+I spend the rest of the morning drinking and dicing, winning and losing, laughing with the soldiers as we whittle away the time, forgetting all of our troubles together. As lunch time approaches, we end the dicing and head towards the cooking fires for our midday meal, most of us good and drunk on terrible fruit wine. The other soldiers, the healthy ones, they all avoid our little group, not wanting to look too closely at what might very well be their own future, a glaring reminder of their own mortality. Bulat and the others take it in stride, ignoring the hurried escapes and dirty looks, their good cheer unaffected as we all line up for lunch.
+
+As we wait our turn, I eye the stew with an voracious appetite, ready to eat my fill once again. Not needing to worry about getting fat is slowly turning me into a glutton, always wanting to eat until the point of discomfort, and my belly has protested for some time now, no longer sated by alcohol. Each time, the ladle digs deep and comes up with meat still on the bone, assorted vegetables and even some grains, and every bowl filled brings me closer to the front, my belly rumbling as I take in the scent of my next meal.
+
+Bulat and Ravil are ahead of me, the former guiding the latter who holds both bowls, Bulat unable to carry anything while using his crutches. Their turn arrives and the cook skims the top of the pot with his ladle, splitting a single scoop of broth in both bowls before motioning for them to leave. Bulat begins to hobble off, seemingly used to the shitty treatment, calling Ravil to follow him away to drink their soup, but my indignation bubbles up slowly as I stop them both. This is no way to treat them, they were injured in the line of duty.
+
+Drawing the blind Ravil back, I empty both bowls into the pot, and channeling my best impression of Akanai, I glare at the cook, a portly, short haired fellow who towers above me, wishing that I was taller. “Take that ladle, dig deep down in this pot, and bring up a proper serving for these two.” Damn, Akanai doesn't say that much, I should have kept it shorter, like 'try again' or 'get it right'. Maybe I need some facial scars, make myself look properly intimidating. Ooo, or a tattoo. Yea.
+
+“Rations are for fighting men half-pint. Ain't enough to spare for all.” Unimpressed by my demeanor, the cook glares right back at me. There are no camp followers here, every person a soldier, and I hold no rank or authority. Skimming the top once again, he half fills my bowl, making no move to fill Bulat's and Ravil's, letting them sit empty. “A half serving for a half-pint, little shrimp soldier like you don't need a full meal.” His face jiggles as he laughs and his cronies join in, my fury erupting within me.
+
+Ignoring their mockery, I continue to glare without another word, emptying my bowl into the pot and holding it out once again. This fat fucker, if I had both hands I'd slap the stupid grin right off his face and shove that ladle up his ass. Half-fucking-rations for the injured, just because we can't fight? Food isn't that tight yet.
+
+“Come now, little hero, come. This is just the way of it, no harm done.” Bulat speaks quietly, trying to push me away but I stay rooted to the ground. The others begin crowding around me, trying to draw me away as the laughter dies down, the mood growing tense around us, the sky darkening as if it senses my mood, the clouds rushing in to set the tone. Fatty's face begins to turn crimson as his beady eyes narrow, staring back at me in a pitiful attempt to cow me, but I have stared down worse, the twins are more intimidating than him. Watching the sweat form on his brow, it moves down in a slow path, trickling past his brow and cheek, hanging at his jaw for a full second before dropping down, into the pot.
+
+Fuck it, I'll bring them to the Sentinel cook fires. “This isn't worth it, the food's ruined from this pig's sweat anyways. Pot-bellied fucker, probably the reason we're low on rations in the first place.” Making no effort to lower my voice, the cripples and I leave together, none of us having received any food. “Whose idea was it to put the fat man in charge of food anyways? Probably nowhere else for him to go, the ladle and pot-lid his weapons of choice.”
+
+A roar sounds out from behind me and I turn to watch the fat cook stomp towards me, throwing off his apron and cracking his knuckles. “Fucking runt, I'll tear you to pieces and cook you alive. Come greet your grandfather, Maota and learn your place.”
+
+Motioning for the others to back away and leaving my bowl in Ravil's hands, my face breaks out into a smile as I step towards Maota. Cracking my neck, eager for some exercise, I approach the cook as the crowd gathers around us, chanting and cheering, eager to see a fight.
+
+Roaring once again, he charges me with arms outstretched, looking to grapple me into submission, an idiotic approach. My mind focuses and his approach slows to a crawl, as if he were moving through molasses. A single step takes me in front of him, my elbow driving into his gut. The air expels from his lungs at the impact, his head swinging forward. My palm shoots upwards, cupping his face to cushion the blow, sending his head backwards in an arch. His feet lift off the ground, weightless for a fraction of a second, before he comes crashing down at my feet.
+
+The silence is complete, broken only by Maota's pained gasping, the match over in an instant with not even enough time for proper wagering. Calling Bulat and the others over, we march towards the pot, our bowls held out to the new soldier holding the ladle. After a brief hesitation, the ladle dips deep into the pot and fills each bowl with a hearty serving, a wry smile upon the soldier's face as he doles out each measure.
+
+After a short jaunt away to a private area, our group of cripples eat in silence, the mood stifled from the conflict, the harsh truth too heavy to put aside. Feeling angry and more than a little guilty, I eat mechanically, barely tasting the meal that I fought for. These men had come to terms with their disabilities, simply accepting that it was their lot in life to be stepped on and ignored, but until their dismissal, they could at least pretend they were still soldiers. That illusion was just shattered by me, the strain between them and the healthy soldiers now clear as day, a line drawn in the sand. We might end up having to fight for every meal now, and that's just asking for trouble.
+
+My meal finished, I sit in silence, ruminating on my anger until I can't keep quiet any longer, the words being spoken despite my better judgment. "What's the matter with all of you? Where's your fucking pride? You lose a limb, your eyes, or whatever, and you just let everyone walk all over you? 'Just the way of it', that's fucking bullshit.”
+
+“Leave it, boy. I like you, but you be crossing a line now.” Bulat's tone is no longer friendly, his eyes downcast and refusing to look at me.
+
+“Explain it to me then, because I don't fucking understand. You live, laugh, and drink, yet you act like your lives are over once you're discharged from the army. The army isn't everything, there's more to life than soldiering.”
+
+“Easy for you to have hope!” The words erupt from his mouth, rage clear on his face as it turns crimson, his eyes bulging out as he yells. “We all have eyes, see your arm growing by the day, the treatment of an expert healer. The little hero is worth fixing, but old Bulat and his friends?” He thumps his chest hard, puffed out with pride. “We trained, we fought, we served and sacrificed, and for what? To be judged worthless and cast aside. What pride is there to be had in being a cripple, unable to work, only a burden to those around us, to beg at the general's table, praying that she drops some scraps for us to eat?” His anger deflates, his shoulders slumping as he waves me away. “Better had we fallen in battle as warriors, so that we could keep our pride.”
+
+Looking around, I see nothing but agreement and resigned acceptance in each of their faces. Soldiers, once proud and strong, reduced to this. Akanai offered them help, but charity is not enough, not to make them want to live. They still hold to the scraps of their pride, their identity tied to being a soldier, a warrior, an elite. Strength is everything to them, and I can help.
+
+“Alright, gather around and keep quiet.” My decision is made, despite Akanai's orders. What's the point of coming up with an amazing healing technique if I can't share it? “What I am about to tell you cannot leave this circle, agreed?” After a round of nods from everyone, I continue. “I am not being healed by some expert, I'm doing it on my own and I can teach you.”
+
+A loud snort sounds from Bulat. “Bah, better to tell us that you can shit gold and piss wine, that would be more believable. Healing is no easy task, regeneration as complicated as it gets. If you are truly healing yourself, then you be a genius, but Old Bulat ain't the reading type.” Despite his words, he edges closer, his hope for redemption stronger than his cynicism, and the others crowd in as well, cautious optimism on the faces.
+
+Patting him on the face with a smile, I quip, “As much as I would like to see your lips move while you struggle to read, that isn't needed.” Taking a moment to gather my thoughts, I also say a tiny prayer to the Mother, hoping that Akanai doesn't find out.
+
+Even if she does, seeing hope in these soldiers eyes, makes it worth the punishment.
+
+Well... Maybe. Whatever. Too late to stop now.
+
+Better to beg for forgiveness than to ask for permission.
+
+Chapter Meme

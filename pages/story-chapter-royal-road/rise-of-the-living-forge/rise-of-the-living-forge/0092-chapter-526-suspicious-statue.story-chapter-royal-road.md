@@ -1,0 +1,163 @@
+---
+id: 2a0cc8ba-84ac-567d-8faa-b348d580d4f5
+page-type-slug: story-chapter-royal-road
+title: "Chapter 526: Suspicious Statue"
+slug: 0092-chapter-526-suspicious-statue
+partOf: rise-of-the-living-forge
+position: 92
+ownLength: 2165
+unit: words
+ownProgress: 2165
+publishedAt: 2025-12-04
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2818358/chapter-526-suspicious-statue"
+royalRoadId: "2818358"
+markedReadAt: "2026-06-29T20:01:22.533Z"
+---
+
+The entryway slammed shut behind them.
+
+That was so incredibly unsurprising that not a single one of the Menagerie even turned back to look at it. It would have been odder if the door hadn’t suddenly closed at their backs. Nobody dumped enough gold to fill a swimming pool in a room only to then turn around and leave the way out open.
+
+Arwin banished Caldera, flexing his fingers as he summoned the Prism’s Reach to his hand. The massive bow materialized against his palm, its matching arrow already taking form in his other palm.
+
+He didn’t wait for the statue to start moving around to string the arrow and begin drawing back on the string. The makers of the vault had been kind enough to make everything incredibly straightforward. There was no reason to waste that gift.
+
+A shrill hum filled the air as the crystals making up the core of the bow started to tremble with energy. Dark flame shimmered within them as Arwin poured more and more power into the bow.
+
+Crystals crawled down Arwin’s hand as he let the massive weapon drink to its heart’s desire. It took everything he had to keep the arrow from shaking itself free of its spot against the bow.
+
+The others all backed up, readying themselves as they watched the statue through narrowed eyes.
+
+Arwin’s teeth gritted. The scream of the bow reached its crescendo. He could have put more magic into the arrow, but he wasn’t so certain that a single blow would be enough to destroy the statue, no matter how powerful the arrow was.
+
+It was better to conserve some strength just in case there was something else waiting in store for them.
+
+He let go.
+
+The arrow tore free from the bow with a deafening crack. It split the air in a streak of black light and slammed into the side of the golden statue’s head. Fragments of crystal exploded out from the side of the towering gold figure as the crystal tried to find purchase upon the statue’s surface.
+
+It failed.
+
+The crystal fragments rained away to shatter against the ground, leaving the arrow lodged solidly in the side of the golden statue’s head. The metal had dented heavily around where it had pierced in, but the statue was surprisingly still in good shape.
+
+“Holy shit,” Olive said. “Arwin’s arrow barely even hurt it. That’s definitely not just gold.”
+
+A deep rumble shook the earth. Golden coins clattered as the piles all around them shifted and trembled. Dust rained down from the ceiling as the huge statue shuddered. Its eyes ignited, two glistening red rubies lighting up with molten energy.
+
+Then the statue’s head slowly turned to look straight at Arwin. It didn’t even seem aware of the huge arrow sticking out of the side of its skull. Arcs of electricity zipped through the air from the piles of coins and treasure to crash into the statue’s body in showers of sparks.
+
+A shrill whine filled the entire room.
+
+Arwin’s skin prickled as he felt magical energy roll past them and begin to gather around the statue. Letters of gold that matched the huge figure’s body perfectly carved themselves into the air above its head. Then the statue rose from its seated position, sending coins cascading down its sides, and turned to face the intruders.
+
+[Golden Guardian – Expert 9]
+
+“Expert 9,” Anna whispered. “Can’t say I’m surprised.”
+
+“Good, old fashioned slug-fest,” Kien said. “Hit hard. Don’t get hit.”
+
+“That’s my line,” Arwin said. He banished the Prism’s Vengeance from the Guardian’s skull. With the same thought, he summoned Caldera into one hand and the Wyrm’s Revenge into the other.
+
+Something told him that even his immensely improved stats weren’t going to be sufficient to bulldoze through this fight. He was going to need all the abilities at his disposal. Anything that could shrug off a strike from the Prism’s Vengeance wasn’t going to go down easy.
+
+“Right,” Arwin said. “Let’s do this.”
+
+With that, he charged.
+
+Power pumped through his veins as his feet beat against the ground. The statue swung one of its massive hands at him as he approached. Arwin leapt to the side, landing in a shower of golden coins. The statue’s hand slammed down where he’d been with a ringing crash, sending even more gold scattering in every direction.
+
+It’s like fighting in some obscenely rich noble’s dream.
+
+Arwin kept his momentum, launching himself from where he’d landed and streaking toward the Guardian’s head in an Arwin-shaped blur. He swung Caldera with all the force he could muster, letting out a roar as the huge hammer arced through the air.
+
+A ringing boom rolled through the room. Arwin fell back to the ground, tremors racing up his arm from the force of the impact, and he nearly lost his footing in the shifting piles of gold.
+
+The statue stumbled back, a new dent in the side of its head. Smoke rose from where Caldera had bit into its metal flesh, but this strike hadn’t done any more damage than the arrow had. It had actually done less.
+
+Kien and Olive dashed up to the statue with the brief moment of instability that Arwin had bought them. Loud cracks split the air as Olive’s wooden arm lengthened. She drove it down into the ground, using it to vault high into the air.
+
+The arm slithered up behind her the moment she no longer needed its support, snapping back into its proper position. The dark wood twisted itself into the shape of a wide axe head. She brought both her sword and the axe down on the statue’s neck.
+
+The sound of rung metal echoed through the room. Olive leapt back, vaulting to land back on her feet as her cursed arm snapped back to its proper shape. Her blow had left a pair of thin cuts in the armor’s neck. Neither one of them was deep enough to be considered a significant wound.
+
+A golden arm blurred through the air toward her. Kien leapt toward it, his broom snapping out in a blur. The inconspicuous wooden handle of the tool cracked into the huge golden arm. And, impossibly, it knocked the statue’s arm to the side and redirected the blow harmlessly into the ground beside him.
+
+Kien stumbled as the gold beneath his feet shifted and threatened to swallow him under an avalanche. Olive’s arm shot out, hooking into the back of his shirt and yanking him over to her side.
+
+Neither of them thanked the other for the save. Such things didn’t have to be said.
+
+Arwin tightened his grip on Caldera. The statue was even tougher than it had first appeared. They weren’t going to be able to damage it at this rate. He banished the Wyrm’s Revenge from his arm so he could hold his hammer with both hands.
+
+“Cover me,” Arwin said. “I’m going to go fully on the offense.”
+
+Olive and Kien both nodded.
+
+The statue took a rumbling step toward them. It swung a huge golden arm down, and the three of them burst into motion. Kien darted to meet the blow, deflecting it to the side with his broom while Arwin raced for the statue’s knee.
+
+Gold flashed at his peripherals. The statue was trying to grab him with its other hand. But, before it could, but a small wave of wood slammed into the golden arm and slammed it off course.
+
+Arwin reached the statue’s legs uncontested and reared back, letting out a roar as he swung Caldera at the monster’s knee with all the strength he could muster. A loud clang tore through the air and the metal warped slightly beneath his blow.
+
+The sound of snapping wood split the room as the statue tore its arm free from Olive’s cursed arm. Arwin swung Caldera again, ignoring the fight entirely. He had to trust that Olive and Kien would keep the Guardian off of him.
+
+Caldera slammed into the giant’s knee a second time. Metal rang and crashed all around Arwin as he reared back and swung the hammer once more. He could feel the lava pumping faster and faster through his veins. The temperature around him rose at a rapid rate, quickly reaching near-boiling temperatures.
+
+He swung Caldera again. It slammed into the Guardian’s knee with enough force to seriously warp the metal. Black magma dripped from the hammer’s head. Every blow that connected with the Guardian made it stronger. Strength welled within it, nearly ready to—
+
+The Guardian’s other leg blurred toward Arwin.
+
+Its knee connected with his head with a loud crunch. Caldera was torn from his grip and he was launched backward, sailing through the room to slam into the far wall. The wind exploded from his lungs. Arwin dropped to the ground with a wheeze as Caldera crashed down in a pile of gold several feet away.
+
+Anna raced over to him, but she was forced to skid to a stop several feet away by the intense heat surrounding him.
+
+“Arwin!” Anna yelled.
+
+“It’s fine,” Arwin said, shoving himself upright. He was surprised to find that it was. His neck felt stiff… but the blow that should have had a great chance of killing him had done nothing more than a nasty bruise and a cut.
+
+Magma bubbled and solidified against his skin as it came into contact with the outside air. His newly improved blood was literally cauterizing itself. Arwin worked his jaw. Then he summoned Caldera back to his hands.
+
+Right. Get in here. It’s your time to shine, Armory. We’re going for the kill.
+
+Gehenna bubbled to life. Tendrils of black magma exploded out from Arwin’s back. He felt [Arsenal] activate as the Wyrm’s Revenge manifested in one of them while the Prism’s Reach and Vengeance appeared in others.
+
+Arwin cracked his neck. Then he dropped into a charge.
+
+An arrow screamed through the air from over his shoulder, slamming into the Golden Guardian’s head before it could bring its leg slamming down on top of Kien. The monster staggered, turning toward Arwin to glare at him with its burning red eyes.
+
+It tore its arm away from where Olive had tried to pin it to the wall with a veritable forest that had sprouted from her arm. The monster turned to Arwin, batting Kien to the side with its other hand, and dropped into a charge to meet him.
+
+Every step the huge creature took shook the ground and sent rivers of riches cascading down the hills to form new valleys. But the shifting ground barely affected Arwin. The heat rolling out from him and Gehenna was enough to prevent the coins from shifting too badly by melting them partially together.
+
+One of the guardian’s hands crashed down for Arwin. Olive leapt into its path, slamming it to the side with her cursed arm and buying him time to arrive at the knee he’d been hammering away at.
+
+The Guardian grabbed Olive by the leg with its other arm. It sent her whipping through the air and into the far wall. She dropped to the ground and Anna raced over to her, healing magic already shimmering at her palms.
+
+Arwin swung Caldera.
+
+The hammer slammed into the Guardian’s leg once more. Metal shrieked, and the song roaring within his weapon reached its crescendo.
+
+Rearing back, the Guardian brought its other hand hurtling down for Arwin’s skull. Gehenna’s tentacles shifted, shoving the Wyrm’s Revenge into the path of the blow. Metal slammed against the dragon-headed shield with a deafening crash.
+
+Magma rained down all around Arwin, but the defense held strong. He reared back once more.
+
+Then, with a roar, he swung Caldera one more time.
+
+Metal sheared. Gold shattered, spraying out in a debris-filled mist, as the guardian’s leg finally gave out. The monster pitched back silently, crashing to the shifting ground with enough force to nearly knock Arwin off his feet.
+
+But he wasn’t done — and neither was the statue.
+
+The Golden Guardian shoved itself upright, swinging its hand at Arwin in a vicious backhand. Kien darted into the blow’s path and flicked his broom up, redirecting the blow to fly harmlessly over Arwin.
+
+Caldera sent a pulse of energy into Arwin. The hammer was full to the brim with power — and it wasn’t looking to hammer out any more kneecaps.
+
+Arwin lowered into a charge.
+
+A golden hand streaked toward him, but black magma tendrils exploded up from Gehenna to shove the glistening metal hand out of his path. Arwin skidded across the glittering coins, baring his teeth as he arrived by the Guardian’s head, his hammer dripping black magma in anticipation.
+
+Arwin activated [Cataclysmic Strikes]. Caldera’s full strength exploded out, igniting the entire head of the weapon in thick, shadowy flame.
+
+The statue tried to rise.
+
+But it was too late.
+
+With a roar, Arwin brought Caldera crashing down like a falling star.

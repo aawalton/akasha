@@ -1,0 +1,137 @@
+---
+id: 3240fcc3-87c4-522c-89e6-d42424c788c5
+page-type-slug: story-chapter-royal-road
+title: "Chapter 556: Mausoleum"
+slug: 0123-chapter-556-mausoleum
+partOf: rise-of-the-living-forge
+position: 123
+ownLength: 1962
+unit: words
+ownProgress: 1962
+publishedAt: 2026-02-10
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3033256/chapter-556-mausoleum"
+royalRoadId: "3033256"
+markedReadAt: "2026-06-29T20:02:22.628Z"
+---
+
+The next two days slipped by so fast that Arwin barely even had a chance to realize that they’d gone by. He barely had any free time to himself. Just about every single second he — and the rest of the Menagerie — had was spent on preparing for the auction.
+
+Anticipation hung in the air like static charge all around the Menagerie’s street. The arrival of the Dwarven Council’s puppet guild had only added fuel to the fire. Rumors filled the common room of the Devil’s Den as more and more adventurers were drawn to the street.
+
+It also quickly became apparent that there was a vast difference in the average adventurer that frequented the Menagerie and the ones that had started to turn up during the final days leading up to the auction.
+
+A number of cloaked figures dotted the Den, sitting alone or in silent duos at the tables, doing nothing but watching and eating. Nobles dressed in clothes probably worth as much as Milten itself swung by the street with their entourages. Warriors and mages and just about everything in between gathered, all to try and claim entry to the auction.
+
+And among them came the Adventurer’s Guild.
+
+There was no grandiose announcement. No thunderous fanfare or even a simple declaration of their presence. They may well not have been there at all. The only way Arwin even discovered their presence was a few words of warning in the early hours of the day — and then Rodrick had been off to continue surveilling the street.
+
+He hadn’t seen so much as a hint of the Guild’s representative yet. A part of him hoped it would stay that way. The rest of him knew that he wasn’t anywhere near that lucky. But, for the time being, the Guild remained out of sight.
+
+And then the morning of the auction was upon him. When Arwin and Lillia rolled out of bed, neither of them said a word. There wasn’t any more room for distractions. The Menagerie had discussed exactly what everyone’s role would be today. They knew exactly what would be required of them.
+
+It was pitch black when Arwin and Lillia stepped out on to the street. That hadn’t stopped anyone. Though the sun hadn’t yet even dared to consider showing its face, the Menagerie’s street was completely packed.
+
+Not just with any adventurers, at that. Glossy armor covered every warrior. Weapons drenched in magic hung from every hip, and the smell of so many powerful items filled Arwin’s nostrils that he couldn’t have plucked out an individual scent if he’d wanted to.
+
+These were many of the leading faces of the kingdom. Not the absolute peaks of power, of course, but many of them. There was no doubt in his mind that many of the highest guilds in the kingdom probably had some presence here.
+
+Though he’d yet to see the Secret Eye, Arwin had no doubt that they were also present somewhere.
+
+The last time Arwin had seen a gathering of adventurers this powerful had been when he had still been the Hero. It was little wonder he’d once been convinced that everyone and their grandmother had been walking around with a magical item.
+
+These weren’t even all the people that had shown up for the auction. They were just the strongest and most influential ones. The crowd stretched out past the Menagerie’s street and continued into the alleyways.
+
+Arwin didn’t even want to think about how many people were here. Something told him the governing body of Milten wasn’t going to be too thrilled with the sheer number of people here. Then again, it was probably helping the local economy. He doubted the city had ever seen anywhere close to this number of visitors.
+
+He and Lillia pushed through the teeming crowd. Almost nobody even noticed them. A fair part of that was because of Lillia’s shadows — but the rest was because just about every single eye was focused on the Mausoleum.
+
+By the time anyone did catch sight of the two, they’d already managed to make their way up to the entrance of the Auction House. The Dwarven Council’s guards stood at either end of the doors, joined by Olive and Reya, who had all taken up post to make sure nobody tried to shove their way in.
+
+“Good timing,” Reya whispered as she opened the door just a crack for them. “VIP Room 1 is ready.”
+
+Arwin gave her an appreciative nod. Then he and Lillia slipped inside. The door slammed shut behind them with a resounding bang. They wasted no time in heading up through the cracked halls of the building and to the upper levels, where the VIP rooms waited.
+
+Each of them was sectioned off by a thick stone door with a brass number embossed into its center. Madiv had assured everyone that the rooms were entirely sound-proof from the hall, and Arwin believed him.
+
+The door to room 1 already hung open in wait.
+
+Arwin and Lillia made their way into it. The moment they stepped past the doorway, it ground shut behind them with a resounding thud. Complete silence was all that remained. The room — really more of a fancy balcony with walls to block the other VIP rooms from seeing in — overlooked the entire Auction House.
+
+There were two stone chairs and a table between them with a small assortment of baked goods spread across it. The faint scent of honey and cinnamon rose from them, and Arwin’s mouth was watering before he’d even realized what was happening.
+
+Lillia grinned as she took her seat. “Go on. No need to save them. I’ve been working on these for days. There’s enough for every single person at the Mausoleum. But, just in case, kitchen is still making more.”
+
+Arwin sat down beside her and grabbed a croissant piped full of a red cream. Then he looked out over the view before them. Even though his role in the auction was minimal, he could feel his heart pounding like a runaway horse in his chest.
+
+“Are you ready?” Arwin asked.
+
+“You’re asking the wrong person,” Lillia replied. She claimed a pastry for herself. “I’m not exactly the main player here. I’m just the backup. Today’s main character is Madiv. How do you think he’ll do? That’s the one wild card we can’t account for.”
+
+They exchanged a glance.
+
+Then they looked back down to the raised platform, still devoid of its auctioneer.
+
+“Madiv?” Arwin asked. “Putting on a dramatic show? And you’re asking me how you think he’ll do?”
+
+Lillia snickered. “Oh, I know. It was a rhetorical question. He’s about to have the time of his life.”
+
+***
+
+Neil resisted the urge to tap his foot on the ground. It wasn’t from any sense of politeness. He simply couldn’t move in the crowd. The chances of bumping into someone he couldn’t afford to offend were too high. He couldn’t tell if he was excited or exasperated. The only way to find out which was to see what the next few hours held.
+
+It was too damn early to be awake. And, on the days when he did have the misfortune of rising before the sun, the only place he wanted to be was tearing through a dungeon. He took no small amount of pride in the fact that he was a Bronze Dragon.
+
+The Rank 54 guild had not been easy to get into. He’d spent years of his life perfecting his skills and training himself to the absolute limits. Getting into Bronze Dragon had been the happiest moment in his life.
+
+And they’d treated him well. Access to dungeons that had pushed him to the peak of Expert, guidance from master warriors and brilliant strategists. So when he’d been told that there was a special mission for him in particular, he couldn’t have been more excited.
+
+He’d expected some high-level dungeon. Neil would have been more than happy to settle for a diplomatic mission of some sort.
+
+But instead, he’d been sent here.
+
+To a backwater town, to the auction of what should have been a backwater guild full of backwater adventurers. Except standing in the crowd around him were no little minnows.
+
+Neil could have sworn he’d spotted Barnav the Black Cleaver earlier that morning. The legendary guild leader of the Black Ice Guild, ranked at 31 in the Secret Eye rankings. He hadn’t believed it at first. But just a few hours of waiting around in the crowd had made things very clear.
+
+The only fish in these waters were sharks.
+
+How did a little crafting guild manage a crowd turnout like this for their auction? They’ve even got Bleak Shield’s warriors guarding their entrance like a pair of dogs. Do they have dirt on somebody or something?
+
+Neil got the feeling just about everyone else in the crowd was wondering the same thing. But for the time being, there were no answers. The Menagerie had somehow managed to gather a group of some of the strongest people in the kingdom and made them wait around in the street like a bunch of peasants.
+
+He would have laughed if it wasn’t so—
+
+Neil’s gaze snapped up as he just barely caught something out of the corner of his eye. A flicker of dark cloth near the top of the Mausoleum.
+
+Standing at the top of the Auction House was a lone man clad in a pitch-black suit. Red accents like splashes of blood encircled his cuffs and ran along the angular collar framing his pale features.
+
+The man’s lips were split into a wide grin that did nothing to reveal the perfect white fangs glistening in his mouth.
+
+A vampire? In the middle of a city? Impossible. What is—
+
+“Ladies and gentlemen,” the vampire called, his voice slicing through the air like a blade. Every single gaze in the crowd that hadn’t already noticed his presence turned toward him. The vampire’s grin grew wider. “Thank you for waiting. My name is Madiv. I will be your auctioneer for today.”
+
+Neil nearly choked.
+
+You can’t be serious. I heard the Menagerie had a little dress-up bar, but are they actually going to theme their auction? There’s no way they—
+
+Madiv exploded into a stream of black smoke that twisted down, crashing to the ground before the doors of the Mausoleum and reforming in an instant.
+
+Neil’s eyes widened. That wasn’t an ability he recognized. Not a human one, at least.
+
+Is that actually a real vampire? No. Impossible. But how did they manage to emulate one of their skills so well?
+
+“I will have to request your cooperation to ensure today is fruitful for all of us,” Madiv continued. “While on the Menagerie’s street, please obey our laws. Do not fight. Do not steal. And if we give you an order, you will obey it. Of course, this is all for your safety. If you do not like that, you are welcome to leave.”
+
+Murmurs passed through the crowd.
+
+Not one person left.
+
+Madiv’s lips curled into a cold sneer. “Very good. Please note that any dissidents or troublemakers will be eaten.”
+
+That elicited a few laughs.
+
+Neil couldn’t help but notice that there wasn’t so much as an ounce of humor in Madiv’s eyes. The hair on the back of his neck stood on end. Neil had gotten pretty good at reading people in his time. And if there was one thing he was damn certain of, it was that Madiv was dead serious.
+
+“Now,” Madiv continued, flicking his arms up with a dramatic flair. The doors to the Mausoleum slammed open behind him. “Allow me to welcome you to my Mausoleum.”

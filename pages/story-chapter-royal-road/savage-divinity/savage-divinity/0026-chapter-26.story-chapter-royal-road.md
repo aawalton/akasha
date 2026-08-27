@@ -1,0 +1,111 @@
+---
+id: 0150dcc9-1ec7-571b-be10-8ab60dbda112
+page-type-slug: story-chapter-royal-road
+title: "Chapter 26"
+slug: 0026-chapter-26
+partOf: savage-divinity
+position: 26
+ownLength: 3128
+unit: words
+publishedAt: 2016-03-25
+link: "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/60745/chapter-26"
+royalRoadId: "60745"
+---
+
+Mila watched, weapons clutched in her hands, as Rain grinned ferociously, staring at the cadets and Sentinels around him, as if searching for another person to fight. He stood over his defeated foe, whom he viciously stomped into submission. He seemed to delight in the dying gasps of the bandit he so brutally stabbed, ear cocked to the sounds. He closed his eyes in satisfaction, grotesque smile pasted on his face, almost as if reveling in the death he had dealt.
+
+She had run towards him, to try to save him, but he had saved himself, so violently, so crudely, yet effectively. Now, she was scared to approach him. He had seemed possessed by his anger. He finally killed the wounded bandit, ending his misery, picked up his spear, and began to stalk off, before turning back. Was he going to kill the other downed bandit? There was no honor in killing an unconscious enemy. She stepped towards him, voice frozen in her throat. Could she even stop him? What if he was Defiled?
+
+He began poking his bow with the butt of his spear. Mila's cheek twitched. What is this idiot doing? He was trying to slide the bow onto the spear, his shield arm dangling uselessly. She closed her eyes and took a deep breath. “What are you doing, idiot. Just pick it up.” She stalked over and grabbed it, pushing it into his chest. He stumbled back a few steps, almost falling. She gasped and ran forward to catch him. “I'm sorry, I didn't realize you were so injured.”
+
+He chuckled and spoke, “Only a tissue injury.” He was smiling stupidly now, eyes bright like he had said something clever. Nonsensical idiot. There was no sign of the ruthless, gleeful killer she had witnessed moments ago, only the gash under his eye and blood covering his body marring the scene. “In truth, I thought I would faint if I leaned over.”
+
+Mila guided him back towards the healers, a hand on each arm. He walked unsteadily, stumbling. She looked him over as they moved. His armor was in shreds, shield in pieces. He wasn't wearing his helmet, spear and sword still in hand, bow dangling from his working arm. He was covered in blood, most seeping from nasty shoulder wound. She stopped him in front of the healers tent and sat him on the ground. He thanked her, polite as always, and closed his eyes.
+
+She continued to watch him, worried about him. The healers were busy with other more serious injuries, and it looked like Rain would be fine. She blinked and leaned forward, disbelieving her eyes. The gash on his face was knitting closed, slowly, before her eyes. The flesh bound together, new skin forming over top. In a few breaths, there was no sign of the cut except for the blood.
+
+Incredible. Even Lin couldn't heal that quickly. A deep gash like that would take her at least 5 minutes. He had healed that in less than one. No wonder she idolized him, that was impressive. Mila looked over his other injuries, but the armor and clothes covered them. He opened his eyes and raised an eyebrow at her, and she felt her face heat up. She was too close to him, noses almost touching.
+
+She jumped back and pointed at him, saying, “What training did you do to heal that quickly? It's almost unbelievable.”
+
+He shrugged and winced. Idiot. Shrugging with a shoulder injury. “I just practice healing.”
+
+Her eyebrow twitched along with her cheek this time. This infuriating idiot. She wouldn't play his game. Not this time. She turned away, lips pursed, tapping her foot. She listened to the sound of him, shifting about, grunting in discomfort. What is he doing now? She turned and glared at him, for being an annoyance. He was trying to struggle out of his vest. And failing spectacularly. She tsked in annoyance, drew her dagger, and began cutting him out of his vest.
+
+“... Is your mother going to make me pay for that? Or the shield I broke? How much do they cost?”
+
+She glared at him. Who did he think Mama was? Some stingy miser, unwilling to armor her Sentinels? He even had the gall to look hurt by her glare. She continued sawing through his vest until it was free. “How do you practice your healing?” It vexed her, not knowing.
+
+“Oh, err, I hit things until I need healing. Not bad enough to break anything, but like, bruises and bone injuries.” Two mysteries, solved at once. This is why he punched boards for hours? To hurt himself? He was deranged, a lunatic. Next she would spy him stabbing himself, the fool. He will likely end up being found dead, trying to strengthen his neck with a rope.
+
+He thanked her again with another nod, and began pulling away the cloth to look at his wound. She sucked in a breath. The cut was deep, the bone visible, but it wasn't bleeding much. He must have healed the severed blood vessels. Incredible control. He pulled a sewing kit from his belt pouch, set a needle, point first in his mouth, and started trying to thread it. Mila grabbed it from his mouth, and threaded it in one go. “Do you not know how to ask for help, idiot? Do I even need to teach you that?” He started to bow his head and she snapped, “Stop lowering your head. You are a Sentinel, albeit a cadet. Have some pride.”
+
+He blinked a few times, owlishly. She knew that look. A question was coming. “Uhh, but I'm not a Sentinel?”
+
+Her shoulders sagged in disbelief. Not even a real question. “If you aren't a Sentinel, then why are you here, guarding the caravan? Are you so bloodthirsty that you cannot continue life in the village?”
+
+He blinked again, taken aback. “Blood thirsty? No, no no. I love it in the village. I wish I never left. I'm here because your mother and Tokta didn't give me a choice. They just took over my training, and told me to show up. I didn't even know I was coming along, until the night before we left.” She almost laughed. Unbelievable. She literally did not believe him. As if Mama and Tokta would act so irresponsibly. He took the needle from her, almost bowing again before he caught himself. He turned and began to stitch the wound together. He made no sound as he worked. He didn't even look in pain. It was as if it wasn't even his own shoulder, just a slab of meat.
+
+Mama approached, fully armored and spotless. She looked at the two of them. Mila shrugged, unsure why Mother looked at her so intently. Mother knelt down and took the needle from Rain, picking out his stitches. She threaded a new needle, and began stitching the wound, neat and orderly this time. While she worked, she spoke, “Where is your helmet?”
+
+“Er... in my tent I think. I forgot to put it on for sentry duty.” The idiot. At least he looked sheepish.
+
+Her mother didn't comment on it. Just kept stitching. “You sounded the alarm?”
+
+Rain nodded, head turned away from his shoulder. Why was he squeamish now? He had just been stitching it without problem. Now he was breathing heavily, red in the face. Mama finished the stitches, and asked, “Any other injuries.” A shake of his head. He didn't even look at Mama, or thank her. How rude. Mama turned and walked away, and Mila followed after.
+
+“You watched him fight, Mila? Your thoughts?”
+
+Mila nodded. “He's vicious, but unrefined. He killed two, and knocked a third out, before anyone could help him. Grinning through the whole ordeal.” She paused. “He is very odd, so savage in battle, yet gentle at other times. I do not understand him. I almost worried that he was Defiled during the fight.”
+
+Her mother nodded. “He is what the Mother made him. A gentle child, but his ordeals have lit a fire in him, that surges forward when pushed. Do not worry, if he were Defiled, you would know. It would be obvious to all. I doubt he would give himself over, he is too determined, stubborn.” She paused, and changed the subject. “The bandits were stealthy. A bit more time unnoticed and they could have been slitting Sentinel throats. He did well to spot them. Saved quite a few lives.”
+
+It seems Lin was right. Mila still wasn't convinced he was 'the best', but he wasn't as terrible as she'd thought. She thought again of his wide smile, baring his teeth like an animal. A shudder ran down her spine.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Zabu is a furry little asshole. Doesn't like being pet, bites me when I feed him, hates being groomed, and protests every time I move while riding. Worst mount ever. I need to give Suret and Pafu more hugs for being awesome. I give up on trying to smooth out his fur. He can just live with a cowlick. I lift his harness, one handed, trying to get it around him, but Zabu is not being helpful.
+
+“Stop trying to be his friend, idiot.” Sumila scolds me. I wish she would do something about the way she addresses me. I am older than her, but I guess I am also kind of an idiot. “Zabu is a trained battle-mount, born and bred. He doesn't want you to be his friend. He wants you to lead him.” She takes the harness from me and snaps her fingers in front of his face, before grabbing a handful of his fur and tossing the harness around him. She buckles it up quickly, Zabu giving her the stink eye, but otherwise compliant.
+
+“Thank you, Sumila for all your help. If you ever need my help, just ask and I will do my best.” I pat Zabu once, and he hisses. Dammit. Be his boss, not his friend. Why can't he be my friend?
+
+Sumila sighs, and holds her hand up, knuckles out, for Zabu to sniff. He touches it with his nose, and she scratches his muzzle. “You need to ask permission to pat and touch. Respect him if he denies it. They are not toys, but living breathing creatures.” I guess she knows a lot about quin training as well, just like everything else.
+
+“He's just so different from the other quins I've met.” I sound whiny, but to be fair, I am. I want a nicer roosequin. “He hates everything I do. Why doesn't he like me?”
+
+“He has no confidence in you. That is no ones fault but your own. Lead him. When he accepts you, he won't be so moody.” Sumila hops onto his back. “Go sit in the wagon, you're injured.” She rides away on Zabu. Whatever. She can have that stupid fur-bag.
+
+Husolt puts a hand on my uninjured shoulder and chuckles. “It's good advice, you should listen to it. It can help you through life, in more ways than one.” He starts laughing some more. I don't get the joke. “I hear you have interest in forging?”
+
+I brighten at that. My injuries will be done healing in a few more days, and we should be at the city by then. The shoulder wound was the worst, a calm blue, but a big cut in my side was pretty bad as well. The giant scab itches like nothing, and I've been trying to stay distracted, to keep from scratching, or remembering. I need to find something less itchy to treat cuts. “Not really, just some curiosity about the process. If you were to sell my sword, how much would it cost?” He guides me towards the wagon.
+
+Husolt sounded off like a donkey. Annoying laugh. “You in need of coin, lad?”
+
+“No, I just want to know. I'd like another weapon or armor, and knowing the value would be useful.” Husolt helps me onto the wagon, lifting me by the belt with one hand.
+
+“Listen lad. If you tried to sell that sword, you'd attract all sort of bad attention down on you.” No smile from Husolt this time. I said I don't want to sell it though. It's mine, a gift from Baatar. “That's a spiritual weapon. Tell no one outside the village about it. We should have made you leave it in the village.”
+
+“If it's so valuable, wouldn't someone just kill me for it?” Did they give me bandit bait?
+
+“Ah, of course. Mila said you had some holes in your knowledge.” Husolt chuckled again. What's so funny? “A spiritual weapon is only valuable if it has yet to find an owner. Like yours.”
+
+Ah, Mila told me about this. “This is about harmonizing with the weapon?”
+
+“Indeed. Once you harmonize with it, the weapon becomes yours. When you die, it becomes a normal weapon. Until then, no one else will be able to insert internal energy into it, and trying will injure them. An unbound spiritual weapon is great prize for many. Luckily you can't tell without trying to bind it.” He frowns at me. “Quickly, use this time to bind it. Perhaps you'll succeed before we reach the city.”
+
+I settle myself down in the seat next to Husolt, as he directs the horses to start moving. Surprisingly stable, this wagon. I unclip the scabbard and place it on my knees, hands over-top. Deep breath. Horse shit. Smells fucking terrible. No, concentrate. Use your mouth. Breath in. Breath out. The warm, enveloping feeling returns. I can see why they call it the 'Embrace of the Mother'. I spent most of my internal energy this morning, healing everything. I feel it entering my body, strengthening me. It even helps along with healing my injuries, the pinch of healed skin over my stitches causing pain.
+
+It makes me stronger than I have a right to be. I can easily lift 60 kg above my head, more or less my own weight. Nothing supernatural, but I'm just a teenager. I can sprint full speed for almost 5 minutes, hold my breath underwater for 7. It's an amazing thing, the Energy of the Heavens. I've been trying to put logic to it, but it defies it. Where does the energy come from? How is it making me stronger? I'm decently muscled, but toned and ropy, rather than bulky. More Bruce than Arnold. I've seen some others my age that are beefy, and others somewhere in between, even some who are downright skinny. Why the difference in treatment, when we all do the same process? Why am I so short? The women differ in body type as well. Some remain slim and feminine, others bulk out, still feminine, but more defined muscles. Alsantset is thin and toned, but I've seen her lift Suret, who is at least 250 kg. I don't get it.
+
+I draw in as much Heavenly Energy as I can. It's an odd thing. When you have no chi, the Heavenly Energy fills you quickly. It slows down if you have a lot of chi. I've found that you can use your chi to strengthen your body, and speed the whole process up. My guess was it worked like diffusion. The higher the density, the lower the accumulation rate. Taduk was noncommittal about my theory, and Baatar was outright dismissive. They aren't big on the why around here. Or maybe they know, and I'm supposed to figure it out on my own.
+
+When my body can't be nourished anymore, I feel the energy build up in my core. I can't hold very much at the moment. If I lose a finger, it would take weeks to grow back on my own. Taduk can heal it in a matter of hours. It's not just quantity, but control. The quantity I can hold will grow with time. My theory is that my core expands in volume, indirectly lowering the density, increasing the accumulation rate. Compared to other people my age, the amount of chi I can hold is pitiful. It's like they have a full tank and I'm working off of fumes. Nothing else I can do about it in the meantime, I just have to live with the disadvantage. I can only work on my control, be more efficient with what I have.
+
+I try to get as much practice healing as possible. Especially since I get injured so often. Maybe mid fight healing is out of reach, but as long as I can survive a fight, I should be fine. That's all that matters. Survival. Give flesh, break bone. So I punch and kick, until I feel my bones start to fracture, just a bit, and I heal it. I noticed it was getting harder and harder to fracture my fists, feet, and shins awhile ago. The bones have gotten stronger, more dense then the rest of them, so I started working on my knees, elbows, and forearms, but I haven't gotten far yet. At some point, I should work on my chin and forehead, but I get enough stares just punching things. I can imagine the whispers if I start headbutting things. I should work out my inner organs as well, but how would I do that?
+
+My newly collected chi flows around my body, rather than sitting in my core. The goal is to have it drift into my weapon, as if it were any other part of me. The energy needs to accept it as a part of me. I need to bind the weapon to myself, harmonize with it, make it mine. The Sword is me, I am the sword. If what Husolt says is true, my sword is a tempting prize. He didn't say how much it costs though. I still want a spear. And armor. Damn, I wonder how much those leather vests cost? Mine's ruined, and I feel naked without one.
+
+“Lad, time to wake up. It's dinner time.” My eyes open to Husolt shaking me lightly. It's almost dark. I spent the whole day in the State of Balance. Blinking a few times, I stretch. It doesn't feel like I haven't moved all day. I feel great, in fact. I hop off the wagon and check my injuries, my scab already healed over, but scarred. I can take care of that easily. I look at my shoulder, and it's the same. Time to pick out those stitches. It should have taken days. Not a bad day's work. As we walk, I absently ask “What's for dinner?” I'm pretty hungry from missing lunch.
+
+Husolt brays. “Whatever you're cooking, lad. Get to it. I'm a hungry man.”

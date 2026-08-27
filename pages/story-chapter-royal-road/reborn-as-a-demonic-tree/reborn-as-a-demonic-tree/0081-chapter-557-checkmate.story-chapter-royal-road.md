@@ -1,0 +1,195 @@
+---
+id: 82461651-658d-5fa8-8c3d-22217dcc68e7
+page-type-slug: story-chapter-royal-road
+title: "Chapter 557: Checkmate"
+slug: 0081-chapter-557-checkmate
+partOf: reborn-as-a-demonic-tree
+position: 81
+ownLength: 2469
+unit: words
+publishedAt: 2026-04-10
+link: "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3257520/chapter-557-checkmate"
+royalRoadId: "3257520"
+---
+
+Grand Elder Ren felt it first—the wrath of the heavens churning overhead.
+
+He looked up at the darkening sky. "Come to interfere after seeing how unfair this Moros airship is?" Ren muttered, though he doubted that was truly the case. Over the past hour, nearly half his fleet had fallen to Moros's relentless attacks, with no apparent way to stop it. The airship's void shields operated at the Nascent Soul Realm, meaning he alone possessed the power to punch through it—and Moros had been careful to avoid him entirely, never giving him a chance to take it down.
+
+Thankfully, he had come up with a brutal but effective solution.
+
+The older dreadnoughts, unable to alter their shield affinities, had been sacrificed, while the fleet's strongest airships formed a tight ring around his Flagship, the Radiant Dawn. In such a formation, he could respond instantly to any attack, and the Flagship itself could provide support to any airship as needed.
+
+Since then, Moros had gone quiet.
+
+Ren knew the ship still lurked beyond reality, watching and waiting for the formation to falter—but no matter how he strained his senses, he couldn't pinpoint its location or reach through the veil of reality to strike it. Never in all his years of command had he faced such a troublesome foe. Still, every enemy had a counter.
+
+In Moros's case, it was unity.
+
+Lone stragglers were doomed to be picked off, but against a tight formation, the stealthy airship's lack of Monarch-level defenses became a liability.
+
+If Moros had Monarch-level shields, Ren thought grimly, I don't know what I'd do.
+
+He turned his attention back to the sky—and froze.
+
+Golden eyes stared down from within the roiling clouds, followed by flashes of heavenly lightning that illuminated the sky.
+
+"Don't tell me…" Ren hissed. "Is someone actually attempting an ascension now, of all times?" He scanned his fleet, fury rising as he searched for the fool. The shields alone would cripple any attempted ascension, ruining the person's foundation moving forward and uselessly draining the Flagship's Qi reserves in the process.
+
+Then he stopped.
+
+Realization struck him.
+
+"The goddamned dark god is using the heavens to strike us down," Ren muttered.
+
+The question was how. Ren tried to scan the fleet with his spiritual senses, but their shields interfered. Left with no choice, he dove toward the Radiant Dawn. The shields parted just long enough to admit him before sealing once more, and he moved swiftly through the corridors toward the command room.
+
+"Grand Elder, the heavens—"
+
+"I know," Ren cut in, his gaze sweeping the room. "I thought one of our own had lost their mind. Then I remembered—we're facing a dark god. Gods may wield divine energy, but they cannot command the heavens directly. Which means they must have deliberately provoked them. An ascension of some kind is the most likely explanation."
+
+He turned sharply. "Elder Tang."
+
+The man straightened instantly. "Yes, my lord."
+
+"Boost the Flagship's spiritual senses and its link with our airships. I need the source."
+
+Elder Tang hesitated, then cleared his throat. "I was just about to report, my lord. The source… It's our own ships."
+
+Ren's eyes narrowed. "Explain."
+
+"The abandoned ones—the vessels raided by Moros and left drifting on the outer edges of the fleet." Elder Tang gestured for him to come closer. "Look here." He pointed to the jade console. "The Blazing Sunrise, the Third Law, Sojourner, and the Silent Tempest. All of them are registering ascension phenomena onboard."
+
+Ren stared at the display. "All at once?"
+
+Elder Tang nodded grimly. "All at once."
+
+"How?" Ren murmured, genuine confusion seeping into his voice. "Did that insane dark god somehow teleport in four cultivators who all just happened to be on the cusp of ascension?"
+
+"That seems highly unlikely," Elder Tang said after a moment. "It could be a deployable array designed to simulate an ascension and provoke the heavens' wrath."
+
+Ren frowned. "Is that even possible?" He had never heard of such a thing in the Celestial Empire's arsenal.
+
+Elder Tang hesitated. "Theoretically, yes. But the materials required…" He trailed off, shaking his head. "And the applications are so rare that constructing even one would be absurd. Four is outright madness. Perhaps we should simply blast them out of the sky."
+
+They both turned toward Elder Lu, who was the commander of the Flagship's cannons.
+
+Sensing their gaze, he looked up from his console and shook his head. "With our current formation, the cannons are useless. To get a clear shot at the abandoned ships, we'd have to fire through our own dreadnoughts."
+
+"So that's the game he's playing," Ren said, clicking his tongue in annoyance. The very formation he had employed to counter Moros also strangled the Flagship's firepower.
+
+"Furthermore," Elder Lu continued, "we're already burning our Qi reserves to maintain speed. If we divert any Qi to the cannons—or reinforce the shields to withstand the heavenly lightning—we'll slow down again. I can't advise such a thing, considering the current situation we find ourselves in."
+
+"We also can't outrun the heavenly lightning, as the sources drawing the heavens' wrath are tagging along with us," Elder Tang reasoned. "The only chance we have is to have our own cultivators or dreadnoughts fire upon the abandoned ships, but that is a colossal waste of Qi, which we are in dire need of conserving—"
+
+Ren slammed his fist into the jade console. The sharp crack echoed through the command room, making several Elders flinch.
+
+"Moros doesn't suffer from any of these constraints, so why does my fleet?" he hissed. His jaw tightened as he swept his glare across the room. "Well? Are our formations flawed? Or are the cannons poorly designed?" His eyes locked onto Elder Tang, then Elder Lu. "This is a Flagship of the Empire! Some of these dreadnoughts may be old, but this is still the pinnacle of imperial power. How can we be outplayed by wilderness scum?"
+
+Silence swallowed the room. The Elders exchanged tense glances, none daring to speak.
+
+"Answer me," Ren growled, "before heads start flying."
+
+Never in all his years of command had he felt so helpless. For the first time, he wondered if it wasn't his judgment failing him—but the tools he had been given. It was unfair. How was he meant to win when the wilderness wielded airships that seemed to defy reason itself?
+
+"Don't you get it?" he continued as the silence remained, blanketing the room. "This was a mission given personally by the Chairman. Do you know what happens to those who fail his orders? Death. Our lives, and more importantly, my life, are on the line here. Now tell me, why is Moros allowed to threaten an entire fleet by itself?"
+
+Elder Tang finally cleared his throat, choosing each word as though his life depended on it.
+
+"My lord… Moros should not exist. According to the Celestial Empire's understanding of formations and the dao, its very operation is impossible. An airship that freely traverses reality and the void should require impossible amounts of Qi—far more than a vessel that size could ever store. To compensate, it would need to be many times larger than the Radiant Dawn, but then it would lack the agility it displays." He bowed his head. "I am ashamed to admit that I cannot explain its existence and capabilities. It's almost like a trick or an illusion."
+
+"You think an illusion could do this?" Ren said, his gaze boring into Elder Tang for a long moment. Then he exhaled sharply and turned away. Now was not the time to execute this clueless formation commander he had been stuck with.
+
+Ren needed to cool off, so he strode to the command room's broad window and stared up at the churning sky. The heavens were gathering themselves; the first strike of heavenly lightning was imminent.
+
+"How many steps ahead are you?" Ren hissed under his breath. You force me to fire on my own ships. You let your desolation gnaw away at every affinity except the ones keeping us moving. You force me into an overly tight formation with Moros—then call down multiple heavenly tribulations to shred our shields.
+
+If he loosened the formation, Moros would slaughter the dreadnoughts one by one. If he held it, the heavens would tear them apart.
+
+Is that your goal? Ren pondered. To isolate the Radiant Dawn?
+
+Why? What was it clearing the way for?
+
+A memory surfaced—the report detailing Faelorian's death.
+
+His eyes widened in realization. That desolation beam… Can you use it again? Who am I kidding? Of course you can. Apparently, dark gods answer to no limits.
+
+"My lord!" Elder Tang shouted suddenly.
+
+Ren spun. "What is it?"
+
+"We have a breach!" Panic cracked Elder Tang's composure. "The shield and gravity formations on the lower levels are failing—one after another. I looked away from the console for a moment, and they were already gone. How they bypassed the flagship's shields is beyond me, but—"
+
+"I'll handle it," Ren said, already moving toward the exit. Anything that could breach the Flagships' shields and wreak such destruction was likely a threat only he could crush.
+
+He didn't slow. "You send Nascent Soul Realm Elders in groups and a fighter contingent to bombard the four ships you identified. I want those ascension-inducing arrays erased before this heavenly interference spirals out of control."
+
+Everyone bowed as he left for the lower levels. He hastened his pace as the terrified screams of cultivators echoed from below. Deciding that taking a usual route was too slow, as the Flagship would fall out of the sky if any more of those gravity-reversing arrays were taken out, he called forth his sickly green soul flames.
+
+He was a Monarch of poison and an avid alchemist.
+
+Pouring a metal-eating solution on the floor, he infused his Qi into it, and with a simple stomp, the floor gave way. It was a little tedious, and sometimes he envied those affinities like spatial or shadow that could teleport or move quickly. Though he wasn't too concerned. While he lacked mobility, he more than made up for it with destructive capabilities.
+
+"I could go a little faster if they hadn't constructed this entire Flagship out of spiritually enhanced steel," he grumbled. He could, of course, punch his way down, but that might obliterate some of his own men and break the very formations he was trying to protect.
+
+Dropping down into a lower level, much closer to the screaming, he saw a cultivator rounding the corner with an expression of horror. "You there!" he called out, grabbing the fleeing man's attention.
+
+"Grand Elder Ren? Is that really you?!" The cultivator was in disbelief, as if he were witnessing a ghost, and then the man straightened up, though the expression of fear never left his face.
+
+"What is happening down here?" Ren demanded.
+
+"A monster, if you can even call it that, burrowed a hole through the Radiant Dawn's hull, and nobody could put a stop to it. No matter how many inner doors we closed, it relentlessly melted through them all."
+
+Grand Elder Ren raised a brow. "A monster? Not a cultivator?"
+
+The man shook his head. "It's hard to describe. Imagine a devouring, unstoppable cloud of silver in the vague form of a spider..."
+
+Ren appraised the man and wondered if he had gone insane. "Where is it now?"
+
+"Down there in hangar three."
+
+Ren pushed past the cultivator and broke out into a sprint. Hangar three was one of the hangars designed to hold a dreadnought. It was also where one of the main gravitational reversal arrays was located. He couldn't let that area be damaged.
+
+During his rush, he passed many terrified cultivators. Most were in the Star Core Realm, with some in the Soul Fire Realm. Nobody expected to fight inside the Flagship, so they were all ill-equipped for battle, but an enclosed space was where Ren shone.
+
+"Keep that door open for a second," Ren shouted as he saw three cultivators desperately trying to seal one of the inner doors by cranking a hefty wheel. They froze in response to his shout and cast glances his way. Seeing it was him, they all looked briefly relieved.
+
+"Grand Elder Ren?"
+
+"Our savior is here!"
+
+He ignored them and slid under the closing door. It sealed behind him a second later with a resounding click. True to the first cultivator's words, there was a spider-shaped cloud of silver ash in the hangar. What he had failed to mention was the spider's golden eyes, its spinning crown, the fact that it emitted Monarch Realm-level spiritual pressure, and its size, equal to that of a dreadnought.
+
+The divine creature noticed him the moment he arrived, almost as if it had been expecting him.
+
+"Grand Elder Ren," the monster said in the ancient runic language, which he was only partially knowledgeable in. "I've been awaiting your arrival."
+
+"Bastard," Ren grimaced. The monster really had been waiting for him, meaning he had once again fallen for the All-Seeing Eye's trap. His mind raced. For whatever reason, the dark god wants me trapped down here with this Monarch spider. Why? Those abandoned ships are traps, aren't they? With me gone, there's nobody to threaten Moros or that void creature that's been slaughtering entire airship crews in seconds.
+
+"I'm afraid it's over, Grand Elder Ren," the spider mocked, its colossal body shimmering with glee. "You have fallen for my Master's trap. Stay down here, and your fleet falls to the All-Seeing Eye's forces. Return to the surface, and this Flagship of yours falls out of the sky. Whatever option you choose, we win."
+
+"No," Ren said, igniting his Soul Cosmos. "There's a third option."
+
+"Oh? And what would that be?" the spider asked as it loomed closer.
+
+"I kill you quickly and save my fleet."
+
+The spider let out a deep, ancient laugh, as if that were the funniest thing it had heard in a thousand years.
+
+"Kill me? I'd like to see you try."
+
+Ren scoffed. "You might not know this, but we poison cultivators become famed once we create a named toxin that is as unique as it is deadly."
+
+"How curious," the spider said, and seemed willing to waste time talking. "What is it called?"
+
+"The inescapable plague."
+
+The monster laughed again. "Quite the domineering name. Though I fear what is truly inescapable is my Master's wrath."
+
+"I beg to differ. Besides the Chairman, I've not met one person or monster immune to my poison that ignores the body and targets the soul directly."
+
+Opening his hand, which was dripping with a rotting sludge, he aimed it at the spider that seemed suddenly hesitant.
+
+Clearing his throat, he called to the heavens.
+
+"Domain of the inescapable plague."

@@ -1,0 +1,223 @@
+---
+id: bb25b154-db19-5151-ab79-1c02ef2f1db1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 365: Spectacle (End of Book 5)"
+slug: 0023-chapter-365-spectacle-end-of-book-5
+partOf: reborn-as-a-demonic-tree
+position: 23
+ownLength: 3466
+unit: words
+ownProgress: 3466
+publishedAt: 2024-11-04
+link: "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/1885120/chapter-365-spectacle-end-of-book-5"
+royalRoadId: "1885120"
+markedReadAt: "2026-06-29T19:02:16.682Z"
+---
+
+Ashlock had watched the fight between Celeste Starweaver and the outsider Serena Blacktide with great interest. It was a rare opportunity to see cosmic affinity in action and what peak Soul Fire Realm cultivators were capable of when pushed to fight to the death. Qi was hard to accumulate, so it wasn't often that a peak Soul Fire Realm cultivator on the brink of attaining enough Qi to ascend to the elusive Star Core Realm would recklessly waste years of Qi on a fight unless it was to the death.
+
+That is what Ashlock had wanted to witness. The raw power a Soul Fire Realm cultivator could output. However, his excitement had been soured a little as he knew what the fight's outcome would be from the start.
+
+"Why is someone like her here?" Ashlock couldn't help but wonder as he looked at Celeste Starweaver through his Evil Eye via a portal. He used the illusionary sky powered by the arena's formations to hide his sight from everyone below to prevent his gaze from affecting the participants. "Her Qi reserves are on another level. Even now, as the battle has drawn to a close, her Soul Core is still brimming with Qi, while Serena Blacktide's is like a lifeless husk."
+
+Of course, it was a lot of Qi for a Soul Fire Realm cultivator. Stella, who had stepped onto the arena, dwarfed Celeste's Qi pool many times over, and Ashlock's Qi pool that surrounded his Inner World was like an endless galactic ocean in comparison.
+
+"I had hoped to use this fight to judge the limits of cosmic and abyssal tide Qi, but it would appear I messed up. The matchup was simply too one-sided despite them being in the same stage and realm. Half-steps really are something else." Ashlock sighed, but he couldn't be too hung up over it. The person running amok with his cursed sap had been captured and would soon be dealt with. The tournament had otherwise run smoothly, with many talents having been picked out from the Qi Realm brawls, and he almost wanted to thank Serena for opening his eyes to security risks regarding his cursed sap and other things. All in all, it had gone better than the alchemy tournament they held many months ago.
+
+While Ashlock was musing, Stella pulled Serena to her feet and, in a flash of white, repositioned them clearly in the center of the arena. The mist had cleared, as had the fires, so the thousands of mortals, rogue cultivators, nobles from the academy, and more could clearly see the two.
+
+"Looks like the finale to all of this is about to begin," Ashlock said, pulling up his system.
+
+Idletree Daily Sign-In System
+
+Day: 3642
+
+Daily Credit: 76
+
+Sacrifice Credit: 1540
+
+[Sign in?]
+
+During the last few days, he had gained around 500 credits from his believers. Mainly due to them being impressed by the arena, and he had seen an influx of around 400 when it was announced earlier that Serena was to be executed for killing a devoted believer of the cult. An outcome Ashlock had expected, as knowing that the cult cared enough to hunt down the murder of a single believer, enhanced the sense of community and companionship between those under the All-Seeing Eye.
+
+Of course, it was all smoke and mirrors, a ruse, if you will. Ashlock obviously didn't appreciate some random cultivator going around and killing his believers. But if not for his sap being harvested and offspring hurt, he wouldn't have even been aware of the murder. He was more concerned about maintaining public opinion and emphasizing the cult and his control over the populace.
+
+There were millions of mortals between Darklight and Ashfallen City, all of whom were gaining access to cultivation. It would be impossible to police them all with force, so Ashlock needed to establish himself as an elusive power with influence beyond what he was actually capable of. So long as there were enough stories and rumors of troublemakers being dealt with circling around, people would hopefully police themselves. Just like Old Bill had tried to do with Serena by telling her not to harm the trees.
+
+"While I was very interested in seeing the abyssal tide affinity in action, the biggest boon this wandering cultivator will provide me is being a divine energy printer due to her crimes of harming a tree and killing Old Bill. The more I punish and make an example out of her, the better my returns. I'll pay her back for this sacrifice once she is a tree." Ashlock dismissed his system screen, looking forward to the coming influx of credits. Would his number double? Triple? He didn't know, but a large part of the influx would be based on how big of a show they could make out of this.
+
+So he planned to go all out. This was his Inner World, where he truly was a godly being.
+
+But first, Stella addressed the crowd while Serena kneeled at her feet.
+
+"Serena Blacktide, murderer of a devoted believer. You were sentenced by the All-Seeing Eye to eternal servitude, either in life or death. Having lost the duel to Celeste Starweaver and unable to triumph over fate, Serena Blacktide, you will serve the All-Seeing Eye and pay for your sins for all eternity in death." The parchment between Stella's hands from which she had been reading Serena's fate was consumed by white flames and disintegrated.
+
+Ashlock mobilized a fierce wind to carry away the ashes and rustle Stella's cloak and hair. He furthered the effect by taking red leaves he had gathered for the occasion out of his storage, having them fall out of a portal overhead, and encircling the pair in a spiraling vortex.
+
+Stella snapped her fingers, and a dozen people in cult robes emerged from bursts of white flames among the swirling leaves. Their hoods were up, and their hands clasped before their bodies were obscured by the cloaks' oversized sleeves.
+
+Ashlock could tell from a glance through his Evil Eye that all of them were members of the Mystshroud family—a noble family that cultivated mystic affinity, which let them manifest into reality anything they believed in strongly enough. They made up the most devoted believers of the All-Seeing Eye, and it helped that the more they believed in him, the greater their power.
+
+"The cult isn't established enough yet to have a group of influential people at the top who can lead ceremonies like this, aside from Elysia Mystshroud, who had been appointed Vice Cult Leader. So until the cult has a more defined hierarchy, the Mystshroud family will have to do." Ashlock mused as a woman appeared beside Stella. "Speaking of the devil, there she is."
+
+The Vice Cult Leader, Elysia Mystshroud—one of the stronger people from Nightshade City, had taken the stage. Having already been in the Star Core Realm and a legend among the Crimson Trackers, with a record of 49 wins and two losses, she had only exploded in power since and was now sitting a single stage below Stella at the 6th stage of the Star Core Realm.
+
+Ashlock could hardly blame Serena Blacktide for looking as terrified as she was stared down by two high-stage Star Core cultivators who weren't exactly holding back their bloodlust or soul pressure. It was made all the worse because Elysia's presence and attacks also carried the weight of her 'god,' who had been Pluto before but was now Ashlock.
+
+"Everyone, please welcome the Vice Cult Leader, Elysia Mystshroud, to the arena," Stella said, gesturing to the new arrival. Many members of the crowd wearing the cult robes rose from their seats like a wave that spread throughout the arena's stands, and they began to chant her name.
+
+"Elysia!"
+
+"Elysia!!"
+
+"Elysia!!!"
+
+Purple smoke—which was the manifestation of Elysia's mystic Qi—bellowed from her hood and sleeves. Reaching up, only the tips of her fingertips were visible over the rising smoke as she threw back her large hood. The purple smoke fell away to reveal two violet-glowing eyes and silver-tinted black hair. There was an aura of sinister madness around the girl, likely due to her thoroughly broken and twisted mind.
+
+"Vice Cult Leader Elysia Mystshroud will now prepare—"
+
+"There is no need for preparation," Elysia said, holding up a finger and silencing Stella. "He's already here," A shudder seemed to run through Elysia's body as she threw her head back and looked up at the illusionary sky, straight at his Evil Eye obscured behind the array. "I CAN ALREADY FEEL HIS ALMIGHTY GAZE UPON ME. STRIPPING MY SOUL TO ITS MOST NAKED SELF!"
+
+"Ah right, Elysia is bat shit insane. I forgot about this," Ashlock sighed.
+
+Stella took a few steps back as Elysia rose into the air atop a column of purple smoke. "Allow my humble self to prepare this sinner for your reckoning!" Her eyes burned with raw, unrestrained power, their violet hue deepening as her aura surged.
+
+Truthfully, there was no 'preparation' needed. All Ashlock had to do was feed Serena some cursed sap, and that was it. But Elysia didn't know that, nor did the crowd.
+
+Serena desperately shuffled back along the sand despite the immense pain she was likely in to get away from Elysia, but it was hopeless. Below Elysia, a tremendous ritual circle that took up half the arena manifested. It crackled violently with purple energy as if barely managing to restrain some unseen monstrosity. Elysia opened her arms as if conducting an orchestra, and more ritual circles began to appear, stacking on top of each other, each one bigger than the last.
+
+After uttering a deranged prayer, the stack of ritual circles began to spin faster and faster, each one at a different speed, with the slowest at the top and the fastest directly around Serena, trapping her in place.
+
+Stella had given up at this point and quietly retreated to the booth to watch the madness unfold alongside the other Grand Elders of the Ashfallen Sect.
+
+"Elysia sure knows how to put on a show, doesn't she?" Diana said with a chuckle as Stella collapsed onto her throne.
+
+"Uh huh," Stella sighed as she rested her head on her palm, "At least I didn't have to stand down there acting any longer. She does a far better job of this than me."
+
+"That power... how terrifying." Grand Elder Redclaw stroked his chin as he observed the chaos, "Elysia might have surpassed all of us. I certainly wouldn't want to try fighting her right now."
+
+"Her power did come at a great cost," Ashlock felt like reminding them. "Elysia's soul is cracked, her personality is twisted, and if I were exposed as a fake god, her power would plummet. She can only wield such power as she believes strongly in me, and so do the people around us, making the mythical all the more real."
+
+"I can see that now," The Redclaw Grand Elder nodded. "The arena has come alive."
+
+Ashlock looked back at the arena; sure enough, the Mystshroud family had unleashed their mystic Qi to flood the arena in purple smoke and create a grand spectacle. Thousands of demonic trees covered in madness-filled eyes that peered through gaps in their bark seemed to be fading in from another dimension. They were floating around the vortex of leaves and spinning ritual circles.
+
+"PRAISE THE TREES!" Elysia screamed frantically as she directed more illusionary demonic trees to fade in from the beyond. However, they weren't actually illusions, as mystic Qi turned imagination into reality. If this were a battle, she could use these demonic trees to fight enemies.
+
+"Now I see Grand Elder Redclaw's apprehension to fight her," Ashlock mused. As a Nascent Soul Realm, he could easily flatten her with his soul pressure alone. But Elysia likely seemed on a whole other level for another Star Core cultivator. "Just what will happen when she reaches Nascent Soul Realm?" Ashlock couldn't help but wonder. Would it be a normal ascension, or would something weird happen?
+
+Elysia finally calmed down a little. She snapped her attention away from his Evil Eye to Serena. Ashlock didn't even want to imagine what was going through Elysia's mind as she looked down at the traitor and sacrifice for her god.
+
+"Your time has come," Elysia said in an ice-cold tone. She flicked her finger up, and a titanic tentacle erupted from the sand that Elysia had made out of mystic Qi. It grabbed the bewildered Serena and hauled her into the sky. "TO FACE RETRIBUTION!" Elysia gestured to the sky as if calling down a divine.
+
+Ashlock realized it was finally time for him to act, as leaving his Vice Cult Leader hanging would be awkward. "Well, here goes nothing." Ashlock directed the ambient divine energy to coil up all the pillars in the arena toward the sky, "Why do I feel like the heavens when they try to act ominous..." The illusionary sky began to crack as Ashlock directed the divine energy to arc toward it. Through the cracks, he leaked his very pure spatial Qi and a hint of his presence.
+
+The people here weren't ready to face his Evil Eye, so he closed the portal he had been peering through and created a giant illusionary eye instead. As the sky entirely tore asunder, he lowered the fake eye like a falling star and stared down at Serena.
+
+"You will serve me and Ashfallen City well in death," Ashlock said with Abyssal Whispers straight into Serena's mind, making her cough blood.
+
+It seemed Serena coughing blood from what appeared to be his mere gaze threw the cult members into a frenzy as they began chanting his name.
+
+"Praise the All-Seeing Eye!"
+
+"Death to the nonbeliever!"
+
+"None can escape your gaze!"
+
+Ashlock sneakily opened a portal inside the giant eye and had his cursed sap spiral down from his pupil toward Serena. The woman's eyes widened at the approaching black liquid as realization dawned on her. It was time to become a tree. "Accept his offering," Elysia said, floating closer and forcefully prying Serena's mouth open to accept the sap.
+
+It flowed down her throat, and its increased potency became apparent as her veins turned black within seconds. A desperate howl of terror was followed by Serena's body rapidly breaking down and twisting to take on the form of a tree. Her pale skin seemed to carry over to her tree form as the bark was snow-white. Branches sprouted from where her ears had been, and dark blue leaves with streaks of black grew from them.
+
+The whole process took a few minutes—sped up by the lack of Qi in Serena's soul core to resist, and surprisingly, Elysia's imagination as she fed Serena with mystic Qi from the rotating ritual circles.
+
+"So they weren't just for show," Ashlock thought as the process concluded. Serena was now a five-meter tall snow-white tree with blue and black leaves floating high above the arena. Since it was in his Inner World, he could direct his ethereal roots to rise from the arena sand and fuse with Serena's dangling roots. "This is good, but I could do even more..."
+
+Idletree Daily Sign-In System
+
+Day: 3642
+
+Daily Credit: 76
+
+Sacrifice Credit: 2780
+
+[Sign in?]
+
+"Gained around 1500 credits, wow." Ashlock hadn't been expecting so much in such a short time. The show really was working. "Hmm, what if I turned Serena into a Bastion right now? Wouldn't the spectacle end up paying for itself?"
+
+[Do you wish to activate the Skyborne Bastion? The cost is 1000 sacrificial credits and the required materials to form a Bastion Core]
+
+"Yes," Ashlock said, targeting Serena.
+
+[Forming Bastion Core...]
+
+The entire Inner World began to tremble as waves of power began rippling out.
+
+[Bastion's Qi source has been designated as {Ashlock}]
+
+[Bastion's operator has been designated as {Serena Blacktide}]
+
+[ERROR: {Serena Blacktide} cultivation too low to operate Bastion Core]
+
+[Initiating tribulation...]
+
+[ERROR: Heavenly tribulations cannot reach inside an Inner World. Mobilizing divine energy to simulate a tribulation]
+
+"Huh?" Ashlock hadn't been expecting that. He felt his system take over as it pulled divine energy from around his Inner World and gathered it above the arena. Just like the heavens, thousands of golden eyes manifested like clouds, followed by lightning that struck Serena.
+
+One, two, three... the onslaught was brutal, and at some point, an explosion erupted out of Serena but was then forcefully brought back in.
+
+[Forming Star Core...]
+
+Most would never witness a Star Core ascension in their lives, let alone this closely and for a human turned into a tree no less.
+
+[Star Core Formed]
+
+[Bastion's affinity type set to Cordierite (Abyssal Tide)]
+
+Sand, rock, water, and more began to rise from the arena as if gravity had been reversed and gathered toward the floating tree. A giant bowl solidified from this mixture around Serena, which was then filled with water. Ultimately, it looked like a snow-white tree growing in a lake of abyssal waters.
+
+[Skyborne Bastion Active]
+
+Ashlock lowered Serena down through the spinning ritual circles and flying leaves. The moment she touched what was left of the arena's ground, Elysia canceled out the ritual, and everything fell quiet. Even the thousands of demonic trees she had manifested faded back to the beyond.
+
+Stella stood from her throne and announced from the booth, "Everyone, the All-Seeing Eye has granted a new life to the criminal. Serena Blacktide, the wandering murderer, is no more. She is now a sacred tree that will serve as the new overseer and protector of Ashfallen City."
+
+[An immense influx of divine energy has been detected...]
+
+The system informed Ashlock as the crowd cheered. He couldn't even tell how many he had gained as the number kept climbing, and a quick glance at the Divine Flesh Tree showed the forest of sacrificial credits rapidly expanding.
+
+"Oh, this is going to be big." Ashlock had basically gotten a Bastion for free and even more credits on top of that. The number was already over 3000 and still climbing...
+
+"Today's events are now complete!" Stella announced and turned to leave.
+
+Ashlock couldn't believe such a chaotic day was finally over. "I'll have to get Douglas to help me build an area in the center of Ashfallen City to put Serena. She doesn't seem responsive so far, but after a few nights under the healing moons, she should start speaking to me—"
+
+"Wait!"
+
+Ashlock was broken from his thoughts by a shout. Looking down at the arena, Celeste Starweaver stood among the destruction, staring at the booth.
+
+"Yes?" Stella asked, confused by the girl's outburst.
+
+"My brother has been wanting to tell you something, but you keep ignoring his attempts at a meeting."
+
+"Oh, that..." Stella frowned. "I'll meet him sometime in the coming days, okay?"
+
+"No." Celeste shook her head, "It's an urgent matter. Our Grand Elder received a divination." A strange aura began to surround Celeste as her eyes glowed, and she began to recite.
+
+"A new god is born to challenge the roots of old. Along the winds of change comes a wrathful storm. But the storm is not a message—it is the prelude. Shadows of ancient beasts loom, drawn by the storm's call—a tide of claws and fangs, hunger and rage, they are coming. The storm is their herald, their veil. Prepare, for the sky's fury will give way to the beast tide that will flood the land with blood and despair."
+
+Celeste closed her eyes to recover for a moment before opening them again and looking right at Stella. "The beast tide. It's coming as we speak."
+
+Evander Starweaver appeared beside his sister in a flash of cosmic power. "Sister, what have you done!" He was enraged. "How could you announce such a thing before all these people?"
+
+Ashlock was shocked out of his stupor by Evander's shouting. This strange storm that had been battering his lands wasn't a mere storm but a prelude for the beast tide?!
+
+Stella vanished in a flash of white and reappeared before Celeste. She shrouded her voice with Qi, but it didn't escape Ashlock's notice.
+
+"Does Vincent Nightrose know?"
+
+Evander Starweaver clicked his tongue and nodded gravely. "Not only does he know, but he has called for a summit. It's time for the Blood Lotus Sect to flee, but things are different this time."
+
+"So he's awake again?" Stella looked to the floor for a moment in contemplation before looking back at Evander. "How is it different this time?"
+
+Evander exchanged a look with his sister before taking a deep breath, "Well you see... not everyone plans to leave. A civil war is about to begin, and it's time to pick sides."

@@ -1,0 +1,241 @@
+---
+id: 22a8659b-73a7-53a1-9857-739e5bbf6616
+page-type-slug: story-chapter-royal-road
+title: "Chapter 253: Inner World (End of book 3)"
+slug: 0017-chapter-253-inner-world-end-of-book-3
+partOf: reborn-as-a-demonic-tree
+position: 17
+ownLength: 3736
+unit: words
+ownProgress: 3736
+publishedAt: 2024-03-04
+link: "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/1541682/chapter-253-inner-world-end-of-book-3"
+royalRoadId: "1541682"
+markedReadAt: "2026-06-29T19:02:04.187Z"
+---
+
+Through all the chaos of the fight, Ashlock had kept one thing in the back of his mind: To make sure that Nox's infant soul didn't manage to escape. He wasn't sure how it worked with Nascent Souls and what this infant soul would look like, so he kept his demonic eye peeled, which he had re-opened when Diana came in and took Nox to the skies.
+
+While everyone else was hurt and angry, he ignored the pain in his trunk from being almost chopped in half and tried to keep calm as he glared at Nox.
+
+Sure enough, one of the Star Cores within Nox began to go supernova while the other phased out and stayed floating high in the sky. Even as Diana slammed Nox's body into the mountain peak, causing a shower of rubble and a crater to form and begin tearing her apart, he kept his focus on Nox's soul.
+
+But Nox's infant soul simply floated there. To his spiritual sense, and he assumed to everyone else, it was invisible, but in the gaze of his demonic eye, it was a blazing ball of shadow and so much more. It flickered and burned with personality. Somehow, the more he watched, the more he understood it. If before the soul had burned with rage, it was now calm and simply watching the world pass by.
+
+Ashlock tried to reach out to the soul, but it was intangible, like attempting to grasp a cloud of steam. But there was one thing he could latch onto... the black roots growing out from it like tentacles. The curse devouring the soul was very much tangible, and he could use telekinesis on it.
+
+Since it wasn't going anywhere, while keeping an eye on it, Ashlock used {Consuming Abyss} on Nox's body that was going supernova to avoid being blown up. The black vines and void tendrils of his skill worked in harmony to devour her clothes, flesh, and blood.
+
+To Ashlock's surprise, the void tendrils could not rid Nox's corpse of his cursed sap, but the digestive fluid from his black vines devoured it like everything else without issue. So, there had been a cure to his curse all along.
+
+"Even in death, you were useful," Ashlock muttered as he returned his focus to the soul floating overhead while he waited for Nox's corpse to be fully devoured. He could drag it down here with telekinesis and eat it for sacrificial credits, but that felt wasteful. "I have yet to see my curse actually succeed in turning someone into a tree, and wouldn't a Nascent Soul-level tree feed me loads of Qi and work great as a Bastion?"
+
+Worst case, he could just use {Consuming Abyss} on her once she became a tree for sacrificial credits.
+
+"I wonder how much personality and memories she will maintain once she succumbs to the curse." Ashlock mused. He could already tell she had changed by how the floating soul flickered and dimmed.
+
+Deciding to discover how much she had changed, he spoke to her through {Abyssal Whispers}. To his surprise, she could hold a conversation, but she was like a different person. More sentimental and thoughtful. Less hate and rage-filled.
+
+It was almost scary how much she reminded him of himself when he had faced death after the Dao Storm, so Ashlock did something even he hadn't expected he would do after everything she had done. He gave her a second chance.
+
+But it was certainly a twisted form of mercy. She would be stripped of her human body and stuck into the body of a tree. Forced to watch over Ashfallen City, populated by the mortals as its guardian tree.
+
+After concluding his conversation with Nox, he used telekinesis to plant her in the raised area of Ashfallen City so Julian could keep an eye on her.
+
+"I will turn her into a Bastion after I confirm how turning into a tree has affected her," Ashlock pondered, "But for now, other things are demanding my attention. Red Vine Peak is still a mess, and Dante is still alive."
+
+Before he had left to plant Nox's soul. The sunlight had caused the Mystic Realm to collapse and slowly pull everyone from it one by one, like last time. Stella had emerged first, followed by Diana, who had helped him defeat Nox. A few minutes later, the Redclaws, Elaine, Larry, Kaida, Douglas, and the thousands of Mudcloaks had arrived and surrounded Dante. There was no way for the Voidmind scion to emerge triumphant, so he left it in their hands.
+
+Returning to Red Vine Peak, the System notified Ashlock of how many sacrificial credits killing Nox had rewarded him.
+
+[+1800 SC]
+
+It was a significant amount. Ashlock hadn't seen a number that high in a long time as prey of a higher realm became more challenging to come by and defeat.
+
+With Nox's body and soul absorbed, Ashlock tried to control the chaotic Qi surging through his body. There was so much it felt like he had opened a floodgate as the Qi absorbed from Nox's body rushed into his Soul Core, making it rapidly expand to its limit and then pulse with power.
+
+The entire mountain peak glowed with spatial flames, and Ashlock experienced a wave of excitement from his thousands of offspring as an event he had been waiting for occurred. He went up a cultivation stage.
+
+[Demonic Demi-Divine Tree (Age: 9)]
+
+[Star Core: 9th Stage]
+
+[Soul Type: Amethyst (Spatial)]
+
+He now stood at the peak of the Star Core Realm.
+
+Yet the rush of power didn't stop. He had been close to reaching the next stage, so ascending to the 9th stage wasn't surprising, but it kept going. His Star Core continued to expand and expand until he felt his trunk begin to struggle to contain his soul.
+
+[You reached the threshold for the Nascent Soul Realm]
+
+Ashlock mentally blinked at the system message floating in his mind. He knew that reaching the peak of Star Core was half the journey to ascending to Nascent Soul as he had fought with many peak Star Core cultivators, but Nox had been the first Nascent Soul he had ever faced. They were incredibly rare with the power to rule over entire sects, so simply getting enough Qi was the first step.
+
+"Will I need to form a second soul now?" Ashlock wondered. How did that even work, and would the fact he is a tree affect things? "I suppose using {Progeny Dominion} all the time makes splitting my soul through a supernova less intimidating. I also have {Nocturnal Genesis} to heal any soul damage."
+
+[Ascension to Nascent Soul Realm requires the creation of an Inner World]
+
+"An inner world?" Ashlock was confused, "Not a second soul? What even is an inner world? Is it like a realm created inside myself?"
+
+[Your soul size, unique capabilities, and divine nature have qualified you to create an Inner World]
+
+[Do you wish to begin the creation process?]
+
+Ashlock didn't see a reason to hesitate, so he accepted the system prompt. Immediately, he felt something wrong, so he looked within himself.
+
+His Star Core was changing. Qi was being siphoned off, deconstructed into raw, untamed Qi, and then gathering into a loose cloud that converged inside his Star Core. As he fed more and more Qi into the cloud, it started to condense but never turned into something solid, no matter how hard he tried. It simply remained as a cloud of chaotic, untamed Qi.
+
+[Chaos Nebula formed]
+
+"So this strange cloud of untamed Qi inside my own soul is a Chaos Nebula?" Ashlock wondered. Other than absorbing a lot of his Qi in the most inefficient way possible, he hadn't seen much point in it so far.
+
+[Requirements to turn Chaos Nebula into an Inner World:
+
+2565 / 10000 Sacrificial Credits
+
+0 / 1 Absorbed Fire Star Cores
+
+0 / 1 Absorbed Water Star Cores
+
+0 / 1 Absorbed Earth Star Cores
+
+0 / 1 Absorbed Wind Star Cores
+
+0 / 1 Absorbed Metal Star Cores]
+
+Ashlock looked down the long list of requirements and groaned in annoyance. But was then surprised when a list of rewards appeared alongside it.
+
+[Rewards upon formation of the Inner World:
+
+You will ascend to the Nascent Soul Realm.
+
+The System will be upgraded with new features.
+
+{Transpiration of Heaven and Chaos [B]} will be upgraded.
+
+Your attacks will carry the weight of your Inner World behind them, and your rate of cultivation will increase the more you develop your Inner World]
+
+Ashlock read over the messages for a while since it was a lot to take in.
+
+He had never seen such a high sacrificial credit cost for something, and because he was at the peak of the Star Core Realm, it would become more challenging to gather the required credits. There was also the issue of him needing to find Star Core cultivators of the various basic elements to absorb.
+
+"Though with the Mystic Realm and bounty hunters after Stella, absorbing the Star Cores of such common affinities shouldn't take long," Ashlock sighed. He was more worried about having to pour so many precious sacrificial credits into the creation of this Inner World, but despite the high costs, the rewards were clear.
+
+The gap between a Star Core and Nascent Soul Realm cultivator was uncrossable. If not for his curse eating Nox's soul alive, she would have chopped him down and then gone on to kill everyone in his sect. Possibly only being stopped by Maple or Larry if the spider had reached his next evolution. So, to achieve that realm would make him one of the undisputed strongest in the region and give him a fighting chance against the Blood Lotus Patriarch.
+
+But that wasn't all. Apparently, his system would be upgraded with new features, which definitely piqued Ashlock's interest. His system had been very laid back and offered few features thus far, so he wondered how it would be upgraded.
+
+Next, it claimed his cultivation technique would be upgraded, likely in some relation to his new Inner World.
+
+"If my cultivation technique is raised to the A or even S grade, I should be able to soar through the stages compared to others due to my S grade skill {Nocturnal Genesis}, which can increase my cultivation speed tenfold during the night." Ashlock mused as he eyed the final reward, which spoke of increasing his cultivation speed even more the further developed his Inner World was.
+
+However, what interested him more was how his attacks would carry the weight of his Inner World. "Is that referring to the gravity of my presence? Will people feel the weight of a planet on their shoulders when they face me in the future?"
+
+His mind was racing with many ideas, and he was excited about what this Inner World could entail, but the real world demanded his attention for now. Dismissing the notifications and leaving his newly formed Chaos Nebula behind, he emerged from his body and glanced around with his {Demonic Eye}.
+
+The mountain peak was a mess. Crushed fruit painted the stone floor in a myriad of colors under a pile of broken branches. A crater that had served as Nox's grave lay nearby, and fallen leaves decorated the destruction as if it were late autumn. In the distance, he saw Dante being restrained to the ground by nothing but Larry's pressure.
+
+The Ashen King loomed over Dante with the ring of ash that orbited his crown of horns, rotating rapidly.
+
+"Since when was Larry that strong?" Ashlock wondered, "Has he reached the threshold to evolve to the S grade after this round in the Mystic Realm? Will he finally join Kaida and become a divine summon?"
+
+Dante could not even struggle as his Star Core was utterly devoid of Qi. He had clearly fought until the end against everyone who had suddenly appeared from the Mystic Realm if the burns and wounds covering his body and surroundings were anything to go by.
+
+"Sister! Tell these savages to let me go!" Dante ordered Elaine, who stood before him with her arms crossed below her chest.
+
+"Savages?" Elaine raised a brow, "You're the one kneeling on the floor and barking like a dog. What exactly makes these people savages in your eyes."
+
+Dante glared at all the people present. He took a deep breath and looked back at Elaine with fake love in his eyes, "Elaine... I am your dear brother. We share the same superior bloodline and family. I have always cared deeply and looked out for you. So how can you stand beside these people as your brother is reduced to such a state?"
+
+"I have never heard so much delusional bullshit in my life, and again with that bloodline nonsense," Elaine pinched the bridge of her nose as she let out a frustrated sigh, "You and Father never cared for me. I didn't live up to both of your twisted standards of perfection, so I was sent off to work under Uncle."
+
+"No, that's not true..."
+
+Elaine cleared her voice and began imitating Dante, "Sister, my time is precious. In fact, the mere seconds I spend gracing you with my words is a waste of time." Elaine smiled, "That is what you told me last time we met in the Voidmind residence in Darklight City. Is it not? Does that sound like something a loving brother would say?"
+
+"That was merely in jest. You know I didn't mean it like that," Dante refuted with a frown, "How could you be so cold to me now? Ever since the Skyrend Grand Elder crippled me, I have seen the error in my ways and become a changed man. You can see that, right? I regret what I said in the past, I really do..."
+
+Elaine walked over and tapped Dante's head. Through his {Demonic Eye}, Ashlock saw that Elaine had infused an illusion into Dante's mind. She summoned a mirror before him and asked, "What do you see?"
+
+Dante's eyes widened, "That's me... my perfect self! How did you do this? My hideous scars are gone."
+
+Elaine lowered the mirror, "And me? What do you see?"
+
+Dante studied her face, "I see an inferior version of Mother..."
+
+"Yeah, you haven't changed one bit," Elaine snorted, "Still the same terrible person you have always been."
+
+"Wait, how did you do that?" Dante was clawing at his face under Larry's pressure as he glared at the mirror on the floor, "Change it back!"
+
+"It was all an illusion, Dante." Elaine smirked as she stepped away, "Did you know our bloodline isn't cursed? There is a way for our family to ascend to the Nascent Soul Realm, and I know how to do it."
+
+"Dual-core..." Dante stared at Elaine as if she were a mythical creature, "How could I have not thought of that! Did Uncle discover this? Is that how he ascended? Come with me back to the family right now to share this news. Our family can rise to new heights, and we will both be heralded as family heroes!"
+
+"I don't care about the family," Elaine looked away, "Both you and Father have been dead to me for a long time. I only care for Mother and some of my siblings."
+
+"Then you must let me live if you care about them!" Dante shouted but then winced from his injuries.
+
+"Don't listen to this blabbering idiot anymore, Elaine," Stella scowled as she drew her sword, "His voice is grating my ears, and he's so darn ugly to look at. Let's just end this so we can move on and clean up this mess these two bastards caused."
+
+"Now, hold on, Stella." Elaine pulled her back and whispered in her ear, "I know you are distraught because Tree is hurt, but we might as well hear him out. It could be important. Okay?"
+
+Stella glared at Dante before lowering her sword. Her arm was shaking, and she was covered in blood. Her bones were also likely broken from fighting with Nox, but Sol needed to be restored before the Ent could heal anyone.
+
+"Thank you." Elaine sighed, "Dante, I will humor you, but be quick. Why should I let you live? What does your life have to do with Mother."
+
+Dante was clearly displeased but hurried up when he saw Stella raise her sword again. "Okay, I will tell you... A war is on the horizon between the Voidmind and the Skyrend family. A war that will start if I am not presented to the Skyrend Patriarch in a month."
+
+"Okay, and?" Elaine asked.
+
+"Did you not hear me, you idiot?" Dante hissed through his teeth, "If I die, the war will start, and our family, including Mother and our siblings, will be slaughtered! Nox consumed all of our spirit stones during her ascension, destroyed Slymere City, and killed dozens of Elders! Nox also cursed Father with the same curse that brought her here. I have to be kept alive for at least a month to prevent the war..."
+
+Ashlock finally got the answer to why there had been a lightning storm over Slymere. It had been Nox ascending to the Nascent Soul Realm.
+
+"Will my tribulation be that short and calm?" Ashlock wondered. Nox's tribulation had destroyed the mortal city, but it had seemed weak compared to the tribulation Stella and the others had faced in the Mystic Realm to ascend to the Star Core Realm.
+
+"I don't see the problem here," Stella shrugged. "We should just kill him."
+
+Elaine glanced over to Stella, "What do you mean? If we turn him in, the war can be prevented."
+
+"You only care about your mother and siblings, right? We can just go over and save them before the month ends and leave the rest of the family to die to the Skyrends." Stella grinned, "Then we can join the battle and wipe out the Skyrends from behind. The more corpses, the happier Tree is."
+
+Ashlock was proud of his daughter's foresight. How could she have foreseen that he had a substantial sacrificial credit deficit to fill that a war would be perfect for. It was almost as if she read his mind...
+
+"Are you insane?" Dante asked Stella, "You want to kill me and wipe out two of the most powerful noble families in the glorious Blood Lotus Sect to feed corpses to a fucking tree? Elaine, are you listening to this? The people you stand beside are worshiping a tree!"
+
+Stella crouched down before Dante and forced him to meet her eyes by gripping his jaw, "Look around you. Everyone is gathered and alive here today because of that 'fucking tree.' Under Ashlock's canopy and guidance, we have formed the Ashfallen Sect that devours your beloved Blood Lotus Sect from within... one person and noble family at a time."
+
+"Your arrogance knows no bounds," Dante hissed, "The Patriarch will find out about this. There is no way he will turn a blind eye to the start of such a war. This can all be prevented! Elaine, stop this madness; restrain this crazy bitch!"
+
+Elaine ignored Dante and simply nodded to Stella.
+
+"You call me insane and arrogant," Stella's eyes smiled as her hand blurred, and she stabbed Dante in the throat with a dagger, "But that is what I call those fools who stand against us."
+
+Stella ruthlessly twisted and pulled out the dagger in a shower of blood. Dante began coughing up blood and wheezing for air, but Stella didn't care. She released her grip on Dante's chin and let him drop onto the ground as if it were a dirty sack of potatoes. "Elaine, since it was your brother, what do you want to do with him?"
+
+"To call that person my brother," Elaine turned away as if disgusted to even look at it. "I will leave that thing to you. Treat him with as much respect as he treated me in life."
+
+Stella nodded and turned on her heel to look toward Ashlock, "Got any ideas, Tree? Do you want to eat him?"
+
+Ashlock needed more credits, but he had an even better idea.
+
+"Hey Maple," Ashlock spoke to the squirrel, napping in his branches, "Could you squash the body down and feed it into my eye?"
+
+The last time this had happened, he had upgraded his {Devour} skill into {Consuming Abyss} with the void Qi from the Voidmind Elder.
+
+Maple slowly woke up, and perhaps because he hadn't contributed thus far, the lazy squirrel actually conformed to his request without protest and trapped Dante's body into a bubble of void.
+
+Ashlock sent his void tendrils to wrap around the offered bubble of void containing Dante and began dragging him toward his demonic eye, peeking through his cracked and cut bark.
+
+Everyone who had emerged from the Mystic Realm watched as Dante gargled on blood and struggled within the void as he got closer to being swallowed by Ashlock.
+
+Once inside and released inside Ashlock's trunk, the Voidmind scion gazed upon his blazing soul, engulfing a nebula with wide eyes. Blood flowed from his cut neck, and the life was slowly leaving his eyes. As expected, no Star Core cultivators were willing to die without a bang, so Dante started going supernova.
+
+Ashlock made no moves to stop the process and simply waited. As a demi-divine being, the void could not harm him. Instead, he would use the void Qi to empower one of his skills.
+
+The mountain peak was still a mess; everyone looked tired and hurt. But the Ashfallen Sect still stood taller than ever.
+
+Ashlock was on the cusp of forming an Inner World and reaching the next realm. Nox had been turned into a tree that lorded over Ashfallen City, which will see rapid development thanks to the thousands of new Mudcloaks that were joining the workforce.
+
+Everyone had seen a boost in cultivation due to the Mystic Realm, and Larry was likely about to ask to evolve to S rank. There was so much to catch up on and explore, but first, Ashlock would need to select which skill he wished to combine with the void element once Dante finished going supernova, and then...
+
+"I will need a long sleep to recover from all this." Ashlock sighed.

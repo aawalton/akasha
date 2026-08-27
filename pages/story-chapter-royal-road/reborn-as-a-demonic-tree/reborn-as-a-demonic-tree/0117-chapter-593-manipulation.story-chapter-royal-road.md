@@ -1,0 +1,235 @@
+---
+id: fc74dcf4-ef4e-5e0d-87c0-bab72bb138c5
+page-type-slug: story-chapter-royal-road
+title: "Chapter 593: Manipulation"
+slug: 0117-chapter-593-manipulation
+partOf: reborn-as-a-demonic-tree
+position: 117
+ownLength: 2965
+unit: words
+publishedAt: 2026-07-20
+link: "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3703376/chapter-593-manipulation"
+royalRoadId: "3703376"
+---
+
+Grand Elder Aurelian Vasthorne, a talented thousand-year-old monarch, had heard stories of the wilderness since childhood. It was an endless expanse of savagery, where minor demonic sects that cultivated strength by feasting on the corpses of monsters dotted the land and fought tooth and nail for primitive resources.
+
+Compared to the carefully curated paradise of the Celestial Empire, the wilderness was filth that wasn't worth his notice.
+
+His disdain had only sharpened when these savages invaded Floridawn with an army of monsters, forced every surviving mortal to worship some unknown dark god, and—worst of all—revealed themselves to be cowards. They used assassins and cheap tricks to strike down the upstanding Monarchs of the Empire when their guard was lowered, spreading fear through the upper ranks.
+
+So, when the Crowned One came to him personally and requested that he represent House Vasthorne and take the battle to the wilderness so their scum blood wouldn't dirty the Celestial Empire, he gracefully jumped at the opportunity to lead a fleet.
+
+He had also requested Grand Elder Evaline Brynhold, a Monarch of a rival house, to accompany him. The field of battle, after all, was an excellent place to have her disposed of.
+
+With a map provided by the Eternal Pursuit Pavilion, he decided to target the city of Argentum, which was said to be the heart of the Ashfallen Sect's spatial ring and artifact manufacturing, making it rich. In comparison, Desolark City, which was home to the Eternal Pursuit Pavilion's wilderness headquarters, was far better defended and apparently poor due to the previous rulers' exploitation. He had left that city to the main fleet.
+
+A perfect decision, as it turned out. The siege of Argentum had gone without a hiccup. The ruling family, the Silversomethings, had mounted the sort of pathetic defense one expected from savages. One of them had even gone supernova just to disrupt his domain for a few minutes.
+
+All was going well until a great shadow lurked on the horizon and approached with impossible speed for its size. A flagship that looked like a floating fortress wreathed in a shield of earth Qi backed by a raging storm swiftly loomed over Argentum and halted their advance. It came alone but easily weathered the assault from his fleet and returned explosive fire he had never seen before.
+
+Nothing about the flagship made sense. Its durability, its speed, and its firepower all eclipsed anything his fleet was capable of. Forced to act, or else he would watch his fleet entrusted to him slowly be torn to shreds, he activated his own domain to burn away at the strange flagship's shields. They relented, but slowly. He would run out of Qi he was willing to part with long before searing through all the layers. He had already lost decades of cultivation progress, and the true battle hadn't even begun yet.
+
+It was infuriating. Every second that passed wasted days of cultivation progress.
+
+Yet, he found himself in a predicament. It was impossible to push past toward their goal of the dark gods' supposed power base, as the flagship was faster than his fleet and would fire on them from behind.
+
+The battle against the Dark God was supposed to be the real challenge—not a single flagship and a minor city with a single Nascent Soul Realm cultivator protecting it.
+
+Then the heavens answered his prayers.
+
+A single bolt of heavenly lightning tore through the sky and struck the flagship. The shields he had struggled against burned like paper set alight, and the force sent the great vessel plummeting earthward, crashing through Argentum's great wall in a spray of stone and metal.
+
+"It would seem the heavens themselves have smitten these dark god-worshipping fiends," Aurelian said, smirking as the impossible obstacle fell. "Now we can proceed without delay."
+
+"No." Evaline's gaze was locked on the sky. "I've seen such a reaction from the heavens once before."
+
+Aurelian clicked his tongue. "So? The obstacle is gone. If we hurry, we'll still have time to loot the city before joining the other fleets at the Darklight City border—"
+
+"They have summoned a demon," Evaline said coldly, turning on him. "That is not something to be ignored."
+
+"A demon?" Aurelian snorted. "So what?"
+
+She looked at him the way one might look at a particularly slow child, which angered him.
+
+"Why are you looking at me like that?" he snapped.
+
+"Did you really not hear the story?" She looked at him strangely. "The last time I witnessed this phenomenon, a cult within the Stratospire League successfully summoned a demon. It annihilated an entire Stratospire legion. Alone."
+
+"I didn't hear about that. I must have been busy," he said dismissively. "Though I admit slaughtering a whole Stratospire legion is quite impressive. How strong was it?"
+
+"Nascent Soul Realm." Her jaw tightened. "Demons aren't like us, Aurelian. They come from Hell and cultivate demonic Qi—inherently destructive to our Qi types. My domain barely suppressed it despite the realm difference between us."
+
+Aurelian frowned down at the crashed flagship.
+
+"And the heavenly lightning that time was weaker than what we just saw," Evaline continued, already turning to leave. "It's possible they've summoned something stronger. We need to leave and cut our losses. The wilderness has bested us—"
+
+"Absolutely not." Aurelian spat to the side. He refused to waste decades of cultivation and flee. "The fact that these weaklings destroyed their own flagship just to summon this demon shows how desperate they are. Look—the shield is reforming. If we drop in now, the demon will be caught between us right after being summoned. We kill it, we seize the flagship."
+
+His tongue ran across his lips. House Vasthorne, in possession of a mighty flagship like that. It was too good to be left in the hands of the wilderness savages. He alone would use such a flagship to its true potential.
+
+Evaline was silent, chewing over his words.
+
+"If you leave," he pressed, "you will answer to the Crowned One and the Council alone for why you abandoned the campaign against the Dark God. And I will report that you fled the battlefield." He turned to her and smirked. "Can House Brynhold really shoulder such shame?"
+
+"The matters of House Brynhold are none of your concern," she snapped back, but Aurelian knew he had already won. Two spears of ice materialized on her back, and she began to descend without another word.
+
+I'll feed her to the demon and finish it myself. Aurelian followed. A historic victory for House Vasthorne. I can already hear the Council's praise.
+
+Yet as they passed through the wounded shield, something felt wrong.
+
+A strange mist shrouded the flagship's deck—thick, coiling, wrong. There was no sign of the thousands of cultivators he had expected to be powering this immense flagship. Only a handful of figures stood waiting for their arrival: a man in a beige suit wearing a gem-encrusted crown, a golem, a broken spirit tree, and the Nascent Soul metal cultivator he had failed to kill in a single strike.
+
+Then his gaze caught on a winged figure prowling within the mist, and his soul froze. The only time he had faltered before such bloodlust was when his late father attempted to skin him alive over the scandal that almost destroyed his house.
+
+That must be the demon, he thought, lip curling in disgust. As Evaline had warned, the being and the mist surrounding it reeked of demonic Qi's vile corruption. He could taste it in the air, a foulness that clung to the back of his throat and grated against his Qi.
+
+A being of wrathful power. Of bloodlust so dense it had weight.
+
+I'll kill it and be heralded as a demon slayer.
+
+Yet speaking down to the creature confirmed a horrifying truth he didn't fully grasp, but his soul somehow understood the moment she answered him with her true race—the creature below him masquerading as a woman was no mere demon.
+
+"It's an Archdemon!" Evaline's voice cracked beside him, and before he knew it, he was summoning a star to blast the area to smithereens in fear.
+
+She turned to him with wide eyes. "They are nothing like regular demons! Forget fighting, we need to—"
+
+Evaline never finished as a winged, faceless woman materialized from the mist behind her and dragged her away into the swirling mist with such force that Evaline didn't have time to scream.
+
+For a long moment, Aurelian stared at the empty spot where a Monarch had been standing a moment before.
+
+Then he remembered the falling star.
+
+He shot upward, narrowly outrunning the detonation as cosmic fire consumed the deck below in a roaring wash of light. Splinters of the flagship and torn shreds of mist spiraled past him.
+
+"Evaline?" he called once the glare faded.
+
+No reply.
+
+The mist thickened—impossibly so. Within seconds, even the shape of the flagship's spires was swallowed, and only the silhouette of the broken spirit tree remained visible. He swept his spiritual senses outward and felt them fizzle out.
+
+This wasn't normal mist. It was demonic fog, and it ate away at his Qi like an infection.
+
+Landing at the base of the spirit tree, he noticed that the cultivators he had seen earlier were missing, along with Evaline. All that remained was a scorching hole left behind by his falling star.
+
+This is bad. I need to leave. Without Evaline at his side, it would be him against an Archdemon alone. After the story she had told him about the fallen legion, he didn't like his chances.
+
+He rocketed upward and slammed into the reformed shield with a dull thud.
+
+What? It sealed already?!
+
+He hammered his cosmic Qi against the barrier, but it was like striking a lake with a shovel. His attacks simply rippled out across the shield's underside, and it remained just as impervious as before.
+
+Left with no choice, he followed the ruined spirit tree back down to the command deck.
+
+"I'm not scared of any demon, even an Archdemon," he spat, boots crunching over smoldering roots. "Where are you, Evaline?!"
+
+This time, he got an answer.
+
+"I'm over here!"
+
+He froze.
+
+The voice was wrong. While not friends, he had spent centuries hearing Evaline's voice at social gatherings. While it was a solid imitation, it was exactly that.
+
+An imitation.
+
+He gathered cosmic Qi in his palm and loosed a concentrated beam toward the sound without hesitation.
+
+The mist parted in a clean corridor of cleared air, and the beam struck the distant earth shield, gouging a shallow scar across its surface.
+
+As he expected, Evaline wasn't present in the beam's path.
+
+He turned in a slow circle, cosmic Qi gathering at his fingertips in a dozen small, burning points.
+
+I don't know what happened to Evaline, but I refuse to get ambushed like that. Go on, Archdemon, do your worst. Unlike her, I won't be taken by surprise.
+
+"Aurelian," Evaline's voice called, this time from his left.
+
+He didn't turn his head. He simply released one of the burning points toward the sound. The mist split, the beam punched through empty air, and scarred the stone of the downed flagship.
+
+The Archdemon is trying to waste my time and Qi with these childish illusions. Hopefully, Evaline is still alive. Because, as much as I hate to admit it, I need to find her so we can beat this creature of Hell together.
+
+He straightened up and calmed himself.
+
+The number one rule of any Monarch battle was control over the surroundings, and as it stood, the Archdemon had the upper hand. While it was unfortunate to have to part with even more of his precious Qi, his life was in danger if the Archdemon was as strong as he thought she was.
+
+"Herald of the Constellation," he spread his arms, and his domain answered.
+
+Space folded and warped around him, and stars—real, tiny, impossible stars—blinked into existence in a slow rotation at his shoulders, each one pulsing with the potential for ruin. A constellation of his own design rippled out, retaking control of his surroundings.
+
+Yet the foreign demonic mist within his domain refused to boil away. It simply thinned but remained lingering. And worse, he could feel the toll on his soul. Every second his domain held, the mist chewed away at it from the edges, further straining his reserves.
+
+This was not how a domain was supposed to feel. Aurelian didn't feel in control at all.
+
+Evaline wasn't exaggerating, he mused, and felt dread creep into his mind. She said her domain had little effect on that Nascent Soul Realm demon. I didn't believe her, but now I understand that demonic Qi is impossible to totally suppress.
+
+Then he heard something being dragged behind him.
+
+He turned, stars rotating faster around his shoulders, ready to obliterate whatever came at him through the fog—it was Evaline.
+
+She was on her back, being hauled across the smoldering deck by her ankles, her twin spears of ice reduced to a trail of glittering shards in her wake. Her white hair was matted to her face with something dark. Her eyes were open.
+
+And she was laughing.
+
+A low, bubbling sound that had no humor in it, as if something inside her throat was laughing through her and using her vocal cords like a borrowed instrument.
+
+"Aurelian," she gurgled, grinning up at the dome. "Aureliaaaan."
+
+Then she was pulled back into the mist, and she was gone.
+
+Aurelian lunged toward the spot she had vanished and found himself grasping at nothing but mist. He quickly chased after her, only to find himself pointlessly running through the mist.
+
+Coming to a pause, he realized something. There was no way a Monarch of Evaline's strength could be dragged around like a doll. So, if that wasn't really Evaline, then how did the Archdemon know his name?
+
+His shaking hand rose and pressed against his pounding heart. For possibly the first time since facing his father's wrath, he was genuinely scared.
+
+This wasn't a battle. He was being toyed with by this Archdemon to satisfy some sick desire she held.
+
+"What is it you want?!" he shouted into the mist, the desperation in his tone echoing back at him. "You can have Evaline! Just let me out of here, and I will direct my fleet back to the Celestial Empire and never set foot in the wilderness again. You have my word as the Grand Elder of House Vasthorne!"
+
+A finger ran up his back.
+
+"Evaline is still alive," the mist whispered into his ear. "You would abandon her so soon? How cruel..."
+
+He spun around and saw the winged demon's shadow vanishing into the mist. Wrapping himself in cosmic Qi, he rocketed forward, burning through the mist after the shadow. He wove between trees that oddly dotted the various layers of decks as he followed the shadow down a few tiers, and just as he was about to grasp it, the shadow vanished.
+
+Before him was an open doorway to the levels below.
+
+A soul-curdling howl of pain tore up from the depths, ragged and raw. It was hard to be certain, but it sounded like Evaline.
+
+The mist said she was still alive. His jaw locked. This is part of the demon's plan. It has to be.
+
+Yet he had no choice. At least the mist seemed thinner down there.
+
+Keeping his domain tight around him, stars hugging close to his shoulders, he stepped through the doorway and descended into the belly of the flagship.
+
+The corridors were narrow and dimly lit. It was as if they were not built for a man of his stature, and the only sound he heard was Evaline's screaming, pulling him deeper with every twist and turn. This place was a ghost ship beside the strange shadows of small people who moved at the edge of his perception but never showed themselves.
+
+His breath came out ragged as he kept moving, his entire body tense as if cold fingers were caressing his skin.
+
+He descended three more levels and didn't encounter a soul besides the shadows. Eventually, he came across the room at the end of an oddly long corridor where the howls of pain were originating from. Reaching the door, his fingers touched the cold metal handle.
+
+Please be alive. Aurelian paused there for a long moment, debating whether he should really enter. Gritting his teeth, cosmic Qi roared around him, and he kicked the door from its hinges.
+
+Rushing inside, he found Evaline kneeling in agony before a tall, silver-framed mirror. Her back was to him. Her shoulders shook with each ragged sob, and her white hair hung limp around her face.
+
+"Evaline," he breathed, and rushed in to grab her shoulder.
+
+The Evaline on the floor turned toward him, tears in her wide eyes.
+
+The Evaline in the mirror did not.
+
+Aurelian's hand froze an inch from her shoulder. The supposed reflection in the mirror knelt exactly as before, trembling, howling in pain, and seemingly unaware of his arrival.
+
+She had not turned to face him like the Evaline before him, because it was not a mirror. It was a pane of glass, and the real Evaline was trapped on the other side.
+
+It was a trap.
+
+The Evaline before him smiled.
+
+Her pupils bled to black. Wings tore from her back with a wet, splitting sound, and when her teeth parted, they were suddenly too many. She rose as if pulled up by invisible strings, her body elongating into a demoness that was as beautiful to behold as it was monstrous.
+
+"Such a cruel man," she whispered and licked her blood soaked lips.
+
+"I wonder how your heart demons will taste."

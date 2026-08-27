@@ -1,0 +1,85 @@
+---
+id: 86a1317e-9334-57de-8963-4ef3201c79af
+page-type-slug: story-chapter-royal-road
+title: "Chapter 602: The True Corruption"
+slug: 0170-chapter-602-the-true-corruption
+partOf: rise-of-the-living-forge
+position: 170
+ownLength: 1640
+unit: words
+publishedAt: 2026-06-03
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3487453/chapter-602-the-true-corruption"
+royalRoadId: "3487453"
+---
+
+The Infernal Armory was silent.
+
+Not one person had anything to say yet. They just all stood, staring at the lingering remains of the black smoke as it slowly dissipated into the air. Arwin wasn’t sure what anyone else was thinking. He was a bit too focused on his own thoughts at the moment.
+
+A part of him felt vindicated. He hadn’t just been bitter about what they’d done to him. There was no greater good at all. This confirmed that the Guild weren’t just some neutral party that were doing terrible things in order to save the world. They were evil. There was no other way to excuse what they’d just discovered. Stealing power from the Mesh was directly contributing to the destruction of the world.
+
+But the vindication wasn’t satisfying. The knowledge they’d just uncovered was far too grim for that. This was so much worse than any of them had initially thought. And it was only scratching the surface. Not even the Mesh knew just how vile the Guild had become.
+
+What would make them do this? Why would they destroy the world that they themselves live within? What’s the purpose of all this? Where did it get so twisted? Or have they been this evil from the very beginning, from the moment the Guild was first established?
+
+“What do we even do?” Wallace asked. His voice sounded distant from the disbelief weighing it down. “I knew the Guild were bastards, but this…”
+
+“It changes nothing,” Arwin said. “They’re just even more stupid than we thought. They live on this world just as much as the rest of us. But this means we’ve taken a huge step toward actually figuring out how to solve the Mesh’s issue.”
+
+Though… what does it have to do with my class? I haven’t been destroying Leylines. I don’t think the solution the Mesh was looking for was for me to go around taking bites out of it. So how do I fix my increasing magical hunger problem?
+
+“Have we really, though?” Esmerelda asked. She stared down at the remains of the cauldron. “Let’s start with the creation of this weapon. I — how? Can you even comprehend how something like this could have been made? The sheer number of steps it would have required for everything to go right?”
+
+“A piece of a Leyline must be carved away, without the Mesh’s knowledge, and then somehow shaped into a weapon that seems completely mundane and has no signs of external magical power,” Koyu said quietly. “The immense power it would have taken to pull that off… only a Lich would have lived long enough to acquire such strength. And to do this all without anyone noticing make the situation grimmer. I still do not understand how the Mesh could be blind to this.”
+
+“At least we have something to start working off,” Arwin said. He set his jaw and nodded to the cauldron. “That’s more than anyone else has. Not even Setting Sun knows about this. If we put together all the information we have right now, we might be able to start slotting pieces of this puzzle back together. Maybe that will let us figure out what this is all hinging on.”
+
+“What else do you have?” Esmerelda asked.
+
+“Well, we know they’re feeding the daggers to… something,” Arwin said. “That must have something to do with it, right? They have something in a pit. That’s what Mask said.”
+
+“The Lich?” Esmerelda guessed.
+
+“A Lich as powerful as the one required for this would not sequester himself to a hole,” Koyu said. “Do you know the amount of arrogance it requires to refuse to die, instead choosing to shape your body into a wretched husk and slaughter countless innocents just to sustain yourself? Those who finish the conversion to Lichhood are not ones who would allow themselves to live in a prison. Not voluntarily.”
+
+“You can’t be implying the Guid’s got a Lich with godly powers trapped in a hole,” Wallace said incredulously. He tugged furiously on his beard. “That would mean they’re even stronger than the Lich. I can’t believe that. Not at the scale we’re speaking, here.”
+
+“It was just an observation.” Koyu shook his head. “I don’t know what they’re doing. If I did, I wouldn’t be guessing.”
+
+“But Necrohammer would,” Arwin said. “He’s the one that made the daggers. He wasn’t happy with what he’d done. That’s why he helped us. That means he might be willing to help again. If we can track him down…”
+
+“It might be our best lead,” Wallace agreed. “Without eyes on exactly what it is the Guild is doing, all we can do is guess. But there’s something else that’s still pokin’ at my insides. Was that really what a Leyline looks like?”
+
+A small frown crossed Arwin’s lips. “No. They aren’t black. They’re gold. Bright gold. But the power was definitely from a Leyline. I’ve felt that strength before. Even if it was only for a moment, I’m pretty convinced of it.”
+
+“There’s no doubting it was a Leyline,” Esmerelda confirmed. She pursed her lips. “I know little about how the process of trying to forge a Leyline would even work. But I had assumed that some part of the forging turned it black.”
+
+“I’ve never heard of a material that powerful shifting appearance so sharply,” Wallace said. “The more powerful magic something has, the more it retains its form when you’re working with it.”
+
+“That’s a good point,” Arwin said slowly. “The thing I’ve been stuck on is the dagger itself. How is it that it had such little magical presence? Up until the point where the Leyline was dissolved by Esmerelda’s magic, I think every single one of us would have thought it to be nothing more than a normal dagger had we not seen what it could do.”
+
+Koyu paused. Then his head tilted to the side. Thoughts visibly passed across his pale features. Then he nodded. “You’re correct. And your Vision failed. If the dagger really hadn’t had any powerful materials, I could see why. But the dagger arguably had the most powerful material possible. Raw Mesh. So how is it that it didn’t work? And why was the Mesh dead?”
+
+“Why was the Mesh dead?” Wallace repeated. His eyes narrowed. “I think that Vision told us more than we think. Would carving a piece of a Leyline away really kill it? It’s just raw magic. I don’t know how the Guild severed a piece of a Leyline, but if we ignore that and just assume they managed to do it… there’s no way that would just kill a chunk of the Mesh. Not on its own.”
+
+“I still don’t see how the Mesh wouldn’t have noticed someone severing a piece of a Leyline to start with,” Esmerelda said. “It is most surely aware of them. Even if a mage with enough power to cut a part of it away came along, it would have felt such a thing happening.”
+
+“But it clearly didn’t, because it didn’t seem to know the cause of why the world was dying. Even if the Mesh didn’t think this is entirely responsible for it, cutting away pieces of magic would definitely at least be worth mentioning,” Arwin said. He tapped a foot on the ground in thought, his lips pressed thin. Then he paused. “What if we got the order of things wrong?”
+
+“What do you mean?” Wallace asked.
+
+“We’re assuming that the guild severed a piece of a Leyline and then somehow killed the Mesh within it,” Arwin said. “But what if it was the other way around? What if the entire Leyline is already ruined somehow?”
+
+“Like a piece of dead skin?” Wallace asked. He released his beard and let out a curse. “If that was the case, then it could explain why the Mesh didn’t feel anything. You don’t get hurt when you pull dead skin away. You don’t even notice until it reaches the healthy stuff.”
+
+“And even a piece of some dead Leyline would definitely have enough magical power to do immense things,” Arwin said, nodding as his thoughts rushed ahead. “And the Vision! That could explain it as well!”
+
+“How so?” Esmerelda asked.
+
+“I see it,” Koyu murmured. “A piece of corrupted or destroyed Mesh… the magic it holds could be fundamentally different from normal power. What a dead piece of Leyline acted like a power vacuum, swallowing up any magic that it comes into contact with? That could explain why we couldn’t feel the dagger at all — and it could explain why Arwin’s Vision failed. There was nothing for him to communicate with. The dagger was made of plain, mundane materials. Maybe even the small amount of magic within them was swallowed by the core of the dagger.”
+
+“And that could be how it steals magic,” Wallace said. His eyes went wide as saucers. “There’s no enchantment at all. If the dead Leyline is a power-sink, it could literally just absorb the power of anything it touches and swallow it up.”
+
+“I’ll be damned,” Esmerelda said. “You’re right. That adds up. A chunk of corrupted Leyline… I could see it doing that. And if it’s been separated from the whole of the Mesh, then I could see why carving it up could go unnoticed. It still doesn’t answer how the Mesh is unaware that it lost an entire vein of its existence. But if we ignore that for a moment, this raises a much bigger problem.”
+
+“Yeah,” Arwin said, the excitement draining away from his voice as reality set back in. A chill ran down the back of his spine. “This can’t be just some random ancient Lich. What in the world is powerful enough to corrupt and destroy an entire Leyline?”

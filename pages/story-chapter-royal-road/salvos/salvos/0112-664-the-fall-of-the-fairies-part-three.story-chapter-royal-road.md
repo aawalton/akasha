@@ -1,0 +1,139 @@
+---
+id: 62b73884-8267-5eb0-bf3c-859a8a0bff26
+page-type-slug: story-chapter-royal-road
+title: "664. The Fall Of The Fairies Part Three"
+slug: 0112-664-the-fall-of-the-fairies-part-three
+partOf: salvos
+position: 112
+ownLength: 1676
+unit: words
+publishedAt: 2024-03-25
+link: "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1568396/664-the-fall-of-the-fairies-part-three"
+royalRoadId: "1568396"
+---
+
+664. The Fall Of The Fairies Part Three
+
+Hartia watched as Salvos clashed with Lotus. An aura of invulnerability protected the Enemy of the Demon King— a power that the [Unseelie Lord] could understand. Perhaps if this apparition of Lotus had her Grand Skills, she would be able to tear through that protective barrier.
+
+Unfortunately, Hartia’s apparitions were only capable of utilizing only a small range of Skills of the beings they were meant to replicate. So Lotus couldn’t do much more than fight at the level he had seen her fight, with the exception of her Grand Skills.
+
+Still, Hartia knew that the aura of invulnerability had to have a cooldown period. It had to have come to an end eventually. That was why he was not afraid of that power. Even if Salvos continued to clash with Lotus, it didn’t matter. Because eventually it would come to an end.
+
+Despite the Enemy’s best efforts, she would lose. She couldn’t evade Lotus. She couldn’t get to Hartia despite her hardest attempts. She might’ve tried flying around the Honored Fairy, but it was all to no avail. Because Lotus intercepted Salvos every single time.
+
+And even when Salvos sent projectiles at Hartia, his [Fractal Barrier] saved him each time. She still wasn’t able to tear through his defenses. So despite this show of force from the Enemy of the Demon King, it wasn’t enough. Hartia’s victory was still secured.
+
+Or so he tried to convince himself. Despite his thoughts, he was still trembling in fear. It wasn’t in fear of the aura of invulnerability. It wasn’t in fear of how Salvos was able to keep up with Lotus right now. And it certainly wasn’t in fear of the attacks she threw his way. But it was in fear of something else.
+
+He stared at the aura of obfuscation coating Salvos. He saw the way it distorted reality and even turned space into nothingness. He didn’t understand this power. He didn’t know where it came from. Certainly, he had seen it before. But, even until now, he didn’t understand what had happened that day…
+
+It was Teranialiselisandranovaluxical’ah-sham the Fairy Queen.
+
+Here she was— the grand architect of this New World. This was her design, and this was her failure. So it was her duty to save them all.
+
+She cast her gaze over the fallen Fairies. Many of them were still quivering in fear, even though they had been freed from the Voidspace’s grasps. They looked up at their Queen as they lie on the artificial ground.
+
+And she turned away from them. Basil blinked a few times as she faced her back towards him and the rest of the fallen Fairies. Instead of checking in on them, she narrowed her eyes at the detainee Voidspace.
+
+Her binding spell held the Voidspace within a vast expanse of colorful clouds. But it wasn’t enough. Basil frowned as he felt a weak force begin to pull him towards the sky, then the nebula begin to dissipate.
+
+The Fairy Queen clicked her tongue then turned to the Honored Fairies accompanying her.
+
+“Secure the area. Ensure there are no other cracks in the realspace. I will deal with this pest.”
+
+And the Honored Fairies nodded, before vanishing. Basil didn’t even see them go. They moved so fast, he barely comprehended they were gone. Now, it was just the Fairy Queen floating there beneath the restrained Voidspace.
+
+She sighed as it seemed to be tearing free from the bindings keeping it in place. Its bright tendrils tore free, and a powerful force began to carry the fallen Fairies into the air once again. Basil barely resisted it, even with his powerful space magic.
+
+But then the Fairy Queen brought a hand up to the sky.
+
+“[Barrier: Gravity Well].”
+
+Her voice boomed. And suddenly, the world around the Fairies shifted, before they were all pulled to the ground.
+
+It was like the force of attraction from the Voidspace wasn’t even there anymore. The space around the Fairies was discolored, like a barrier was protecting them. Basil blinked as he sensed the overwhelming magic surrounding him, before he looked up in awe at the Fairy Queen.
+
+The Voidspace broke free from the binding nebula as it screeched. Its chittering filled the New World, and Basil recoiled in pain. It descended upon the Fairy Queen as she stared defiantly at its approaching tendrils.
+
+She raised a hand simply, pointing at the center of the mass of distortion.
+
+“[Destroy: Supernova].”
+
+Once again, the Fairy Queen’s words thundered out. There was a flash of light. Basil closed his eyes.
+
+And then he heard the rumbling of an overwhelming explosion blast out. He braced himself to be obliterated in this attack. He thought it would’ve consumed everything in the New World. But when he opened his eyes, he saw that everything that was held within the gravity well was unaffected. Only the Voidspace was struck by this attack.
+
+Its cloak of distortion had been ripped into pieces. Massive chunks of its tendrils were detached, floating lifelessly in the air.
+
+“This is the power of the Fairy Queen…”
+
+Basil whispered, having never seen her in battle before. He thought that was enough to defeat the Voidspace. But somehow, it wasn’t.
+
+The distortion began to reform as more of the artificial sky was shredded apart. The Voidspace began to regenerate, like it was stealing life from the New World. And the Fairy Queen’s eyes flickered.
+
+“I see now. You are going to be harder to kill than I thought.”
+
+She shook her head as she brought her hands to her chest. It looked like she was molding something out of clay or mud. But all that formed was a sphere of infinite darkness. One which she released onto the reforming Voidspace.
+
+“[Consume: Black Hole].”
+
+And the attack shot forward as it tore apart space itself. The New World was torn apart. The bits of space that was being used by the Voidspace to recover were pulled into this black hole.
+
+The Voidspace shrieked as its entire form was tugged towards the gravitational pull of the attack. But it managed to resist. It pulled itself away as its body continued to reform.
+
+And the Fairy Queen didn’t let up. She raised her hand and waved dismissively in the direction of the Voidspace.
+
+“[Ravage: Meteor Shower]. [Annihilate: Planetary Implosion]. [Exterminate: Gamma Ray Burst].”
+
+One after another, her attacks tore through the Voidspace. It wasn’t able to regenerate or grow fast enough to resist the combination of attacks coming from her. It wasn’t even able to fight back.
+
+All it could do was barely cling onto its life even as it was continuously pulled into the black hole. Finally, the Fairy Queen sighed as she brought both her hands up. Her palms began to shine as she spoke softly.
+
+“[Even When The Last Black Hole Dies, And The Stars Turn To Iron, I Will Forever Remain.]”
+
+And then she closed her eyes as the Voidspace tore free from the black hole. It charged at her as she finished.
+
+“[Obliterate: Hypernova].”
+
+The Fairy Queen clapped her hands together— and the New World went white.
+
+Hartia snapped back to reality as he heard a thunderous clap. His eyes narrowed down at Salvos as she shot through another lightning blast. It was like watching a battle between an unkillable mosquito and a Human. No matter how many times Lotus swatted the Demon girl back, it always resulted in the same outcome.
+
+Salvos came flying back.
+
+All the lightning blasts in the world couldn’t stop her. Not until her aura of invulnerability came to an end, and she was killed for good. And with each moment that passed, that outcome came closer and closer to coming to fruition.
+
+Because there was nothing Salvos could do to defeat Lotus. She might have been able to incinerate the nearby apparitions of Fairies with ease. She might have been able to unleash a salvo of blasts. She might have been able to even get close to the Honored Fairy. But she wasn’t capable of winning. It was just a futile attempt at fighting back.
+
+“It will be over soon.”
+
+Hartia told himself as he saw Salvos get blasted back into a mountain. He heard the echoing explosions. He saw the way the blasts of lightning streaked across the sky. He paid careful attention to the sound of each thunderous attack, and he saw the way they lit up the sky.
+
+And he frowned.
+
+“That’s not right…”
+
+Hartia was certain that wasn’t the thunderous clap he had heard just moments ago— the blast that broke him out of his stupor. That was something else. It had come from somewhere else.
+
+And his eyes went wide when he heard the resounding blast echo from above him again.
+
+Lotus hadn’t fired a blast of lightning. She was still sweeping her gaze over the landscape, searching for Salvos. The sound came from somewhere else. Hartia raised his head with narrowed eyes, then paused.
+
+“No!”
+
+He screamed as he finally saw it. But it was already too late. A crack was forming through the sky of the pocket space. This domain which the [Unseelie Lord] had created. It was collapsing, bits of the sky fell from above as the dimensional crack spread.
+
+“What is going on? How is this happening…?”
+
+Hartia asked as his world tore open. And then he spotted a figure at the other side of the crack. A crimson-skinned Demon who was glowing with a white light stood there, pummeling through the very fabric of this artificial reality.
+
+His voice boomed into the pocket space as he continued to tear the space open.
+
+“I’m here, Salvos!”
+
+And at that, Salvos emerged from the rubble of a collapsed mountain, her aura of invulnerability flickering, beginning to fade. She bared her teeth victoriously as she raised her iridescent scythe.
+
+“Good timing, Haec! Now, we’re going to win!”
+
+And all Hartia could do was stare in horror as his world began to collapse around him.

@@ -1,0 +1,213 @@
+---
+id: ab0e09ca-7799-538f-8677-cab2cc11ec1d
+page-type-slug: story-chapter-royal-road
+title: "671. Ancients"
+slug: 0120-671-ancients
+partOf: salvos
+position: 120
+ownLength: 2192
+unit: words
+publishedAt: 2024-07-15
+link: "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1718015/671-ancients"
+royalRoadId: "1718015"
+---
+
+671. Ancients
+
+Rachel heard the tolling of the bells. A panicked alarm reverberated throughout the entirety of the campus-city. The terrified voices of the students and staff of Mavos Academy echoed in the background, only to be drowned out by a cacophonous chittering.
+
+Looking up, the young girl saw the source of the ear-piercing noise. It was an [Ancient Centinel]— a monster she had only ever heard about in books. But even though they thought to be a myth or a legend, she knew with one look at the behemoth of a Centinel what it was meant to be. After all, it rose up to over a thousand feet in height, its chitin covered in crimson spikes.
+
+Thousands of smaller Centinels poured out after it as they charged straight at the barrier of Mavos Academy. The [Ancient Centinel] itself lashed out, striking at the dome protecting the campus-city. There was a flash of light as a small tremor shook the ground beneath Rachel’s feet.
+
+Stumbling back, she barely caught herself from falling over from the shockwave. The barrier began to crack as [Mages] of all sorts rushed around, some of them flying into the air, while others prepared to cast spells.
+
+“Why is that [Ancient Centinel] here?!”
+
+Oriur asked as he fell to the ground. Novis and Bellum growled as they stepped forward, and Kron backed away nervously. But Willy just floated there as he eyed the [Ancient Centinel]. He knew the reason why. As did Rachel.
+
+And as did the rest of the monster-group. Even if they hadn’t fully realized it yet.
+
+Rachel pursed her lips as she glanced back towards the tallest tower in Mavos Academy. She couldn’t see the figure she was trying to make out, even with her enhanced vision, but that was because it was too far away, hidden above the clouds.
+
+But she knew the figure was waiting there. She knew the figure was seeing all this. And as the barrier continued to crack, with [Mages] flying around in alarm, the figure—
+
+Centina lowered her head. She saw what was unfurling below, through a magical spyglass that could see through even the most opaque of clouds. She had no lips. All she had were mandibles. After all, she was an [Evolved Centinel]. But if she did have lips, she’d be pressing them tightly together in frustration. Instead, she clicked her mandibles together and turned around.
+
+A man stood behind her. He was the Headmaster of Mavos Academy, and the highest-leveled [Mage] in all of the Human Lands. His name was Clayton Skyshredder. And from what Centina knew, he had an obligation to serve the people of his school over all else.
+
+So when she turned to face him— when she heard his voice— she knew what needed to be done.
+
+“That [Ancient Centinel] is here for you.”
+
+Clayton spoke simply. Centina nodded as she wore a grim look on her face.
+
+“Indeed, he is.”
+
+While Centina didn’t know every Centinel there was, she could tell the gender of one of her kin without as much of a thought. She closed her eyes, knowing what was expected of her next. So she strode forward, already-resolved.
+
+“I shall turn myself over.”
+
+Clayton’s eyes flickered when he heard what she had to say. She continued past him as she placed a hand on her chest.
+
+“I always knew that this day would come— that I would not be safe forever. The Matriarch does take to traitors kindly, especially those who kill her most-beloved children. And while it was Salvos who was responsible for it, I was also partly-responsible for that outcome. That is why I shall hand myself over to my Matriarch. So that your people will not have to suffer for my mistakes.”
+
+Centina spoke in a morose voice as she fought back her tears. She knew the fate that awaited her— the certainty of death. But before she could begin to descend down the tower, Clayton turned to face her.
+
+“Centina.”
+
+Blinking, she glanced back at him. He nodded at her as held her gaze.
+
+“You have served me well over these past few years. So much so that I consider you just as important as my [Secretary]. For what you have done for me, I am truly grateful.”
+
+He spoke kindly, but that only brought the tears out of Centina’s eyes. She cried as she wiped her cheeks. She thought that was his parting words— that he was bidding her farewell. And she was truly thankful for what he had to say to her. Even if she couldn’t bring herself to say what she felt back towards him.
+
+And then he shook his head.
+
+“But as the Headmaster of Mavos Academy, it is my duty to protect every single one of my members. And that includes you, Centina.”
+
+That made her pause. Centina blinked a few times as her vision cleared, before she regarded the man standing before her. Her eyes went wide.
+
+“What do you mean, Headmaster Skyshredder?”
+
+“You have served me long enough, Centina. I would think it is fair to consider you as one of my people. That is why I cannot let you do this.”
+
+Clayton chuckled as he stepped past her. He made his way towards the magical elevator as he smiled her way.
+
+“I cannot let you hand yourself over to your death. So do not worry. I shall deal with this.”
+
+And with that, he left her standing there, gaping in shock.
+
+Willy led Rachel, Oriur, Novis, Bellum, and Kron further back into Mavos Academy. They weren’t just going to stand there near the edge of the barrier as the [Ancient Centinel] tried to burrow its way through the magical dome. It shrieked, and even more fractures formed on the sheening surface. A few Centinels leaked in— mostly smaller ones.
+
+But the [Mages] standing guard blasted the Centinels apart before they could enter Mavos Academy.
+
+“Someone activate the fourth layer!”
+
+A voice shouted, and a [Mage] replied.
+
+“We are trying! We need more time!”
+
+Certainly, Rachel could sense the magic coming from beneath her feet. She saw the faint symbols of a magical spell carved into the brickstone. And she wondered where the source of the spell that created the magical dome came from. But she didn’t focus on that right now.
+
+Instead, she kept her gaze locked onto the [Ancient Centinel]. While she knew her limits— that she didn’t stand a chance against such a powerful monster— she also spotted the [Junior Centinels] leaking in. Those would have been a good source of experience for her to level up. And she contemplated joining the fighting, leaving Willy and the others behind.
+
+But before she could make a decision, she saw a volley of light shoot forward, blasting the falling Centinels apart. The shockwave from the explosion sent the [Ancient Centinel] reeling as a bright light illuminated all of Mavos Academy.
+
+Raising her head, Rachel watched as a figure shot forward, riding atop a cloud. Her eyes went wide as she heard a flurry of voices call out.
+
+“That’s Headmaster Skyshredder!”
+
+“He’s here to save us!”
+
+And sure enough, Clayton Skyshredder flew forward, heading straight for the [Ancient Centinel]. He wore a fearless face, his white beard billowing with the wind as his blade was raised.
+
+He sent a massive fireball through the crack at the outpouring Centinels. It erupted into a blast of iridescent light and incinerated thousands of the smaller monsters at once. But the [Ancient Centinel] mostly emerged unscathed from the attack.
+
+“What is that power?”
+
+Rachel asked as she stared at the fading rainbow-colored embers. The three baby Wyverns exchanged a glance. They didn’t seem to be as confused as her.
+
+It was Oriur who responded.
+
+“That is the power of divinity, Rachel.”
+
+“Huh.”
+
+She blinked. And Clayton flew out of Mavos Academy, through the cracks in the barrier.
+
+The [Ancient Centinel] shrieked as he approached it. It lashed out with its head, whipping fast and quick his way. But he dove under it as he raised his blade. He was the Headmaster of Mavos Academy— he was the highest-leveled [Mage] in the Human Lands. There was a plethora of spells he could have drawn from to begin the battle.
+
+But it seemed he didn’t want to waste any time. Rachel’s eyes widened as she sensed the overwhelming magic. She saw the strands of mana overlaying the tip of the blade.
+
+And Clayton bellowed.
+
+“[Disassemble. Deconstruct. Dismantle. Dissection. Deletion—”
+
+Rachel’s eyes widened as a black aura flickered off the tip of his blade. There was no light there. A void that consumed all. But before he could unleash it against the [Ancient Centinel], it lashed out against him, faster this time.
+
+And it struck him. There was a shout. A few voices cried out as the monster seemingly crushed him under the weight of its mandibles. Rachel narrowed her eyes, realizing that was not what happened.
+
+Willy almost laughed.
+
+“He did it.”
+
+The [Will O’ Wisp] remarked simply as he faced Clayton Skyshredder. The Headmaster of Mavos Academy stood steadfast atop his cloud, the [Ancient Centinel]’s mandibles bouncing off him. Sparks of an iridescent light wisped off his body, forming an impenetrable aura that protected him.
+
+Rachel frowned at that.
+
+“What is that?”
+
+It was a simple question. But neither Oriur, Novis, nor Bellum seemed to know. None of them answered. They just stared in awe. And it was Willy who spoke up.
+
+“That is the Breastplate of Alexander.”
+
+Oriur gaped in shock when he heard that.
+
+“Isn’t that supposed to be a Mythical Grade artifact?”
+
+“Yes.”
+
+Willy replied simply. And Rachel furrowed her brows, remembering some of the stories she had been told about what Salvos had done.
+
+“Huh.”
+
+Clayton Skyshredder aimed at the [Ancient Centinel] as it tried to draw back, unable to reach him. And he unleashed his powerful attack all at once.
+
+“[Definitive Disintegration].”
+
+The [Ancient Centinel] was consumed by a black light. Like it hadn’t even been struck by a beam or a ray. Rather, it was instantaneously absorbed by a darkness. And as the darkness faded away, so did the monster.
+
+It was an Elite Ranked threat. Rachel didn’t know what level it was exactly, but it couldn’t have been that much weaker than the Headmaster of Mavos Academy. And yet, all it took was a single attack, before the battle was over.
+
+Because it had been a Grand Skill. It had been an attack of epic proportions. It could have felled many creatures that were even higher-leveled than Clayton had been.
+
+He flew back from the decaying corpse of the [Ancient Centinel], to the resounding cheers of the [Mages] of Mavos Academy. The battle was over so swiftly and easily. It hadn’t even been a challenge.
+
+Rachel thought that was it. She looked on as Clayton rained down fire and lightning at the weaker Centinels swarming below. He exterminated them by the hundreds. It should have been over. They should have fled.
+
+But that wasn’t the end of the battle somehow.
+
+“No…”
+
+Willy whispered, giving the first inkling that something was amiss. And that was when the ground began to shake. Rachel watched as the nearby trees shifted, before being ripped from the ground. A pillar of dirt shot to the sky. But it wasn’t just one.
+
+The earth was ripped apart from all around Mavos Academy. Clayton Skyshredder narrowed his eyes as he swept his gaze around the breaking landscape. All around him, Centinels of varying shapes and sizes poured out of the ground. There was everything from [Younger Centinels] to [Evolved Centinels] to even…
+
+“[Ancient Centinels]...”
+
+Oriur stared with round eyes.
+
+“There are… dozens of them…”
+
+He continued as he stood there in a daze. Rachel nodded as she stared at the giant creatures digging out of the ground, shrieking as they surrounded Mavos Academy.
+
+“That’s a lot of [Ancient Centinels], indeed”
+
+She agreed. But her voice was lost to the panicked voices sweeping over Mavos Academy.
+
+“Activate the fifth layer!”
+
+Someone screamed.
+
+“And the sixth layer!”
+
+Another shouted.
+
+“Activate all seven layers—”
+
+The last voice belonged to Clayton Skyshredder. He bellowed as he flew back in through the cracks, sending a blast of magic out at an [Ancient Centinel] chasing after him. He kept it back as the fourth layer finish forming around the cracked first three layers.
+
+The first three layers themselves were repaired as the fifth, sixth, and seventh formed. And as Clayton Skyshredder landed right in the middle of the streets of Mavos Academy, a final figure appeared amidst the swarm of Centinels surrounding the campus-city.
+
+Rachel’s eyes widened as she saw a feminine figure— a creature that looked like a mix between a Centinel and a person. Almost similar to Centina. Except it had a mass of spikes poking out of its head like a crown.
+
+It glared at Mavos Academy, before sweeping its gaze up towards the tower where Centina waited.
+
+And Willy caught his breath.
+
+“That is… the Matriarch of the Bloodied Gulf…”
+
+He spoke, his fear evident in his voice. And Rachel just pursed her lips.
+
+“Oh no.”

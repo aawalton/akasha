@@ -1,0 +1,157 @@
+---
+id: a6de049b-7fcd-58fd-a5b1-01f63567dce0
+page-type-slug: story-chapter-royal-road
+title: "Chapter 459: Precautionary Measures"
+slug: 0027-chapter-459-precautionary-measures
+partOf: rise-of-the-living-forge
+position: 27
+ownLength: 2044
+unit: words
+ownProgress: 2044
+publishedAt: 2025-07-22
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2457153/chapter-459-precautionary-measures"
+royalRoadId: "2457153"
+markedReadAt: "2026-06-29T19:59:19.454Z"
+---
+
+Eleven’s eyes tracked Arwin as he made his way into the Devil’s Den. Wallace walked into the inn just a moment after him, followed just shortly by a man with long, scraggy white hair and piercing blue eyes.
+
+Every eye in the tavern turned toward them. Much of the conversation sputtered out as all the adventurers stared at Arwin. That was hardly a surprise, given his construct had just completely slaughtered a rather powerful Dwarven Warrior and hadn’t even gotten dented in the process.
+
+What was a surprise was that Arwin didn’t even seem to notice. He set a course right for the kitchen, but paused shortly before he reached it. He seemed to think for a moment before turning toward a table at the corner of the room.
+
+Several shadow imps danced through the darkness, flinging themselves to clear the remaining plates off it. Another set of them hurried over with a large plate of food and drink. Arwin hoisted the plate from their hands and set it down on the table, giving them an appreciative nod before sitting down alongside his companions.
+
+It was one thing to dismantle an enemy trying to take you out. That was just one’s right. But to do it without even coming out of your smithy, then show up a little while later and sit down for dinner as if nothing had happened…
+
+That’s a power play. How did he even manage to trounce a Dwarven Warrior so easily, anyway? They’re not exactly known for being pushovers, and that one had some solid armor to top everything off.
+
+And on top of everything else, the deathly aura was still seeping out from Arwin like the gaze of some eldritch monster. She could feel it boring into the back of her mind — and unless Arwin was a far better actor than she’d initially pegged him to be — he wasn’t even doing it intentionally.
+
+Eleven shuddered. She wasn’t sure if it was because of all the thoughts her poor, tired mind was now being subjected to or if it was because something was seriously wrong with the Menagerie.
+
+Maybe Arwin had made a deal with a devil. Maybe he was the devil. Perhaps the entirety of the Menagerie were.
+
+At this point, she didn’t care. She’d already been racking her brain to decide what the best way to go about getting to the bottom of all of this was. Most of the options involved her doing considerably more work than she wanted to. Or, worse, they involved an upfront conversation.
+
+That sounded almost as bad as having to wake up before sunrise.
+
+Fortunately for her, a solution was heading toward the Menagerie. The solution came in the form of a woman who was actually only about ten minutes away. Slightly less fortunately, she’d been about ten minutes away for the last thirty minutes. And even more unfortunately — Rodrick had spotted the solution two hours ago.
+
+Eleven wasn’t even entirely sure the woman was still alive. She’d still been breathing the last time she’d checked, and she’d left a hair back to keep an eye on the situation, but Rodrick was no pushover.
+
+The man might not have been at her level in terms of the Mesh, but Eleven was willing to swear up and down he had eyes literally everywhere in the city. And not some fancy information network. He learned things too fast for that to be all he relied on. At this point, she wouldn’t have been surprised if he had literal eyes in the walls.
+
+What a shitshow. This much excitement is bad for my circadian rhythm. How am I supposed to get the right amount of rest when I’m all tensed up like this? Hm. Maybe the Menagerie has a massage specialist. That would loosen me right—
+
+The door flew open with a bang.
+
+Eleven nearly leapt straight out of her chair in surprise. Arwin’s aura had her on even more of an edge than she’d previously thought. And, somehow, standing in the door was the very solution that she’d been thinking of a moment ago.
+
+A large woman, her lean body knit with ropey muscle, stepped into the inn. She had a massive saw-like blade strapped to her back and wore haggard pieces of beat up armor over her vitals, leaving the rest of her body exposed. What clothes she did wear were made of scrap leather that hung like a tattered cape around her, never getting quite long enough to interfere with her movements.
+
+It was the very same solution that should have been ten minutes away thirty minutes ago — and the one that she could have sworn was still nowhere near the Devil’s Den. A moment later, Eleven realized why.
+
+She couldn’t sense her hair anywhere on the woman.
+
+Damn it. Rodrick must have moved it. That sly bastard. When did he get close enough?
+
+“Where is Ifrit?” The woman boomed, her voice surprisingly high for her deadly form. It sounded more like — well — a woman of Eleven’s stature was speaking rather than a warrior.
+
+The entire room turned to look back at her.
+
+Not one person said a single word.
+
+They just stared.
+
+The woman strode over to a nearby table and grabbed a man by the collar, hoisting him into the air. His hands didn’t even leave his bowl of soup. They bore it up into the air with him, careful not to spill a single drop.
+
+“You!” the woman said, pressing her forehead against his. “Tell me where Ifrit is. Now. That or I beat it out of you. I’ll also accept the location of any member of the Menagerie. Oh —  no dogs. No pets of any kind. I need a person who can speak. No mutes either. Unless they know how to write. In that case, they’re fine.”
+
+“No thanks,” the man said, entirely nonplussed by the face pressed into his so hard that their noses were smushing together. His voice, however, did come out slightly nasally. “I would suggest you set me down.”
+
+“Is that a threat?” the woman asked.  “You going to fight back? Please. Do it. I’m bored. I’ve been walking in circles for ages. A good warm-up is exactly what I need.”
+
+“Fight back?” The man let out a laugh. “No way. Do you not realize where we are? This is the Devil’s Den, woman.”
+
+“What does that matter?” the woman asked, confusion creasing her brow. She pulled her head back and glanced around the room. “Have none of you ever heard of a good old-fashioned bar fight? Why is nobody moving?”
+
+“Because we already saw one warrior get torn limb from limb today,” another adventurer said. “I’ll pass on disrupting the peace. Especially if you’re doing it inside the Devil’s Den.”
+
+“Why?” the woman genuinely sounded confused. “What are you all scared of?”
+
+A green hand fell on her shoulder. It tightened, an orc’s claws digging into the armor on the female warrior’s shoulder.
+
+“It isn’t me,” Monica said, her eyes thin as paper slits, “but Lillia’s making a new recipe right now and doesn’t want to be disturbed, so I’ll have to actually do my job for once. Put the man down. Step out of the tavern. Do that — and you won’t get hurt.”
+
+To Eleven’s surprise, the woman dropped her captive without an instant of hesitation.
+
+Monica’s other hand shot out and grabbed the bowl of soup before it could meet a tragic fate on the ground. The soup’s owner was considerably less lucky. He hit the floor with a grunt. Monica plopped the soup back on the table and gave him a small nod.
+
+“Thanks,” the man said, rising to his feet and brushing his backside off. He then sat right back down in his chair, ignoring the two of them entirely as he set back about his meal.
+
+“I am Vanessa of the Shimmering Shield,” the intruding woman said, her eyes boring into Monica’s. “Are you Ifrit?”
+
+“I — what?” Monica blinked in surprise. “No. Of course not. Why would you think I was — oh, forget it. Get out of here, Vanessa. First, you cut the line. Second, you threatened someone in the Devil’s Den. That’s two checks. Get a third one and you won’t like what happens.”
+
+Vanessa leaned forward, her forehead pressing up against Monica’s. She really seemed to like doing that.
+
+“You’re strong,” Vanessa said, her lips pulling back in an excited grin. “Come back to my bed with me after I’m done here.”
+
+Eleven choked on her own saliva.
+
+What?
+
+“Absolutely not,” Monica said in a tone that made it clear this wasn’t the first time she’d gotten a similar offer. “I’m happily married.”
+
+“I’ll take you up on that,” the man at the table said, pausing his battle against the soup.
+
+Vanessa looked down at him. Then she shrugged. “Acceptable. Save your stamina. You will need it.”
+
+Eleven rubbed at her eyes. A part of her wondered if she’d somehow managed to fall asleep, but the exhaustion of the day still gripped at her. Her dreams were the one place she was free of that horrid thing — which meant this was somehow real life.
+
+What is going on?
+
+“Well, glad you got what you were looking for. Are you done here?” Monica asked, arching an eyebrow. “Or am I going to have to throw you out?”
+
+“I will leave once I have found Ifrit and no sooner,” Vanessa said firmly. She paused, then frowned. “Well, unless it gets too late. I have other plans for the night. But I’ll wait until then.”
+
+“You’re not from around here, are you?” Monica asked.
+
+“How did you know?” Vanessa sent her a surprised look. “And why are you all so scared? Is Ifrit not a smith?”
+
+“I don’t care what he is,” an adventurer to her left said. “I saw his golem manhandle a guy in fancy-looking armor earlier today. Nobody lasts long after screwing with the Menagerie. If you wanted to kill Ifrit, you really shouldn’t have come here announcing your intentions.”
+
+“Kill?” Vanessa frowned. “When did I ever say that? I’m not here to kill him. The Shining Shields don’t do assassin work. We’re thugs.”
+
+“Should you really be proud of that?” Monica asked.
+
+“Why wouldn’t I be?” Vanessa flipped her hair back. “I get good pay, great hours, and get to beat people up for a living. I even have dental. Why wouldn’t I be proud?”
+
+“Would you clarify that the reason you’re here is because… what, exactly?” Monica asked warily.
+
+“To deliver a message to Ifrit, courtesy of some people he’s made very displeased,” Vanessa replied. “Do you know where he is?”
+
+“Oh, enough of this.” Arwin’s voice cut through the room as he rose to his feet, rubbing his temple with one hand. He shook his head and started toward Vanessa. “I suppose I should have expected at least something odd today. I thought it was weird when nobody tried to distract me while I was working. It was too peaceful. Too… quiet.”
+
+The adventurers in the inn exchanged a glance.
+
+Eleven squinted at Arwin. Then her eyes went wide as a horrifying realization set in.
+
+There’s no way… Does he not even realize his golem was manhandling a warrior just a few hours ago? I was certain he was controlling it remotely. If Arwin actually has a weapon that powerful that fights on its own…
+
+I didn’t just slightly underestimate him. I was flat out wrong.
+
+How powerful has he become?
+
+“You’re Ifrit?” Vanessa asked, giving Arwin a once over.
+
+“Yes,” Arwin said. “I am. Am I remiss in guessing that your message happens to involve that pointy piece of shit you call a sword on your back?”
+
+“You know it,” Vanessa said with a grin.
+
+Arwin sighed. Then he nodded to the door. “Come on, then. Let’s get this over with. We’re not fighting inside the Devil’s Den.”
+
+“Scared?” Vanessa asked, arching an eyebrow.
+
+“No,” Arwin replied as he walked past her. He reached the door and sent a glance over his shoulder. “I just don’t want Lillia getting mad at me when I get your blood on her floor.”

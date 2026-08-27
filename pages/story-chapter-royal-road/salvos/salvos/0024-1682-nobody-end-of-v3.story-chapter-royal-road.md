@@ -1,0 +1,243 @@
+---
+id: 477ffa1c-e77c-583c-9973-fba049669403
+page-type-slug: story-chapter-royal-road
+title: "168.2. Nobody (End of V3)"
+slug: 0024-1682-nobody-end-of-v3
+partOf: salvos
+position: 24
+ownLength: 2003
+unit: words
+publishedAt: 2021-08-18
+link: "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/735856/1682-nobody-end-of-v3"
+royalRoadId: "735856"
+---
+
+168.2. Nobody
+
+Screams echoed throughout the streets of Vamont. A woman ran with a child as a giant monster gave chase. It tore through the buildings, cracking the roads with each step, and letting out a furious roar.
+
+It smashed its fists on the earth, sending a tremor which broke apart the floor beneath the woman. She stumbled, turning around in terror.
+
+“No—”
+
+“[Crescent Fury]!”
+
+Even from afar, Daniel’s sword tore through the [Prima Saeve]. The giant ape crumpled to the ground, easily defeated by a single Skill.
+
+The [Hero] landed next to the mother and child, offering them a hand.
+
+“Thank you…”
+
+“Get out of here. Go!”
+
+He didn’t have time to accept their gratitude. He heard the stampede coming their way. A horde of Scavenger Yetis charged down the street, freezing everything in their path. The woman and child scurried away as he braced himself, readying a Skill—
+
+“[Arrow of the Flame Elemental].”
+
+A single bolt of fire shredded the Scavenger Yetis before they even reached him. A red-haired woman ran up next to Daniel, panting, downing a mana potion.
+
+“Are you alright?”
+
+“Edithe… I’m fine. I thought you were—”
+
+Edithe shook her head, dusting herself off.
+
+“I took a little fall. Nothing too bad.”
+
+She glanced around as Daniel sighed in relief.
+
+“The city is surrounded from all sides. Half of the monster army broke off to block the only escape. We need to help them break the siege!”
+
+The red-haired woman started for the southern gates, but Daniel didn’t budge. He looked over the death and destruction around them, speaking softly.
+
+“Why are they doing this? Why are they…?”
+
+Edithe hesitated.
+
+“I… I wish I knew the reason behind it as well, Daniel. But it doesn’t matter right now. What matters is we save as many people sa we can—”
+
+She was cut off by a scream. It was more like a shrill shriek. Daniel and Edithe exchanged a glance, before hurrying over to the source of the noise. They saw a man collapsing over some rubble, around a pile of corpses.
+
+Daniel reached for the fallen man.
+
+“Are you alright?”
+
+“Wait!”
+
+Edithe grabbed him, pulling him back. He blinked.
+
+“What—”
+
+And the fallen man spun around, clawing for Daniel. Edithe blasted him back with a [Lightning Orb] before he could touch the [Hero].
+
+“That’s… a [Crypt Horror]. An undead.”
+
+She stared at it. Then she looked over at a figure standing on top of a roof. Daniel identified it.
+
+[Crypt Lord - Lvl. 74]
+
+It raised its arms, and there were more cries. Edithe whispered.
+
+“It’s raising the dead.”
+
+Then she cursed.
+
+“Fuck, it’s bringing the dead back to life. They’re trying to make an even larger army!”
+
+Before the corpses could turn into [Crypt Horrors], Edithe blasted the [Crypt Lord] apart. The twisted bodies dropped back to the ground as the [Crypt Lord] fell. But that wasn’t the only one.
+
+Daniel spun as he saw the undead marching down the streets all around them. A city was being turned into an army, all for a Demon to use. Their plans to evacuate Vamont fell apart as its entire population was decimated. If this was really Belzu’s doing, he would have an even larger army once he left this city.
+
+“Behind us!”
+
+A swarm of [Crypt Horrors] bounded after the pair of adventurers. Edithe raised her staff, conjuring flames and frost. But as Daniel drew his blade, he paused. His eyes widened as he looked overhead.
+
+“A little help here?”
+
+“There he is.”
+
+Daniel stared at a figure, hovering at the very center of Vamont. He almost thought it was an insect buzzing around him at first. But it was simply because it was a distant figure. But it was there.
+
+The Demon. Belzu. It floated, surrounded by a hundred Mindreapers. It had a bloated body, with a pair of rapidly flapping wings. Its red eyes scanned the city, like a careful leader, strategizing, moving his troops to adapt to the evershifting battlefield.
+
+“We can end this now.”
+
+Daniel stepped forward, a glow overcoming his sword, and power rippling through him. Edithe blinked.
+
+“That’s… both your [Hero] Skills?”
+
+But there was more. Daniel steeled himself as he raised his sword. He had reached Level 100. His Class advanced. He gained a second Class. And a new [Hero] Skill. Each equivalent to a Grand Skill.
+
+He would finish Belzu now.
+
+Daniel found himself running forward, his feet carrying him over a great distance in an instant. With a leap, his sword shone. [Hero’s Slash]. A Skill, on its own, that could bring down an opponent many times above his level.
+
+But that wasn’t just it, was it? There was more. [Will of the Hero], and…
+
+“[A Hero’s Rage].”
+
+Daniel was shrouded in glowing plate armor. His sword tripled in size as it tore the sky asunder. Lightning and thunder struck Belzu as he brought his blade down and sheared the Demon in half.
+
+“Die, you Demon!”
+
+He saw the Demon’s eyes bulge wide. It was a combination of his greatest Skills. Even an Archdemon would perish to this. Belzu’s body split in half.
+
+“How…?”
+
+And his lips quirked up.
+
+“You missed me.”
+
+There was a laugh as Daniel tumbled back to the ground. He glanced up, seeing Belzu appear a dozen feet to the right of where the [Hero] struck.
+
+“A [Hero]. How very interesting. I have only heard of your kind in stories and tales.”
+
+Daniel landed with a crash. He stared at Belzu, mind uncomprehending. His [Hero] Skills, all gone to waste, just like that? Belzu shook his head and drew closer to Daniel.
+
+“Ah, I forgot to introduce myself. I am the Lord of Lies. It is a pleasure to meet you, [Hero].”
+
+“Get away from him!”
+
+An [Arrow of the Flame Elemental] tore through Belzu, and he once again appeared a dozen feet to the right of where he once was. Edithe ran over to Daniel, pursued by dozens of [Crypt Horrors].
+
+“Daniel—”
+
+And the world around the adventurers shrouded over. A darkness overcame them, with a wicked chuckle coming from Belzu. The pair were suddenly trapped in the dark.
+
+“Reveal yourself, fiend!”
+
+Daniel shouted, as Edithe narrowed her eyes. Belzu gave a simple reply.
+
+“No.”
+
+And the man was knocked onto the ground. A creature snarled and struck him as Edithe was tackled. The pair of adventurers struggled, trying to fend off their invisible foes.
+
+I can’t see. He punched out, feeling something get knocked back. But something bit his shoulder and he winced. He couldn’t see. Neither could Edithe. They were attacking everything in a panic. They were surrounded. They had no choice. Not until they could break free from this illusion—
+
+A scorching wave washed over Daniel and Edithe as the [Crypt Horrors] screeched and burned. The flames burned at the pair of Humans too, but it was weak. It wouldn’t have killed them. Then, before they could react, multiple pairs of hands grabbed them and took off into the air.
+
+Daniel struggled, trying to push himself off whatever vile creature grabbed hold of him. But when they escaped the sphere of illusion, he saw who it was and paused.
+
+“Salvos?”
+
+The Demon girl was overtaken by her [Demonic Essence]. She carried both Daniel and Edithe with her five arms, wreathed in flame armor.
+
+“I got you guys!”
+
+Salvos flew higher and higher as Mindreapers flew after her. Her eyes were shut tight, but her brows creased as their mind magic settled on the three of them.
+
+“Keep them off me, Edithe!”
+
+“Got it!”
+
+The red-haired woman sent them scattering with a wave of her own magic. Belzu almost seemed to squint at them, speaking casually.
+
+“So, you escaped. Hrmph.”
+
+Salvos soared past the buildings and fallen towers as the last of the Mindreapers were defeated by Edithe. The Demon girl made a sudden turn and flew up as Belzu sighed.
+
+“[Desecration of the Mind.]”
+
+She screamed as her body flashed. A pendant and ring flashed, before quickly fizzling out. Salvos bit her lower and whispered.
+
+“[Haste].”
+
+And they blasted into the air, further and further away. Belzu almost seemed amused.
+
+“You survived its effects, how interest—”
+
+Daniel couldn’t hear what else he had to say. They were already past the city’s walls, quickly leaving behind the city as Salvos almost seemed to fly for the stars. The [Hero] realized what was happening.
+
+“What are you doing, Salvos?”
+
+“Living!”
+
+The city was nothing but a speck in the distance. All he could see was the orange glow of the dark sky, painted a furious red by the raging flames. Smoke rose in a single, billowing plume from Vamont. Daniel held out a hand. There had to be thousands of people, still trapped in the city sieged by monsters. But it was too late.
+
+They were far from the city. Salvos wouldn’t turn back.
+
+“We can end this now! We can—”
+
+“Die. We’ll die.”
+
+Salvos cut him off. She eyed him with a solemn look. He paused.
+
+“We ventured to the Plaguelands, Daniel. We met with Kobolds far beyond our levels. We fought a Lich that lost his mind. But each of those battles? They were different.”
+
+“I…”
+
+“The odds were against us, yes. Perhaps we took greater risks than we should have. However, each time we fought, we stood a chance of winning. Even when we were reckless, we were never suicidal. But this? If we went back to fight Belzu, we would only die. Nobody will be saved. He would add us into his army. That's it.”
+
+Daniel stopped struggling as she finished. He grew silent. The city vanished over the horizon as Salvos continued to fly further into the Sunmere Republic. Edithe said nothing either. She was too exhausted to speak. Neither one spoke for a bit. Not until Salvos whispered.
+
+“I want to be like him.”
+
+Daniel paused.
+
+“What?”
+
+He stared at her. Salvos nodded, glancing back.
+
+“Him. Belzu. I want to be like him.”
+
+Daniel wanted to snap at her. Be like that monster? Belzu, the Demon that wrought all the destruction and death behind them? He was razing an entire city to the ground! But… Salvos never cared about that, did she? She was a Demon. And to her, she was thinking of only one thing when she said that.
+
+“I want to be stronger.”
+
+End of Volume 3
+
+Author's Note:
+
+End of Volume 3. The longest volume in terms of time in real life so far. I had to take many breaks due to finals and school stuff, but it's finally over. Even the final chapter took a delay to finish. It even ended up being nearly two thousand words longer than I thought it would be.
+
+3,888 words.
+
+I tried my best to make it 'good' and give you a sense of how much stronger Belzu is compared to Salvos and her companions. He isn't a pushover, nor is he meant to be one. He's the real deal.
+
+And as for the the volume as a whole? I always intended for this to happen. When I outlined Salvos Volume 3, I had a simple goal: escalate the problems until it becomes something Salvos and her companions can't handle. And while it didn't end too badly for Salvos and her companions... well, the people of Vamont ended up suffering a less-than-kind fate.
+
+Volume 3 focused a lot on Salvos leveling and evolving, while focusing mostly on her companions' character development rather than hers. I'm not going to say much about Volume 4, but it definitely won't be the same as Volume 3. As always, each volume is different, and I hope you guys are looking forward to the next volume as much as I am!
+
+Next chapter will be tomorrow, because I'm an idiot who doesn't take breaks ^.^
+
+Also, here's a poll! Go and check it out and give me your honest opinion on what you thought of V3! End of Salvos Volume 3 poll

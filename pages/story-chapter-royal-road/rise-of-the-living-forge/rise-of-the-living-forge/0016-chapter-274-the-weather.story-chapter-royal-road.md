@@ -1,0 +1,186 @@
+---
+id: 2a3e546b-f299-5c88-b20a-0ab969e6db74
+page-type-slug: story-chapter-royal-road
+title: "Chapter 274: The Weather"
+partOf: rise-of-the-living-forge
+position: 16
+ownLength: 2180
+unit: words
+ownProgress: 2180
+publishedAt: 2024-09-13
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge-stubbing-to-ch555-in/chapter/1801500/chapter-274-the-weather"
+royalRoadId: "1801500"
+markedReadAt: "2026-06-29T19:58:58.270Z"
+---
+
+Arwin stared at Yonas in surprise. It took him a moment to find his words.
+
+“You will?”
+
+“Your guild was able to clear an Adept ranked dungeon with little difficulty. I assume you must have a reasonable way in which you can accomplish this. If it hasn’t been determined yet, I would guess you have a manner in which it can be pulled off. And if not — well, you offered a loan. I trust you will identify your weakness and return the heart to me so that our original plan can be carried out. I will smooth over the issues.”
+
+“Wouldn’t be the first time we pull off a little bit of bullshit,” Rodrick said. “Historically, betting on the Menagerie has gone fairly well for us. That said, as we’ve already pointed out, there’s a chance Twelve is too powerful for us to deal with. The loan gives us both what we want, in my opinion.”
+
+A smile crossed Yonas’ features and he inclined his head. “Very good. Then we are in accord. I will deal with Raen, should the time come. But do not forget. For this to work, if you keep the Heart, you will need to deal with Twelve. Yourselves. The Dawnseekers cannot make enemies of him. We cannot interfere with any actions he takes. He is too dangerous.”
+
+“Do you happen to know exactly how strong he is?” Arwin asked hopefully. He was pretty sure Rodrick would figure that out sooner rather than later, but the more they could figure out now, the better.
+
+“The very bottom of Expert rank according to the last information we have on him,” Yonas said. He raised his hands to forestall any further questions. “And that will be the extent on the information I share. I am betting on your guild, not investing in it. I will not grow involved in this fight. That is too great of a risk, and all risk must be mitigated.”
+
+“That’s understandable,” Lillia said, exchanging a glance with Arwin. Yonas had given them what they needed. The bottom of Expert rank placed Twelve considerably above them, especially if he’d actually reached the rank the proper way and had the Achievements and Titles to match.
+
+He was basically two tiers above Arwin and Lillia, and a little less than that above the rest of the Menagerie.
+
+But we’ve got time to prepare, and Twelve is an assassin. That’s possibly the worst class to try to take on a group.
+
+Expert Tier was dangerous, but it didn’t put Twelve completely out of touch. It would be incredibly difficult to fight him, but it was possible. There were still three days before he was due to return to the guild. That wasn’t a lot of time, but it wasn’t no time either. They just had to find a way to pull it off.
+
+“If we get rid of Twelve, what about the Ardent guild?” Reya asked. “They’ll still be around.”
+
+“I am trusting that you will find a way to find us a foothold,” Yonas said. “I do not care about Twelve. Neither does Raen. But, if you are capable enough to deal with Twelve, then I suspect you will be able to get us a foothold in Milten as well. The latter should be far easier to do than the former. If you cover the money we lose from the Heart, I would say we’re more than even.”
+
+“We’ll do what we can,” Arwin promised. “And if we can’t… well, I suppose it won’t matter much.”
+
+“It will,” Yonas replied. A flicker of irritation pulled across his features. “I will have lost another bet. That would be most displeasing.”
+
+Arwin snorted, then shook his head. “Well, then. I suppose we should get to it. Lots of work to do before Twelve pays us a second visit. Care to lead us back out of the dungeon?”
+
+Yonas’ nose scrunched and he let out a sigh. “I suppose I should. On with it, then. Unless any of you would like a rest before we head back up?”
+
+“I think we’re good,” Lillia said.
+
+“I thought as much,” Yonas said.
+
+He started off, and the Menagerie followed after him, dragging the huge bags bearing the spoils of their efforts in the dungeon along with them. They had quite a haul to get back and work with, and Arwin’s mind was already churning as he tried to figure out where his efforts could be best directed.
+
+What can I make that will give us the best chance to beat Twelve?
+
+***
+
+“The weather is rather appreciable, is it not?” Madiv asked.
+
+Esmerelda slowly turned her head to look in his direction.
+
+The two of them sat on the roof of the Devil’s Den, overlooking the street that belonged to the Menagerie. Esmerelda had removed her backpack and set it down on the stone behind her to save her aching shoulders.
+
+Sunlight bore down on them rudely, poking into her eyes and forcing her to squint. It was all too bright. The sun was a nuisance, and she was quite certain the world would be better off if some great monster were to eat it whole.
+
+She heaved a sigh and didn’t even bother gracing Madiv with a response. The vampire was just as bored as she was, but she hadn’t fallen so far as to start talking about the weather quite yet.
+
+Esmerelda had been expecting this whole thing to be considerably more exciting.
+
+Sure, the Menagerie were only gone for a short while, but everything always went wrong when others weren’t there to see it. That was just the law the universe — and the universe always pursued the strong far harder than it did the weak.
+
+For an incarnation of a literal devil in flesh, Esmerelda refused to believe that the Mesh would decide to leave well enough alone. Especially when he wasn’t around to stop anything bad from happening.
+
+There should have been a monster attack. A rogue adventurer with a penchant for smashing walls with a hammer. Something.
+
+Instead, she got —
+
+“The weather is rather appreciable, is it not?” Madiv asked.
+
+“Would you stop that?” Esmerelda snapped. “It’s the fourth time you’ve said it in the past five minutes!”
+
+“I had thought you may not have heard me. It is possible. Hearing is one of the first senses to go in old age,” Madiv said.
+
+“I’m as spry as a whistle, you wiry beanpole,” Esmerelda grumbled. “And I can hear perfectly fine, thank you very much. I have simply chosen to tune you out. Have you never held a proper conversation in your life?”
+
+“I tend to hold proper conversation when I am blessed with a capable partner,” Madiv replied without missing a beat. “Unfortunately, the lot I have drawn today has the conversational skills of a plank of wood — and half the personality.”
+
+“I’ll show you personality,” Esmerelda growled, clambering to her feet and grabbing her bag of potions. “What color flowers do you want growing on your grave? Some of the potions have rather… lasting effects.”
+
+“You are going to attempt to attack me?” Madiv arched an eyebrow.
+
+“Attack? No. I can’t do that. I’m part of the Menagerie.” Esmerelda crossed her arms in front of her chest. “I will simply give you a potion, and you will drink it.”
+
+“What would possess me to do that?”
+
+“Boredom.”
+
+Madiv paused. Then he frowned. “Yes, that may actually be sufficient. Though… death does make the offer slightly less tempting.”
+
+“Oh, the potion won’t kill you. It just stays in your system a long time,” Esmerelda said, scratching at her chin. “Sits in your intestines. Makes ‘em smell like fruit. You’ll start rapidly sprouting flowers after you pass from natural causes. Great for funerals.”
+
+“I see,” Madiv said. “Entertaining.”
+
+“Quite,” Esmerelda agreed. She cast her gaze around the street again and let out a long suffering sigh. “Gods, I’m bored.”
+
+“A peaceful life is one well lived.”
+
+“Stuff your proverbs,” Esmerelda said. “I want to melt someone.”
+
+“Didn’t you just say your potions wouldn’t actually kill anyone?”
+
+“Depends on the potion.” Esmerelda shook her bag and potions clinked around within it. “I’ve got a few in here. Don’t quite remember which one does which.”
+
+“Perhaps the first thing to go in your old age was not your hearing, but your mind.”
+
+Esmerelda’s eyes narrowed. “I’ll show you—”
+
+Her head snapped to the side, and Madiv’s did the same.
+
+Something had moved near the edges of the street. The two of them both squatted down, watching with rapt interest as a man stepped out from an alleyway. He paused for a moment to glance around. His eyes landed on the Devil’s Den and he started toward it. The man didn’t seem to have the faintest idea that there were two people on the top of the building, watching him approach.
+
+“I knew it,” Esmerelda hissed. “I told you someone would come, didn’t I?”
+
+“I did not doubt you,” Madiv replied in the same, hushed tone. “But we must ensure he is an enemy. It could be someone hungry, seeking the great Lillian’s cooking. That would be a worthy pilgrimage.”
+
+“Kissass,” Esmerelda muttered.
+
+They both fell silent, watching the man as he drew up to the wall of the inn. He came to a stop, glanced to either side and behind himself, then pulled a small bag off his shoulders and reached inside.
+
+The man pulled a flint.
+
+“He’s trying to start a fire,” Esmerelda said.
+
+“Maybe he smokes.”
+
+The man pulled free a small piece of steel and crouched by the edge of the building. Madiv and Esmerelda exchanged a glance.
+
+“He’s trying to set the Devil’s Den on fire,” Esmrelda said.
+
+“I fear you may be right,” Madiv said. “Okay. We can kill him.”
+
+A delighted grin spread across Esmerelda’s face. “Oh, thrilling. I’ve been waiting for this.”
+
+She brought the launcher that dangled at her side up, grabbing the handles with both hands and taking aim. Before Madiv could even jump off the roof to attempt and deal with the man himself, Esmerelda squeezed the trigger.
+
+There was a loud whump.
+
+A round potion vial full of bright blue liquid streaked through the air in a blur. The man’s head jerked up, but not nearly fast enough. The potion struck him right in the temple with a sickening crunch.
+
+The man crumpled to the ground — and the completely intact potion bottle clinked to the stone beside him. It rolled to a stop a foot away from his body, not so much as a scratch on it.
+
+Madiv dropped from the roof, landing beside the fallen man. He reached down and pressed a hand to his neck, then rifled through his clothes. The vampire pulled a guild badge free from the man’s pocket — red, with a golden sword embossed upon it.
+
+Ardent Guild. Goodie. That means I won’t have to keep the rest of the Menagerie from finding out about the body this time around.
+
+Madiv grabbed the potion bottle from the ground, pinching it gingerly between two fingers. He slung the body over his shoulder. His knees bent and he leapt, sailing through the air and landing neigh-soundlessly on the roof beside Esmerelda, then dumped the man at their feet.
+
+“Dead,” Madiv said. He eyed Esmerelda’s launcher. “How much force does that muster?”
+
+“A lot.” Esmerelda plucked the potion from Madiv’s hands. “Thank you.”
+
+“It was no effort… but I fear your weapon is broken. The potion did not break.”
+
+Esmerelda squinted at Madiv. “Why would I want the potion to break? That would be wasting a perfectly good potion.”
+
+Madiv stared at Esmerelda for a few seconds. Then he looked down at the body. “Did you want to do something with this? Or shall I dispose of it?”
+
+Esmerelda tilted her head to the side. “Be a dear and hold it up for me. I want to inspect it.”
+
+Madiv shrugged. He grabbed the corpse by its hair and lifted it into the air. Esmerelda peered at it, chewing her lower lip. Not all bodies were made equal, but they all had useful components. She just had to figure out which ones this one bore.
+
+Never know when you need a few extra eyeballs. They can be quite the tricky ingredients to locate. Ironic.
+
+Unfortunately for Esmerelda, it was a well-known fact that the universe always pursued the strong far harder than it did the weak.
+
+It was as Esmerelda studied her newly procured body that the rest of the Menagerie returned — and promptly spotted her. Her senses, distracted as they were, warned Esmerelda of their approach only a moment too late.
+
+She glanced to the street just, making eye contact with the group as they stared straight up at her and Madiv.
+
+“Is that a body?” Reya asked, her words drifting up from the ground.
+
+Esmerelda spoke before her mind could finish processing the words that left her lips.
+
+“The weather is rather appreciable, is it not?”

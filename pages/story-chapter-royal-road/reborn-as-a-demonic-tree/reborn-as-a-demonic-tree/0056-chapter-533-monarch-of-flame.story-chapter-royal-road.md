@@ -1,0 +1,147 @@
+---
+id: 35ef418f-2022-50f0-baa4-94eea00ce8b9
+page-type-slug: story-chapter-royal-road
+title: "Chapter 533: Monarch of Flame"
+slug: 0056-chapter-533-monarch-of-flame
+partOf: reborn-as-a-demonic-tree
+position: 56
+ownLength: 2796
+unit: words
+ownProgress: 2796
+publishedAt: 2026-02-11
+link: "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3037525/chapter-533-monarch-of-flame"
+royalRoadId: "3037525"
+markedReadAt: "2026-06-29T19:03:27.465Z"
+---
+
+Magnus Redclaw opened his eyes to a fiery hellscape. The sky was a churning cloud of thick black smoke, blanketing a land of magma and roaring flames. He did not know how long he had been cultivating here atop an obsidian pillar, but he did know his time in seclusion was drawing to a close, for he had achieved the 9th stage of the Nascent Soul Realm and the final piece of the puzzle—comprehension of Fire Qi Law.
+
+All those decades of being unable to surpass his bottleneck in the Star Core Realm and desperately meditating on the dao in an attempt to progress had finally borne fruit. His comprehension of the dao had reached a new height.
+
+He opened his palm and summoned a flickering orange flame. "I can't believe it," he muttered, "the legends were true. A mere mortal such as I really can command the heavens."
+
+Before, he would request the heavens to bend reality to his will, and it would listen as long as he offered enough fire Qi as fuel for the desired technique and possessed enough comprehension for the heavens to understand his intent. It was a balanced relationship, at least on the surface. But like many cultivators, Magnus had noticed the contradiction. The heavens weren't exactly their enemy—more like a ruthless teacher—but if the heavens gifted mortals the power to defy them, they could also take it away.
+
+Magnus grinned. The little flame in his hand was his. The surrounding Qi had obeyed his will, without him having to beg the heavens. He was finally in total control of the affinity he had dedicated his life to understanding.
+
+He also now understood what he had to do.
+
+It was time to become the monarch of his fate.
+
+He had studied the scarce literature that whispered of what the ascension to the Monarch Realm entailed, but all of it had come down to one simple, frustrating phrase...
+
+You will know how to proceed once you are ready.
+
+So vague, yet so true. Magnus fully understood the meaning of those words now. He would go so far as to say that it wasn't instinct, but rather a duty imparted upon him—like a child emperor set on a throne. The child would not instinctively know how to rule, but would rise to the challenge nevertheless, for it was his duty.
+
+Magnus felt like that child emperor right now, finally taking the throne he had longed for.
+
+"I have a duty now to more than just myself, my family, or even the fire affinity," Magnus said as he clenched his hand and snuffed out the flame. At first, when the Ashfallen Sect had shocked his world and helped him effortlessly surpass the bottlenecks that had seemed insurmountable, he had been gracious but cautious about abusing Ashlock's charity. However, over time, his view had changed. He had stopped looking at it as charity that he was unworthy of and knew the exact moment that way of thinking had died.
+
+The day he was chosen for the Eternal Realm.
+
+Unlike the Mystic Realm, where almost everyone in the sect was allowed in, the Eternal Realm was special. Ashlock had chosen him over everyone else to enter and get stronger. He had asked why, and Ashlock's answer had been simple yet exactly what he had needed to hear.
+
+"Why did I choose you to go in next? What an odd question. You're Magnus the Inferno Sovereign and Grand Elder of the great Redclaw family. Your strength is my strength, and the Ashfallen Sect needs all the powerhouses it can muster to win the upcoming war. I'm depending on you to get stronger and become a Monarch, Magnus. That is why I have chosen you to enter the Eternal Realm next alongside Elysia..."
+
+That's all Magnus had needed. As a warlord who had seen the Redclaw family at its peak and at its darkest hour, he had gotten used to fighting tooth and nail for his own survival, and then his family's. But now, the drums of war were sounding once more, and this time, he wielded his sword for someone else.
+
+He had been given a duty, and if there was one thing he had done his whole life, it was stepping up to the plate when he was needed most.
+
+"I will now begin my ascension," he said to nobody but himself. He was alone in this realm of fire, meaning if he were to fail, nobody would be around to witness his fall. However, he didn't even entertain the idea of failure. During his ascension to the Nascent Soul Realm, he had faced the twin dragons of hellfire crackling with the heavens' wrath with ease. His ego and iron will had survived the heavens' judgment, reassuring him that he had been worthy.
+
+Truthfully, he had forced that ascension to prove to himself and the sect that he was worthy of a level that had seemed so far out of reach before. Having succeeded, many of his doubts had already faded, and now, Ashlock had also deemed him not only worthy but demanded that he succeed. So failure was simply not an option.
+
+He glanced at the churning clouds above with a stoic face. "Heavens, there is no need to go easy on me," he said, his powerful voice radiating out across the hellscape. "I want to—no, I know that I'm deserving of becoming a Monarch. This is simply a mere step in my rise to power, so I can pay back my benefactors tenfold for their kindness and care."
+
+The pocket realm rumbled in response, as if it sensed the incoming event.
+
+Magnus closed his eyes for possibly the last time and entered the battleground, his sea of consciousness. It was in this spiritual place, with twin Nascent Souls hanging in the sky, that his Inner World would be born. His mind's eye condensed into a spiritual form that stood on the sea of fire, surveying the landscape. Right now, this place had no form or shape. It was simply where his memories, twin souls, and Qi resided.
+
+Strolling forward as if he were walking on the surface of a star, the fire playfully coiled around his feet as if welcoming him home. He smiled and enjoyed the change in treatment. Before comprehending Fire Qi Law, he couldn't even begin to imagine how one could form an Inner World, but now it felt so obvious.
+
+He just had to ask.
+
+"Worldcore of fire, I will your creation," he said, his Qi-infused voice ringing out like a godly command inside his sea of consciousness. Raising his hand, the surrounding fire answered his call. Hundreds of magma streams, born from the seemingly endless sea of fire, coiled upward and condensed into a single point. At its core, a world embryo infused with his will was formed and began to feed on the provided Qi.
+
+So far, so good, but Magnus knew this was only the beginning. While he gave birth to the world, that did not mean it would acknowledge him as its Monarch. The only way to gain total control was to be its architect and beat it into submission. The more autonomy it had, the more it would diverge from his vision and take on its own form, robbing him of the ability to project it onto reality as a domain and possibly even risking soul death.
+
+Creating a sentient world inside one's soul was not without its dangers.
+
+He got to work. If he were to be the firepower of the Ashfallen Sect, he would make sure his domain reflected that. Opening his arms wide, a hole in the fire beneath his feet yawned open, and he dropped the forming Worldcore inside. Now with unlimited access to his Qi pool, the infant world would rapidly grow and also try to devour him. After all, what sentient being would willingly be enslaved by another?
+
+Magnus's spiritual body floated up into the air, and after waiting for the Worldcore to seize control over his entire Qi pool, he got to work wrestling it back and molding it into his vision. With a click of his fingers, Qi was drawn from the Worldcore to feed a sun of pure fire Qi in the sky. With a wave of his hand, volcanic ranges erupted into existence, followed by rivers of lava splitting the solidifying obsidian plains like veins of molten blood. He was partly inspired by the pocket realm he had been cultivating in until now, but his main focus was on creating an environment that demonstrated the raw, destructive power of fire.
+
+When he imprinted his Inner World upon reality, he didn't want to restrain his foes or even give them a warning. He wanted to strike them with hellfire erupting from a volcano. That was his goal and vision, and his Inner World began to reflect that.
+
+However, the world resisted his ideal.
+
+The moment the sun finished its creation, a storm followed. It wasn't made of clouds but rather a sea of enraged golden eyes he was all too familiar with. His infant world had betrayed him and called upon the heavens for help.
+
+He cracked his spiritual knuckles. Unlike the fight with the heavens to form his Nascent Soul, this showdown was happening inside his own sea of consciousness. In here, there was no skin or formations to help weather the storm. His soul was naked and exposed to the heavens' wrath.
+
+Though in his opinion, that only made it more fun.
+
+He met the heavens' hatred with a grin. "Bring it."
+
+The heavens answered, and Magnus didn't falter as a barrage of golden lightning struck the fire beneath his feet and supercharged it with foreign energy that his rebelling infant world greedily absorbed and mobilized to fight him. A cataclysmic geyser of flame erupted before him, taking the form of a colossal beast that loomed over him and almost reached the height of his twin Nascent Souls. The beast had no defined shape but was obviously an attempted manifestation of his ideal of destruction, which he had imparted to his infant world.
+
+Despite the threat he faced, Magnus stood his ground.
+
+The world should bend to him, not the other way around.
+
+"So that's your move, huh?" He mused, frowning at the attempt. "Then let me show you mine."
+
+He summoned his twin Nascent Souls to his side, each one radiating with his absolute authority over fire. They did not grow to match the created beast's size or apparent strength. Instead, he fought with nothing but his spiritual might. This was a battle fought in his own soul, after all.
+
+"Abomination of accursed fire, you will kneel before me, your true sovereign!" Magnus roared, his voice exploding out like an erupting volcano and carving a massive hole in the beast's stomach. It hissed in pain as Magnus drew his hand back, peeling away layers of flame as if he were skinning it alive.
+
+The infant world desperately fought back, sending the beast to crush him—their clash shook his consciousness, sending ripples across his soul. The beast tried to consume him, to claim dominion. In response, Magnus did what he always did.
+
+He bled, endured, and burned brighter.
+
+Even as the lightning switched targets and tried to kill him for daring to defy their combined efforts, he stood tall.
+
+The back-and-forth might have lasted hours or days—Magnus had no idea. Whatever the case, he endured the great battle, and through his sheer will, he managed to seize the beast by the throat and, in a decisive move, destroy it. The beast crumbled into fire that melted into the world below his feet, and for a brief moment, there was silence. From its remnants rose the true core of his domain—a spiritual volcano floating in the sky, orbited by burning moons and wreathed in solar flame.
+
+His Inner World slowly stabilized into the cycle of destruction he had envisioned. It was vast, harsh, and beautiful—an endless domain of hellfire, ready to erupt at a moment's notice. It perfectly reflected his temperament.
+
+"I did it," he muttered and relished the glory of his creation for a moment before turning his attention to the world. "Do you accept my rule?"
+
+The heavens overhead seemed ready to provide more support, but Magnus already knew he had won. Should he possess heart demons, they may have risen to the occasion in a vain attempt to beat him down. But with Ashlock's help, he had expelled them long ago, and his consciousness was clear.
+
+The erupting volcanoes relaxed. The rivers of magma stilled.
+
+The fire bowed.
+
+His Inner World accepted his rule.
+
+"Heavens, I have once again survived your trial!" he shouted at the clouds of golden eyes overhead, glaring down at him with disdain. "On this day, a new Monarch of fire treads upon your lands. Magnus Redclaw, the Inferno Sovereign. Learn my name, and burn it into your memory for all eternity." Having said his piece, he called upon the authority of his new domain and, with a simple flick of his wrist, expelled the heavens from his consciousness.
+
+He opened his eyes as a new man and let out a single breath.
+
+"There's more?" he asked the sky as he felt a pull from the beyond. The heavens may have left his consciousness, but they were apparently not done with him just yet. The smoke-filled sky parted as a pillar of light suddenly descended upon him, and he tried to fruitlessly block it. To his surprise, it did not burn him. Instead, it was more of a blessing. He suddenly felt more connected to the greater dao, as if being rewarded and immortalized for staking a claim to reality.
+
+Fire Qi from the surrounding pocket realm surged toward the light, dyeing it a blazing orange. He slowly rose, his body crumbling to dust as it all poured into him. Yet he did not scream in pain or try to flee, even as the pocket realm around him seemed to fracture as its very essence was endlessly drained toward him.
+
+The heavens had acknowledged him as a Monarch and were helping him craft a body out of fire. His spirit roots were reforged, his veins flowed with magma, and his eyes became smoldering coals. When he opened his mouth, smoke trailed out as if his stomach had become a furnace.
+
+However, his transformation was not instantaneous. While Magnus had no idea why the heavens were doing him this favor, it was clearly a ritual of cosmic proportions. With every passing moment, more of the pocket realm's foundation was consumed to fuel his change. Mountains collapsed into rivers of molten slag. The sky fractured like porcelain, revealing the void beyond. Stars were snuffed out overhead, sucked dry to nourish the blazing cocoon of light that Magnus now stood defiantly within.
+
+A long time passed until nothing was left. Magnus stood alone on the pillar, surrounded by the void. The great pocket realm that had served as the stage for his ascension was no more.
+
+The heavenly light faded. His transformation was complete.
+
+"Thank you," he whispered, not entirely sure if he was thanking the heavens or the pocket realm for its sacrifice. He looked down and stared at his reflection in the polished obsidian.
+
+Twin suns stared back at him with a regal radiance. He studied himself curiously, wondering if he could still be considered human. His skin resembled volcanic obsidian veined with the vibrant orange hue of lurking magma. Flame-wreathed hair drifted behind him, and the air around him shimmered with heat, but not uncontrolled.
+
+"A body no longer bound by the flesh of mortals," Magnus spoke, and was surprised by how ancient yet dangerous his voice sounded. "I've become the incarnation of flame."
+
+He glanced up at the void that surrounded him. That's when he noticed the pillar wasn't spared from the void. With the pocket realm gone, he was truly suspended in the endless void. There was no air here, and he felt like an unwanted presence.
+
+"Time to go home," he decided. He summoned a Mystic Realmwarp fruit from his spatial ring that had survived the whole ordeal and then realized he needed to adorn some new clothing as well. There was a flash of silver, and he looked down at his robe. It looked short on him.
+
+"Did I grow half a meter?" he said in disbelief. Having had no reference point until trying on his old clothes, he hadn't noticed the change. Deciding his first port of call would be getting new clothes made upon his return, he bit deeply into the fruit and felt a cosmic force pull him elsewhere.
+
+Home.

@@ -1,0 +1,199 @@
+---
+id: fa98a1f0-da1d-589d-8d6d-db495db9dd76
+page-type-slug: story-chapter-royal-road
+title: "Chapter 609: The 8th Layer"
+slug: 0133-chapter-609-the-8th-layer
+partOf: reborn-as-a-demonic-tree
+position: 133
+ownLength: 2395
+unit: words
+publishedAt: 2026-08-26
+link: "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3868913/chapter-609-the-8th-layer"
+royalRoadId: "3868913"
+---
+
+Sam felt the power of the oath to the Ashbound Order puncture his soul and wrap it in spiritual chains. He gasped in surprise and glared up at the person who had done this to him, but Kaida, floating overhead with glowing eyes, was already focusing on the next person.
+
+Frowning, he returned to looking forward. Ryker hadn't even flinched when Kaida oath-bound him, so he hadn't expected such pain.
+
+"Welcome to the Ashbound Order," a receptionist Sam had seen working in the Ashfallen Trading Company before said sweetly and handed him a carved stone box. "You will find everything you need inside."
+
+He received the box and was surprised by how heavy it was. He ran his finger along the smoothed edges, enthralled by the craftsmanship.
+
+"Thank you," Sam said as he noticed other people waiting behind him and hurried after Ryker. While they wouldn't be going to the same pocket realm, it never hurt to stay near the young prodigy of the Ashfallen Sect.
+
+Ryker was waiting just outside the mouth of the cave and had opened his box.
+
+"Good stuff?" Sam asked, causing Ryker to glance his way.
+
+"Yeah, they really went all out, there's even a new uniform," Ryker said, setting the box on a rocky outcrop and pulling out a brand new cloak. He held it against his body, and Sam stifled a laugh at how comically big it looked for him.
+
+Ryker frowned. "I'll have to ask for a smaller one."
+
+Sam set his own box down and enjoyed the satisfying click the box made when opened. Folded neatly atop everything else was the uniform. Sam took it out, marveling at the luxurious feeling of the material.
+
+Unraveling it, he realized it wasn't a typical cloak at all. It was a high-collared, ankle-length coat of charcoal-grey fabric. As it was made for his size, he decided to adorn it. That's when he realized runes were sewn into the inside of the coat, and the moment he wore it, a strange smoky aura emerged from the coat, cloaking him in a haze. The cuffs and hems of the coat were also frayed, which he assumed was intentional.
+
+"Mind control protection," Ryker muttered as he read a perfectly cut piece of parchment.
+
+"What?" Sam said, half distracted.
+
+"The smoky aura. It says here that it protects you from mind control," Ryker explained. "The cloak is also indestructible to Star Core Realm techniques and below."
+
+"Um," Sam suddenly felt worried. "How much would a cloak like this cost?"
+
+"It would be a noble family's heirloom," Ryker said as he glanced around. "Yet they are giving out hundreds."
+
+Sam looked down and felt his breath stolen when he saw the number of truffles and fruits carefully laid out in velvet inside the box. In the middle was a fruit that looked like a rainbow crystal and was labeled as the Mystic Realmwarp fruit.
+
+So that's the one I need to eat if I want to escape early, Sam noted. But what are these other fruits? I've never seen them before.
+
+Luckily, there were a few parchments inside, each one explaining what was in the box. Finding the one explaining fruits, Sam matched the labels to the descriptions.
+
+Void Protection: Provides a layer of void that blocks any single attack at the cost of a large amount of Qi.
+
+Soul Protection: Protects your soul from external attacks.
+
+Soul Meditation: Induces a level of meditation so deep it heals the soul.
+
+Divine Enlightenment: Enhances comprehension of heaven's whispers.
+
+Corrosive Aura: Lets you devour other Qi types to replenish your own reserves.
+
+All-Seeing Fruit: See through walls and illusions for a short time.
+
+"The All-Seeing Fruit?" Sam glanced from the parchment to the box and honed in on the strange emerald eye-shaped fruit. There was also a heart demon expelling truffle, a skin-improvement truffle, and a few pill bottles neatly lined up on the edge.
+
+"Now they are just showing off," Sam muttered as he picked up a pill bottle. It was labeled with a warning.
+
+Divine Cycle Pill: Upon eating this pill, your next destructive techniques become restorative, or your next healing techniques cause harm. Use with extreme caution.
+
+"How can a pill even do this?" Sam muttered with disbelief. It seemed to utterly break reality. He cautiously set it back down and clicked the stone box shut. With a wave of his hand, it vanished into his storage ring.
+
+While he had been distracted reading, Ryker had already left and headed inside. He looked through the crowd of cultivators, enthralled by the box and putting on their uniforms, and realized everyone else from the elite class had already gone inside.
+
+Shit, I should get moving too. He fast-walked into the cave and couldn't stop himself from marveling at the immense mass of celestial fog that shimmered indescribably.
+
+"Human, phase two is underway," a voice said beside him, startling him.
+
+He glanced to the side, finding nobody. Looking down, a Mudcloak was looking up at him with glowing eyes.
+
+"Phase two?" Sam crouched down, and his voice dropped to a whisper. "Of the Mudcloaks' Realm Domination Scripture?"
+
+It nodded sagely. "Establish outposts on the 8th layer of creation, we have. Go there, you must." The little monster opened its three-fingered claw and presented him with a red stone. "Dimensional geolocator. Guide you, this will."
+
+"Thank you, teacher," Sam said, taking the rock. "What should I do when I arrive?"
+
+"Complete your training, you must," the Mudcloak said, "for a great darkness looms over Ashfallen."
+
+"A great darkness?" Sam muttered. "What is it?"
+
+"The horrors, you will learn soon enough," the Mudcloak said and walked off into the celestial fog, vanishing before Sam could utter another word. The Mudcloaks, as always, were elusive and confusing. But by following their teachings so far, Sam had experienced explosive growth.
+
+I'm not sure if I'm the only human in the sect they have approached, he mused, glancing around. But I will strive to meet their expectations and protect the Ashfallen Sect from this looming darkness. His hand tightened around the red rock he had been gifted, and he stepped into the celestial fog.
+
+The world fell away. There was no floor to stand on or sky to look up to—just celestial shards of glass drifting around him like snow that had forgotten how to fall, each one a window into a different world. He glimpsed a thunder-wreathed jungle, a desert of bone, a sea suspended above its own sky. He reached for the nearest shard on instinct, but the rock had other plans.
+
+It lurched upward and dragged him with it.
+
+The surrounding shards smeared into streaks that fused into a tunnel of light that narrowed around him like a throat swallowing him whole. His stomach dropped, and his fingers cinched white-knuckled around the rock as he felt his body being stretched by the force.
+
+This is insane, he thought, heart pounding in his ears. Just what is this rock they—
+
+He slammed into a wall of dense Qi.
+
+His soul lurched a foot out of his body, and for one weightless moment, he saw himself from outside, with his mouth gaping open in shock, before snapping back so hard his teeth clicked together. In a breath, the celestial fog around him fell away.
+
+He was standing at the mouth of a cave. For a moment, he thought the Eternal Realm had rejected him, and he was back in Ashlock's Inner World.
+
+But the view said others.
+
+Beyond the cave's entrance, a mountain range stretched to the horizon, snow-capped peaks fading into a sky too deep and too saturated, as if the heavens here had been painted with a heavier hand. The moment he got his bearings, he realized the air was pressing down on his shoulders. Each breath he drew was rich with Qi, as if he were in one of Ashlock's groves.
+
+He coughed. His knees wanted to buckle.
+
+"The 8th layer welcomes you, human."
+
+Sam spun.
+
+A Mudcloak stood in the cave's shadow behind him. Immediately, Sam noticed something different about this Mudcloak compared to the rest. It was tall, almost up to his chest, and the glow inside its hood was not the warm firefly blue of its kin. It was deeper and older.
+
+The weight of this Mudcloak's cultivation reached him a moment later, and Sam almost choked on it. Monarch Realm.
+
+"Questions, you must have," the Mudcloak said slowly, coming to stand at his side and marveling at the view.
+
+Sam nodded as he steadied himself against the cave wall. "This is really the 8th layer? How am I here? I was told that the Eternal Realm only contained pocket realms from past and present Monarchs."
+
+"Pocket realms, the others will visit," the Mudcloak said. Its voice was soft, almost amused. "Your purpose lies here."
+
+"My purpose?"
+
+"Come, human. The way, I will show."
+
+It turned and walked into the cave without waiting.
+
+Sam took a few shaky breaths before following, only to find the Mudcloak was gone.
+
+"Where did you go?" he called out, his voice echoing back at him. Reaching the back of the cave, he studied the rock, trying to find a door or an opening through which the Mudcloak might have vanished. Finding a slightly suspicious-looking boulder, he pressed on it, only to partially fall through it.
+
+He yelped like an idiot, but he couldn't help it. The solid rock was nothing but air. Pulling his arm back, he hesitantly pushed his face into the rock, half expecting it to suddenly harden just to make a fool of him. Thankfully, he phased right through and was immediately startled by the Mudcloak standing an inch away.
+
+"An illusion, this is," the Mudcloak stated the obvious. "Step through, you must."
+
+"Right," Sam said, pulling his head back and confidently stepping through the rock wall. As it turned out, the entire back of the cave was one large illusion, and on the other side lay a tunnel large enough that he felt like an insect. Runic formations pulsed around him, feeding the fake wall behind him.
+
+Falling a step behind the Mudcloak and making sure not to lose sight of him this time, Sam had some questions. "Why do you need an illusion formation?"
+
+"Powerful human sects nearby, there are," the Mudcloak explained. "Hangar bay, we must conceal."
+
+"Hangar bay?" he asked, but got his answer a second later as they passed through a second layer of illusions he hadn't even seen coming, and the endlessly long tunnel was replaced with an impossibly large cavern. Inside, there was a city of stone that likely housed thousands, and looming over it all was a towering structure that served as a docking station for strange-looking metal airships that were sleek in their design.
+
+"What... is all this?"
+
+"Mudcloak outpost," the monster explained. "For the king, this place was built."
+
+"For the king? You mean Douglas?"
+
+The Mudcloak nodded and started walking again. "Come. Much to show you, I have."
+
+Sam followed, once again humbled. Just how far ahead did Grand Elder Douglas think to send so many Mudcloaks to the upper layer of creation? With this, should the Era of Ascension occur, the Ashfallen Sect would be able to take control quickly.
+
+Before he knew it, he was boarding a strange floating metal transport and heading toward the tower.
+
+"What is it I'm going to be training in?" Sam asked, rather curious what the next month would look like.
+
+"Everything. Fighting, flying, cultivating, and more," the Mudcloak reached up and patted him on the shoulder with its claw. "Chosen human, you are. The one who will learn the scripture, you must become."
+
+"Flying, huh?" Sam muttered as they passed by one of the sleek metal ships. "Will I fly one of those?"
+
+The Mudcloak nodded. "Built one for you, we have."
+
+Sam grinned. His very own airship. After hearing Douglas's war stories, he came to learn how vital aerial warfare was during sect battles. If there was an area he felt he could one day contribute to the Ashfallen Empire, it was from an airship.
+
+Reaching the tower and docking, he stepped off and immediately felt an oppressive chill in the air. Sam's head snapped in the direction it was radiating from and was startled to find it wasn't coming from a Mudcloak.
+
+It was a human.
+
+Or something that vaguely resembled one. Many things were wrong. The missing arms were the first thing he noticed—the man's cloak lay flat against his sides, yet the space where arms should have been rippled, hairline fractures spreading through the air like cracks in glass before sealing over. Less obvious, but no less unsettling, were the pointed ears and eyes of a blue so pale they were nearly colorless.
+
+He was also a Monarch Realm cultivator, likely stronger than any of the Grand Elders of the Ashfallen Sect.
+
+"Who is this?" Sam asked in a small voice, but before the Mudcloak could answer, the approaching man called out to him.
+
+"Are you a representative of the Princess? he said cautiously.
+
+Princess? There's no way he means Stella Crestfallen, right? But if we are in a Mudcloak hideout, I can't think of who else it would be.
+
+"I'm..." he faltered. Stella didn't exactly have a good reputation, so he wasn't sure whether he should admit his relationship with her. "I'm not her representative—" the approaching Monarch's mood instantly shifted for the worse. "—but I was her sort of disciple! Before deciding to follow the Mudcloaks' Realm Domination Scripture, that is. She even saved me from death once."
+
+The man came to stop a step before him. He was tall, and his presence was suffocating.
+
+"A friend of the Princess," he grinned, "is a friend of mine."
+
+"You know the Princess?" Sam asked hesitantly.
+
+"Know her? I pledge my soul and existence to her," his eyes became distant. "After watching her repair the aether origin stone, I knew she was the one. A being that could stand above the heavens themselves."
+
+"W-Who are you?" Sam stammered, unable to stop shaking.
+
+"Elder Vortexian, formerly of Spatial Peak of the Azure Clan." He inclined his head with the faded grace of old nobility, and an arm of fractured space unfolded from his sleeve in greeting. "A pleasure to make your acquaintance."

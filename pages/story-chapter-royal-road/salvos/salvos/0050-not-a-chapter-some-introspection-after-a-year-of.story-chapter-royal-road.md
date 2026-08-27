@@ -1,0 +1,45 @@
+---
+id: 681ca98e-8d39-571f-9ccd-dace8193dd10
+page-type-slug: story-chapter-royal-road
+title: "Not A Chapter: Some Introspection After A Year of Full-time Writing"
+slug: 0050-not-a-chapter-some-introspection-after-a-year-of
+partOf: salvos
+position: 50
+ownLength: 1357
+unit: words
+publishedAt: 2022-07-01
+link: "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/939533/not-a-chapter-some-introspection-after-a-year"
+royalRoadId: "939533"
+---
+
+Sup y'all,
+
+The chapter will be up later, but I just wanted to take this time to do some introspection after a year of being a full-time author. If you don't care about me, the author, you should probably just ignore this and come back 6 hours from now when the chapter is likely going to be up-- no promises though, cause I am bad at sticking to schedules. This is also going to be a bit of a ramble so bear with me.
+
+Anyway, if you don't know me, I am obviously the author of Salvos, but I am also the author of quite a few fics too like Melas and Tian and Trace and Violet and whatever else I decide to write. I started full-time writing on the 1st of July 2021 after graduating from UCLA with a pre-law degree, making this my 1-year anniversary of full-time writing. My online username is currently MelasD, however it used to be delta201, and I changed it to promote my first ever fiction Melas. I write under the pen name of V.A. Lewis, and I turned 22 years old just three months ago on March 1st, making me one of the younger "big" authors on this website. Seriously, did you guys know that most of your favorite authors here are over 30 years old? Boomers, I tell ya.
+
+I started writing Melas in November of 2019, inspired by my forever idol, pirateaba of The Wandering Inn. I barely even knew what a web serial was at that point, and I'm not gonna lie, I barely even read any other web serials before being too engrossed with writing my own. The few I did read though, I really loved. Worm, Azarinth Healer, Void Domain... they were fucking awesome.
+
+When I started writing, I wanted to create an expansive world with a compelling story that I know my readers would love, one that went on for at least three million words (because that's the word count TWI was at the time I discovered it). I wish that Melas could've been this story since it's my first ever story and I have a fondness for it, but I'm really glad that Salvos took off too because I absolutely adore the character, the world, and the story. And considering that I just recently passed a million words for Salvos and we're not even at the halfway point, I'm glad to say that I'm getting to where I wanted to be as an author when I first started.
+
+I definitely am pretty good at the output side of things, but I do feel like I failed at other aspects of writing at times. For example, creating compelling side characters. And I don't mean characters like Daniel or Edithe who are practically main characters. By side characters, I mean those like Sal the Devil. Where they appear briefly for a few dozen chapters and disappear for a hundred or more, but their appearances always leave a mark in the story or to the readers. I think I succeeded a handful of times like with Mori Gladius, and obviously Sal himself. But characters like Lily, Jaakko, and even Rachel? I wish I could've done better-- and I'm still striving to do them justice. Even if they're not really popular (as seen by the popularity polls).
+
+I also feel like I've failed time and time again in terms of pacing, where the story just drags on over minor plotpoints which should honestly just be resolved in a chapter or two. But I have a weird tendency to hyperfocus on the importance of even minor plot threads during my planning stage (whenever I'm outlining) and thus allocate an entire ten chapters on an arc that could've been done in half the time or less.
+
+Hell, my pacing is so bad that what I intended to be a single Volume 4 has gone on from Volume 4, to Volume 5 Part 1, Part 2, Part 3, and currently Part 4 on patreon. What I initially projected to be roughly 200-300k words is now nearly 600k words and still going. To you guys, it's more content and it's cool and super special awesome, but to me, I see it as a failure of either improper planning or bad pacing. Whichever one fits the bill better depends on how you look at it.
+
+Another place where I failed, I feel, is in terms of output. I had planned to write 2,000,000 words in 2022, but it's already halfway through the year and I'm only at roughly 500k words. Sure, I'll probably hit a million words this year, but blegh I hit a million words last year and I had six months of university while I haven't had many responsibilities this year other than writing and trying to touch grass. I wasn't exactly slacking off since I did injure my fingers in February, then fell into a major depressive episode which I'm still trying to pull myself out of right now, but I could've written so much more. Even right now I could be writing my Salvos chapter instead of this lmao.
+
+I also feel like, at times, I've failed as an author. Not a writer, but an author. Being able to take criticism well is one of the most important aspects of being both an author and being on the internet. It doesn't matter if it's constructive criticism, unfair criticism, or whatever. I should be able to take it well. And I tend to take feedback which I feel is legitimate quite well, but those that I find stupid tend to annoy me much more than it should. Someone once criticized me for writing in first person past because they believed that writing stories in first person wasn't a thing. I had to show them the numerous examples of literature in both the east and the west to convince them that they were wrong. And this is a good outcome because they actually changed their mind at the end of it-- unlike most of the other interactions. Seriously, I am probably too much of a spiteful petty fuck at times, and I'm trynna tone it down, but some comments just make me want to fucking claw my eyes out.
+
+However, I know at the end of the day that those are in the extreme minority which I shouldn't even be frustrated at because it's usually just a misunderstanding (or sometimes I may be wrong, and their criticism may be right too). I also know that most readers will be fine if I scale back on my schedule, even if I have no intention of doing so as of right now. I've been a year full-time, and I haven't taken a proper break once. Even during the holidays, when I took three weeks "off" during Christmas, I was still posting 2-3 chapters a week. Or during my finals before graduation, where I did 1 chapter a week. Why? Because I know I can do better. I genuinely believe I can do better, and I hope to deliver not just the best quality work but also a high output story to you guys so you always have something to look forward to every week.
+
+God, I wrote a lot here. But I just needed to get this off my chest and post it somewhere because I think you guys are fucking awesome. I'd literally be dying studying to become a lawyer right now if not for you guys. I still think some of you are cringe af and I have no regrets blocking the super duper fucking cringe ones who can only complain or troll every chapter, but 99.9999% of y'all are super cool and awesome <3
+
+Love y'all, and I hope y'all continue to love my books,
+
+MelasDelta
+
+P.S.
+
+I am a he, not a she. A lot of people seem to think that I'm a she, and I'd rather there not be any confusion about that fact. I am, sadly, a man writing women. So you can post my shit on reddit if you ever cringe reading anything I write.

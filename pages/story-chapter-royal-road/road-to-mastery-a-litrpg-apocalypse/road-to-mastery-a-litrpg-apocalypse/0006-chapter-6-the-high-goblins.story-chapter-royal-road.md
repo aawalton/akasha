@@ -1,0 +1,151 @@
+---
+id: 600dac7a-e8c0-53ee-88fd-7e84da88df96
+page-type-slug: story-chapter-royal-road
+title: "Chapter 6: The High Goblins"
+slug: 0006-chapter-6-the-high-goblins
+partOf: road-to-mastery-a-litrpg-apocalypse
+position: 6
+ownLength: 2119
+unit: words
+publishedAt: 2022-11-17
+link: "https://www.royalroad.com/fiction/61041/road-to-mastery-a-litrpg-apocalypse/chapter/1042862/chapter-6-the-high-goblins"
+royalRoadId: "1042862"
+---
+
+The goblin tribe was a bundle of misshapen wooden huts, ugly green forms, and burnt animal carcasses. Just placing it in a forest was an affront to nature.
+
+Jack squinted from the bush he hid in. After reaching Level 3, healing himself, and satiating his thirst, he had decided to gather more information before launching his anti-goblin campaign. There was some time before nightfall, anyway.
+
+He located a goblin squad—it wasn’t difficult—and followed it to the tribe. After cresting a hill, the ugly visage greeted his sight, and there were many things to notice.
+
+First, there were many dozens of goblins. These guys had a full-on village going.
+
+Second, there weren’t just goblins. Jack spotted a few off-green forms, paler and larger than their goblin brethren. These were the size of short humans, had dark hair—goblins were bald—and walked with a sharpness that belied intelligence.
+
+Hobgoblin, Level 6
+
+Stronger, meaner, and smarter than normal goblins, hobgoblins are an evolved version of the same ugly monster. It is advised to kill them on sight, but they should not be underestimated.
+
+The System’s description was short as always. Jack could already see all those. The only real information was their Level. After scanning all hobgoblins he could see, Jack determined them to be Level 6 or 7. Normal goblins ranged from Level 1 to 5.
+
+In Jack’s most recent estimation, he could fight a Level 4 goblin head-on, maybe even a Level 5 if he was lucky. Hobgoblins should be outside his reach for now, so he was glad they weren’t participating in the hunter squads.
+
+In short, Jack was incredibly weaker than the goblin tribe.
+
+Moreover, the largest problem wasn’t the hobgoblins, but their leader.
+
+Goblin Shaman, Level 9
+
+Goblins aren’t always stupid. Some of them are born intelligent, and when that happens, they often develop shamanic powers. Goblin Shamans can lead small tribes of goblins and hobgoblins, though they’re usually seen as elite soldiers in larger tribes.
+
+This Goblin Shaman is the group boss.
+
+The leader of the tribe was not a hobgoblin, but a goblin dressed in ruined robes. It cackled like the rest of them, but even the arrogant hobgoblins made way for it—the flames that danced on its fingers brewed respect.
+
+Moreover, its eyes carried a cunning glint that was hard to miss.
+
+Jack had to admit that fire-slinging enemies challenged his current experience. Goblins were fine. Hobgoblins would also be fine, eventually. However, this shaman would prove to be a pain in the ass; he just knew it.
+
+“Fire in the forest?” he whispered with a tsk. “So much for an omniscient, omnipotent, inter-galactic System. Can I get a refund, please?”
+
+No reply came his way. The System wasn’t the most talkative of partners.
+
+However, there was one thing that was even more impressive than the shaman. The goblins were high. Not tall; high.
+
+A wide, short bush stood in the middle of the tribe, sporting thin and long leaves. Some goblins were gathered around it, chatting and cackling without making much sense, while occasionally snapping off a leaf to chew on. They weren’t eating it, just licking it before dropping the dry remainder on a big pile.
+
+The eyes of these goblins were completely red, they fell whenever they tried to stand, and they wouldn’t stop laughing. On closer inspection, many goblins were carrying a few of those leaves or munching on them, just measuredly. The ones high as kites were probably on their day off.
+
+High Speed Bush (F-Grade)
+
+A resource guarded by the goblins of the Forest of the Strong. Commonly found in the wet jungles of planet Peruvian, the leaves of this bush can enhance a person’s reflexes, dexterity, and agility. They can also make you high as a kite.
+
+The stat increase is a one-time bonus.
+
+Jack sighed his head. I just knew things couldn’t be simple… Damn you, System. Can’t you at least destroy my planet with decency? Did you need to drag weed-licking goblins into this?
+
+The System, again, didn’t reply, and Jack could only keep observing the goblin camp. There wasn’t much else to see—he already had more than enough.
+
+He slowly made his way back, keeping an eye out for guards—which were non-existent as the goblins apparently felt safe. On the way, he processed all the new information, as he often did lately.
+
+The goblins aren’t just strong, they have intelligent leaders… Which means that, if I keep picking them off, they will catch on. Therefore, I must get as many of them as possible before they’re on to me. I can’t afford to take it slow.
+
+However, when they do catch on, will I be strong enough to face them? Probably, if it comes to guerilla tactics. If I can reach Level 6 or so, I should be able to handle hobgoblins, especially if I set up an ambush….but they’ll eventually get me.
+
+This sounded like a pickle, but Jack recalled the dungeon description—any previous blue screen could be willed into reappearing, apparently.
+
+Forest of the Strong (F-Grade): A forest where only the strong survive. There are three monster groups, each holding a unique resource and representing a unique challenge. Slay the leader of a group to despawn them.
+
+This dungeon is in conquer-or-die mode. Defeat the Dungeon Boss to exit or die trying. We applaud your bravery for entering and wish you the best of luck.
+
+The last paragraph’s sarcasm aside, there was one important clue hidden in there.
+
+Slay the leader of a group to despawn them… So, if I kill the shaman, all the goblins will simply go poof. That’s almost too good to be true.
+
+On second thought, it wasn’t. It was a double-edged knife. Monsters—in this case, goblins—were dangerous, but they were also walking bags of Levels. An equilibrium was quickly shaping in Jack’s mind: The later he assassinated the shaman, the more danger he would face, but the more goblins he would be able to kill before they disappeared.
+
+After all, there was no way the System would reward him for the creatures he despawned. It wasn’t that kind.
+
+Jack needed the Levels. There were Level 15 magical bears in the forest, along with their group leader and a third group of monsters which could, potentially, be even stronger than the bears. There was also the Dungeon Boss, an existence undoubtedly stronger than anything else.
+
+If Jack wanted any chance against them, he needed Levels, he needed wits, he needed information, and he needed battle experience—the only thing he had so far was pants. The goblins could provide most of those. He couldn’t afford to take it easy. He had to gamble.
+
+Jack would try to drag on the conflict as long as possible, and when things got insufferable, he would assassinate the goblin shaman. It was risky, perhaps too risky, but it was the only long-term plan he could come up with.
+
+He could also just hide and hope for someone to save him, but he somehow doubted the System would let him escape that easily.
+
+Therefore, Jack made his decision. He would wage war on the goblins—possibly a genocide, too. Was he evil for thinking that way? Maybe. Was he justified? Probably, since they clearly wanted to eat him too. Was it necessary? Absolutely fucking yes.
+
+Jack Rust refused to die.
+
+But, before waging his war, there was one thing to do: find food.
+
+***
+
+Jack held the rabbit carcass tenderly. It pained him to kill an animal like this, but he had to eat something…
+
+At least, he’d killed it painlessly. He’d found a den under a tree soon after night fell, then dug behind it to scare the occupants. As soon as the rabbits rushed outside, he grabbed one, and before it could understand what was happening, snapped its neck. It was easy, like snapping a twig, and Jack felt forlorn at his new power and the way he used it.
+
+When he killed the goblins in heated battle, he felt triumphant. This time, he only felt empty…but hunting was a part of nature, and it was more ancient than compassion.
+
+Jack shook his head to clear it. This new reality was grim, but he had to accept it.
+
+He was currently standing over the ice pond, holding the carcass with both hands. He was going to light a fire and roast it, but before that, he thought that maybe the lake’s body forging properties could be transmitted through food. It was a theory he needed to test, as he couldn’t afford to let anything go to waste.
+
+Besides, the freezing cold might have a purging effect on harmful microorganisms. It was magical, after all, so why not? He already knew the cold didn’t stick to his body when he left the lake, so it probably wouldn’t stick to the rabbit’s, either. If it did, he’d just have to go hungry.
+
+He gently dipped the rabbit into the water, feeling the numbness on his fingers. Nothing happened for a moment, except for its fur turning a slightly whiter color, and that was it. When he withdrew it, the rabbit was cold to the touch, but no other difference could be seen.
+
+He let it sit for a while and confirmed that the cold was slowly seeping out. That was good, because it meant he wouldn’t freeze to death, and bad, because it meant his body wouldn’t be forged. He shrugged.
+
+Well, good to know.
+
+He went outside, a bit ways off the cave entrance, and lit a fire under the moon—he had prepared tinder beforehand. He wasn’t particularly familiar with cooking rabbits on campfires, but he had cooked a lot in his life, so he had some ideas. If he messed up, his 9 Physical would hopefully pull him through.
+
+In the night, the fire’s smoke couldn’t be seen, so he only had to worry about the firelight itself attracting unwanted visitors. However, he’d already seen that the goblins gathered at their tribe when night fell, and bears weren’t nocturnal either—and, even if they were because of magic, they had no reason to be in this area anyway.
+
+That left only the final monster group, but Jack didn’t believe they would turn out to be nocturnal wanderers. Nocturnal, maybe, but not wanderers—and, if they were, he’d just face them. He had to cook at some point. Doing it now was certainly better than doing it mid-day, when the goblins could easily spot his smoke and come knocking.
+
+Jack cooked for a while, enjoying the night sky in silence. It was beautiful. Maybe the System had magically removed all air pollution and shut down the lights, but Jack could see the sky as his ancestors did. Stars shone everywhere, ten thousand sparkling dots, and a long river of light stretched between them—the galaxy—farther and larger than the mind could comprehend.
+
+It wasn’t just beautiful, Jack corrected himself. It was breathtaking. He was sitting under the infinite cosmos.
+
+Is this what the ancients saw every night… he wondered, and its beauty was so striking that, for a moment, Jack wondered whether the System’s arrival was a good thing.
+
+He idly realized that, against such a night sky, his smoke was visible, as it hid the starlight behind it. He shrugged. If the goblins made the connection and came over, let them. He needed to eat at some point.
+
+Time passed, with only the crackling of fire and the sizzling of juices on the burning logs keeping him company. The forest was quiet around him, most nocturnal animals still shivering in fear from the arrival of the monsters, and only some birds dared squawk out loud, undoubtedly in confusion from everything that was happening.
+
+The smell of cooking meat flooded Jack’s nostrils like a delicacy from another dream.
+
+He felt like the last person in the entire world, and for a moment, he was crushed by heavy loneliness and despair. He felt primal. In his element. But alone, and scared, and in pain.
+
+Was he having fun?
+
+Jack gazed at the stars, the same ones he always saw and a million more, and found no answer. Of course he didn’t. He was alone.
+
+He closed his eyes and endured the heavy feelings that darkness bred. It wasn’t his first tough night, not even close, and it certainly wouldn’t be the last—unless he died.
+
+That was a sobering thought, and he chuckled as he pulled the skewer of rabbit meat off the flames. The last man in the world… Take that, Maria. Heh.
+
+He then bit on the rabbit, savoring the taste. It was disgusting. And, at the same time, it was the most heavenly meal he’d ever had.

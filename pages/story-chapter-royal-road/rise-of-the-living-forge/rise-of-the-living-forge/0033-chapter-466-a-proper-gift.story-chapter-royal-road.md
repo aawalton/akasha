@@ -1,0 +1,147 @@
+---
+id: 6168ed0d-e943-595f-97b0-7db2471774ab
+page-type-slug: story-chapter-royal-road
+title: "Chapter 466: A proper gift"
+slug: 0033-chapter-466-a-proper-gift
+partOf: rise-of-the-living-forge
+position: 33
+ownLength: 1957
+unit: words
+ownProgress: 1957
+publishedAt: 2025-08-04
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2491626/chapter-466-a-proper-gift"
+royalRoadId: "2491626"
+markedReadAt: "2026-06-29T19:59:30.836Z"
+---
+
+Thane couldn’t do anything but gape in disbelief for several long seconds. That might have been unbecoming of him, but he wasn’t the primary son anyways. Looking like a bit of an idiot was acceptable.
+
+Esmerelda actually came? The Menagerie actually came? And — oh shit. Is that Lillia? I didn’t think she ever left the Devil’s Den. There are so many rumors about her. My research was pretty conclusive that she can actually control the building itself. Some people say she can even control everyone within it, but there’s no way that’s actually true… is there?
+
+The urge to drop everything and pry the Menagerie with questions was almost strong enough to make Thane forget where he was and what he was actually supposed to be doing.
+
+Almost.
+
+Drake continued to sputter in a mixture of indignation and disbelief on his end of the dueling arena as Ifrit tilted his head to the side, shaking the oilcloth bundle slightly as if it were a snack for an inquisitive animal he were trying to lure over.
+
+“You just going to stand there and stare?” Ifrit asked. “It’s for you.”
+
+“I — oh. Right,” Thane said, reaching out and gingerly taking the bundle from Ifrit’s hands. It was heavier than he’d expected. Not so weighty that it was hard to hold, but there was some definite heft to whatever was within the cloth,.
+
+“You might want to unwrap it,” Reya suggested. She sent a glance at Drake. “I just get the inclination you’re going to want to test the thingies out sooner rather than later.”
+
+“And what kind of party is this, anyway?” the woman that Thane didn’t recognize asked. She scratched at her midriff. “Seriously. Where’s the food? The drinks? The lonely-looking single people that lurk in the corners hoping someone will come talk to — oh. There they are. Just the last one, though. Least important of the lot for a party if you ask me.”
+
+Is she a new member of the Menagerie?
+
+“Do you think you can just come here and make a mockery of me?” Drake asked, finally finding his words again. His eyes narrowed. “You may have been invited, but that does not mean you have free reign to interfere with my party.”
+
+“Sorry about that,” Ifrit said, not sounding sorry in the least. “Didn’t mean to intrude. Just felt something was a bit odd about you rolling up to fight an unarmed man when you’re dressed in so much gear that you could get kicked off a mountainside and make it out in one piece.”
+
+“He has a class,” Drake said. “I do not. This is—”
+
+“He doesn’t have a combat class, you rock-eater,” Esmerelda snapped. “And even if he did, he only just got it. The advantage that provides over no class at all is minimal at best. It certainly doesn’t match up to the fancy ornaments you’ve got dangling from your haughy little—”
+
+Lillia elbowed Esmerelda in the side, ending the rest of the old woman’s sentence in an impudent sputter.
+
+“We’ll get out of your way. Please, continue the duel,” Ifrit said, raising his hands. “We certainly aren’t here to interrupt your party. Oh — did you happen to need a second, Thane?”
+
+It was a moment before Thane found his voice again.
+
+“Yes,” he said, the word little more than a choked whisper.
+
+“Ah. Then I’ll fill in for that. Off with the rest of you,” Ifrit said. He waved the rest of his guild off — and it struck Thane that one of them was missing. Rodrick had been there a moment ago. But now there was no trace of the man at all. It was like he’d vanished into thin air.
+
+The rest of the Menagerie’s group pulled back into the crowd. More than a few gazes from the crowd lingered on Lillia. It was hard to blame anyone. Every single rumor about her felt like it was true.
+
+There was a terrifying beauty about her — and her absolute commitment to the whole ‘pretend to be a monster’ bit was beyond impressive. If Thane didn’t know better, he would have assumed there was a literal demon just strolling among their ranks.
+
+Ifrit cleared his throat. “You really might want to open that package before your duel starts. Just a suggestion.”
+
+Thane tore his eyes away from Lillia, his cheeks going bright red as he hurried to comply with Ifrit’s suggestion. He pulled the layers of the oilcloth away. There really wasn’t much that was going to change the outcome of this fight. Drake may as well have already won — but he’d never gotten a birthday present before.
+
+And then he froze.
+
+The hilt of a short blade stared out at him. It was a plain one. The weapon had no adornments or carvings. But, in spite of that, his eyes prickled with magic as [Inquisitive Eyes] activated automatically. The sword was magic. He didn’t even need his class to see that, though. The weapon didn’t seem to be making any attempt to hide its power.
+
+Thane pulled it free. The blade was incredibly slender, almost like a rapier, with a razor sharp edge. It was so thin that it would have felt more at home skinning fish than fighting with it — and yet, it felt surprisingly sturdy.
+
+In an instant, shimmering words took form before him.
+
+Birthday Poker: Epic Quality
+
+[Scarily Sharp]: Birthday Poker draws a small amount of magical energy from its wielder to enhance its blade edge shortly before an impact. This razor edge will enhance its abilities to cut through both magical and physical defenses. Birthday Poker’s weapon’s edge will never dull so long as it can draw magic from its wielder or those it slays.
+
+[Forged For One]: This item was forged specifically for Thane Blacktongue. Its abilities will not function for any other users.
+
+[Multipurpose]: When held in a reverse grip, the Birthday Poker’s [Scarily Sharp] ability will automatically deactivate when cutting into anything not mentally specified as a target. It will not drain magical energy from anything it cuts when used in this manner.
+
+Thane stared at the weapon in disbelief. There was no way this was a birthday gift. It was a magical weapon the likes of which he’d never seen before. A sword that would never dull was already an incredible one… but one that could enhance its own edge to cut through magic? That was something else entirely.
+
+And that didn’t even address its other attributes. Birthday Poker was far more than just a sword. It only took Thane an instant to realize what its purpose was. He could dissect monsters with the blade and avoid damaging anything he cared about while cutting away the corpse in his path.
+
+And that wasn’t all. Birthday Poker wasn’t just some random magical sword — if such a thing could even exist. It was bound to him. It had been made for him. By none other than Ifrit.
+
+Murmurs rolled through the crowd as other people got a glimpse of the sword. Unlike Drake’s equipment, this one had nothing stopping anyone from reading it. Ifrit was making a statement.
+
+But, before Thane could even think of how to word sufficient thanks for the gift, he caught glimpse of something else in the bundle.
+
+There was a second sword.
+
+This one was smaller than the first and bore a wider blade. It was carved with plain but beautiful coils of stylized wind curling across its pommel. Hand shaking, Thane pulled the second weapon free.
+
+Lightfinger: Epic Quality
+
+[Light work]: The gentle dance of a feather once belonging to a great bird hones this blade. It will move of its own accord, aiding its wielder in intercepting blows directed for them. This effect will draw a small amount of magical energy every time it activates.
+
+[Shock and Awe]:  Push magical energy into Lightfinger to unleash the spirit of freedom forged into it. Illusions of both the blade and its wielder will appear overlaid over themselves, making both of them more difficult to track.
+
+[Forged For One]: This item was forged specifically for Thane Blacktongue. Its abilities will not function for any other users.
+
+[Blinding Light]: This item’s properties are concealed from others.
+
+Thane’s mouth went dry. Unlike Birthday Poker, Lightfinger’s properties were hidden. And the abilities it bore were incredible. There was a massive difference between a sword that was sharp but still relied on the skill of a wielder and one that would actively aid someone in combat.
+
+Something like this… it has to cost at least ten thousand gold, right? How can I be worthy of a gift like this?
+
+“What is that?” Drake exclaimed, jealousy mixing with disbelief in his voice. “That sword—”
+
+“Sorry. I know it’s not much,” Ifrit said. “I must admit that I made it last night. Was wrapped up with other projects, so I didn’t have time to make anything better. I hope it meets your standards.”
+
+Thane nearly choked on his own saliva. “What? This is incredible. I’ve never had anything like this before.”
+
+“Mm. That’s just sad.” Ifrit shook his head. “But I’m glad you like them. Figured anyone your age should have a good set of pointy things to swing around. Just don’t go hurting yourself.”
+
+“I — are both of those magical?” Drake stammered. “Where’s my gift? It’s my birthday!”
+
+“You’re wearing them,” Ifrit replied. “And I don’t remember you inviting us. There’s a second birthday here, you know. Maybe a bit early for that one, but I’ve never been particularly good about timing. The length of my waitlist should make that evident enough.”
+
+Drake’s eyes narrowed in anger. “You think you can come here and—”
+
+“Yes,” Ifrit said, his tone as sharp as the new weapons in Thane’s hands. “I do, actually. And I have no desire to pretend that I don’t. I am Ifrit. Every single person in this audience that could afford my services would walk right out of this party if they thought it would get them approved to be on my waitlist.”
+
+A stunned silence hung in the air. Drake gaped at Ifrit, completely at a loss for words. Thane suspected the exact same expression hung on his own face. Nobody had ever spoken to Drake like that.
+
+“Ifrit,” Lillia said sharply.
+
+He glanced back at her, then returned his attention to Drake.
+
+“Perhaps I went too far. We are, after all, here to celebrate. My apologies. But it seems you have more than enough magical items. You are already armed and armored. It would have been an insult to the good smiths that already equipped you to offer you anything else.” Ifrit took a step back, then clapped him on the shoulder. “Enjoy your duel, Lord Blacktongue.”
+
+Something about the way Ifrit had spoken made it difficult to tell if that second line had been directed toward Drake or Thane.
+
+Drake didn’t miss that. Anger and embarrassment burned in his glare as he looked to Thane and lowered into a fighting stance.
+
+Shit. He’s really, really pissed. I don’t even have armor. I barely have any training. Even with these incredible gifts, how am I supposed to—
+
+“Relax,” Reya called from the crowd. “You’re too stiff. You made it through an Expert Tier dungeon, Thane. You can take a duel.”
+
+“We’ll see about that,” Drake said through clenched teeth.
+
+“Drake is prepared,” Cen said, sending a nervous glance in Ifrit’s direction. “The fight is to surrender.”
+
+“Thane is prepared,” Ifrit mirrored. “Till surrender. May the best Blacktongue win.”
+
+Drake let out a roar as he broke into a charge, sprinting for Thane with murder in his eyes.
+
+The duel was on.

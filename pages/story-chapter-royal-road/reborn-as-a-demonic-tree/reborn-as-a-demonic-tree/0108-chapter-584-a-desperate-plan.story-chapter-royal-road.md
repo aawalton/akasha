@@ -1,0 +1,195 @@
+---
+id: 18e2f151-35a1-5bc0-9d3f-b95dd0a954e0
+page-type-slug: story-chapter-royal-road
+title: "Chapter 584: A Desperate Plan"
+slug: 0108-chapter-584-a-desperate-plan
+partOf: reborn-as-a-demonic-tree
+position: 108
+ownLength: 2654
+unit: words
+publishedAt: 2026-06-22
+link: "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3576467/chapter-584-a-desperate-plan"
+royalRoadId: "3576467"
+---
+
+Ashlock couldn't believe what he was seeing.
+
+"Is that a griffin?" he muttered in disbelief as a creature he had only heard of in myth glided through the early morning sun towards the Hellroot Abyss. No rider was on its back, just the beast flying alone. It was immaculately groomed, its mane catching the sun like polished copper, its beak and talons glossed to a gleam.
+
+Most impressive of all was its Monarch Realm cultivation level, which it proudly radiated.
+
+"Was this griffin raised in a similar way as Zephyrine with the World Tree's sap?" Ashlock wondered as the majestic beast continued its approach.
+
+For some reason, seeing a Monarch Realm monster approaching made Ashlock realize something. While the Celestial Empire didn't have access to the Eternal Realm like he did to quickly raise Monarchs, they did have the World Tree's sap, relative peace brought about by a lack of threat from the beast tide, and the most powerful cultivators refusing to act in fear of retaliation from political rivals. For how ancient the Celestial Empire was, and the fact that cultivators didn't age, he would have expected there to be more Monarchs.
+
+Yet, from the Celestial Empire's lack of retaliation thus far, they still seemed to be rare enough that each held great influence, which was also their greatest shackle. To move and act against him was to give ground to their rival factions and families.
+
+With that in mind, there was only one person he could imagine who would send such a powerful monster his way, unguarded.
+
+"Should I kill it, Master?" Khaos asked, flexing her six arms ending in void-coated claws with anticipation.
+
+"No," Ashlock replied. "Let's see what it wants first."
+
+Without Stella here, a fight against a Monarch would be a messy battle he could do without. While he still needed more Monarch Realm souls to ascend, he only had a bone to pick with the ancient Monarch Realm cultivators of the Celestial Empire who had directly benefited from the World Tree's suffering. He had no animosity toward a monster that might have been raised like Zephyrine or the mortals of the Celestial Empire.
+
+Elysia ascended out of the Hellroot Abyss to meet the griffin, Mystic Qi warping around her as a silent threat.
+
+The griffin didn't even glance at her. It descended to the edge of the abyss, landed with casual precision, and took a moment to survey the surroundings with disinterest. Then it opened its beak as if readying an attack—only for it to speak.
+
+"I have a letter for the ruler of this land. The All-Seeing Eye." The accent was beastly in its undertone, yet unmistakably refined, like a noble that had been overly proud since birth.
+
+Khaos emerged from the void directly in front of the beast without a sound. If the griffin was startled, it gave no indication—not a single feather shifted.
+
+"I can pass the letter onto my Master," Khaos said with a tone that matched the coldness of the void and extended an open claw.
+
+The griffin produced the letter from a spatial ring it wore around a talon. Without moving a muscle, a gentle wind carried it into Khaos's waiting hand. "Ensure the All-Seeing Eye receives it promptly," it said, casting one last unhurried look around. "The Crowned One is not someone who enjoys being kept waiting."
+
+It then spread its magnificent wings, dwarfing Khaos. The sonic boom hit the Hellroot Abyss before Ashlock had fully registered the movement. The griffin was already a diminishing silhouette against the World Tree, hurtling fast enough to leave a roaring scar in the air behind it.
+
+"No wonder it was so arrogant," Ashlock chuckled. Such a display of speed and power showed that the griffin had been holding back during the approach to not seem antagonistic. "Catching it would have been impossible the moment it sensed an attack. Elysia, would you do the honors and open the letter for me?"
+
+Elysia dropped down beside Khaos, took the letter from her, and broke the seal. Pulling out the folded letter, she opened it for all to see.
+
+It was written in blood.
+
+Dear All-Seeing Eye and Stella Crestfallen.
+
+Tonight, at the coming of dusk, the ball begins. The chosen location is the Grand Hall below the World Tree's roots. My griffin will escort you to the location when the time comes.
+
+To ease your concerns about attendance, I've deactivated all defensive formations around and within the Grand Hall—a fact I'm sure you can verify with your clairvoyance.
+
+I will be frank: the purpose of this ball is not peace. The Celestial Empire has become rotten to its core and is long overdue for a cleansing. The major leaders of every noble family and faction will be in attendance tonight, each of them eager to meet you, each of them praying for an era of peace.
+
+But I demand slaughter.
+
+Death to the unworthy and weak. Don't you agree?
+
+I hope you will enjoy the meal.
+
+— The Crowned One.
+
+Ashlock was stunned into silence and re-read the letter three times to ensure he hadn't gone mad. Then a fourth for good measure. He was, in fact, not hallucinating. The sheer prideful arrogance dripping from every word on the page was nauseating, and the contents seemed to provide the answer to his earlier question—the reason there wasn't a massive Monarch population was that the one at the top ensured it stayed that way.
+
+"If it hadn't been delivered by a Monarch Realm griffin, I'd have thought this was sent by someone else as a joke," Ashlock muttered. "By the sound of it, he wants us to assist in killing his Empire's own people."
+
+Under any other circumstances, such a request would be laughable. No Monarch—enemy or otherwise—would burn their precious Qi carrying out an enemy's agenda. The difference was that Ashlock grew in strength from killing, as he could devour the souls of the slain cultivators. This wasn't a chore to him. It was an irresistible feast being served on a silver platter.
+
+And the Crowned One somehow knew that.
+
+"Inviting us inside to kill all the heretics." Elysia licked her lips slowly. "I will personally tear Droskan Virelios's throat out for what he did to our believers."
+
+"Isn't this a trap?" Cyphion said. Ashlock had almost forgotten he was still present.
+
+"Explain," Ashlock said.
+
+Cyphion cleared his throat. "As the most powerful cultivator in the Empire, if he wanted to instigate a massacre between the noble houses, he could do it himself. Once the dust settled, no one worthy would be left standing to oppose him. But your existence tilts that balance. You are a threat that cannot be ignored, even by him."
+
+Ashlock saw what Cyphion was saying.
+
+"You're right, it just doesn't make sense. There's no way he would provide me with strength while weakening the Celestial Empire to such an extent just to get rid of this rot he's talking about. It has to be a trap to bait me into coming."
+
+"Unless he believes himself to be invincible, or deems getting what he wants worth the destruction of the Celestial Empire," Cyphion shrugged. "I've always found discerning the motives of ancient cultivators to be futile, as none are sane. Centuries of consulting the dao drive them mad, and swapping vessels fractures their personalities and memories. They are shells of people."
+
+"No, there has to be some logic to this," Ashlock retorted.
+
+He turned the problem over slowly, like examining a stone for cracks. The thing the Crowned One wanted was obviously Stella. Her body, her bloodline, the vessel he had commissioned and lost. She was going to attend regardless; she had made that clear the moment she read his name, and her Qi moved without her permission due to the mark left on her soul.
+
+The Crowned One knows for a fact that she will come.
+
+But why invite him?
+
+"Stella is finally strong enough to command her own fate, and this ghost of her past has left a lasting mark on her. Until that mark is removed, she will struggle to move forward. Getting her to attend, I understand. But why me? What does he gain from sacrificing his own pawns to please me? Does he really need help cleansing his own Empire's Monarchs?"
+
+An imaginary landscape mirroring the lands of the Celestial Empire materialized in the back of his mind. It was like a chessboard, with pieces sliding into position as he populated it with all the relevant people. The Crowned One, a dark, faceless figure, appeared on the other side of the board.
+
+What was his goal? Ashlock was determined to figure it out.
+
+"The major threat of attending is Stella being taken or killed. The reward for my attendance is enough Monarch Realm souls to fulfill my ascension requirements and the complete collapse of the Empire's leadership into civil war, which accelerates my victory. However, if I stay behind, Stella goes in alone and unguarded."
+
+Ashlock paused as the pieces shifted. Stella was now on the Crowned One's side, and he was left without the power needed to get her back.
+
+Checkmate for the Crowned One.
+
+"But if he was so sure of his ability to win, he wouldn't have chosen a safe location that sits beneath the World Tree, safe from my desolation beam and immune to me blowing up, as I'd harm the World Tree above it in the process. Even without the defensive formations, it is a stage where I'm restricted from playing my strongest cards."
+
+Another checkmate.
+
+Ashlock only won if Stella forced the Crowned One to remove the mark placed upon her, and he was allowed to kill and feast upon the Monarchs freely without the powerful Crowned One stepping in and stopping him.
+
+The pieces shifted, but his victory wasn't assured. He glared at the Crowned One across the board. So long as he, the king, stood tall, Ashlock realized that he couldn't win. However, the same was true for the Crowned One. If Stella—the queen on the board—remained out of his hands, he would be without a vessel, and the Empire would continue to crumble beneath him.
+
+"I've lost too many times in my life," Ashlock cursed. "I've had enough of being outsmarted and outdone by these ancient fools. It's about time I took charge for once."
+
+The forest of demonic trees around the Hellroot Abyss shuddered as he pushed the spiritual chessboard outward through his root network, feeding the entire scenario to his vast web of offspring.
+
+Within moments, thousands of simulations flickered to life across the network, with millions of spirit trees working in tandem to peel away the Crowned One's scheme.
+
+While the sun moved across the sky until it was almost dusk, Ashlock systematically considered every result his offspring presented him. Some were terrible, others brilliant but unlikely. There had to be a way forward he was missing, a piece he could play that he hadn't yet considered...
+
+Stella materialized in the Hellroot Abyss without warning, a Monarch Realm corpse dangling from one hand by the scruff of its neck and an earth-affinity infant soul pulsing between the fingers of the other like a trapped firefly.
+
+"Tree! I come bearing a snack." She held both up with a grin that didn't quite reach her eyes.
+
+Ashlock was gladly pulled away from his endless simulations and was deeply relieved to know that Stella was still fine after not hearing from her all day.
+
+"Another one?" he said, though he supposed he shouldn't be surprised at this point. Monarchs of this caliber couldn't hold a candle to Stella's strength. "Thank you," he said, his roots rising to wrap around the corpse, "but you look worried about something."
+
+"Ah, was it that obvious?" she said, awkwardly scratching the back of her neck. "It's just..." she sighed. "I need to go to the ball despite the risks. The Crowned One left something in me the day I was made that makes me shudder every time I think about it. I simply can't keep building on top of a foundation that has his hands in it." She looked to the ground and bit her lip. "But I know I'm being selfish and foolish for doing so. It's not like I want to put everyone in danger by going. I just don't know what to do."
+
+Ashlock sighed. He desperately wished he had the answer, too, but all paths seemed to lead to the Crowned One getting a one-up on them. This ball was engineered to be the ultimate trap.
+
+Stella looked up, her eyes filled with hope. Something inside Ashlock broke.
+
+"I'll come up with something soon, I promise," he said. "Until then, get dressed up and be ready to confront the Crowned One—"
+
+A ring echoing through his eternal root network drew his attention.
+
+"—Wait a moment, someone is calling me." His vision blurred as he returned to Red Vine Peak, and there, standing beside Stella's bench and holding the cord of the bell, was none other than Douglas.
+
+"Boss," he said, once he felt Ashlock's attention. "The airship base's construction is complete, and the twenty captured dreadnoughts have been repaired and upgraded by the Mudcloaks."
+
+"Airships, huh? That is good news..." He trailed off as it suddenly struck him.
+
+The true goal of the Crowned One's plan didn't revolve entirely around the ball at all.
+
+"Boss?" Douglas asked hesitantly as Ashlock was stunned into silence.
+
+"I don't know how I missed this," Ashlock berated himself. "That bastard bet on my greed, hoping I'd be too tantalized by the ball to realize what was really going on."
+
+There was no time to waste.
+
+He hurriedly asked Douglas, "Are all the airships combat-ready?"
+
+Douglas nodded. "Yes, and the Mudcloaks can operate them."
+
+"What about the flagship?"
+
+Douglas was more hesitant about that one. "It is, but I'd advise turning it into a Bastion. It needs too many high-level cultivators to power it to be functional currently."
+
+"That's not a problem," Ashlock replied, remembering Stella had turned up with an Earth Monarch's corpse and infant soul moments ago. He could use one to turn the flagship into a Bastion and devour the other to further his quest's progress and get sacrificial credits for the battle to come.
+
+"Is something the matter?" Douglas asked. "Do you need the airships right now?"
+
+"Yes, as soon as possible," Ashlock replied. "You have no idea how perfect your timing was, Douglas."
+
+Douglas shrugged. "It's always a pleasure, Boss."
+
+"Good, I appoint you as the commander of the flagship and the fleet."
+
+"Um—"
+
+"I'm counting on you," Ashlock said and left before Douglas could refute. Returning to the Hellroot Abyss, he brought the good news. There were a lot of pieces to put in place for him to achieve an overwhelming victory over the Crowned One, but the most important piece of them all was Stella.
+
+"Stella, I've figured out how to win," he said quickly as he detected the griffins' immense spiritual pressure rocketing toward them from the Celestial Empire, "but it involves a few pivotal steps, and I don't think you're going to like your role."
+
+"What is it?" Stella asked curiously. "So long as I can defeat the Crowned One, I'm fine with anything—"
+
+"You're going to have to let the Crowned One win," he paused as Stella's face fell, "and to do that, you will have to die."
+
+The griffin landed in the center of the Hellroot Abyss, announcing its arrival with an earthquake.
+
+"The ball awaits you," the griffin said, spreading its wings wide and its beady eyes snapping onto Stella with an interest it hadn't shown thus far. "Good, the star of the show is here. The Crowned One eagerly awaits your arrival and hopes you are all ready for a filling meal."
+
+The griffin smiled.
+
+"The Crowned One certainly is."

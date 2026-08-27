@@ -1,0 +1,113 @@
+---
+id: 41ebcec8-add8-5151-a51c-c1cce638a427
+page-type-slug: story-chapter-royal-road
+title: "Chapter 615: Returned"
+slug: 0183-chapter-615-returned
+partOf: rise-of-the-living-forge
+position: 183
+ownLength: 1629
+unit: words
+publishedAt: 2026-06-25
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3589089/chapter-615-returned"
+royalRoadId: "3589089"
+---
+
+It was a few minutes after the Beast’s revelation that the rest of the Menagerie slowly filtered their way into the room. Enough time had passed that it was clear a fight wasn’t breaking out, which meant Rodrick’s backup plans no longer needed anyone in position for them.
+
+Everyone — other than Olive, who had still yet to return from Sunsetting — returned to the dining hall of the Devil’s Den and gathered around, watching the Beast warily. But Arwin was a little more focused on the information that they’d just learned. His ears were still ringing.
+
+A way to strike at the Guild. A real way. One that wasn’t years and years away… and one that had a real chance of actually working if they pulled it off correctly.
+
+But they weren’t strong enough to do it yet.
+
+Whatever monster the guild was working with, it was powerful enough to corrupt a Leyline. They were probably up against an ancient lich, and that wasn’t to mention any of the forces the guild would have in the area. As powerful as the Menagerie had grown… that was still out of their league.
+
+For now, at least.
+
+They’d been growing fast. Much faster than anyone could account for. Between Sunsetting and the armor he could make, there was a very real chance they could actually reach the levels the needed to be at so long as the Guild didn’t restart the cycle too soon.
+
+But that was where the problem laid.
+
+The Beast knew that things were moving faster than expected. But he didn’t know how much faster. They still had no concept of if the new Hero and Demon Queen were going to be removed within the next few weeks, months, or years. And there was no way to plan for anything at all until they did.
+
+Not to mention… can we really just sit back and let the Guild execute more innocent people while we bide our time? Isn’t there something we can do to end this earlier? If we could just somehow turn the armies against the Adventurer’s Guild… if we could get all the other Guilds to turn against them… we’d be strong enough.
+
+The Adventurer’s Guild’s true power isn’t their magical or physical strength. It’s the information they control. The actual Guild would fall in days if the entire kingdom turned against them. But doing that would be impossible. It would have to be done in one fell swoop, before the Adventurer’s Guild could mobilize and make some shit up to convince everyone that we were actually evil.
+
+Lillia prodded Arwin in the side. He blinked, then glanced over to her.
+
+“Huh?”
+
+“You look troubled,” Lillia said. She nodded over to the others, who had gathered around the Beast. There was a conversation going on that Arwin had completely missed while he’d been lost in his thoughts. A small smile pulled at the corners of Lillia’s lips. “Not that it’s hard to guess why.”
+
+“What do we do?” Arwin asked. He pinched the bridge of his nose. “We’re at the edge, Lillia. There’s enough information to imagine a way in which we win… but not enough to actually act on it. What if we miss our window?”
+
+“Then there’s nothing we could have done,” Lillia replied. “We haven’t gotten anywhere by rushing blindly ahead and just hoping for the best. There won’t be any dealing with the guild without a strong plan. Is there really anything we can control until we’re strong enough to actually act?”
+
+Arwin was silent for a moment. Then let out a faint laugh. “I suppose not.”
+
+“Then there’s not really a reason to tear yourself apart trying to think of some strategy,” Lillia said. She flicked him in the shoulder. “Not to mention things will change drastically by the time that what the Beast is predicting comes to pass. Any plans made right now are just going to fall apart. Between Sunsetting and the sets of armor you’ve been making for everyone… I don’t think we can waste time worrying about the future until we know where we’ll stand in it.”
+
+“Yeah,” Arwin said. He blew out a breath. “You’re right. I’m getting ahead of myself. Having the Beast on our side — if he actually backs us — will also be a pretty big lever in our advantage.”
+
+“Not to mention how much more powerful he’s going to make Uriel,” Lillia said, sending the huge Soul Guardian a sidelong glance. “Just focus on what we can control. Let Rodrick and Art deal with what we don’t.”
+
+“Right,” Arwin said. A smile pulled across his lips and he gave Lillia a quick hug. “Thank you. I think my head was just searching for the next big thing now that the Beast threat is dealt with. I’ve gotten a bit used to having a timer hanging over my head, you know.”
+
+Lillia didn’t laugh. She poked him in the stomach. “So I’ve noticed. Is this…”
+
+“Yeah,” Arwin said grimly. “It’s still getting stronger. There’s more than a few reasons we have to keep getting stronger. But as long as I continue to make sets for everyone, I think I should be able to advance at a rate to keep it fed. Making powerful weapons is getting easier. I might have to start banging out som Epic weapons to snack on… but I’ll make it.”
+
+“I get the feeling the Dwarven Council would literally cry if they heard that,” Lillia said. She pursed her lips. “I think I can also increase the amount of magic in the food I make you. It would probably poison anyone else, but you’ve got a strong stomach. I’ll see what I can do. But this won’t keep up forever.”
+
+“Nor will the world,” Arwin said. “We’ll find a way to deal with it. More powerful food would definitely be appreciated, though. I’m never going to say no to your cooking.”
+
+Lillia smirked. “There’s no need to butter me up. I’m already doing it. But if you want to make some new magic utensils for the Den after you’ve finished making everyone in the Menagerie their custom sets as a thank you, I certainly wouldn’t say no.”
+
+“Noted,” Arwin said. “Between that and Sunsetting, we’ll have our hands full. But speaking of which… I’m starting to wonder what’s going on with Setting Sun. They took Olive quite some time ago. I don’t want to bring it up while Reya is too close, but did something go wrong because of her cursed arm?”
+
+Lillia’s features creased with concern. She threw a glance over her shoulder at Reya, who had joined the circle around the Beast, then looked back to Arwin. “I don’t know. But Olive has a strong will. I don’t think she’d fold, either to the arm or to the Leyline. It might just be taking her longer than—”
+
+There was a flicker in the air a few feet away from them.
+
+Lillia’s eyes narrowed as she abandoned her sentence.
+
+Then Eleven appeared two feet away from them, her face entirely obscured by her long hair. She raised a hand to push a few strands just far enough out of the way to reveal her grin.
+
+“You called?” Eleven asked.
+
+“How long have you been sitting there?” Arwin asked, his eyes narrowing. “Where’s Olive?”
+
+“Coming,” Eleven replied. “Don’t worry. She’s fine. Just give her a moment. She was set up elsewhere just in case things went poorly.”
+
+Arwin blew out a relieved breath.
+
+“You’ve managed to start avoiding my senses again,” Lillia muttered. “When did that happen? I thought I could sense you, even when you were hiding. I can’t sense Olive either. She’s really here?”
+
+“You lot aren’t the only ones practicing,” Eleven replied. She let her hair fall back into place as she yawned. “Not that it’s been consensual. Two has been on my ass about training. It’s a pain. But I figured if you could sense me, then the Guild might be able to as well.”
+
+“I notice you haven’t said how long you’ve been here,” Arwin pointed out.
+
+“Oh, just around two hours or so,” Eleven said. She rubbed at her eyes through her hair. Then she sniffled. “I wanted to see how the stuff with the Beast would unfold. Thought about tossing a bit of help your way if things went south.”
+
+“Really?” Arwin asked. That was uncharacteristically helpful of her. Eleven normally had to be dragged into doing anything at all.
+
+“I thought about it,” Eleven clarified. “That doesn’t mean I would have actually done anything. I think about a lot of things. Mostly while daydreaming. Don’t get too excited.”
+
+Arwin let out a snort. “Fair enough. But where’s Olive? Is she really—”
+
+The air beside Eleven shimmered.
+
+Then Olive stood alongside her. The warrior looked considerably more externally weary than the last time Arwin had seen her. There were faint dark bags under her eyes… but strangely enough, her gaze was brighter. It was like someone had lit a fire deep within her soul.
+
+Almost instantly, Arwin could feel the difference. She might have been externally tired… but she was stronger. A lot stronger. Arwin could practically feel it in the air.  The Beast glanced in their direction. He’d felt the same shift that Arwin had. And he wasn’t the only one who’d picked up on it.
+
+Rodrick and Art looked over as well — and so did Reya.
+
+There was a moment of stunned silence.
+
+“Olive?” Reya asked, her eyes going wide.
+
+“Ta-da,” Eleven said, her tired, uninterested voice not matching the words at all. “I brought your warrior back.”
+
+“Sorry for the wait,” Olive said with a wry smile. “Did you miss me? I know I would have.”

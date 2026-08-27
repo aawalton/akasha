@@ -1,0 +1,197 @@
+---
+id: 36afb5c0-3de3-5180-93f6-e7a0de4614ec
+page-type-slug: story-chapter-royal-road
+title: "Chapter 637: Anticlimactic"
+slug: 0107-chapter-637-anticlimactic
+partOf: rise-of-the-living-forge
+position: 107
+ownLength: 2177
+unit: words
+publishedAt: 2026-08-24
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3858139/chapter-637-anticlimactic"
+royalRoadId: "3858139"
+---
+
+Arwin leapt back, banishing the Prism’s Reach and calling the Wyrm’s Revenge back to his arm. The shield materialized right as the Deepmind brought its massive hand crashing down toward him. But, even with [Scourge] empowering his movements, he wasn’t fast enough.
+
+The edge of the fist clipped him. Arwin managed to catch it on the edge of his shield. The force was still enough to send him rocketing back across the room. He hit the ground once, bouncing before flipping back to his feet and skidding back across the stone. Dull pain throbbed in his arm.
+
+His teeth ground.
+
+Damn. The Deepmind really strong, and isn’t even going all out against me. It’s just screwing around and letting time slip by.
+
+“I’ll distract it!” Arwin said, drawing on more of his magic and summoning Caldera back to his hand. “Kien, Elias, back me up! Rodrick—”
+
+“I know,” Rodrick said grimly. “Working on it. Buy us time.”
+
+Arwin nodded.
+
+He looked up to the Deepmind. The massive monster’s bone features sneered down at him, the shimmers of translucent green flesh fading in and out in a sickly pulse. It had absolutely no problem entertaining him. The ancient lich just saw this as a victory lap.
+
+We’ll see about that. I’m not going down so easily. Armory?
+
+I am here.
+
+Then let’s kill this fucking bastard.
+
+Magic ignited throughout the Gehenna Armor. The air around him warped as intense waves of heat emanated out from him. Six tendrils of black, molten magma extended from Arwin’s back. The Wyrm’s Revenge appeared in one of them. The others shaped their tips into jagged blades and heavy hammer heads.
+
+Arwin felt the Infernal Armory’s mind merge with his. Power pumped through them both, growing thicker and more powerful with every beat of his heart, until the ground at his feet was steaming.
+
+“Come on!” Arwin roared.
+
+Then he charged.
+
+***
+
+“Weaknesses!” Rodrick hissed to Koyu. “What weaknesses does a Lich of this strength have!”
+
+Koyu’s metal features didn’t even seem to register Rodrick. He just stared up at the massive form of the Deepmind, horror quite literally etched into his face.
+
+Rodrick slapped him.
+
+Koyu flinched. He spun to Rodrick “What—”
+
+“Wake up!” Rodrick snarled. He thrust a finger over his back. “Our people are fighting for their fucking lives, Koyu. Are you going to just sit around and wait until it happens? You are the only one that was present when this master of yours died the last time. So tell us how to do it again. How do we kill that huge fucker?”
+
+Koyu blinked.
+
+Then his features sharpened.
+
+He was back.
+
+“The phylactery,” Koyu said. “That’s how you destroy a lich. But his is gone. I saw it destroyed. That’s why I didn’t even consider the possibility that he could be here.”
+
+An explosion rocked the air. Rodrick flinched as he saw Arwin’s form sail through the air like a blazing meteor. The man slammed into the far wall of the room with a crack, dropping to the ground in a shower of stones. He hit the ground running, flame bursting up from every step he took.
+
+Shadows consolidated before him, forming steps. Arwin raced up them into the air, then leapt toward the Deepmind. The monster swept one of its huge hands toward him idly, its dark black robes fluttering.
+
+Arwin brought Caldera down toward the hand with a roar. The hammer connected with bone in a deafening crash — and he was sent flying backward once more. The tendrils of magma extended from his armor, grabbing onto the ground and setting him down gently.
+
+His blow hadn’t so much as a scuff on the Deepmind. It was completely untouched.
+
+“Well, it is,” Rodrick growled. “So figure it out, Koyu. How the fuck is he present?”
+
+“I don’t know,” Koyu said desperately. “It’s impossible, Rodrick! He can’t be—”
+
+“He is!” Rodrick roared. “Pull yourself together, Koyu! We don’t have time to wonder about the how or why’s! How do we kill that thing?”
+
+Koyu’s gaze lifted to the Deepmind.
+
+Then his metal jaw clenched.
+
+“I’ll figure it out. Buy me time. I have to figure out what he’s changed. That body of his… it can’t be real. It might have something to do with the chains. If I can get close enough to investigate…”
+
+“Understood,” Rodrick said. He turned back to the Deepmind, his lips thinning as he raised his sword. “Okay. I’ll buy you your time. Don’t let it go to waste. We won’t have a second chance.”
+
+Then a brilliant yellow light erupted from his sword, filling the entire room with blinding energy.
+
+***
+
+The flash ended as quickly as it had come. Arwin didn’t have the liberty to check back to see what it had been. Kien stood across the room from him, having had no more luck damaging the Deepmind than Arwin had. It wasn’t even magic. The monster’s body was just so immensely tough that their strongest attacks hadn’t left a single mark.
+
+“Is this really all you’re capable of?” the Deepmind asked. “With all the power within you, I expected more.”
+
+It lifted a hand, pointing a single finger toward Arwin.
+
+The hair on the back of his neck stood on end.
+
+A beam of sickly green light cut out from the Deepmind’s finger. Maeve’s voice split the air in a beautiful, ringing note. The beam jerked to the side, pulled off course as if someone had shoved the magic, and it slammed harmlessly into the ground beside Arwin.
+
+The magic didn’t so much as singe the earth — but the unease in Arwin’s heart had nearly doubled. Every single one of his instincts screamed that he couldn’t let that magic touch any part of him.
+
+It was death.
+
+His teeth gritted.
+
+How powerful has the Guild made the Deepmind? How much magic have they fed this thing? If I could just get to its head, I might be able to take a bite out of those daggers and steal some of its magic. That’s the only way we can win this.
+
+“The Siren can redirect magic,” the Deepmind mused. “What an interesting application of power. I will enjoy that one.”
+
+Arwin’s eyes narrowed. The Deepmind only knew of what it had seen within the Leylines. That meant it hadn’t seen them fight… but he wasn’t sure how much of an advantage that would really buy them.
+
+“Elias! Kien! Olive!” Arwin called. “I need an opening!”
+
+A rustle filled the room as Elias stepped forward, the bandages covering his body unraveling and lifting into the air around him like a den of snakes. He watched the Deepmind through narrowed eyes. “I will see what I can do.”
+
+Arwin glanced to Lillia. She nodded. He didn’t have to say what he was going for. She already knew.
+
+With a snarl, Arwin burst back into motion.
+
+“How much magic can she redirect, I wonder?” the Deempind mused. It raised its hand once more, splaying its skeletal fingers out. A pulse of translucent green power ran down its ghastly arm, emanating out from beneath its long, tattered black robes. “Let’s find out.”
+
+Five beams of rotten power carved out from its fingers, slicing through the air toward Arwin and several of the others. Maeve’s voice cut through the cave for the second time, this time louder than the last. Her magic twisted through the song.
+
+Arwin could feel the tension in her voice — but it worked. The ancient lich’s power hurtled past them harmlessly, and he continued racing straight toward it. Lillia’s shadows gathered before him for the second time and he raced up them, pushing every scrap of power that he could muster into his legs.
+
+The lich idly swung its other hand at him. Shadows exploded out from Lillia, forming into a huge hand of her own. It slammed into the Deepmind, grabbing onto the monster’s arm and pulling it off course. It carved through the shadowy path behind Arwin but failed to touch him.
+
+He continued racing toward the monster’s head. The Deepmind’s upside-down head tilted back.
+
+Its eyes ignited with power.
+
+Arwin leapt.
+
+Shadows coiled beneath him, forming into a rippling shield in the air.
+
+Two beams of sickly green energy seared out from its eyes. They slammed into the shield Lillia had created. The shadows trembled, screaming as their form warped and burned away.
+
+But, before the attack could break through the shield, Elias’ bandages snapped through the air. Dozens of them wound around the Deepmind’s arm. Then, with a snarl, Elias pulled.
+
+The Deepmind staggered.
+
+Its gaze was pulled away from Arwin and the beams of light slashed across the wall harmlessly, failing to meet their target. A hiss of annoyance slipped from the Deepmind’s great mouth. It jerked its hand back, but Elias somehow managed to hold firm.
+
+Elias was actually somehow managing to — at least momentarily — hold the Deepmind down.
+
+Arwin couldn’t let his awe of the other man’s incredible strength cloud his thoughts. He banished Caldera, reaching out for purchase as he flew straight toward the huge monster’s crown. Cold determination sliced through his being.
+
+Then he slammed into his target. His hands found purchase on the rough, yellowed bone, even as the daggers making up the monster’s crown screeched against the Gehenna armor.
+
+Arwin didn’t wait to let the Deepmind get a chance to throw him off.
+
+I’ve got it, now.
+
+He bit down on the crown.
+
+And, for the first time since he had gotten his Living Forge class… Arwin’s jaw failed to close against the magical weapons.
+
+It ground to a complete halt.
+
+Surprise cut through his thoughts.
+
+What?
+
+Then an immense force slammed into his back. Arwin’s eyes bulged. He slammed against the daggers as the Deepmind drove its hand down into his back. He felt the Infernal Armory fighting back, trying to keep him from getting crushed with its tendrils, but it was a losing battle.
+
+Metal screeched as the daggers grated against the front of the Gehenna armor. Arwin tried to bite down on them again, but it was completely futile. It was like… trying to bite through metal. Without the Hungering Maw.
+
+“Stupid little gnat,” the Deempind said with a laugh that vibrated Arwin’s entire body. The monster grabbed him, crushing the Infernal Armory’s attempts to fight it off, and hurled him to the ground.
+
+Arwin blurred through the air. Confusion spun through his thoughts. This time, he was moving far too fast for the Armory to stop the impact. He hit the stone with a deafening crash. Blood splattered from his lips in a pained cough as the earth shattered around him.
+
+Darkness flashed before his eyes. His head spun. The sheer force of his landing had damn near killed him. If he hadn’t reinforced his bones the night before, it definitely would have shattered pretty much every single one of them.
+
+What is this? I don’t understand.
+
+The Armory’s magma tendrils pushed into the ground, tearing Arwin free from the crater he’d made with his landing, and dropped him back down on solid ground. He staggered, breathing heavily.
+
+“Did you really think I didn’t know what the Mesh did to you?” the Deempind sneered. “You cannot consume the power within the daggers, Arwin. They are not items. Not anymore. They are part of my body, and there is no magic at all left within them. It is all mine.”
+
+The Deepmind flicked the hand that Elias had been holding down a moment ago. It tore Elias from his feet and smashed him into the wall. His bandages loosened, releasing the Deepmind as he dropped to the ground, landing on all fours.
+
+“I am disappointed. After waiting so long… all I receive is an anticlimactic victory,” the Deepmind said. “I knew you would be hopeless, but I had expected more than this. You should have brought the entire Menagerie. But I suppose the results will be all the same.”
+
+Arwin spat blood from his mouth onto the ground. He could feel his breath coming in ragged huffs.
+
+Shit. The one thing I was counting on was that the Hungering Maw would be able to break its defenses. How do we fight against this? I can’t even touch it!
+
+Arwin’s hands clenched.
+
+Rodrick and Koyu hadn’t said anything yet. They were still trying to find a way to win. The rest of the Menagerie were fighting for their lives as well. The Guild was almost certainly attacking the Devil’s Den right now… and who knew how long it would be before they showed up to reinforce the ancient lich.
+
+But, at this rate, the Guild wouldn’t even need to back the Deepmind up. It was just going to crush them to death entirely on its own. Everyone was already in rough shape, and they hadn’t even touched the looming skeleton yet. It was just playing with them.
+
+We’re running out of time. We need to figure out how to damage this thing, fast.
+
+But how?

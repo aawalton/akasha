@@ -1,0 +1,169 @@
+---
+id: d887f178-2a62-5222-90cd-a749c1303518
+page-type-slug: story-chapter-royal-road
+title: "Chapter 592: Archdemon Summoning"
+slug: 0116-chapter-592-archdemon-summoning
+partOf: reborn-as-a-demonic-tree
+position: 116
+ownLength: 2525
+unit: words
+publishedAt: 2026-07-17
+link: "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3690763/chapter-592-archdemon-summoning"
+royalRoadId: "3690763"
+---
+
+Douglas clutched the communication jade like his life depended on it—because frankly, it did. He was on the deck under Geb's branches, trying to hear Diana's voice over the ringing explosions of a battle they were losing.
+
+While Zephyrine had offered to expend her Qi to speed up his airship fleet's advance, she was less agreeable about fighting to the death against two Celestial Empire Monarchs to protect a city of humans she had no care for, which was understandable. But it left Geb as the sole Monarch on their side, giving it his all.
+
+The Monarch Realm spirit tree's Earth God Aegis domain had folded around the flagship like a second hull, rendering it effectively impermeable. From the command deck, Douglas could see ripples chasing one another across an earth Qi shield overhead, so thick it barely dimmed when a hundred dreadnoughts bombarded it in unison. Every so often, Geb answered their attackers by launching boulders the size of houses with such force that they crossed the sky like meteors before obliterating an enemy airship, reducing it to a rain of debris.
+
+But Geb had no way of dealing with the two Monarchs.
+
+They were too small and nimble to shoot with cannons. Yet they had to be dealt with, as they were strong enough to eventually crack through Geb's shield if given enough time. One of them had already torched a layer off with the return of a cosmic domain that Silverspire's Elder's sacrifice had only disrupted for a few minutes by going supernova.
+
+"What are you doing, Grand Elder Douglas?" Cassian Von Silverspire asked as he set himself down on the command deck with a grunt. He was severely injured, missing an arm and covered in burned skin, but still carried himself with dignity.
+
+Douglas had arrived moments before the man was about to go supernova, in hopes of buying Argentum some more time to evacuate. In his current state, all Cassian could do was help command their retaliation.
+
+"I'm summoning us some help," Douglas said.
+
+"Summoning?" Zephyrine's ears flicked. "A demon?"
+
+Douglas glanced at Zephyrine standing on a platform above him. She was in her majestic deer form, power crackling around her antlers and lightning flickering where her hooves touched the deck. Her storm raged overhead, disrupting the Celestial fleet and shoving back against the Monarch's resurgent cosmic domain.
+
+As impressive as it looked, it wasn't enough to win them the battle.
+
+"I'm summoning an Archdemon," Douglas clarified as he began carving out a circle of runes on the floor with earth Qi. The purpose of the runes was to gather the mist in the air and condense it.
+
+Zephyrine peered down at him with obvious concern. "Archdemons are fearsome beings, Douglas. I understand the situation seems dire, but I can get us out of here and outrun those two Monarchs with ease. Let the city burn."
+
+"No. Ashlock will make me rebuild the city overnight as punishment if I let it burn," Douglas half-joked as he finished the ritual circle and felt his mouth dry as the moisture in the air was drawn toward the circle, forming a dense cloud of mist. "Alright, what is next?" he asked into the communication jade. The connection wasn't great due to Geb's domain fighting back the assault of an entire Celestial Empire fleet.
+
+"I need three drops of blood," Diana replied.
+
+Douglas didn't hesitate. He bit down on the tip of his finger and had to use earth Qi to penetrate his own hardened skin. Once punctured, he flicked his finger toward the mist three times. The mist greedily absorbed the offered blood, dying it a faint red.
+
+"Okay, I've offered my blood. Now what?" Douglas asked, starting to feel a little uneasy about this. The pain in his finger felt like a prelude to what was to come.
+
+"You must willingly utter my true name." Diana paused, "As the inheritor of the Ravena Clan and child of the mist, my true name is..."
+
+What followed sent a chill down Douglas's spine, and he felt the jade grow frosty in his hand. Beyond Geb's shield, he could feel the Heavens stirring with interest.
+
+As Diana had warned, this was going to get messy.
+
+"Don't do it, Douglas," Zephyrine insisted, her attention on the sky. "Tell Diana to fly here instead. We can retreat in the meantime. Summoning an Archdemon, even one you know, will invite an unprecedented disaster upon us."
+
+"This is already an unprecedented disaster," Douglas retorted. "If Argentum falls, this fleet and those two Monarchs will continue north and reach Red Vine Peak by sunrise. The Boss isn't in a state where he can deal with such an incoming force on his own." He glanced at the deer. "I understand your only concern is Stella, but how will she react when she learns her father was burned to dust and her home is gone?"
+
+Zephyrine fell silent.
+
+Douglas focused back on the ritual.
+
+He didn't blame Zephyrine for trying to stop him, but he also knew the Monarchs' stance on this battle. She cared more about her own preservation than victory. Also, unlike him, she didn't have the chains of loyalty around her soul.
+
+If the Boss died, so did he.
+
+They had a better chance of winning when fighting over Argentum, as the city's formations and cannons provided support rather than letting the city burn and taking the fight to the wilderness, where neither side held an advantage.
+
+"Perhaps Zephyrine is right," Diana interjected. "The Ravena Clan was hunted and sealed away by the heavens. This is the first time a Ravena Clan demon will have been summoned in a long time, let alone an Archdemon. Our only saving grace is that I'm already on this layer of creation, so a rift to Hell won't need to be opened. I can fly over within an hour or two, Douglas. Could you hold out until then?"
+
+Douglas grimaced. That was too long.
+
+While the situation seems under control, that only lasts as long as Geb's shields. I know Geb can draw on the Boss's Qi reserves, but even the Boss seems strained for Qi right now. The second this shield falters, Argentum falls, and anyone Zephyrine doesn't decide to save will die.
+
+"The Ashfallen sect has never feared the heavens," he muttered, "and neither do I."
+
+He feared Ashlock far more.
+
+Looking up at the sky and steeling his resolve, he began to recite Diana's true name. Despite how difficult the words were to pronounce, they had been somehow burned into the forefront of his mind.
+
+"Rav'anahl Morr'ileth—" An invisible force suddenly tightened around his neck, almost making him gag, but he pressed on, "—Kith'ra uk Shaad'thorak, Vaeth'kal uk Thul'vaekir!"
+
+The final syllable was torn from him by a supernatural force, sending him to the floor gasping for breath. Blood misted across the runes before him, and the pressure on his throat vanished—not because it had lost interest, but because it had been yanked upward, toward something far more important than him.
+
+"I feel your call, Douglas," Diana said through the jade that he hadn't stopped holding, "I'm stepping through now."
+
+Reality creaked.
+
+The sound didn't come through his ears. It rattled from deep within his bones as the mist in the circle drew into itself, condensing down to the size of a coin.
+
+Then it exploded outward in a flurry.
+
+Douglas scrambled to his feet as a tide of deep blue demonic mist crashed across the flagship's deck in every direction, ankle-deep in half a second, waist-deep in a breath. It kept rising until it encompassed the entire deck in a haze and was pouring over the edge of the flagship.
+
+Power rippled through the mist like a haunted whisper, but Douglas's concern was on an occurrence above. The Heavens seemed hellbent on preventing the ritual from being completed.
+
+"Shit," Douglas cursed.
+
+The sky tore.
+
+Not Geb's shield—the sky, beyond it, above the storm, above everything. A seam of white-gold light opened in the heavens as if something up there had finally decided to look down and found what it saw unacceptable. From that seam lanced a single bolt of pure heavenly lightning, as thick as one of the flagship's legs, it struck down at the ritual.
+
+The force of the strike rattled the Radiant Dawn. Geb's shield, which had resisted such an onslaught with ease until now, burned brightly in resistance. For a breath, Douglas thought they had blocked it. Yet, the lightning kept coming, the entire flagship trembled, and then Douglas felt it tilt under his feet.
+
+The Radiant Dawn was falling.
+
+"Brace for impact," Geb warned a second before there was a loud boom, and Douglas toppled over alongside hundreds of Mudcloaks. The flagship had crashed through the very wall they were trying to protect. Yet as they continued to fall, the beam of heavenly lightning did not relent—Geb's shield did. The attack proved too much for the spirit tree's domain to withstand.
+
+Douglas looked up, his mouth agape as the final layer of Geb's Earth God Aegis domain burned away, and there was nothing left between him and meeting his maker. He glanced toward Zephyrine, but the deer had already fled, leaving him to face the repercussions of his decision alone.
+
+Yet, the heavenly lightning never reached him.
+
+The deck beneath him heaved. Red bark erupted upward in a wall, golden-brown leaves catching the strike mid-descent. Geb had shifted his entire Monarch Realm body upward through the hull to shield Douglas and the flagship. The heavenly bolt drove into the spirit tree's trunk with a sound Douglas felt in his teeth and made the flagship quake.
+
+Geb didn't scream out loud, but Douglas could feel the tree's pain through the hull. Cowering beside the ritual, Douglas squinted at the blinding light as it tore through earth Qi-wreathed branches one by one, the force sending cracks through Geb's entire trunk as the massive tree was torn apart.
+
+"Grand Elder Douglas," Geb said slowly through his golem that was looming over him and offering a hand, "I can't hold it back for long. You must flee."
+
+Douglas looked into the empty eyes of the golem, with the heavenly lightning backlighting it, and swore in that moment that he didn't see a spirit tree or a golem bound to oversee a flagship by the Boss—he saw a true brother. He was going above and beyond his orders to shelter him, and that was the type of person he could respect.
+
+"Like hell I will flee," he said with a grin. He grabbed the offered hand and was hauled to his feet by the golem. Destroyed branches rained down around them as the light grew more intense, and he readied himself to face it.
+
+Then it vanished.
+
+Like a candle blown out, the darkness of night returned in an instant.
+
+"Stella was right," a voice whispered through the mist, "you really do have rocks for brains sometimes, Douglas. Stay and face heavenly lightning, for what reason? A test of your durability? Think of Elaine and your kids..."
+
+The thrill of facing death faded, and Douglas frowned. The voice had a good point. Just what had he been thinking? He slowly turned as he felt the mist shift around him and saw a winged demon lurking in the fog.
+
+"To exist in two places at once," Diana said as she encircled him, her voice echoing through the mist and his communication jade simultaneously, "this is quite the unique feeling." She looked up before Douglas got a chance to ask what was happening. "It appears my successful summoning silenced the heavens."
+
+The ritual circle behind her was cracked and broken, the runes he had etched into the stone having served their purpose. Diana was now here, and Douglas could tell in an instant that she was strong. Not just like how Monarchs were strong—he had been standing beside Zephyrine and Geb, and neither of them gave off this primal feeling of danger.
+
+I see why the Heavens are so heavy-handed with trying to stop the summoning of an Archdemon, he gulped. This is Diana... right? I didn't just accidentally summon a calamity with her memories, did I?
+
+She was nothing like the Diana he remembered from a month ago. While Stella was fearsome due to her lack of spiritual presence and unpredictability, Diana wore her intentions proudly like a veil.
+
+Bloodlust that made his toes curl seeped through the mist.
+
+"What even—" he began, but Diana cut him off.
+
+"I'd love to chat, Douglas," she said. "But they're both coming."
+
+Douglas looked up as he felt foreign presences push down on him.
+
+Geb's Earth God Aegis was reforming—layers of earth Qi stitching themselves back across the gap the heavenly bolt had torn—but the reconstruction was painfully slow, and there was still a ragged wound above them. Through that wound against the darkness of night, two figures were descending.
+
+The first was a man.
+
+He wasn't large. He wasn't even armored. He wore the white robes of a Celestial Empire cultivator, hands clasped behind his back, and he descended as though stepping down an invisible staircase written into the sky itself. Around him, space bent—literal tiny stars that weren't there a moment ago blinked into existence at his shoulders, arranging themselves into a slow, rotating constellation that moved with him like a cape.
+
+He was the cosmic Monarch whose domain had been eating away at Geb's shields.
+
+The second came down in a different manner entirely. Wreathed in a cyclone of ice that roared loud enough to drown out the distant cannons—a woman with long white hair streaming upward in the updraft of her own blizzard, twin spears of ice crossed at her back, plunged into the mist, sending it back in a wave and landing with force on the torn-up deck.
+
+Douglas's Nascent Soul shuddered on instinct. Two enemy Monarchs were sharing the same air as him. He knew other Grand Elders of the sect had fought against Monarchs before, but he was the builder, not a fighter. This was the first time he had been stared down by a Monarch and feared death.
+
+"Ah," the cosmic cultivator said, peering down at them with contempt. "So you are what pulled the Heavens' wrath."
+
+He glared at Diana.
+
+"As expected of a demonic sect used to eating the flesh of monsters and each other. When pressed against the wall under our boot, you anger the heavens and plead to Hell." His face wrinkled with disgust. "To think you would dare to summon a demon."
+
+"A demon wasn't summoned," Diana said, her form vanishing into the mist, and her laughter carried through the fog. "An Archdemon was."
+
+Douglas enjoyed the flash of terror on the cosmic Monarch's face. The following falling star summoned by said Monarch to obliterate the mist and everyone standing in it? Not as much.
+
+"Zephyrine, if you are going to cower from a fight, at least get Douglas and the Silverspire Grand Elder out of here," Diana commanded, her whereabouts unknown. "I'll deal with these two myself and enjoy it."

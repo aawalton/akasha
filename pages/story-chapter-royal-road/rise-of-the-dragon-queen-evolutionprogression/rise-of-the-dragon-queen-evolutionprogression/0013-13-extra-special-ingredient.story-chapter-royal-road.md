@@ -1,0 +1,241 @@
+---
+id: 9ad4ae7f-0236-58c3-a147-d3b4c82f5ca3
+page-type-slug: story-chapter-royal-road
+title: "13 - Extra Special Ingredient"
+slug: 0013-13-extra-special-ingredient
+partOf: rise-of-the-dragon-queen-evolutionprogression
+position: 13
+ownLength: 1849
+unit: words
+publishedAt: 2025-09-30
+link: "https://www.royalroad.com/fiction/129546/rise-of-the-dragon-queen-evolutionprogression/chapter/2641312/13-extra-special-ingredient"
+royalRoadId: "2641312"
+---
+
+“W-Where did you find these?”
+
+In Michael's cupped hands stood a small, twinkling pile of dragon scales. Stella swallowed nervously, unsure of how to explain where she acquired them.
+
+“Oh, a friend of mine…”
+
+“Are they real?”
+
+Michael held them closer to himself, suddenly skeptical.
+
+“I wouldn't lie,” Stella insisted.
+
+“But, you would get lied to...”
+
+“As if you've never been lied to before! But never mind that, these are the real deal. So, can you make the potion or not?”
+
+Michael blinked a few times at the scales and then met Stella's gaze.
+
+“No.”
+
+“What! Why not?!”
+
+“I didn't expect you to deliver me the ultra-rare item! I'll need a few more things, none of which you or I have the ability to get. But I guess… You might have something I don't.”
+
+“You'd be right. So, tell me what we need.”
+
+“A carnivorous rose. They are deadly and usually eat people by using fragrant scents to lure them in. The petals and leaves, though, are so mana-rich that they are the perfect binding agent. If you can get some of those, the potion can be completed within a few days.”
+
+A carnivorous rose, huh? It sounds dangerous, alright, but it kinda gets me excited. I definitely won't be able to explain how I got the petals, however.
+
+Michael still looked confused, like he wanted to blurt out question after question. But at the very least, he didn't seem hostile or worried.
+
+“Okay, I'll try my best. In the meantime, let's get back to work!”
+
+Michael frowned but then nodded.
+
+“I think you'll be surprised at what I have outside.”
+
+“A stand! Now we can sell stuff like professionals!”
+
+“Get off of it, Stella, or else you'll break it!”
+
+“I'm just happy to have a place to put the potions instead of looking shady!”
+
+“You haven't even seen the best part.”
+
+Stella stepped back, and Michael lifted up the table portion of the market stand, exposing a hollow inside with a wooden bottom. It could act as a storage container and a sale location.
+
+“That's cool as heck!”
+
+“Mhm, mhm.”
+
+“Best of all, I prepared potions ahead of time. Now we can just focus on selling prior to you disappearing.”
+
+“Heh, heh…”
+
+Today, however, did not provide them the bounty they were used to. No one seemed even slightly interested in the potions. After over two hours of sitting around, Stella was so bored she could scream.
+
+“Why doesn't anyone want our product?” Stella grounded.
+
+“That's just what happens. It's why merchants move around so often. If you sell a lot of something, eventually people don't need it anymore. Worse yet, look around.”
+
+Stella surveyed the marketplace beyond them. Market stands of all kinds stood, full of products that even she would be tempted to buy. But a few also had healing potions. Most of them with prettier bottles, shinier liquids, and lower prices.
+
+“Competition,” Stella hissed.
+
+“That's just the way of things. We'll have to find something else to sell.”
+
+“Bleh. Being a merchant is kind of boring.”
+
+Michael chuckled.
+
+“You don't have to stay here, y’know? After you earn enough for a carriage, you could travel. That's what most merchants do.”
+
+“But what kind of merchant can I become? I can't make potions.”
+
+“Most people can't. They rely on suppliers like farmers and artisans. They collect goods where they are cheap and readily available, then sell them elsewhere to make the most profit.”
+
+“Makes sense, I guess… But I don't think that sounds very interesting to do for five hundred years. But if I get a castle out of it…”
+
+Michael raised a brow at Stella's incoherent mumbling.
+
+“Five hundred years? What are you talking about?”
+
+Stella sighed.
+
+“Nothing you'd understand, normie.”
+
+“Okay, well, something I do understand is how pointless it is to sit here any longer. Let's put the cart away and get a celebratory meal.”
+
+“Meal?”
+
+Stella's stomach gurgled like a territorial dragon. Michael burst out laughing.
+
+The stand was small and was easily moved against the side of the inn, not that anyone would be likely to steal it. The potions were placed in Michael’s inn room before the pair went downstairs and took a seat at the bar.
+
+“What will you be having?” Asked a barmaid.
+
+Michael nodded for Stella to order first.
+
+“I'll have two steaks, gravy, and fries.”
+
+“Two?!”
+
+“Yeah, you're paying, right? I am just a kid after all.”
+
+Michael grumbled and then said his order. While they waited, they were given complimentary water. Stella was surprised to find ice cubes in the water, considering the time period.
+
+I guess with magic comes many perks, including year-round ice.
+
+Their food arrived surprisingly fast, and Stella wasted no time cutting up her steak into four parts and eating the massive slabs in one bite. Michael watched her with a fearful expression before looking at his order, which was a sandwich and a small side-salad.
+
+Stella was halfway through her second steak when Michael gave her a meaningful stare.
+
+“What?” She said around cheeks full of meat and gravy.
+
+“How did you get those scales?”
+
+Stella swallowed thickly and then forked another piece. It smelled so good that her mouth was watering.
+
+“Secret,” she replied, stuffing her face further.
+
+Michael had finished his meal and paid the barmaid as she came around to collect his plates and refill his water.
+
+“Alright, it's a secret. Just know, if anyone found out you were in contact with an alpha dragon. They'd likely report it. I'm not one of those people, but, it's important to keep people safe. Especially my own student.”
+
+Stella set down her fork, mouth covered in gravy.
+
+“Do you think they are dangerous? The beastlings?”
+
+Michael thought for a second.
+
+“I think everyone has the capacity to be dangerous. But they aren't human. And that's reason enough to be wary, because whether we like it or not. They don't see us as equals.”
+
+***
+
+Later that night, Stella was looking for the mysterious carnivorous rose.
+
+I was in town for four hours today. I'm getting better at holding my form.
+
+[You are noticeably improving, however, you shouldn't push it.]
+
+What? Are you worried about me?
+
+Stella had given up the prospect of flying around in order to locate the monster flower. It was too dark and the forest too dense. Her best bet was utilizing her nose and trying to scent the sweet fragrance that was supposed to lure her in.
+
+Gimme a look at that status screen.
+
+Name: Stella Algos
+
+Stage: Queen Dragon Fledging (15% to next evolution)
+
+Class: None
+
+Renown: 1
+
+Wealth: Peasant (+1 to all stats)
+
+(C: 200 S: 4 G: 0)
+
+Stats: (0 points available)
+
+Power: 28 (27)
+
+Vigor: 24 (23)
+
+Grace: 21 (20)
+
+Intellect: 10 (10)
+
+Skills:
+
+Wrath Of The Ravenous (Grade SS) - Level 2
+
+Elemental Breath (Grade S) - Level 6
+
+Silver Tongue (Grade B) - Level 2
+
+Strength In Numbers (Passive)
+
+I should ask Michael about his stats. I honestly don't know how strong I am compared to humans.
+
+Stella continued her aimless walk as she thought over Michael's words in the inn. She wasn't human, so did she see humans as something lesser now?
+
+After thinking about it, she concluded she saw them as equal and even precious. If anything, she was protective. She didn't really think of herself as anything but human, but due to her strength, she knew she could protect people. And that's what she wanted to do. No one deserved to die.
+
+I think I smell something…
+
+She took a deep intake of breath.
+
+And it's sweet…
+
+She followed the scent, sometimes getting turned around as the smell grew thicker. Eventually, she found herself yards away from a dark figure. It was slowly waving its petals, a movement that looked both strange for a plant and terrifying.
+
+Stella squinted through the darkness, approaching slowly. What was it doing?
+
+Safely behind a tree, she took another, closer look. The rose was huge, and its petals unfurled and curled down every few moments, releasing pink mist into the air. Its stem was bendy and covered in thorns. As if that wasn't enough, its roots sprouted out of the ground in a circle around it, writhing like snake tails.
+
+That thing is terrifying.
+
+Stella didn't stop to consider if all of this was truly worth it. She knew it was. If nothing else, she would get stronger. But the best outcome was that she would help an old lady continue to live a healthy life.
+
+She stalked forward, moving away from her hiding tree. As she moved deeper into the tendrils of pink mist, the rose began to stiffen, its petals curling back to their usual positions. The ground shifted as the roots reached out, slowly slithering across the soil to find the source of the intrusion.
+
+Thoroughly creeped out, Stella was ready to blow it to bits. As its roots moved to capture her ankles, she took to the air, blasting its base with a stream of fire.
+
+I have to keep its petals intact if I want to use them! This fight might be harder than I thought!
+
+One of the roots abruptly shot upwards, nearly catching her. She burnt it to a crisp, then lifted herself higher above the flower. In the darkness, it was hard to see if her fire breath was damaging the rose, but regardless, she didn't have anything else to try.
+
+Even if she activated her [Wrath Of The Ravenous] skill, she wouldn't likely be able to get close to it.
+
+Maybe it's not as strong as it looks?
+
+She continued blasting the base of the flower with intense crimson flames, hoping it would eventually shrivel up and keel over. At first, it appeared that way as it curled inward, its petals twisting until the top of the flower looked pointed, a blossom rather than a fully grown flower.
+
+But then it unfurled its center, stretching upward way farther than Stella could have anticipated. With one flap of her wings, she moved out of the way, the air in front of her getting thoroughly munched. But the plant has predicted her movement and, in the same instance, sent up a root.
+
+Stella cried out as thorns dug into her right side. A massive root thrust her into the side of a tree, injuring her left wing. She fell, wind cascading around her and pain wracking her body.
+
+I have to get out of here. It's too strong to fight in the darkness.
+
+Another root slammed into her from below, the impact sending its thorns deep into her belly. The root shook her off, tossing her to the ground, where her right wing snapped loudly.
+
+Stella's heart pounded in her ears as multiple roots moved to grab her. At this rate, she was going to get torn apart. Turning face-down against the soil, she grit her teeth and tried to will her ice breath to take effect. She was in too much pain to do anything else.
+
+Please, grant me… An ice shield!

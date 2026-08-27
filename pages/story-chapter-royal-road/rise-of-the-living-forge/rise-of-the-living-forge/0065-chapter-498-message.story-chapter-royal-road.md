@@ -1,0 +1,93 @@
+---
+id: 37143bf1-4a72-55fc-909b-f6ca4c73aeb2
+page-type-slug: story-chapter-royal-road
+title: "Chapter 498: Message"
+slug: 0065-chapter-498-message
+partOf: rise-of-the-living-forge
+position: 65
+ownLength: 1546
+unit: words
+ownProgress: 1546
+publishedAt: 2025-10-09
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2663683/chapter-498-message"
+royalRoadId: "2663683"
+markedReadAt: "2026-06-29T20:00:30.978Z"
+---
+
+Ida was already in Lillia’s special torture room when Arwin and Madiv made it back to the Devil’s den. Calling it a torture room really didn’t exactly feel like the most savory of things, but he still wasn’t sure what else to call it. The dark room only had a single beaten up table in it that always seemed suspiciously splattered with questionable substances — and every time they’d been inside it, they’d been trying to get information from someone they were very much not friends with.
+
+Lillia and Rodrick were there as well. They stood on either side of the dwarf, who didn’t look comfortable in the slightest. She just stood by the table, fidgeting uncomfortably as she shifted from one foot to the other.
+
+“Ah. Good timing,” Rodrick said. “I hope we aren’t interrupting anything too important. Ida has some updates for us.”
+
+“Sorry we’re doing this discussion here,” Lillia said, looking down at the other woman. “It’s just the most out of the way area I’ve got in the Devil’s Den. The others are all being used for something or another, and the kitchen isn’t big enough for everyone to fit into without messing with my work.”
+
+“It’s fine,” Ida said, swallowing a lump in her throat and shaking her head. Her gaze lingered on the table for a moment before pulling away. “I’m not unused to threats.”
+
+“Oh, this isn’t a threat,” Lillia said. She gave what was probably meant to be a reassuring smile to Ida. It, unsurprisingly, didn’t work. “If it was a threat, you would know.”
+
+“Right,” Ida said. She swallowed.
+
+“Relax,” Arwin said. “If we were going to kill you, we’d have done it already. None of us have time to play games, nor do we take any joy in what we had to do. Your mother made her bed, but there’s no reason for you to lie in it. Our relationship is strictly business right now. So long as you keep it that way, you have nothing to fear from us.”
+
+Surprisingly, that actually seemed to help ground Ida. The dwarf inclined her head and blew out a short breath as she gathered herself.
+
+“Okay. I have updates from my mother about the state of the council. They’ve discovered your plans for building an auction house.”
+
+“Can I ask how?” Lillia asked. “Was it just rumor?”
+
+Ida nodded. “Yes. The Council likes to keep track of anything like this. It’s the same as the Dwarven Smith stuff. Auction houses are a huge source of access to rare materials. They also tend to draw a lot of attention. Whenever a guild powerful enough to establish one pops up, they start checking things out.”
+
+“Powerful enough?” Madiv asked. His head tilted to the side. “What does power have to do with an auction?”
+
+“If you’re selling rare things, then you need to be capable of defending them,” Rodrick said. He crossed his arms in front of his chest. “Would you say the Dwarven Council is interested in our auction house because they want some kind of access to what we may be selling? Or because they think they can take it from us?”
+
+“Both,” Ida admitted. “The Menagerie is definitely a known name now. They don’t think you’re incompetent at this point. But you’re still a pretty small guild. An auction house is going to draw a lot of attention from criminals. And if you can’t hold them off…”
+
+“Then the Dwarven Council will be right among their number,” Rodrick finished with a nod. “Unsurprising. They win either way. If we’re good enough to actually set the building up and draw attention, then there will be things worth their attention in Milten. Either they try to buy it or they steal it. They’d be happy with both. Did they say anything else?”
+
+“It doesn’t seem like they’ve decided on what course of action to take yet,” Ida said. She shifted her weight again. “I think they’re waiting to find out more information. It doesn’t seem like the auction house is too close to finished yet.”
+
+“It’ll be at least a week or two, even at the speed that Ridley works at,” Lillia said. “This is the biggest building we’ve ever had made on the street.”
+
+I’ll probably have to make some more Soul Guardians. Now, more than ever, the Menagerie is going to need defenses in case someone decides they want to outright attack us. Soul Guardians are pretty much the only thing that we can count on to fight without caring about if they die or get hurt — and they can’t be paid off.
+
+Arwin added that to his mental to-do list. Making the Soul Guardians would be a lot easier now that he’d created the Gehenna armor with Wallace and Koyu. He had a lot more experience working with Cores and soul weaponry now than he had been when he’d made his first guardian.
+
+“Hmm,” Rodrick said. He tapped a finger against his chin. Arwin could practically see the thoughts passing through the man’s eyes. A moment later, a grin stretched across Rodrick’s lips. “Huh. Now there’s an idea.”
+
+“What?” Lillia asked.
+
+“Let me make sure this can work before I get ahead of myself. I wouldn’t want to get our hopes up for nothing. Ida, how interested is the council?” Rodrick asked. “Do you think there’s a chance they’d be willing to jump on some advanced information? A pre-action offer? Something to secure their funding, and perhaps some defenses to help with our first auction, in return for access to some of our rarer offers?”
+
+Ida blinked. “I… I don’t know. They might be interested if the offers are good enough. There’s an equal chance they’d try to backstab you, though.”
+
+“Of course there is,” Rodrick said. “But they won’t. We can account for that. I think I know a way to handle two problems at once, and it won’t even be all that difficult. All Ida has to do is have Indrana pass some information along to the council. She won’t even have to let them know that we’re privy to their internal discussions. Just have her say she heard a rumor that we’re planning to have a small, private auction to a group of close allies. An auction that we’ve just gotten some rather fantastic items worthy of interest for.”
+
+“Oh?” Arwin asked. He had an inkling of a guess as to what Rodrick was getting at. “Are you thinking…”
+
+“The Blacktongues are waiting for us to show up around Thornhelm with the rewards from a certain vault. Sure, the vault isn’t anywhere near that, but the vault does exist. And it has very real rewards that, I suspect, we will not even need many of,” Rodrick said with a grin. “Perhaps we should offer first shot at buying some of those rewards to the Council.”
+
+Lillia let out a bark of laugther. “That’s devious. They’re going to take very poorly to someone trying to steal from them. Even if its purely on principal… the council would destroy them, wouldn’t they?”
+
+“Shit,” Ida muttered. “They absolutely would. Nobody steals from the Council and survives for long.”
+
+“But do we really want to give the council access to what we get from the vault?” Arwin asked, scratching the side of his neck. “It could be important.”
+
+“We don’t need to give them the best stuff.” Rodrick shrugged. “But you can’t tell me there won’t be at least some shit in there you won’t need that’ll be worth selling or trading for. Establishing trade with the council will make them considerably less likely to try messing with us too much, and they may even offer some materials you need up in trade. It’s a win-win.”
+
+Arwin thought for a moment, but the suggestion was just too good to pass up. A grin stretched over his lips as Lillia nodded in agreement with Rodrick’s words.
+
+“Then I think we have a plan,” Arwin said. “Though we should consider one more thing. If the council just deals with the Blacktongues, then they might turn their attention to us and try to take everything by force. Why wouldn’t they? If we can’t protect our winnings from the Blacktongues’ hired mercenaries, then we certainly can’t protect them from the council.”
+
+“A very good point,” Rodrick said with a nod. “Which is why some of us will have to make an appearance as well. The Dwarven Council will need to see a show of our strength. Enough to make it clear that we do not tolerate those who try to steal from us.”
+
+Madiv’s pale fangs flashed in the darkness.
+
+“A good idea. A ruler must not permit an insult to her face,” Madiv said. “We will make an example of them.”
+
+That might be taking it a bit far… but he’s not wrong.
+
+“Then I think we have ourselves a plan,” Arwin said. “I almost feel bad for the Blacktongues. They’re not going to have any idea what hit them.”
+
+“Oh, they most certainly are.” There was a cold glint in Rodrick’s eyes as a thin smile passed across his lips. “We’ll make sure of that. A message doesn’t mean anything if there isn’t anyone left to share it.”

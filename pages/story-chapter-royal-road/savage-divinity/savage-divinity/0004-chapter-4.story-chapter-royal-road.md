@@ -1,0 +1,73 @@
+---
+id: 34862c19-d447-59f4-87c1-83a91f00089b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 4"
+slug: 0004-chapter-4
+partOf: savage-divinity
+position: 4
+ownLength: 1218
+unit: words
+publishedAt: 2016-03-11
+link: "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/58134/chapter-4"
+royalRoadId: "58134"
+---
+
+Charok sat atop his mount, Pafu, enjoying the trip back to the lands he grew up in. Beautiful mountain scenery, clear quiet nights, and his wife and friends at his side. What more could one ask for? They had been hired by some merchants who were ecstatic about the fact that the 'famous Iron Banner Mercenary Company' would be joining them for their trip. The northern border held many dangers. The Company had to move slowly to keep pace with the wagons, but there was no great rush. There was plenty of time to return home before the snows. He began to sing a tune, one his mother used to sing to him when he was a child.
+
+“Mercy, husband. My ears submit to your torture. You couldn't carry a tune in a basket.”
+
+“Not all can be gifted with a voice as beautiful as yours.” Charok smiled at Alsantset. He loved everything about her, from the tips of her furred ears, down to her toes. They'd been married six years past, and every moment they had together was pure bliss. So much so that when she had chosen to join the Banner, he had fought three challenges before finally winning the right to join the Banner as well. Although not as talented in the art of combat as his wife, he was tenacious.
+
+“Eyes forward. We are not yet home, beloved.” Alsantset admonished gently. Her smile held the promise of intimacy. She too was delighted to almost be home. Charok grinned back, and returned to watching the horizon. Alsantset began singing, carrying on the tune where he had left off. Charok's smile grew even wider. This was their third and last year riding with the Banner together. Upon their return, he and Alsantset could finally start a family, as they had always planned. Unable to contain his joy, Charok sang along with his beautiful wife, much to the chagrin of all others in earshot.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Baatar was pleased. The merchants had reached their destination in the early evening. A simple job, barely out of their way, with no noteworthy incidents. Their obligations fulfilled, they no longer needed to keep to the roads. He led the company through twenty kilometers of rough terrain before setting camp within a bamboo grove. Camp was set, a watch arranged, and dinner cooking.
+
+It had been a good season for the Iron Banner. No casualties, only minor injuries, nothing Taduk and his team of healers couldn't fix. Their earned wealth had already been traded for goods and packed onto the quins. There was enough to see the entire village comfortably through the winter. Using Gerel as the Banner's mouthpiece was a good choice. He had a way with words, charming without ingratiating, that Baatar could never learn.
+
+A pair of deer had been killed during the ride over. A pleasant change from travel rations and dried meat. Baatar could smell the fragrant venison, stewing in the pot. Charok wasn't the strongest soldier on the Banner, but damned if he wasn't the best camp cook who ever served. The man could make rat meat taste good. Couldn't sing worth a shit though.
+
+Baatar stepped out of his tent to do a quick walk-through of the camp. Can't let the soldiers relax too much. Careless soldiers don't live long. A word of advice here, a small correction there. They were almost home, but that was no excuse for slacking. All the same, no need to be overly harsh. He slowly made his way to the cooking pit, coincidentally arriving just in time to receive the first bowl of stew. He accepted it with grace, closing his eyes and taking in the aroma.
+
+“Captain. Sentry report. Sighted solitary child, approaching the camp, appears in distress. Sentry requests to aid. Your orders?” Alsantset appeared with a military salute before he could taste the stew.
+
+A child? Out here alone? Likely an escaped slave from the mines.“Bring him here. Do not speak to him.” The girl would make promises. Foolish. Baatar savored his first spoonful of stew. Deliciously spicy, with a satisfying texture. Fine work. He ate quickly, and managed to finish a second bowl before the girl returned, carrying a boy, who was struggling and yelling incoherent gibberish.
+
+Baatar inspected him. Bone thin, well scarred, dressed in filthy rags. Definitely a slave, no question about it. The closest settlement is a ten-day south of here, by wagon. Black hair with sun-browned skin. Perhaps 10 years old and barely able to stand, head down, shivering from the evening chill. He leaned forward to check the slave's scent. Dirt, iron, sickness and death. Disturbing.
+
+He will have to be escorted back to the merchants. Helping the boy escape would be a crime, not worth the trouble. Leaving him would be his death. By beast, exposure, sickness, or starvation. Returning him is the only option. A slave's life is better than a dog's death.
+
+“Sentry requests to aid.” Alsantset spoke once again. Baatar inwardly sighed. Soft hearted girl.
+
+The boy stopped struggling when he heard her speak.
+
+“Oh... Uh... I very thank aid. As well like I give food?”
+
+Every person within earshot was surprised. The language of The People was not taught to outsiders.
+
+“How is it you speak the language?”
+
+Baatar bent down and grabbed the boy's face, to look him in the eyes. Unfocused, fearful, but golden brown. Amber. A pure-blooded tribesman. How had he been taken? Why had no one known?
+
+“Um.. I open close mouth and sound make?” The boy spoke poorly. He had probably been taken young. Who were his parents? The village has not had any missing tribesmen in decades. Exhaustion had set in on the boy's face, defeat hanging heavily on his shoulders.
+
+“What is your name? The names of your family?” Baatar spoke slowly.
+
+“Name I Rain. Mother Father no name have I. Gone.”
+
+Baatar had been raised by the People. His mother had abandoned him, a weak pup. They had found him, exposed to the elements, and had raised him as one of their own. They had nourished and loved him, and every member had insisted that Baatar was one of The People as well. In return, Baatar devoted himself to them, to fighting for them, to protecting them. He had raised warriors to do so, and knew nothing other than fighting.
+
+He would do anything for The People. His People. His tribe. His Pack.
+
+And now he looked upon one of their own, taken from them. Enslaved. He knew what needed to be done.
+
+Baatar barked his orders.“Wash him, feed him, heal him. In the morning, we return to the mines.”
+
+The boy immediately started running. Baatar laughed, the sight filling him with pride. The boy was sick, weakened and exhausted, surrounded by warriors, and yet still did not give up. A survivor. True to the blood.
+
+Alsantset dealt with him easily, ignoring his kicking and flailing. She lifted him into her embrace. “Calm yourself, little Rain. You were lost and are now returned to us. We will not give you up.”
+
+“Why then return I to the mines?” The boy inquired.
+
+“They have caused harm to you. Enslaved you. One of ours. We return to seek answers. We return to seek blood. We return to seek vengeance.”

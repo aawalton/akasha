@@ -1,0 +1,177 @@
+---
+id: 8fa7e3d3-827e-586f-80fe-0db162a7f378
+page-type-slug: story-chapter-royal-road
+title: "13: Convincing Facades"
+slug: 0013-13-convincing-facades
+partOf: rat-girl-evolution-lab-rat-to-unrivaled
+position: 13
+ownLength: 2266
+unit: words
+publishedAt: 2025-09-28
+link: "https://www.royalroad.com/fiction/131412/rat-girl-evolution-lab-rat-to-unrivaled/chapter/2634970/13-convincing-facades"
+royalRoadId: "2634970"
+---
+
+The rat made to turn around, a full-body movement, spinning to see her new attacker and break free of the grasp at in one motion. The iron fingers digging into her shoulder stopped the movement as soon as it started. She settled for turning her head instead.
+
+He shoved her down the moment she did, and she staggered back, struggling to keep her feet under her. As she did, she made sure to take in every detail about him.
+
+He looked as though he might have been tall, had he been able to stand straight. Instead he stood staggered, leaning and wobbling as though his footing was unsteady despite being on perfectly, unnaturally flat ground.
+
+A powerful, painfully intoxicating scent blew from him, matching perfectly the bottle in his left hand that made her head spin to smell.
+
+And the man was filthy.
+
+Every part of him, from head to toe. His shoes were crusted with mud, his long hair clotted and tangling with all manner of unknown filth, the tatters he wrapped around himself stained beyond imagination, and his face smeared with enough dirt that she struggled to make it out at all.
+
+He leaned forwards, bumping against the railing guarding a jet of steam, and then stumbling back towards her. “Oi, street rat girl. I saw it, you know~ What crimes have you been committing, huh?”
+
+“C-crimes? I-I don’t know what you mean.”
+
+“On the tra-a-ain~” His voice came out with that lilting, sign-song manner again. The words slipped free casually, but also gave the impression of being carefully controlled, just loud enough for her to hear, and no one else.
+
+“I didn’t have any crimes…” she said.
+
+Stained, dirty teeth that were too straight for their disrepair grinned at her. “Innocent girls don’t stage elaborate magic-fueled escapes, now do they? Especially not desperate ones at the mere sight of the authorities.”
+
+He belched loudly. “It was, hic, pretty well done as well. I’m impressed.”
+
+Fuck. If he’d seen the whole thing, and he knew she was a rat as well, all it would take from him would be a word to surely make all the other humans turn on her instantly. Could she kill him before that? Or would that out her just as easily, even if in a different way?
+
+He was too far away. Even someone as pathetic as him would have a chance to at least yell her identity before dying, and then the whole thing would be over.
+
+But he hadn’t outed her, not yet. Why?
+
+“What do you want?”
+
+He smiled again. “Well, I thought I would give you my thanks. And offer you a job.”
+
+The quality of his voice was different. Familiar. It tickled something in the back of her mind as he continued. “Not that I couldn’t have pulled the same thing off myself, but you really stood up against those Custodians there. I think that deserves some thanks, now that you’ve place yourself solidly in my camp, intended or not.”
+
+It couldn’t be… “Are you…?”
+
+Every ounce of unsteadiness vanished, and he suddenly stood as rooted and tall as the trees of the deep forest, sweepy strands of filthy hair out of his face, and wiping dirt away from his eyes. The man beaming down at her from under all that muck was familiar. The only familiar one, really, if she thought about men.
+
+“Durm?”
+
+“A pretty good disguise, is it not?” The second passed, and he returned to being a living, shambling wreck of a human being. “The whole thing is about presence. Durm would never be so filthy. He’s a proud paladin, even if a disgraced one. He wants to show off. And he would never be drunk in broad daylight, staggering around in plain sight in a district isolated enough that all strangers stand out. I’m sure they’re looking for him downtown, or in the merchant district right now.”
+
+The rat cocked her head. “Wouldn’t they expect you to go to a place without lots of people to give you away? Somewhere like near the station, you’d get spotted instantly.”
+
+“People are dumb. They know full well that even amongst those who care and trust them enough to report me, and those who can remember my description, few would be able to accurately identify me. Much less if I disguised myself, though they wouldn’t expect anything this drastic, not this fast.”
+
+He paused as another person walked by, taking a drink from the bottle in an exaggerated mothing that her eyes were sharp enough to realize disguised the fact nothing from it went into his lips.
+
+“You didn’t ever answer my question, though,” she said. Somehow, despite the man having become all the more strange and unpredictably human in his reappearance, she felt emboldened by it. “What are crimes?”
+
+“What crimes? Well, destruction of properly, obstruction of justice, aiding in the escape of a wanted criminal—”
+
+“No, not ‘what crimes’. What are crimes? What does that word mean?”
+
+He spoke slowly, as if she was stupid. “Crimes. Like, when you break a law….”
+
+“What’s a law? Is it a part of the body?”
+
+She looked down at her own body as she said that. Was it something she had failed to gain in her mutations, some important part of being human? His talk of destructions and obstructions made it sound like a pretty essential one, just like the heart or lungs….
+
+Or, no…
+
+“Is a law something that doesn’t belong to you? That’s why it’s bad to break them?”
+
+Durm’s finger wagged in the air as he smiled. “Half-right. Laws don’t belong to us. That’s why it’s good to break them. Great, even.”
+
+“You mean…?” She tilted her head. “Like the weapons of someone trying to hurt you? You should break them, so they can’t be used against you?”
+
+“Exactly!” He clapped. “Those in power want to use the laws to chain up people like you and me. That’s why we need to break them all, and gain the power needed to keep ourselves free. Think of the law as their chains. A clever prisoner pretends to be locked up, while having already slipped the shackles and plotted their escape.”
+
+As his words registered, he tapped his side, right where he had previously worn a sword. No, a closer looked showed. Where he still did bear one, under all the filthy rags. “Or better yet, plotted the demise of their tormentor.”
+
+Everything he said made sense. Perfect sense. Too much sense, as though his explanations and arguments had been a set of clothes tailored just for her. Or was it the other way around? Had her understanding been tailored to his arguments, just as a fish would grow to be the right size for the pond it had been raised in?
+
+How do I know the way a fish grows?
+
+The question didn’t get an answer, and the man in front of her was still waiting for a response of his own. She answered with a second question.
+
+“…You called me a rat…”
+
+He shook his head. “Street rat. I know it’s not technically true, but you look like one. You have to admit that much.”
+
+“Y-Yes, I understand. You also said something else?” She thought he had, at least. It had rung an oddly familiar and new bell in her head, though the new words right after the rush of panic had chased everything but the fleeting sensation away.
+
+“A job, my dear Violet. A job offer. You see, I happen to be in the employment of the Filamented Files.” He stopped speaking, looking at her in expectation.
+
+She stared at him blankly. “I really hope you don’t expect me to get it from just that.”
+
+“It was a pause for drama tic effect!” he protested. “But I wouldn’t expect even a normal girl without a cobweb head to know them. That would kind of spoil the whole ‘secret organization’ thing they have going on.”
+
+Cobweb head? No, no, more importantly…. “You said ‘they’, not ‘we’?”
+
+“Don’t mind that. Basically, they want to use the church to overthrow the church, and establish a de-centralized system of religious worship, without the large scale money and power flowing through the hands of those guarding the main centers. That way, no Custodians, no hoarding artifacts, no limiting the best magic and training to only the high-ranking and their successors… Perfect equality.”
+
+“Give everything to everyone?”
+
+“No, no, Violet, my dear little street rat. From each gaining whatever they could obtain, to everyone being given the training, resources, or money they needed. A rising tide that raises all ships. Distribution based not on cementing the powerful of ability, but on raising up those with the greatest needs!”
+
+“You talk to the sword a lot,” she said. She instantly regretted it. For all she knew, that was a normal human habit, addressing the weapon of your partner in conversation when discussing certain topics. He had called the sword a companion before, after all.
+
+Cover it up, put him on the back foot, make him answer.
+
+“And I don’t think that strategy would get a lot of those already powerful and gifted with ability on to your side. Seems like they would be losing everything for nothing.”
+
+He tutted at her, shaking a finger. It was an oddly familiar motion, despite the fact that she had never seen it before.
+
+No, the motion wasn’t familiar at all, but merely the intent behind it. While hiding it as just being a scolding, he was stalling for time. It was a conversation tactic, keeping her silent while he tried to think up an explanation, which meant…
+
+“Now it makes sense why you said ‘they’ and not ‘we’.” She started to grin, before remembering the inhuman nature of her teeth and wiping it away. “You don’t believe in this at all, do you?”
+
+“Well, I—”
+
+A shout interrupted them. “Hey! The hell you doing with that little girl, drunk!?”
+
+The rat glanced over to see a pair of men in uniforms, running towards her. She froze, eyes flicking back to Durm only to see him already taking off in a wobbly, awkward, but startlingly fast sprint. The pursuers ran right past her, chasing him down the street and around the corner, all the while yelling for him to stop.
+
+Around two or three minutes later, he returned, this time popping out of a back alley, a faint sheen of sweat now on his face. “I’m back!”
+
+“What was that?” She looked down the alley behind him, checking for those who had been giving chase. They were gone. “Is this going to be a problem?”
+
+“Not at all, dear Violet.”
+
+He took two steps to the right, placing him against the railing guarding a reoccurring jet of steam one more, and then faced her and winked. “Observe.”
+
+Three things happened at once. She felt his mana surge to life, a massive jet of steam shot from the pipe in the ground, and Durm tilted back over the railing, falling into the steam. The rat took a step forwards, and found even the residual heat of the steam too much, halting her advance as soon as it began.
+
+A moment later, he stepped out, jumping the railing.
+
+His face, his armor, his hair, even his teeth. They had all been blasted clean. The scraps of rag had been blown away. In seconds, she watched as he affected a slight hunch, and instead of letting his hair stay back, bound it into a tight ponytail.
+
+Then, slouching slightly, he prowled towards her with a motion like a predator, minus the intent to hunt.
+
+It painted the image of a beaten, worn, but skilled warrior. Not much like the first shining, proud man, and even farther from the so-called ‘drunk’. His new persona was completed with a handful of rocks being taken to the chestplate of his armor, scuffing it up. When he spoke again, the man had a whole new accent as well, higher pitched and sharper.
+
+“Well? You think they’ll recognize me?”
+
+She put a finger to her mouth in thought. “I do.”
+
+“You cheated, watching me change,” he said. “But remember, they haven’t ever really seen me. Not up close, and not for any period of time.”
+
+The rat started to speak, but he cut her off. “Sorry, no time for that. Job offer. If you want to get your hands on something really worth it, just keep this in mind. Here.”
+
+An object from his pocket came flying at her, and she snagging it from the air before it could pass over her shoulder. “This is…”
+
+“A key.”
+
+It didn’t look like a key. It was a dull, flat piece of bronze, covered in tiny parallel and perpendicular lines. “Are you sure?”
+
+“Take it to any church that has a mark cut into the doorway near the bottom corner.” He winked. “After three days, or so. That should be enough time for me to get things set up. In the meantime, I’d suggest finding some kind of cover identity.”
+
+“Wait, what’s an identity?”
+
+The man just laughed, in a manner just as different from their prior meetings as his appearance was, and began to walk away.
+
+The rat checked the object again, then his back, and then ran over his words in her head.
+
+A job that can get me power, but it’s in three days….
+
+“That settles it.”
+
+Work in three days wouldn’t feed her today, after all. It was time to follow up on her first offer.

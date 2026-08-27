@@ -1,0 +1,139 @@
+---
+id: 6b5c48d2-b9e3-5806-8716-1556ee05ae9f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 536: As expected"
+slug: 0102-chapter-536-as-expected
+partOf: rise-of-the-living-forge
+position: 102
+ownLength: 1812
+unit: words
+ownProgress: 1812
+publishedAt: 2025-12-31
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2895812/chapter-536-as-expected"
+royalRoadId: "2895812"
+markedReadAt: "2026-06-29T20:01:41.800Z"
+---
+
+Thane scratched his chin with the back of his quill. The words on the parchment in front of him were starting to swim. He rubbed his eyes and shifted his position as he dug through his mind for thoughts that wouldn’t come. A yawn forced its way out from between his lips.
+
+Reluctantly, Thane pushed himself up from where he laid on the floor of his room. Papers were strewn about him, spiraling out like the petals of some very odd flower. Ink stained his wrist and fingers, and he was sore in more than a few places.
+
+I really need to find a better position to work.
+
+Habit was hard to break. It wasn’t his fault that the floor was considerably more comfortable than sitting at a desk. But that didn’t change the fact that he was going to get the body of an old man by age twenty-five at this rate.
+
+He stretched his arms over his head, then picked up the sheet he’d been working on and blew on the ink to dry it. It would have been a huge shame if all the time he’d just spent inking his thoughts onto it was wasted by a smear.
+
+It should be just about dry. But better to be safe than sorry. This will be instrumental. For… well, something. I’m not sure what yet. But knowledge is always useful.
+
+Thane started to gather up the papers that had properly dried. He checked each one of them to ensure there was no wet ink left before stacking them together in order, moving carefully through the room to avoid stepping on any of his work.
+
+He wasn’t sure how long he’d been up here. It had probably been the better part of the day. Time tended to slip away while he was working. But it wasn’t like there was much else to do right now.
+
+The rest of the Menagerie were hard at work. Everyone was preparing for the upcoming opening of the Auction House. They were either training or gathering materials or doing whatever it was that Madiv did.
+
+All of them but Thane.
+
+It wasn’t that they excluded him. Reya and Olive sparred with him and showed him fighting techniques. Esmerelda normally had one task or another she was happy to pass along to him. But, for some reason, she’d temporarily banned him from her store. She had refused to say why and Thane knew better than to press too hard.
+
+Esmerelda never did anything without a reason.
+
+But that did mean that he didn’t have much at all to do. And while he was more than happy to spend all day researching just about anything he could think of, there were some that didn’t quite appreciate the activity as much as he—
+
+“Gods above, below, and everywhere else,” Vireth’s voice echoed through Thane’s mind. The sword at his side had shifted so its handle brushed his side, letting her voice into his thoughts. “Please. Do something. Anything. I’m begging you. I’m so bored.”
+
+“There’s nothing boring about research,” Thane protested. “It’s a noble pursuit. And it’s fun. You get to learn things about things.”
+
+“Learn things about things,” Vireth repeated. “Can you hear yourself? Are you certain you aren’t some manner of devil?”
+
+“Can a devil bond to another devil?” Thane tilted his head to the side. That was an interesting thought. Perhaps they could chain together in a giant ladder of bonded devils. The idea of a devil wielding a devil wielding a devil was a pretty amusing—
+
+“Stop!” Vireth begged. “No! It’s not possible!”
+
+“How do you know?” Thane asked. He gathered up the rest of his papers and stacked them into a thick volume. “Have you tested it?”
+
+“You’re going to kill me,” Vireth said. “No. I’m going to kill myself. What is wrong with you, boy? Does the light of the sun burn your skin? Go outside! Do something!”
+
+“I am doing something,” Thane said. “And I’ve seen light. I’ve looked out the window a bunch of times. Besides, this is important.”
+
+“I can assure you that it is not,” Vireth said. She let out a long-suffering sigh. “What was it that you were looking at this time? How long it takes to drive a devil to insanity?”
+
+“The number of people passing through the square and the movement patterns they take on the street.”
+
+“Wow,” Vireth said, her voice dripping with so much sarcasm that Thane could practically taste it. “That’s riveting. I’m sure that’s very important. Vital, perhaps. Do you know what else is important? Keeping your beloved weapon happy. A woman has needs, Thane. Stab someone. With me. Hell, use a different weapon. I don’t care anymore. Just stab someone.”
+
+“Your sarcasm isn’t going to make a difference,” Thane said with a sigh. He walked over to the window and squinted as bright sunlight bore into his eyes. A large crowd milled below the Devil’s Den and all over the street, just as it always did. “And we both know you’d be unhappy if I used a different weapon. Not that I’m going to randomly stab someone.”
+
+“How do you care enough to notice that but not kind enough to actually go stab someone?” Vireth asked. “I’m not asking for that much.”
+
+“Stabbing someone random is much,” Thane said idly. He examined the crowd below. Their movements looked random. But they weren’t. Not as a whole, at least.
+
+People moved in waves. There were some that just milled about, but large groups tended to move almost in conjunction with each other. They followed streams. Some were headed for the Den, while others wanted to check out the still-closed Auction House or pay a visit to the Armory.
+
+But there was a pattern to all of their movements. It was like the ebb and flow of the ocean—
+
+“Thane,” Vireth said. “I have never cried in my existence. You are going to make me cry.”
+
+“No, I don’t think I am,” Thane replied absent-mindedly. “You’re not that weak. You waited ages to bond with a wielder. And you chose me. Nobody can say you didn’t know what you were getting into. This is your fault.”
+
+“You insufferable little shit,” Vireth said. “I like that part of you. But not when it’s directed at me. What about a monster? I’d settle for that. Don’t you need practice?
+
+Thane continued watching out the window. His brow furrowed slightly. The flow at the edge of the street didn’t seem to align with his observations.
+
+“I’ve gotten practice,” Thane said. He pressed his nose to the glass and frowned.
+
+“And you think you’re a master now?” Vireth snorted. “You’re a leaf in the wind, Thane. A well placed sneeze would blow you over. You need far more—"
+
+“That’s odd,” Thane muttered. There was a group near the edge of the crowd that stuck out like a sore thumb. Their clothes were completely average, as were their builds. They just stood there, still, when everyone else was moving. Nothing at all about them was special.
+
+And that was what was odd. No group was that perfectly even. People were abnormal. The chances of a gathering of perfectly normal people was practically impossible.
+
+“You’re right,” Vireth said, excitement sparking in her voice. “But it’s not just odd. It’s dangerous. They’re all murderers. Probably plotting something. They’ve taken your wife. Kids too.”
+
+“I don’t have a wife or kids,” Thane said, still watching the group.
+
+“Oh,” Vireth said. “Noted. But you should go kill them anyways.”
+
+They’re still standing there. Not even talking. Something isn’t right about that. I’m sure Rodrick or Art is keeping an eye on the street… right? I’m sure it’s nothing.
+
+Thane’s frown deepened. Even though the group wasn’t doing anything, he couldn’t shake the feeling that something was off. Patterns didn’t get broken for no reason.
+
+He turned from the window and started from the door.
+
+“Yes!” Vireth crowed. “We’re going to kill them!”
+
+“We are not,” Thane said. “I’m just quickly going to head over there and check to see if something is going on. I can’t see enough from the window. We’re not killing a bunch of people that are just standing around. They’re probably just waiting for their friend or something.”
+
+“Right,” Vireth drawled. “And maybe you’re actually a looming giant who loathes the idea of research and loves nothing more than bashing his head against walls. Those two things are equally possible.”
+
+“I’m not killing them. Rodrick would have dealt with them if they were a threat. This is just research.”
+
+Vireth harrumphed. “We’ll see.”
+
+Thane slipped down the stairs and into the main room of the Devil’s Den. It was completely packed full. People crowded around their meals, their conversations just muted enough by the magical darkness to be a muffled, meaningless roar in Thane’s ears.
+
+Nobody else from the Menagerie was around. He probably could have gotten Lillia’s attention easily, but she was busy. That was fine. He didn’t need to bother her. This wasn’t that big of a deal. It was just a quick checkup.
+
+He slipped out of the Devil’s Den and wove through the crowds toward the direction of the alley that he’d been watching from his window. It took Thane a minute to make his way over. He pushed free of the crowd just in time to see the odd group slipping back into the alley.
+
+His frown deepened.
+
+Then he strode after them, keeping his hand on Vireth’s hilt. He was mildly surprised to find that she had fallen silent. That wasn’t much like her, but he was too focused to worry about it right now.
+
+Thane only made it two steps in before he heard a footfall behind him.
+
+One of the strangely plain men that he’d been watching before stepped out from the darkness in front of him. Thane didn’t have to turn to realize that there was another at his back.
+
+“What do we have here?” the man asked. “You looking for something, boy? You were pushing through the crowd to get to us in an awful hurry.”
+
+“There were more of you before,” Thane said quietly. “What are you doing?”
+
+“It’s a free city,” the man said with a smile that bore no warmth. “We can stand where we want.”
+
+“This is the Menagerie’s Street,” Thane said. “If you’re looking for something—”
+
+“I’d say someone would be more accurate,” the man replied, his grin growing wider. “And I think we’ve found him. You’re in the Menagerie, aren’t you? Thane. I recognize you. Yes, you’ll do just fine. Luck must be smiling on us today.”
+
+Thane’s eyes narrowed. And, in the back of his head, Vireth’s laughter bubbled up like magma forcing its way up to burst free from a slumbering volcano.
+
+“Yes! I knew it! We’re going to kill someone!”

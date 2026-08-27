@@ -1,0 +1,197 @@
+---
+id: 44a1fada-7710-5f45-aa2d-b5648829cca7
+page-type-slug: story-chapter-royal-road
+title: "Chapter 3: Aura of Fear"
+slug: 0004-chapter-3-aura-of-fear
+partOf: reborn-as-a-demonic-tree
+position: 4
+ownLength: 1502
+unit: words
+ownProgress: 1502
+publishedAt: 2023-01-07
+link: "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/1081345/chapter-3-aura-of-fear"
+royalRoadId: "1081345"
+markedReadAt: "2026-06-29T19:01:37.207Z"
+---
+
+[Qi Realm: 3rd Stage Achieved... deactivating sleep mode]
+
+A surge of energy like the world's biggest caffeine rush awoke the slothful tree from its long slumber.
+
+Summer was in full swing, and the fluff of a bright blue bird resting happily on one of the tree's many sturdy branches frizzled out like it had been electrocuted as ambient Qi rushed out into the surroundings.
+
+The bird's muscles tensed up, and it tumbled to the ground like a rock—luckily, the lush purple grass broke its fall... but then black vines erupted from the soil and mummified the bird.
+
+The poor thing squeaked like a dog toy as the air was crushed out of its lungs, and its bones crumbled into powder as the vines tightened their python-like grip.
+
+A girl lying under the tree's canopy enjoying the shade from the relentless sun's rays stopped twirling a dagger in her hand and watched the bird being eaten alive while humming.
+
+[+1 SC]
+
+"Whooo..." Ashlock felt the rush of energy subside, and he could focus again.
+
+"SC? Does that stand for sacrifice credits..."
+
+Ashlock let off a yawn as he spread out his spiritual sight.
+
+The vibrant colors of summer flooded his mind.
+
+"Wait, wasn't it the start of winter when I fell asleep?"
+
+The rapid passage of time still baffled the poor human mind stuck in a tree, but with every passing season, he felt more tree than human.
+
+How could one treat life the same when months pass by in the blink of an eye?
+
+Since a lot of time had passed, Ashlock decided now was a great time to sign in...
+
+Idletree Daily Sign-In System
+
+Day: 1238
+
+Daily Credit: 187
+
+Sacrifice Credit: 1
+
+[Sign in?]
+
+"Yes."
+
+[Sign in successful, 188 credits consumed…]
+
+[Unlocked a B-grade skill: Language of the World]
+
+"Not bad... I think." Ashlock would rather gain some combat abilities, but language was a good step in his pursuit of knowledge.
+
+"Hmmm, Tree, are you awake?"
+
+Ashlock mentally jumped in shock, "Who said that!?" He scanned around himself, but the courtyard was empty...
+
+"The other scions would laugh if I said my only friend was a tree..."
+
+Looking down at his base, Ashlock finally saw the culprit. It was the psycho girl. "Fuck sake, can she just leave me in peace?" Ashlock enjoyed his peace and quiet; months may have passed for the unknown girl, but he had seen her for almost all his brief moments of consciousness.
+
+"Tree, are you hungry? I tried to feed you during the winter, but you were sleeping."
+
+Ashlock had no way to answer. He was a tree. Did she expect him to drop an acorn on her head or spell out answers in the dirt? "Just go away so I can sleep again!"
+
+The girl watched his rustling leaves and seemed to reach some bizarre conclusion. "Okay, I will get you a snack."
+
+Ashlock watched purple energy erupt in a blaze across her pale skin. But, to his surprise, it didn't burn her thin black dress. She then retrieved a beautiful black dagger and wrapped it in her purple energy.
+
+"Hold on, is that dagger handle made of the stick she stole from me?"
+
+Ashlock didn't get a chance to examine it closely as the dagger shot out of her hand like a bullet. A thin line of purple followed it. Then as if she was fishing, she reeled the purple line back... and impaled on the end of the dagger was a very plump bird.
+
+"Here." The girl plopped the bird down and stood to leave. "I will leave you to your meal as I have some cultivating to catch up on. Bye ~."
+
+Ashlock felt his opinion of the girl rise. She may be noisy, but at least she provides snacks. Ashlock cast his {Devour} skill...
+
+[+1 SC]
+
+"Sign in!"
+
+Nothing happened. "Oh, yea... I can only do it once a day." Being a tree was boring sometimes.
+
+"Status!"
+
+[Demonic Spirit Sapling (Age: 3)]
+
+[Qi Realm: 3rd Stage]
+
+[Skills…]
+
+{Eye of the Tree God[A]}
+
+{Language of the World[B]}
+
+{Devour[C]}
+
+{Basic Meditation[F]}
+
+"Three years on this planet, and I'm still weak." Ashlock felt frustrated, but then a funny thought crossed his mind. "How did all those other sign-in system protagonists survive the boredom? At least I can sleep the years away..." Ashlock decided it had been a long day, so he started meditating and fell asleep.
+
+***
+
+"Tree, my father failed his breakthrough to the Star Core realm." The girl had built a makeshift bench next to Ashlock's largest root and was twirling the obsidian wood dagger between her fingers. "He is now a cripple... those vultures of the other peaks may set their eyes on my Red Vine peak soon."
+
+Ashlock listened to the girl's mutterings in silence.
+
+He was going to go insane.
+
+Every day, she ended her training and wandered over to interrupt his sleep.
+
+But what she spoke of today differed from her usual ramblings about sect politics.
+
+Instead, today she spoke of her father, which was one of the many questions Ashlock wished to ask.
+
+"Why is a girl living alone in such a massive pavilion atop a mountain? Is she cursed or something?"
+
+Ashlock had observed that the other people in the pavilion were mortal servants.
+
+They didn't awaken him due to their lack of presence. Furthermore, their souls let out such minuscule amounts of ambient Qi it was hardly noticeable even when they walked up to him.
+
+From this, Ashlock had concluded they weren't cultivators like the girl.
+
+"But there had been those blue energy cultivators here previously until the girl killed them. But why did she kill them, and why are there only the girl and these mortals here?" Ashlock had gained information about the world through snippets of the girl's rambles. Such as this mountain was called the Red Vine Peak, and apparently, there were other peaks.
+
+Luckily, Ashlock was a tree. So human politics had little effect on him.
+
+Time passed...
+
+"Tree, why do people important to me all have to die and leave me alone?" The girl had red eyes as she buried her head into her knees. "Being a tree sounds nice. Do you have any worries?"
+
+"Many." Ashlock wanted to say, but she couldn't hear him.
+
+It seemed the girl's father had died due to complications from failing to reach the next realm. News that his home may be changing ownership terrified him. The girl was a bit bizarre, but he felt she was safe to trust.
+
+What if the next owner saw an ominous tree dominating the central courtyard as an eyesore and chose to chop him down?
+
+After all, over the last few years, he rapidly grew to over ten meters. He was like a beacon lording over the entire courtyard.
+
+[Demonic Spirit Sapling (Age: 4)]
+
+[Qi Realm: 3rd Stage]
+
+[Skills…]
+
+"Still stuck at the 3rd stage and considered a sapling..." Progress was slow. Unbearably slow. If not for the girl looking older and the passing of seasons, Ashlock would think the system was lying to him.
+
+"Tree... I have to go fight in a tournament to keep this place."
+
+Ashlock sighed mentally. He had accumulated a lot of daily credits and was saving them for an emergency, and in his eyes, the girl losing was a dire situation. Deciding there was only one way he could help, he summoned the sign-in system window. It was time to take a gamble.
+
+Idletree Daily Sign-In System
+
+Day: 1698
+
+Daily Credit: 460
+
+Sacrifice Credit: 2
+
+[Sign in?]
+
+"Yes."
+
+[Sign in successful, 462 credits consumed…]
+
+[Unlocked an A-grade item: Earrings of Absolute Fear]
+
+"This might be goodbye forever, tree. We had a fun few years...Huh?" The girl was baffled as two little red leaf earrings hanging from black chains materialized in her hand. Ominous whisps of shadow shrouded their surface, and if one got really close, they could hear the screams of the dead.
+
+"I love them!" The girl seemed rejuvenated with life as she bounded to her feet. "Best to die in style! Thanks for the gift tree!"
+
+Ashlock grumbled as he watched over a year's worth of credits expended on some dumb cursed earrings. "A sword would have been so much better... or a skill that lets me assist her somehow."
+
+The girl carefully put the earrings on, and Ashlock had to admit they suited her, but they were nothing special. What a waste.
+
+"They are so pretty!" The girl looked directly at his trunk, and the Demonic Tree felt his sap run cold. Her eyes appeared as two swirling masses of darkness, and he felt a wave of fear like no other silently caress his nonexistent spine.
+
+[AURA OF FEAR DETECTED]
+
+And then she turned away, and the pressure immediately disappeared as if it were just a dream.
+
+"Holy shit..." Ashlock let out a long sigh of relief.
+
+"I will never doubt you again, system!" Watching her departing back, Ashlock felt happy.
+
+He could finally get some sleep.

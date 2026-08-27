@@ -1,0 +1,133 @@
+---
+id: 0ddcacaa-8859-5a1a-8dd3-8074cf0484f4
+page-type-slug: story-chapter-royal-road
+title: "Chapter 5: A Totally Friendly Tree"
+slug: 0006-chapter-5-a-totally-friendly-tree
+partOf: reborn-as-a-demonic-tree
+position: 6
+ownLength: 2301
+unit: words
+ownProgress: 2301
+publishedAt: 2023-01-07
+link: "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/1081426/chapter-5-a-totally-friendly-tree"
+royalRoadId: "1081426"
+markedReadAt: "2026-06-29T19:01:41.281Z"
+---
+
+Ashlock felt absolutely nothing other than euphoria as he consumed the mortal servant. Qi rushed through the vines, and the thrill was intoxicating.
+
+Stella also watched the scene without a hint of interest; she was more bothered about her ruined dress. "Tree, thank you," Stella said before leaving for the pavilion. "It seems some rats from the other families have infiltrated my Red Vine peak."
+
+A sinister smile bloomed on her face. "Seems there will be more food coming your way soon." Then with a flash, she vanished from her spot in a trail of purple flames.
+
+After a few minutes, the vines retreated into the ground, leaving some shredded clothes dyed in blood, littering the spot the servant had once stood.
+
+"I know from stories that worlds with cultivators are brutal, but Stella's indifference still surprises me. Does she not see the servants as people due to them not being cultivators? Or perhaps people only care for themselves and their family in this world."
+
+Ashlock struggled a little with his human morals from the Earth. He knew that murder was wrong, but it was hard to stop himself from killing when it brought him such euphoria and growth. "Also, not getting punished and instead rewarded for killing makes the deed far easier."
+
+Since he had gained some Qi, Ashlock decided to use some for advancing his cultivation and the rest to create some fruit. Like water, Qi was an odd thing—his body could only take in so much at once. Unfortunately, the excess Qi his body couldn't store dissipated into the atmosphere unless he invested it into something, such as fruit.
+
+Bringing up the menu for {Qi Fruit Production}, Ashlock selected to create ten fruits. All of them were tasteless, but they stored some Qi, and three had the {Basic Poison Resistance} buff. Feeling content, Ashlock hit the create button and felt the chaotic Qi inside him rush toward his branches. In amazement, Ashlock then watched the stems of the fruit grow in real time.
+
+"Now what?" Ashlock had already signed in for the day, and Stella had gone off somewhere. "Guess I'll sleep."
+
+***
+
+Ashlock awoke to darkness and screams. Moonlight shrouded the courtyard, and Ashlock could see torchlight through the pavilion's windows. "Wait... is this the first time I've seen the night." Ashlock had always woken up when Stella or the blue energy man came to bring him food which was during the day. He also naturally woke up during the daytime.
+
+Ashlock tried to activate his meditation skill, but nothing happened. "Huh... I guess there is no sunlight, and I am a plant. Never really occurred to me that I can't cultivate during the night." Ashlock now realized why his meditation technique wasn't just bad—it was downright shit. "If I can get a moonlight cultivation technique, I should double my cultivation speed."
+
+"Anyway, back to the screams..." Ashlock struggled to really care. The cold night air and lack of sunlight made him feel sluggish and uncaring. Like waking up on a Sunday morning to bad news and just wanting to crawl back under the sheets and sleep. "Anything interesting going on?" Ashlock spread his spiritual sight, but his limit was still the courtyard unless he activated his skill.
+
+"Maybe someone died... so sleepy." Ashlock was about to succumb to his slothfulness when a man stumbled into the courtyard clutching his side. Ashlock's spirit sight allowed him to see perfectly, even in the dark, so he noticed the area the man was clutching was dyed red. "Ooo! Another victim. Stella won't mind, right?" Ashlock was itching to use his devour skill, but he decided to wait and see. Like a good patient tree.
+
+The man appeared to be a mortal as he lacked any type of presence, had a rather ordinary appearance, and wore servant clothes. Ashlock had noticed that the black robes and dresses with a sewn-on red lotus that Stella wore differed from the plain grey robes the servant wore. "Come to think of it... this is the Red Vine peak, so why does Stella have a red lotus sown onto her robe? She mentioned a lot of other families nearby and a tournament, so I assume we are inside a sect of some kind? Maybe the Red Lotus sect?"
+
+Ashlock mentally added that to his growing list of questions to investigate. Being a tree was an odd experience in a cultivation world. If he made enemies with powerful people, he couldn't run. But on the other hand, he is a tree, so people have no reason to go out of their way to trouble him. Other young masters? Sure. A random tree in a courtyard? Why? He was a very harmless and friendly tree.
+
+"Maybe I should take a fight-if-threatened stance... at least until I'm a godlike tree that cannot be defeated." Deciding that was reasonable, Ashlock assumed an observing role, as any friendly tree should strive for, and watched the drama unfold.
+
+The screams continued, so Ashlock activated his {Eye of the Tree God} skill and observed the Red Vine peak from above. "Oh... seems Stella has found the rats." Stella was battling with two servants in the nearby sandy training area courtyard.
+
+As she battled with the two servants, purple flames flickered across Stella's skin. Ashlock zoomed in on their faces and mentally frowned. "I have never seen these two before... since when did they work here?" The servants wore the usual robes, but their faces were far too chiseled and well-kept to belong to mere servants. Like in all cultivator novels, absorbing ambient Qi naturally removes imperfections like acne or rough skin.
+
+"Don't look at her. She has a demonic eye technique!" The taller of the two servants shouted as he covered his eyes with one arm and summoned a blade of red flames in the other. The second servant nodded and covered his eyes while black flames flared to life on his fist.
+
+Ashlock could tell from here that the flames from these servants were far brighter than Stella's. Especially the one with red flames, that sword of fire practically looked solid. Unfortunately for Stella, the two cultivator servants weren't alone. Servants in grey robes lined the training courtyard holding various weapons. One even had a very fancy-looking sword.
+
+"Why?!" Stella screamed at the people surrounding her. "Who sent you? I will pay triple what they did."
+
+"Stella... don't bother wasting your breath on them. They will never tell you." Ashlock sighed. The villains only made those stupid speeches in movies.
+
+"You think you can murder the scion of house Ravenborne and live?" The flame sword cultivator sneered and stepped forward. "The Grand Elder demands your head on a platter."
+
+"...I stand corrected," Ashlock grumbled. "This is a cultivator world, after all."
+
+Ashlock once again felt helpless and lacked options to assist. "Maybe that's for the best, though. Anyone who can kill Stella could defeat me with a finger flick." Ashlock hated to admit it, but he was just a 3rd realm sapling with no defensive capabilities and a single attack skill that could be easily dodged or destroyed. The Vines that erupted from the ground had a thin layer of Qi strengthening them but only at his level, the 3rd layer of the Qi Realm. To a mortal servant, that was a death sentence. But to fire sword guy? He would laugh at Ashlock's pathetic attempt to snare a demi god such as himself and chop Ashlock down with a single cut of his blade.
+
+"God being weak is so lame..." Ashlock mumbled as he watched the two cultivators slowly close in on Stella. The young girl rapidly looked around, and everyone she glanced at froze in fear. "I wonder if Stella knows the power those earrings have?"
+
+Fire sword guy launched forward and slashed at Stella, but she barely dodged and nimbly stepped to the side—summoning the black dagger from somewhere, she rammed it toward the man's side, but a flare of red flames made her wince back. Stella didn't have a moment of rest as the black fist guy came right for her head. Stella's low stature helped her duck as the fist whistled through the air, making her blonde hair wave in the wind.
+
+Ashlock found the cultivators' movements a little clumsy, but considering they were using an arm to block their eyes, it made sense. "Why don't they just close their eyes? Are they stupid?"
+
+Stella retaliated against the black fist guy by tripping him up with a well-placed foot. But before she could move in for the kill on his exposed neck, the servant with a fancy sword blocked her blade—which he instantly regretted as the purple flame-covered dagger sliced straight through the metal sword and cut the servant's leg off in one smooth motion.
+
+Keeping up the tempo, Stella twirled around and finished the servant off by decapitating his head.
+
+Honestly, keeping up with the fight was exhausting. Ashlock debated going to sleep and learning the results tomorrow when lovely warm sunlight and Qi would be trickling in from his meditation skill.
+
+Focusing back on the central courtyard, it seemed the servant was dying. He was lying on the floor panting, clutching his wound, and trying to stop the bleeding. Ashlock recognized the servant. He often tended to the kitchen and was rarely seen outside.
+
+"All things return to the earth... as nutrients..." Ashlock stopped that trail of thought in surprise. He felt no pity for the dying man, only the desire for the inevitable nutrients. "Well... I might as well put him out of his misery?"
+
+If Ashlock used some twisted logic, when he was human back on Earth, he had no issue eating beef or chicken because that was considered food. Now he was a demonic sapling. Everything was food. Even humans. It was either he devoured and became strong enough to protect himself... or regretted his indecisiveness when that fire guy's blade cut him in half.
+
+"Sorry, dude... you picked the wrong place to die." Ashlock mumbled a silent prayer for the guy and activated the devour skill. Unfortunately, the poor guy didn't seem to have the strength to resist as the spiked vines mummified him.
+
+[+5 SC]
+
+Ashlock hummed as the rush of Qi flooded his system. But then, a second rush caught him off guard. Qi surged through his roots and chaotically rushed around his trunk like a hurricane.
+
+"Status!"
+
+[Demonic Spirit Sapling (Age: 4)]
+
+[Qi Realm: 4th Stage]
+
+[Skills…]
+
+"Finally!" It had taken Ashlock over a year to reach the next stage. The rush made Ashlock hungry for more, so he searched the courtyard for any more stray servants to devour. "Stella will understand..." There was a decent chance that all the servants had turned against their master or weren't subservient in the first place.
+
+Right on cue, another three servants stumbled through the connecting area between the training courtyard and the central courtyard. Ashlock didn't even hesitate and cast devour. There was so much chaotic Qi running through his body that the vines shot out of the ground with such impressive speed that they straight-up impaled the three servants and dragged their corpses to the ground.
+
+[+5 SC]
+
+[+5 SC]
+
+[+5 SC]
+
+One after another, the corpses were devoured. In a haze of madness, Ashlock felt he might throw up Qi at this rate. With the only outlet being {Qi Fruit Production}, he summoned the menu and picked random options before pressing confirm.
+
+"Whew..." Ashlock let out a deep breath as the system initiated the skill and forcefully funneled the chaotic Qi away from his body and into the fruit production. "This skill is more useful than I thought..." Although it wasn't a combat skill, it was a great way to prevent himself from dying due to gluttony.
+
+Ashlock saw a few tiny blood-red berries dangle from his branches in three clusters and realized there was an artistic beauty in recycling the dead into a new life that would provide for other living things. As a tree, he was no longer an endless consumer but now a provider to the world—a governor of the natural cycle of life and death.
+
+"Tree..."
+
+Ashlock was broken from his thoughts as he saw Stella limp toward him.
+
+Purple flames flickered across her shoulders like weak candlelight as she collapsed just a short distance from his root. Her breathing was ragged and slow, and it appeared she had sustained some injuries.
+
+Before Ashlock could do anything, a heavily injured fire sword guy emerged from behind the door and slowly stepped toward Stella, using a steel sword as a makeshift cane.
+
+Flickering red flames illuminated his face as the man loomed over the dying girl. "Fucking bitch." The man grimaced as some blood dripped from his teeth. His eyes were sealed shut, and he tried to locate the girl by poking the ground with the sword.
+
+Ashlock waited patiently for the perfect moment to strike... The man inched ever closer... Stella was lying on her back, struggling to keep her eyes open as the man's sword made contact with her leg.
+
+"There you are..." The man grinned as he brought the sword up over his head in a two-handed grip. "Die—" the man stopped midsentence as a Qi-empowered vine surged out of the ground behind him and impaled his back.
+
+The man looked down at the hole in his chest with a lost look. The sword tumbled to the ground as the man's arm lost strength. "Who..." The cultivator looked around, and his eyes landed on the black tree with scarlet leaves letting off a faint whiff of Qi. "A tree?" With a final gasp for air, the man fell forward onto Stella, causing the girl to groan in pain.
+
+[+100 SC]

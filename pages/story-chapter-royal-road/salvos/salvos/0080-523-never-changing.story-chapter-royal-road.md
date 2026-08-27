@@ -1,0 +1,241 @@
+---
+id: 079cad42-3a76-539e-ba55-eebd934dc802
+page-type-slug: story-chapter-royal-road
+title: "523. Never Changing"
+slug: 0080-523-never-changing
+partOf: salvos
+position: 80
+ownLength: 2050
+unit: words
+publishedAt: 2023-03-23
+link: "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1146126/523-never-changing"
+royalRoadId: "1146126"
+---
+
+523. Never Changing
+
+I swept my gaze over my surroundings. I saw the crimson skies glowing above. I spotted the undulating mountains in the distance. Tall white peaks rose over the horizon, and an ocean of black expanded all around me. I lay there, floating as I craned my head back to face the sky. The dark sea held still. No gust of wind washed over me.
+
+This was the Netherworld. And I was finally back.
+
+“Huh.”
+
+I said nothing more. I stared up, looking where I had last seen my dad. The moment I fell out of his pocket space, he began to vanish. That ever-changing world of fractal walls faded away, leaving me alone down here.
+
+It had been so long since I was last in the Netherworld. This was my home, but it felt so unfamiliar. And yet, it was nostalgic at the same time. I sat up, taking in a deep breath. I smiled as I saw the vast terrain.
+
+I remembered the time I had spent here— to sluggishly crawl over those rocky flatlands, to scale up mountains, and to cross through valleys. The fond memories of staring at rocks were still fresh in my mind. I recalled chasing wild Demons. I thought about the time I spent together with Haec. The time I had spent in the Netherworld… it was… it was…
+
+“It’s so boring!”
+
+I groaned, falling back into the dark water. I paused and furrowed my brows.
+
+“Well, not the time I spent with Haec. That was nice. But everything else—”
+
+I had been so slow back then! It took me forever just to swim ashore when I had just been born. And that was when I was still an Infant Demon— time back then seemed so much longer than when time passed now.
+
+And it wasn’t a result of magic or anything. I had just experienced so many more things now. So it felt like time was moving faster. At least, that was Daniel’s explanation when I asked him why days felt like they were so much shorter now compared to when I first arrived in the Mortal Realm.
+
+In any case, I wasn’t in the Mortal Realm. I was back in the Netherworld. I was here to find my first companion.
+
+Haec.
+
+Last I heard, he was under the command of the Demon King. Which was weird, really. I had been fighting Regnorex’s forces all this while, trying to keep them out of the Mortal Realm. But maybe if I had actually let them through, I would have just met Haec without returning to the Netherworld.
+
+I shook my head, dismissing the thought.
+
+That was never going to happen. I had other companions I cared about. Friends, too. There were things that mattered to me, and I wasn’t going to sacrifice the entirety of the Human lands just to see Haec again.
+
+I knew I could see him again through my own means. I wasn’t going to let any of my companions be endangered by the Demon King. I especially wasn’t going to let my children get hurt either.
+
+And now, I was back in the Netherworld. I had foiled the Demon King’s plans— also enraging him in the process. But that was fine. I just had to avoid him so I didn’t die. That wouldn’t be too difficult, right?
+
+After all, the Netherworld was a vast place. It wasn’t going to be easy for Regnorex to find me. But that also meant it wasn’t going to be easy for me to find Haec.
+
+I looked up again, letting out a soft sigh.
+
+“This isn’t going to be easy…”
+
+I trailed off. But I had known it wasn’t going to be easy from the very beginning. And yet, I still embarked on my journey to return back to Haec. Because he was my first companion. I made him a promise— I wasn’t going to break it.
+
+So I was going to find him. I had to find him. No matter what, I was going to have to track Haec down!
+
+“...in maybe five minutes.”
+
+I groaned as I closed my eyes. I was still hurt. I hadn’t fully recovered from the battle I had against Levithus in the Mortal Realm. Sure, I now had [Passive - Weaker Regeneration], but it wasn’t nearly as effective as a healing potion, let alone a Potion of Regeneration. I needed to [Rest] for a while. At least a full day. Probably more. Although…
+
+I opened my eyes, glancing up.
+
+“There is no day or night in the Netherworld.”
+
+I murmured to myself. So keeping track of time wasn’t going to be easy. I just had to go based on instinct alone. I felt like I had been floating here for at least an hour, and most of my injuries still remained. It was going to take a while until I recovered.
+
+“I guess I’ll just wait…”
+
+I suspected that, with the severity of my injuries, I’d only be fully healed in maybe twenty more hours. That was assuming I was right in saying that I had been using [Rest] for an hour now. It would be stupid to roam the Netherworld while hurt. It was extremely dangerous here, especially since the Beast was awake. Sure, I was far enough away that I was probably safe. But there were many more things throughout the Netherworld that would want to kill me.
+
+Well… probably everything wanted to kill me. From wild Demons to the Demon King. So I just waited, looking through my Status in the meanwhile.
+
+Salvos (Secely’s Sentinel) (The Devil’s Daughter)
+
+Species: [Primeval Demon of Pride]
+
+Secondary Species: [Lesser God]
+
+Subspecies: [Angelic Devil Princess] - Lvl. 158
+
+Class: [Draconic Apprentice] - Lvl. 125
+
+General Skills:
+
+[Advanced Mana Manipulation] - Lvl. 10 (Maxed)
+
+[Corruption Resistance] - Lvl. 1
+
+[Identification] - Lvl. 6
+
+[Racial Skill: True Divinity] - Lvl. 1 (Maxed)
+
+[Racial Skill: Universal Language Comprehension] - Lvl. 2
+
+[Rest] - Lvl. 5
+
+[Wisdom of the Old Gods] - Lvl. 5
+
+[Title Skill: General Status Effect Resistance] - Lvl. 1
+
+[Ttle Skill: Invoke Wrath] - Lvl. 2
+
+[Title Skill: Protection of the Sentinel] - Lvl. 1
+
+[Title Skill: The Devil’s Grace] - Lvl. 1
+
+[Racial Skill: Divine Essence of the Angelic Devil Princess] - Lvl. 1 (Maxed)
+
+Stats:
+
+[Available Stat Points: 0]
+
+[Vitality]: 255 (+30) (+10)
+
+[Strength]: 255 (+30) (+10)
+
+[Endurance]: 255 (+30) (+10) (+3)
+
+[Wisdom]: 400 (+30) (+10) (+50)
+
+[Agility]: 440 (+30) (+10) (+5)
+
+Skills:
+
+[Available Skill Points: 9]
+
+[Angel’s Wings] - Lvl. 11
+
+[Barrage of Cinders] - Lvl. 20 (Maxed)
+
+[Divine Demon’s Mark] - Lvl. 20 (Maxed)
+
+[Divine Haste] - Lvl. 20 (Maxed)
+
+[Intimidation] - Lvl. 10 (Maxed)
+
+[Faux Limbs] - Lvl. 25 (Maxed)
+
+[Divine Nebular Construct] - Lvl. 25 (Maxed)
+
+[Divine Radiant Slash] - Lvl. 15 (Maxed)
+
+[Sacred Hellfire] - Lvl. 10
+
+[Salvo of Vanity] - Lvl. 25 (Maxed)
+
+[The Call of Armageddon] - Lvl. 10
+
+[The Holy Flames] - Lvl. 15
+
+[Passive - Angelic Premonition] - Lvl. 10
+
+[Passive - Weapon Mastery] - Lvl. 20 (Maxed)
+
+[Available Grand Skill Points: 0]
+
+[My Flame Shall Burn Until Eternity Ends] - Lvl. 2
+
+[Unused Skill Slot] x4
+
+Secondary Skills:
+
+[Available Secondary Skill Points: 1]
+
+[Draconic Fury] - Lvl. 15
+
+[Fragmented Pocket Dimension] - Lvl. 10
+
+[Full Phase] - Lvl. 9
+
+[Greater Teleportation] - Lvl. 20 (Maxed)
+
+[Manifestation of the Old Gods] - Lvl. 5
+
+[Truth Divination] - Lvl. 5
+
+[Warped Time] - Lvl. 20 (Maxed)
+
+[Passive - Dragon Scales] - Lvl. 10 (Maxed)
+
+[Passive - Master of Material Manipulation] - Lvl. 5
+
+[Passive - Weaker Regeneration] - Lvl.5
+
+My Grand Skill had ended— I still had Divine Essence, but I no longer had the additional Stats given to me when it was active. Right now, it was a passive effect. Just like with my shapeshifting. I could conjure up the iridescent flames whenever I wanted. It just took more energy from me.
+
+I did have a second Grand Skill which I recently leveled. After killing Belzu, I was awarded a Grand Skill Point, which I used on [My Flames Shall Burn Until Eternity Ends]. I didn’t really notice any drastic immediate change when that happened.
+
+Well, I did feel like I could use that second Grand Skill again a bit sooner than before. But I highly doubted that that was the only change. There had to be something else to it. I just didn’t know what yet.
+
+I would probably figure it out later— when I actually could use [My Flames Shall Burn Until Eternity Ends] again. I wasn’t going to cast it immediately, but only in battle. It would be a waste to use a Grand Skill just to test it out. I assumed that it probably just had a longer duration before my aura of invulnerability ended.
+
+But maybe it could be something else.
+
+All I knew was that using the cooldown for [My Flames Shall Burn Until Eternity Ends] as a gauge for how much time passed seemed to be pretty effective. I just had to wait. It was not like anything happened in the Netherworld anyway— besides Demons killing each other. All the time I spent here with Haec, the environment never changed, unlike the Mortal Realm. So I was content with just lying here in the ocean.
+
+Or at least, so I thought.  was about a quarter way through the cooldown time when I heard a crackle in the distance. Blinking, I sat up in the black water.
+
+“What was that?”
+
+I wondered aloud as I looked into the distance. But as I scanned the horizon, I saw nothing. No wild Demons, and no change in scenery. I narrowed my eyes.
+
+“I could have sworn I heard—”
+
+Boom! I heard the thunderous clap again. This time, it was much louder. I frowned and looked around me. Again, I saw nothing. But then I suddenly began to feel really warm. An intense heat came from beneath me.
+
+I looked down with a frown as the black ocean began bubbling. At first, I saw only little bits of bubbles rising up to the top of the dark liquid. But then the entire sea was covered in this effervescent foam. It started to burn me, and I yelped.
+
+“Ouch— why is this happening?”
+
+I flew up to the sky, summoning a pair of bat-like wings. My own wings. Not from my [Angelic Wings]. I flew up as I stared at the dark bubbling ocean. It began to rapidly evaporate, diminishing in size as I just gaped.
+
+“What is going on…?”
+
+But no answer came. Instead, the entire world was shrouded in darkness for a brief instant. I heard a crackle a moment later as my vision returned. I glanced up, squinting as I finally saw it. The crimson sky above brightened. Not with an overcast of white clouds, but with a white scar that seemed to tear its way through the dome overhead.
+
+Lightning thundered down from the cracking crimson sky. But it flashed with a dark radiance. A blackness that seemed similar to my own black fire. It struck the sea, and a dark steam trailed up to the sky.
+
+I blinked a few times. For the first time that I had ever seen, the unchanging Netherworld shifted. Everything began to change around me. I opened my mouth—
+
+And that was when the earth cracked open.
+
+“That, my dear daughter, is the beginning of Revelation.”
+
+Sal chuckled as he looked down at Salvos from above. He didn’t leave. He hadn’t returned to the fold between the planes. Instead, he hovered in the crimson sky. His pocket space was invisible to her eyes, but it hadn’t moved from where she had last seen him.
+
+He couldn’t be seen, and neither could he be touched. As far as Salvos was concerned, his pocket space was completely incorporeal. He was both present in this plane, while also being somewhere else. Just a little twisting of dimensions.
+
+“She’ll figure it out eventually… if she survives.”
+
+The Devil shook his head, watching as the Netherworld quaked. The ground rumbled, and valleys were split open. Crevices and ravines tore their way through the entire plane as Sal leant forward.
+
+“Now, you shall experience the true terror of the Netherworld.”
+
+He couldn’t wait to see what happened next.

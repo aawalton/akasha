@@ -1,0 +1,123 @@
+---
+id: ebff32a2-4dc2-5bd6-afde-2c3a3089c03a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 558: Rare Items"
+slug: 0125-chapter-558-rare-items
+partOf: rise-of-the-living-forge
+position: 125
+ownLength: 1666
+unit: words
+ownProgress: 1666
+publishedAt: 2026-02-12
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3040090/chapter-558-rare-items"
+royalRoadId: "3040090"
+markedReadAt: "2026-06-29T20:02:26.502Z"
+---
+
+Niel choked on his pastry.
+
+He doubled over, coughing and rasping for air as he scrambled to grab his drink. Neil pounded his chest as he hurriedly washed the food down before it could attempt to suffocate him. His ears rang as he stared down at the auction stage and desperately battled to make sense of the words that had just intruded past his ears.
+
+And he wasn’t the only one. All around the Mausoleum, people had either burst into conversation or had suffered similar fates to Neil. This had to be some sort of joke. Madiv was trying to imply that the Menagerie didn’t have a single item in their auction lower than Epic Rarity.
+
+That was completely ridiculous. Unless their auction was only for one or two pieces, there was no way a little crafting guild possibly could have gotten their hands on so many high-tier items and materials.
+
+The Menagerie had to be screwing with them.
+
+But Madiv wasn’t laughing.
+
+“For the first two stages of the auction, bids will be accepted in gold,” Madiv proclaimed, continuing on as if absolutely nothing of interest had happened. “The Serpent’s Sting is a basic Epic item. It possesses a number of quality-of-life enchantments. These include resistance to damage and chipping as well as self-sharpening. Its main ability is to inflict a poison effect upon any targets it cuts. This is perfect for nimble-footed adventurers or anyone who likes slower, prolonged fights.”
+
+Neil stared in disbelief at the auctioneer. His thoughts still reeled in disbelief, but his mind still managed to process just enough of the information that his ears were feeding it to confuse him even more.
+
+Wait. They’re accepting gold through the first two stages? Does that mean the third stage won’t accept gold at all?
+
+Godspit, what is going on?
+
+“Please, take a look,” Madiv said. He extended his hands. A burst of green smoke swirled out between his palms to form into the shape of a shimmering rapier. “The exact abilities of the weapon have been concealed for the privacy of the winning buyers, but you can be assured that I am giving you accurate information. We place our reputation on it.”
+
+That’s a bold claim.
+
+“The bidding price for the Serpent’s Sting will begin at 1,000 gold. Please ensure you raise your number card when placing a bid. Bids are to be no smaller than increments of 100 gold,” Madiv continued, entirely unbothered by the confusion rolling through the room.
+
+“They’re bluffing,” a man somewhere behind Neil said. “I’ll bet you that they’ve brought their best shit out first to try and convince people to bid early. Then everyone will offer up their good items to make sure they’re not too late to sell them, giving the Menagerie a stream of valuable sales they can then take credit for. Clever. But it won’t work. Don’t fall for something like that.”
+
+Neil blinked. That was actually a good point.  But if it was true, then the Menagerie had even heavier brass balls than he’d thought. Such a strategy was incredibly risky. If people called them out on it and nobody offered up anything good enough, then there was absolutely no way the auction would run for long enough to get to their third stage.
+
+The Menagerie would end up looking like complete idiots.
+
+Would they really take a gamble that stupid? And that sword … Madiv made it sound fairly unimportant, but anything that can inflict a stacking poison isn’t some piece of shit. It’s still an Epic weapon. Who auctions something and doesn’t talk it up unless it’s actually terrible compared to the rest of what they’ve got?
+
+Neil’s finger twitched. He’d brought a few items himself. A few Epic items he’d gotten his hands on in his latest dungeon run that the guild had given him permission to sell.
+
+Should I… no. Not yet. They’re definitely higher quality than this sword. Whoever that guy behind me was, he’s right. I can’t get suckered. I don’t know what terms the Menagerie has, but I do know they’ll almost certainly be worse than a larger auction house. They’re trying to force an impulse sale. I won’t fall for it that easy.
+
+“1,000 gold!” A woman across the arena called, her words cutting through Neil’s thoughts.
+
+“1,500!” A man yelled immediately after.
+
+It seemed not everyone was so hesitant. Several more bids rang through the room and the Serpent’s Sting quickly rose up to 3,000 gold in price. The bids slowed after that.
+
+For an Epic item, 3,000 gold wasn’t exactly the highest ever offering. It definitely could have reached 5,000 under the right circumstances. But Madiv had everyone on edge. Nobody could tell if the Menagerie were bluffing or not.
+
+As miniscule as it was, the tiny off chance that the Menagerie were actually telling the truth was a little too terrifying to ignore. It meant that every item that came after this would be better than Epic Rarity. And if that was true… everyone was going to need every single bit of gold they had. They couldn’t afford to waste it on the weakest item in the auction.
+
+Neil watched Madiv closely. The Menagerie definitely weren’t going to be happy with this price. For a small guild, 2,000 gold was a lot. Selling for so far under the price it could have gotten was going to be a blow. But the auction wasn’t done. Madiv could definitely push it up to at least 3,500 gold with a little more—
+
+“Sold!” Madiv called.
+
+“What?” Neil exclaimed, his eyes nearly bugging out of his head.
+
+That’s way too early! People still would have bid on it! Why would he end it so—
+
+“Your item will be delivered to you momentarily,” Madiv said. He flicked his hand and the rapier vanished. “Thank you for your patronage. Please inspect the item once it arrives before you. I will pause the auction momentarily. This is the only time we will do this, but I believe it should suffice to show we speak the truth.”
+
+Another puff of green smoke coiled through the air before the winning bidder. The man reached into it, pulling out the rapier. His eyebrows crept up his features. For several seconds, he didn’t move. Then he glanced away from the blade to look back at Madiv.
+
+Just about every single eye in the Mausoleum was on him.
+
+“It’s as described,” the man said, but there was something else to his voice. It was stiff… but not with disappointment. It was surprise. And it wasn’t the strangled, disappointed surprise of someone who had just gotten scammed.
+
+The sword had been better than the man been expecting.
+
+“Very good,” Madiv said with a sharp nod. “I appreciate your confirmation. Now, let’s move on to our second item.”
+
+“Hold on,” someone called. A woman several rows away stood up and crossed her arms in front of her chest. “Wasn’t that a little too fast? I was going to bid!”
+
+“Yeah!” another man said. “I was going to bid as well! I was just trying to figure out if it was worth it yet! Why didn’t you do some sort of countdown? What if someone wants to put a bid in shortly before the auction ends?”
+
+A few other murmurs of assent rolled around the room.
+
+“Were you?” Madiv asked. He turned in a slow circle. “Is that the case? Were more of you hoping to bid, but you never got a chance?”
+
+The murmurs of assent rose once more.
+
+Madiv paused for a long moment. Silence hung over the room like the blade of an executioner.
+
+Then a mocking laugh tore across the auctioneer’s lips. It echoed through the room, bouncing off the walls and growing in intensity until it was nearly rolling thunder.
+
+“Then you should have bid earlier,” Madiv said with a savage smile. “I am the one who decides when the bids end. Not you. Me. And if I decide that I have received a good offer, or if there is insufficient attention, then why would I linger? Why would I waste our precious time? There is much to see. Much to sell. So if you want something… buy it while you have the chance.”
+
+His words rolled through the room.
+
+Neil’s breath caught in his chest as he realized exactly what Madiv was doing. This stragety was so ballsy that it was almost laughable.
+
+He’s trying to force people to bid higher and faster so they don’t get cut off? That’s crazy. If anyone, even for a moment, thinks an item isn’t worth the price, they won’t even bother bidding. Half the way you get the price of something up is letting people compete and using the tension.
+
+The only way this works is if the items are so good that people have literally no choice but to bid.
+
+And, worse, there definitely wasn’t enough time for anyone to try and sell them something. That means they’re still selling from their personal stock. How many Epic Rarity items could they possibly have?
+
+“Now,” Madiv called, clapping his hands together. “We will proceed to our second item. This one was crafted by a partnership between another smith and our very own Ifrit. It’s a hammer by the name of Falling Boulder… Epic Rarity. The price will start at 5,000 gold.”
+
+Neil’s eye twitched.
+
+It’s another Epic Rarity item. And they’ve started it a fair bit higher than the last one. Were they really not bluffing?
+
+Murmurs rolled through the crowd all around Neil. Nobody was questioning the Menagerie anymore. It didn't matter how the guild had managed to pull this off. An Epic weapon like this wasn’t something that anyone was going to let fly by easily.
+
+Not after what Madiv had just pulled. They were going to have to bid fast if they even wanted a chance.
+
+The auctioneer’s smile grew even wider.
+
+“So, let’s get this started properly, shall we?”

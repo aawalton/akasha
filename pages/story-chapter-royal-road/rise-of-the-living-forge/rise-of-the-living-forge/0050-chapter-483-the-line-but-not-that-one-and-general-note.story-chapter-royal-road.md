@@ -1,0 +1,135 @@
+---
+id: 83858ca1-5fcb-5134-be84-b51b68839b39
+page-type-slug: story-chapter-royal-road
+title: "Chapter 483: The Line (but not that one) & GENERAL NOTE"
+slug: 0050-chapter-483-the-line-but-not-that-one-and-general-note
+partOf: rise-of-the-living-forge
+position: 50
+ownLength: 1783
+unit: words
+ownProgress: 1783
+publishedAt: 2025-09-12
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2595297/chapter-483-the-line-but-not-that-one-general"
+royalRoadId: "2595297"
+markedReadAt: "2026-06-29T20:00:02.493Z"
+---
+
+“What exactly is Sunsetting a class?” Arwin asked as he followed Two through the plain halls of the building. There really wasn’t anything particularly standout about anything in his surroundings. But, even if there had been, he probably wouldn’t have noticed. His attention was fixed solely on the man before him. “And I don’t mean that in the figurative way. I know that it makes you stronger. But how?”
+
+“It’s a realignment,” Two replied. The two of them turned a bend and drew up to a stairwell lit by lanterns hanging either side of the arching entryway above it. Two headed down without a moment of hesitation.
+
+“To bring your class closer to what you currently desire, right?” Arwin asked. “I already have that bit. But why can you only do it once under other circumstances? There has to be a reason, but everyone I’ve spoken to about this has made it sound like Sunsetting a class is something that can only be done once.”
+
+“That’s because it is,” Two said. They continued down the winding stairs, no apparent end to them in sight. Light from the lanterns reflected off the glossy white armor covering Two to dance across the walls in shimmering patterns. “Sunsetting your class isn’t just realigning yourself with you. It’s the Mesh. Do you know the manner in which magic works?”
+
+“I’m going to answer no, on account of the fact that I suspect anything I say will be wrong.”
+
+Two let out a quiet snort. “It wasn’t a trick question. The Mesh depends heavily on concentration. You know this, yes? Dungeons are the most common example.”
+
+“Yeah. Monsters are attracted to areas in which the Mesh layers over itself,” Arwin said. “What does that have to do with Sunsetting?”
+
+“It’s the layering that matters,” Two said. They finally reached the bottom of the stairwell. It, somewhat unsurprisingly, led out into yet another stone hallway that they started down. “Your class is like that. A very specific layering and bunching that allows the Mesh to flow and gather in you. If that weren’t the case, power would just go right through you and continue into the world. You wouldn’t hold any of it.”
+
+“Sure,” Arwin said. “I can buy that. And Sunsetting… what, modifies that layering?”
+
+“It smooths it out.” Two paused to glance back at Arwin. “As you can imagine, crumpling the Mesh up isn’t the most efficient way to store power. There are wrinkles that do nothing. They store power you don’t use or restrict you from channeling power you do need. Those imperfections come from a lot of things, but the biggest one is when your desires and focus doesn’t completely align with what you’re doing.”
+
+“I see. And nobody notices because it’s all they know,” Arwin guessed. “So why is this a one-time procedure?”
+
+“Because once you yank everything smooth once, the next pull makes it flat,” Two replied. He started off again. “And we’ve already discussed what happens if you’re flat.”
+
+“No magic,” Arwin concluded. “That’s it? You think I’ve still got wrinkly bits?”
+
+Two let out a bark of laughter. “Everyone has wrinkly bits, Arwin. But those aren’t what I gather you’re talking about. You — and Lillia — you’re different. Your classes weren’t properly Sunsetted.”
+
+“What do you mean by that?” Arwin asked.
+
+“Sunsetting a class is an enormous shock. Doing it without preparation is certain to kill you. There’s a reason Setting Sun is such a small guild. We only recruit members whose classes have been Sunset. Normally, the process is incredibly extensive. We vet people’s personality. Their abilities. Their history and their goals. That filters out most of our possible recruits. Of the ones that remain, we then spend months rigorously strengthening their minds to withstand the strain that comes with Sunsetting a class. Those preparations… they’re too much for most people — and too much for anyone to do twice.”
+
+“You’re telling me it’s the prep-work that can’t be repeated?” Arwin asked, blinking. “The stuff leading up to Sunsetting your class is what stops people from doing it twice?”
+
+“Yes. Once I show you what I mean, you’ll understand. If you don’t want to go through with Sunsetting your class at that point, I won’t blame you. Many of our other recruits have decided against it as well.”
+
+“We’ll see,” Arwin said noncommittally. “But if this is the case… what makes Lillia and I special?”
+
+Two drew to a stop as the hall came up to a closed stone door. It was plain, with no apparent handle or other way to pull it open. He turned to look back at Arwin once more. A faint smile lingered on his lips.
+
+“A number of things. But for what I’m here to show you today? It’s fairly simple. You died.”
+
+Arwin stared. “What?”
+
+“Your first Sunsetting,” Two said. “It killed you. The Mesh brought you back. And that means you weren’t prepared. You didn’t go through the damage that a mind and body experience in preparation for Sunsetting. And that means you have a chance to do it again.”
+
+Arwin shook his head in disbelief. “What in the world are you doing to people that they can only survive it once?”
+
+Two placed both palms of his hands on the stone door. Dim light lit within it, scrawling throughout its surface as if veins of energy ran just beneath its surface. There was a distant click. Then the door open swung open soundlessly.
+
+Searing golden light cut into Arwin’s dark-adjusted eyes. He raised his hands before himself with a curse. It took several seconds before he could squint through his fingers and make anything out.
+
+The floor of the room before him look like someone had pinched a soft piece of dough and given it a twist. It spiraled up and came to a peak several feet in the air, where a chair had been chiseled into it.
+
+The strange formation was illuminated by a beam of molten gold. Even from where Arwin stood, the intensity of the power clawed across his eyes and seared the hair on his arms. It was magic. Pure, unfiltered magic.
+
+Something inside Arwin’s chest twisted in discomfort. His stomach flipflopped. A wave of dizziness passed over him and his balance faltered. He grabbed onto the wall to keep himself from falling.
+
+Power coiled from his body. His reserves were draining themselves. It was like someone had brought an enormous, magic-hungry magnet right next to him.
+
+“What is that?” Arwin breathed, a knot forming in his throat.
+
+“I think you probably already know,” Two replied. “Or do you really not recognize the Mesh’s presence?”
+
+“That’s the Mesh?” Arwin whispered, unable to tear his eyes away from the intense light.
+
+“It’s a Leyline,” Two said. There were equal parts reverence and fear in his voice. “A direct connection to the Mesh. One of the few this close to the surface of the world. It’s pure magic. Pure Mesh.”
+
+“You’re telling me you prepare yourself to Sunset your class by sitting in that?” Arwin asked.
+
+“Yes,” Two said.
+
+“For how long?”
+
+“Depends on the person. I was on that chair for a day, but Eleven only needed a few hours,” Two replied. Then he winced. “it took me a dozen times and attempts before I managed to stay within the Mesh for long enough to truly let it work, though. If you bail out too early… nothing happens. Your efforts are wasted.”
+
+“Shit,” Arwin muttered, still squinting past his fingers to try and get a good look at the chair. “What will that do to me? If I sit on the chair.”
+
+“Beyond the pain?” the corners of Two’s lips twitched, but it wasn’t in amusement. It was pain. “It will soften the connection between your body and the Mesh. Loosen up all those wrinkles. So, when it comes time to Sunset your class, everything is malleable. You’ll keep all the parts of your class you want and remove the ones you don’t.”
+
+“Wait. That’s why I lost so much from when I was the Hero?” Arwin asked.
+
+“Did you? That doesn’t surprise me. Your Sunsetting was like taking a knife to your soul. It just cut all the shit away instead of trying to preserve and improve,” Two said. He blew out a sigh. “Probably hurt a hell of a lot less, though. You ever cook before?”
+
+“No. That’s more Lillia’s domain. Why?”
+
+“Because this is just about the same thing as beating the life out of a chicken breast to make it tender,” Two replied.
+
+Arwin grimaced. “I see.”
+
+“It’s your choice,” Two said, moving to stand in front of the door and blocking out the light with his back so he could lock eyes with Arwin. “I do not want to understate just how painful this is. You’re deconstructing core connections between yourself and your soul. If you can’t withstand it, your mind could break. This is not without risk. Good people have died on that chair. We will still aid you against the Adventurer’s Guild, even if—”
+
+Arwin raised a hand.
+
+Two closed his mouth.
+
+“I have seen pain,” Arwin said. “And there’s nothing the Mesh can do to me that I haven’t already gone through. Is this the only method to prepare for Sunsetting a class?”
+
+“No. But it is the most efficient one we have found,” Two said with a shake of his head. “Your guild may utilize it as you like. Eleven has vetted all of you. We will stand true to our word.”
+
+Arwin nodded slowly. “The process to Sunsetting, after my body is forged on this chair is it prepared?”
+
+“That’s the easy part,” Two said.
+
+“Good,” Arwin said. Then he moved Two out of the way.
+
+Golden light slammed into his face. Arwin could have sworn he heard an angry hiss from his hair burning, but he ignored it and pressed on. He strode into the room, leaning forward to press his palms against the twisted stone for balance.
+
+The closer he drew to the pillar of Mesh passing through the chair at the peak of the mound he climbed, the more intense the light became. It burned past his skin, past flesh and bone, to pierce right into his very soul.
+
+Arwin didn’t so much as slow.
+
+Inch by inch, he climbed up the mound. He pulled himself up to the platform and the beam of intense golden light enveloping the chair upon it. The hair on his arms was definitely sizzling now. He ignored it.
+
+Arwin turned.
+
+For an instant, his eyes locked with Two’s.
+
+Then Arwin sat down, and all that remained was the Mesh.

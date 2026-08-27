@@ -1,0 +1,155 @@
+---
+id: b8da2397-32b4-5154-b806-47a8a25c35d6
+page-type-slug: story-chapter-royal-road
+title: "Chapter 585: Questions for a smith"
+slug: 0152-chapter-585-questions-for-a-smith
+partOf: rise-of-the-living-forge
+position: 152
+ownLength: 2009
+unit: words
+publishedAt: 2026-05-05
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3358229/chapter-585-questions-for-a-smith"
+royalRoadId: "3358229"
+---
+
+Ida stared into the depths of her mug as the dull roar of magically muted conversation echoed all around her. The darkness of the Devil’s Den made it easy to feel like one was entirely alone even if there was someone just a table away. Even though a dozen people around her were all speaking, she couldn’t make out what a single one of them was saying.
+
+And there was something nice in that. The solitude. It was peaceful. All the people around her and yet not a single one paying her any mind. It was just her and the drink. She couldn’t even make out her own reflection within it. Froth did tend to be less than ideal for the purposes of reflections.
+
+Ida blew out a slow sigh. Her nerves were still shot. Somehow, by some miracle, the auction had worked. And maybe that was an understatement. It had done far more than just work. The Menagerie had actually pulled it off without so much as a single apparent misstep.
+
+It wasn’t even just about the sheer amount of wealth they’d earned. Ida barely even registered that. She’d been around her mother for far too much of her life. Wealth and materials meant little. But the Menagerie had dealt with the Dwarven Council — and they’d won.
+
+Sure, the Council felt like everything had gone great. Indrana had filled her in on everything. They were whistling to themselves, patting each other on the back on a perfectly executed deal. A whole bunch of new legendary weapons for their smiths to study at the cost of some rare materials. Materials that were relatively cheap to them when compared to powerful items.
+
+But they weren’t here. They didn’t see what the Menagerie have been able to make with far, far less than what they just earned. That golem guarding Ifrit’s smithy… could he make a stronger version of it, now? An entire troop of them? A battalion?
+
+Her lips twitched as she raised the cup up and took a long drink. It hardly mattered. Her allegiance to the Dwarven Council had long since worn away. It had been nothing but the threads that her mother dangled her by up until recently. Now, there was nothing left in Ida that could even resemble loyalty to the council at all.
+
+It was funny. She’d somehow gotten just about everything she’d wanted with nearly no effort on her own part. Her mother’s own schemes had strangled her. Now Indrana was nothing more than the Menagerie’s pawn and Ida had more freedom than she ever did before.
+
+All the Menagerie expected of her was to keep tabs on her mother.
+
+And that was it.
+
+Ida didn’t even mind the task. Giving her mother a taste of what it felt like to be someone else’s pawn felt… poetic. But it wasn’t exactly what she would have considered fulfilling. There was no worth at all with anything that related to the council. It was old and rotted. A group of sour, angry old relics that hoarded wealth that they would never spend.
+
+She blew out a slow sigh and stared at the bottom of her now empty cup. The Menagerie had been surprisingly good to her. Perhaps too good. For all of the newfound freedom that Ida now possessed, she didn’t have the faintest damn idea as to what to do with it.
+
+Do I just sit around, rake in the coin from keeping tabs on Indrana, and wait for something to happen? It’s not like I can wander off. They still need me to report in on Indrana, and I can’t do that if I’m not in Milten anymore. And I can’t say I hate Milten.
+
+The food is great. Drink is too. And it’s quiet. The council has no power here. They don’t care to, I guess. No signs of the Adventurer’s Guild either… though I’m sure the Auction will change that. The town is definitely getting more busy.
+
+But Godspit, what do I do?
+
+She hadn’t touched a smithy in weeks. The desire to make much at all had drained out of her. That wasn’t even to mention how laughable it would have been to ask Ifrit if she could use his smithy. But even if she’d wanted to… Ida couldn’t quite bring herself to garner up the motivation.
+
+The idea of making another weapon or piece of armor just made her feel tired. After all the time she’d spent wanting to get out from under her mother’s thumb and get the opportunity to make anything she wanted to, Ida now couldn’t be bothered to try making anything at all.
+
+Maybe she was right. I’m a poor excuse for a smith.
+
+“You’re not going to find many answers at the bottom of that mug.” A weathered voice came from behind Ida. “I’d know. I’ve spent enough time looking myself.”
+
+She glanced over her shoulder. Her heart nearly leapt up into her throat.
+
+Standing behind her was Koyu.
+
+The man’s brilliant ice-blue eyes managed to stick out even in the shadow of the Devil’s Den, framed by the scruffy, long white hair that hung around his face. If not for his eyes, he might have just looked like an old man. Unfortunately, Ida knew far better. It was tough to forget that he’d frozen someone into a solid block of ice with nothing more than his presence just a short while ago.
+
+“I have nothing new to report right now,” Ida said stiffly. “As far as I can tell, everything is going—”
+
+“I’m not here for business,” Koyu said with a huffing laugh. He extended his hand, taking a mug from a scurrying shadow imp, then lowered himself into the seat across from Ida without invitation. The old man looked down into his mug. Then his lips thinned. He pushed the mug over to Ida. “I was just stopping by for a short while. It got too loud outside, and now the smith is flirting. I wasn’t going to sit around for that.”
+
+The corner of Ida’s lips twitched in amusement. “So what can I do for you?”
+
+“You?” Koyu nudged the beer closer to her. “You can do what you’re meant to do with a drink. Drink the damn thing. Lillia doesn’t like when people waste food.”
+
+Ida didn’t see any reason to argue with that. She took a drink from the mug. It was, unsurprisingly, quite good.
+
+“So you’re just here to talk?”
+
+“No,” Koyu said. His gaze drifted across the room.“I am here to avoid being somewhere else. You just happened to be at a table without anyone else sitting at it, and someone else has taken up my spot standing ominously in the shadows.”
+
+Ida followed the old man’s line of sight to find Thane standing in the corner of the room, his arms crossed in front of his chest and back rested against the wall. It looked like he was trying to pretend not to pay attention to the room, but the darting of his eyes made it abundantly clear that he was looking for something.
+
+“He’s not very good at being sneaky.”
+
+“Did you notice him before I pointed him out?”
+
+“I wasn’t looking,” Ida said.
+
+“Most aren’t,” Koyu replied. “But yes. He is not very good at being sneaky. He does try, though. I imagine he’ll get there one day or another.”
+
+“Maybe,” Ida said. She took another drink from her mug. Then she paused. “Do I have to pay for this?”
+
+Koyu smiled. “No. I will cover it. Handing someone a drink and making them pay would just be cruel.”
+
+“Thanks,” Ida said. She tipped the mug back, draining the rest of the beer within it in a single gulp before setting it back down on the table and letting out a long breath. “Well. That was good.”
+
+“No answers this time around either?” Koyu asked.
+
+“What?” Ida’s brow furrowed. “What do you mean?”
+
+“You were looking pretty intently in that last mug,” Koyu said. “But you didn’t bother with this one.”
+
+“Well, you were the one that said there weren’t any answers there.” Ida snorted. “I’m not one to ignore advice.”
+
+“That’s good,” Koyu said. “I’m going to ask you a question, then.”
+
+It didn’t sound like Koyu was requesting permission.
+
+“Feel free. You did just buy me a drink.”
+
+“Why are you just sitting around here?” Koyu asked. “The auction is done. We still need to keep tabs on your mother, but that hardly means you have to idle around the tavern drinking the day away. And you don’t strike me as the type to be traumatized by death. I don’t imagine your close call had anything to do with this.”
+
+“I’m just drinking,” Ida said. “That’s all. Nothing more to it. I’m a dwarf, you know.”
+
+“You may be a dwarf, but just drinking is exactly what I am questioning,” Koyu said. “I am not unaware of your situation. Your shackles are lifted. So why do you remain in the cage, holding the bars there with your own hands?”
+
+“That’s one way to put it,” Ida said with a small huff. “What are you suggesting? That I go back to smithing because I so proudly announced my status as a Dwarven Master Smith shortly before Ifrit literally ate my item?”
+
+“Yes,” Koyu said. “That might be it.”
+
+“Why would I?” Ida shook her head. “I don’t want to make more weapons and armor. I’m done with it. And does the Menagerie really need a second, sub-par smith to support them?”
+
+“Most certainly not,” Koyu said. “And you wouldn’t even be our third smith, much less the second.”
+
+Ida snorted. “Wow. Thanks.”
+
+“Did I give the wrong impression?” Koyu asked, his head tilting askew. “I am not here to comfort you. I simply dislike when people waste their potential. Not everyone has the freedom of choice.”
+
+“I’m not exactly—”
+
+“Every choice that you can make is more than those who have no choice at all,” Koyu said. “But you are right. The Menagerie has no use for a second rate smith. Your equipment is not inspiring. It wouldn’t be worth giving you the time in the Infernal Armory. I have seen a great deal of weaponsmiths in my time. I have seen the weapons and armor they have made. Yours do not compare.”
+
+The sudden attack was so out of nowhere that Ida nearly choked on her own saliva as something between a laugh and a cough slipped out of her.
+
+“Appreciate it. You aren’t saying anything I didn’t know, though.”
+
+“Good,” Koyu said. He rose to his feet. “But if you know that, then why are you sitting here? You clearly have no talent for warsmithing at all.”
+
+“What’s that meant to mean?” Ida asked, crossing her arms in front of her chest.
+
+“I’m asking — why are you sitting around and pouting about not wanting to make armor and weapons? Do you see a mage complaining that they cannot swing a sword?” Koyu’s brow furrowed in genuine confusion. “Who ever said that a smith had to make such things?”
+
+Ida opened her mouth. Then she slowly closed it.
+
+“What?”
+
+Koyu’s brilliant gaze into her for a second longer. Then he was gone, leaving behind nothing but two fading motes of pale blue light in the air where his eyes had been. Ida stared at the air where he’d been a moment before. Then her own brow furrowed.
+
+Make something other than weapons and armor?
+
+Huh.
+
+I never thought about that, actually. I wonder…
+
+She sat there for a second longer. One of Lillia’s imps paused by her table as she accidentally caught its gaze. The magical shadow tilted its head to the side in wait for an order.
+
+Ida shook her head. She pushed her chair back and rose to her feet.
+
+“I think I’m good,” Ida said. “Thanks.”
+
+I wonder if there’s a spare anvil lying around somewhere.
+
+Then she stepped around the table and headed for the tavern door.

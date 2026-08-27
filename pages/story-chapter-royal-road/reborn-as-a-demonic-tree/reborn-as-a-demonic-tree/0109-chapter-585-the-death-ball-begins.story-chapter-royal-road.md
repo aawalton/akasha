@@ -1,0 +1,181 @@
+---
+id: 74263df7-0aa3-566e-9c52-261bcf4e6afc
+page-type-slug: story-chapter-royal-road
+title: "Chapter 585: The Death Ball Begins"
+slug: 0109-chapter-585-the-death-ball-begins
+partOf: reborn-as-a-demonic-tree
+position: 109
+ownLength: 3124
+unit: words
+publishedAt: 2026-06-24
+link: "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3585938/chapter-585-the-death-ball-begins"
+royalRoadId: "3585938"
+---
+
+"What do you mean I need to die?!" Stella mentally asked Ash while reluctantly riding on the griffin's back toward the Celestial Empire. It just didn't make sense—Ash had gotten so angry with her after learning she had died for power. Yet, now he wanted her to die again, to the Crowned One no less?
+
+"While I've verified that there are no active formations around the Grand Hall, the Crowned One is nowhere to be seen. Assuming he is anywhere near as strong, or even stronger than the Chairman, we have no hope of beating him in a direct fight."
+
+"So I should just roll over and die for him?" Stella grimaced. "You're not making any sense."
+
+"No, listen. The Crowned One has made his motive and end goal clear; he wants your body as a vessel, which gives us a way to trap him. Remember, you are soul-bound to Ao Lingxuan. Any damage you receive is transferred to him, including if the Crowned One were to try and take you over..."
+
+Stella's eyes widened. "His soul wouldn't overtake mine. It would be transferred to Ao Lingxuan."
+
+"Exactly, so I have Ao Lingxuan being chained in Tartarus as we speak, with Maple and Nyxalia at the ready. But wait, there's more. I was really confused as to why the Crowned One went to such efforts to invite me and frame the ball as a Monarch Realm feast. I figured it out. He wants me to send all my strongest members of the sect to participate in the slaughter. While the possible multi-day battle is ongoing, Empyrea airships will travel from the Celestial Empire and attack all of my undefended lands."
+
+"What, really?!" Stella said, trying to keep her face from betraying her shock. "How do you know that? Have they started moving already?"
+
+"No, but think about it. The Chairman previously sent a fleet of airships set for decommission to my lands to scout my power. While they failed, that was likely expected. Yet, he never bothered to follow up on the attack despite possessing a massive fleet in reserve. The Chairman was a careful man who seemed to prefer defense to offense. Meanwhile, the Crowned One," Ash chuckled. "Everything he says and does shows that he is pride incarnate and believes we are all playing in the palm of his hand. Not that I can blame him, his pride is well-founded. This ball is simply genius. He uses us to purge the nobles he deems worthy of eradication while, in turn, weakening us with the fight and launching an offensive that I'd struggle to answer without pulling members away from the ball, which would lead to losses."
+
+Stella glanced to her side. "Is that why I only have Thanatos and Khaos with me?"
+
+"For us to achieve victory, we aren't going to compete in this slaughter that the Crowned One desires, and while I value Khaos and Thanatos greatly, they are my Generals and can be replaced should something go wrong. There are also a few Monarchs of the Celestial Empire who will take your side at the ball." Ash's tone suddenly became very serious. "However, if something I've not accounted for occurs, which is entirely likely, I'll be portaling in everyone to wipe that ball off the face of the realm to save you—my empire be damned. Understood?"
+
+Stella slowly nodded. The implication of letting millions die for her was horrifying, but also expected. Ash was way too overprotective.
+
+"Thank you, Ash," Stella said wholeheartedly, "Though, can I clarify the plan one more time? I'm to confront the Crowned One, gauge his power level, and if he's too strong, pretend to feel pain and accept my 'death' at his hands, only for his soul to transfer to Ao Lingxuan once he tries to take me over?"
+
+"That is the gist of it," Ash confirmed. "Once we have his soul imprisoned, the Celestial Empire will fall into chaos, and we will get our slaughter either way, and hopefully figure out a way to free you of that mark."
+
+Stella clenched her jaw. She didn't love Ash's plan and despised the idea of giving even an inch to the Crowned One, but she didn't see an alternative. The stage had already been set—she needed to confront him here and now, not just because of the mark on her soul that made her squirm in her own skin, but also because the Crowned One currently lorded over the Celestial Empire. With him gone, her mother's freedom would soon follow.
+
+All that mattered now was who came out on top.
+
+Stella steeled her resolve and fixed her gaze on Empyrea, which was fast approaching as they flew over Floridawn, covered in demonic trees and a haze of desolation.
+
+Sorry, Ash, but I'll only bow if I have no other choice. Stella told herself. I didn't do everything until now just to accept a humiliating defeat. It is he who should bow to me.
+
+***
+
+Empyrea, Capital City of the Celestial Empire.
+
+The Grand Hall had been built in an age before Empyrea's vast population outgrew the ground.
+
+Despite being the oldest son of House Stonecrest, only Caelan's father, the late Patriarch of his House, or his sisters would attend any events held here. He had always been too busy cultivating and training to dabble in politics and pointless gatherings.
+
+Because of that, he had only heard about the Grand Hall's grandness in passing from his sisters' stories. However, just like the whispers of the dao, some things had to be experienced personally, as stories could never do them justice.
+
+The Grand Hall was one such wonder of the world that had to be witnessed in person. He had been here an hour already, and the immensity of his surroundings still took his breath away.
+
+Dug into the bedrock beneath the World Tree itself, the roots overhead were each as wide as a city block, twisted into vaulted arches so vast that the upper reaches were lost in a warm amber haze. Between them, bioluminescent fungi clung in colonies the size of houses, pulsing with a slow golden light that shifted like candlelight. The floor was polished black stone, worn smooth by millennia of cultivators' feet, and the marble walls erected in the gaps between the World Tree's roots bore golden carvings so old their meanings had eroded with time.
+
+Caelan stood near one of the hall's four grand pillars and tried not to look like a man who had been strapped to a stone disk waiting to have his soul replaced by his father only hours ago.
+
+It was harder than it sounded. Three centuries of cultivating iron discipline had given Caelan a face that gave nothing away. Still, his body remembered the chilling iron clamps around his wrists, even if his expression didn't.
+
+He wordlessly stared down into his untouched cup of spirit wine and looked at his shimmering reflection.
+
+In just a few short hours, he had experienced more emotions than he had in hundreds of years and hadn't been given time to process them.
+
+The first had been horror. When the letter foretelling the Patriarch's death at the hands of the Covenant had appeared before him, he had rushed toward his father's cultivation abode like his life depended on it—because it had. Finding him dead and the assassin fleeing, the daunting reality had set in within seconds. House Stonecrest was on the sudden cusp of collapse, and the Elders were already surrounding him, speaking of duty to be fulfilled.
+
+He had been dragged underground while his wife and daughter watched from the courtyard. His daughter had been bawling, screaming his name. His wife's face had been tight with worry for him, though he had taken some comfort in that. He had desperately wanted to survive, not only out of anger at a life wasted on cultivating for someone else's benefit but also for them.
+
+When he finally emerged from that hell, his daughter had rushed to embrace him, happy to have her father back. He explained to the others what had happened: how the Covenant had struck again, taking his father's infant soul and killing the Elders presiding over the ritual in the process.
+
+None of it was his fault, yet the rest of the family reacted coldly. His brothers and sisters, who had enjoyed lives of luxury in the shadow of their father, looked at him as if they wished he had died.
+
+But the true betrayal came from his wife. She seemed far more concerned about the Patriarch's demise than pleased by his survival. That worry he had seen in her eyes as he was dragged away hadn't been for him—it had been for the future of House Stonecrest.
+
+A sharp crack pulled him back to the present. He looked down to find the neck of the wine glass snapped clean between his fingers.
+
+"Esteemed lord of House Stonecrest, allow me to take that for you."
+
+He glanced toward the sweet voice. A beautiful Soul Fire cultivator in Empyrea's signature black and gold—revealing her 'assets' in an obviously deliberate way—stood at his elbow with a pleasant smile already in place. She took the broken glass from his hand with the reverence of someone handling a treasure, her fingers lightly brushing his in the process.
+
+"If you need anything else, Lord Stonecrest, please don't hesitate," she said warmly, and left him with a slow turn that offered considerably more of herself than the moment required before walking away, casting him one last cheeky smile.
+
+Caelan remained stone-faced, unfazed by the woman's attempts at seduction. Luckily, his sister had warned him about these vixens before he attended this ball.
+
+They are either spies from rival houses hoping to overhear something useful, she had said, or they are hoping to extract something from you personally. Their most likely goal will be your Qi-dense seed to sire a child with pure spirit roots. After that, they will go after your wealth. Assume the worst and avoid them at all costs. I've seen far too many lesser nobles fresh out of a decade-long cultivation session falling for their schemes.
+
+He picked up a fresh glass from the long table beside him, took a sip he didn't taste, and turned his attention back to the room.
+
+The hall was filling quickly.
+
+The noble houses of Empyrea had dressed for the occasion. Silks that rippled with contained Qi served as backdrops for jewelry adorned with spirit stones, far too valuable to wear casually. Hair sculpted so perfectly that it wouldn't shift in a hurricane. Caelan recognized most of the sigils. House Vayne in silver and deep blue, clustered near the eastern pillar with the tight, inward posture of a family that had decided not to involve itself with anyone else.
+
+House Larsen's Patriarch, an old man who'd held his position forever, had sent his eldest son instead—a fact Caelan noted with interest. The eldest son was drinking something and trying to appear relaxed. He was failing. This was supposed to be the largest ball of the century, and all Monarchs had been asked to attend. So what was he doing here?
+
+Caelan's gaze swept across the rest of the Empyrea noble families, not recognizing many besides their houses' sigils. Finding nothing else of interest, he focused on the Canopy factions, which had arranged themselves along the hall's northern wall, as far from the Empyrea nobles as physically possible.
+
+The Luminarch Conclave's representative was easy to identify, despite not being as familiar with the Canopy, thanks to the blinding white and gold robes and the pointed ceremonial hat, which their upper ranks seemed to wear as a point of pride rather than practicality. Everyone also seemed to be glancing at them, for good reason.
+
+Their Monarch, Verath Tindrel, was assassinated by the Covenant, shocking everyone in the Celestial Empire. In his place, a woman he was unfamiliar with was the center of attention. She hadn't spoken to anyone since arriving and was looking up at the World Tree's roots with the focused reverence of someone praying.
+
+Nearby, the Stratospire League's leader towered over everyone, proudly wearing his stormglass armor as if ready for war despite the formal setting. Only his helmet was missing, exposing his scarred bald head and missing eye.
+
+"You look like a man attending his own funeral."
+
+Caelan turned. The speaker was perhaps forty years of apparent age, with the kind of narrow face that made him look like a shrewd man. He wore the burgundy and gold of a house Caelan couldn't immediately place—likely a smaller family, not one of the hundred major names. A silver ring sat on his right hand with no house insignia, which was unusual enough to be intentional.
+
+"Sorry, I'm not good at jokes," the man continued.
+
+"I don't think we have met," Caelan said cautiously.
+
+The man smiled, unbothered. "Fen Orvane," he said, extending a hand. "Seventh son."
+
+Caelan shook the offered hand. "Caelan Stonecrest," he said, finding it odd that Fen's palm was damp. "I've heard good things about your family. Loyalists to the Chairman, if I recall correctly."
+
+The man curtly nodded. "Not as popular a position recently with that upstart dark gods' filth and savagery at our borders."
+
+And with the Chairman missing, Caelan silently thought while withdrawing his hand. Fen's hand had been oddly sweaty, and now that he looked closer, the man seemed nervous about something as sweat beaded on his forehead.
+
+"Is anyone else from your family here?" Caelan asked, glancing around and not seeing anyone wearing the same clothes as Fen in the sea of silk cloaks and wealth.
+
+Fen nervously chuckled. "No," he said, taking a big swig from his cup of spirit wine. "I was sent here. Alone." His tone was sharp and full of betrayal.
+
+"A sacrifice then?" Caelan said, half-joking. While he didn't expect anything to go down with all the Monarchs in attendance and the Crowned One presiding over the ball. But with members from the All-Seeing Eye attending, a fight wasn't out of the question.
+
+His joke seemed to startle Fen. He narrowed his eyes and said in a hushed tone, "You know."
+
+"Know what?" Caelan said evasively, hiding his expression as he sipped his wine.
+
+"The true meaning behind this ball," he leaned closer and hissed between his teeth. "The purge. That's why you're attending instead of Aldric Stonecrest, right?"
+
+It would seem my father's death hasn't spread yet. Caelan thought and said nothing, which Fen apparently took as confirmation.
+
+Perhaps thinking he was an ally, Fen now seemed eager to share. "If you are aware of the ancient purges, do you know of the true horrors that occurred in these halls? I overheard my Elders speaking about it before sending me here."
+
+"Enlighten me," Caelan said.
+
+Fen was quiet for a moment. Then he nodded toward the hall's walls—toward the grand golden patterns that wound between the carvings and the root columns, catching the fungal light in long, branching lines.
+
+"People say those golden lines are decorative," he said. "Old artwork. Ceremonial runes, maybe." He took another drink, slower this time. "Do you know what else is gold?"
+
+Caelan followed his gaze. The patterns were everywhere—broad sweeping arcs and fine fractal lines, spreading across the marble in formations that looked almost frantic up close.
+
+"The blood of Monarchs who feast on the World Tree's sap," Fen said quietly. "Those markings are not art. They were left by dying cultivators trying to claw their way out of this hall the last time an ancestor called a gathering. This place serves as their grave."
+
+Caelan looked at the golden lines on the wall for a long moment as the loud ambiance of the hall drowned them out. Thousands of overlaid conversations, the clinking of glasses, and the laughs of cultivators who believed they were above all. Caelan eventually looked at Fen in disbelief.
+
+Just what kind of nonsense stories did this fool believe? This hall served as a grave for Monarchs? Such events, if real, would be more widely known. Monarchs didn't just die without leaving behind a broken and angry family. He would know.
+
+"You don't seem convinced," Fen said, eying him. "But I promise you, it's the truth. Enjoy that spirit wine, it might be your last."
+
+A loud gong suddenly echoed through the room, commanding everyone's attention toward an immense marble staircase that led to the surface. The Chairman's famed griffin unhurriedly glided inside and set down at the base of the stairs with the sound of talons on polished stone. It spread its majestic wings and enjoyed the admiration of everyone in the hall.
+
+From its back, three figures floated down.
+
+Firstly, there was a towering shadow angel, wielding a scythe and shrouded in darkness. Its appearance seemed to send a murmur through the gathered nobles and outrage from the houses responsible for defending the border.
+
+Next was a six-armed, headless monstrosity that was also oddly tall, made all the more uncanny by its lack of a head. The two creatures of darkness that Caelan estimated were as strong as he was took their place on either side of the griffin, leaving a space for the third figure.
+
+A woman wearing an unassuming, tattered black cloak, etched with golden eyes, appeared in a flash of white between them, earning gasps from the crowd. She slowly reached up and pulled back her hood, exposing a young blonde woman of celestial beauty who possessed the eyes of a killer.
+
+Caelan's breath left him. He recognized her.
+
+He hadn't gotten a clear look at her face in the ritual chamber. It had been dark, and she had been half-shrouded in shadows, and he had been chained to a stone disk at the time. But there were other things he recognized. Namely, her pale pink-white eyes and faint fractal lines on her neck.
+
+"Introducing Stella Crestfallen," a cultivator announced, their Qi-amplified voice carrying to every corner of the hall. "Daughter of the All-Seeing Eye, and invited guest of the Crowned One."
+
+Beside him, Fen had gone rigid.
+
+Caelan said nothing. He looked at the woman who had killed his father, destroyed his father's infant soul, torn Elder Maro's head from his shoulders, freed him from his chains, left pills worth more than his family's treasury on the floor beside him, and told him to attend the ball if he wanted to learn her name.
+
+He had her name now.
+
+But there was someone notably missing, made all the more stark when Stella Crestfallen ignored them all and stared straight ahead—at the empty throne in the room's center.
+
+The Crowned One was missing from his own ball.

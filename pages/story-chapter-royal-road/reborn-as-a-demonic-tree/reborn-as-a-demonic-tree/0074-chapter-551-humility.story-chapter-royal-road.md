@@ -1,0 +1,167 @@
+---
+id: d1ea390b-cae2-5b3b-ac4d-d0d1284ef5b4
+page-type-slug: story-chapter-royal-road
+title: "Chapter 551: Humility"
+slug: 0074-chapter-551-humility
+partOf: reborn-as-a-demonic-tree
+position: 74
+ownLength: 2945
+unit: words
+publishedAt: 2026-03-27
+link: "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3201074/chapter-551-humility"
+royalRoadId: "3201074"
+---
+
+Stella was already in a bad mood. Ash was currently battling the Celestial Empire to free her mother and had even slaughtered one of the Empire's Monarchs without her! If that wasn't bad enough, she had been sent away to the Eternal Realm again and wasn't permitted to return until she reached the Monarch Realm, which sucked. She was currently at the 7th stage of the Nascent Soul Realm, so she was going to be here a while.
+
+At this rate, I might as well see this place as my second home with how much time I'm going to be spending here, Stella thought as she made her way through her house and ignored the stares of the people. Kael had filled it with useless stuff that she didn't care for and people she didn't know. I never wanted any of this. Just a bed and some cute hanging plants would have been enough! I know I didn't tell him that, but he should have known better!
+
+Stella huffed in annoyance and reluctantly calmed down. I can't get too mad since I was the one who gave him the funds in the first place and asked him to do it—even if I had forgotten about it. Note to self, I have to provide more detailed instructions—or perhaps just do it myself in the future.
+
+Kael was a good lad, and she liked him. There was no need to get so worked up over nothing. Assuming he kicked everyone out by the end of the day, otherwise heads would start rolling.
+
+"Princess! I've been wanting to meet you—"
+
+"Not now," Stella snapped at the random cultivator posted by the door. She forced herself to breathe, smoothing her expression as if irritation were something she could simply mask. Without sparing the guard a glance, as they would be gone by the end of the day, she stepped through the portal with the fake confidence of an empress.
+
+Space twisted. The grip of the spatial-enlarging arrays fell away, and the world snapped back into place on the front lawn of her estate—where a crowd was already waiting. Tessellate cultivators stood in a loose line across the grass, and at their center was Thalos Tessellate.
+
+"What is the meaning of this?" Stella said firmly. Her spatial ring flashed, and a Mystic Realmwarp fruit materialized in her hand. The sight of it made every cultivator before her flinch, and some even took a step back, which confused her.
+
+Why would they be scared of the fruit? She thought for a moment, and then it dawned on her. The last time she brought it out, the void saved her. Perhaps they associate this fruit with Khaos? Do they think I use this to call upon her?
+
+Their reaction made her smirk. Something about cultivators who were realms above her reacting in such a way brought her great joy. Her posture straightened on its own, chin lifting as she looked down her nose at them. "Well? Does the Tessellate family have a problem with my return to this place?"
+
+"Of course not, Princess." Thalos Tessellate swallowed and stepped forward, carefully keeping his hands visible and away from the folds of his cloak. "Please don't misunderstand. I didn't gather my family here to threaten you—quite the opposite, in fact." He motioned to those beside him. "I've brought the greatest Array Masters and cultivators with the deepest understanding of the spatial dao in the Citadel before you. They wish to assist you in your endeavors while you're here."
+
+Stella kept her face smooth and her stance relaxed, but inside, she was deeply suspicious. Besides the odd claim that the most talented in all areas happened to be part of his family, the Tessellates didn't need to do this. She would have been perfectly happy to be left alone. Which meant they wanted something.
+
+What are you scheming? Stella pondered, searching Thalos's expression. None of the other cultivators reacted to his words, indicating they had already discussed this act of service toward her.
+
+If they genuinely believed her lies and thought she was a princess from a higher layer of creation, then perhaps they wanted a favor, protection, leverage—something. Whatever it was, it had to be big to get these proud cultivators to offer themselves. Not knowing what it could possibly be, she said nothing. She simply held Thalos's gaze and stayed silent.
+
+Thalos didn't wait for her reply and swiftly filled the silence. "While these fine people are ready to support you during your stay," his smile thinned with polite curiosity, "I'll need to know how long you're planning to remain this time to make the proper arrangements."
+
+There it is. Stella's lips curved. The reason for his 'kindness' had been revealed.
+
+"Keen to get rid of me as quickly as possible this time around, Thalos?" she said lightly. Before he could rush out an explanation, she kept going. "Don't worry. I don't want to be here any more than you want me gone." She shrugged. "I'll be out of your hair the moment I climb a few stages…and a realm."
+
+Thalos looked ever so slightly displeased with her response but hid it quickly.
+
+Stella wasn't so kind as to let such a reaction go.
+
+"It seems my answer displeases you, Thalos?" she said, with a hint of disappointment in her tone. "Are you perhaps worried that such a goal means I will be here for many years?"
+
+Thalos pondered for a moment before slowly nodding. "Princess, your presence cuts off our connection to the mainland. While we have made preparations in case of your return and bolstered our stores, to climb multiple stages and ascend an entire realm will stretch us thin."
+
+Stella crossed her arms below her chest and eyed Thalos. "How long will these stores last, exactly?"
+
+"A year or two—"
+
+Stella scoffed. "You think I'll remain in this prison of yours for a year? I'll be out of here within six months, at the latest. I don't know how long it takes you lot to cultivate, but I'm not one to suffer bottlenecks." Her tone was rather smug as she summoned her aether-soul flames—so pure they seemed almost mythical—to dance along her shoulders to prove her point. "See? These soul flames are the result of the resources my father provides me, which are the finest in all the realms."
+
+In the face of her arrogant display of superiority, a brief stillness fell over the lawn, followed by sharp intakes of breath. Amazed remarks rippled through the gathered cultivators, and even Thalos couldn't entirely hide the admiration that crossed his face.
+
+Stella felt a swell of pride—but not in herself. It was pride in Ash's capabilities. Everything they were witnessing was made possible by the fruit and truffles he grew.
+
+I wish you could see their faces right now, Ash. Even to cultivators of the sixth layer of creation, you are incredible! Not wanting to stop here, an idea crossed her mind.
+
+"How about this," she said, clapping her hands and dismissing her soul flames, "I will not accept your assistance for free. I'll gift pills made by my sect to anyone who assists in my ascension as a reward."
+
+That earned an immediate reaction, but Stella wasn't done showing off. On her last visit, she'd confirmed that unattuned spirit stones of any affinity were scarce in the Citadel—and across the sixth layer of creation—likely because the ambient Qi here was far denser than on the ninth layer where she came from. As a result, high-grade spirit stones that were mere currency on the ninth layer became priceless treasures to them.
+
+"Just to show that I'm serious, here's a small gift as an apology for causing trouble until now." Clicking her fingers, thousands of high-grade spirit stones spilled out onto the lawn at her feet as if they were trash to her. In truth, this was probably what she made from the Ashfallen Trading Company in a few days.
+
+The Tessellate cultivators exchanged a glance before dismissing their dignity and rushing forward at the sight of treasure like starved dogs, scrambling over one another as they fell to their knees and began scooping up the spirit stones with excitement. Despite all their strength, this was the fate of those living out their lives on a deprived rock.
+
+While the Tessellate family was practically groveling at Stella's feet, only Thalos remained unfazed at the sight of treasure and held her gaze.
+
+Stella sweetly smiled at him.
+
+The Citadel's leadership was now under her thumb, and Thalos knew it.
+
+She was about to turn and head back inside when Thalos's stern voice cut through the air. "Stella," he said, grabbing her attention. "My father and many of the Elders on the mainland were wondering if they could meet you."
+
+"Meet me? Like, hold a meeting?" Stella inquired.
+
+Thalos nodded. "After hearing the tales of you and your father's capabilities, my family insisted on meeting. It could be held here or there, so long as your father drops his hold on the pocket realm."
+
+Stella frowned. She wasn't sure if Ash was capable of lowering his hold on the pocket realm, as that was what allowed her to stay here.
+
+Thalos seemed to misunderstand her expression as he added, "My father was even willing to offer family heirlooms and other resources should you approve the meeting—"
+
+"I'm not interested in meeting a lower family," Stella said curtly, shaking her head. Even if Ash could let her visit the sixth layer of creation, she hated meetings and doubted anything they could offer her would make it worth it.
+
+"I'm afraid I must insist," Thalos said, his eyes unwavering. "We don't want to make an enemy out of you, but my family believes you are our only hope. If I don't make an effort to set up this meeting, my family will be very displeased with me."
+
+How annoying, Stella thought. All of the cultivators from the Tessellate family were stronger than her, with most being in the Sovereigns of Reality Realm. While her act had held up until now, and they clearly feared Khaos to some extent, if she pushed back too hard and they decided it was worth testing her father's true reach, and found it lacking, she might be killed. Ao will take the hit, potentially buying enough time for me to consume the Mystic Realmwarp fruit. But I'm unsure as to the capabilities of someone in the Sovereigns of Reality Realm. For all I know, they might be able to freeze me in place with a mere thought, preventing any possible escape.
+
+"I can ignore anything you do, princess," Thalos said while subtly gesturing to his family. "But this meeting must happen if you wish to stay here," he then bowed deeply, "Please."
+
+Stella faltered in the face of such humility.
+
+However, that didn't change the fact that his request was simply impossible. Stella wasn't the person they believed her to be, and Ash didn't have the capabilities they wanted him to possess. Attending such a meeting, especially with the head of a family based on the sixth layer of creation, would only spell disaster.
+
+She pretended to think very hard for a while before reluctantly agreeing. "Fine, we can have a meeting after I've finished ascending. Before then, I wish to avoid such useless distractions."
+
+Thalos respectfully straightened and cupped his hands before him. "I give you my thanks."
+
+"No problem," Stella said, with utterly no plans of following through with it. She would be out of here with Kael the moment she reached the Monarch Realm. "Everyone, follow me," she said, entering her home. If the Tessellate family were so kind as to lend her their expertise, she would make use of it.
+
+***
+
+Kael managed to finish cleaning off the human smear that had once been Jared on the white fur carpet. Even now, he was still in disbelief. Just like that, a Nascent Soul Realm cultivator who had been threatening his life had been crushed like a bug.
+
+Just grow a spine.
+
+Stella's words, alongside her look of disappointment, had been burned into his mind. The worst part about it was that she had been right. If he hadn't folded under Jared's pressure and had been assertive from the start, the fight might never have happened. Hell, he should have called on the house's security he had hired to do their jobs and have them kick him out. Maybe that would have elevated their opinion of him and impressed Stella, who had been secretly watching from outside.
+
+"I need to become mentally stronger for Stella to keep me as a friend," he muttered, glancing around the destroyed room. He found a mirror positioned in the corner of the room and went to stand before it. The mirror was severely cracked, but he could still see his reflection. A handsome man, with sharp features, deep grey eyes, and wavy black hair parted in a curtain, stared back at him. Even now, he failed to recognize himself. The truffles Stella had given him and his quick leap in cultivation had done wonders for his previous appearance.
+
+All he needed now was the spine to match his looks.
+
+Smacking his cheeks and hardening his expression, he strode out of the office. As per Stella's request, it was time to kick everyone out. Tapping into the house's formations, he teleported to the main room in a theatrical display of spatial Qi. It was the grandest of them all, and also where Stella had done her last ascension. He had arranged for the hole in the roof to be turned into a skylight, and the remnants of the old formation had been replaced with tile to immortalize it and create a unique flooring. The half-destroyed obelisks that had formed part of the old array were still there in a circle, serving as the backrests for a ring of chairs around a large table.
+
+He saw many robed cultivators sitting in the chairs.
+
+Kael clapped his hands loudly, and the sound echoed through the vast space. "Everyone, the Princess has returned and wishes for her house to be vacated. You must all leave." The figures didn't move, so he strode over. "Hey," he said sternly, "I said move it."
+
+One of the seated figures glanced over their shoulder at him.
+
+It was an Elder he recognized from the Tessellate family.
+
+"Oh, I wondered who was making such a ruckus. It's you, Kael," the Elder said, sounding amused. "Is there a problem?"
+
+The old Kael would have immediately apologized and groveled for shouting at an Elder of the Tessellate family to leave. However, that meek version of himself died in that office. He was not some random Rift Born, he was Kael, friend of a god's daughter. There was also the chance that Stella was lurking in the shadows, watching and judging how he acted.
+
+"Do you have the Princess's permission to sit here?" he asked without faltering, despite his instinctual desire to.
+
+The Elder raised a brow. "Yes, I do. She invited us in, as we are here to assist her during her stay."
+
+"Then obviously my announcement wasn't for you," Kael said and strode away, leaving the dumbstruck Elder in his seat. He soon came upon a gathering group of Rift Born he had hired.
+
+Sending them away was going to be difficult, but when he imagined all of them having the same motives as Jared, it became easier.
+
+"You're casting us out, Kael?" one of the first guys he ever hired said, a look of betrayal on his face.
+
+"Not quite," he half-lied as a small group gathered around him, and tensions rose. "The Princess currently does not require guards, as the Tessellate family themselves are assisting her, and she brought a Monarch Realm servant with her. She also requested that all the decorations be taken down to make space for arrays she wishes to build. Therefore, casting you out is a harsh way of putting it. It's more like you have all become redundant. This was all supposed to be temporary anyway, while the food shortage lasted."
+
+"Does that mean the food shortage is over?" another asked.
+
+"The Princess will see that it is," Kael said. Now that he had a better understanding of her personality and priorities, he knew she would either pressure the Tessellate family into releasing the food they were supposed to, or she would buy it if it meant the people left her house quickly and on good terms.
+
+Kael looked at each person in the eyes one by one. "I truly wish you all the best and will be in touch if any more work comes up. But for now, this is goodbye," he gestured toward the door. "Please take care of yourselves."
+
+In return, he got some harsh stares, but they all left reluctantly. Letting out a sharp breath, as that had been more nerve-racking than he could have ever expected, he turned around and swore his soul almost left his body as he found Stella silently standing there.
+
+"You looked kinda cool there," she said and smiled. "Keep it up."
+
+"Uh—oh, thank you," Kael said and cursed himself for being so jumpy.
+
+Stella gave a curt nod and left toward the waiting Tessellate family. He spent a few moments watching her figure before getting ahold of himself.
+
+That's when the words of the Elder finally settled in.
+
+Wait, didn't the Tessellate family come to start trouble? How come they are willingly assisting her?!
+
+That's when Kael truly realized the difference between himself and Stella.

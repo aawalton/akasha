@@ -1,0 +1,279 @@
+---
+id: 0f3312e8-55fc-5572-9ad6-ddc0c5b94cd1
+page-type-slug: story-chapter-royal-road
+title: "388. Names and Stuff"
+slug: 0052-388-names-and-stuff
+partOf: salvos
+position: 52
+ownLength: 2265
+unit: words
+publishedAt: 2022-07-18
+link: "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/951323/388-names-and-stuff"
+royalRoadId: "951323"
+---
+
+388. Names and Stuff
+
+The city of Hemigus was a relatively small city in the Helbir Plains. That meant that it was more akin to a town in other parts of the Human lands. They didn’t produce much. They had some farmlands and a few forests nearby which let them export a few basic necessities, but they weren’t a large textile exporter like Alyras was or a military state like Dolonia. Hemigus was small. Comparing them to those large nations was like comparing a Nemeria to the Vaun Qieur Empire.
+
+And if you hadn’t heard of Nemeria before, neither had Halae until a delegation from Nemeria passed through Hemigus a day ago. They were a small nation in the Alterian League down south. Unlike the Helbir League, the Alterian League was far less of a stringent coalition. Odra, the leader of the Alterian League, hadn’t organized a single representative force on behalf of the Alterian League for the meeting in Alyras. Instead, Odra had sent a few of their own dignitaries as did the other countries in the Alterian League.
+
+Regardless, Hemigus was small. And Halae had lived out most of her days being a simple [Trader]. She sold meat and poultry from her father’s farm for a few copper coins per pound. There were more travelers passing through Hemigus than usual over the last few weeks, so business was booming. Today, she’d even brought a surplus of goods from the farm to town.
+
+Except… as the sun set in the horizon, and the day came to an end, she hadn’t even sold half of her stock.
+
+“This sucks…”
+
+Halae sighed as she leaned against her stall. A chuckle drew her attention. She stared at the stall across the street as a rotund man laughed at her.
+
+“What’s wrong, Halae? Seems like you were too overzealous today.”
+
+“Shut it, Dimi. You didn’t get many sales either.”
+
+Dimi was her, well, rival. Or her father’s competitor. Not that she cared too much about their rivalry. He liked to agitate her, and she usually ignored it.
+
+“I was prepared for this. I didn’t overstock my shelves. Let this be a good lesson for you: for every good harvest, a bad one comes right after.”
+
+He sneered at her, and that annoyed Halae. Not because of the way he spoke, but because he was right. She was overeager. Her father had told her so. But she insisted— told him that it was a brilliant idea. And she was wrong.
+
+Halae gritted her teeth. She was not in the right mind to deal with this. She was about to snap at Dimi when a shadow passed over the sky. A few heads turned. Both [Traders] and customers looked up as a figure descended. Quickly.
+
+A woman screamed and fell back as a flash of light crashed before them. Halae herself stumbled back, reaching for a machete her father had her carry with her at all times. But as the dust cleared up, a young woman’s voice piped up.
+
+“Hi! I’m Salvos!”
+
+A girl with silver hair looked around the market street. She had wings made of blue fire, and a blue jacket that looked like it was made from out of this world. After scanning the area for a minute, her gaze landed on Halae.
+
+The [Trader] flinched. She pulled out her machete, but Salvos just leapt forward. She ran a hand through the entire stock of meat and poultry as she spoke cheerily.
+
+“I’ll be taking all this!”
+
+“Wait, wha—”
+
+Halae started, but blinked as her entire stock vanished in an instant. It was nowhere to be found, and the [Farmer]’s daughter just stared.
+
+“How…? I—”
+
+“Thank you. Here you go!”
+
+Salvos threw a handful of gold coins at the [Trader]. Halae looked down at the glinting objects, eyes wide.
+
+“This is… I can’t take it—”
+
+But Salvos didn’t listen. She spread her wings wide and grinned.
+
+“Gotta go now! Bye!”
+
+“Wait!”
+
+Halae sputtered, but the silver-haired girl flew off. The dust hadn’t even cleared yet. The passersby all just stared in shock and confusion. Dimi’s jaw dropped. Halae closed her eyes.
+
+“What the fuck just happened?”
+
+I decided that buying food was probably the best way to feed the Wyvern babies. I mean, I could’ve hunted down the [Mammoth Boars] myself, but when I got to them and heard their terrified voices—
+
+“Please don’t eat me!”
+
+“I taste terrible!”
+
+“We’re so sorry!”
+
+—I decided that I might as well just grab a few already-dead animals and feed them to the baby Wyverns instead. It wasn’t that I thought it was wrong to kill them after they’d tried to attack me earlier. I just felt a little bit bad for them. Only a little. Honestly, I could’ve killed them and forgotten about it a minute later. But at that moment, I decided that since I had a lot of money, I should just spend it.
+
+And I did. So I returned back to my fractal dome, passing through my semi-pocket space as I waved a hand.
+
+“Alright, I’m back—”
+
+Right as I stepped through, a gray object whizzed straight at me. I caught the rock and blinked a few times. I stared at what I saw on the other side. Willy was flying around in a panic as the three baby Wyverns were scattered throughout the valley. One of them was climbing the cliffside at a ninety degree angle, while another was burrowing into the earth like she was a mole. The third was standing on his head, looking at me while upside down.
+
+They all turned to look at me, stopping what they were doing. The Wyvern baby climbing the wall dropped, and Willy barely caught him. I looked over at the [Will O’ Wisp].
+
+“Um, seems like you’ve been doing a good job…?”
+
+I scratched the side of my head— and the babies all  began bawling all at once.
+
+“Wait, why are you guys crying?”
+
+“Human!”
+
+Willy yelled back at me. I paused. I looked down at myself and realized what was wrong. I was in my Human form. I had transformed out of my Wyvern form to not scare the Humans in the nearby city, but I’d forgotten to change back when I arrived here.
+
+“Oops. Look, it’s alright! It’s me!”
+
+I tried to wave a hand placatingly, but they all cried even louder. Willy scoffed.
+
+“Idiot! Change!”
+
+“Give me a moment—”
+
+I stepped back as my body shifted. There was a crack. The world around me shrank as I stood taller. My wings joined with my arms and my five fingers merged into only three talons. My pale skin was replaced by a silvery hide and my jaw elongated into a vicious maw. I was back in my Wyvern form now, and the babies halted their crying.
+
+I smiled uneasily at them.
+
+“It’s me, see?”
+
+I wasn’t sure how they would react. I fully expected them to begin crying again. But to my surprise, they waved their little nubby hands in the air in excitement, chorusing.
+
+“Mama!”
+
+They got back up and ran to me. Well, it was more like a slow waddle. One of them even tripped before picking himself back up. They hugged my legs as I looked down at them.
+
+“Um, there, there?”
+
+I slowly patted them on the head. The three baby Wyverns just cuddled up to me. I wasn’t sure what to say or do. But Willy flitted up to me and met my gaze.
+
+“Food?”
+
+“Right, I got this for you guys.”
+
+Bringing a hand up, I summoned all the meat I’d bought off that [Trader] in the city. I lowered the food for the little trio at my feet. Their eyes went round as their mouths salivated. They instantly pounced for it. The three of them fought over who’d get to eat first, pushing each other aside as they grabbed the various meats off my hands.
+
+I watched them scarf it all down with little-to-no regard for manners. Willy snorted next to me as I smiled.
+
+“They’re ravenous, aren’t they?”
+
+Then I made a face of disgust.
+
+“Gross.”
+
+The three Wyvern babies quickly finished all the food I’d brought them. They drew back as a growl left their stomach. I frowned, and they covered their stomachs with their arms and looked at me sadly.
+
+“Wait, are they still hungry?!”
+
+Another growl from their stomachs confirmed that, yes, they were still starving. I threw my wing-arms into the air.
+
+“But that’s everything I’d bought!”
+
+“Not enough.”
+
+Willy sighed. I scowled. I glanced around, back out of the dome. Unfortunately, I couldn’t sense those [Mammoth Boars] nearby anymore. They’d most certainly evacuated the vicinity entirely. Maybe they might never even return ever again.
+
+I sighed.
+
+“I’ll go look around—”
+
+Right as the words left my mouth, I heard a little roar. One of the baby Wyverns— the first to be born— lunged at something dashing through the tall grass. He caught a little gray thing, squirming in his hands. I leaned over his shoulder.
+
+“That’s…”
+
+It was a bunny rabbit. It struggled and struggled but it was locked in his grip. I cocked my head.
+
+“Are you going to eat that?”
+
+He nodded back at me as he held up the bunny for his siblings to see. Their eyes widened. They scanned the grass and began hunting for little critters to eat too. I watched this hesitantly.
+
+“Should we let them do that?”
+
+I asked Willy. The [Will O’ Wisp] faced me curiously.
+
+“Why not?”
+
+“I dunno.”
+
+I shrugged. I didn’t want them to be wild. But I guess they needed to eat to survive, so that wasn’t really being wild. Being wild was simply killing anything and everything— which they clearly weren’t doing. I watched on as the first baby Wyvern held up the rabbit. I fully expected him to eat the bunny whole, but instead, he poked it on the side.
+
+That made me pause. What is he…? And sure enough, he began poking the bunny as it struggled in his grip. He bared his teeth in a smile as he began tugging at the bunny’s limbs, drawing blood, but not killing it just yet.
+
+“Hey! What are you doing?”
+
+I stopped him. His siblings paused in their hunt. They all looked up at me, puzzled. I took the bunny from his hands and crossed my wing-arms.
+
+“If you’re just gonna eat it, don’t play with it! It’s not a wild thing— it didn’t try to hurt you, did it?”
+
+The three baby Wyverns stared at me, confused. The eldest sibling shuffled his feet and averted his gaze.
+
+“Y-yes?”
+
+I glared at him.
+
+“Don’t lie to me.”
+
+He lowered his head quickly and amended his statement.
+
+“N-no…”
+
+“Exactly! If this bunny was wild— if it tried to hurt you— sure, you can play around with it a little bit. But if you’re just eating it, do it quickly! There’s no need to do all this.”
+
+I gestured at the bleeding bunny. The three Wyvern babies lowered their heads ashamed. I set the bunny back down as it cowered there. I gestured for them to feast on it.
+
+“Alright, now that you understand that, go ahead.”
+
+I waited for them to fight over the bunny as they fought over the food I’d brought them, but instead they just stood there like statues. The bunny looked around apprehensively before taking a hop. When nothing attacked it, it escaped into the tall grass. I blinked.
+
+“Wait, why didn’t you guys stop it?”
+
+The three Wyvern babies exchanged a glance. They spoke at the same time.
+
+“Not hungry.”
+
+“Tired.”
+
+“Mama…”
+
+The third baby Wyvern still didn’t have much to say, unlike his two older siblings. I stared at them, befuddled.
+
+“Are you guys being serious right now?”
+
+They all nodded and walked up to my legs again. This time, they didn’t just hug me. They cuddled together, curling up into little balls as they yawned.
+
+“Wait, why are you guys sleepy all of a sudden?”
+
+I spoke in disbelief, but the baby Wyverns didn’t answer. They were already snoring at my legs. I tried to work my jaw. Willy flew down, shushing me.
+
+“Shhh, don’t wake them up.”
+
+“Right…”
+
+I looked at them all lying there. I slowly lay next to them, putting a wing-arm over them. Sighing, I spoke exhaustedly.
+
+“Children are hard.”
+
+“They are.”
+
+Willy agreed. He landed right on my cheek, staying silent for a moment.
+
+“Names?”
+
+He finally asked when the three Wyvern babies quietened down, even in their snoring. I eyed him.
+
+“Oh, I actually thought about it earlier. How about—”
+
+I gestured from the first baby Wyvern to the last, in order of their birth. The boy, the girl, and the other boy.
+
+“Let’s name them Novis, Bellum, and Oriur.”
+
+Willy looked at me quizzically.
+
+“Why?”
+
+“Well, they’re Demon names, right?”
+
+“That’s it?”
+
+“Can you come up with any better names?”
+
+He hesitated.
+
+“No.”
+
+“Exactly.”
+
+I grinned back at him triumphantly. He didn’t say anything. The sun had already set a while ago. It was dark— the moon was high in the sky and the stars twinkled in the dome above. I closed my eyes.
+
+“We’re gonna be really busy for a while, huh?”
+
+“Yes.”
+
+“I do hope nothing exciting happens while we’re gone.”
+
+“Probably.”
+
+My eyes snapped open, and I peered at Willy.
+
+“Wait, is that a ‘probably not’? Or a ‘probably’, as in ‘something will probably happen’?”
+
+“Yes.”
+
+“Huh.”
+
+Somehow, that both did and didn’t make sense, but I agreed with it anyway.

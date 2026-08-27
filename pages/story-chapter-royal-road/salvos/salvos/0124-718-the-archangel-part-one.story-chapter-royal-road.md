@@ -1,0 +1,147 @@
+---
+id: a2a35082-c595-5f97-a8de-ee8180859383
+page-type-slug: story-chapter-royal-road
+title: "718. The Archangel Part One"
+slug: 0124-718-the-archangel-part-one
+partOf: salvos
+position: 124
+ownLength: 1431
+unit: words
+publishedAt: 2024-11-02
+link: "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1881398/718-the-archangel-part-one"
+royalRoadId: "1881398"
+---
+
+718. The Archangel Part One
+
+Edithe saw the figure from a distance. It was hard to miss. It was practically glowing, wreathed by flakes of iridescent light. Eight feathered white wings protruded from its back, attached to a golden figure that resembled the vague shape of a person.
+
+And it looked to be completely naked, but without any discernible body parts that would normally be hidden by clothing. This was unlike the [Angels] across from it that wore various kinds of armor. Or rather, they seemed to have different kinds of armor— such as helmets or breastplates or gauntlets— merged with their body.
+
+A single golden halo floated atop the head of the golden figure. And from afar, Edithe was certain she could make out the shape of a face… somehow. It didn’t make sense to her. Her vision was not this good. And yet, she could see the crazed joy on the golden figure’s face.
+
+Without even gleaning anything from her [Identification], Edithe knew that this was who she was searching for.
+
+It was the Archangel.
+
+“What’s it doing?”
+
+Edithe asked, glancing between the Archangel and the dozens of [Angels] floating before it. She turned to face the fortress of diamonds down below.
+
+“And what is that?”
+
+The redhead narrowed her eyes, and Willy sighed.
+
+“That… that is why the Spirit Plane is not paradise.”
+
+“What do you mean by that?”
+
+Edithe frowned at the [Will O’ Wisp]. But Druma raised a hand, silencing her.
+
+“I apologize for interrupting you, master. But we need to be silent. And we need to stay low. We do not want to be found by those [Angels].”
+
+“Right…”
+
+Nodding, Edithe decided to save the questions for later and observe for now. And as she watched, the Archangel moved, raising a hand and creating a longsword out of the iridescent aura coating him.
+
+“Hey, you ugly bastards!”
+
+The Archangel exclaimed as its voice reverberated throughout the flatlands. Edithe couldn’t quite discern the Archangel’s gender through its voice. It sounded like it was both a male and a female at the same time.
+
+Her mind almost couldn’t comprehend it.
+
+The [Angels] tensed as they heard the Archangel speak. But they didn’t attack. Instead, they waited as it continued.
+
+“I’m giving you one chance like I gave the others before I slaughtered them all— surrender, or die!”
+
+Edithe looked on as the [Angels] exchanged hesitant glances. Then they raised their weapons, aiming back at the Archangel. One of the [Angels]— a female-presenting [Angel] with a helmet covering her face, and the highest-leveled of the gathered [Angels] at Level 198— raised a spear and spoke up.
+
+“We will die before we submit to you, traitor!”
+
+“Traitor? Haha…hahaha…HAHAHAHA!”
+
+The Archangel burst out laughing as it wiped a nonexistent tear from its eyes. But a moment later, it immediately wore a serious expression as it brought a hand to the air.
+
+“Die.”
+
+And the flakes of iridescent light wisping off him suddenly shot out. It rained down upon the [Angels] as they braced themselves for the onslaught of attacks. Some of them created their own barriers, while others brought their weapons up to parry the falling shards.
+
+Unfortunately, for the weakest of the [Angels], they weren’t able to weather the initial attack. Their weapons shattered from the rain of shards, before their bodies were ripped apart. Even though they were Sacred Spirits, they were killed so easily.
+
+But the Archangel was not finished with just that. It laughed wildly as it immediately shot down a moment later, swinging down at a Level 188 [Angel]. The [Angel] tried to parried the swing, but his weapon shattered from the strike. And in a single slashed, the [Archangel] killed him.
+
+“You’re all so stupid! Seriously, you’re sacrificing your lives for a lord who doesn’t even care for you!”
+
+The Archangel flew down at another [Angel] and struck it down with a simple swing. It almost looked like the Archangel wasn’t even trying. It impaled a Level 180 [Angel], before decapitating a Level 177 [Angel] with the next swift motion.
+
+None of the [Angels] looked like they even stood a chance against it. Even still, the Level 198 [Angel] didn’t seem to falter at the sight of her companions perishing one after another. Instead, she raised her spear as it glinted with the same iridescent light that coated the Archangel.
+
+“[I Shall Pierce The Stars]!”
+
+The Level 198 [Angel] shouted as she shot up straight for the Archangel. It was distracted with another Level 190 [Angel] that put up a fight for a moment, managing to block two strikes, before being cut down.
+
+And the Archangel spun around just in time to block the Level 198 [Angel]’s attack. When their weapons clashed, the world itself seemed to ripple, before glittering. A shower of sparks rained down, tearing apart the landscape as Edithe blinked in sheer awe of the power being displayed.
+
+But the Archangel just held up its longsword as it grinned.
+
+“Nice Grand Skill. But I’ll do you one better—”
+
+The Archangel placed a hand on the Level 198 [Angel]’s head before she could flee.
+
+“[Revelation].”
+
+And the Level 198 [Angel] immediately convulsed, before going limp. The Archangel released the Level 198 [Angel], letting her drop from the sky.
+
+The Archangel began to break out into laughter once again as it spread its arms wide. The remaining [Angels]— numbering about a dozen— surrounded it as they readied their attacks. All around them, the iridescent flakes of the Archangel were fluttering to the ground like fallen leaves.
+
+The [Angels]’ weapons shone brightly, but the Archangel just snapped a finger.
+
+“[Crown Of Thorns].”
+
+And all at once, the iridescent flakes moved. They circled around the remaining [Angels] as if they were binding them. But then the rings of light began to tighten as the [Angels] screamed. Until their bodies popped, completely crushed by the attack.
+
+Edithe watched as the bloodied remains of the [Angels] rained down all around the Archangel. And it just sighed as it took in this sight.
+
+“I just love how zealously loyal these dumbasses are. Makes killing them all the more satisfying.”
+
+What power… Edithe thought as she stared at the gloating Archangel. It killed all those Sacred Spirits without even taking any damage.
+
+For a moment, the redhead couldn’t help but be in awe at the Archangel’s power. With its strength, even the swarm of Centinels would be helpless against it. However, her gaze was drawn back down to the crystalline fortress below.
+
+But now that the [Angels] are dead… what does the Archangel want next?
+
+And right as she asked the question in her head, she watched as the Archangel aimed down at the fortress. She blinked a few times, before she saw a flash of light.
+
+An iridescent blast engulfed the fortress as Edithe reeled. The shockwave from the explosion nearly sent her flying, but she caught herself. Next to her, Willy, Centina, and Druma barely clung onto the mountain too.
+
+The size of the explosion had to have rivaled what Helena Warshade was capable of with her Grand Skill— perhaps it was even larger! But the Archangel conjured it up without so much as a second thought.
+
+The Archangel flew up away from the blooming blast of iridescent light as it laughed louder than ever.
+
+“HAHAHAHAHAHAHAHAHA!”
+
+But the Archangel’s moment of triumph didn’t last long. Because from the explosion, something emerged. A tendril shot out and swiped up at the Archangel.
+
+“Oh, fuck—”
+
+The Archangel shot backwards as the tendril barely missed it. Edithe blinked a few times, trying to make out the shape of the tendril. But for some reason, she could barely discern it. Almost like it was obscured by a distortion in space.
+
+“Hey, I freed you! You’re not supposed to attack me!”
+
+The Archangel exclaimed as Edithe furrowed her brows. She tried to lean forward to make out what it was, watching as the tendril took more swipes at the Archangel.
+
+The explosion slowly began to clear as the Archangel continued to fly back and swat the tendril away.
+
+“Bad— no! You’re not supposed to attack me!”
+
+All the while, Edithe looked on as a blurred amalgamation of light crawled out of the rubble.
+
+“What is that…?”
+
+She asked as she stared at it in horror. She didn’t think she would get an answer. But from the side, she got one.
+
+“That is the corruption.”
+
+Willy whispered as he stared at the thing that was emerging from the destroyed remains of the fortress.
+
+“That is the cause of the end of the world.”

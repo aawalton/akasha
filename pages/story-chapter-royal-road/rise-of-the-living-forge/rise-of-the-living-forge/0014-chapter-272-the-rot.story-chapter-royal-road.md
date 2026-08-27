@@ -1,0 +1,152 @@
+---
+id: 97c7a263-f4d4-5fdc-a924-616bb739c553
+page-type-slug: story-chapter-royal-road
+title: "Chapter 272: The Rot"
+partOf: rise-of-the-living-forge
+position: 14
+ownLength: 2048
+unit: words
+ownProgress: 2048
+publishedAt: 2024-09-11
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge-stubbing-to-ch555-in/chapter/1798578/chapter-272-the-rot"
+royalRoadId: "1798578"
+markedReadAt: "2026-06-29T19:58:54.410Z"
+---
+
+Golden light took form into letters over the fallen trunk-corpse of the Ashwood tree. Arwin was somewhat surprised to see a message from the Mesh after the fight. He really hadn’t been expecting much of anything.
+
+After all, they’d come to this dungeon for one reason alone — to get a Dungeon Heart. And the Dungeon Heart in question was still thumping away at a steady, sickening pace encased within the wood of its former host.
+
+Arwin hadn’t even been forced to use the full extent of his abilities in the fight against the fallen monster.
+
+And that’s honestly quite fortunate. I want to get used to using the shield before I try to use my ability to manifest the power of a Cursed Item to help me fight. Something tells me that anything related to Cursed items is going to always be high-risk, high-reward.
+
+Thus, Arwin would have been quite happy with just an Achievement for the fight. As a non-combatant, he really hadn’t expected to get much more.
+
+But, as it turned out, the Mesh saw things differently.
+
+Something prickled against Arwin’s skin. It felt slimy and cold, like a dip into a river of sludge. The breath stiffened in his chest and his eyes went wide in disbelief. The sensation almost felt like the rush of energy he got from leveling up, but that should have been impossible.
+
+Non-combat classes couldn’t get energy from —
+
+Title: [The Rot] has been earned.
+
+[The Rot] –You have defeated another Cursed entity, permanently unlocking the full potential of the Cursed Dwarven Smith path. You may now receive [Cursed] Skill upgrades.
+
+Arwin’s eyes widened as he read over the words, but the Mesh wasn’t done. Golden letters flickered through the air and took form into a second message no more than a second after he finished the first.
+
+Achievement: [Dead-monic Tree] has been earned.
+
+[Dead-monic Tree] – Awarded for stopping a Cursed creature before its energy could spread out from the dungeon in which it took form. A portion of its Cursed energy has been stored within your soul. Effects: One skill in your next Skill Selection has been upgraded to [Cursed]. This achievement will be consumed upon choosing your next skill.
+
+“Godspit,” Arwin said, the word falling from his lips before he’d realized that he’d spoken.
+
+He hadn’t even really thought about the possibility that the tree could have been Cursed. He’d known that monsters could be Cursed, of course. Arwin had fought them when he was the Hero. But he’d never considered them as anything more than a more dangerous, variant monster.
+
+People usually couldn’t even tell they were up against a Cursed monster until it died and the System mentioned it. Arwin had just never made the connection that a Cursed monster could have anything to do with his path.
+
+Would Cursed skills work in the same manner as a Cursed item? An ability that has a much higher risk in return for a bigger reward? That could be a really powerful option to draw upon. I don’t imagine I’ll get the option to get many of them — even as the Hero, I don’t recall fighting that many of them. Granted, I wasn’t keeping track, but still.
+
+“Are there any more of these trees anywhere?” Olive asked, a note of awe in her voice as she approached the monster’s fallen trunk. She wiped her face with the back of her right sleeve. “Because that was a real nice reward. Shivers all the way down to my toes.”
+
+“I got a Title!” Anna exclaimed in delight.
+
+“You did?” Rodrick’s eyes lit up. “Seriously? I got an Achievement and a fair bit of energy, but a Title… good shit, Anna. What is it?”
+
+“It lets me purify organic materials if I spend enough magical energy. It doesn’t work on actual cursed stuff, but this is incredible.” Anna was practically bouncing from foot to foot in delight. “This opens up so much for me. I didn’t know an ability like this could even exist, much less come from a Title.”
+
+“Not to be dour, but couldn’t you already do that?” Reya asked hesitantly. “You purified Melissa, didn’t you?”
+
+“No. That was healing the poison. Different way of treatment.” Anna shook her head. “I fought that by neutralizing it and using Cure, one of my abilities. It was a really difficult process that could have easily failed. This lets me do more than just attack the poison. It lets me turn the poison into the cure. Granted, it’ll probably need a ridiculous amount of power, but it’s not even limited to poison. Any malignant problem with organic material falls under the Title. That includes sickness. Disease. This is an incredible boon.”
+
+“Congratulations, Anna,” Arwin said. “If anyone deserves a skill like that, it’s you. I’m sure you’ll be putting it to good use.”
+
+“You can bet on that,” Anna said with a firm nod. “There are so many people that could benefit from this — and I could bring some attention to the Devil’s Den as well. Run some healing sessions inside it. People would flock.”
+
+“That would be incredible,” Lillia said with a delighted smile of her own. “It’ll be the perfect way to do a little extra advertising when the Devil’s Den opens back up shortly! And you aren’t the only one that got a Title.”
+
+Huh? How did she—
+
+“You got one too?” Reya asked, blinking in shock. “I got an Achievement, but damn. What did you do, give the Mesh a back rub?”
+
+“Evidently,” Lillia said. She made her way over to the head of the fallen tree, coming to a stop before she touched the razored leaves covering its branches. The Demon Queen tilted her head to the side as she squinted into it for a few moments.
+
+Arwin and the others watched her for a few confused seconds, waiting for the explanation of her new Title. Lillia said nothing. Instead, she held a hand out toward the leaves. A shadow rose up from the ground and wove through the tree, vanishing within it.
+
+There was a faint snapping noise. A moment later, the shadow emerged with a large, round fruit. It had red skin covered in swirling patterns that almost resembled leaves and was about the size of a small child.
+
+“What’s that?” Arwin asked, peering at the fruit. Nothing from the System appeared to identify it.
+
+“A fruit,” Lillia said helpfully. She smirked at the annoyed look that Arwin sent her. “I got a Title and Achievement pair. The Title lets me grow magical plants for an herb garden. I think it’ll let me make the effectiveness of my cooking even stronger. It… might also turn it into poison, but I’m pretty sure I can avoid that.”
+
+“I can test it to make sure it’s safe,” Anna offered.
+
+“That might be wise,” Lillia admitted, cradling her new fruit under an arm. “The Achievement let me find this thing. It’s an Ashleaf Tree Fruit.”
+
+“Are you going to eat it or plant it?” Reya squinted at the fruit suspiciously. “Is making another one of these a good idea? The Mesh seemed pretty pleased that we kill it.”
+
+“It’ll be fine,” Lillia said. “I’m not going to have trouble from a baby demon plant. I’ve dealt with much bigger ones in my time.”
+
+“And if it ends up being Cursed, I might be able to make quite some use of it,” Arwin provided. He grinned at the others. “It seems the Mesh was feeling generous today. I got a Title as well. One that lets me get Cursed Skills.”
+
+“Cursed Skills?” Rodrick tilted his head to the side. “Sounds… well, cursed.”
+
+“Very astute, Rodrick,” Lillia said.
+
+“Thanks.”
+
+“Arwin’s Cursed item seemed to work well enough,” Anna observed as the Menagerie all started to gather around the base of the fallen trunk. “That seems like it could be powerful.”
+
+“Or dangerous,” Lillia said. “But it’ll just be one of the options, right? You’re not guaranteed exclusively Cursed skills.”
+
+“Just an option,” Arwin confirmed.
+
+“Then I don’t think we can complain. The Mesh rewarded us well for this one,” Lillia said. She brushed a strand of hair away from her face.
+
+A wet thud echoed through the room.
+
+They all looked to the center of the trunk. The Dungeon Heart was still thumping away within it. Arwin and Rodrick wordlessly walked over to the unsettling organ. It was buried deep within the tree, trapped in by thick, smoothed bark that implied it had been there for quite some time.
+
+Freeing it took the entire group roughly five minutes. It would have been a lot faster if they didn’t have to worry about accidentally damaging the heart — the wood was so tightly packed around it that one mistaken cut had the chance of damaging it, which they couldn’t risk.
+
+But, eventually, they managed to carve away enough of the tree’s trunk to free it.
+
+The Menagerie didn’t stop there. The Dungeon Heart had been freed, but they’d just gotten so many rewards for killing the Cursed monster that the mere idea of leaving anything behind that they couldn’t carry felt like a physical blow to Arwin’s own heart.
+
+They cut apart as many branches as they could, tossing out any useless and relatively unimportant materials they’d gotten earlier through the dungeon, and piled everything full of leaves, sticks, and pieces of trunk material.
+
+By the time they had finished, the Menagerie resembled a rather odd-looking group of lumberjacks who had just gone to war against the notion of a forest as a whole.
+
+But, finally, they were ready to leave. Their task in the dungeon had been completed. All they had to do was head out, give the Dungeon Heart to Yonas so the Dawnseekers could deal with the Ardent Guild and Twelve, and they would be on their merry way.
+
+Arwin wrapped the Dungeon Heart in a cloth and hoisted it into the air, holding it out with locked hands to keep it as far away from himself as possible.
+
+And there he paused.
+
+A small frown crossed over his lips. He glanced away from the pulsating heart to Lillia, and then to the rest of his guild.
+
+Twelve wants the dungeon heart that belonged to Jessen. Somehow, the two of them were connected. If we give this heart to him… are we just going to make someone even stronger than Jessen more powerful?
+
+Am I about to be outfitting another monster?
+
+“You know, your forge got a lot stronger after you put a Dungeon Heart in it,” Reya muttered, picking at the side of her collar. “It kind of feels like a shame to give it away. Especially to someone who might be connected to Jessen…”
+
+“We can’t scam the Dawnseekers,” Anna said, but there was a long second of hesitation before she spoke. “That’s just not right. We only got into the dungeon because they let us in.”
+
+“But they don’t care about the heart. Just the money to get rid of the Ardent Guild,” Olive pointed out. “What do you think we could do with the heart if we kept it?”
+
+“If we didn’t have to give it away, imagine what we could do if Arwin and Lillia stuck it in the Devil’s Den,” Rodrick said. He coughed into his fist. “Hypothetically, of course. Backing out of deals is wrong.”
+
+Lillia glanced at Rodrick, then back to the heart. She scratched at the back of her neck. “Maybe we could offer to trade it for something and another way for the Dawnseekers to get what they want?”
+
+“Giving a magical item that empowers shit to an evil bastard feels like it goes against what we represent,” Olive said.
+
+“What do we represent?” Reya asked. “I didn’t realize we represented something.”
+
+“Being… good adventurers, I guess,” Olive said. “I’ll be honest. I didn’t think it through that far.”
+
+The Menagerie fell silent for a few seconds.
+
+“I think we might need to speak a bit with Yonas. We might have to ask for a slight modification to our deal. Maybe we can offer him something that he wants more than the heart,” Reya said quietly.
+
+“Yeah,” Arwin said. “I think we’ll have to.”

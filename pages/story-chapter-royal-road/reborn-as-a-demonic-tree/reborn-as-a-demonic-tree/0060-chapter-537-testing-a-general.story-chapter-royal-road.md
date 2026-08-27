@@ -1,0 +1,169 @@
+---
+id: 378f8bf1-0917-50cd-968e-a583435a28fd
+page-type-slug: story-chapter-royal-road
+title: "Chapter 537: Testing a General"
+slug: 0060-chapter-537-testing-a-general
+partOf: reborn-as-a-demonic-tree
+position: 60
+ownLength: 2748
+unit: words
+ownProgress: 2748
+publishedAt: 2026-02-20
+link: "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3075520/chapter-537-testing-a-general"
+royalRoadId: "3075520"
+markedReadAt: "2026-06-29T19:03:35.619Z"
+---
+
+Magnus had never expected to see a dragon in such dire straits.
+
+Below him in the depths of a vast valley-sized crater of fractured ice was a struggling, mountain-sized black-scaled dragon, pinned down and slowly being crushed to death by the most fearsome ice creature that Magnus had ever laid eyes on.
+
+He glanced between the two, confused.
+
+Which one is the Patriarch's General? Is it the dragon or the ice monster?
+
+"You are to work together with Astralis to try and defeat General Bob," Ashlock's hundred overlapping voices informed him. "Use any means necessary to win, including your domain. I will step in should Bob's life be in danger."
+
+Magnus's eyes widened. That massive dragon was Astralis? But then, who was Bob? He furrowed his brows, trying to pin the slithering mass of jagged ice that was easily crushing a peak Nascent Soul Realm dragon to one of Ashfallen's members.
+
+"Wait, by Bob... do you mean that slime Stella was carrying in her arms and calling her brother?" Magnus asked telepathically as his gaze met the dragon.
+
+"Yes. Bob typically serves as the guardian of Stella's alchemy lab, but I had him temporarily guarding this primordial ice dragon's corpse while I was in deep cultivation."
+
+Magnus blinked in disbelief. That thing was merely the guardian of Stella's alchemy lab?
+
+"Why Astralis is here, I'm unsure," Ashlock continued, unaware of Magnus's thoughts. "But this will make a good test, work together with him to defeat General Bob."
+
+"Is that really okay?" Magnus hesitantly asked Ashlock. "I mean, this is Stella's brother, right? Shouldn't I test my firepower on Astralis or some other powerful monster instead?"
+
+"You're a Monarch now," Ashlock reminded him. "Astralis, while a dragon, one of the Primal Overlords and possessing incredible firepower, is not a worthy match. The sheer dominance a Monarch can unleash by possessing a domain allows them to crush those below them with ease."
+
+"Then what about Bob? He isn't in the Monarch Realm, so won't I crush him just as easily?"
+
+Ashlock chuckled. "Bob is special. You will see."
+
+Magnus grimaced at the thought of firing upon one of his own sect members, especially someone related to the Slaughter Princess. But if it was the Patriarch's wishes, then he would carry it out without question. He balled his hand into a tight fist and felt the thumming of fire in his veins. While this immense power was his own, he wielded it for another.
+
+"Monarch!" the dragon suddenly called out, his Qi-empowered voice booming through the blizzard mixed with a nebula. All of the shimmering dragons made from starlight lurking in the nebula turned to look at Magnus as if judging his presence.
+
+Magnus simply stared down at the dragon in response and pondered how to approach this. Ashlock had requested that he fight alongside Astralis, likely because he wanted to test General Bob's strength as much as he wished for Magnus to get ahold of his own.
+
+"Are you a Monarch in service to that demonic tree?!" Astralis called out, making Magnus frown deeply.
+
+"That 'demonic tree' has a name, dragon. It would do you well to refer to him by one of his many esteemed names," Magnus said sternly. Who was this dragon to refer to the Patriarch of the great Ashfallen Sect as a mere tree?
+
+Astralis snorted in amusement despite his desperate position under Bob's continued tightening. "Are you or not? I believe only he can make desolation rifts like that."
+
+Magnus eyed the swirling desolation rift behind him that he had just stepped through. It was true that such a portal was a rather big giveaway. He returned to looking down at Astralis from above and replied, "So what if I am?"
+
+"Then this impudent monster attacking me for no reason is one of yours, too?" Astralis inquired. "If so, command him off of me!"
+
+Magnus was about to answer truthfully but then had a better idea. Astralis wouldn't willingly waste his Qi on a pointless fight; he had to believe their lives were on the line.
+
+"It is not. I came to exterminate this foul beast on orders of the Patriarch," Magnus said icily as he floated down through the blizzard, the heat radiating off him turning it to steam that bathed his form. Forgive me for my words, Bob.
+
+"Don't worry. I've informed Bob of the situation, and to make it more exciting, I've told him that if he manages to defeat both of you, he can devour the head of the dragon corpse as a reward. I must warn you, he is very hungry," Ashlock told Magnus. "You'd better get ready to fight like your life depends on it—"
+
+Bob unleashed a world-shaking howl that made Magnus flinch. The ice monster's head twisted and looked up at him with a featureless face beside a gaping maw and jagged limbs.
+
+"What do you say, dragon?" Magnus said, grinning ear to ear at the challenge as his newfound power begged to be unleashed. "Shall we team up to defeat this beast?!"
+
+"Like I have a choice," Astralis roared in response.
+
+Magnus coiled fire around his arm and was debating what technique to open with when Astralis made his first move.
+
+The mighty dragon reared his head upwards with all his strength. There was a sound of cracking ice and bone as Bob's body broke apart, and Astralis slowly managed to break free of his icy clutches. Before Bob could coil around the dragon's head again, Astralis managed to open his maw to call down a star.
+
+Magnus glanced up, and despite being unable to see beyond the blizzard and nebula, he felt the shift overhead instantly. Something had answered Astralis's call.
+
+"Oh, this is going to be bad," Magnus said and quickly floated backward.
+
+A moment later, the world turned a brilliant white as seven beams of starfire tore through the blizzard one after another, like the world was ending, and struck Bob with all their searing strength.
+
+Magnus shielded his eyes from the brightness and was in awe of Astralis's firepower. Was this really the strength of a peak Nascent Soul Realm and not a Monarch?
+
+That's the strength of a dragon for you, Magnus mused as he looked at the destruction below. The shattered ice crater had been turned into a boiling lake with cosmic steam rising up and feeding the nebula overhead. Perhaps my help wasn't even needed? Magnus frowned as he tried to peer through the wall of steam to see the result of Astralis's bombardment.
+
+A pain-filled roar shattered those doubts. Astralis's head became briefly visible through the wall of billowing steam, and Magnus saw the source of his pain. Dozens of jagged ice limbs, shimmering with a sheen of the vast cosmos, like a mirror into the beyond, were puncturing his neck like a collar and drawing blood. Astralis was then violently yanked out of sight into the cloud stream with a sickening crunch.
+
+Magnus pursed his lips. "I see what you mean by special now," he murmured under his breath as he raised his arms. Bob had definitely been a creature of ice when he first laid eyes on him, but after that attack from Astralis, he seemed to be shifting into a cosmic affinity monster. Such a realization was truly horrifying and made Magnus all the more excited. "A being that can absorb the Qi of others. Let's test the limit of that, shall we?"
+
+"Please do," Ashlock said in his mind. "I want to know if Bob has what it takes to stand up to the Monarchs of the Celestial Empire."
+
+"Very well," Magnus looked up to the sky and uttered the words that hissed to him through his Soul Cosmos like a howling wind, begging to be released, "Domain of the Infernal Sovereign."
+
+Instead of the Heavens answering his call like usual when he used techniques, this time, the power came from within. His Soul Cosmos erupted outward from his body like a heatwave of hellfire. Spiritually printing itself over reality, he effectively summoned a pocket realm in an instant—one that looked strikingly familiar—it was just like the pocket realm he had absorbed during his ascension.
+
+The blizzard and nebula were seemingly snuffed out of existence and replaced with rolling clouds of smoke that darkened the sky. The icy ground was now a sea of fire, bubbling as volcanoes rose from the flames like awakening titans, the largest of which was appearing below him, with Astralis and Bob now struggling to the death on its rising slope.
+
+Magnus didn't pay the pair any attention. His whole focus was on the experience of summoning his first-ever domain. It was a frankly intoxicating feeling. Is this what it's like to be a god? Magnus wondered as he breathed in the crisp, fire Qi-filled air. He raised his hand, and it felt like the whole of reality awaited his command. With a flick of his finger, he could summon hellfire. With a thought, he could drown the world in flame.
+
+A chuckle escaped his lips as he knew this was only the beginning.
+
+"Rise, my champion of fire," Magnus commanded as his whole body glowed with power. The volcano below him spontaneously erupted, and the fire titan that was the embodiment of destruction he had defeated during his ascension rose once more, the only difference being that it listened to him now. Like an eruption given a vague human form, the titan leaned forward, and its fingers found purpose on the side of the volcano, sending a landslide of slag down toward the two struggling monsters below.
+
+Magnus knew his domain was capable of more than even this, but he needed to test the strength of this titan first. So, he slowly pointed his finger down at the two monsters below and uttered his decree. "Tear the ice monster apart."
+
+His fire titan lurched forward, sending a shower of smoldering rocks and magma as its body seemed only partially held together. Reaching down with a colossal hand, it grabbed Bob. There was a loud sizzling sound as ice turned to water and Bob began to boil alive, though his fire titan's magma hands began to blacken and harden into solid rock.
+
+Magnus frowned. He had fought with ice cultivators before, such as those from the Winterwrath family, and he suspected the reason Ashlock was so confident in Bob being able to compete against him was because of the fact that he was wielding ice Qi.
+
+Ice is actually a more brutal counter than water affinity. Due to ice's more solid nature, it's harder to evaporate quickly, and it can be sharpened into spears or walls that cut through my flames or block my attacks. Even then, I didn't expect this level of resistance, inside my own domain no less.
+
+Magnus didn't like to admit it, but seeing his fire defied angered him. Reflecting his feelings, the fire titan glowed red-hot and punched down onto Bob's exposed head with far more force than the first attack. This seemed to catch Bob off guard, as he didn't sufficiently defend himself, and his head bounced back against the volcano with a crack.
+
+Smirking, Magnus continued the assault from range via the fire titan. Not feeling the need to dirty his own hands, he slowly managed to pry Bob off Astralis and free the dragon after a long struggle. By now, Bob was covered in lumps of blackened magma, and his body was cracked in many places.
+
+Astralis managed to kick Bob away and take to the skies. "Why isn't the beast absorbing your Qi?" Astralis asked Magnus as he beat his massive wings to gain height, sending gusts across his domain's sea of flame.
+
+Bob twisted his broken head and stared at them from below. The lumps of rock coating his body began to rupture as new jagged limbs of ice broke through, and his body seemed to be repairing itself.
+
+"That's a good question," Magnus said, then floated a theory. "Perhaps it's because all the fire Qi within this domain is under my absolute control, meaning he's unable to absorb it?"
+
+"I agree with that," Astralis said, sounding disgruntled. "As shameful as it is to admit, I didn't stand a chance against that creature. Yet you can suppress it without moving a finger."
+
+Magnus nodded. "Suppress it, yes, but not kill it."
+
+Despite being a Monarch, he was still far too weak. The fire titan's form was shoddy, the sea of flame not nearly hot enough, and the other volcanoes within his domain were mostly dormant and simply for show. If Bob had wielded a different affinity, victory might have been possible and would not have made him aware of his shortcomings. There was far more to learn in defeat.
+
+"I still have a long way to go until I can call myself a true Monarch," Magnus said as he wielded his immense spiritual pressure to slam Bob against the volcano's side. With a snap of his fingers, a vent ruptured and drowned Bob in magma, causing the General's body to sizzle and steam but not yield. "But for now, this appears to be my limit."
+
+Magnus's domain had already begun to crumble around him. As it turned out, maintaining one's domain consumed an immense amount of Qi, mental energy, and stamina. He thought Monarchs could simply snap their fingers and overwrite reality, but it seemed the heavens weren't too fond of that and acted to suppress domains. The longer he had it running, the harder it was to maintain. The fire titan fell, the volcano beneath him disintegrated, and the sea of fire turned back to ice. Within a few breaths, his absolute control over his surroundings was robbed from him, and the world reverted to what it had been before.
+
+It was as if reality was trying to remind him that his reign was only ever temporary by wiping out any evidence of his domain having existed.
+
+"I knew you were a new Monarch from the moment you summoned your domain," Astralis said, looking at Magnus with narrowed eyes. "But I didn't expect you to have this little stamina."
+
+Magnus met Astralis's gaze with indifference. "I only just ascended and haven't even had a chance to consolidate my new cultivation base. Personally, I consider the fact that I was even able to summon my domain impressive."
+
+Astralis seemed surprised. "The Ashfallen Sect sent a freshly ascended Monarch to fight such a beast?"
+
+"Not to fight, but to practice."
+
+Astralis tilted his head. "Practice?"
+
+Since his domain had faltered, Magnus didn't see the reason to keep up the facade any longer. "That is no ordinary monster; it is one of the Ashfallen Sect's three Generals, tasked with guarding this primordial ice dragon's corpse. I was sent here to test my domain on him, only to find you also here."
+
+Magnus had never seen a dragon pale in fear before.
+
+"This dragon was slain by Ashlock?" Astralis asked, his voice shaking ever so slightly.
+
+"Yes, it was," a voice came from behind, startling them both.
+
+From out of the desolation rift came the angel of death that had greeted Magnus when he left the Eternal Realm. It was four meters tall, wielding a scythe and cloaked in darkness. Its winds spread out, dwarfing the rift it had stepped out of. The being's head slowly turned to stare at Astralis.
+
+"Now that the show is over, do you care to explain why you are here rather than hiding away in the Spiritual Spring, Astralis?" the shadow angel said, and despite not having eyes, Magnus could tell its intense gaze was boring a hole through the dragon. "Or perhaps my General could explain?"
+
+It turned to look down at Bob.
+
+"That dragon stole—" Bob began but was cut off by Astralis diving down between them.
+
+"This is a misunderstanding," Astralis said through clenched teeth. "I sensed one of my kind and was merely curious. The corpse is rightfully yours."
+
+If the shadow angel grinned.
+
+"Glad we have an understanding. You will assist General Bob here with the moving of the corpse in large pieces through this desolation portal."
+
+Astralis winced but didn't fight the command, while Bob grumbled, "What will you be doing, Thanatos?"
+
+The shadow angel looked to the skies. "Dusk approaches, meaning the stage is finally set. Tonight, the Ashfallen Sect directly attacks Floridawn, and I will be its herald."

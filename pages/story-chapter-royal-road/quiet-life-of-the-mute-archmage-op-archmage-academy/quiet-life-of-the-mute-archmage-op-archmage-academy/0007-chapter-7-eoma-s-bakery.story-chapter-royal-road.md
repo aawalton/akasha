@@ -1,0 +1,163 @@
+---
+id: 03ecddd7-08f2-5bff-9e26-dfeb5014ef1f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 7: Eoma's Bakery"
+slug: 0007-chapter-7-eoma-s-bakery
+partOf: quiet-life-of-the-mute-archmage-op-archmage-academy
+position: 7
+ownLength: 2219
+unit: words
+publishedAt: 2026-05-13
+link: "https://www.royalroad.com/fiction/167476/quiet-life-of-the-mute-archmage-op-archmage-academy/chapter/3390588/chapter-7-eomas-bakery"
+royalRoadId: "3390588"
+---
+
+Two hours had passed since the strange disappearance of the grand wyvern. The people of Sigsug returned to their normal lives.
+
+Well… some of them.
+
+Molly's eyes swept across the market square, lingering on the empty stalls whose owners had yet to return, still gripped by the fear that the grand wyvern might reappear after vanishing in such an inexplicable manner.
+
+Her gaze shifted away from the vacant stalls, settling now on the vendors who had already rearranged their wares and were selling to customers as if what had happened was just another ordinary Tuesday.
+
+In a way, it was.
+
+Two years ago, this part of the world had become known as the new habitat for wyverns of all kinds and levels, which in turn had been causing frequent incidents of wyverns encroaching into human territory and leading to a few casualties—casualties that would have been far greater had it not been for the steady increase of heroes stationed around the infested areas.
+
+Molly sighed as she calmly walked past a cluster of townsfolk, but she couldn't help slowing her pace when she caught fragments of their conversation. Her steps came to a halt soon after, her ears perked as she listened.
+
+"You should have seen how terrifying that grand wyvern was. I thought I was going to die when I saw its maw open wide." A young man with raven-black hair whispered as he and his friends stopped beside a stall.
+
+"That isn't even the terrifying part." The one with a scar across his cheek spoke up, glancing at his companions with a mixture of awe and lingering fear. "Didn't you see the vast formula that appeared in the sky? Didn't you catch it from where you hid?"
+
+The leanest of the group snapped his fingers. "Ah. Yes, I did see a vast formula in the sky." His brow furrowed in thought. "Wasn't it one of the heroes who cast the spell?"
+
+The scarred man shook his head. "Even they were baffled. I tried to press for answers, but the only response I got was that none of them could currently create a high-level formula like that." His gaze locked onto his friends as he delivered the conclusion. "If they could, they'd already bear the title of archmage."
+
+The young man with the raven-black hair felt his eyes widen as realization struck. "Wait… so you mean to tell me that an archmage is in this village?" He breathed out the question.
+
+The scarred man gave a short nod. "It seems so. Based on the last words they told me, only an archmage could perform that." He turned back to the stall, collecting a basket of fresh blue potatoes from the seller as his friends began drifting away.
+
+He opened his mouth and concluded, "A great and knowledgeable one."
+
+Molly watched the departing group, a warm smile playing on her lips. She returned her attention to the path ahead, her eyes scanning the stalls until she found one that sold the next item on her list.
+
+A bright smile lit up her face.
+
+Time to continue her shopping.
+
+*********
+
+Molly walked enthusiastically through the market square, her eyes flitting across the ever-busy stalls that lined each side of the cobblestone street.
+
+Her pale white hair shifted gently with every step. Resting on her right arm, a neatly woven basket hung from the crook of her elbow like a handbag, inside of which sat an assortment of ingredients she had just purchased: two lion fish, a bunch of red lettuce, four tubers of red potatoes, a kilogram's worth of blue snow pepper, and a handful of glowing gold seeds, which weren't part of the ingredients but were meant for something else she had to do in just a few seconds from now.
+
+A sigh escaped Molly's lips as she paused mid-step. Her eyes lifted to the magical sun that washed over Sigsug with its warm, golden glow. A small smile touched her face before she placed her left hand to her mouth and blew.
+
+A clear whistling note rang through the air.
+
+A beat of silence swept past.
+
+Then she heard it. A flapping sound… wings.
+
+Molly lifted her head, and high above, birds descended from the sky, their forms both familiar and otherworldly. They resembled white doves, yet their entire bodies seemed almost glossy, as if sculpted from glass, while at the same time carrying a faint luminescence like the first light of dawn.
+
+Molly giggled as they danced around her, five of them weaving through the air, their wings beating softly as they brushed their sleek bodies against her green robe. They tweeted beautifully around her for two full minutes before finally settling down onto the cobblestone path.
+
+Molly watched the five Jigeen birds settle, patiently awaiting their frequent treats. Each of their three eyes blinked up at her with interest and warmth.
+
+A smile crossed her face as she recalled what she had read about this species.
+
+The Jigeen birds were not naturally born of the this world. They were an extraterrestrial species that had come to Gaia through a tower connecting to their former home, Desjut, a world that had teetered on the verge of collapse at the time.
+
+Molly retrieved the glowing gold seeds from her basket and, with a bright smile, fed the waiting Jigeen birds.
+
+With happy tweets, the five of them pecked at the glowing golden seeds Molly had kindly offered. They ate until not a single grain remained.
+
+Molly gave each of the five Jigeen birds a warm petting on their heads. They twittered while lifting off into the sky, circling happily around her one last time, bidding her farewell.
+
+For yet another time.
+
+Molly stared upward, watching the Jigeen birds chirp merrily as they flew away, a warm smile spreading across her face. After a long moment, she sighed and drew in a breath of air. A sweet scent of honeyed wheat drifted into her nose. Her crimson eyes turned toward a stall that stood neatly apart from the others, its structure larger than any she had passed on her way here.
+
+The store also felt older, more ancient than the stalls surrounding it, though a closer look revealed that it was, in truth, even newer than its neighbors.
+
+Molly's eyes landed on the wooden sign hanging above the store's entrance: Eoma's Bakery.
+
+A bright smile bloomed on her face as she gazed at her last stop for the day, and with that sweet scent curling into her nose, it seemed Eoma's bread today was going to be wonderful.
+
+Molly began walking toward the bakery, her soft footsteps carrying her over the smooth cobblestone path. Her eyes briefly drifted to two flower-selling stalls along the way, and a sad expression crept onto her face as she saw the flowers planted around them, dark, purplish-brown, wilted by blight. Even the soil where the plagued flowers sat had been dyed a sickly deep purple, infected by the same rot.
+
+Molly's gaze shifted forward again once she reached the bakery's entrance.
+
+Without much thought, she pushed open the door and stepped inside.
+
+Her eyes first landed on the pictures hung along the entrance passageway like a gallery of treasured memories.
+
+Molly's eyes swept across each photograph with a warm smile, but her gaze lingered most on the one that seemed the oldest among them. In the picture stood a man who appeared to be in his early thirties, with red hair and lush blue eyes that held both warmth and pride as he posed in front of a small bakery beneath the sign: Eoma's Bakery.
+
+Molly's gaze shifted to the next figure standing beside him. It was a young woman, late twenties perhaps, with white hair and deep orange eyes that gazed at the two children before them with tenderness, watching as they squirmed and refused to stay still for the photograph.
+
+The two children in the picture were anything but calm. The youngest, a boy who seemed around nine at the time, had his red hair being ruffled by his elder sister. His orange eyes threw a mocking glare up at her, though he couldn't quite hide the smile tugging at his lips as she tried to tickle him.
+
+Molly's attention finally rested on the boy's elder sister, her smile warming even further as she looked at the young girl, no older than twelve then, with white hair like her mother's and lush blue eyes like her father's.
+
+Molly couldn't contain the curve of her lips as she studied the happy family. Every time she came here, she always loved lingering over this picture, as if she could step into the moment.
+
+After a few heartbeats, Molly sighed, silently bid the picture a see you next time, and walked through the passageway, passing more photographs of the generations who had inherited this store.
+
+Upon stepping into the main area of the bakery, Molly's eyes immediately found the counter, where a woman in her mid-forties stood. Her red hair was tied up in a neat bun, and her orange eyes were fixed on a young lady customer. The woman stood on the opposite side of the counter, holding onto a woven basket already stocked with fresh bread, and currently deep in conversation.
+
+Molly raised a brow, already sensing a familiar wave of déjà vu akin to what she had experienced at Mr. James's stall. With a soft sigh, she edged closer until she stood waiting beside the counter where the discussion was taking place.
+
+"Jasmine, you should have seen the formula. A master mage like me can only dream of casting a [Tier 10] formula like that."
+
+The customer concluded, "I just wonder who that archmage was, and whether he or she would have loved to take on a student."
+
+Jasmine listened to the woman's words, the smile on her face never wavering. After hearing her customer's conclusion and seeing the hopeful look in her eyes, Jasmine sighed. "I don't think the archmage would want to be known." She gave a small wave of her hand. "That's basically the whole reason they did everything in secret, so they could walk freely around Sigsug without drawing stares directed solely at them."
+
+She offered a wry smile. "Without getting flocked by people hoping to become their student."
+
+A snort answered Jasmine's words. "Oh, please." Tiana said, brushing her yellow hair to the side, a smile threatening to break across her expression. "Stop with your straightforward jokes. I just wanted to dream."
+
+Jasmine laughed at that, and Tiana laughed lightly too, though her laughter faded when she noticed a young girl nearby who was trying to suppress a blush of embarrassment from spreading across her face.
+
+"Let me leave you to attend to this wonderful little girl," Tiana said to Jasmine, who had also just noticed Molly.
+
+Jasmine glanced at Tiana. "Alright. Take care." She bid her friend goodbye as she watched her walk away, greeting Molly warmly along the way, which made Molly fumble, her face reddening further as she bowed several times in greeting.
+
+When Tiana had gone, Molly couldn't help but sigh deeply, a warm smile returning to her face. Her crimson gaze settled back on Jasmine, who was already watching her with a fond expression.
+
+"Look who came to visit me alone today," Jasmine said with a warm tone, her orange eyes resting on Molly. "How have you been, my little snow?"
+
+Molly stepped closer to the counter as a black orb, clearly a magical artifact, drifted out from within her robe and hovered at eye level.
+
+The orb shuddered for a moment before dissolving into tiny particles. The particles swirled in the air, shaping themselves with each motion until they formed a sentence:
+
+~ Good morning, Miss Jasmine. I'm doing great! What about you?
+
+Molly's expression was bright as her thoughts were projected by the magical artifact.
+
+A curl tugged at Jasmine's lips as she read the text. She pointed playfully at herself. "Well, this aunty of yours is also doing great."
+
+She made a dramatic gesture, ready to say something humorous, but then paused, a frown creasing her brow as she noticed a small stain on Molly's robe.
+
+"Molly, don't tell me you hurt yourself?"
+
+Molly stiffened for a moment, her eyes darting to where Jasmine was worriedly looking. Her gaze widened when she spotted a small stain of red blood on her green robe.
+
+She had completely forgotten to use the water formula to wash that part of her clothing, along with her hand and face.
+
+Molly's mind scrambled for an explanation she could offer. The tiny black particles shuddered once more and began swirling, attempting to translate her thoughts into a new sentence.
+
+But everything stilled when Molly heard a familiar voice from behind her.
+
+"Mom, I'm home."
+
+Molly's gaze snapped toward a figure who had just stepped into the main area of the bakery.
+
+It was the young woman who had asked Molly a question before the grand wyvern incident.
+
+The young woman's expression was bright as she looked at her mother, Jasmine, but a frown swiftly surfaced when she noticed the young girl staring back at her with wide eyes.
+
+Slowly, her own gaze mirrored the girl's stunned expression. "It's you…" she breathed out in surprise.

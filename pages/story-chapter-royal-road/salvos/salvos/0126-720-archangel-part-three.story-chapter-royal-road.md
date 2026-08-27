@@ -1,0 +1,151 @@
+---
+id: 39ec8784-3bf4-5015-96db-eb1f0eea9a88
+page-type-slug: story-chapter-royal-road
+title: "720. Archangel Part Three"
+slug: 0126-720-archangel-part-three
+partOf: salvos
+position: 126
+ownLength: 1688
+unit: words
+publishedAt: 2024-11-04
+link: "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1884722/720-archangel-part-three"
+royalRoadId: "1884722"
+---
+
+720. Archangel Part Three
+
+It was an incomprehensible sight to Edithe.
+
+But it was not incomprehensible in the same way the swarm of corruption was to her. When she saw the deluge of distortion and bright colors pour out of the crater in the earth, she couldn’t believe what she was seeing, because she had never seen such a sight before.
+
+They were creatures that existed beyond her comprehension. It was unlike anything she had ever imagined when she was told about the corruption by Salvos. And Edithe finally understood why the Kobolds were so fearful of the end of the world.
+
+So it was incomprehension that stemmed from witnessing something she couldn’t possibly have imagined.
+
+But right now, her incomprehension for what she saw was born from having only imagined seeing such a scene from her dreams. After all, there wasn’t just one Supreme Spirit engaged in battle before her. There were over a dozen of them.
+
+Edithe stared at the small army of [Ophanims] descending from the guy, sending beams of iridescent light down into the outpouring corruption. Each blast eradicated almost all the smaller corrupted entities that were swarming the landscape. And even the smaller Corrupted Heavenspaces were destroyed from the pillars of destruction.
+
+As a child, Edithe could have only dreamt of what a Supreme Spirit looked like. In fact, she would lie in bed, imagining summoning one to battle— like she was Melissa the Oracle of Light, challenging the Demon King to a duel.
+
+And only in her wildest dreams, did she ever think of being capable of summoning perhaps two Supreme Spirits. After all, the idea of summoning more than that was too ridiculous, even for a child to imagine.
+
+The highest-leveled Humans in the world right now peaked at just above Level 150. And there were only said to be two Humans in history to have reached over Level 200. So she always thought that only the Spirit Lord and perhaps his most elite guards were of the same level.
+
+But right now, that belief was completely washed away as the [Ophanim] sent another blast down into the swarm of corruption. Edithe expected to reel from the attack— to recoil from the sheer force of the blast like she did when the Archangel destroyed the crystalline fortress.
+
+However, these beams of light fired by the [Ophanim] didn’t even touch the ground. They didn’t ravage the landscape, nor did they send a pulse that even rippled through the air. All they did was purge the corruption from the world— eradicating the distortion that filled the sky and earth.
+
+Edithe was left gaping at this sight.
+
+“Just what are they? Where did they even come from?”
+
+The redhead asked as her head spun, watching as another Corrupted Heavenspace was ripped apart. And from the side, a voice spoke up.
+
+“They’re the [Ophanim]...”
+
+Willy whispered. Edithe turned to face him as the [Ophanims] continued to purge the corruption from the world.
+
+“The Vanguard of the Spirit Lord.”
+
+Willy finished, and Edithe’s eyes grew wide.
+
+“Vanguard…?”
+
+She looked towards the dozen or so [Ophanim] there as she tried to register this. That meant these weren’t even the Spirit Lord’s strongest soldiers. They were simply the ones that were sent out first.
+
+As the Archangel cursed, watching the corruption he freed be destroyed, the largest of the Corrupted Heavenspaces flew straight up at the nearest [Ophanim]— the very same one that was struck by the Archangel’s attack just earlier— and it coiled its tendrils around the giant wheel.
+
+Edithe heard a low groaning noise as the wheels were slowly ripped apart, revealing a giant burning eye floating on the inside of the wheels. The largest of the Corrupted Heavenspaces slowly reached for the inside of the [Ophanim], but the other [Ophanims] turned their gazes towards its threatened comrade.
+
+And all at once, all of the [Ophanims] unleashed their pillars of light at the Corrupted Heavenspace and their comrade. Edithe winced, thinking that they had just killed the [Ophanim] too.
+
+But as the flash of light faded away and the largest of the Corrupted Heavenspaces peeled off the [Ophanim] it was attacking… Edithe’s eyes went wide. The [Ophanim] was left unscathed by its allies’ blasts. All the while, the largest of the Corrupted Heavenspaces disintegrated to nothing.
+
+Upon seeing that, the Archangel flew up to face the [Opanims] as it shouted.
+
+“I’ve had enough of you annoying pests!”
+
+The Archangel let go of its iridescent blade, and the weapon faded away. Slowly, the [Ophanims] turned to face it. The iridescent light in their eyes shifted, turning red. But before they could attack the Archangel, it raised its hands in the air.
+
+Clapping, the Archangel grinned and whispered, its voice washing over the entire landscape.
+
+“[Crucifixion].”
+
+Edithe blinked, and suddenly the sky turned dark. It was a sudden shift, she almost thought she was transported to another world. But the landscape didn’t change. Even as the wind howled and the ground beneath the Archangel cracked open.
+
+And emerging from the broken earth was a temple— larger than any temple Edithe had ever seen. It ascended to right below the [Ophanims] as their many eyes darted down to stare at it. Even the corruption slowed to stare at this monolithic structure.
+
+But before anyone could react to the sudden appearance of this giant temple, the entire structure collapsed.
+
+Right as it did, three of the [Ophanims]— including the foremost one which was attacked by the Corrupted Heavenspace— were suddenly and rapidly ripped apart. Their wheels were shattered, and the flames coating their eyeball-like bodies flickered out.
+
+Giant crosses made out wood shot down from the sky, pinning these three [Ophanims] to the ground. And before they could even try to break free, an ethereal figure that resembled the Archangel itself appeared before them, carrying a burning lance. It stabbed all three of the [Ophanims] one after another, before fading away.
+
+And as the three [Ophanims] were left there to die, their bodies began to rapidly wither. Clouds passed through the sky like months were passing in mere moments. Overgrowth began to overcome the remains of the temple as the corpses of the three Supreme Spirits rotted.
+
+Before this scene ended in an instant.
+
+Blinking, Edithe found herself back under the green sky of the Spirit Plane. Any signs of the temple or the hole in the ground were gone. The only proof that anything had even happened were the three rotting eyeballs of the [Ophanim] that had been targeted by the Archangel.
+
+“HAHAHAHAHAHA!”
+
+The Archangel laughed, spreading its arms wide as the remaining [Ophanim] turned to face it. Behind the Archangel, more and more corruption came pouring out into the world, no longer being purged by the Supreme Spirits.
+
+Because their attention was drawn entirely only to the Archangel.
+
+Another massive Corrupted Heavenspace crawled out of the hole in the ground as Edithe pursed her lips. If it was only a battle between the corruption and the [Ophanims], she was certain they would have prevailed, despite the seemingly unending outpouring of the corruption.
+
+But with the Archangel’s presence…
+
+Her eyes narrowed as she caught a glimpse of something moving at the ground below. The three dead [Ophanims] began to twitch where they lay, their bodies slowly beginning to rebuild themselves. Their flames relit. Like they were being given a second chance at life.
+
+“What is happening?”
+
+Edithe asked as she stared at this scene.
+
+But the Archangel took notice of this too. It just glanced back dismissively and snapped a finger.
+
+“[Rapture].”
+
+All at once, all three of the three reviving [Ophanims] vanished. Like they never existed in the first place.
+
+Edithe couldn’t even react to what she just saw. She was at a complete loss for words. Three Supreme Spirits had been killed before her very eyes, just like that. And it almost looked like they were coming back to life, before they were completely erased from existence.
+
+How could she react? It was like she was an ant watching giants collide. This was a battle that was far beyond her capabilities of comprehension.
+
+And it was not just her who was in a daze. Willy, Druma, and Centina had remained silent all throughout as the battle progressed.
+
+Edithe didn’t know what was going to happen next— she didn’t know what she hoped to happen next. All she knew was that she could just watch. So watch she did as the Archangel spread its arms wide and faced the remaining [Ophanims] floating before it.
+
+“HAHAHAHA! YOU ARE ALL SO WEAK COMPARED TO ME! I WILL KILL YOU ALL—”
+
+But the Archangel suddenly froze. The glowing red light of the [Ophanims] slowly faded away, and they drifted back. No— it looked like they were almost… bowing?
+
+Edithe didn’t understand what was happening. But she watched as the Archangel slowly turned around, its gaze facing towards a figure on the ground.
+
+A man.
+
+A… Human?
+
+He looked no different than any ordinary man Edithe would meet back in the Human Lands. He had brown hair and blue eyes. He wore a set of white robes that was almost akin to what [Priests] would wear. Except, his garments were far more plain and simple.
+
+He stood there, right before the crater storming with the outpouring corruption. But he wasn’t afraid— not even of the Corrupted Heavenspace rising out of the hole in the ground behind him. He stood there with an expressionless face as the [Ophanims] bowed to him and the corruption ignored him.
+
+And next to Edithe, Druma backed away with round eyes, while Willy’s flames turned white in fear.
+
+“Who is that?”
+
+Edithe asked, staring at the man. And as the Archangel stared at him too, its lips twisted into a crazed smile.
+
+“That is—”
+
+Druma started. But he was cut off as the Archangel exclaimed.
+
+“So you have finally decided to face me yourself, Soli!”
+
+Edithe blinked, hearing that name she had never heard before. Centina glanced around in confusion too. And Willy continued, almost bowing his body in reverence.
+
+“That is the Spirit Lord.”
+
+[??? - ???]

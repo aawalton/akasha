@@ -1,0 +1,217 @@
+---
+id: 40ccabf3-0cf2-58fc-8805-52a194ef16ef
+page-type-slug: story-chapter-royal-road
+title: "2. The Others"
+slug: 0004-2-the-others
+partOf: salvos
+position: 4
+ownLength: 3338
+unit: words
+publishedAt: 2020-11-09
+link: "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/582222/2-the-others"
+royalRoadId: "582222"
+---
+
+2. The Others
+
+I saw the others for the first time. There were many of them, all grouped together and wandering mindlessly through the empty landscape. They stood out in the white background— their vibrant colors stood out in sharp contrast to the blandness of the landscape, making them almost seem inviting. But I did not approach.
+
+I waited in the near distance, watching to see what they would do. There were all sorts of them— most of them like me, but with slight variations in their forms. One of them had black and yellow spots on its back, despite the rest of its writhing mass of a body being red in color.
+
+Another one had only a single eye on its face instead of the two I had, with a pair of long protrusions right above it. And another one had multiple small protrusions at the bottom of its body, wiggling and moving in a way that somehow made it faster than the rest.
+
+It almost reminded me of the rocks wrinkling the ground— we were all the same, only slightly different. Was I then just like a rock with absolutely no individual characteristics to me? Was I not special in any way? Somehow, the very thought of that terrified me.
+
+At first, my interest had been piqued from encountering these other creatures, but now I wanted to run away from them. I had to be different. I had to have something that differentiated myself from the others!
+
+I was just about to flee from the group of colorful beings that looked just like me when I remembered the words that resounded in my head when I was first born. No— I wasn’t remembering the same words. It was different now, but I knew it was the words that defined me. And it was…
+
+Salvos
+
+Species: [Infant Demon]
+
+Subspecies: [Demon Larva] - Lvl. 2
+
+That was right. I had leveled up, which was why I was Level 2 now. But that wasn’t why I checked my Status. I did it because I could use it to compare myself with the others. If I used [Identification] on them, would the results be the same just like with the rocks?
+
+I was uncertain, but I had to know. I felt my entire body quiver as I focused on the nearest of the others— the one with the colored spots patterned throughout its body. I hesitated for a moment, however went ahead with activating my Skill anyway.
+
+[Identification]!
+
+The words appeared in my head: the information that described the being for what it was. My entire body tensed as I processed it all—
+
+[Demon Larva - Lvl. 1]
+
+I found my entire body sagging, feeling the tension that once held me disappear. This sensation, it was… relief? I wasn’t entirely sure just yet what it was, but I liked the feeling. It was nice.
+
+This Demon— [Demon Larva]?— or whatever it was, was evidently the same Species and Subspecies as me. And yet, I was higher leveled than it. It was different from the rocks which all produced the same results. There was a distinction between myself and the others. I was not an object, but a subject— just like I thought I was. And somehow, that thought calmed me down.
+
+Wait, that means…
+
+I carefully approached the group of Demons that had taken notice of me and were now just staring at me; some of them had a curious look on their face, almost as if they were waiting to see what I would do, while others seemed completely uninterested and were just following whatever the group was doing.
+
+I got closer to them and began using [Identification] on each and every single one of them. I might have been unlike a rock in that I was unique, but I was not sure if that applied to these Demons too. Perhaps they might have all been the same, which in that case, meant they were just more rocks. That was almost the conclusion I came to where I checked the first three Demons.
+
+[Demon Larva - Lvl. 1]
+
+[Demon Larva - Lvl. 1]
+
+[Demon Larva - Lvl. 1]
+
+I was just about to stop using my Skill, deciding that these Demons were all the same, when I saw the Demon with the protrusions… the legs… take a step closer to me. I met that Demon’s eyes and used [Identification] on it.
+
+[Demon Larva - Lvl. 3]
+
+It was Level 3? It was higher leveled than me!
+
+I stared at that Demon in shock and another feeling for a moment. Why was it Level 3 and I was only Level 2? That was unfair. I wanted to be Level 3 as well!
+
+For some reason, I was discontent with being lower leveled than this Demon. I wanted to possess the same or better qualities than it— her!
+
+She was a her.. I intuitively knew she was a her. And she was better than me.
+
+However, she seemed to pay no mind to that fact, and was instead moving her legs, gesturing between herself and me. She... wanted me to go with them?
+
+I glanced about at the others, again taking in their stats with [Identification]. In that group of a dozen, there were three other Demons at Level 2— the same as me— and one more at Level 3. The rest were Level 1, and apart from the one with colored spots on its back, they didn’t seem too interested in anything really.
+
+They were just following the group. But why were they doing that?
+
+I pondered it over for a moment, as the group began to head off, led by the other Level 3 Demon. The one with legs waited for me as I lay there, considering these questions in my mind.
+
+Perhaps, I thought, as the Demon finally started after her companions. Perhaps they’re following the Level 3 Demons to learn how to get to that level too?
+
+That was the only line of reasoning that made sense to me. I could not rationalize any other train of thought that would lead them to group up like that. After all, the moment I met that Demon, I immediately wanted to reach the same level as her, so it made sense that the others felt the same way!
+
+I hurried after the group as they got further and further away. They didn’t slow down for me, even though a few noticed me trailing after them. Not that it mattered. I was still with the group until they once again gathered as a group, attracted to something new and interesting.
+
+They huddled around something that was lying motionless on the ground, just at the foot of a small hill; I tried to see what it was, but they were blocking my vision. I had to go around them— up to an elevated position— to clearly see what they were investigating.
+
+Was this how they leveled up? I did level up from inspecting rocks on the ground. Perhaps simply going around and poking at whatever new thing you came across was what helped you to level. Maybe the more peculiar an object it was, the more experience you gained from looking at it?
+
+I peeked down at what the others were studying, when I realized I had been mistaken as to what it was they say. Instead of seeing a weird rock like I had imagined, I saw another [Demon Larva] lying on the ground, motionless.
+
+The others had formed a circle around it, curiously looking on at it, but still keeping a small distance away from it. It was almost a repeat of when they had met me, except that they didn’t approach it any further. Why was it not moving? Why was it just lying there? These were questions that crossed my mind, and I was sure they held similar thoughts to these too.
+
+Suddenly, the [Demon Larva] jerked. It straightened its body, snapping its head up as the others backed away from this sudden movement. This [Demon Larva] looked different. It was not like the ones in the group— the ones that were about my size with small variations in form. Instead, it was thicker than us, it was larger than us, and it had a longer body than us.
+
+Noticing this fact, I had my interest piqued and I decided to inch closer to it. I got till I was about as far away from it as the others before I used [Identification] on it. The results it produced surprised me.
+
+[Demon Larva - Lvl. 5]
+
+It was Level 5? That was more than twice my level! It was 2 levels higher than the highest leveled Demon in the group!
+
+I had to know its secret; it was so huge— almost twice my size— and so high leveled as well. I didn’t want to be Level 3 anymore— I wanted to be Level 5 if it meant I could get that big!
+
+The others must have shared the same thought. One of the Level 3 Demons— the one with the legs— slowly stepped forward to the Level 5 [Demon Larva]. The only thing that stopped me from rushing up to it as well was a sudden thought.
+
+It was a random thought, but I wondered to myself: why was it alone? Did it not follow any other Demon to reach its level? And did it not encounter any other Demon that wanted to follow it to reach its level?
+
+It was these thoughts that made me a moment slower than the legged Demon to reach the large Demon. She stopped right in front of it as it loomed over her. She tilted her head slowly, and proffered one of her tiny limbs out—
+
+And it crushed her.
+
+In a single motion, the large Demon crushed her with its head. The Level 3 Demon— the one that had waited for me as the rest of her group left me behind— was squished in an instant. All that was left of her was a broken body with black liquid oozing out of it.
+
+I stared in shock for a moment, still trying to process what had happened. And I wasn’t the only one. The others were as taken aback as I was. The only thing that saved us from being immediately killed as well was the change that went over the large Demon’s body.
+
+The large Demon wriggled as it began to morph and grow bigger in size. That brief reprieve was what allowed us to finally react to this unexpected development. Three of the Level 1 Demons and one of the Level 2 Demons charged at the large Demon, throwing themselves at its body in a combined attack.
+
+It reeled back from the hit, bruises forming on its body where it had been struck. They continued to assault its body as the others began to join in. For some reason, I was also compelled to help them fight the large Demon, but that feeling was quickly squashed as it crushed the Level 2 Demon. It swiped its body at two of the Level 1 Demons, breaking their bodies and sending them flying.
+
+Upon seeing that, the rally against the large Demon quickly turned into a retreat; I watched as the Level 1 and Level 2 Demons that started at the large Demon in a charge scramble away from it as it crushed the last of the Demons that had attacked it.
+
+It was too high leveled for us to take down! We were less than half its level, so of course it would be able to take us out with ease. But there was still the other Level 3 Demon, the one with the feelers on its head—
+
+I cast my gaze around, looking for the Level 3 Demon. He was… running away? No— he wasn’t just running away, he had been running the entire time.
+
+I must not have noticed because I was distracted, but the moment the large Demon killed the first Level 3 Demon, he turned tails and ran for it. That was why he was already disappearing into the distance while the others were still within the vicinity of the large Demon.
+
+I panicked. I was going to be crushed too! I didn’t want to be crushed! I didn’t want to… die. I had just been born. Dying now was something I absolutely did not want!
+
+I started after the Level 3 Demon, trying to catch up to him. But he was faster than me— barely faster, but definitely faster. I crawled alongside the other fleeing Demons as we tried to get away from the large Demon. I craned my head around as I did, just in time to see it catch and crush another Level 1 Demon.
+
+It was faster than us too! For some reason, even with such a large body, it moved quicker than me. Why was it so fast? Why was it so strong? I didn’t know. I don’t know—
+
+Then, as if by instinct or by deduction, I realized why it was faster than me. It had a higher [Agility] than me. That had to be it.
+
+It had leveled up and used its Stat points to raise its [Agility]. And that was probably why it was its size too. One of its Stat points— either [Vitality] or [Strength]— was also raised to make it bigger. The large Demon was about to catch up to me when I hurriedly recalled my Stats.
+
+Stats:
+
+[Available Stat Points: 5]
+
+[Vitality]: 5
+
+[Strength]: 5
+
+[Endurance]: 5
+
+[Wisdom]: 5
+
+[Agility]: 5
+
+Skills:
+
+[Available Skill Points: 1]
+
+[Unused Skill Slot] x5
+
+I had received 5 Stat Points and 1 Skill point from leveling up. I had nothing to spend my Skill Points on, so I ignored it and focused only on my Stats.
+
+Each of my Stats already had 5 points in it, but I now had 5 more I could distribute amongst them. I had a rough idea of what each did, but only two of them would help me in the moment: [Strength] and [Agility].
+
+If I spent my Stat Points on [Strength], perhaps I could match the attack power of the large Demon. However, that still meant it outmatched me in speed, so it would land more hits on me and kill me faster. So that was out of the question.
+
+So I decided. [Agility] it is. I spent all 5 of my Stat Points straight into [Agility], and instantly felt an odd sensation wash over my body.
+
+I didn’t sprout legs, per se, though I did gain small limbs that helped push me forward. I also felt lighter. My body was more slick. Like even if I didn’t use my limbs and just crawled ahead, I would still move twice as fast as I did before.
+
+I wasted no time trying to accustom myself to my body and sped ahead. I ran past the other Demons ahead of me, feeling relief knowing that I would escape with my life. That was, until I heard the crunch that came from another Level 1 Demon being crushed by the large Demon.
+
+I stopped in my tracks and turned around. The large Demon was catching up to the others. It was going to kill them all— none of them, except for the Level 3 Demon, were going to escape. They were all going to die.
+
+That didn’t bother me so much. As long as I lived, why did it matter if they died? And yet, I was running from this large Demon. This large Demon that attacked and killed us for no reason. The others were running from it, fearing for their life, when they probably would have been able to take it down if they worked together from the very beginning.
+
+In fact, one of the Level 2 Demons realized this. He realized that they could not escape, and the only chance they stood was if they banded together. He tried to rouse the others to turn around and fight. Squish. He died as the others ignored him and continued to flee.
+
+Was I really like these other Demons, running like a coward from something I could beat? Surely I was not just a rock that the large Demon used to level up before tossing me aside like the other dozen rocks it looked at, right? And if I really wanted to reach the same level as that large Demon— if I wanted to hit Level 5… no, Level 6 like it— I shouldn’t be running away from a fight like this, should I?
+
+So I stopped running away from this large Demon and charged back at it. It was about to crush another Demon— the one with the colorful spots in his back— when I tackled it, striking it across the face.
+
+The large Demon turned its attention to me as I struck it with my entire body once again. This time, it took the brunt of the hit and brought its head down to squish me like it did the others. However, I skittered away from the attack, dodging it with relative ease.
+
+I backed up as it tried a follow up attack, swiping at me from the side, trying to use its size to its advantage. I barely avoided this attack. If it had hit me there, I probably would have been squished. But I survived it, and saw a wide opening.
+
+As the large Demon tried to reorient itself, I saw the perfect chance to strike once again. I aimed for the bruise that had already been made by the first of the others that attacked it, smashing my head down onto it.
+
+This proved effective as it staggered from the blow, pulling itself back to try and gain some distance between myself and it. I did not let up, however. I used my new limbs to hold onto its body as backed away, continuing to hammer my head into its body.
+
+It lurched from the repeated strikes, trying to shake me off. When it couldn’t do that, it straightened its body and brought its head up and over me. It tried to smash me, but I easily slithered away as it hurt itself. But instead of getting off the large Demon, I made my way up of it.
+
+It twisted its body in confusion as I climbed up to its head. It was wary of attacking me now that it realized it was able to inflict damage on itself with me on it. And in that moment of uncertainty, I seized the large Demon by the head.
+
+I wrapped my body around just below the head of the large Demon. It thrashed about to get me off it, but I simply squeezed my body tighter, using my limbs to stop myself from falling off. It spun and squirmed in a panic, but I did not let go.
+
+I wasn’t sure how long I held that position— I wasn’t sure how much harder I tried to curl myself under its head— but eventually, there was a pop. The head of the large Demon fell limply off its body, its black blood getting all over me.
+
+I collapsed alongside the body of the large Demon, and I lay there triumphant as the words of victory rang in my head.
+
+Defeated [Demon Larva - Lvl. 6]!
+
+Abundant experience is awarded for defeating an enemy three times your level!
+
+Subspecies [Demon Larva] Level Up!
+
+[Demon Larva - Lvl. 2] -> [Demon Larva - Lvl. 3]
+
+Gained 5 Stat Points and 1 Skill Point!
+
+Subspecies [Demon Larva] Level Up!
+
+[Demon Larva - Lvl. 3] -> [Demon Larva - Lvl. 4]
+
+Gained 5 Stat Points and 1 Skill Point!
+
+I did it! I leveled up twice! I...
+
+Wait, why am I only Level 4? It was Level 6, right? I beat it! It was Level 6! Shouldn’t I be Level 6 now too?!

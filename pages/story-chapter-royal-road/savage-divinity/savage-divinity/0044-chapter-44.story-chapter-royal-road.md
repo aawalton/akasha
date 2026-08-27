@@ -1,0 +1,97 @@
+---
+id: 82ab0392-1c32-55f5-908f-4d9124f7af84
+page-type-slug: story-chapter-royal-road
+title: "Chapter 44"
+slug: 0044-chapter-44
+partOf: savage-divinity
+position: 44
+ownLength: 3017
+unit: words
+publishedAt: 2016-04-13
+link: "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/64478/chapter-44"
+royalRoadId: "64478"
+---
+
+“I still think you should bring us with you. We can tough it out, be of use. I want to help.” I plead my case to Akanai, but she isn't having any of it. She's getting ready to leave and rush straight home to help defend the village. She's only bringing the Sentinels, Husolt, and Taduk with her, taking a dangerous course home, trying to avoid the wandering bands of Defiled. They intend to leave first thing in the morning, allow Husolt some rest. He's been working through the night in order to finish quickly, and I think he spent a lot of money on materials as well, rather than craft everything himself. I wasn't allowed to watch or help since the process is a secret, but Sumila is there with him.
+
+Shaking her head, Akanai taps me lightly on the forehead. “Think boy. More people means more chances of getting spotted. We mean to ride hard through rough and hostile terrain, sleeping and eating as little as possible. Even if you can handle it, Tali and Tate can not. Would you have me leave them behind alone?” She softens a bit, and brings me to a table with a map laid out. “You finish the contest, bring pride to the People, and then you return home, by this route.” She traces a path along the map, running from the Society to the western border cites, and along the coast, before arriving at Shen Huo. A long journey, that will take at least two months to complete. “That is the safest course. You can cut it short if news reaches the cities that the Defiled have been swept away, but the enemy will not be hunted down so easily. Just listen to Alsantset, and bring everyone home safe, boy.” Patting me on the back, she leaves to continue her preparations while I stare uselessly at the map.
+
+It's difficult for me to process that the Empire is at war. War is peace, or at least it seems that way. I figured there would be a giant change in the atmosphere, but everything is going on as usual. The contest is still proceeding, children still playing, citizens still frolicking. Although the Defiled broke through the mountains, there isn't panic in the streets, or even an overly concerned vibe. It seems like just another day to them, even though there could be a massive hostile army just two weeks away from the city.
+
+Studying the map, I see the bridge marked, as well as the three fallen fortresses. One of them is incredibly close to the village, if the map is accurate in scale. I don't think anyone can easily find the village, or even attack it if they could. You need a roosequin or wings to get up there, so they should be safe. The ancillary warehouses may be in danger, but they only keep horses and wagons down there, with a skeletal crew to keep things tidy. It's one of the available Sentinel jobs, in fact, something I avoided because it seemed boring as fuck.
+
+There are three cities forming a semi-circle around the Bridge, Shen Huo or Divine Fire in the west, Shen Mu or Divine Wood in the east, and Shen Yun, or Divine Cloud in the south. Any sizable army trying to move out into the rest of the Northern Province would have to contend with the armies in those three cities. Shen Huo is pretty well defended, and I'd assume the other two cites are as well. The Society is sending two armies to camp out between the three cities, but that still leave the village unprotected. I say a prayer to the Mother to keep everyone safe.
+
+I'm fucking useless still, of no help to anyone. The village is in danger, and I'm here taking baths and playing games. What the fuck did I become a Sentinel for, if I'm not there to protect everyone in this time of danger? I'm too weak, that's why. I know Akanai was sparing my feelings, she just didn't think I could handle the truth. The worst of it is, she's right to leave me behind. I'd slow them down, and be of no use.
+
+Stomping out to the training yard, I take my stance in front of the metal post. I've been enjoying myself too much, slacking off, literally dicking around. I need to kick things into overdrive. I need to become stronger.
+
+Deep breath in. Deep breath out. Punch. Failure. Again.
+
+Deep breath in. Deep breath out. Punch. Failure. Again.
+
+Again. Again. Again.
+
+“Rainy, we go play, ya?” Little Tali voice sounds out from behind me. Snapping out of my fugue, I look at my hands, bloody and raw, skin peeled and bruising. Fuck, that hurts.
+
+“Not now. Maybe later, sweetling.” Sitting down, I heal my hands. Fuck the moratorium, I can just eat more later. When my fists are healed, I stand and start again, my fist pummeling the metal, no longer calm, but at a rapid pace. I need to learn this shit. It's been two months and I'm no closer than when I started. If I can master Amplification, that means I'm no longer relying on just 35 cm of steel sword, and instead I can rely on 3 meters of wood and iron. Strike without being struck, the key to victory. Besides, I might not be able to use my spiritual weapon in the contests. They haven't released any news about how we're competing.
+
+“Rainy, I wanna go play now please. We can go now, ya?” Tali is back after a short while, once again interrupting me. My stomach feels empty, I might have missed lunch. Did I even eat breakfast?
+
+“Not now. Maybe later.” I can't even spare a glance at her, I'm close, I can feel it. Just a bit more, and I'll have it.
+
+A tiny tug on the back of my pants. “But you said that already, Rainy. I wanna go play with Rainy, let's go now, ya?” She sounds sad and hopeful, no whining or demands.
+
+“I'm busy right now, little Tali. Go find someone else.”
+
+Another tug. “I don't wanna go with anyone else. You said we'd play in the city later. We can go play, ya?”
+
+“I said I'm busy!”
+
+My fist slams into the metal post, a loud crash reverberating through the yard. My first success. A fist shaped dent is formed, in the center of the post, my arm throbbing in agony as my knuckles break. Unphased by my anger or the noise, Tali continues to tug on my pant leg, while I cringe, holding my injured hand, tears streaming from my eyes. Don't swear. Children are present.
+
+Mei Lin walks up to me, smacking me lightly on the forehead. “You stop training now, ya? You're going too far Rainy, you need to relax. We'll go to the park together, it's very lovely and romantic.” She takes out a jar of unguent and slathers it on my fists, gently blowing to ease the sting, just like she always does. I can never say no to Mei Lin, so I close my eyes, trying to heal what I can. It's not too serious an injury, but still more than I can fix in a few minutes. When my eyes open once more, my hands are neatly wrapped and bandaged, Mei Lin and the twins waiting patiently, hand in hand.
+
+The park is very lovely, lined with trees in the midst of blossoming, pink and white petals fluttering about, a paved stone path winding around a large pond, with many couples and families wandering about. The twins run about, enjoying the sights, playing games that only children can enjoy. Mei Lin clutches my arm, head pressed against me, her cute face reddening. This is what my life should be like, a pretty girl on my arm, two kids to look after. Maybe a pet dog, something like that.
+
+Taduk has tried to bring up the subject of marriage multiple times. I always decline, stating that we're both too young to marry, and that she's more a sister to me than anything. I'm really not too sure about marriage with anyone my age. It just feels wrong, they're just so young. I know Mei Lin has a crush on me, and it's adorable. I do love her, but more like a little sister, not as a woman. I've known her since she was a tiny ten year old girl in short pigtails, and now, she's still a little girl, just taller, with longer pigtails. She should find someone her own age, her real age. I've tried to flat out reject her, stating various reasons, but it only made her cry for a few days, and then she just started trying harder to win my approval. It's probably just a phase, or a young crush. It'll fade eventually, when she meets someone else.
+
+“Rainy, we're finally out, alone together and you're lost in your own thoughts.” Mei Lin is pouting, cheeks puffed up. I poke her cheek, like she is so fond of doing, deflating it. What does she even see in me anyways? It's probably just because I grew up with her, close to her. She didn't participate in the training with Alsantset, and she lived on the fringes of the village. She must have been lonely, or something like that. She has plenty of friends though, seemingly on a nick-name basis with everyone. She won't have any shortage of suitors, even Fung had a little crush on her at one point. The problem will handle itself.
+
+Turning away from her, I keep an eye on the twins. “Sorry, Mei Lin, just worried about the Enemy, the war. I want to be able to help, but I'm here playing games with children.”
+
+“You love playing with the twins though, ya?” Those aren't the children I meant. The competition is for children. I should be with Akanai, fighting.
+
+“I shouldn't have come, should have stayed home, practicing. I could be of use there. The Defiled could assault the Bridge from the rear, killing everyone inside. Sure, reinforcements will arrive from the cities, but that won't do any good if Baatar and the rest are dead already. Not only that, the village is in danger as well, I saw where they broke through, and it's uncomfortably close to home.”
+
+“Silly Rainy.” She nestles against my arm, fighting my attempts to separate. “What could you do, even if you were at home? No one knows where the village is, and even if they did, we have an overwhelming defensive advantage. Akanai is the only one who can order the Sentinels to move out from the village. Even Tokta can't do that, he doesn't have a field commanders ranking. You'd just be sitting around there, instead of being here, with all of us.”
+
+She's right, but at least I could be prepared if I was there. “I could still go with them, if I wasn't so useless. I've been slacking too much in my training.”
+
+“They're leaving Mi-Mi behind too. Huu-Huu and Yan-Yan are still here as well, aren't they?” She seems entirely unconcerned by the events, just happy to be out on a stroll in a lovely park, as if open warfare isn't even a problem worth caring about. Taduk is going to be leaving on a journey of some danger, leaving her behind in an unknown place, but she just takes it all in stride. Her attitude is impressive, to say the least. She's not wrong, but I still feel like I could have done more. “Enough about that stuff, Rainy, are you excited about your new toy?” She's very careful about what she says, not mentioning that it's a spiritual weapon.
+
+Ah, right. I almost forgot about it. “Honestly? I'm feeling kind of neutral about it. I don't have time right now to spend months err.. learning it.” Almost slipped up and said harmonize there. We're in a public area, and there's no shortage of pedestrians around us.
+
+She makes a face, and is silent for a long moment before she opens her mouth again. “You might be right, Rainy. If you really feel that way, maybe you can give it to Yan-Yan.”
+
+“Adujan doesn't have one? And if you think that, then why did you get so mad when I suggested you take it?” Little moody brat. I'd pinch her cheek if my hands weren't so sore.
+
+“That's because I don't need one, silly. Yan-Yan contributes too much to the orphanage to have a weapon, is too selfless, works too hard for the children there. I think it would be a really nice thing for you to do, Rainy. You're right anyways, we don't have that much time for you to learn it. You're too slow.” She grins mischievously at me. She changes the subject, and we chat about nonsensical things, keeping me grounded and out of my thoughts. She really is the best, knowing that I need the distraction.
+
+I overhear snippets of conversations, mostly about the new heroes and their accomplishments. It's a little surreal, hearing about Baatar and Gerel from the mouths of strangers, and strangely exhilarating. It's kinda funny, seems that people aren't sure of their genders. I heard a few people spreading the word that the two of them are married, just like the two Exarchs. I can't wait to share that nugget of information with them, to see the looks on their faces.
+
+After some more chatting with Mei Lin, my thoughts return to the spiritual weapon. I don't need a second weapon, not yet at least. I should wait until my core grows enough to support the strain of two weapons in combat, in a year or two. I don't really like Adujan, but he's diligent at training, always there in the yard, albeit as far from me as possible, and it's laudable how he supports the orphanage. I feel like we could be friends if he wasn't such a giant douche nozzle. I should help the orphanage out more as well when I return. It's just a shield anyways and plus, I don't want the stress of carrying around an unbound weapon for that long. I'd really rather have a bigger weapon anyways. One centimeter longer, is one centimeter stronger. I laughed when Baatar told me that saying, but really, overcompensation has nothing to do with it.
+
+The twins soon tire themselves out running around, and I carry both of them, walking back towards our lodgings. The sun is setting behind me, a dimming, warm glow, while on the other side, a sliver of moon rises, with the new moon almost upon us. A day like any other day, it would seem.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+“You idiot brother of mine! All you've done is bring me heartache.” Cho Jin Sui quivered before his angry older brother Kai, too ashamed to lift his head, holding the report in his hand. As soon as they had arrived, Sui had set upon his merchant contacts to discover the identity of the Major General, and the news was dire. “Do you know what you've done? That woman is known as the Herald of the Storms, a lauded hero, with a medal bestowed upon her by the Emperor himself!” A crash sounded as Kai vented his rage on the heavy, hardwood furniture, reducing it to kindling in his fury.
+
+“I am sorry, brother. I did not know, I would never endanger you knowingly, brother. I will make things right, I swear to you. I can give them gifts, coin and slaves, appease them.” Sui babbled before his brother, pleading for forgiveness. How could he have known the barbarians were led by a Hero of the Empire from more than 50 years past? Kai had whipped Li Song so fiercely, she was still on the brink of death even days later. She would compete as she was, a punishment set out by Kai.
+
+“You will do no such thing!” Kai's meaty palm grasped Sui's chin, lifting him to stare in his face. “Listen to me, little brother. You have caused me no small inconvenience this time, directly aligning me against an enemy I did not even know of. I will not have you add to it by lowering your head before those worthless savages.” Kai released him, and he fell back, quivering in fear. They were close, had always been close, and Kai had never laid hand on him, always protected and looked out for him, but Kai was angrier than he'd ever seen him. “I forgive you for this, but the wine is spilled, little brother. Although she is more formidable that I thought, I have connections of my own, and some backwater whore of a general will not stop me. I will tear that damned insufferable brat to pieces, and have that slut kneeling at my feet in chains. First, I want those brats humiliated and beaten.”
+
+Kai left him his instructions and strode out, leaving the city on military assignment. Sui calmed his nerves, smoothing his clothes, instructing the servants to clean up the mess. He had made a grave error, insulting the Herald like he did, stirring up a hornet's nest. He feared for his brother, that he would bite off more than he could swallow. Their opponent was formidable, and even should Akanai leave the city like Kai, the devilish brat was fearsome as well. He shuddered at the memory of the tyrannical young warrior who stood above his defeated foes, daring seasoned soldiers to fight him with his glare, the savage glee with which he pummeled his opponents into submission, laughing as he strode through the chaos, trying to reach him. Scurrying off into the dark, he made his way towards his contact inside the Canston Trading group in order to set Kai's plan into motion.
+
+I spent way too much time on the crappy map. It isn't even all that useful for now, or even for awhile.

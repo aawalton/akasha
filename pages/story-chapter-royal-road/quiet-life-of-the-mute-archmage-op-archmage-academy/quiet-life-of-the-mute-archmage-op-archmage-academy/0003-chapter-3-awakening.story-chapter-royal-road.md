@@ -1,0 +1,167 @@
+---
+id: 5804200b-e12c-51ca-9200-6713ed0b2087
+page-type-slug: story-chapter-royal-road
+title: "Chapter 3: Awakening "
+slug: 0003-chapter-3-awakening
+partOf: quiet-life-of-the-mute-archmage-op-archmage-academy
+position: 3
+ownLength: 2161
+unit: words
+publishedAt: 2026-05-13
+link: "https://www.royalroad.com/fiction/167476/quiet-life-of-the-mute-archmage-op-archmage-academy/chapter/3388985/chapter-3-awakening"
+royalRoadId: "3388985"
+---
+
+Mana is the essence of the world, an expanse of pure energies that appears to the naked eye as shifting symbols.
+
+Magic, however, is the art of visualizing those symbols and chanting the precise spell to form a desired formula. Mages cannot wield magic without first giving it a voice. The only beings capable of voiceless chanting are archmages, sages, and higher-existing humans or gods, all possessing an immense potential capacity and, at times, an affinity for abstract concepts.
+
+Jen exhaled slowly as her thoughts grew distant. Her lush blue eyes lifted upward, tracing the slope to where a simple cottage rested against the pale morning. She sighed again, calculating the odds of Molly actually managing to create her first formula as an unawakened, without a single uttered chant.
+
+'Will it be possible?' she asked herself inwardly. The possibility of Molly using magic in voiceless silence wasn’t impossibly slim, since it required the tendency to read or see the mana drifting in the air and then will it into the visualized magic to shape a formula.
+
+A frown crossed Jen’s face. Throughout her long life, she had encountered countless people, mages, archmages, even sages like herself, and through the knowledge they exchanged, she had learned that there were no records of an average mage ever glimpsing raw mana in the air, much less an unawakened even entertaining the notion of catching a whisper of it.
+
+Molly’s case was very, very strange. So strange that a single thought rooted itself in Jen’s mind: If Molly, an unawakened child, could see the symbols floating all around her… did that mean she was an unawakened with the potential of an archmage, or an archmage still lying dormant?
+
+'No.' Jen shook her head in a slow, deliberate motion. That can’t be possible. The last time she had checked, Molly’s potential was three. Just three. So how could any of this be feasible? She exhaled again, but this time it was a sigh of acceptance, a small, wondering smile playing at the corner of her lips.
+
+How was anything related to that little girl normal? From the very moment Jen had taken the child in, she had tirelessly cast every manner of healing spell on her, desperate to help her speak. Yet, as fate seemed to decree, the girl’s condition was something that defied the ordinary. Ever since Jen became a sage, nothing had been truly impossible for her, there had been no limit to what she could accomplish.
+
+Until she met this lovely little girl.
+
+Jen halted mid-step and gazed up at the early morning sky. The dull blue expanse had yet to lighten fully, the sun still slumbering below the horizon. She drew in a deep breath, and the faint scent of something resembling vanilla drifted into her nostrils before she released it gently. Her eyes drifted back to the cottage, now visible in the near distance.
+
+'I wonder if she’s still asleep?' she mused, a warm smile spreading softly across her features.
+
+She resumed walking toward the simple cottage. When she reached the entrance, she pressed open the door with a slight creak, the wood swinging inward at her touch.
+
+But before she could even take one step inside, she paused. Her eyes widened at the sight before her.
+
+“Molly!”
+
+Her gaze snapped to the dining table. A wet sheet of paper rested there, and on its surface, drawn in black ink, was a symbol that carefully detailed every root and structure of the water formula Jen had used to wash Molly’s hair just the day before.
+
+Jen’s eyes shifted a few inches away from the table, where a vivid, luminous blue formula hovered in the air. It was a perfect replication of the spell she had cast, the six water droplets creating the root, the large circle encapsulating the arrangement to form the structure, completing the entire spell.
+
+Her gaze finally landed on Molly, who had stiffened upon hearing her name. The girl’s crimson eyes locked with Jen’s figure at the door.
+
+“Molly…” Jen whispered in bafflement, her eyes still wide, but beneath the wonder lay both fear and surprise.
+
+A small, embarrassed smile slowly crept across Molly’s face as she tucked one slender hand sheepishly behind her back, as if that small gesture could hide what had just unfolded.
+
+Molly watched as Jen strode immediately toward her, and the moment she arrived, she knelt down to the child’s height. Her hands gently but firmly held onto Molly’s arms.
+
+“Are you hurt? Are you feeling pain anywhere?” Jen began checking her with urgent care, her eyes scanning the girl’s small frame. She prayed silently that Molly hadn’t injured herself in the process. If she hadn’t noticed the embarrassed smile still lingering on the child’s face, she would have already summoned her arsenal of healing magic just to be certain.
+
+A deep, shuddering sigh of relief escaped Jen’s lips as the fear clutching her heart slowly receded.
+
+She fixed Molly with a stern expression, though her hands remained gentle. “Molly. I thought I promised you we would practice magic together today,” she reminded her softly.
+
+Molly nodded slowly, a sad expression flickering across her face as she registered Jen’s tone. The realization of what she had done washed over her in a quiet, heavy wave.
+
+“Why did you do it without supervision? Do you know how dangerous it is to practice magic without guidance or a deep understanding of it?” Her voice grew sterner, though beneath every word was a palpable, trembling worry. “Molly… what if something had happened while you were forming that formula? I wouldn’t be able to forgive myself.”
+
+Jen was about to continue her reprimanding, but she stopped short as she noticed the sad expression washing over Molly's features, the girl's fingers fidgeting and dangling upon each other in nervousness. Her eyes were slowly growing watery.
+
+Jen's face softened at the sight. A deep sigh escaped her as she pulled Molly into her embrace, patting the little girl's back in a gentle, steady rhythm. "There, there," she murmured.
+
+"I didn't mean to sound harsh. I'm just worried and afraid of what could have happened if something went wrong." She felt Molly's tiny arms wrap around her in return.
+
+A warm beam spread across Jen's face. She let the embrace linger a little longer before pulling away slowly, her thumbs brushing the tears from Molly's cheeks.
+
+When she finished, her gaze shifted to the still-hovering formula Molly had created, and her smile turned quietly amused. "Life really is unpredictable," she mused.
+
+With a calm wave of her hand, the luminous blue formula that still poured out water dimmed and dissolved into nothingness.
+
+In the silence that followed, Jen made a soundless utterance. The rough white symbols drifting in the air obeyed her will without hesitation, they shuddered for a suspended moment before floating around her slender hand and gathering shape upon her fingertip.
+
+The first symbols assembled into the image of a swirling vortex. The remaining ones followed, arranging themselves into eight long lines, each tipped with an arrow shape pointing toward the vortex, creating the roots. The last symbol to form was the structure, which took the shape of a large circle encapsulating the entire arrangement. The completed spell was the spitting image of a gravitational force, all arrows directing inward. After a few moments, the formula was dyed a dull, dark bluish-purple.
+
+In an instant, the water that had soaked and flooded the little cottage was seized by a powerful suction. Every lingering drop was pulled into the formula resting upon Jen's hand, vanishing into the place of emptiness created by the spell.
+
+This formula required immense precision and concentration. Had it not been for Jen's years of experience and deep knowledge, even the cottage itself would not have remained standing.
+
+Once all the water had been drained away, Jen dismissed the formula with a thought, letting it dissolve into nothing. Her gaze returned to Molly, who was still staring at the now remarkably dry room, her expression blooming with open fascination.
+
+"Ah, ah, ah." Jen's voice cut through Molly's thoughts.
+
+Molly turned to her, eyes meeting Jen's stern expression.
+
+"Admire. But do not practice without guidance." Jen raised a brow. "Am I clear, young lady?"
+
+Molly pouted but still gave a firm, deliberate nod.
+
+Jen watched the expression on Molly's face and couldn't help but smile, her thoughts straying back to what the child had accomplished. She replayed the [Tier 1] magic she had witnessed.
+
+A sudden realization settled over her as she remembered:
+
+It is only when an unawakened casts their first formula that their true potential can awaken, which in turn grants them their affinity.
+
+Her gaze drifted to Molly, who seemed to be reimagining the spell Jen had just performed, her small brows furrowed in concentration.
+
+Upon noticing Jen's gaze on her, Molly turned and grin brightly.
+
+Jen subconsciously mirrored it. "Say, Molly. Let's take some air outside."
+
+She paused, the warmth in her voice deepening.
+
+"While we wait for your affinity to awaken."
+
+*****
+
+The wind swept through the wide meadow of green and vanilla-scented grass, the blades bowing gently in the cool air.
+
+Molly sat upon the smooth grass nearby, her eyes lifted upward to the sky that stretched bright and clear and still, as if the whole world was waiting for what was to come. She watched the clouds drift across the soft tones of blue, the morning sunlight spilling gently over the hill.
+
+Nearby, Jen approached with two small bowls cradled in her hands, faint wisps of steam curling above them. Molly's expression brightened the moment she spotted the bowls.
+
+Jen finally reached where the child sat and handed her one of the bowls, which Molly accepted with both hands, peering eagerly at the contents inside.
+
+She watched as the faint steam drifted into the air. Her stomach gave a quiet growl while she stared at the butter dumplings that filled the small bowl, their cream-colored dough wrapping the delicacies hidden beneath the cooked surface.
+
+Molly carefully placed the bowl on the ground beside the two cups of water she had been guarding while waiting for Jen's arrival.
+
+Jen seated herself beside Molly, also setting her bowl upon the grass.
+
+Almost in unison, both of them clasped their hands together in silent prayer.
+
+"May the gods bless the food."
+
+Molly nodded in reply. She opened her eyes and lifted her bowl of butter dumplings, gripping the chopsticks and testing their weight between her fingers. A frown flickered across her features as she adjusted her hold. She still was not used to these utensils.
+
+After a few trials of positioning them just as Jen had taught her, she finally managed a steadier grip.
+
+Without further delay, Molly dug into her food. She used the chopsticks to pick up one of the dumplings, opened her mouth wide, and placed it inside.
+
+The moment the dumpling touched her tongue, she could not help but make a small sound of delight as she chewed slowly. The buttery texture of the dough melted across her tongue, and the spiced tenderness of the minced meat followed after. Molly chewed with a bright, sunlit expression on her face.
+
+She turned her head slowly at the sound of a soft laugh from beside her.
+
+Molly smiled back before returning her attention to her bowl, finishing the remaining dumplings with steady, happy bites.
+
+When they had both finished, Molly, as always, collected her bowl and Jen's, then rushed back toward the cottage to put them away.
+
+Jen waited in the quiet meadow.
+
+When Molly returned, she lowered herself back onto the grass, a small frown knitting her brow as she noticed the rough white symbols gathering in the air with a strange intensity, far more aggressive than usual.
+
+"Your awakening is near," came Jen's voice beside her.
+
+Molly turned to her. Jen was gazing toward the heavens, a faint smile resting on her lips as she continued. "When a person is about to awaken their potential and true affinity, the mana in the area grows denser." She turned to meet Molly's already waiting stare. "The higher the potential, the denser the mana around them becomes."
+
+Her gaze shifted back to the sky, but this time she was not simply watching the heavens. She was observing the entire space that surrounded them, flooded with mana.
+
+The entirety of the hill was wrapped in dense mana. The air was thick with it. The sky itself was laden with it.
+
+It felt as though all the mana in the world had been drawn to a single awakening.
+
+The awakening of a little girl.
+
+The awakening of a unique existence.
+
+A small, knowing smile played on Jen's lips as she watched the mana across the entire landscape begin to shudder.
+
+Her smile deepened, turning quietly amused as she murmured in a voice barely audible.
+
+"It seems an archmage is about to be born."

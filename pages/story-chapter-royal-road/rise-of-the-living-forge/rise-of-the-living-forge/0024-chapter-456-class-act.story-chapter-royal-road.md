@@ -1,0 +1,179 @@
+---
+id: 68172f3c-7d49-58fb-9143-4d50796ec8f7
+page-type-slug: story-chapter-royal-road
+title: "Chapter 456: Class act"
+slug: 0024-chapter-456-class-act
+partOf: rise-of-the-living-forge
+position: 24
+ownLength: 2122
+unit: words
+ownProgress: 2122
+publishedAt: 2025-07-16
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2440154/chapter-456-class-act"
+royalRoadId: "2440154"
+markedReadAt: "2026-06-29T19:59:13.666Z"
+---
+
+Not one being within the Infernal Armory spoke. If a fly had somehow managed to survive the intense heat rising up from the rivers of black lava running through the grooves in its floor, even it would have remained utterly silent.
+
+The armor was beautiful. It was all Arwin could do to stare and take its stats, which shimmered in a golden window in the air before him.
+
+Gehenna, The Dreadhusk
+
+[Soulforged]: Forged at the hands of a Forbidden Soulmancer, a Dwarven Smith, a Lich, and an awakened building, Gehenna is a living being in its own right. It has acknowledged Arwin Tyrr and The Infernal Armory as its masters. Gehenna, The Dreadhusk, will grow more powerful with every soul it claims.
+
+[Arms of the Armory]: Gehenna, the Dreadhusk is capable of accessing any ability belonging to The Infernal Armory. It is capable of gaining varying effects from any material it consumes and melts within the forge burning within it.
+
+[Dread Core]: Gehenna’s core absorbs all magical energy from anything the armor consumes. Whilst this armor is worn, it will connect with its wielder to amplify any abilities they use.  Gehenna, the Dread Husk is also capable of independent movement so long as the mind of the Infernal Armory is present within it.  The core must continuously be fed for the armor to remain functional. Should it run out of power, Gehenna will break down and become irreparable.
+
+[Starved Husk]: Gehenna, the Dreadhusk has blood and flesh of metal — and it yearns eternally for more. It will drain the energy of any object or magical effect that comes into contact with it and store the power within the Dread Core. This will not affect other [Awakened] equipment.
+
+[Power Overwhelming]: Should Gehenna, The Dreadhusk gather more energy than its core is capable of containing, the armor will temporarily evolve and change forms to Gehenna, Dreadlord.
+
+[Six of One]: Gehenna, The Dreadhusk is a set of six forged as one. Its very existence has been seared into reality. Any damage done to the armor will repair itself at a steady rate. This rate can be increased by spending extra magical energy. Destroyed components will take longer and require more power to reform. Gehenna will only fully cease to exist if its core runs out of magical energy to draw from or is completely destroyed.
+
+[Soul Armor]: Gehenna, the Dreadhusk’s status is unreadable to all but the ones who made it. If anyone attempts to wear it without permission from its owners, the armor will douse the wearer with Soul Magma. It is resistant to all forms of damage, both magical and physical.
+
+Arwin swallowed. He was pretty sure his fingers were shaking, though he wasn’t sure if it was because of exhaustion or excitement. This was far more than he ever could have expected. It was simple knowledge that the most important aspect for any piece of armor was for it to protect its wielder.
+
+Gehenna, The Dreadhusk took that to the next level. He’d have thought that the skill description was lying if he hadn’t known such a thing wasn’t even possible. The armor couldn’t even be permanently damaged. As long as its core was still intact, the entire suit would rebuild itself.
+
+But that was far from all it was capable of. Being able to drain magical energy had quite a few uses. But growing stronger with every kill and taking properties from metal it consumed sounded striking similar to his own abilities. That wasn’t even mentioning whatever the evolution to the Dreadlord form would accomplish — nor did it address what the Infernal Armory’s abilities were.
+
+Arwin hadn’t even thought the Armory had abilities. It was a smithy. It was, however, still alive. He supposed it was hard to argue that if a human could have abilities, then a building could too.
+
+“Incredible,” Wallace breathed. He wiped sweat from his brow and flopped down on the ground, spaying out like a short starfish. “I’ve never gotten that much magical energy from a single project before. And the results… that’s armor like I’ve never seen.”
+
+“Nor have I,” Koyu said, but his voice was considerably more guarded than the dwarf’s. “This… this is far more than just armor. It has blood. Flesh. Needs power to maintain its existence. We have succeeded in creating a body. A real one.”
+
+“And in one go at that,” Wallace said with a cackling laugh. “That’s what I’m talking about. Maybe its been the dwarves who were blind. The idea of making an entire suit like this in just one day…”
+
+“It wasn’t one day,” Arwin pointed out.
+
+Wallace grunted. “Fair enough. You’re not wrong about that. But still. The implications of this are ridiculous. I’ve never heard of anyone creating an entire set of items in a single go, much less one this powerful.”
+
+“Something like this could do a great deal of damage. The skills are open ended and there is a strong indication that this weapon will advance at terrifying speeds should it see sufficient bloodshed,” Koyu said. He stared at the armor for a long second. Then his gaze flicked to Arwin. “Do not let it consume you. This might not measure to the weapon I once helped create, but I will not be the reason for a Great War. Not again.”
+
+“I won’t,” Arwin promised. “I’ve seen what war does, Koyu. Maybe not as much as you. But enough. I will not allow myself to turn into a weapon again. I have purpose and people to protect.”
+
+“So did I,” Koyu said. “But you are a better man than I was. Just make sure it stays that way… and do not make the body you promised me anything like this. My own powers are more than sufficient. I do not need the temptation.”
+
+Wallace pushed himself upright, the smile fading from his features as he sent a serious look in Koyu’s direction. “The fact you don’t want it means you can be trusted with it. You aren’t a monster. I sensed more than enough of your soul while we worked to know that to be true.”
+
+“Bah.” Koyu waved a hand irritably. “I am not fishing for compliments. Where is the Armory?”
+
+The armor in the center of the room jerked. Its fingers twitched. Then, one by one, they closed into fists. Two molten eyes, glowing red with specs of black scattered through them like stars, ignited with a whoomp. Red mist poured out from the armor’s mouth like a hot breath on a cold, snowy night.
+
+A tremor ran through Gehenna. Its arm bent and the helm turned to look down at its hand as it flexed its fingers once more. Then the hinge on its jaw shifted as the lower half of the helm opened and closed several times.
+
+And, from within the helm, a voice emerged.
+
+“A body,” the Armory said, its words reverent. It turned its hand over, running fingers over itself with a series of ringing clings. “I have a body. I can move.”
+
+“How does it feel?” Arwin asked. “Anything obviously wrong? Issues?”
+
+The Armory was silent for a moment. Then its helm trembled. The motion looked odd for a moment before Arwin realized it was trying to shake its head.
+
+“No,” the Armory said. “I do not know what I should feel, so I do not know what could be wrong. My senses are so much more… limited. Contained. And yet, there is so much new. I feel as if I have been reborn.”
+
+“No urges to slaughter children?” Wallace asked, clearly only half-joking.
+
+“I have no desire to kill. I only wish to grow,” the Armory said. “To forge. That is my purpose. Don the armor, Arwin. We should establish a connection to determine how it feels when you wear my armor at the same time as I do.”
+
+Arwin nodded. It was a good idea. He moved to do just that, setting a hand on Gehenna’s beautifully carved surface. And then he paused. Perhaps it was a bit egotistical, but he couldn’t help but admire the craftsmanship that all three of them had put into the armor.
+
+The sculpted flames making up its pauldrons were so intricate that they might as well have been real. The shimmering magic contained within the armor’s body was like an ever-changing work of art.
+
+There might have been nothing in this world that was truly perfect, but the four of them had definitely taken their best damn shot at getting close to it.
+
+Arwin shook his head. Then, with a thought, he activated [Arsenal].
+
+He felt the armor connect with him. It didn’t exactly have a presence in the way Caldera did. The hammer had a certain hunger to it, a desire to both forge and slaughter alike. But the armor was different. Familiar, almost.
+
+It just felt like the Infernal Armory.
+
+Interesting.
+
+With a thought, Arwin banished the armor.
+
+Then he summoned it once more.
+
+It appeared around his body in an instant. Arwin’s eyes went wide as he drew in a surprised breath.
+
+This was nothing like wearing normal armor at all.
+
+He could feel Gehenna. The gauntlets weren’t gauntlets. They were hands, and they were as much his as they were the Armory’s. Information poured into his mind in an endless deluge. He raised a hand, just as the armory had done a moment ago, to stare at his metal palm.
+
+Gehenna was a second skin. Heat hummed within the armor, latent power just waiting to be put to use. Every movement he took felt easier. Smoother. Stronger. And, in the the back of his mind, the Infernal Armory’s presence lurked.
+
+He sent a thought in its direction.
+
+How do you feel?
+
+Incredible. We are preapared. I wish to see the outside world. Show me everything. You may need to make another one of these for the Devil’s Den. She will be jealous of me.
+
+Arwin bit back a laugh. At least the Armory had its priorities straight.
+
+I’ve got to make some other stuff first. A lot of it. But that comes later. The Blacktongues’ party is coming up. Don’t forget why we had to make sure this was ready by then.
+
+“We have to show this to the others,” Wallace said, rubbing his hands together. “When are we making the next suit?”
+
+Arwin grinned. With a thought, he banished the armor back into [Arsenal]. A displeased pang prodded his thoughts. To his surprise, another thought from the Infernal Armory entered his mind.
+
+Bah. I cannot feel anything anymore.
+
+You can still speak with me?
+
+It seems our minds are connected so long as the armor is either in your magical storage or worn. It will likely break when I am independently roaming around.
+
+Well, damn. That’s convenient. Just… uh, find a way to temporarily halt the connection. An easy one. I don’t want you spying on me at night. There are some things that don’t need an audience.
+
+I wish to experience everything this life has to offer. Show me.
+
+Absolutely not.
+
+Why?
+
+Arwin’s eyes narrowed.
+
+Because you don’t get to peep at my girlfriend.
+
+There was a short pause followed by a noise that Arwin could have sworn was the armory clearing its throat.
+
+I have no interest in flesh-creatures. I will pass on witnessing such things.
+
+Good.
+
+“You talking with the armory?” Wallace asked.
+
+“Yeah,” Arwin said. “Is it that obvious?”
+
+“It is,” Koyu said with a nod. “You look constipated. Work on multitasking.”
+
+“Noted,” Arwin said.
+
+“Then let’s get a move on. I want to see the looks on everyone’s faces,” Wallace said. He paused for a moment. “And I’d imagine this calls for a celebratory drink of Lillia’s finest.”
+
+“You’ll have to take that up with her, but I’d have to agree.” A pleased grin crossed Arwin’s features. “But you’ll have to give me one more second.”
+
+With the armor complete, he could finally direct his attention to the other messages the Mesh had sent him.
+
+Namely, he’d leveled up and cashed in multiple Achievements. Arwin was quite interested to see just what kind of upgraded abilities Mesh would be offering him for the Forbidden Soulmancy class.
+
+“Hm? Why? What could you possibly want to wait for?” Wallace asked.
+
+Arwin grinned in response. “I’ve got a new ability to choose.”
+
+You are not the only one.
+
+Arwin paused. Then he blinked.
+
+You have an ability upgrade? How does that even work?
+
+There was a thick note of smug pride in the next words the Infernal Armory spoke into Arwin’s mind.
+
+As of today, I have earned a class.
+
+Shock froze him dead in place.
+
+You did what?

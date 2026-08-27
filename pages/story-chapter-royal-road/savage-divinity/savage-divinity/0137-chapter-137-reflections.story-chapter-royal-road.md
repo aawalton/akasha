@@ -1,0 +1,121 @@
+---
+id: b1e73ffa-cf42-5283-9b76-f72f7c750a13
+page-type-slug: story-chapter-royal-road
+title: "Chapter 137: Reflections"
+slug: 0137-chapter-137-reflections
+partOf: savage-divinity
+position: 137
+ownLength: 3196
+unit: words
+publishedAt: 2016-10-31
+link: "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/100626/chapter-137-reflections"
+royalRoadId: "100626"
+---
+
+Rustram stood stock still, mind blank as he took in the news. Starring out into the water, his eyes darted about for any sign of movement, feigning apathy and composure in a masterful performance, shoulders square and back straight, letting none of his anxiety or despair show. He was in charge now, and the boss never let his worries show, not in front of the men.
+
+It wasn't until being chosen as second-in-command that Rustram learned just how much of the boss' confidence was a facade. Their many meetings inside the officer's tent offered him a glimpse into his commander's mind, and what he saw was shocking. A dragon among men, outwardly the boss was unwavering, but in private, he exposed all his fears and insecurities. The amount of thought put into his plans and schemes was staggering, keeping the safety of his soldiers and the civilians in mind with every move.
+
+An arrogant man, a confident man wouldn't spend so much time poring over details again and again in search of a flaw. Only someone haunted by doubt and unease would act in such a manner, constantly reassuring themselves they've chosen correctly. Rustram idolized the boss' strength, but after learning his true personality, Rustram revered him. A timid, frightened man who pushed all fear aside to do what must be done, how could you not admire that? To know true bravery you needed to know true fear, as without it, courage was little better than ignorance, unworthy of praise.
+
+Standing at the edge of the lake, he continued his charade, appearing detached and unworried as he waited. More than half of the retinue combed the bottom of the lake for signs of the boss' death or survival, hoping to find closure and end the incessant, nagging fear that threatened to consume them. Lady Sumila and Lady Mei Lin were the most frantic, working tirelessly as they swam to and fro, the clear waters clouded by all their efforts. It would be best to find out the boss' fate sooner rather than later.
+
+Poor girls, Lady Mei Lin was distraught over the loss, crying piteously at the news before diving straight into the water, barely even securing a mooring line beforehand. Lady Sumila was no less affected, her tough exterior only a cover for the sweet, young woman underneath. A lucky man to have two loving, devoted women in his life, but it was no less than he deserved. Women would always be attracted to great men, such was the way of the world, and the boss was the greatest man he knew.
+
+“Mister Rustram?” An armour-clad member of young magistrate Fung's retinue approached. “Young magistrate Fung and Officer Huushal request your presence.”
+
+Nodding politely, he followed the soldier to the village chief's home and saluted both Officers, resisting the urge to bow while sweating profusely. As second-in-command, he was now meeting the young magistrate as a peer of sorts, and although he seemed congenial around the boss, Rustram was well aware of how two-faced the nobility could be. He'd grown up seeing them treat with his father, all smiles and compliments when they need a favour, but cold and outright abusive when things didn't go their way, like spoiled, murderous children.
+
+Confidence is key, as the boss liked to say, 'if you don't got it, fake it'. Rustram was here as the ranking soldier of an Officer's retinue. “How might this one serve?”
+
+...Dammit. Already fucked up.
+
+Officer Huushal answered with his customary careful drawl. “Sorry we started the meeting without you, but we thought it best to have someone overseeing the search. We've already informed Major Yuzhen of Rain's situation and await her reply. Now, we're in disagreement on how to handle the prisoners. I am in favour of carrying on with Rain's plans of having them swear oaths, while Fung wants to torture and maim them. It seems he's been lacking entertainment of late, what with having left his courtesans in Shen Huo.”
+
+Glaring angrily, young master Fung slapped down on the table. “Don't be snippy, not all of us are lucky enough to have two loving wives follow him on campaign. Those bandits might tell us something, the location of their hideout, stops along their route, meeting areas, anything. Oaths are malleable at best, and at worst, they let something slip before the Oath kills them. If Rain has died then I will wipe the Butcher Bay Bandits from existence no matter the cost, but to do that, I require information. Fu Zhu Li here is a master of 'death by a thousand cuts', more than capable of extracting what we need.” An ugly grin spread on an otherwise unremarkable man's face, standing off in the corner unnoticed. Rustram made a note of the man, horrified at how normal he seemed.
+
+“Calm yourself, Rain's not dead. As if some scruffy old bandit could kill Rain. Knowing him, he's latched onto their boat and headed to their hideout unseen. He'll be back in a few days with all the information we need.” Officer Huushal sat back and crossed his arms, wholly confident in his prediction.
+
+“How can you be certain? Have you seen those lake rapids? Tough as he is, Rain still needs to breathe.”
+
+“He'll hang off the back or something, who knows, he's resourceful and full of surprises.”
+
+“All right, let us assume that by some miracle, Rain grabbed hold of a boat and is clinging for dear life at this very moment. After however many hours or days of travel, he reaches the bandit hideout, somehow escaping notice the entire time, even through the waters are crystal clear and there's no place on the boat to hide. What then? How does he return? Are you expecting him to slaughter his way back to us, a single man against an army? Take a crew captive and force them to bring him back?”
+
+“No, of course not, that would be silly.” Taking a moment to ponder, Officer Huushal nodded sagely. “I've seen him make kites, maybe he can fly back. Never mind how he does it, I just know he will return.”
+
+Exasperated, young magistrate Fung mumbled a string of curses beneath his breath, but Officer Huushal only shrugged and smirked, at ease with the situation. The young magistrate shared the boss' penchant for inventive swearing and Rustram almost smiled until he remembered their current situation.
+
+After a long rant, the young magistrate finally threw his hands into the air. “Whatever, I hope you're right. I'd give anything to make it so, but we must be practical and proceed as if he has died unless presented with information which suggests otherwise. We should work the prisoners over for information regarding their hideout, or anything of use.”
+
+Huushal shook his head. “Rain doesn't approve of torture and neither do I. Push anyone hard enough and they'll tell you anything you want to hear, it's worthless.”
+
+The two of them turned to look at him, and Rustram's eyes bulged once he realized their intention. It took three tries before the words came out, his mouth dry with fear. “You-you-you want me to decide?”
+
+“That's how we've settled things thus far, best of three.” Young magistrate Fung shrugged while looking Rustram square in the eyes, smirking at his discomfort. “Honestly, I'd thought Sumila was Rain's second, but this is better. I feel no shame in admitting she scares me something fierce. I don't think I could ever disagree with her.”
+
+“Ha, you don't know the half of it. If Rain hadn't been so greedy at the Bridge, she'd be the youngest Warrant Officer in the last thousand years, not Rain, and let me tell you, she wouldn't have been as cooperative as Rain.” At Officer Huushal's statement, the mood darkened. After a pause, he coughed a few times and continued. “Anyway, the prisoners: send them north to aid our... friend, or let Fung's unpleasant looking attendant have a go at them?”
+
+His mind a blank, Rustram hemmed and hawed as he attempted to extract himself from this predicament. He agreed with Officer Huushal, but to outright disagree with young magistrate Fung might put his family in danger. Say nothing of cancelling his father's contracts with the city, a single word from the young man could see his father executed.
+
+No, he needed to be strong. Right now, Rustram wasn't the second son of a lowly merchant, he was acting officer of the retinue, which meant his decision represented the boss' decision. The repercussions to his family were secondary. What would the boss do here?
+
+With that simple question, Rustram had an epiphany and quickly outlined his idea. Both Officers seemed intrigued and after a brief discussion, they settled on a plan of action. Standing to leave, young magistrate Fung clapped him on the shoulder. “Damn me, but Rain chose the right man for his second. A devious mind. You used to be one of Shen Huo's soldiers? Ah, a terrible loss for my fair city, losing a man of talent.”
+
+Beaming at the praise, Rustram walked a little taller, relieved he hadn't shamed the boss in his absence and that the young magistrate took no offence. Perhaps Fung wasn't such a terrible sort, a good man as he appeared to be, which meant great things for the future of Shen Huo.
+
+Although it was only prudent to exercise caution around anyone who kept a torturer on retainer.
+
+You could never tell when a noble's mood might change.
+
+~~~~~~~~~~~~~~~~~~~~~
+
+Diving into the water with Atir's aid, Mila scoured through the sands of the lakeside, looking for any clue as to Rain's fate. That idiot, going missing like this without a word, who did he think he was? The last anyone saw of him, he'd given the order to scatter, and after that, he'd disappeared like a ghost. She'd been betrothed to such a troublesome man, it was a wonder she'd not torn out all her hair.
+
+Surfacing for air, she panted heavily while leaning on Atir, the quin also showing signs of weariness. The water was only four to five meters deep, but the currents were strong, the water cold, and they'd been searching for close to an hour. She was lightheaded with exhaustion, and as Lin burst from the water with a gasp, Mila could see her lips were blue and teeth chattering. Rain's fat wagon quin Mafu squeaked with distress as it swam around her, frantic to find his bonded master. That's one reason Mafu was a wagon quin, his temperament unsuited to being left alone, anxious without his rider. Her heart twinged with sympathy and she understood how he felt. She wanted to find Rain too.
+
+Before long, Lin dove once more, determined to continue despite her obvious fatigue, struggling to dive even with Mafu to aid her. Following her in, Mila grabbed her friend and signalled for them to surface. “Lin, we need rest. As we are now, we might miss something and waste our efforts, and the quins need a break too. Come, let's go back and eat something, okay? Won't do Rain any good if we freeze to death.”
+
+“Not yet, five more minutes.” Stubborn as always, Lin shook her head with a pout, her wet braids and hare-ears flapping about. “Someone saw hubby lose his sword, he'll want it back later, it means a lot to him. It has to be around here, it's too heavy to float away.”
+
+Not to mention an expert could use it to determine if Rain was still alive. If he died, it'd go from being a spiritual weapon humming with energy, to a hunk of useless metal. Consoling her friend, she manhandled the exhausted, petite girl onto land, pulling them both up by her secured line. Lin's guards waited in silence on the shore and Tursinai stood with them, looking pityingly at her with a towel in hand. With a simple gesture, Tenjin started a campfire as Mila helped Lin dry off, after which they stared mournfully out over the turbulent waters, drinking hot soup and eating dried fish.
+
+A scream rang out from the village, echoing loudly through the air. Shocked, Mila jumped in place before scrambling for her weapons, but Tursinai barred her way with a hug. “Shh, no worries little Mila. That's just Rustram, Huushal, and Fung playing games. They're taking random bandits into the woods and pretending to torture them. Those screams are faked, hoping to scare the other prisoners into speaking.” Shrugging, she adds, “If they're going to go to all that trouble, they might as well just torture one of them.”
+
+“No.” Shaking her head, Mila smiled weakly. “Rain wouldn't like knowing they tortured someone, even if it was to save him.” Returning to stand by the fire, her heart ached as she watched Mafu squeak and pace about. Walking to him, she held out some fruit for him, the little quin almost too upset to eat. Almost. With how much energy they spent each day, it was difficult for most quins to get fat, but Mafu was the fattest quin she'd ever seen, his rotund belly protruding beneath his arms. Nearby, the cats laid about indifferently, except for Auric who sat at attention, looking about for his master. Not quite distressed, Mila was unsure if the animal was hungry or confused, searching for someone to dote upon him.
+
+After feeding Mafu, she opened her arms to the cat and smiled as he padded over to nuzzle her, his chest rumbling. Hugging him tightly, she struggled to keep her tears contained, her throat tightening as she thought about what she would do now. If Rain really was dead, then it was so unfair. They'd only just begun to truly care for one another, their friendship blooming into something real. How cruel of the Mother to take him away so soon, over such a meaningless battle. Rain was marked for greatness, not to be lost defending fisher-folk from mere bandits. No glory or honour to be had, his life cut short in a meaningless exercise.
+
+Lin wrapped her arms around Mila and snuggled against her. “Don't worry Mi-Mi, he'll be fine, I know he will.” Wistful and teary-eyed, Lin buried her face in Auric's fur. “He has to be.”
+
+Unable to reply, she smiled joylessly and returned to her meal, lost in her thoughts. Incapable of staying still, Mila wandered back towards the village with the quins in tow to put an end to the incessant screaming and find a place for the animals to rest. Bursting through the brush, she soon came upon them standing over a trio of bandits, bound and gagged while three soldiers feigned screams of pain and terror in a lacklustre manner. “Idiots. All of you are idiots. Stop that caterwauling this instant.”
+
+The three of them had the gall to look affronted by her statement, each of them opening their mouths to speak before timidly closing them, which only served to feed her fury. If they had something to say, then they should say it, not treat her like a fragile little girl to be delicately handled. Rain's disappearance didn't make her any less of a warrior, regardless of her gender. Idiot men, always thinking they had to protect women's feelings.
+
+Huffing in displeasure, she asked, “How many bandits have come forward with information.” At their silence, she gathered it was none. “Did you explicitly mention you were taking these men away to torture?” They nodded mutely, eyes lowering in instinct. Sighing, she drew her knife and slit the closest bandit's throat, letting him bleed out in the dirt as the other two watched. Smiling at them, she set to hacking the dead bandit apart roughly, breaking fingers and gouging out eyes.
+
+One of the soldiers quickly caught on and offered advice. “Chop the fingers off, one by one, different lengths. Make it look like we sliced them bit by bit. The teeth, remove a few from the front, for effect. Yes, good, good.” Together, the two of them worked over the corpse until it was a macabre sight, gutted and mutilated with all the markings of torture.
+
+Wiping her hands off in the dirt, Mila stood and brushed herself off, ignoring the uncomfortable looks from the others. Why this bothered them was a mystery to her, these bandits would hang or serve regardless of her actions. Who cares what happened to a corpse? “Bring the body back and hang it somewhere the prisoners can see. Offer them a chance to speak, along with a promise of a clean death. Then, if they remain silent, pick another as replacement. Keep silent this time, better to allow them to imagine what we're doing. I'll bring the quins by and have them snack on a few corpses around them, that might loosen someone's tongue.” Too bad Mama's quin Kankin wasn't here, he was the scariest-looking quin ever.
+
+“Master.” Mila turned and found Song dripping wet, her clothes clinging tightly to her body. Scolding herself for forgetting her friend, Mila quickly moved to help Song dry off, an apology on the tip of her tongue. Stopping in place as she noted the gleam in Song's eye as she presented the item in her hands. “I found Rain's sword.”
+
+Snatching the weapon out of Song's hands, Mila ran to find Lin and Tursinai, handing the older woman the weapon without a word. Dread and hope warred within her, Mila both terrified and elated, holding Lin's hand as tightly as she dared. Song appeared at her side and Mila grasped her hand too. A thousand thoughts ran through her mind as she waited for an eternity as Tursinai inspected the weapon, studying the older woman's every micro-expression for signs of Rain's fate.
+
+With a sigh and a smile, Tursinai nodded and Mila felt faint with relief as Lin leaped into the air with a cheer. Her legs gave out beneath her and Mila quickly released Song and Lin before she dragged them down with her, sitting in the dirt, tears of joy spilling from her eyes. He hadn't drowned or been eaten, still out there somewhere, and it was only a matter of time before he returned.
+
+And when he did, Mila would be sure to punish him thoroughly for doing this to her. That idiot, making her cry in front of the Sentinels. The grief he caused her almost wasn't worth it.
+
+Almost.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Waking in the darkness, his arm flared with pain as he tried to push himself up, spitting out grainy sand and worse. Groaning with effort, he vomited, the warm fluids rushing from his distended belly and running down his body as he lay powerless and distressed. Whimpering softly, he closed his eyes and tried to retreat from the torment of his fleshly body, unable to take the pain any longer, his body bruised and battered, broken and bleeding.
+
+“Brother... Help...”
+
+Comfort escaped him, and he suffered there in the darkness, his eyes closed and jaw clenched, fighting to fade into sweet oblivion.
+
+“Why brother? Why have you abandoned me here?”
+
+Chapter Meme

@@ -1,0 +1,203 @@
+---
+id: 3b306617-4a20-56e3-86e6-8d2a2cff3996
+page-type-slug: story-chapter-royal-road
+title: "Chapter 544: Summoning the Abyss"
+slug: 0067-chapter-544-summoning-the-abyss
+partOf: reborn-as-a-demonic-tree
+position: 67
+ownLength: 2557
+unit: words
+publishedAt: 2026-03-11
+link: "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3141305/chapter-544-summoning-the-abyss"
+royalRoadId: "3141305"
+---
+
+Ashlock needed to decide what to spend his following eight thousand credits on.
+
+Such a large sum gave him enough to upgrade any SS-grade skill to SSS-grade; he could also upgrade a lower-grade skill and then sign in for a new high-grade draw with what was left over, as upgrading an existing skill or mutation cost twice as much as what random draws did.
+
+"System, bring up my entire status menu. It's been a while since I last checked it in its entirety."
+
+[Demonic Demi-Divine Tree (Age: 10)]
+
+[Nascent Soul Realm: 9th Stage]
+
+[Soul Type: Nine Moons (Desolation)]
+
+[Mutations…]
+
+{Crown of the Withered Sovereign [S]}
+
+{Evil Eye [A]}
+
+{Cursebloom Sap [A]}
+
+[Summons...]
+
+{Netherwood Wraith: Nox [Mythical]}
+
+{Harbinger of the Eternal Ash: Larry [SS]}
+
+{Celestial Ink Dragon: Kaida [A]}
+
+[Soul Weapons…]
+
+{The Sword of New Beginnings [?]}
+
+[Skills…]
+
+{Skyborne Bastion [SSS]}
+
+{Necroflora Overlord [SSS]}
+
+{Divine Cycle of Creation and Ruin [SS]}
+
+{Eternal Realm [SS]}
+
+{Progeny Dominion [S]}
+
+{Dimensional Overlap [S]}
+
+{Nocturnal Genesis [S]}
+
+{Ethereal Roots [S]}
+
+{Voidstorm Aegis [S]}
+
+{Dao Fruit Production [S]}
+
+{Abyssal Maw [S]}
+
+{Soul Forest [S]}
+
+{Gaze of the Tree God [S]}
+
+{Abyssal Whispers [A]}
+
+{Magic Mushroom Production [A]}
+
+{Language of the Eldertree [A]}
+
+{Blooming Root Flower Production [B]}
+
+{Fire Qi Protection [B]}
+
+{Superior Poison Resistance [C]}
+
+In Ashlock's short decade of life, his skill list had grown into such a monstrosity. Not only was there a wide variety of skills present, but through his consistent efforts of choosing to upgrade his skills over relying on random draws, they were now mostly S-grade or higher. Currently, only six of his skills were below S-grade, and two of them were passive resistance skills.
+
+"System, just out of curiosity, how many credits would I need to upgrade Skyborne Bastion to Mythical grade?"
+
+[Directly upgrading the skill {Skyborne Bastion [SSS]} will consume 13846 credits]
+
+"Yeah, that's a lot. Far more than I have right now," Ashlock mused. "I could unleash another attack on Floridawn tonight with Thanatos to farm some more divine energy and sacrificial credits, but I'm not sure how many days it will take to raise the five thousand I need."
+
+He mentally scanned down the list. "Will any of these benefit me greatly right now in the war against the Celestial Empire?"
+
+A few stood out to him, with the most obvious being his cursed sap.
+
+"Although I already upgraded it recently, Cursebloom Sap could use another boost to S grade, as I'm unsure of its effectiveness on Monarch cultivators."
+
+It was also an integral part of his methodical attack plan on the Celestial Empire.
+
+First, he replaced their supply of golden sap with his cursed sap. Then he besieged their cities with encroaching desolation and his undying army of Ents. Finally, he would target the Monarchs one by one with the Covenant and the heavy hitters of his sect, once his roots covered more ground and had nowhere left to run.
+
+"Upgrading an A-grade mutation like Cursebloom Sap will cost around four thousand credits, leaving me with enough for an SS grade random draw," Ashlock mused. "I'd also like to upgrade Abyssal Whispers to S grade sometime soon, as I think it would pair greatly with my new Gaze of the Tree God skill, but that will have to wait. The allure of an SS grade random draw is way too much."
+
+"System, I want to upgrade Cursebloom Sap first."
+
+[Sign in successful, 4028 credits consumed…]
+
+[Upgraded {Cursebloom Sap [A]} -> {Cursed Blood of the Demon Tree [S]}]
+
+[{Cursed Blood of the Demon Tree [S]} Upon contact with the air, your cursed blood turns into a sentient miasma that follows your unconscious desire. It can actively hunt down those you have marked while remaining harmless to those you deem allies. Furthermore, the strength and effects of the curse can now be altered at the cost of Qi.]
+
+Ashlock felt his roots burn as the mutation took effect and began to slowly convert all his existing Cursebloom Sap into his new Cursed Blood. However, he was pleased with the upgrade. Before, he had to hold back on unleashing his Cursebloom Sap as he risked affecting his own allies. But now, he could keep all believers safe from the curse, and his miasma would now hunt down anyone he marked, rather than just focus on wounded people like before.
+
+To distract himself from the pain of the change, he wanted some clarification.
+
+"System, what do you mean by the fact that I can now alter the strength and effect of the curse?"
+
+[By infusing your Cursed Blood with Qi, you can partially alter its properties. For example, you could make the curse focus on slowly draining a target of their strength, rather than focusing on trying to turn them into one of your offspring. On the other extreme, you could make the curse fast-acting and violent, tearing people apart from within.]
+
+"I see..." Ashlock said. He was starting to wonder if his system was a little too overpowered. "It's no wonder cultivators keep underestimating me when I can receive upgrades like this within moments, whereas for a Monarch, such an upgrade to a technique could take decades or even centuries of meditation."
+
+It was unfair, but it had come at the cost of him being reborn as a tree. Though, while being a tree had been a significant disadvantage at the start, it had now become an undeniable advantage. If not for his immense Qi reserves provided by his massive soul, such an attack on the Celestial Empire would be impossible. It's also why Ashlock felt so bad for the World Tree. He would have suffered the same fate without the system's boons.
+
+Once the pain finally faded, Ashlock decided it was time to gamble.
+
+"System, it's time. Spend it all! I want a random draw!"
+
+[Sign in successful, 4218 credits consumed…]
+
+[Unlocked an SS-grade skill: Hellroot Abyss]
+
+[{Hellroot Abyss [SS]} Unleash the true wrath of a demonic tree. At any location within your root network—regardless of distance or dimensional separation—you may erupt an overwhelming torrent of ethereal roots from beneath the ground. These roots tear through reality in a violent surge, swallowing terrain, structures, and foes alike, forming the Hellroot Abyss, a corrupted area of your own making. Within this zone, you can act without restriction, similar to when using {Progeny Dominion [S]}, but without the need to channel through an offspring. As the Hellroot Abyss anchors itself into the fabric of reality, it opens a wound to the beyond—and from that chasm, fiends claw their way out. Twisted beings of bark, bone, and shadow, these entities are created from the souls you have devoured. They exist only within the Hellroot Abyss, seek only your enemies, and fight until they are destroyed or consumed. Only one Hellroot Abyss may exist at a time. Attempting to create another will dissolve the previous one in a violent collapse of rotting roots and dimensional tears.]
+
+Ashlock could immediately feel the presence of this skill in the back of his mind as if it had always been there. His roots suddenly felt itchy and restrained under the soil, as if begging to be unleashed and fed. He managed to quiet the thoughts with some effort, but he honestly wanted to listen to them.
+
+But more importantly, had the usually stingy system just granted him an attack skill? It definitely read like one. His only other direct attack skill until now had been {Abyssal Maw [S]}, which he had upgraded many times.
+
+"Actually, wouldn't these two skills pair very well with one another? System, what was the latest upgrade to Abyssal Maw again?"
+
+[The addition of Hungering Maw - At the cost of 100 SC per minute, mark a target and summon a rapidly expanding abyssal maw full of void tendrils and black vines around yourself. These vines and tendrils will automatically seek out the marked target. Enemies infected with Cursed Blood will be automatically marked as targets. If the marked target is cursed by Ashlock from any skill or technique, they cannot teleport away while in the radius of the Hungering Maw until either the skill ends or the caster of the skill dies. While the skill is active, the Hungering Maw siphons the marked target's Qi and lifeforce to sustain itself and grow in size, meaning the stronger the opponent, the larger the skill will become.]
+
+"Oh yeah, these two will pair nicely," Ashlock mused. Since he could use all his skills without restriction within a Hellroot Abyss, that would include Abyssal Maw. If the target was also affected by his newly upgraded Cursed Blood in any way, they would be unable to teleport out. "If all of this isn't enough to kill them, a desolation beam from my Crown of the Withered Sovereign mutation should do the trick."
+
+In one short afternoon and at the cost of over twelve thousand credits, Ashlock was feeling more ready to face a Monarch in battle with his own skills.
+
+Closing all his status windows for now, he took a breath to calm down from the gambling high and then switched his focus to overlooking Ashfallen City with his new Gaze of the Tree God. While having an omnidirectional view did let him take in more of the city, it wasn't that helpful.
+
+What he did notice was the notable number of cultivators wearing cult robes patrolling the streets. All of Ashlock's internal forces were making a presence to try to smoke out any members of the Silent Thorn.
+
+He also had his offspring keeping an eye out.
+
+"My children," he said through the ethereal root network. "Do any of you see anyone suspicious?"
+
+As expected, he received a flood of responses, most of which weren't helpful at all.
+
+"No, birds don't count as enemies of the state," Ashlock sighed. Every time he interacted with his children, he felt exhausted. How did Elaine manage with two fast-growing twins to take care of? Perhaps he should get coaching from her sometime. "Okay, how about this? If any of you see any human with shadow affinity, not wearing the cult robes and looking suspicious, I give you the authority to secrete some of my Cursed Blood and send it after them."
+
+Ashlock then expended a lot of Qi to weaken the Cursed Blood that his offspring had access to. He didn't want his offspring to directly kill anyone; all he wanted was for suspicious people to be marked so he could follow up on them.
+
+After a few minutes, red outlines of people began to flicker into view. Intrigued, Ashlock focused on one at random. With a surge of Qi, his vision tunneled through the tavern's thick stone walls, revealing the lively interior where the figure sat.
+
+The man looked visibly uncomfortable, coughing and swatting at the dark miasma slithering in through an open window—originating from one of Ashlock's offspring posted outside. Clad in plain traveling clothes and a wide-brimmed hat, he would have passed for a wandering cultivator to the untrained eye. But Ashlock could see more than most. The man was in the Star Core Realm, which was a rarity in these lands, even with the Ashfallen Trading Company's pills in circulation. If that wasn't suspect enough, the scars marring his face told a story of battles. Most importantly, he used shadow affinity, which was apparently one of the requirements for joining the Silent Thorn, according to the Celestial Warden.
+
+"He got infected without drinking the sap," Ashlock noted in amazement. If he hadn't altered the strength of the curse moments ago, this man would be desperately fighting the curse within his soul.
+
+Zooming back out, he located the nearest cultivator who could deal with a Star Core Realm threat.
+
+"Diana, I located a possible agent of the Silent Thorn."
+
+The demoness glanced up in surprise. "You really managed to find one? Where?"
+
+"A nearby tavern. I'll open a portal to it. The target is a man sitting near an open window with a large hat and coughing," Ashlock said as he manipulated his Qi to create the desolation rift. "He's in the Star Core Realm, so he should be easy for you to deal with—and by that, I mean capture him. I don't want him or any other Silent Thorn dead just yet. We also need to interrogate him to make sure he really is part of the Silent Thorn."
+
+Diana nodded and hardened her expression, which made her look far more fearsome than she already did with two finger-length black horns curving up from her forehead and a demonic mist perpetually swirling around her feet. She looked like a true Archdemon on the hunt.
+
+Ashlock was actually curious to see how she would fight, as he hadn't seen Diana enter combat since reaching the Nascent Soul Realm.
+
+She passed through the portal, and it was over so fast he almost missed it.
+
+In an instant, Diana's body exploded into an incorporeal mist, allowing her to surge through the room unimpeded. She then reformed a second later behind the startled man, slammed him with her Nascent Soul Realm spiritual pressure to knock the air out of his lungs, and then chopped the back of his neck to put him to sleep. His head hit the table not even two seconds after Diana had entered the room.
+
+The tavern was deathly silent, with all eyes on Diana.
+
+"Carry on with your meals and drinks," Diana said dismissively as she grabbed the sleeping man by his coat and dragged him off the chair. "This man is a member of a dangerous organization from the Celestial Empire. I was instructed by the All-Seeing Eye to apprehend him."
+
+Everyone in the room exchanged nervous glances.
+
+"Grand Elder Diana, is that why we all feel the All-Seeing Eye's gaze upon us now?" a well-dressed mortal who had been enjoying a drink at the bar asked. "Is he watching over and protecting us from these devils of the Empire?"
+
+Diana nodded as she dragged the body through the room toward the still-open portal. "That is indeed the case. With the war on the Celestial Empire now in full swing, there is the possibility of retaliation. The worst of it will be handled by us, but spies and assassins can still sneak into our borders. The All-Seeing Eye will watch over these lands to prevent a disaster from befalling us."
+
+The nervous expressions were wiped in an instant, and a round of cheers spread throughout the room.
+
+"Good job, Diana," Ashlock told her through Abyssal Whispers. "That's a perfect rumor to spread."
+
+"It's hardly a rumor," Diana mentally replied. "You really are watching over all of us. Now, where do you want me to take this spy?"
+
+"Bring him to Tartarus. I doubt any of them will be able to escape a pocket dimension ruled by a spirit tree possessing Shadow Law. But first, I have a few more for you to hunt," Ashlock said as his vision began to light up with more red silhouettes. "The Silent Thorn has burrowed deeper into my territory than I had thought possible."
+
+He had some more weeds to uproot at home before he could cast his gaze back onto the Celestial Empire. But once he did... well, a certain Councilman's house was going to be fed to the abyss.

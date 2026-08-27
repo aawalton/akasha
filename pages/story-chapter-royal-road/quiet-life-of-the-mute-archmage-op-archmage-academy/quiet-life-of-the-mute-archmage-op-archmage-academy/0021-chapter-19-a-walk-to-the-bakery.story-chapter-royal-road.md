@@ -1,0 +1,173 @@
+---
+id: 9e2e4cbd-2893-55c2-88d0-ac8f5d8406ac
+page-type-slug: story-chapter-royal-road
+title: "Chapter 19: A Walk To The Bakery"
+slug: 0021-chapter-19-a-walk-to-the-bakery
+partOf: quiet-life-of-the-mute-archmage-op-archmage-academy
+position: 21
+ownLength: 1707
+unit: words
+publishedAt: 2026-06-05
+link: "https://www.royalroad.com/fiction/167476/quiet-life-of-the-mute-archmage-op-archmage-academy/chapter/3498096/chapter-19-a-walk-to-the-bakery"
+royalRoadId: "3498096"
+---
+
+The lady who stepped inside was not quite what Molly had initially pictured.
+
+With bright pink hair pulled back in a neat ponytail and a round face that held the cheerfulness of a young child, the visitor seemed rather... rather younger than Molly had anticipated. Molly had expected an older woman, perhaps someone in her thirties, late forties, or beyond. But the lady who walked in appeared even younger than Fiona.
+
+Her light emerald eyes swept around the entrance passageway and settled on Sebastian.
+
+"Good morning, sir," she greeted him, and Sebastian gave a short bow in return. "A very good morning, miss."
+
+Her gaze then shifted to Molly, who stood beside Sebastian not far from the passageway's mouth.
+
+"Good morning, young lady," she offered, and Molly returned the greeting with a brief bow. The black orb swirled beside her, dissolving into shimmering particles.
+
+~ Good morning, miss.
+
+Upon seeing the projected thoughts, the young lady's round face immediately brightened. "Ah..." She breathed out in realization. "You must be Molly?"
+
+Molly nodded in reply.
+
+Seeing her confirmation, the lady gave a nod of approval. "Miss Jasmine has told me a great deal about you," she said, an upward curl gracing her lips. "I'm Lilly. It's a pleasure to finally meet you."
+
+Molly's expression mirrored the warmth.
+
+~ Likewise.
+
+After that, a calm silence settled through the entrance passageway. Lilly glanced around briefly, straightening her posture as she began moving toward the main entrance. "Alright," she said before glancing back at Molly. "I'll return in three minutes. After that, we'll head to the main bakery together." Her voice carried its usual cheer.
+
+Molly gave a short nod and watched Lilly walk farther into the building, leaving her alone with Sebastian once more.
+
+"I didn't know you were also interested in baking bread," she heard Sebastian say.
+
+Molly turned to find him tilting his head slightly in amusement.
+
+She gave a brief nod. The orb wove her thoughts.
+
+~ I'm just very curious about how it's made.
+
+Sebastian hummed in reply. "That's nice."
+
+Molly offered a small smile.
+
+~ Thank you.
+
+A few heartbeats later, Sebastian's expression grew thoughtful for a moment before he glanced at Molly, who seemed lost in contemplation.
+
+A faint curve lifted his lips as he spoke. "So... what type of bread are you going to bake today?"
+
+Molly turned to him, considered the question for a moment, then shrugged.
+
+~ I had initially been thinking of various flavors to try. But after putting much thought into it, I simply decided to go with whichever one appears on the list today.
+
+Sebastian gave a short nod. "That's very straightforward and decisive thinking," he praised, then added, "But if you find yourself wanting to bake something different, I suggest you choose the honeyed milk flavor, since that will be easier for someone just starting out."
+
+The corners of Molly's mouth lifted at his explanation. Curiosity gnawed at her, prompting her to voice her thoughts.
+
+~ You seem well versed in bread baking. Have you ever done it before?
+
+Sebastian chuckled, a grin spreading across his face. "Would you like to know?"
+
+Molly nodded vigorously.
+
+"Alright then. Listen carefully," he said, and Molly straightened, her attention sharpening.
+
+Seeing her focus, Sebastian began. "When I was younger, I would occasionally visit one of my family's head chefs, who, upon noticing my curiosity about how foods were prepared, began teaching me how to cook. After he also observed my eagerness to learn baking, he started instructing me in that as well." He sighed wistfully. "So before I grew older and left for the academy, I learned a great deal about food from him." He glanced at Molly. "I also learned a lot about baking, and that includes bread."
+
+Molly watched Sebastian for a moment, noting how he shifted when he spoke of his past experiences. A gentle upward curl graced her lips as she projected her thoughts.
+
+~ It seems you miss the past?
+
+Upon reading her words, a short laugh escaped Sebastian as he shifted his gaze and stared into the distance. "I do," he whispered. "I truly do."
+
+"Alright then. Shall we get going?" A feminine voice said, and both Molly and Sebastian turned in unison to stare at the approaching figure.
+
+Lilly had returned just as promised.
+
+Molly nodded at Lilly's words. She turned to Sebastian, held his gaze for a moment longer, then offered a small, polite bow.
+
+~ Take care, and see you soon, Sir.
+
+"Just Sebastian," he said after reading the words, a wry smile crossing his face as he waved at the already departing Molly. "Anyway, see you soon too, and good luck with your baking."
+
+Molly's expression warmed when she heard that. She returned the wave and immediately fell into step alongside Lilly, who guided her out of Eoma's bakery and toward the main building, where the breads were truly made.
+
+While they walked, Lilly glanced at Molly with her usual cheerfulness. "So, Molly. Before we arrive, I'd like to ask you a few questions." She added when she noticed Molly's attentive gaze. "Is that alright with you?"
+
+Molly inclined her head in thought for a moment before nodding.
+
+"Alright," Lilly said, staring skyward as she clasped both hands together.
+
+After a moment, her gaze returned to Molly. "Where do you think flour comes from?"
+
+Molly didn't give the question much thought; her reflections were immediately projected outward.
+
+~ Based on what I studied, flour is typically made by grinding wheat into a fine powder.
+
+Lilly nodded in approval as she read the words. "Next question." She paused for a beat. "What wheats are available around Sigsug?"
+
+Molly did not answer instantly this time. A crease appeared on her face as she stared into the distance, her gaze thoughtful while she tried to recall the names of the wheats currently available in Sigsug.
+
+Before the blight, Sigsug had flourished with its own varieties of crops. The wheat that had been widely celebrated across the region was none other than their native grain, Me-khutar Wheat—a wheat said to be blessed by the heavens. Its properties more than justified that title. It was said that the wheat possessed high resistance to many natural disasters.
+
+But as fate would have it, a catastrophe far greater than any ordinary disaster swept across Sigsug, finally ending the reign of the Me-khutar Wheat.
+
+Ever since then, Sigsug had been importing wheats from other lands, mainly from three places.
+
+Molly pondered deeply over the available wheats. After two minutes, her expression brightened. She glanced at the waiting Lilly.
+
+~ Shorashim, lifróach, and zahav.
+
+"Excellent." Lilly praised. "It seems you're quite well informed?"
+
+Molly could only blink while offering a small smile.
+
+~ A little.
+
+Lilly laughed lightly at that word. Molly pursed her lips, trying to hold back her own laughter at the response.
+
+Molly recalled clearly how she had asked Jasmine a flurry of questions about breadmaking so she wouldn't arrive at the main bakery a complete novice.
+
+After Lilly's laughter receded, a wistful expression settled on her face as she tilted her head upward, gazing at the sky that stretched bright, clear, and still, bearing silent witness to everything unfolding below. She watched the clouds drift across the soft tones of blue, the morning sunlight spilling gently over Sigsug.
+
+"I still believe that the Me-khutar Wheat is far superior to the three available wheats now."
+
+~ Why do you say so?
+
+Lilly glanced at Molly at that question. A slight curl appeared on her lips. "Well... part of it is simply personal preference, since I grew up knowing Me-khutar Wheat." A short exhale escaped her as she tucked loose strands back into her ponytail. "The other part is because of the quality of flour Me-khutar produces."
+
+At that, Molly's ears perked up. Her eyes flicked to Lilly.
+
+~ Do you mean the quality level of the processed wheat?
+
+"Yes," Lilly said after reading the words, her head inclined slightly in acknowledgment. "You already know the two types of processed wheat?"
+
+Molly gave a firm nod. The orb dissolved into tiny shimmering particles to project her thoughts.
+
+~ Yes. Miss Jasmine explained it to me.
+
+Jasmine had told her that there are two types of processed wheat. The first was the general grade, which is the normal wheat with ordinary qualities. The second was the gold flour, which is rare to obtain after grinding the wheat, but with Me-khutar Wheat, there was a ninety percent chance of achieving gold flour from the grain.
+
+After reading Molly's words, Lilly gave a short, cheerful nod. "That's wonderful." She said. "Now it seems I may not even need to explain most steps to you."
+
+A cat-like curve appeared on Molly's lips.
+
+~ Only when we begin baking.
+
+Lilly laughed. "Alright."
+
+Their walk through the market square continued in companionable silence. Molly's thoughts drifted as she imagined what the main bakery would look like. She hadn't seen it before, because she and Jen had never walked through that part of Sigsug in the five years since arriving. The main reason was that Eoma's main bakery sat near the council of elders' hall, and Jen hadn't wanted any of them to learn of her existence.
+
+Molly's gaze dulled slightly. And in the end, none of them could know, and the few who did would never be able to see her again.
+
+No. Molly shook the thought from her head. Now wasn't the time for sorrow. She steeled herself, determined to enjoy the day just as Jen would have wanted.
+
+"We're here." She heard Lilly's voice beside her. Molly lifted her eyes and stared ahead, and after three heartbeats, her eyes flew wide with delight at what stood in front of her.
+
+Eoma's main bakery was a building of wonder. Its structure loomed large, like a hall, with smoke drifting lazily from the chimney above. The humming rhythm of milling machines reached her ears. The honey-sweet scent of wheat drifted into Molly's nostrils from where she stood. Her eyes sparkled all the more when she saw the sign hanging at the entrance: 'Eoma's Bakery.'
+
+This was it.
+
+Molly's expression brightened as she knew her baking journey had truly begun at this very moment.

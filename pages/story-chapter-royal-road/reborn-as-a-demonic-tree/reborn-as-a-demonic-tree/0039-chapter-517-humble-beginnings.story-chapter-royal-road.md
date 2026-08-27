@@ -1,0 +1,137 @@
+---
+id: df702a8d-630b-5546-a814-9c0a51bf9131
+page-type-slug: story-chapter-royal-road
+title: "Chapter 517: Humble Beginnings"
+slug: 0039-chapter-517-humble-beginnings
+partOf: reborn-as-a-demonic-tree
+position: 39
+ownLength: 2780
+unit: words
+ownProgress: 2780
+publishedAt: 2025-12-26
+link: "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/2882882/chapter-517-humble-beginnings"
+royalRoadId: "2882882"
+markedReadAt: "2026-06-29T19:02:51.060Z"
+---
+
+Stella patiently waited before the Ashfallen Castle, the centerpiece of Desolark City. To cement the Ashfallen Sect's might after the utter defeat of the Nightrose family, the previous castle, which had taken up a third of the city, was destroyed. The ground was dug up to remove all the ancient formations, and from the vast chasm left behind, a grand pillar rose, upon which a new symbol of unmatched power was built. If Stella remembered correctly, it had taken three days and the combined efforts of Douglas, the Mudcloaks, and even Ashlock to complete the building before her. Ash had even made use of the Bastion's artillery to destroy a nearby mountain to get the needed materials.
+
+Clearly inspired by a tree, the building was circular, with a broad base that gradually narrowed as it rose, as if trying to pierce the heavens. A suspended halo of blood-red, head-sized gemstones, sculpted to resemble eyes, slowly orbited the peak, as if the building were casting a constant sweeping gaze upon the citizens. A few massive stained-glass windows provided a contrast to the dark metal and stone structure, emitting a strange, green glow that pulsed softly, as if the building were alive. Metal branches also sprouted from the building at random intervals, ending in iron chains that connected it to numerous towers rising out of the chasm that surrounded the structure. These chains pulsed with a faint silver light, and Stella could feel the hum of the defensive formations all around her.
+
+It was from these many towers that the chaos of her arrival had begun, with dozens of blue-robed cultivators, who seemed to be the guards of this place, pointing in her direction and barking orders. Many then took to the skies, standing above her on their swords with concerned expressions, as many more poured out of the main building with weapons drawn.
+
+Before Stella could demand the meaning of this harsh welcome, a voice boomed from behind her.
+
+"Stand down, everyone!"
+
+Finally, a voice of reason, Stella thought, rolling her eyes. Turning on her heel toward the voice, she saw the cultivators blocking her exit via the bridge part way to make space for a mountain of a man. He towered over everyone, nearing two meters tall. His bald head gleamed in the morning sunlight, and his bulging muscles were poorly concealed by the purple silk robe decorated with a golden koi fish. Walking forward like he owned the place, the titan of a man gave a shark-toothed grin and, to the shock of everyone, bowed deeply toward her.
+
+"It's been a while, Princess," he said clearly, so everyone could hear.
+
+Gasps spread throughout the cultivators like wildfire.
+
+Stella smiled as she recognized the man.
+
+"Raise your head, Mr. Choi. It has indeed been a while. How did you end up here in Desolark City? I thought you were managing things back home?"
+
+Mr. Choi had run the Golden Springs noodle shop in Darklight City, which served as a front for a place where rogue cultivators could be hired. It's from where they had effectively bought Douglas over a year ago and was later hired to oversee the underbelly of Darklight City with his gang. Stella was rather surprised to see him here in Desolark City, and he seemed to hold a position of authority, which was unexpected. She felt he worked best from the shadows.
+
+The man raised his head and laughed. "I go wherever the Patriarch desires, and Desolark City was the most out of control, so I was sent here. You could say I've become the Ashfallen Sect's peacemaker."
+
+"Is that so?" Stella snorted, finding the title of peacemaker for such a scary-looking man to be ridiculous.
+
+Mr. Choi also seemed to find humor in the title. "I know, I didn't expect this to happen either, as it's quite the polarizing job from what I did for decades before, but my life has been set on a new path ever since I met you." He paused. "Speaking of which, what is the reason for your unannounced visit to such a faraway city under the Ashfallen Sect's immense rule? I apologize for the overreaction, but most of the people here have never seen the Princess of Ashfallen in the flesh before and are understandably wary when an unknown person suddenly steps out of a portal."
+
+Stella tilted her head. "I didn't know I needed permission to move around lands owned by the Ashfallen Sect just because I seldom show my face to the millions of citizens under our rule."
+
+"Of course, the Princess of Ashfallen does not require permission to go anywhere, but I hope you will understand that your abrupt arrival at places, especially since you are hiding your cultivation, can cause problems."
+
+Stella frowned and looked down at her Phantom Veil Pendant. "Does this really cause such an issue?" she mused aloud, taking it off. If these fools wanted confirmation that she was far above them and they should be wary of her, then this was how it had to be. The effect was immediate. All around her, the cultivators crumpled to their knees, and the Star Core Realm guards floating above were pulled to the ground.
+
+"Please, Princess! Restrain your soul pressure and blood lust!" Mr. Choi begged through clenched teeth as he barely managed to stay standing. He had gone terribly pale all of a sudden, and his bald head glistened from a cold sweat.
+
+"Oh, my bad," Stella said, realizing that she never really bothered to learn how to mask her presence, as the artifact usually did the job for her. Reeling it back in, everyone visible let out a shaky breath and slowly got back to their feet. However, they now all looked at her with fear. Deciding it would be best, she put the Phantom Veil Amulet back on and returned to appearing like a mortal.
+
+"What... was that?" Mr. Choi choked out as he regained his bearings. "It can't have been the soul pressure belonging to someone at the peak of the Star Core Realm... don't tell me, was that Nascent Soul Realm? Since when did you get so strong?"
+
+Stella shrugged. "I've been training more than usual recently," she said, which wasn't a total lie. She had spent a whole year in the Eternal Realm. "Though I have to ask, who are all these cultivators? I don't recognize anyone except you."
+
+She was also unimpressed with how weak they all seemed.
+
+"You're right, introductions are in order," Mr. Choi said, wiping his head with a hand towel. Regaining his composure as if nothing had happened, he gestured toward her first. "If it wasn't obvious yet, this is Stella Crestfallen, daughter of the Ashfallen Sect's Patriarch. Remember her face well, so we can avoid an issue like this in the future."
+
+The large group gave a sheepish nod in acknowledgment.
+
+Mr. Choi then introduced the blue-robed cultivators. "These people are all handpicked elites to guard the Desolark Citadel. While they are mostly cultivators who used to reside in the Tainted Cloud Sect before it was flattened by the beast tide, there are also a few locals who have lived here since Vincent Nightrose's rule."
+
+"These are the elites?" Stella surveyed the group with a look of disappointment. "Are there none in the Nascent Soul Realm from the Tainted Cloud Sect?"
+
+Mr. Choi shook his head. "Princess, you have to remember these cultivators haven't enjoyed the miracles of the Ashfallen Trading Company for as long as those attending the sect in Darklight City. While the Tainted Cloud Sect did have a few Nascent Soul Realm cultivators, other than the Celestial Warden, I don't believe any others from the sect moved here."
+
+Stella found that interesting. If they weren't here, where could they have gone if the Tainted Cloud Sect had been destroyed? Shaking her head, she dismissed that thought. She hadn't come here for this.
+
+"Mr. Choi, the reason I came here was to visit the Celestial Warden." Stella looked around, half expecting to easily locate the Eternal Pursuit Pavilion. Yet the sheer size of the Desolark Citadel made the city feel like it was on the horizon, and nothing stood out to her besides the airship docks in the distance. "Where is it? I thought the Patriarch approved the rebuilding of the Pavilion here in Desolark City?"
+
+"For security reasons, the Eternal Pursuit Pavilion resides just outside the city," Mr. Choi helpfully explained. "I can lead you there if you wish."
+
+"Please do."
+
+Mr. Choi summoned a flying sword and hopped on. It seemed the man's cultivation hadn't increased by much since they had first met, but considering how corrupted his spirit roots had been, at least some progress had been made. He seemed to be around the third stage of the Star Core Realm now.
+
+Stella simply floated into the air—the need for a sword to fly was no longer a requirement due to her ascension to the Nascent Soul Realm. The mixture of envy and awe on the faces of the so-called Desolark elites amused Stella as she joined Mr. Choi in the air.
+
+"It really is outlandishly massive," Stella mused, looking down at the Desolark Citadel from above. Now that she was in the air, she could see the city in the distance, encircling the chasm from which the Citadel was built. For a city that had to contain upwards of twenty million people, she found it a little excessive that the Citadel took up a third of all the land inside the towering walls, a little over the top. That's when a worrying question formed in her mind. "Who lives in the Citadel, Mr. Choi?"
+
+"What do you mean, princess?" The man glanced at her. "It's reserved for you and the other Grand Elders of the sect."
+
+"Huh?" Stella blinked in disbelief and looked down at the building, which might as well be referred to as a vertical city by how it could house hundreds of thousands of people within. It was truly that big. Who would even want to stay inside such a place where walking from one side to the other would take an hour? "I don't understand. The Grand Elders rarely leave Red Vine Peak, so what is the need for that?"
+
+"That is true. I believe the only Grand Elder who has ever stayed here since its construction was Grand Elder Douglas, along with a few thousand Mudcloaks."
+
+"You have to be joking—all of this, just for one Grand Elder to use occasionally?" Stella said in disbelief, gesturing at the Desolark Citadel below.
+
+"Not just any person, this is Grand Elder Douglas we are talking about—the master builder who erects cities overnight and answers directly to the Patriarch of the most powerful sect in the wilderness," Mr. Choi suppressed a chuckle. "Forgive me, for despite his exploits, I find it hard to speak about Douglas in such a grandiose way, knowing of his... humble beginnings working for me only a year ago."
+
+"No, I agree with you. What the hell is with that title?" Stella felt almost repulsed by it all. "Douglas is a good guy, but he's nobody important enough to live alone in such a building."
+
+"Well... he did build it himself, did he not?" Mr. Choi pointed out. "And he is a Grand Elder of the Ashfallen Sect. If not him, who else should live here?"
+
+Stella wanted to rebuke such a ridiculous statement but went silent as she mulled over that question. Who indeed?
+
+"You have to understand, princess, that while you are painfully aware of the Ashfallen Sect's humble beginnings, as am I, the citizens aren't. To those saved from the Tainted Cloud Sect via hundreds of portals and given free housing in a new city, you are heroes. To the millions here freed from the Nightrose families' tyrannical rule and now believing in the All-Seeing Eye, you are the daughter of their god."
+
+Stella processed Mr. Choi's words as she surveyed the vast city below her, and the more she thought about it, the more she hated to admit that he was right. There was no dancing around it—the Ashfallen Sect and those close to Ashlock might as well be gods to the mortals of the multiple cities under Ash's rule.
+
+"Douglas is also in the Nascent Soul Realm as of a few days ago," Mr. Choi added. "If he were to accidentally unleash his soul pressure like you did earlier, he could kill thousands of mortals if he lived in the city. If anything, you could see him taking residence here as a safety precaution."
+
+Stella slowly nodded, her brain latching onto that thin wisp of sound logic to explain what was being unraveled before her.
+
+"I hope you might now understand the earlier situation a little better and will forgive the guards. They are used to only welcoming a single visitor, so for the Princess of the mythical sect that they have never even laid eyes on to suddenly show up unannounced was a highly unusual situation."
+
+Stella glanced at Mr. Choi and noticed the man almost seemed scared—as if she would do something bad to them for that earlier display.
+
+"It's fine," she said. "No need to look so worried. It's not like I'll kill them for not knowing what I look like."
+
+"That's a relief," Mr. Choi said, and actually looked far less tense—which annoyed her. Had her reputation as the Murder Princess spread this far? No, it was likely because Mr. Choi knew the story of how she cleaned out the rogue cultivators living under White Stone Peak. His worry was perhaps a little understandable then.
+
+"So... where is the Eternal Pursuit Pavilion then?" Stella said, scanning the skyline. Right now, they were just floating above the Citadel.
+
+"Ah, right this way," Mr. Choi hastily spun his sword to face north and shot forward. Stella easily kept pace beside him, the wind playing with her hair as she went. As the city blurred beneath them, they zoomed past a massive airship, and Stella could see the faces of people watching them go by.
+
+"I thought all the airships left after the fall of the Nightrose family and with the threat of the looming beast tide," Stella idly commented.
+
+"Where there is money to be made, the ships will sail," Mr. Choi laughed. "If anything, there are apparently more ships than ever. Under the Ashfallen Sect and with the new outpost of the Eternal Pursuit Pavilion here, business has never been better. I heard the Silverspires have been spearheading the operations and even teamed up with the remanents of the Azurecrest family."
+
+"Oh?" Stella said, realizing once again that she was pretty clueless as to the sheer scale of the Ashfallen Sect's operations. She usually showed up, killed some people, and then retreated back home. Thoughts about the aftermath of her actions, like wondering what had happened to the Silverspires since basically being threatened into joining the Ashfallen Sect, rarely crossed her mind.
+
+"Don't the Grand Elders of the sect get a share of the Ashfallen Trading Companies' profits?" Mr. Choi asked. "You must therefore be aware of how influential it has become? Last I heard, it's dwarfed the Golden Dragon Alchemy Guild by now, which of course they are not happy about at all."
+
+"I don't really look into those things too much," Stella shamefully admitted. The concept of money had never really been something she cared about. For years, she lived off scraps and fruits grown by Ash and slept outside on a bench. Most of her cultivation resources had also been provided by Ash, so she had never needed to buy anything.
+
+"Make sense," Mr. Choi nodded sagely, "any amount of money must seem insignificant compared to how much you must have burned through to reach your strength so quickly. Hell, I doubt the entire value of this city was enough to buy all the resources you must have needed."
+
+"Um..." Stella wanted to point out she hadn't spent much at all—it had entirely been made possible because of Ash—but then decided against admitting such a thing. "Yeah, something like that."
+
+Mr. Choi bobbed his head. "As I suspected. Oh, do you see that in the distance?" He pointed to an unassuming mountain clouded in fog. "That's the new headquarters for the Eternal Pursuit Pavilion out here in the wilderness and our destination."
+
+Stella nodded and brought out her VIP pendant. "Hopefully, with this, they will give me a less dramatic welcome," she said. However, with the look of awe Mr. Choi shot her way, she somehow doubted that.

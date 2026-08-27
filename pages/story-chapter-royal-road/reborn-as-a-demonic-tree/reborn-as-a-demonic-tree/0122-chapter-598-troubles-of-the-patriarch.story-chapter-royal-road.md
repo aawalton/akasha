@@ -1,0 +1,255 @@
+---
+id: 87e088e0-72a6-5cf9-af4e-c280e8f6267e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 598: Troubles of the Patriarch"
+slug: 0122-chapter-598-troubles-of-the-patriarch
+partOf: reborn-as-a-demonic-tree
+position: 122
+ownLength: 2805
+unit: words
+publishedAt: 2026-07-31
+link: "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3752398/chapter-598-troubles-of-the-patriarch"
+royalRoadId: "3752398"
+---
+
+For ten years, Ashlock had lived as a demonic spirit tree.
+
+From the moment he'd woken in a body of wood, sap, and leaf, two constants had carried him through this new life—the system and Stella. One had given him the power to rival gods. The other had given him a reason to use it.
+
+With Stella taken from him, a dark blanket of uncertainty had been cast over that once bright future, leaving him with nothing to rely on but the power he had built up through himself and his allies.
+
+He would stop at nothing to try to claw that future back.
+
+To rescue Stella from the Crowned One's clutches was his only goal. Everything else had become secondary. Even as his Inner World fractured from the strain of his sacrificial credits dropping dangerously low, he kept desperately pressing forward, pushing his invasion of the Empire with everything he and his allies could muster.
+
+However, he was not blinded by rage despite the situation.
+
+His Soul Forest skill was working overtime to burden his wrath onto his offspring so he could keep a somewhat clear mind. And a clear mind he needed, considering the sheer scale and absurdity of the battle he had to win to get his daughter back.
+
+The Celestial Empire Monarchs were proving why they stood at the pinnacle of this layer of creation.
+
+It had taken careful setup and almost everything in his arsenal to kill Faelorian Lysanthos. The other two Monarch souls he had devoured thus far, Verath Tindrel of the Luminarch Conclave and Aldric Stonecrest, were hand-delivered to him by Stella, who had ambushed them with all her advantages.
+
+With Stella gone, in the void of her fearsome Monarch-slaying presence, the fear of death keeping the Celestial Empire Monarchs divided on whether or not to submit to the invading Dark God was gone. Ashlock and his forces had become a common enemy worth banding against, and Ashlock soon discovered that they were outnumbered and outclassed.
+
+The Celestial Empire was fielding over a dozen Monarchs against him, each with centuries of experience in using their domains and perfect command of reality-breaking techniques that had likely been passed down and refined from an ancient era.
+
+Meanwhile, Ashlock only had a handful of Monarchs on his side. While most of them possessed unique abilities that set them above a regular Monarch, their cultivation level and experience were lacking. It also didn't help that they were outnumbered two to one.
+
+Thankfully, a few of the Celestial Empire Monarchs had switched to his side.
+
+Mistress Veilshade, Grand Elder Ren, Thal'korr, and Cyphion were fighting in the collapsed caverns beneath the ballroom, where a dozen clashing domains had brought the Grand Hall down on top of itself. That freed the rest of his forces to defend the Hellroot Abyss and push for air supremacy over Empyrea.
+
+For hours, the battle had raged with only Droskan Virelios on the Empire's side dying so far. While his infant soul escaped, Khaos had managed to retrieve his corpse. Ashlock was currently devouring the water Monarch to progress his quest, which he desperately wanted to complete.
+
+Without his own domain to unleash, Ashlock's direct contribution was going to be forever limited. He couldn't yet stand toe-to-toe with these old monsters. What he could do was support his sect members by lacing their foes' domains with desolation Qi to give his sect members an edge, striking them from afar with void lightning, and stretching his Abyssal Maw across the entire battlefield, so that nowhere was truly safe ground for the Empire.
+
+While the sect members focused on surviving their individual fights, he lorded over them all. Through Abyssal Whispers, he coordinated plans and tore open desolation rifts to make them happen.
+
+But with everything going on, he was spread too thin.
+
+Not only did he try to pit his sect members against enemies of equal skill or gain advantages, but he was also constantly worrying about Stella and coordinating a search effort for her via Nyxalia and Maple, whom he had pulled from Tartarus after their plan to trap the Crowned One through Ao Lingxuan failed. If they could get Stella back, not only would it calm his rage and fear for the future, but it would greatly alter the tide of battle. She was a Monarch killer—her mere return would fragment the Monarch's confidence once again.
+
+That's why Ashlock let out a small sigh of relief as Diana touched down before Magnus, giving the wounded fire Monarch a second to breathe. Everyone, including him, was at their limit. Introducing a new powerhouse would swing the fight in their favor.
+
+Diana spread her wings and stepped in front of Magnus. Demonic mist steamed off her body and flooded the area, and Ashlock immediately altered the desolation Qi around her so it wouldn't affect her.
+
+A sharp pain rippled through his consciousness in answer.
+
+"System?" he asked, unable to spare the moment it would take to look at his Inner World himself. "What happened?"
+
+[Inner World is being consumed to fuel Qi expenditure]
+
+"Huh?" he paused and checked the message again. "What? Isn't the World Tree providing us Qi directly through my Hellroot Abyss? How can I be running so low as to tear my own Inner World apart?"
+
+[The World Tree has been further restrained. She is unable to direct the flow of her Qi anymore]
+
+"Then pull from my offspring!" Ashlock insisted. "We are so close to winning with Diana here now. I can feel it—"
+
+[Your offspring have already exhausted their Qi reserves. Any further drawing will cause the withering and death of entire forests, which will greatly inhibit other skills such as Soul Forest from functioning]
+
+Forests could grow back. But not even for Stella was he going to bleed his children dry while they had nothing left to give.
+
+"Is there a way I can make up the deficit?"
+
+[If you enter hibernation via Nocturnal Genesis and maximize the usage of the Divine Cycle of Creation and Ruin, your Qi generation will match half your current output]
+
+"Half?!" Ashlock said in shock. It went without saying that if he were to cut his output by half and hibernate right now, his sect members would swiftly lose. He was the glue that kept everyone together and helped them fight. Without his help, it would be over. He had to stay conscious and on the battlefield no matter what.
+
+"What about my worshipers? Can we get them praying to me to generate more sacrificial credits?"
+
+[The Vice Cult Leader Elysia is currently here at the battle, and Stella is missing, leaving nobody charismatic enough to lead another prayer toward you after you just fired your Crown of the Withered Sovereign]
+
+"Fine, we need to cut back on Qi. What are the biggest expenditures?"
+
+A long list appeared in his mind.
+
+[Listed in order of expenditure:
+
+Voidstorm Aegis.
+
+Desolation Qi usage.
+
+Maintaining the Bastion fleet.
+
+Abyssal Maw.
+
+Expansion via Ethereal Roots.
+
+Heaven-Defying Orchard.
+
+Blooming Root Flower Production.
+
+Soul Forest.
+
+Abyssal Whispers]
+
+"Voidstorm Aegis is higher than all my Desolation Qi usage?" Ashlock muttered. "But I can't turn it off. It's too crucial."
+
+His attention flickered to the fight between Diana and the Wind Monarch. He had already marked every Celestial Empire Monarch, so they were constantly being assaulted by miasma clouds of his cursed blood and void lightning from the Hellroot Abyss, which they couldn't ignore, as he had seen a Monarch lose their leg to a bolt of void during a fight earlier.
+
+While the Wind Monarch was clearly superior to Diana in every aspect, she wasn't able to press her advantage as she had to expend effort dodging the void lightning and Sol's light beams. But she wasn't going to hold for long.
+
+Magnus needed to get back into the fight to help Diana.
+
+Ashlock opened a desolation rift for Magnus without thinking.
+
+"Get healing from Sol—agh," Ashlock grimaced with pain.
+
+"Patriarch?" Magnus looked up, concern cutting through his own near-death expression. "Are you alright?"
+
+"I'm fine," Ashlock lied through the soul-splitting pain. "Just get through the portal."
+
+Magnus did as he was told and stepped out next to Sol. His new Monarch Light Ent quickly began fishing out orbs of light and pressing them into Magnus's wounds.
+
+Ashlock forced himself back to the list.
+
+Voidstorm Aegis was his main way of keeping his allies alive, while Desolation Qi was the only thing leveling the gap between his newbie Monarchs and the Empire's veterans. Neither could be cut.
+
+"Maintaining the Bastion fleet? How is that costing so much?"
+
+[Your fleet has greatly expanded, and Geb was badly damaged during the battle for Argentum. He provides some of his own Qi, but draws deeply on your reserves to recover and remain combat effective]
+
+Diana had mentioned something about that. She had assured him that the Celestial Empire fleets had been taken care of. He would have to take her word for it, as he couldn't spare a moment to look away from the battle.
+
+"Okay, I likely can't cut Geb off. Abyssal Maw and the fiends from the Hellroot Abyss, alongside my Ents, are keeping the Empyrea Guard at bay from assisting their Monarchs. My Ethereal Root expansion can't be halted as I'm expanding to the south, so I can destroy the formation restraining the World Tree—"
+
+He stopped.
+
+"Wait. Why is my Heaven-Defying Orchard using so much?"
+
+[Growing a new body for Morrigan is costly, alongside all the fruits]
+
+He'd forgotten about that.
+
+"Can we pause the growth?"
+
+[There's a high chance that Morrigan's body won't survive pausing the process]
+
+Ashlock huffed in annoyance. Of course there would be an issue.
+
+"The fruits, then. Blooming Root Flower Production too. Cut both."
+
+[The fruit production already doesn't meet the Ashfallen Trading Company's demand. Cutting supply would cripple its operations]
+
+"System, my soul is being torn apart here. Diana can deal with the fallout of the Ashfallen Trading Company once we have won this war. Cut production of all fruits."
+
+He waited. Slowly, the screaming inside him quieted by a fraction.
+
+[An estimated 8% of Qi expenditure has been relieved]
+
+"Only 8%? That's not nearly enough," Ashlock said. "Cut Soul Forest too."
+
+[That is ill-advised]
+
+"Do you think I can't handle my own emotions—"
+
+[You have successfully devoured the Water Monarch Droskan Virelios]
+
+[+1280 SC]
+
+[Monarch Realm ascension requirements:
+
+Possess an Inner World: 1/1
+
+Comprehend Desolation Law: 100%
+
+Devour the souls of nine Monarch Realm beings: 4/9]
+
+Ashlock felt a flood of Qi enter his soul. It was barely enough to bring him back to baseline, but it quieted the screaming pain of his soul splitting for now.
+
+A solution had appeared.
+
+Ashlock dismissed the list of expenditures.
+
+"I don't have a Qi spending problem," he said slowly. "I have a Qi income problem. I can't cultivate. I can't bleed my children any further. I can't pull from the World Tree." His voice sharpened. "So I'll harvest the Qi I need from the rich. And the rich, in this case, are the Monarchs."
+
+He reached out through Abyssal Whispers.
+
+"Nyxalia. Maple. Unless you have a lead on Stella, return to Empyrea. I need you two here to kill the Monarchs—"
+
+Starlight swallowed the sky.
+
+Without warning, the chariot-riding Monarch from earlier had returned and dropped a literal star onto the Hellroot Abyss, consuming his entire view with blazing starlight. Ashlock's void lightning lashed up at it on reflex, tearing uselessly through an attack made of pure stellar fury.
+
+The star kept falling.
+
+Sol moved first.
+
+The Light Monarch Ent raised a shield of solid radiance over the Hellroot Abyss, bracing against the impact. The freshly healed Magnus joined him a second later, hellfire coiling along his blade as he swung up at the descending light.
+
+With a combined effort of light and fire, it looked like they would succeed in preventing the falling star—until the Cosmic Monarch showed his true intentions. He flickered and reappeared at Magnus's side.
+
+Magnus's eyes went wide. His Infernal Sovereign domain erupted outward—a wall of hellfire rippled from him, with volcanoes manifesting—only for a sword of pure light to take his head off.
+
+A violet hiss of fire spluttered from his neck as his head went rolling. His body crumbled where it stood, hardening instantly into an ashen statue as Larry's domain activated.
+
+Sol protectively loomed over the statue in a single fluid motion. His many hands lit with light, tracing runes in the air faster than the eye could follow. Shields blinked into existence between him and the Cosmic Monarch while beams of focused radiance scorched through the air, carving lines into the floor as the Cosmic Monarch blinked in and out of existence to dodge.
+
+Just as Ashlock thought the Monarch was going to escape, one of the many beams caught the Cosmic Monarch's hand, drawing blood. Ashlock quickly directed his miasma of cursed blood in the air to rush the Monarch while smothering him in his soul pressure and burning his Qi reserves to unleash waves of void lightning.
+
+Yet, despite his efforts to pin the Monarch down, the Cosmic Monarch barely managed to hold on—his speed was incredible.
+
+A dragon scale falling from overhead changed everything.
+
+"Anti-gravity."
+
+Kaida's voice echoed from overhead, and the Cosmic Monarch, along with Sol and Magnus's statue, lost their footing. Gravity reversed, causing them to begin floating along with the rubble.
+
+Monarchs could fly, but the opening it created was enough. Ashlock's cursed blood smothered the Cosmic Monarch and burned into his wound, invading his body.
+
+"Hungering Maw," Ashlock ordered without hesitation, and the Hellroot Abyss answered.
+
+Hungering Maw - At the cost of 100 SC per minute, mark a target and summon a rapidly expanding abyssal maw full of void tendrils and black vines around yourself. These vines and tendrils will automatically seek out the marked target. Enemies infected with Cursebloom Sap will be automatically marked as targets. If the marked target is cursed by Ashlock from any skill or technique, they cannot teleport away while in the radius of the Hungering Maw until either the skill ends or the caster of the skill dies. While the skill is active, the Hungering Maw siphons the marked target's Qi and lifeforce to sustain itself and grow in size, meaning the stronger the opponent, the larger the skill will become.
+
+The Cosmic Monarch's cursed blood lit up like a beacon in his sight. The little stars circling his shoulders stuttered and dimmed.
+
+"What?" The Cosmic Monarch said in disbelief as his teleportation failed him.
+
+He continuously tried to teleport away.
+
+He couldn't.
+
+Black vines surged outward from the wound in reality below him, threading the air at impossible speeds and latching onto him in the blink of an eye. Life force and Qi were forcibly drawn from the Monarch, feeding back into the Hungering Maw below, allowing it to expand.
+
+If Ashlock had been a Monarch, this might have been enough.
+
+"You think these can restrain me?" the Cosmic Monarch bellowed, his eyes glowing brightly as power poured from him. He grabbed the void tendrils with his bare hands, the cosmic Qi coating his hands hissing as he tore them apart and worked to break free.
+
+"I don't need them to," Ashlock said, his Abyssal Whispers easily penetrating the man's mental defenses as his body was infected with his cursed blood. "She will handle you."
+
+Nyxalia phased in behind the man.
+
+Inhumanly tall, her body composed of twisted roots and ghostly branches that didn't quite resolve at the edges, she loomed over the Cosmic Monarch. Her eyes were translucent and glowing, like swirling portals into an impossible dimension. Her cape of shadowy tendrils trailed below her, stretching down toward the Hellroot Abyss as if it were the only thing keeping her tethered to the world she'd stepped back into. Above her shoulders, the crown of dark wooden antlers radiated the chill of death—except now those antlers were splintered along their length in long fractures from the Verath extraction, faint white seams still bleeding light through the cracks like wounds that had refused to close.
+
+She was injured, but that didn't matter. Her prey was sufficiently captured, and Ashlock had never seen her this hungry.
+
+"Master," Nyxalia said, her voice like a distant whisper. "You called."
+
+She reached through the Cosmic Monarch and ripped his infant soul free in a streak of light. It blazed between her fingertips like a comet pulled out of orbit.
+
+The Cosmic Monarch screamed in pain and horror as his soul was played with.
+
+Maple appeared on his shoulder from the void and silenced him. Forever. The Hungering Maw coiled around the corpse and dragged him down to the Hellroot Abyss.
+
+The true powerhouses of the Ashfallen Sect had arrived.

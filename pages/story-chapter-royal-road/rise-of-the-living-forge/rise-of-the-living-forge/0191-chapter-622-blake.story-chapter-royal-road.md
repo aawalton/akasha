@@ -1,0 +1,143 @@
+---
+id: 849569c3-eca2-5e38-be06-8bbbbd5e4548
+page-type-slug: story-chapter-royal-road
+title: "Chapter 622: Blake"
+slug: 0191-chapter-622-blake
+partOf: rise-of-the-living-forge
+position: 191
+ownLength: 2077
+unit: words
+publishedAt: 2026-07-27
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3732937/chapter-622-blake"
+royalRoadId: "3732937"
+---
+
+Arwin’s gaze bore into Eleven for a moment as he processed her words. Then his head tilted slightly to the side.
+
+“Why?”
+
+Eleven snorted. “I tell you that the Guildmaster of Setting Sun wants to speak with you, and you ask why? That’s not the response I was expecting.”
+
+“It should have been,” Arwin said. He gestured to the darkness behind him, well aware that even in the hall with the faint illumination of the portal swirling beside her, the shadows were so deep that it was unlikely Eleven could make out much at all. “It’s late. The only reason for a meeting like that would generally be an emergency. Has something gone wrong that we immediately need to deal with? Do I need to be alerting the rest of the Menagerie?”
+
+“Not that kind of meeting,” Eleven said. “It won’t be a long one. He simply wishes to speak with you. There are some things that I believe he wants to ensure you know. It’ll be for the good of both guilds. I trust you’ve all seen what’s been happening throughout the kingdom.”
+
+“The Dungeon Breaks,” Arwin said with a nod. “Yes we’re aware. But why now? If it’s just a random talk—”
+
+“Not my role to figure out,” Eleven said. She yawned. “Please just go talk with him. Or do you still think we’re waiting to attack you when your guard is down after all we’ve done to help?”
+
+Arwin hesitated for what might have been a moment longer than he should have. Then he shook his head. “Lillia will know I’ve gone. If I get kept for too long, she’ll be pissed. We’ve been busy lately. Finding time has been hard.”
+
+“Tell me about it,” Eleven muttered. She pushed some of the hair away from her eyes. “Into the portal, smith. You’ll be back here soon enough. Whether you can sleep or not is an entirely different story.”
+
+“I never said we were going to sleep,” Arwin replied.
+
+Then, before Eleven could reply, he stepped through the portal.
+
+The world shifted before he knew it. Arwin found himself standing in a hall, before a plain metal door flanked by two torches. Arwin squinted for a moment as the light pierced into his eyes.  He’d been so used to the shadows of Lillia’s room that the sudden light was jarring.
+
+It wasn’t hard to tell what he was meant to do. Nobody got dropped off in front of a door if they weren’t meant to open it.
+
+Is there something about guildleaders and hiding themselves away in the darkness? Two is too much.
+
+But Arwin didn’t waste any time standing around and waiting. He opened the door.
+
+Beyond it was a plain room. There was nothing at all particularly standout about it. An empty chair sat before an old desk completely covered by a mess of maps and scribbled drawings. And hunched over the table was a large man clad in heavy metal armor. It was white, but aged and scarred by years of disuse and a lack of repair.
+
+Arwin’s breath caught in his chest. Olive had mentioned One’s appearance, but seeing it in person was completely different. Huge portions of his body were cast in tarnished black metal. One of his hands was nothing more than a solid chunk that didn’t seem any more useful than a peg leg.
+
+Then Arwin paused. Something was off. His heart started to beat faster as his body reacted to something his mind hadn’t even quite finished processing yet. He nearly reached for Caldera before he caught himself. His adrenaline was pumping, but he couldn’t even tell why.
+
+One hadn’t even looked up at him yet.
+
+Arwin’s eyes caught on the other man’s armor.
+
+And, somewhere far in the back of his head, a memory stirred. It wasn’t just the color. The design of this armor… it was familiar. Even with all the damage it had sustained, this wasn’t the first time Arwin had laid eyes on armor that looked like this. But when he’d last seen it, it hadn’t been damaged and warped.
+
+Arwin remembered a suit that had once been just like this. Armor cast from brilliant white. Armor that had been worn by a man that Arwin had failed.
+
+“Blake?” Arwin whispered, his chest constricting. He could hear the rush of blood as it pumped past his ears.
+
+It couldn’t be. Blake is dead. I watched him die. I was there. He—
+
+“No,” One said. “I’m afraid not.”
+
+He looked up.
+
+And for the first time, Arwin made eye contact with One. The other guildmaster only had a single working eye. The other one, along with half of his face, was completely composed of ruined black metal. And he was right.
+
+The man before Arwin was not Blake. He was at least twenty years older than Blake. His features were different, his voice rougher and darker. The light that had always been present in the man’s voice was nowhere to be found. This was someone else.
+
+Of course it is. I’m an idiot. What did I think, Blake somehow survived that whole battle, just to somehow escape to Setting Sun and become their leader? No. The Guild never would have let him out.
+
+“I’m sorry,” Arwin said. “For a moment, you just reminded me of someone that I used to know.”
+
+“Thank you,” One said. He nodded to the chair before him. “Sit, please. Forgive me for not calling this meeting earlier. I’ve been wanting to speak with you for some time, Arwin. But finding time where I can properly think has been harder and harder. This old body isn’t what it used to be.”
+
+Arwin started forward. It was only as he was lowering into the chair that a frown creased his features.
+
+“What?” Arwin asked.
+
+“I’m sorry?” One asked, pushing some of the papers out of the way and gazing at Arwin from his one working eye. “Did I miss something?”
+
+“You said ‘thank you’. Why would you say that?” Arwin asked. “Did you recognize the name I said?”
+
+“I did,” One replied. His gaze was unwavering. “How could I forget? Blake was a good man. A better one than I. Even as decrepit as I am now, how could I forget him?”
+
+“Two said that Blake was a potential recruit. A trainee. Not an official member of your guild,” Arwin said. “How do you know him so well as to recognize his character? Do you really mean to imply that you’re closely involved with every single one of your recruits?”
+
+“We do not seek anyone out that I am not aware of,” One replied. “It is part of my responsibility as guild leader. Would you allow someone to join the Menagerie without at least knowing them to some degree yourself? Even if the guild grew larger?”
+
+Arwin paused for a moment. Then he shook his head. “No. I suppose not.”
+
+“Of course not,” One agreed. “It would be foolish.”
+
+“Right.” Arwin drew in a slow breath and forced his adrenaline away. It had just been a coincidence. The past was the past. There wasn’t any changing it. “I’m sorry about that. Just… old memories from a past life. What was it that you called me here to speak about?”
+
+“A great deal of things. We will get into business shortly. But first… I simply wanted to meet you,” One said. He drummed the fingers of his good hand against the table. “We place a great deal of trust within the Menagerie, but prior to now, I had still yet to meet its leader.”
+
+“Likewise,” Arwin replied. “But we share a goal.”
+
+“That we do,” One said. “The Guild will fall. And sooner than any of us thought, at that. We will get to that later. First… what would you like to drink? Tea? Wine?”
+
+“Tea is perfectly fine,” Arwin said. “Thank you.”
+
+One nodded. He turned to take two cups from a shelf behind him. As he did, Arwin’s brow furrowed again. The back of his armor really resembled Blake’s. He’d almost managed to convince himself that it had just been a coincidence, but this was a bit much.
+
+I’ve never seen another suit so similar. Why is One’s armor fashioned like that?
+
+One turned back to him, setting the cups on the table. He pressed a button somewhere on his side. With a clunk, a metal spigot popped out from within the table. One pushed one of the cups over to it to fill it, then slid it over to Arwin and started to fill his own.
+
+But Arwin made no move to pick the cup up. His eyes narrowed. He couldn’t ignore this any further.
+
+“I’m sorry,” Arwin said. “But before we continue — I need to know. Where did you get that armor of yours?”
+
+“This?” Blake glanced down to his tarnished equipment. “It’s just an old thing. Nothing of worth. Why?”
+
+A flicker of anger shot through Arwin. He drove his fist down on the table before him.
+
+“Don’t lie to me. If you knew Blake well enough to recognize his name, then you’d know what kind of armor he wore. It wasn’t exactly the subtle kind. Why do you have Blake’s armor?”
+
+The two of them stared at each other for a moment.
+
+Then One pinched the bridge of his nose with his good hand and blew out a long breath.
+
+“It’s not Blake’s armor, Arwin. This is the prototype for it. A suit of enchanted armor that could resist almost all sorts of magical investigation to even the highest levels, among other things. Optimized to use so little magical energy that nobody would be able to identify it as anything more than a relatively nice piece of equipment. Perfect for someone trying to infiltrate an enemy force… though the one I wear wasn’t nearly as resistant to fire as it should have been. We had that fixed for the next version. Fat load of good it did. It wasn’t the fire that did him in. How could I have expected him to run into a collapsing building?”
+
+Arwin’s throat clenched. He remembered. Nobody had expected it. But, in retrospect, they really should have. That was just the kind of person that Blake had been.
+
+“It had to turn a blow or avert a spell. But a building? I never accounted for that. I didn’t think it was possible to make a suit of armor impossible for anyone else to detect and powerful enough to stop a massive falling log from crushing a man,” One continued, almost as if he didn’t even hear Arwin. But the man’s lone eye told a different story. It met Arwin’s gaze, unflinching. “Though I now realize that I was mistaken. It seems it was possible. Given what I have seen you and Necrohammer create… I simply failed to secure proper equipment to protect Blake.”
+
+“Stop,” Arwin said. He raised a hand. It wasn’t that One’s explanation didn’t make sense. The topic was just painful enough that he couldn’t barge ahead this quickly. “You outfitted Blake before he joined the army? As terrible as his death was, I couldn’t hold any of that against you. Blake was never the kind to sit back and do nothing. It sounds like you did what you could. The Guild killed him. Not you.”
+
+“I know that,” One said. A sad, distant look crossed over the parts of his features that could still move. “But that does not change the truth. Blake wanted to make a difference. And I wanted to help him do that. I failed in my duties. He trusted me to protect him, and I could not.”
+
+Something about the way One spoke was… wrong. As tragic as Blake’s death had been, this wasn’t the way somebody spoke about some random promising recruit. People died in war. Good people. Bad people. It didn’t matter. That was the wretched, horrible truth. That was just war. It was nothing but a waste of life.
+
+But as terrible as it was, someone like One would have faced countless loss in a battle against the guild. Blake would be far from the only one who had died on the lines of duty.
+
+“What… was your relationship to Blake?” Arwin asked slowly. “It was more than just a potential recruit to Setting Sun, wasn’t it?”
+
+One’s mouth twitched in the faintest of smiles.
+
+“Blake is my son.”

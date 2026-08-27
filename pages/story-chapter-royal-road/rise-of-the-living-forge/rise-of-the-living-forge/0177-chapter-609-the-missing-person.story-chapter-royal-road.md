@@ -1,0 +1,127 @@
+---
+id: 9faf757e-009b-54f0-8ab3-6c58c0b0ff78
+page-type-slug: story-chapter-royal-road
+title: "Chapter 609: The missing person"
+slug: 0177-chapter-609-the-missing-person
+partOf: rise-of-the-living-forge
+position: 177
+ownLength: 1717
+unit: words
+publishedAt: 2026-06-16
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3547289/chapter-609-the-missing-person"
+royalRoadId: "3547289"
+---
+
+Uriel stepped through the wall of the Infernal Armory. It wasn’t like she could take the door. The Soul Guardian was far too large to even think of fitting. Still, Arwin wasn’t sure if he was going to get used to a huge suit of armor literally walking through a solid stone wall.
+
+Sunlight spilled into the Armory for a brief moment as its interior was laid bare to the street. Arwin squinted, momentarily blinded. He saw a fair number of people milling about, peering toward him in a mixture of awe and curiosity. Maybe it would have been smarter to wait until the night to go doing anything like this.
+
+Unfortunately, they just didn’t have the time.
+
+The Armory’s wall rippled back shut behind Uriel, closing as if it had never even opened. The bright light vanished and Arwin blinked several times to banish the spots dancing in his vision.
+
+“You called for us?” Uriel asked.
+
+“I did,” Arwin said. “Is Anna—
+
+Anna stepped out from behind the giant Soul Guardian, a concerned expression on her face. “Yep. I’m here. Uriel said it was urgent. What’s going on? I — whoa.”
+
+The Infernal Armory raised an obsidian hand to greet her. “Hello. I have built myself body.”
+
+“I… yeah. Wow. Right,” Anna said. She shook her head. “Impressive. But the urgent stuff?”
+
+“Urgent? I don’t know if… well, I suppose it is,” Arwin allowed. He blew out a sharp breath. “I’ve got an idea for how we can make the item to deal with the Beast. I haven’t been able to make the dagger in the way I wanted to. That piece of corrupted Leyline the Guild was using turns out to be pretty damn important. But I think I’ve figured out a way around the problem.”
+
+“Oh?” Anna asked. “What is it? Please don’t tell me this somehow involves severely injuring yourself in some manner or another.”
+
+“What?” Arwin blinked. “No! Nothing like that. Why would you think that?”
+
+Anna’s cheeks reddened. She blew out a relieved sigh. “Oh, good. I was just worried. You know. Calling the healer and saying something is urgent… that generally doesn’t end up being a good thing.”
+
+“I didn’t think about that. Sorry,” Arwin said with a laugh. “It’s not your healing skills I’m after today. It’s your sympathetic magic. I need your help making a pair of items that have a really strong connection.”
+
+Anna looked taken aback at that. She scratched the side of her neck. “Isn’t that… just a set?”
+
+“I won’t be able to have much magical power within the items themselves,” Arwin said with a shake of his head. “A set is too much. It’ll end up getting consumed by the magic-eating properties that I need to imbue the items with. Instead, I was thinking we can somehow use sympathetic magic to connect the pieces externally.”
+
+“Like a housing around the actual magic-stealing properties?” Anna asked after a moment of thought.
+
+Arwin nodded. “Yes. Exactly. Do you think that’s possible? I just want to make it so that if the items are moved far enough away from each other, they destruct with enough force to destroy the items completely.”
+
+“They would need a strong connection. An active one,” Anna said with a pensive frown. “Like Twelve and his clone. Would you be able to have magic constantly flowing through an item that’s actively eating magic?”
+
+“Yes,” Arwin said. “I believe it should be possible. If I make it in the style of—”
+
+“A Soul Guardian,” Uriel said. Her glowing eyes affixed on Arwin. “The Core is separate from the rest of the body. You’re going to make two miniature Soul Guardians, put the magic-consuming properties within the Core, then link the exterior portions with sympathetic magic?”
+
+“That’s what I’m thinking,” Arwin said.
+
+“You’re going to put a leash on the Beast,” Uriel said. “I assume that’s the point of this?”
+
+“Basically,” Arwin said.
+
+“Who holds the other end?” Anna asked. “Because whoever is holding it is going to get stuck with the Beast orbiting them at at least a somewhat regular interval. We’ll have to ensure the range isn’t too small. If it is…”
+
+“Yeah. I already thought about that.” Arwin shuddered. “Torture. As for who’s holding the leash, I was thinking about doing it myself. But I might end up going some locations that we really don’t want the Beast rolling up to. So I invited the best candidate I could think of.”
+
+“Me?” Uriel asked. “You want to plop the Beast with me?”
+
+“I should have seen that coming,” the Infernal Armory said. Its eyes smoldered in annoyance. “Damn.”
+
+“Yes,” Arwin said, ignoring the armory and hiding a laugh. “To be honest, I can’t think of a better option. You like fighting. You’re arrogant, and the Beast actually respects your ability. Out of everyone here, you’ve probably got the best chance of dealing with him if he starts being problematic. And if the Guild decides they’re going to start shit… I’m not particularly worried about you getting assassinated. I don’t think it’s even possible.”
+
+“Appealing to my pride?” Uriel asked. “You aren’t wrong, though. I am powerful.”
+
+“And humble,” Anna said.
+
+“I know,” Uriel said without a shred of irony. “I suppose, if you are desperate, then I will aid you in this matter. But I do not have any interest in being latched to a wild animal. Ensure his leash is long enough that it does not tie me down.”
+
+“We’re hoping to make it something that stretches over a range roughly the size of Milten,” Arwin said. “That way you can continue to remain in the area and protect the street without worrying about keeping track of the Beast.”
+
+“That would be acceptable,” Uriel said. “Is there anything else I would have to be aware of?”
+
+“Yeah. There’s one more reason I think you’d be a good candidate,” Arwin said. “These bracelets are going to have to constantly be active, like Anna said. But I was thinking… what if they’re set up as a flow of energy that’s constantly going from the Beast into you? A human would have trouble with that. So much magical energy would end up overwhelming them. At the best, it would be wasted. But you could absorb it, couldn’t you?”
+
+Uriel’s head tilted to the side. Then a laugh burst free from within her. “You mean to use him like a power source for me?”
+
+“Hey. Why not?” Arwin asked. “No reason we can’t get a little bit of extra benefit out of this. If we fill you up with all the excess power coming from the Beast as the items peel the magic holding him together apart, I’d imagine you’d get quite a bit stronger.”
+
+“Stop talking and do it,” Uriel said. “You’ve already sold me. The Beast is powerful. If I could permanently absorb even a shred of his strength… how could I say no? Give it to me.”
+
+Arwin grinned. “Perfect. Anna? This all hinges on you. If we can’t link the bracelets and ensure that the range is long enough, we need to change strategies. There isn’t time to start this and then give up halfway through. Can we do it?”
+
+Anna didn’t respond immediately. Her brow furrowed in thought for quite some time. Nearly a minute passed before she did anything. Then, finally, she nodded.
+
+“Yes. If you can keep the part of your magic that devours magic contained to the Core, I think I should be able to use sympathetic magic to link them.”
+
+“Perfect,” Arwin said. “Then—”
+
+“But there’s a problem,” Anna said. She raised a hand to keep him from going any further. “How long will this take?”
+
+Arwin blinked. “How long? I don’t know. The Beast is ancient. We can’t do it all at once… so it’s probably going to take weeks. Months, maybe. It won’t be a fast process.”
+
+“Then I’ll need help,” Anna said. “Sympathetic magic isn’t usually something that’s meant to last a long time. It’s sending magic back down in the direction it’s already traveled. That’s usually a fast or sudden effect. Not a long-term one. If we do things the normal way, I’d have to be constantly re-applying the magic. Probably at least once every few days, and that would be assuming everything went better than expected.”
+
+Arwin’s smile melted away. “Shit. I didn’t think about that.”
+
+“It’s solvable, though,” Anna said. “I don’t even think it would be that difficult. We’d need to form the channels for the magic to flow through directly on the piece you’re making. If it’s ingrained instead of something I add in on the top, the connection should last for a long time. Much longer than what I could do separately.”
+
+“Oh,” Arwin said. He blew out a relieved sigh. “That’s not bad. I just have to cut in a few patterns?”
+
+“Not a few,” Anna said. “Quite a lot. And detailed. Incredibly detailed. A small deviation from what they need to be and the whole thing will collapse.”
+
+Shit. Fine work is the one thing I’m not very good at. I can do fine with bigger patterns on armor, but these are bracelets. The scale of this work is going to be minuscule.
+
+“How accurate are we talking?” Arwin asked.
+
+“Imagine perfect, then take half a step back. That accurate,” Anna said. “The more defects, the faster it’ll fail. And if it’s really rough — the whole thing fails. Could even explode or break. We’re linking two powerful magic objects with magic meant to ensure they shatter under a certain condition. That’s not the kind of thing you have a lot of leeway with.”
+
+“Damn,” Arwin said, chewing his lower lip. “Fine carvings aren’t my specialty. I don’t know if…”
+
+Then he trailed off.
+
+“What?” Anna asked.
+
+The grin returned to Arwin’s face. He’d nearly forgotten that they’d recently recruited a new smith. One that was quite interested in the creation of small, detailed items, and who had a hell of a lot of experience. If someone was looking for quality, then it was hard to ask for better than a Dwarven Smith.
+
+“I think we’re going to need one more person to pull this off,” Arwin said. “I need to go get Ida.”

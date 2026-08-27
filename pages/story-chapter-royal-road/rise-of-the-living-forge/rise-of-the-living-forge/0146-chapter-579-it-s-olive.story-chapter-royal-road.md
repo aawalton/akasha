@@ -1,0 +1,141 @@
+---
+id: 1d6220a9-f2b1-55cb-9043-cc59890e5ad2
+page-type-slug: story-chapter-royal-road
+title: "Chapter 579: It's Olive"
+slug: 0146-chapter-579-it-s-olive
+partOf: rise-of-the-living-forge
+position: 146
+ownLength: 1847
+unit: words
+publishedAt: 2026-03-26
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3195933/chapter-579-its-olive"
+royalRoadId: "3195933"
+---
+
+No further attacks had a chance to occur at the Auction. Anyone who might have been sitting around in wait for the VIP section members to emerge from the Mausoleum likely found themselves sorely disappointed as the huge doors of the building ground shut behind the departed members of the lower levels.
+
+Nobody else emerged from the building. All the VIPs were long since gone.
+
+Rodrick and the others kept up an increased watch over the street, even as they took down the barriers they’d set up and returned the street to its normal state. He watched as the crowds that had been waiting at its edges were finally allowed back in.
+
+People poured into the Devil’s Den, forming lines at its door, while Anna started to set up her table at its side. Loud conversation filled the street. It had only taken a few minutes for everything to somehow return to what it normally felt like. That was actually somewhat impressive.
+
+“Anything?” Koyu asked from Rodrick’s side.
+
+Rodrick shook his head. “No. There’s no reason left for an attack. Not on the participants, at least. They’re all gone. If something happened outside of the city… well, that’s not our problem anymore. We did what we could. The only things left on this street to even get attacked is—”
+
+“Us,” Koyu finished. “The final part of a successful auction is making sure you don’t get robbed from all your spoils. But I haven’t noticed anyone powerful enough to cause us any real trouble. The trouble makers have all been turned to fertilizer.”
+
+“And anyone trying to rob us would have to break into either the Devil’s Den or the Infernal Armory,” Rodrick said with a nod. “I don’t fancy their chances at either of those. It doesn’t look like anyone from the auction plans on trying anything. Not right now, at least.”
+
+“Then we really are well and truly done.”
+
+Rodrick sent the Lich a sidelong glance. “There’s no such thing as well and truly done. Always something else. Always more to do.”
+
+Koyu shook his head. “You think I don’t know that? Don’t get pedantic with me. I’m ten times your age and then some. That’s like a child trying to scold their father. You know what I meant.”
+
+A small grin tugged at the corners of Rodrick’s lips. “Perhaps.”
+
+Koyu grunted in response. “Go back to your typical duties. The street no longer needs extra attention, and I prefer to work alone. There are other things that need your presence.”
+
+Rodrick inclined his head. “Best of luck. Good work today. That went better than I had hoped. Roughly what I expected, but still. You never know. Will you be joining us for dinner tonight?”
+
+“No. There are some things I wish to properly look over,” Koyu replied. He looked down at his pale blue hand and flexed his fingers. A small frown tugged at the corners of his lips and he shook his head. “I have not had much free time since my return. This body is still foreign to me.”
+
+“That’s probably because it isn’t a body. Isn’t that the whole problem?” Rodrick asked with a small grin.
+
+Koyu let out a huff that one might have been able to confuse for a laugh if they were paying enough attention. “So it is.”
+
+***
+
+It was late into the night when the Menagerie finally all gathered in the Devil’s Den. They’d all been wrapping up one task or another with regard to the auction. There had been a number of things that had to be done as wrap-up, even now that the event itself was over. The tunnels and giant cavern beneath the street had been a fair portion of that. The rest was mostly admin work.
+
+Arwin had spent much of the time in the smithy, sifting through all the new materials they’d gotten with the help of the Armory. They’d gotten quite a lot. Fortunately, the majority of the expensive materials had been purchased in low quantities. There simply wouldn’t have been room to store them otherwise.
+
+He was quite exhausted when he finally made it over for dinner. And, by the looks of everyone else, he wasn’t alone in that. They all flopped down in their chairs, Lillia included, as the shadow imps brought out food and set it out on the tables before them.
+
+Nobody said much of anything at all for the first few minutes of dinner. They were all too focused on stuffing food into their faces. But the magical energy stored within Lillia’s cooking soon got to work. The vague mental fog from all the sorting and communication he’d been doing with the new materials now stacked up in the Infernal Armory soon faded away.
+
+The rest of the Menagerie straightened up as strength returned to their bodies. It was roughly around then that they all noticed that there was an extra member at their tables. Eleven was sitting and eating with the rest of them. None of them said anything.
+
+At this point, Eleven showing up out of nowhere was fairly expected. There was a pretty decent chance she’d been watching through a fair portion of the auction as well. At this point, she was welcome to it — though they all knew she hadn’t shown up for no reason.
+
+Eleven didn’t get out of bed if she didn’t have a purpose. Even Lillia’s cooking wasn’t enough. It wasn’t hard to guess what she’d returned for. But even still, nobody said a word until dinner had been polished off.
+
+“Welcome back, Eleven. I didn’t notice you’d arrived” Arwin said as everyone finished off the last scraps remaining on their plates. “Should I ask why you’re here? Or is it for the obvious reason? And where’s Maeve?”
+
+“It certainly isn’t for fun,” Eleven said through a yawn. “Two wanted me to keep an eye on the auction. I caught a bit of it, but it seemed like you had everything handled. Your guess is probably right. I’ve just been waiting to take the next one of you back to be Sunset. Maeve is close to finished, and Two thinks can get the next one started early. But it looked like you were a bit too busy to choose someone earlier, and I got to nap while I waited. It was a win-win.”
+
+Were you really keeping much of an eye on anything if you were napping?
+
+“I don’t suppose we’ve got any volunteers?” Arwin asked, but he already knew what the answer would be.
+
+And, somewhat predictably, nobody responded.
+
+“I’ve never met a group of people who can give my laziness a run for the money,” Eleven said through another yawn. “I’m proud.”
+
+“There’s no laziness involved, unfortunately. Are we really doing this again?” Lillia asked with a small laugh. “If anyone is actually concerned about getting Sunset and not volunteering because they aren’t comfortable with it, make that known now. Otherwise, I’m going to assume nobody is volunteering because they don’t want to take the opportunity from someone else.”
+
+There was another short round of silence.
+
+“Can we volunteer someone else?” Olive asked. “Because I vote for Kien.”
+
+“I don’t need to Sunset my class yet,” Kien said with a shake of his head. “There are others who would benefit from it more. I have only recently had time to begin getting my new abilities under control. Advancing too quickly will only result in a weak foundation. I should go later. But it is funny that you should speak. Unless Elias wishes to go, I believe you would be the best person to go next.”
+
+Olive blinked. “What? Me?”
+
+“Yeah. He’s right,” Reya said with a nod. “You’re one of our best fighters, Olive. Now that the auction is over, there are few better times to send you. We’ve probably got a little time before something else goes to shit.”
+
+“What about—”
+
+“I am undead,” Elias said flatly. “And I may be in a similar position to Kien. After the Proving Grounds… well, I have not yet explored the full strength of my abilities after I was changed. There is more for me to come to mastery with before I seek extra strength. You are a better choice.”
+
+Olive blinked. She hesitated for a moment, as if to protest that someone else deserved the opportunity more than her. But the words never made it out of her mouth. Instead, she just nodded.
+
+“Then I won’t argue. Thank you. I won’t deny that I want to try this. If it lets me get stronger… well, I can’t turn the opportunity down. But, Eleven, are you sure my arm won’t cause difficulties? It’s a little… how do I say this?”
+
+“Evil?” Eleven asked.
+
+“Yeah,” Olive said.
+
+“Meh. It’s fine,” Eleven said. She rubbed her eyes and rose to her feet, walking over to stand beside Olive. “You’re the one in charge, right? It doesn’t control you?”
+
+“No. I control it,” Olive said firmly.
+
+“Then it should be fine,” Eleven said.
+
+“Should?” Arwin asked. His eyes narrowed slightly. “I don’t like using ‘should’ when the safety of one of my people is on the line, Eleven.”
+
+“I’m just saying, if the arm was actually in control this whole time and not Olive, then wouldn’t it have given the same response?” Eleven asked, tilting her head to the side.
+
+That was a… deeply unsettling thought.
+
+“It isn’t,” Reya said before anyone else could speak up. “Olive is definitely in control.”
+
+“Well then,” Eleven said. She clapped her hands together. “Sounds like there’s nothing to worry about. Well, nothing more than all the normal Sunsetting stuff. There’s quite a bit to worry about there. Lots of things could go wrong. But they’re all the normal things. So no point losing sleep over them, right?”
+
+They all stared at her.
+
+“That wasn’t very reassuring,” Olive said.
+
+“Sorry. I’m tired,” Eleven said. She snapped her fingers and a portal tore open in the ground behind Olive.“You know how it is. So. Is now good? I’ve got a bed waiting for me, and I’ve already been up and about for a while. Shall we?”
+
+Olive hesitated for a moment. She locked eyes with Reya for a moment. Then she set her jaw and nodded.
+
+“I suppose—”
+
+Eleven tipped Olive’s chair back.
+
+Olive let out a startled curse as was unceremoniously dumped into the portal. It swallowed the rest of whatever she’d been about to say, and then she — along with the chair she’d been sitting in— was gone.
+
+“Whoops,” Eleven said.
+
+“I expect that chair back,” Lillia said.
+
+“Yeah. Sure thing,” Eleven said. “Thanks for dinner. I’ll see you all in a bit. Something tells me this one will do well enough. For what it’s worth, I’d have chosen her too. She’s got a strong will.”
+
+Then Eleven dropped through her portal. It snapped shut behind her, leaving the rest of the Menagerie watching in silence.
+
+“She’ll be fine,” Reya said. “It’s Olive.”
+
+And that was really all that needed to be said.

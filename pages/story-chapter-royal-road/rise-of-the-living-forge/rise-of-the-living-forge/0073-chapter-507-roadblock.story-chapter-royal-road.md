@@ -1,0 +1,111 @@
+---
+id: 3889289e-c67c-58a4-bef4-248ea2239396
+page-type-slug: story-chapter-royal-road
+title: "Chapter 507: Roadblock"
+slug: 0073-chapter-507-roadblock
+partOf: rise-of-the-living-forge
+position: 73
+ownLength: 1552
+unit: words
+ownProgress: 1552
+publishedAt: 2025-10-27
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2709354/chapter-507-roadblock"
+royalRoadId: "2709354"
+markedReadAt: "2026-06-29T20:00:46.074Z"
+---
+
+“What is this?” Rodrick asked.
+
+Two looked back at the other man with weary eyes. He was so tired that he could barely think straight — but he could think just enough to realize just how dense he’d been.
+
+It should have been obvious a long time ago. The signs were all there. But he’d stubbornly ignored every single one of them. There were all sorts of reasons he could come up with as to why, but it boiled down to just one.
+
+Two had been too damn focused on the rules. He’d always prided himself on his flexibility and talent at adapting to situations, finding ways to deal with problems that arose without forcing One’s own hand into play.
+
+None of that had happened this week. He’d been acting like a fool. All that focus he’d put on ensuring nobody would ever enter the Leyline unprepared to face its might had stopped him from actually taking a step back and seeing the forest for the trees.
+
+He’d convinced himself that Rodrick just had abnormally high mental and physical resilience. But that, of course, wasn’t enough. The Leyline wasn’t some mere static component. Nobody could simply reach a certain level of strength and then step into its beam harm-free. The intensity that everyone faced was different.
+
+The purpose of the preparations were to push somebody to their limits. Their personal limits.
+
+And then it was to break them. To train them on how to react when they did, inevitably, fail. Because the Leyline would break them. It always did. Pure, raw magic was too much for any normal being to withstand.
+
+The more one could resist, the more they would face. The more the Leyline would have to break away in order for their class to be renewed.
+
+Arwin and Lillia were different. They’d already been broken. But Two had convinced himself that Rodrick was just like everyone else — and that meant that he had to find a way to break him.
+
+If he couldn’t break Rodrick, then Rodrick would be broken for the first time when he entered the Leyline. And then he would fail.
+
+And that was where Two had been blind. He’d been blind to the fact that Rodrick had already known every single damn trial he’d tried. He’d been blind to the fact that Rodrick somehow knew more about torture and suffering than anyone else he’d ever met.
+
+Rodrick wasn’t some superhuman freak of nature that naturally had the resilience to ignore Two’s best attempts at readying him for the Leyline.
+
+No. Rodrick was a man that had already been broken by every single one of the things he’d tried. So many times that Rodrick had disassociated the very instant the tests had started. Though disassociated wasn’t quite the right word either.
+
+Using it would have been a disservice to the other man. This was something else entirely. It was almost as if Rodrick had somehow managed to separate his consciousness from his actions. That, of course, should have been impossible.
+
+To be human was to have emotion. Man could not completely separate any aspect of themselves. They weren’t machines that could set themselves on a single specific task and lock into a mindset so hard that no distraction could so much as shift them from their path.
+
+But that was the only explanation for Rodrick’s concentrated advance. The man wasn’t an idiot. Two knew that well, even in his sleep-addled state. Rodrick was a master of gathering information. He certainly wasn’t dense.
+
+But if he’d approached this problem expecting to find a near-impossible task of training that would take the average man more than a month… the most logical move was to focus as much as possible to reduce the time it took to prepare.
+
+To focus to a point where nothing else in the world mattered. To where his only goal was passing every trial that Two could set before Rodrick, regardless of how ridiculous or senseless they may have been.
+
+Such a single-minded focus could have almost been considered an incredibly advanced form of meditation. A meditation beyond the abilities of any normal man. Two had only heard of such a skill once before, and only from One himself.
+
+It was the final ability that the highest ranking members of the Secret Eye’s Inquisition learned. A devotion to a task so immense that nothing but death itself could stop them.
+
+There was no magic involved in the skill whatsoever. It was simply the complete and utter mastery of one’s mind.
+
+And the only way to learn such a terrifying skill was to go through everything. To experience adversity at a level that no normal human could dare to endure.
+
+That was why Rodrick hadn’t so much as blinked at a single thing Two had tried.
+
+He’d been through everything. All of the preparations that Two attempted, Rodrick had seen. Two’s fear and arrogance had completely blinded him. His certainty that he alone knew what could prepare someone for the Leyline had stopped him from realizing that Rodrick had been prepared a long, long time ago.
+
+Godspit. There’s no doubt about it at all. Rodrick… he’s somehow gotten access to the Secret Eye’s ultimate skill. Did they put him through it? Or did he do it to himself? And either way…
+
+How is he still sane?
+
+“This,” Two said as he finally found his words again, pointing down at the tantalizing maw of plumped white pillows in the small room before them, “is a bed.”
+
+“Poisoned needles sewn into the sheets?” Rodrick guessed.
+
+“No,” Two said. “It is a bed. A normal bed. One without any traps or poisons. It is meant for sleeping and recovery.”
+
+Rodrick’s brow furrowed in confusion. “…why?”
+
+“What kind of question is that?” Two asked. “It is to be used. By you.”
+
+“That still makes no sense,” Rodrick said. “I don’t need to waste time sleeping right now. I’m more than capable of handling the preparations—”
+
+“No,” Two said. “You do need to sleep. Just because you can endure something doesn’t mean it’s the best move, and going to the Leyline unprepared is the worst possible thing you can do. The only thing left to you is to recover.”
+
+“Huh?” Rodrick blinked. “But we haven’t even gotten started with the trials. What happened?”
+
+“You passed. A long time ago, I’d imagine. And I didn’t even realize,” Two said. “The skill. You’re using an advanced focus technique, aren’t you?”
+
+Rodrick’s eyes narrowed. Then, a moment later, he nodded. “Yes. I am. It is the best way to endure torture and intensive preparations without breaking. You do not need to be concerned about my capabilities. I have not lost control of my senses in a very, very long time.”
+
+“That’s the problem,” Two said with a sigh. “And it’s my fault. I take responsibility for not noticing. None of the tests we tried were fake, Rodrick. That was the actual training and preparation I put every one of our prospects through… and well beyond it. But I was so focused on finding a way to break you that I didn’t realize it was an impossible task — and you were so focused on enduring that you didn’t even consider the fact that I was accomplishing absolutely nothing at all. If you allow your mind to relax, you will realize that I haven’t managed to so much as discomfort you the entire time you’ve been here.”
+
+Rodrick stared at Two for a long second. Then his head tilted to the side. Something behind his eyes shifted. Two could practically feel the weight of Rodrick’s gaze change. Something… more arrived within it. As if he’d only been speaking to the tiniest fragment of a shell of the man before, and now he stood before the real thing.
+
+He finally dropped his defenses.
+
+“This is it?” Rodrick asked, aghast. “You’re serious?”
+
+“Yes,” Two said. “Whatever you’ve been through… I can’t touch it. The purpose of these trials was just to show you how to be broken and rebuilt again. You already know that. Better than I, I imagine. If I’d been a little less egotistical and densely focused on what I thought to be best, perhaps I would have realized that earlier. I apologize. I have wasted your time.”
+
+“Then…” Rodrick looked down at the bed. “Can we just go ahead and—”
+
+“No,” Two said firmly. “This, I will not budge on. You will rest. I did not properly prepare for someone of your capabilities, Rodrick. I cannot break you. But tomorrow will. And you must be properly rested if you are to rebuild after being broken.”
+
+Rodrick considered Two for a second. Then he inclined his head. “Very well. Does this mean that we can move to the next step?”
+
+After I get myself a night of rest as well. I think I’ll actually die if I try to force myself to stay awake any longer. When the next member of the Menagerie comes after Rodrick, I will be properly prepared for them. I had thought that Arwin and Lillia were exceptions… but it seems the entirety of their guild will be abnormal.
+
+I will not allow myself to become a roadblock again.
+
+“Yes,” Two replied. “Tomorrow, come sunrise, you will Sunset your class.”

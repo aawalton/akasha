@@ -1,0 +1,157 @@
+---
+id: b628aeb7-b6e4-516e-89bc-cc8f8fd72dee
+page-type-slug: story-chapter-royal-road
+title: "Chapter 639: Good Reasons"
+slug: 0109-chapter-639-good-reasons
+partOf: rise-of-the-living-forge
+position: 109
+ownLength: 1763
+unit: words
+publishedAt: 2026-08-26
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3867775/chapter-639-good-reasons"
+royalRoadId: "3867775"
+---
+
+A shockwave tore out from Arwin as Gehenna detonated with an enormous roar. Tongues of black lava exploded out from the back of the armor, splitting into two pitch black wings of smoldering magma. The air around him warped under the intensity of the heat pouring from him.
+
+Flame enveloped his entire body. He barely even noticed. Every aspect of his being was focused on unleashing his full force against the three murky green barriers trying to lock his people inside the Deepmind’s domain.
+
+Caldera roared in his grip. Power from Gehenna flowed into it, transforming the hammer into a blazing meteor in his hands.
+
+And then Arwin slammed into the first of the shields.
+
+It shattered like glass. Fragments of magic spun through the air around him as he continued, his wings snapping down and propelling him into the second of the three. That one, too, was unable to stop him. Arwin drove through it with a deafening crash.
+
+More shards of power spun alongside him as the second of the shields broke, but it managed to swallow a great deal of the momentum he’d built.
+
+Arwin was far from done.
+
+He swung Caldera.
+
+The hammer collided with the final of the barriers. A boom echoed through the room, rolling past Arwin with enough force to make the flame surrounding him flicker.
+
+Then the third of the barriers shattered.
+
+“Go!” Arwin roared.
+
+The Menagerie were well ahead of him. All of them trusted his call implicitly. There hadn’t been a moment of doubt that he would fail to bring the ancient lich’s defenses down and buy them the time they needed. They’d been sprinting for the exit before Arwin had even broken the first of the barriers. The members of the Menagerie poured out, running for the way back to the Devil’s Den as fast as they could to regroup.
+
+But there wasn’t enough time for all of them to make it out safely. Not yet. Their backs would be exposed as they ran, and the Lich didn’t strike Arwin as the type to let his prey escape. He needed to buy them time.
+
+He’d never expected it to.
+
+And so he turned, wings snapping down and propelling him back toward the huge, cloth-draped skeleton with its upside down smile and thorn of guild daggers. But he wasn’t the only one moving. The monster’s hand was already blurring toward him.
+
+He raised his hammer. The Infernal Armory brought the Wyrm’s Vengeance to bear, trying to block the blow.
+
+It was nowhere near enough.
+
+An enormous crash rolled through the room. Arwin found himself rocketing through the air — and then the ground met him with a painful crunch. He bounced, rolling several feet before skidding to a stop against the wall. The force of the strike had actually broken several of his metal ribs.
+
+He let out a painful wheeze. Then he drove Caldera down into the ground, pushing himself to his feet. The rest of the Menagerie had all made it out of the room. They hadn’t seen him turn back. That was good. They probably wouldn’t have kept running had they realized.
+
+They’re safe. For now, at least. That’s the best I can do. And they’re not dumb enough to turn back at this point. Not when it’s too late.
+
+Arwin raised his gaze to match that of the Deepmind.
+
+The huge monster was smiling.
+
+It knew. The others were never its targets, were they?
+
+“Just me?” Arwin asked through clenched teeth.
+
+“Always was,” the lich said with an echoing laugh. “You and the Demon Queen. I don’t need the rest. But they’ll all make their way to me eventually. You haven’t realized it yet, have you? They’re running to nowhere. The Guild is already at your city, Hero. Every one of them will fall and their power will be delivered back to me. They are not escaping to anywhere. If anything, all you do is prolong their suffering.”
+
+“You know what I think?” Arwin asked, tightening his grip on Caldera. “I think you’re scared. And I don’t think you’re nearly as strong as you claim to be. Because if you were, then you never would have let anyone out of here in the first place.”
+
+“And yet you have not placed so much as a scratch upon my body,” the Deepmind said. It leaned toward Arwin, the upside down leer on its face growing wider. “You are nothing but toys.”
+
+“Yeah?” Gehenna sputtered to life once more, waves of power rolling out from it. Arwin bared his teeth. “You might be right. But if you could have killed us all, you would have. Your body might be tough, but it’s all bound up here, isn’t it? You can’t do anything but a few beams of magic and some barriers. All the power you’ve stolen is just going to keeping your soul trapped in that stolen body of yours.”
+
+“Stolen?” the Deempind let out a booming laugh. “I have stolen nothing. This body is grown. Painstakingly so. But I will give it to you, Hero. You are correct. I am still bound. I will not waste the power I have been gathering on the likes of you. Especially not when I don’t need it. Would you use your full strength to destroy a bug writing at your feet?”
+
+Arwin spat blood onto the floor. It sizzled. Then he cracked his neck, raising Caldera before him. “I might, if the bug survived a few of my blows and was still standing afterward. I say you’re a coward, Deepmind. You’re still scared of something. And I’m going to find out what it is.”
+
+I hope you’re listening, Rodrick.
+
+This might be the last thing I can do for us.
+
+Arwin clenched his teeth. He drove the pain down, and the black magma wings erupted back to life from Gehenna’s back.
+
+Then he charged.
+
+***
+
+Uriel spun in a full circle. Then she drove her foot down into the ground with enough force to crack it and launched the guildsman in her hand. His scream was swallowed by the wind as he hurtled into the distance, little more than a grayed blur heading toward the horizon.
+
+A sword rang against her back. The sound of screeching metal filled the air.
+
+Uriel stumbled. That blow had actually injured her. She could feel magical energy flowing from her reserves to mend the damage. It hadn’t been the first blow she’d taken in the fight, but she was far from finished.
+
+She spun, anger smoldering in her eyes.
+
+A large guildsman stood behind her, his blade shimmering with blue flames. A grin split his lips as he went to swing the blade a second time.
+
+Then his sword spun from his hands.
+
+His hands spun from his hands, too.
+
+The guildsman blinked. He glanced down at his severed arm, confusion reining for just an instant. Then his face exploded in a bloody mist. His body crumpled to the ground as the Beast pulled his hand free from the other man’s skull, a crazed grin on his lips.
+
+“You’re welcome,” the Beast said.
+
+“I did not ask for help,” Uriel replied flatly. Her gaze had already turned to the rest of the street. If her metal features could have twisted into a grimace, then they would have.
+
+The fight was not going well.
+
+Smoke and ash filled the air in a thick blanket. Many of the buildings — which Ridley had just fixed up just a short while ago — had been destroyed. Screams and deafening explosions rocked the streets of Milten as the fighting spread across the entire city.
+
+Uriel didn’t know why or when, but some people had actually joined in to defend the street against the Guild. She could only tell because she didn’t recognize some of the faces on the bodies lying scattered across the ground like broken toys.
+
+It seemed that Monica had told Raen to call in some reinforcements. But whatever had arrived… it was nowhere near enough.
+
+The Guild was overwhelming them.
+
+She could hear the fight steadily getting closer and closer. The members of the Guild who still stood were powerful. Strong enough to push the Menagerie and what little support they had back into their street. Even with her and the Beast fighting, there was only so much they could do.
+
+The shadows beside Uriel twisted.
+
+Vix appeared beside her, looking ragged and exhausted.
+
+“Fall back,” Vix said. “You’ve got six Guildsmen coming here. Vanessa got seriously injured saving Esmerelda. They’ve both had to retreat, so you’re open. Our lines are broken.”
+
+“Open?” the Beast asked with a snort. “I am never—”
+
+“One person with levitation magic,” Vix said flatly. “Art wanted me to tell you that there’s absolutely nothing you can do against someone who floats you into the air and then leaves you there for the rest of the fight. Uriel won’t be able to pull you down if she gets overwhelmed.”
+
+“The rest of the fight?” The Beast’s face paled. “Oh. In that case, I think it might be be best to retreat. I don’t fancy losing the rest of my fun.”
+
+Anger swirled in Uriel’s chest.
+
+She did not retreat.
+
+But there was no choice. This wasn’t about her. The Den had to remain standing. That was her duty.
+
+She turned, striding toward the den with large paces. “The others?”
+
+“All in the Den or called back to it,” Vix said. “You two are the last ones this far out.”
+
+Now that she mentioned it, it did strike Uriel that the explosions had stopped. All that remained was the hungry crackle of flame and distant screams of people panicking throughout Milten.
+
+“What of Arwin and Lillia?” Uriel asked.
+
+“Nothing yet,” Vix said. She swallowed. “But the portal is still open.”
+
+“Then we go,” Uriel said.
+
+Vix nodded. Then she vanished.
+
+“And then what?” the Beast asked, looking back to Uriel. “It seems like we might be getting close to the point where a retreat is wiser. Not that I have the slightest desire to stop my fun… but if they break the giant golem, then my chances at a good death evaporate.”
+
+Uriel turned her cold gaze to the Beast. “We will not retreat. The Devil’s Den will stand.”
+
+“You think fighting there will truly be that much better?”
+
+A cold laugh echoed from Uriel as she strode down the street toward the Den.
+
+“Falling back to the Den was always the plan,” she said. “And there is a very good reason for that.”

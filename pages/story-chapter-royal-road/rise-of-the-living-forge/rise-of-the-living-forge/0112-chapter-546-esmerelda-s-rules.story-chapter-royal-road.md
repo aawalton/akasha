@@ -1,0 +1,159 @@
+---
+id: 6429e71a-b932-5202-b798-1de545ed3324
+page-type-slug: story-chapter-royal-road
+title: "Chapter 546: Esmerelda's Rules"
+slug: 0112-chapter-546-esmerelda-s-rules
+partOf: rise-of-the-living-forge
+position: 112
+ownLength: 1652
+unit: words
+ownProgress: 1652
+publishedAt: 2026-01-21
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2964698/chapter-546-esmereldas-rules"
+royalRoadId: "2964698"
+markedReadAt: "2026-06-29T20:02:01.043Z"
+---
+
+Vanessa wiped the sweat form her brow and let out a satisfied sigh. She took a step back from the giant barrel and took a step back to give it a once-over. It bristled with the hilts of deadly cursed weapons like the back of a very malformed porcupine.
+
+“Yeah,” Vanessa said. “That’s good.”
+
+The barrel trembled slightly. That was probably a good thing. The weapons were voicing their approval of her sorting technique. At least, that was how Vanessa planned to take it. She had absolutely no desire to get anywhere near that particular barrel again.
+
+“You done, girl?” Esmerelda’s voice came from across the store.
+
+Vanessa was pretty sure the question was pointless. It always seemed like the old woman knew exactly when and where she’d finished her work. Perhaps it was just a courtesy. Either way, Vanessa didn’t particularly care. This job was enough fun that it really didn’t matter if her boss was spying on her.
+
+It wasn’t any worse than anything her previous bosses had done.
+
+“Yup,” Vanessa called back. “All sorted!”
+
+Esmerelda squeezed through the tight shelves of her store to make her way over. She cast a critical gaze in the direction of the barrel that Vanessa had just finished up with. It was full of weapons ranging from daggers to mauls and everything in between.
+
+“What, exactly, manner of order did you implement?”
+
+“I stuck all the ones that were assholes into that barrel,” Vanessa said. “I ordered it by whether I like the weapons or not.”
+
+Esmerelda stared at Vanessa.
+
+Vanessa stared back.
+
+“Your chosen order was… whether you liked the weapon or not?” Esmerelda asked.
+
+“Yes,” Vanessa said. “I do think that was what I said. Pretty good, right? This way, the assholes are out of the way and we can focus on dealing with the ones that don’t smell like rotting fish.”
+
+“None of the devil weapons I own smell like rotted fish.”
+
+“Yet,” Vanessa said. She sent a pointed look at the barrel. “You might want to stick that one somewhere far in the back. Where we don’t have to smell it.”
+
+“Vanessa,” Esmerelda said. “Did you fill a weapon full of incredibly powerful and sentient devils with rotted fish?”
+
+“No,” Vanessa said, affronted. “Of course not. Do you think I just walk around with a rotting fish somewhere on me? What kind of nasty woman do you think I am?”
+
+“I’m going to avoid answering that,” Emserelda said. “But if it isn’t a fish—”
+
+“Oh, it’s a fish,” Vanessa said. “It’s just not rotted yet.”
+
+Esmerelda blinked. Then an amused snort forced its way free from the old woman.
+
+“Stole it from Lillia?”
+
+“Purchased,” Vanessa corrected. “I’m a reformed woman, Esmerelda. I work for the Menagerie now. You know this. And rule #1 for any thug is never steal from your employer. Great way to get yourself fed to a monster.”
+
+“Wise,” Esmerelda said. She looked back at the barrel. “Did you really—”
+
+“Yes.”
+
+“Nice,” Esmerelda said. “Well, it isn’t going against the deal. If anything, it’ll motivate them to find a wielder sooner rather than later. I’m not sure if getting them out of my hair and into the world is a good thing or not, but it might be for the best. You’re going to have a number of devils that very much dislike you, though.”
+
+“Meh.” Vanessa scratched the back of her head. “They should have thought about that before they cut me while I was sorting them. Don’t start no shit, don’t get no shit. I’m not going to let them push me around just because I’m weaker than they are.”
+
+“Is that also—”
+
+“Rule #2.”
+
+Esmerelda’s lips pulled into a smile. “Very good. Devils will respect that. Having a backbone is good. It’ll keep them from crushing you like a bug. What did you do with the other weapons I gave you today?”
+
+“Spa.”
+
+Esmerelda paused. “What?”
+
+“I gave them a spa,” Vanessa said. “There was some soap on one of your shelves. I found a big bucket and filled it up with water. Some of the weaposn were rusty and sad-looking, so I scrubbed them down and then fanned them dry in a bed of some spices I bought from Lillia. It was a bonding experience. Any good thug has paid at least one or two long visits to a spa, so I know my stuff.”
+
+“I see,” Esmerelda said. Her brow furrowed for a second as if she were searching for the right words. “That’s… nice.”
+
+“It was,” Vanessa agreed. “And none of them cut me. Carrot and the stick, you know? That’s my method.”
+
+“Certainly an interesting one,” Esmerelda allowed. “Did Thane teach you this one? Or is it entirely borne from you?”
+
+“Thane just told me which ones to be careful around. Apparently the devil in his sword has some grudges against a few of the other ones in the pile,” Vanessa replied. She shrugged one shoulder. “Seemed like her advice was good.”
+
+“Well… good job,” Esmerelda said. “I think. I’ve never tried such a method before. But I tend to avoid spending too much time with the devils. They’re a poor influence. Too rash. Too angry. There are better ways to seize control.”
+
+“Couldn’t agree more,” Vanessa said. The two women fell silent for a few seconds. Then Vanessa scratched the back of her neck. “You want to go to a spa sometime?”
+
+“Is there even a spa in Milten?” Esmerelda asked.
+
+“Lillia’s inn has some big tubs. It’s kind of the same thing.”
+
+“Is it really?” Esmerelda asked.
+
+“No,” Vanessa said. “But I’m a thug. We make do.”
+
+“Rule #3?” Esmerelda guessed.
+
+“No,” Vanessa replied. “That’s Rule #4. Rule #3 is don’t shit where you eat, if you catch my drift. That one gets broken a lot.”
+
+“Unsurprising,” Esmerelda said. She was silent for a second. Then she clapped Vanessa on the shoulder. “Go take a break. You’ve done enough for the day, and you’ve been working every single day since I brought you on.”
+
+Vanessa blinked. “What? But there’s still more to do. The list of tasks you gave me is only around half-done, and we have to get all of it finished before the auction. There’s only around a week left before that.”
+
+“I am aware,” Esmerelda said. “And I am also aware you have been working practically every waking moment. A tired warrior is a dead warrior. I have no need of you working yourself to death. Enough has been done for the time being. The devils are used to far less attention than what you have given these past few days. There’s no need to spoil them.”
+
+“Oh,” Vanessa said. Her brow furrowed and she shifted uncomfortably from one foot to the other. “So what do I do?”
+
+“Whatever you want to,” Esmerelda said. “What did you normally do when you had free time? Just do that.”
+
+“Got drunk. Slept with hot people. Second part is optional. There are some real attractive—” Vanessa coughed, then cleared her throat. “Well, you know how it is. But I don’t want to do that right now. I like the work. It’s a good change of pace.”
+
+“Then see if Lillia needs any help in the Devil’s Den,” Esmerelda said. “And take some time to spend the coin you’re earning. What’s the point of working this hard if you don’t use any of it? Go buy something. Or get a good meal.”
+
+Vanessa’s brow furrowed. Esmerelda was being strangely insistent today. She’d never been this concerned about how Vanessa spent her time before.
+
+Did something happen? Maybe Lillia needs assistance with something she’s working on? But if that was the case, Esmerelda would have just straight up told me. Maybe this has something to do with the devils.
+
+Maybe they didn’t like my spa—
+
+No. That couldn’t be it. Nobody knows how to spa like a thug does.
+
+“Okay,” Vanessa said slowly. “If you’re certain. Are you certan that nothing is wrong?”
+
+“Nothing is wrong,” Esmerelda said with a wave of her hand. “Who do you think I am, girl? I don’t need to protect you from anything. This is just ensuring that you’re able to continue at a sustainable pace. We don’t want you burning out.”
+
+“Right,” Vanessa said. “Okay. If you say so.”
+
+“Don’t speak like that,” Esmerelda grumbled. “Your tone is implying you don’t believe me. I take offense to that. Do you really think I would need to lie to the likes of—”
+
+“How long are you going to make me wait?” a voice called from just outside the shop. “I have been here for minutes, you cranky old bag. Let me in!”
+
+Vanessa’s head tilted to the side.
+
+She recognized that voice.
+
+It was Madiv.
+
+Vanessa hadn’t seen much of the vampire since the Mausoleum had been erected several days ago. She’d been under the impression the rest of the Menagerie had been in a similar spot. But now things were starting to make more sense. Evidently, not all of them had been equally deprived of Madiv’s presence.
+
+The corners of Vanessa’s lips pulled up into a knowing grin. “Ah. I see.”
+
+“No,” Esmerelda said. “Stop that.”
+
+“Understood,” Vanessa said, giving Esmerelda a sharp salute. “I’m on my way, boss. I’ll stay out of here until some time late tomorrow. That should be more than enough time, right?”
+
+“I told you to stop,” Esmerelda snapped. “Don’t go around implying—”
+
+“Have fun,” Vanessa said, raising a hand in farewell as she beat a hasty retreat for the door. It had been a while since she’d properly caught up with Thane. Now was a good time to find out what he’d been up to.
+
+Either way, she couldn’t be here anymore. Her presence was getting in the way. She couldn’t have that.
+
+After all, that would be breaking Rule #5 while Esmerelda broke Rule #3.

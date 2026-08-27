@@ -1,0 +1,187 @@
+---
+id: c66e1a0b-4097-5117-bd73-1c6f9c7eafd5
+page-type-slug: story-chapter-royal-road
+title: "173. Remembrance"
+slug: 0029-173-remembrance
+partOf: salvos
+position: 29
+ownLength: 2100
+unit: words
+publishedAt: 2021-08-25
+link: "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/739682/173-remembrance"
+royalRoadId: "739682"
+---
+
+173. Remembrance
+
+I sat in the cave filled with dancing lights of iridescent colors. Red. Blue. Green. Yellow. Spheres of varying sizes flitted and floated around the chamber, giggling and laughing, like young adventurers who had just reached their first advancement into Gold rank.
+
+Watching them still, I got to my feet. I took a step forward, and they came to a stop. One of the orbs that bore the color of the sun came down to me. Lily. My friend and mentor. Her jubilant smile vanished as she faced me.
+
+“I’m sorry.”
+
+There was nothing else to be said. I lowered my head, speaking only one word.
+
+“Why?”
+
+“My brothers and sisters have returned for me. They know not that I was alive, but now my Queen calls for me. For us all to return.”
+
+“I see.”
+
+If my companions— Daniel or Edithe— were here, they’d press Lily further; they were oftentimes engaged with matters that didn’t affect them. It was the same with Xidra. It was the same with Lucerna.
+
+Me? I had my answer. Lily had to go back. A dozen other Fairies came back for her. They were each Level 100. One of them— the same blue one which accompanied her to fetch me— was far above my level. I couldn’t see her Subspecies or his level. She had to be above Level 156.
+
+“What will you do now?”
+
+Lily tilted her head, and I shrugged.
+
+“I’m not really sure. I’d like to improve my space magic. Level it until I can travel to the Netherworld and back here, you know? I miss my first companion.”
+
+I didn’t even know if Haec was alive or dead. All I knew was I had to at least try and find him.
+
+“I think…”
+
+My eyes turned towards my bag, resting against the stone wall. There was something inside of it that I had. Something I was piqued by for quite some time.
+
+“I might go to a Human academy. One specialized in teaching magic. I have a friend who can help me get into one, I think.”
+
+“Maybe that’s the wisest move for you to make.”
+
+She placed her small hand on my shoulder, smiling reassuringly.
+
+“As I’ve told you before, I am not the best teacher for you if you desire to travel through the planes of the Nexeus. I, myself, struggle with it. Theory is lost to me unlike with mortals who obsess over the intricacies of casting spells. If you do find yourself in one of these academies, maybe you might even find yourself able to cross planes by Level 70.”
+
+I bowed my head.
+
+“Thank you.”
+
+“There is no need to thank me. All I did was make you do some chores for a few weeks. It’s something you can do yourself, even without me.”
+
+She scoffed, but I shook my head.
+
+“Your lessons have been invaluable to me. You’re really amazing— not just because you’re a Fairy, but because you’re Lily!”
+
+I beamed brightly at her, only for her to lift her chin up high.
+
+“Why, of course. You better remember to respect your elders even when you surpass me in total levels next time!”
+
+“I will!”
+
+And with that, it was over. Our short lessons came to an end.
+
+“It’s time, Lily.”
+
+The blue Fairy spoke with a voice of frosty rime. Lily glanced back.
+
+“Yes, honored Rose.”
+
+Flying back up to her brothers and sisters, Lily addressed me without once looking away.
+
+“There are many things happening with this world right now. It moves in cogs and pieces. Even Bezlsu himself is only a part of a greater whole. These are things only my Queen understands. She is wise and ancient. Older than even the Spirit Lord or the Demon King. She was there when Worldwalkers roamed the Nexeus. She witnessed it all. And she was never idle.”
+
+A portal opened up behind her, revealing a world of black beyond. It was odd to look at. Something about it just seemed off to me. Not in any physical sense, but the way its space seemed to contort and turn. And it wasn’t just blank either. There were smears across this dark canvas— glowing clouds of gold and violet and orange. Tiny dust particles, clustered together, glittering, sparkling like the stars.
+
+At least, that was what they looked like. I squinted as I saw them move and shift. They weren’t just colorful clouds to watch from a distance. They were thousands and thousands of Fairies, flying about in this void of a world. I blinked, and Lily spread her arms wide.
+
+“What you see here— it is the Celestial Palace of the Fairy Queen. It is the fruits of her labor. It is paradise itself. Perhaps, one day, depending on the path you choose to walk from here on out, you may be able to see me once again. Travel to the Spirit Plane. Scour its edges. And you will find all of Fairykind in this sanctuary.”
+
+“Goodbye, Lily.”
+
+I waved at her, but she paused. Even as her brothers and sisters entered the portal. She floated right at the edge of it, the blue Fairy waiting patiently behind her.
+
+Lily’s bright face darkened for the first time.
+
+“And if we never meet again, Salvos, do not cry and do not weep. You are still young. You may treasure me now as your friend and your mentor. But you shall live a life so long that our time spent together is lost like a single grain of dust in the vast desert of Anis. Memories are a painful thing. It is best for you to simply forget when it hurts.”
+
+I stared at her. The Fairy I have known for a short period of time. Even compared to Haec or Edithe or Daniel. She was a friend, not a companion. And yet, I spoke insistently.
+
+“No.”
+
+She blinked, and even the blue Fairy paused. Both were intrigued by my response.
+
+“I will not forget you, even if this is the last time we speak. As long as I live— even if I never die— I will remember your name. Lily. Because memory is all that matters. Remembering the face of a person you meet. The way they speak. The way they act. The impact they’ve imparted on you. Your interactions with them. It is what makes them distinct. It is what separates them from all the others. Without memories, the world would be a sea of nothing but rocks.”
+
+I met her gaze, defiant.
+
+“If I should lose my memories, I would rather die.”
+
+Lily didn’t respond for a moment. Then she chuckled as she spun around, the portal beginning to close. She spoke solemnly as she entered through the hole in the world.
+
+“That is true. But that doesn’t mean that it can’t hurt you. Farewell, Salvos.”
+
+“Bye.”
+
+I watched as the portal closed. The bright lights that lit up the cave were gone. Now, only I remained here. And I sighed.
+
+“Ugh. I’m going to have to contact her, aren’t I?”
+
+I shuffled over to my Bag of Holding— I purchased it with some of the money I was given by Daniel and Edithe— and produced a small object, about the size of my hand. It was a round object made of gold, kind of like an oversized gold coin, with a crest engraved onto it.
+
+The symbol itself was of a smiling man picking fruits from a tree. The tree itself stood not on its trunks, but on its roots as if they were legs. It was the insignia of the Merryster Family. A Dukedom in the country of Nixa. And it was given to me by one of their daughters: Saffron.
+
+We met briefly— so briefly— during an escort mission over a year ago when she was headed to some magic academy. She told me to use it to contact her whenever I needed aid or help, since it was enchanted by some sort of communication magic. And now was the time. It was perfect, considering I wanted to enroll in one of these magical academies.
+
+There was, however, a slight problem which had vexed me for a while now.
+
+“How am I supposed to get it to work?”
+
+—--
+
+“The thing is, Saffron never told me how to use it.”
+
+I scowled as I recounted my story.
+
+“She’s like Edithe, always talking about refining your magic. Expanding your understanding of how the world works. At least Lily just made me do things which made sense. How am I supposed to make sense of things I didn’t understand?”
+
+It upset me. And my companion for the day was clearly just as upset a I was.
+
+“It’s stupid, right? Now I have to go find her myself.”
+
+I turned to the eagle as it stared at me, perplexed. I lay on my back in the air as my wings casually flapped every-so-often, letting me keep pace with it. It tried to dive away, but I dove alongside it.
+
+“And I know I gave a whole speech to Lily about remembering things, but I don’t actually remember what academy Saffron was going to. Which… kind of embarrassing, right?”
+
+The eagle landed on the edge of a crevice, where branches were haphazardly put together. Eaglets cuddled with each other as their mother stood over them, feeding them pieces of meat. I snapped my finger, and one of the eaglets jerked back, falling from the nest.
+
+I caught it as I spoke.
+
+“You’re right! I should go to her home instead! I mean, I know where Nixa is… I think. And once I’m there, I can ask for them to bring me to Saffron!”
+
+The eagle made a high pitch screech, and I rolled my eyes.
+
+“Here’s your baby. You don’t have to be so defensive. It’s not like I’m going to eat it.”
+
+I set the eaglet back into the nest and flew up, nodding at the eagle.
+
+“Thanks for your help! And for listening!”
+
+I made sure to carefully ascend far into the air before taking off at my full speed. I didn’t want a strong gust of wind to knock the eagle’s nest over. It— well, she was nice. I was too used to calling monsters and animals an ‘it’ at this point, to blend in with Humans.
+
+But unlike most bugs or things like Centinels and undead, animals weren’t mindless creatures incapable of thinking. Most of them were very smart.
+
+I soared over the Motharis Mountain Range. I flew above its tallest peaks and highest mountains, seeing the land unfurl below me. Forests of green and hills of gray and white. Yet, there was almost a deathly stillness that held Motharis. When I was here before, it was teeming with life. I could see Gatho Mammoths traveling in packs, and the more predatory Drakes hunting on their own.
+
+Now, I barely saw any monsters. There were the occasional creatures wandering about. Small animals, yes. But it was still far too empty. Belzu couldn’t have emptied the entire mountain range of monsters, could he? I didn’t believe that. But… if he took such a significant portion of the monster and animal population with him, the remainders would leave too, wouldn’t they?
+
+I arrived at Nixa not long after. I passed by completely evacuated cities as well as ones trampled over in a path of destruction. There was smoke in the distance, almost all around me. Bezlu wrought death everywhere he went. He did more than just destroy towns and cities. He decimated the entire ecosystem of Motharis. The effects of his actions would be felt for decades to come.
+
+I didn’t actually care.
+
+What bothered me was the fact that I needed to transform back into a mortal now that I was back in Human lands.
+
+“This sucks!”
+
+I transformed right before I landed in a small town not at Belzu’s path of destruction. The people there were held by an eerie quietus. I ignored it and muttered repeatedly to myself as I entered an inn.
+
+“This sucks! This sucks! This sucks!”
+
+I slammed the coins down on the countertop before the [Innkeeper] could say a word. I entered a random room, slamming the door shut behind me before my body finally succumbed to sleep.
+
+“This sucks— oh, hey I leveled in [Partial Mortality] again.”
+
+General Skill [Racial Skill: Partial Mortality] has leveled up!
+
+[Racial Skill: Partial Mortality - Lvl. 2] -> [Racial Skill: Partial Mortality - Lvl. 3]!
+
+Experience is awarded for the leveling of a General Skill!

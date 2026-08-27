@@ -1,0 +1,21 @@
+---
+id: 0e066799-2b88-5aab-bdcc-959e7186c9ff
+page-type-slug: story-chapter-royal-road
+title: "Salvos Volume 2 Part 1's GERMAN EDITION is now available!"
+slug: 0061-salvos-volume-2-part-1s-german-edition-is-now
+partOf: salvos
+position: 61
+ownLength: 160
+unit: words
+publishedAt: 2022-09-15
+link: "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/994517/salvos-volume-2-part-1s-german-edition-is-now"
+royalRoadId: "994517"
+---
+
+Sup y'all, quick reminder that there will be no chapter until next Monday. If you want to read ahead, check out my patreon which is still updating HERE!
+
+Anyway, as the title suggests, Salvos Volume 2 Part is now available in the Amazon store! Translations are... relatively expensive, so I ain't even making much of a profit back. I just want to read as broad of an audience as possible, and I hope you guys will be willing to give it a buy or a KU download since it's on KU. And, yes, while the German edition is on KU, the English version is not and will never be on KU as I've promised numerous times over.
+
+In any case, drop it a rating if you could and support me! It would really help me out!
+
+Stolz einer Dämonin Teil 1: Ein Isekai LitRPG Abenteuer (Salvos Band 2) (Salvos German Edition) eBook : Lewis, V.A., Waba, Stephan: Amazon.de: Kindle Store

@@ -1,0 +1,171 @@
+---
+id: 885c04ba-ad1d-55bb-bc32-c8c0205c86ee
+page-type-slug: story-chapter-royal-road
+title: "Chapter 579: Light Law"
+slug: 0103-chapter-579-light-law
+partOf: reborn-as-a-demonic-tree
+position: 103
+ownLength: 2442
+unit: words
+publishedAt: 2026-06-10
+link: "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3521041/chapter-579-light-law"
+royalRoadId: "3521041"
+---
+
+Ashlock knew the system had warned him that the process of creating a fourth General and pushing Sol to the Monarch Realm would be costly to his divine energy reserves.
+
+But knowing and understanding were two different things.
+
+Divine energy, pulled aggressively from every inch of his Inner World, streaked through the air like rivers of gold toward Sol. The Ent greedily absorbed every last drop like a black hole, without any sign of stopping.
+
+Ashlock felt his strength weaken in real time and grew concerned. Glancing over toward the Divine Flesh Tree inhabited by his infant soul and the system, he saw the sacrificial credit forest surrounding the tree wilting. Bringing up his sign-in system, he saw the number rapidly dropping in real time from the few thousand he had saved up.
+
+"Over a thousand gone already with not many left to go," Ashlock muttered. Luckily, he still had the Light Monarch's soul to devour, which he was currently in the process of doing. The moment Nyxalia had successfully separated the souls, he'd cast Abyssal Maw and begun devouring the corpse and remaining soul as fast as possible.
+
+Agonizing minutes passed, and right as his Inner World looked on the brink of collapse, he was saved.
+
+[You have successfully devoured the Light Monarch Verath Tindrel]
+
+[+1300 SC]
+
+[Monarch Realm ascension requirements:
+
+Possess an Inner World: 1/1
+
+Comprehend Desolation Law: 100%
+
+Devour the souls of nine Monarch Realm beings: 2/9]
+
+The flood of new sacrificial credits helped offset the immense strain that Sol was putting on him, but only briefly. Sol continued to drain him of everything he had. Ashlock felt pain as he saw all the sacrificial credits he had earned and the divine energy the people of Floridawn had suffered to give him, vanishing before his gaze.
+
+Just as he wondered if the drain on him would never end, a system prompt appeared, which he was not thrilled about.
+
+[Activate {Nocturnal Genesis [S]} for a day to complete the assimilation of Light Law so it can be imprinted into Sol?]
+
+"I should have foreseen this," Ashlock cursed. "Even with a Monarch's infant soul to provide the Qi, since it's unassimilated, I have to do it myself." He paused for a moment too long, trying to delay the inevitable torture the supposed day-long dream would induce. "Fine, go ahead and activate the skill," he said with the reluctance of someone about to spend a lifetime in prison.
+
+He regretted it the moment he agreed.
+
+His Inner World dimmed. The nine moons overhead blurred, then vanished, and his consciousness was dragged downward into somewhere else entirely—not into darkness, as the other dreams had begun, but into a blinding, featureless white.
+
+And then came the light.
+
+Not the warm light of a campfire or the pale glow of his nine moons. This was something older and far less forgiving. It struck him not from a direction but from everywhere at once, and his first instinct as a demonic tree that had given in to the dark side of desolation was to flinch from its intense brilliance.
+
+He had no body to flinch with.
+
+He existed here only as a point of awareness, and the light passed through him like he wasn't there. It didn't burn him; in fact, it couldn't even be bothered to acknowledge his presence.
+
+Ashlock swiftly looked around with far more purpose than in his last dreams, as he knew from experience that the faster he comprehended what Light Law was, the sooner he could return home.
+
+"Right, I'm surrounded by light that doesn't acknowledge me. What could that mean?" He thought about it for a long time. There was no way around it, no way to speed up the process. While in real life only a day would pass, that was all the help his system gave him. If he wanted to comprehend Light Law, he had to endure the same experience a Monarch went through for enlightenment.
+
+What felt like decades passed in that featureless void before the light condensed enough for him to begin to understand it. It wasn't a force of destruction the way desolation was, nor was it the patient, grinding inevitability of nature. It didn't freeze and preserve like primordial ice. Light Law was something he struggled to find a comparison for until one surfaced from a memory buried so deeply he had almost forgotten it existed.
+
+A courtroom.
+
+He had sat in one once, before his first life had ended and this absurd second one had begun. The fluorescent lights overhead. The way they stripped away the shadow from every corner of the room, leaving nowhere to hide and nothing to misrepresent.
+
+Yet, while the people under those lights tried to declare right and wrong, sentencing a person for their supposed crimes, the light bathed everyone the same. It didn't discriminate, didn't care. It simply existed to illuminate.
+
+After realizing this simple truth about the light, the white void around him finally gave way to something—a world, vast and sweeping, seen from so high above that the curve of it was visible. It was mid-ruin. He could see the scar of a great war carved across it: cities reduced to rubble, rivers clogged with ash, the sky bruised with the residue of techniques so powerful they had left permanent marks on reality.
+
+And the light was shining on it.
+
+Not burning. Not consuming. Passing across every ruin, every shadow, every lie that the surviving cultivators were telling themselves about why the war had been necessary, who had been righteous, what they had deserved. The light found none of it convincing.
+
+Ashlock spent what felt like centuries following the light as it moved from battlefield to battlefield, and he began to understand that Light Law, in its purest form, was without preference. It illuminated the warlord's atrocities and the warlord's genuine grief with identical indifference. It lit up the survivor's heroism and their cowardice in the same breath. It did not judge. It simply refused to allow anything to remain unseen.
+
+Everything a person was, everything a sect had done, everything an empire had built on the suffering of others—Light Law simply shone a light on it all, letting none remain in the shadows.
+
+Ashlock spent further decades with that thought. Long enough to watch the ruined world slowly rebuild. Long enough to see new cities rise on the bones of the old, and for those cities' leaders to begin constructing new false truths about history. Long enough to notice that as long as there was light, shadows always came in, trying to conceal the past.
+
+He also began to understand its limitations. Unlike Nature Law, it had no concept of strategy or misdirection. It was an absolute force that suffered greatly when faced with problems that required nuance.
+
+When the dream finally released him—not with a thunderclap, but with the gentle, deliberate dimming of something that had decided he had seen enough—it was to the soft glow of his Inner World's morning light.
+
+He glanced up. Light Qi, as pure as it could be, now streaked through the churning clouds of desolation, bathing the world he had created in its indifferent radiance.
+
+"I really need to stop saying yes to that prompt," Ashlock said to nobody in particular as the weight of the years spent comprehending the light thankfully faded into the back of his mind. If he truly had to remember the years spent comprehending each law, he feared how detached he would become from reality.
+
+[You have successfully comprehended Light Law]
+
+[Light Law imprinted into Sol—integration near complete]
+
+Ashlock took a long moment to simply exist before acknowledging the system prompt and looking down from the sky.
+
+Sol had undergone some profound changes during his slumber.
+
+Gone was the three-meter-tall grey-barked Ent that had once cradled a ball of soft light with eight arms. In fact, if the heavens were to ever send an eldritch angel to crush him, Sol was what he would have imagined.
+
+Twenty meters tall, the size of a six-story building, Sol's body had shed every trace of grey, the bark bleached to a white so absolute it had no shadows. Looking a little closer, he noticed golden light tracing the grain of the wood like veins, pulsing with power.
+
+While Sol's body was impressive, it was what lay above the shoulders that left him speechless. The original eight arms had split and split again, now spreading in layered rings from its shoulders like the petals of some impossible flower, each hand large enough to close around a person completely. They did not hang idly. Each moved with slow, independent deliberation, attending to a dense star of light that existed where Sol's floating head had once been.
+
+Looking at it directly caused Ashlock's spiritual gaze to ache in a way that had nothing to do with brightness. The Light Law's overwhelming presence and command over the area surrounding Sol made it hard to even look at.
+
+[Light Law integration complete]
+
+[Sol is now a Monarch and designated as the fourth General]
+
+His new General looked towards him like a spotlight.
+
+"Master," Sol said. His voice was absolute and divine, unapologetically projected into his mind like the Light Law bathing battlefields in his dreams.
+
+"Sol, it's a pleasure to finally speak with you," Ashlock said with unintentional cautiousness. The star serving as Sol's head seemed to churn with interest, the light intensifying, but no reply was given. Ashlock pressed on for answers. "Are you able to use a domain now that you're a Monarch?"
+
+The star seemed amused in the way an ancient being would be when questioned by a lower lifeform. "I can wield light's authority," Sol said simply. "That alone is enough."
+
+Ashlock was confused. That sounded like what a domain did, but then why didn't Sol say yes? Were his Ents unable to manifest a unique domain?
+
+"Show me," Ashlock commanded.
+
+Sol's dozens of arms spread slowly outward, not with the dramatic urgency of Magnus unleashing his domain, but with the patient, deliberate certainty of a sunrise that had no opinion on whether anyone was ready for it.
+
+Sol's star suddenly expanded outward, engulfing his body, and didn't stop until it eclipsed Ashlock's entire Inner World.
+
+"This is weird," Ashlock muttered as he looked around. Until now, he hadn't realized how many shadows existed inside his own Inner World until they were simply gone. Not erased or consumed—just made irrelevant, the way a lit room makes you forget there was ever darkness in it.
+
+Every blade of grass stood individually visible from all angles. The black soil that had remained hidden in the grass's shade was now exposed, which wouldn't have been interesting if it didn't reveal tiny insects crawling around and calling the fields home.
+
+Wait, insects?
+
+Ashlock was baffled as he peered closer and confirmed that there were indeed insects inside his Inner World. He had sculpted the mountains, laid out the meadows, and populated them with flora. But he had never gone so far as to create life.
+
+"If there are insects in my Inner World without me putting them here, it means this space is capable of creating new life," Ashlock muttered in awe. Would birds start appearing? What about fish or even mammals? What about humans? How many millions of years would it take for that natural process to happen?
+
+In a way, he had jumped to the end of that evolutionary cycle by growing human bodies with Fleshfruit trees, but somehow that feat was far less mind-blowing to him than discovering native insects in his own Inner World.
+
+A sudden beam of scorching light that struck the place he was inspecting startled him.
+
+"Hey!" he shouted to Sol. "Why are you killing these innocent insects?"
+
+"I did not," Sol replied with the confidence of a star that had existed for eons.
+
+Ashlock looked down at the scorched soil, and sure enough, the insects were fine. Startled, yes. But most certainly alive. Which was odd—the beam of light had been strong enough to incinerate the grass and scorch the soil, but the insects were unharmed?
+
+"Was that intentional? Did you ensure your light only brought wrath upon the soil and grass, leaving the insects unharmed? If so, that's a level of control afforded by a domain," Ashlock said.
+
+"It is light's authority," Sol replied.
+
+"What's the difference?"
+
+The star pulsed again, and the light bathing Ashlock's Inner World blinked out of existence. "A domain is a Monarch's will projected onto reality. What I do is not my will. Light reveals, burns, and heals. I simply guided the light to do what it's already capable of."
+
+Ashlock thought about what he had seen and had to agree. Magnus's domain summoned a fire titan and volcanoes bound to his will, and Larry's created a dome of ash that granted immortality. Those were domain abilities built upon the capabilities of their affinities. But if, for example, fire Qi was simply guided rather than commanded, it would never take on the form of a sentient titan.
+
+Sol was right. What he commanded wasn't a domain—it was, at best, authority over an affinity. But that didn't make it any less powerful. A General class Ent that could shoot light beams at a Monarch level imbued with Light Law?
+
+The frontline trying to resist the encroaching beast tide wouldn't know what hit them.
+
+"I'll be sending you to the Hellroot Abyss," Ashlock said. "The mortals of Floridawn would likely benefit from healing after being ravaged by insects."
+
+He also needed to rebuild his divine energy and sacrificial credit stores—Sol's creation had nearly wiped him clean of both precious resources. To regain his strength in time for the ball that was mere days away, he was going to put Sol to work.
+
+After tearing open a portal for the Ent, Ashlock decided to check on the situation on the frontline. He was worried that, in his absence and with his weakened condition, his Generals might not be able to hold the fort.
+
+What he discovered in his Hellroot Abyss as Sol stepped through the portal and illuminated the space with his presence surprised him.
+
+A Monarch he had been expecting, alongside an entourage of Nascent Soul Realm guards, was patiently waiting for him. They all looked up at Sol stepping through the desolation portal in abject horror, with even the Monarch unable to mask his nerves as his hands tightened around a golden scepter much like the one he currently possessed.
+
+"Thal'korr of the Mycothane Hive," Ashlock said, using Sol as a mouthpiece. "I've been expecting you."

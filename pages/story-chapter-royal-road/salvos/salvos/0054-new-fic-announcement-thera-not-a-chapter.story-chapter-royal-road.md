@@ -1,0 +1,211 @@
+---
+id: 82e353fd-7829-5442-9212-b5e0c029e742
+page-type-slug: story-chapter-royal-road
+title: "New Fic Announcement: Thera (Not a chapter)"
+slug: 0054-new-fic-announcement-thera-not-a-chapter
+partOf: salvos
+position: 54
+ownLength: 3175
+unit: words
+publishedAt: 2022-07-24
+link: "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/955549/new-fic-announcement-thera-not-a-chapter"
+royalRoadId: "955549"
+---
+
+If you're wondering, no this isn't the big announcement I have. That will be related to Salvos and will come out next week or the week after. We'll see. Also, the Salvos chapter will be out in about three hours' time, and that will be the last chapter of the week.
+
+So I have a new fic! What's new?
+
+But this time, it's a Monster Evolution LitRPG. That's right. It's about a TURTLE. It is my highest rated story to date, having peaked at rank 9, although it's currently at rank 24. It has only 15 chapters out for now, but it will get more soon. I was a bit distracted by... y'know, everything that has happened over these past two weeks.
+
+Anyway, you guys should check it out and give it a rating! In fact, here's the synopsis and chapter 1:
+
+The Mystic Turtle.
+
+They stand with the Elder Dragons and the Spirit Dryads as creatures of legend. Timeless. Immortal. They live solitary lives, drawing power from their own soul. They are the hermits of the sea, their power unmatched in the ocean. Yet, this power is not attained easily, for as Thera will learn, the life of a baby Mystic Turtle is full of trials and tribulations...
+
+She will scour ancient sunken ruins, face the dangers lurking in the depths of the sea, and, perhaps one day, grow to become a Mystic Turtle that surpasses even legend.
+
+Arc 1: Time
+
+Thera 1.00
+
+“Time: it is a terrible thing.”
+
+Two figures stood alone before the beach. A pair of Elves, waiting at the fringe where the line was drawn between gravel and sand. A mother and a daughter. They could see the setting sun; hear the breath of the sea. A weak wave quietly crashed ashore, leaving behind rubbery wracks of amber-colored kelp where the tide was teething.
+
+“It steals our life, our loved ones, and even our memories. It takes everything it touches and leaves naught for us but despair and dread.”
+
+The red ring fell down the eastward sky; a silhouette emerged towards the north from the salmon-colored waters. The Elves raised their heads as an island emplaned itself onto the beach.
+
+“Time is an enemy to us, Luna,” the mother said softly. “But not to all of us.”
+
+The tide receded, and the sand shook. Luna inclined her head inquisitively as the glare from the sun was shaded by the damp trees rising from the water. Her mother caressed her shoulder, continuing her speech.
+
+“There are only three creatures in this world that have made an ally of time— three legendary creatures that have transcended mortality. Do you know of them, Luna?”
+
+The girl replied with a small nod but said nothing more as a shadow loomed over them.
+
+Tracing a finger in the air, her mother spoke simply. “The first is the Elder Dragon, ruler of the sky, master of the elements. They are the mightiest of the three in strength, and the most prideful of their status.”
+
+Luna’s gaze followed her mother’s finger as it drew down to the sheening wet trees now fully exposed to the sun.
+
+“The second is the Spirit Dryad, guardian of the earth, disciple of the divine. They are born from the world itself, blessed with life by the Gods, and are thus the most dutiful in their worship.”
+
+The trees rustled, then rose. A giant figure stepped onto the beach as both Elves fixed their gaze onto it. A legendary creature. A being of majesty and might.
+
+“And, lastly, is the Mystic Turtle,” her mother breathed in awe.
+
+It towered before the Elves. Larger than life; greater than its legend. A living myth. The very same creature the mother spoke of.
+
+The Mystic Turtle stood there in its glory, wearing an oval-shaped shell on its back— one that teemed with foliage and leaves. A pair of tusks protruded from its lower lip, and a curved set of horns laid on its head like a crown. It gently dug into the beach with clawed hands as the island it bore trembled.
+
+“Hermit of the sea, sage of the soul. Little is known about these wonderful creatures. We only know that they live solitary lives, drawing from their own essence to survive the harsh oceans.”
+
+When the Mystic Turtle pulled away, a hundred white objects lay in the sand. Eggs. Each one larger than Luna’s head. The Elves approached the nest as the Mystic Turtle turned their way. Luna apprehensively shrank back, but her mother urged her forward.
+
+“Your grandmother was your age when the last Mystic Turtle was seen on land. Cherish this moment, Luna— cherish that you bore witness to this. For it shall not happen for another thousand years.”
+
+Luna stood trembling before the nest. The Mystic Turtle rolled one of the eggs to her feet, and she stared at it.
+
+“Go on,” her mother said.
+
+The girl slowly bent down and touched the cold shell with the tips of her fingers. The Mystic Turtle waited expectantly as her breathing quickened. She tried to work her jaw, but her mouth just went dry.
+
+“Give it a name, Luna. The Mystic Turtle has given you her blessing to name one of her children. For the Voice of the World to store and remember. And when ten years pass and the egg hatches, the child will not enter the world alone. The child will enter the world with a piece of you by its side.”
+
+A piece of me by its side? Luna closed her eyes, feeling the full weight of that statement on her shoulders. If she’d had more time to prepare, she could’ve given the Mystic Turtle a fitting name. But at this moment, she could’ve thought long and hard about it and still come up empty—
+
+A pulse came from inside the egg, like the beating of a heart, or the warmth of day. It whispered to her soul; spoke with a lilt; a euphony. Her eyes snapped open, and she knew what to say.
+
+“Thera,” the girl said, delicately running her hand over the egg’s shell. “Your name is Thera.”
+
+“Thera,” her mother repeated after her. “That is a wonderful name.”
+
+Luna drew back as the Mystic Turtle began to bury the eggs in sand. A pair of arms hugged the girl from behind. She looked up, and her mother watched on with a bitter gaze of wonder. The sand slowly covered the nest as the last inklings of twilight vanished over the horizon.
+
+“May you rest well, Thera. For when you awake, a world of danger lies ahead of you. But if you should live until the end of eternity, then so will a memory of my daughter through you. Now let us return home, Luna, and let nature run its course.”
+
+* * *
+
+And so, time passed: the mother and the daughter left, the Mystic Turtle returned to sea, and the ocean swept over the beach. For ten years, the eggs remained untouched. Hidden from the birds flying above or the crabs crawling over the sand. Then, the first egg hatched.
+
+The eggshell cracked open, and a little flipper poked out. It had a leather-like texture— both coarse and tender to the touch. The baby Mystic Turtle’s head was next to follow, letting out a squeak as it clambered out into the sand.
+
+It began digging its way up and out as, around it, the other eggs followed suit. They twitched and splintered and broke open, pouring out a deluge of baby Mystic Turtles into the nest.
+
+Together, these little green-ish creatures hastily burrowed up until they saw their first sign of daylight. Driven by excitement— driven by instinct— to get to the sound of crashing water, little did they know that what awaited them above wasn’t so kind.
+
+A seabird squawked, and a crab climbed out of its hidey-hole. A colony of Draconian Ants came to a halt as they felt the vibration in the sand. A large lizard watched the tide rise along with the sun. And the baby Mystic Turtles unknowingly pressed on.
+
+Amongst the hundred of them was one called Thera— although she didn’t know it yet. She wasn’t the first to hatch, nor was she the last; when she hatched, there were already dozens ahead of her, and dozens more still behind. It took her a moment to catch up with the others as she floundered in her egg for a good moment before tumbling out and landing on her shell.
+
+She lay there, struggling and squeaking as she waved her flippers in a panic. She didn’t understand her predicament— she just found it unsettling, unaware she’d die if she wasn’t saved. After all, she’d just been born; her thoughts were but a haze to her.
+
+Fortunately for her, her shell was still undeveloped just like her brothers and sister, so it tightly hugged onto her body like a second skin, making it easier for her to flip herself back onto her underbelly and relieve herself of that unsettling feeling. But that was a double-edged sword as it also meant she was vulnerable to the predators lurking above.
+
+The sand ceiling finally gave way and collapsed. Light leaked into the nest, inundating Thera with an alien but wondrous sight. Pure white clouds decorated an azure blue sky. She inhaled deeply and sighed. The smell of sea salt attacked her nostrils; a welcoming scent.
+
+In a trance, she followed the rest of her brothers and sisters as they quickly climbed out of the burrow. Into this beautiful world. To the place where they’d live together for the rest of their lives. The first of the baby Mystic Turtles excitedly crawled onto the beach—
+
+And into the claws of a giant seabird.
+
+…what? Thera’s first proper thought echoed in her mind as she froze.
+
+She heard the terrible caw of the winged beast. Saw it crunch her brother in a single bite. Her body refused to move because she was so taken aback by how sudden it had been. All the baby Mystic Turtles watched as the Clawed Pelican circled around the nest once before swooping back down for more.
+
+That was when they reacted. The baby Mystic Turtles rushed forward, scrambling out of the death-hole that had once been their nest. Thera was swept up in this wave headed for the ocean. She didn’t even question why she fled or why she thought the ocean was safe— she saw but the sparkling water, and knew it to be her only hope..
+
+Her brothers and sisters raced ahead of her. All ninety-nine of them waddled through the sand, sticking together through instinct as if they’d find safety in numbers. They did not. The same Clawed Pelican from before came flying down once again, this time grabbing the baby Mystic Turtle just ahead of Thera. She jerked back as she processed this.
+
+That could’ve been her. The realization settled in as a second Clawed Pelican joined in the feast. Thera felt that brush with death, and her senseless panic and abstract fear finally found roots: she could die.
+
+The other baby Mystic Turtles must’ve had the same realization as they too began to scatter. Their tight formation broke, and the ones at the front and sides streamed out in different directions, but the Clawed Pelicans were the last of their worries. After all, there had been dozens of other predators lying in wait.
+
+Sandtrap Crabs burst out of holes they had dug beforehand and wrestled with the scattering baby Mystic Turtles. These monsters overpowered their smaller, lone adversaries, dragging them back down into their holes when they were victorious.
+
+The baby Mystic Turtles slowed in their advance. Thera’s gaze snapped around in fear as predators encroached from all sides. She heard the clicking of the Sandtrap Crabs’ claws. The screeches of the Clawed Pelicans. Then she turned around, thinking that perhaps it might be safer back at the nest— but she wasn’t the only one who had that idea.
+
+A dozen of her brothers and sisters funneled back down the nest, only for a dark shadow to leap down after them. Thera barely saw it. She heard a hiss. Glimpsed its scales. And listened as it ripped apart the whimpering baby Mystic Turtles below.
+
+It was a Grim Lizard. A fast and efficient hunter with a bit of venom to its bite. It also had an insatiable appetite, which meant that none of the baby Mystic Turtles were safe.
+
+Of course, Thera didn’t know this. She just saw more death around her. From the sides, from above, and from behind. The monsters showed no mercy as the number of baby Mystic Turtles quickly dwindled in half.
+
+There was only one direction left to go. The original goal. To the sea.
+
+Thera crawled forward as fast as she could, moving swiftly around one of her hesitating sisters. A Clawed Pelican saw the stationary target and came down past Thera as she continued on, only a single thought in her mind.
+
+Must. Get. Water.
+
+A Sandtrap Crab leapt out of its hole, and she narrowly avoided the pincers aimed for her head. She heard the squeal behind her as the Sandtrap Crab grabbed the next crawling baby Mystic Turtle and left her alone.
+
+Despite her vigor, she wasn’t the fastest of the baby Mystic Turtles. One of her brothers looked like he was about to reach the ocean as a wave washed in ahead of him, only for him to pause. The sand shifted beneath him, and little black things crawled onto his back.
+
+Draconian Ants. Each one about six inches in length. They were nearly half the size of the baby Mystic Turtle they assailed, but what they lacked in size, they made up for in numbers.
+
+Thera looked on in horror as these creatures ambushed those leading the charge. Two of her brothers had already perished as dozens of those little black things swarmed the bodies. She slowed and took in this scene.
+
+There was no escape. Everywhere was death. Above, below, behind, to the sides. There was no fleeing from this. Her instinct told her to run from danger, but danger was everywhere. She didn’t know what to do. The ground beneath her shifted as the Draconian Ants began to target her. And, it was then, another instinct kicked in. The only one she had left.
+
+Fight.
+
+This single thought was clear— far more lucid than any other she’d had in the minutes since her birth. The first Draconian Ant burrowed up and out of the sand. It clicked its mandibles, ready to attack Thera. Instead, she closed the distance and with a crunch, she bit down into it.
+
+The Draconian Ant’s carapace was hard to bite through. But she exerted all the force she could, and her mouth was both hard and sharp. She strained her jaw and shattered the Draconian Ant’s shell, crushing it in her mouth.
+
+More ants crawled out of the sand, but she reached them before they could group up and dealt them the same death as before. She bit and bit and bit, taking them down one after another. Her jaw wouldn’t open when she bit down into the next carapace, stuck on the thrashing ant. Finally, she ripped herself free but found four of the creatures now closing in on her together. Despite her best efforts, they overwhelmed her with sheer numbers. She tried slapping them with her flippers, but all that did was slow their assault.
+
+Thera squeaked in pain as they crawled up her flippers and bit into her shell. She ripped another Draconian Ant off, fearing it was all over—
+
+You have leveled up!
+
+[Fledgling Testudine (Mystic Turtle) - Level 0] -> [Fledgling Testudine (Mystic Turtle) - Level 1]!
+
+Species Skill gained: [Indomitable Soul]!
+
+Skill gained: [Power Bite]!
+
+A voice echoed in her head. No— it resounded throughout her very being. She surged with strength. With tenacity. With agility.
+
+It was the Voice of the World, and it gave her power.
+
+When she slapped down at the Draconian Ants, she squashed them beneath her flippers. She grabbed another with her mouth, moving by instinct.
+
+[Power Bite]. She felt her jaws clench with a loud snap, carapace and flesh crunched between her beak-like mouth, the ant dead in an instant with dark blood seeping from the large wound. After all the effort it’d taken before— it now came easy. She chomped the Draconian Ants down and flicked them off her body. More crawled from the sand, but she sped past them. She was faster now too, and they couldn’t keep up with her.
+
+Thera panted as she neared the sea. Her gaze naturally drifted to her surroundings, looking over at her brothers and sisters. Their numbers had dwindled even further— only a quarter of them were left. But now they fought back.
+
+The other baby Mystic Turtles must have had the same thought as she. They all understood they’d have to fight to earn their escape. And fight they did. They trailed after Thera, following her lead, drawing closer and closer to their salvation.
+
+The sand beneath Thera’s flippers was moist now. The Draconic Ants were far behind her, and the Grim Lizard was even further back. A Sandtrap Crab ambushed her, but she easily snapped off its claw with a [Power Bite].
+
+Thera made it. The tide gently poured in for her as she readied herself to embrace its safety. She was going to escape—
+
+And Thera found herself in the air a moment later. She heard a shrill screech right next to her. She looked down as she flew over the sea, her brothers and sisters far behind. A Clawed Pelican had scooped her up, carrying her with its clawed feet.
+
+She looked up in terror as she realized what had happened. Thera desperately struggled, but the Clawed Pelican wouldn’t loosen its grip. It eyed her ravenously, and a desperate thought moved her.
+
+Die…?
+
+The thought wasn’t able to properly form in her mind. She bit down at the Clawed Pelican’s legs. The monster cried out in pain as her [Power Bite] closed upon the tendons in its leg. Its claws jerked open, releasing her while still a hundred feet in the sky. The world whirled around Thera as she dropped like a rock.
+
+Don’t die—
+
+It was no longer just instinct; Thera felt something burgeoning within her. A desire. She saw the beach in the distance, her brothers and sisters mere specks on the sand. The blue water rapidly approached her, and she closed her eyes.
+
+I don’t want to die.
+
+Her body shone. A golden aura covered her. It highlighted her fringes, acting almost like a second shell.
+
+[Indomitable Soul].
+
+It protected her, shielding her body. And she crashed into the water. Hard.
+
+Author's Notes:
+
+FYI, this story has me dabbling into third person omniscient.
+
+CHECK IT OUT AND GIVE IT A RATING!
+
+Thera (A Monster Evolution LitRPG) | Royal Road

@@ -1,0 +1,165 @@
+---
+id: 6640db56-672b-52b6-9468-47124b562286
+page-type-slug: story-chapter-royal-road
+title: "Chapter 549: Man"
+slug: 0115-chapter-549-man
+partOf: rise-of-the-living-forge
+position: 115
+ownLength: 1936
+unit: words
+ownProgress: 1936
+publishedAt: 2026-01-27
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2984672/chapter-549-man"
+royalRoadId: "2984672"
+markedReadAt: "2026-06-29T20:02:06.750Z"
+---
+
+Ida chewed on a strip of beef jerky. It wasn’t a particularly good piece of meat. There had been a time when she’d been quite used to that. But recent times had changed things. They’d changed a number of things.
+
+Ever since starting her “job” for the Menagerie, she’d been surprised to find just how much things had improved. Perhaps it was simply because her Indrana now had considerably bigger things to worry about rather than if her daughter was useful or not.
+
+Without Indrana breathing down her neck, everything got a thousand times easier. There were no more insufferable suitors or threats of political marriage. The only idiot she had left to deal with was her own mother.
+
+Well, her and the rest of the Dwarven Council. But Ida didn’t have true access to what happened in the closed chambers. She didn’t have any reason to believe Indrana was stupid enough to try and go up against the Menagerie at this point. The dice had already been thrown.
+
+For better or for worse, their fates were tied to the Menagerie.
+
+And that had changed things. Ida wasn’t just a tool anymore. For whatever reason, the Menagerie had chosen to put more trust in her than her mother ever had. Rodrick didn’t demand anything of her during their check-ins beyond information. All she had to do was keep things moving, and the rest of her time was hers.
+
+She had control — or at least, whatever little of it that anyone could ever truly claim.
+
+But there were problems that came with such privilege. Problems that she’d never truly had a chance to consider until now. Getting a taste of freedom didn’t come for free. It was addictive. And now that she’d taken her bite of that apple, Ida wasn’t about to give it up.
+
+Especially not to the Dwarven Council.
+
+That was how she found herself standing in an alley, chewing on a piece of substandard jerky when she could have instead been stuffing her stomach at the Devil’s Den, in wait for a bunch of traitorous idiots that were about to get themselves killed.
+
+Dwarven politics could occasionally be surprisingly straight forward. When one council member made any moves that seemed a bit too significant, another one would take steps to make sure they didn’t get too far ahead of the pack.
+
+Crabs in a bucket, Indrana had called them.
+
+She’d never seemed very bothered to be one of the crabs.
+
+But that was how Ida knew that the dwarves were coming.
+
+She didn’t have any information to act on. There was no proof. She didn’t have anything at all beyond her years of experience with the Council. And Ida didn’t need anything more. Experience alone was enough.
+
+She’d already warned Rodrick about the chances of interference days ago. But nothing had happened. Days had passed. The Mausoleum had come up and the Menagerie had hung a sign across its door.
+
+Word of the auction house had spread. It had made its way through Milten and, no doubt, many of the other surrounding cities as well. Opening day was growing closer and closer. And yet, no member of the council had made a move yet. The Council itself hadn’t even sent its representative human guild to lend the Menagerie their support.
+
+That was no mistake.
+
+So long as the Council hadn’t actually executed on the backing they’d promised, there was still room for its members to maneuver. And that meant everyone who wanted a crack at stopping Indrana from building influence was going to be doing their damn best to make sure the Menagerie never got a chance to open the Mausoleum.
+
+So… why isn’t anyone here? There should have been an attack by now. Someone should have sent assassins or saboteurs to stop the Menagerie’s progress. I refuse to believe that the dwarves would just change the way they’ve approached every single problem out of nowhere.
+
+Rodrick hadn’t seemed too worried about their chances when Ida had warned him. A part of Ida wondered if he had some kind of influence over the council, but the mere thought of that was ridiculous. Blackmailing Indrana was one thing. Actually having some threat that could stop literally every member of the council was another one entirely.
+
+But it had been far longer than Ida had expected, and nothing had happened to threaten her newfound freedom. No dwarves had shown up sniffing around. Even today, when half the Menagerie was occupied in the Infernal Armory over some secret project, there still hadn’t been any sign of interference.
+
+Maybe I really did think myself up into a frenzy. I suppose it’s not my job to be wandering around and looking for trouble, anyway. Rodrick has his ways of figuring things out. The Menagerie can defend themselves. They don’t need me looking for trouble that isn’t even here. Maybe Lillia’s got something left over that I can drink. I’d kill for a good ale to wash this trash down.
+
+Ida finished the last of her jerky off. She turned to head back for the Devil’s Den.
+
+A line of cold steel pressed itself to her neck.
+
+She froze.
+
+“Don’t move,” a man said, his gruff tone muted by what sounded like plate armor. “Don’t even scream. We’d prefer not to kill you, Ida. Too much trouble, it is.”
+
+Shit. How? I didn’t see anyone!
+
+“What are you doing?” Ida asked through a clenched jaw.
+
+“Don’t play dumb. It’s just business,” the dwarf said. “What’s the Menagerie doing, Ida? Why are half of them in that smithy?”
+
+“I don’t know,” Ida replied, relieved that she was being entirely honest about the first half of what she was saying. “I’m not exactly part of the guild. I just work for my mother.”
+
+The man let out a displeased grunt. “Their defenses?”
+
+“No idea,” Ida said. “Except for the fact that the last dwarven warrior that came through here got his head chopped off and sent back to my mother’s table with express delivery.”
+
+“Don’t get snippy,” the dwarf said. “There’s nobody here. I made sure. This is dwarf business, girl. You know where your alliances lie.”
+
+Ida’s jaw clenched tighter for a second.
+
+Then her shoulders relaxed.
+
+“Of course I do.”
+
+The knife pulled away from her throat.
+
+Ida turned. Standing a foot away from her was a dwarf clad in pitch black armor. She didn’t recognize the man, but the equipment covering every part of his body was clearly of very respectable make. There was a master dwarven smith backing him.
+
+But that really wasn’t a surprise.
+
+This was the agent of someone on the Council.
+
+“Who?” Ida asked.
+
+The dwarf let out a quiet laugh. “We both know I’m not answering that. Just make things quick for me so I can get out of your hair as quickly as possible. We don’t care if Indrana makes plays to further her strength, but the Menagerie are too big of an unknown factor. One group of dwarves has already gone missing after interacting with them, and they almost certainly used us to wipe out the Blacktongues’ forces.”
+
+“Us?” Ida repeated. “I don’t recall the council ordering any attacks against the Menagerie.”
+
+“You know how it is, Ida. I’ve warned you once. Don’t make me do it again,” the dwarf said with a shake of his head. “Where’s the weak point of the auction house? Tell me and we can be done with this. I’ll be gone before you know it. No fight. No death. No need for anything drastic.”
+
+Ida knew the answer to this question. Partially, at least. The Menagerie had mentioned pieces once or twice while she’d been around, and it hadn’t been hard to slot them together. The auction house had some kind of heart powering it.
+
+But I’m not telling him anything. Rodrick would definitely find out that I was the one who gave them away.
+
+“You can’t expect information for free,” Ida said.
+
+“It’s not free, Ida,” the dwarf said. He spun the knife in his hand before grabbing a hold of its hilt and pointing the blade at her. “Don’t make me do this the hard way. The world is tough. We have to stick together. Indrana isn’t going to lose all her influence. We’re just curtailing it a bit. The Menagerie will eventually get the auction house fixed up. I’m just slowing things down a bit. Getting them to a more… competitive environment.”
+
+“I don’t know,” Ida said.
+
+Behind the magically forged helm, the other dwarf’s eyes narrowed.
+
+“You’re lying. I’ve dealt with people far cleverer than you, Ida. You know how I can take the auction house down quickly. Tell me. Now. Or this is going to get ugly. I don’t have the privilege of time on my side. We both know that the Menagerie are enough of a threat that I’m going to have to be serious.”
+
+He’s professional. Somebody isn’t holding back any stops. I don’t think he’s going to take no for an answer here.
+
+Ida’s jaw clenched.
+
+A second dragged by.
+
+How does this keep happening?
+
+Then her jaw set.
+
+“No,” she said. “Go fuck yourself.”
+
+“Idiot,” the dwarf said through a sigh.
+
+His hand shot out in a blur. It latched onto Ida’s wrist before she could react. But, before she could even try to fight back or call for help — knowing full well either option would get her a dagger in the lungs — a glowing blue thread spun out over the dwarf’s head.
+
+The rope slipped right under his helm, encircling his neck like a gentle strand of silk settling into place.
+
+Then it jerked taut.
+
+The dwarf let out a strangled wheeze as he was dragged into the air. His eyes bulged behind his helm and he clawed at his throat. A strange hissing noise came from his armor. Strands of wispy blue smoke rose up from it.
+
+And, behind the dwarf, the phantom of a looming man took form. A scraggly nest of white hair did absolutely nothing to obscure the unrestrained malice burning within the ice-blue eyes upon the creature’s face.
+
+The phantom grabbed the dwarf’s helm. And, as easily as plucking a feather from a dead chicken, he pulled it right off. Surprise flared in the choking dwarf’s expression as his legs kicked desperately.
+
+There should have been magic to keep his armor from being removed so easily. But it didn’t look like the magic had done much at all.
+
+Before either Ida or the other dwarf could properly process what had just happened, the apparition’s other hand fell upon the intruder’s head.
+
+“Freeze,” the ghastly man whispered.
+
+Frost washed across the alleyway. The dwarf’s armor flared. Magic sparked in contest to the command, rearing up in attempt to shrug it away. It failed. All the magic of his armor sputtered out, swallowed by the frost like a candle in a winter storm. The dwarf’s skin went blue, then white, as ice crept up from his skin to swallow him in a translucent tomb.
+
+Then the apparition’s eyes flicked to Ida.
+
+A shimmer of recognition passed through her.
+
+“…Koyu?” Ida whispered. But this wasn’t the old drunkard who tended to hang around the Devil’s Den. He was taller. Colder.
+
+This was no man at all.
+
+“Watch him.” Koyu’s voice was somehow colder than the ice he’d just entombed the unfortunate dwarf in. “I have more important matters to deal with.”
+
+And then he was gone, leaving behind nothing but a petrified dwarf and creeping frost covering the alleyway around Ida.

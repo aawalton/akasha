@@ -1,0 +1,181 @@
+---
+id: 2788889f-aa88-544d-8360-9edef2fb7cbb
+page-type-slug: story-chapter-royal-road
+title: "Chapter 506: Side quest"
+slug: 0072-chapter-506-side-quest
+partOf: rise-of-the-living-forge
+position: 72
+ownLength: 1968
+unit: words
+ownProgress: 1968
+publishedAt: 2025-10-23
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2699123/chapter-506-side-quest"
+royalRoadId: "2699123"
+markedReadAt: "2026-06-29T20:00:44.101Z"
+---
+
+Rodrick was a very complicated man. But making armor for him was surprisingly straightforward. Arwin didn’t even have to think for more than a few minutes before he’d determined exactly what he wanted it to do.
+
+A man like Rodrick valued utility more than anything else. He needed something multipurpose. Armor that provided good defense, intimidation when the time called for it, and a way to quickly remove or modify it.
+
+Giving him a huge set of bulky armor that could tank nearly every blow wouldn’t be much use when the former paladin was dressed as someone else’s wife, kids, or assorted family member half the time.
+
+That made planning it out surprisingly easy. It was to be a Soul Weapon with some pretty defined parameters. A small Core, powered by a connection to Rodrick, would be more than sufficient. That was a much easier task than creating a new body for the Devil’s Den — so he and Wallace got started right away.
+
+“What do you think the best material for the base would be?” the dwarf asked, stroking his beard “We should avoid anything overly heavy. It won’t lend itself well to armor that can be easily removed.”
+
+A hole opened in the wall of the Infernal Armory as a shelf bearing dozen different ingots slipped out into view. They were a mixture of payments that he’d received from various commissions in the relatively recent past and loot that Reya or Olive had found on their delivery trips.
+
+“There’s been a lot of this stuff coming in recently,” Arwin replied. He went silent for a moment as his gaze passed over each of the metals.
+
+He could hear their songs. All of them. It might have been overwhelming if each of them weren’t so different. He could make each one of them out perfectly. After his class had been Sunset, their song was so clear.
+
+What would have taken him ten minutes — and probably a vision — per material now only took a few instants.
+
+Arwin picked up a matte chunk of black metal. The material’s song rolled through his head the instant his fingers brushed across it, even louder than it had been a moment ago. Light and insistent, like a fluttering butterfly.
+
+A fluttering metal butterfly.
+
+“This. It’ll work great. Its song fits.”
+
+“Do you even know what that is?” Wallace asked, walking over to join Arwin.
+
+“No,” Arwin said. He paused for a moment, then tilted his head to the side. “It’s light. Flexible. Eager to be made into something worthy, and it likes secrets. What could be better?”
+
+“You can tell all of that?” Wallace asked in disbelief. “So quickly?”
+
+Arwin nodded. Wallace held his hand out for the metal.
+
+With a shrug, Arwin deposited it into the dwarf’s outstretched palm. Wallace held the metal up before the light coming from the black lava coursing through the lines in the Infernal Armory’s floor and squinted at it.
+
+Then he raised it up to his mouth and gave it a quick bite.
+
+“Nightiron,” Wallace said. He lowered the metal and looked back to Arwin. “You’re right. Just had to make sure. Lots of black metals seem similar from look alone. I’d have killed for your ability when I was a younger man. Took me years to learn the properties of metals.”
+
+Arwin grinned sheepishly.
+
+“Sorry?”
+
+“Bah,” Wallace grumbled. He handed the Nightiron chunk back to Arwin. “This will work. You’re right. There should be a fair amount of it to work with as well. Nightiron’s been popping up around Milten a lot recently. Dungeons have been getting stronger as well.”
+
+A small frown pulled at Arwin’s lips. The way dungeons worked was a bit of a mystery. It always had been, but they did know a few things about it. Dungeons were overlaps in the Mesh, layers of folded power that drew and created monsters within them.
+
+In short… they were fancy magic croissants.
+
+But when a bunch of new adventurers showed up somewhere, ripe with magical power and items, a few of them tended to die. And when enough of them died… that magic had to go somewhere.
+
+After enough people died in the same area, that magic power would add into the mix. Dungeons got stronger. Too much of that could cause a Dungeon Break. Granted, with the number of people coming to Milten now, the chances of a dungeon filling up enough to burst free was incredibly unlikely.
+
+But the dungeons were definitely getting stronger. And if they got stronger… more people would come. It was a constant cycle. One that normally meant the city near the dungeons was about to get a hell of a lot more money and patronage from traveling adventurers.
+
+And one that means the Adventurer’s Guild is going to set up a proper presence here soon. Milten isn’t just some backwater town anymore.
+
+Arwin shelved that thought. It wasn’t one he wanted to deal with at the moment. There were more pressing matters at hand — and ones that he could actually control.
+
+“Do we have enough?” Arwin asked, looking up at the ceiling rather than at Wallace.
+
+A coil of red mist twisted through the air above him.
+
+“No,” the armory replied. “You’ll have to go get some more. We have enough for several pieces, but not an entire set.”
+
+Arwin grunted. That was a bit of a pain, but a quick swing by a dungeon wouldn’t take him long. It would be faster than asking someone else to get it for him — and he’d been in the smithy for ages. “Fair enough. I’ll go grab that then. I’ll find Anna while I’m at it.”
+
+“Why?” Wallace asked.
+
+“I need something from Rodrick,” Arwin replied. “Can’t make Soul Weapons without something to connect it to him.”
+
+“Ah,” Wallace said. “Right. Well… I’ll sit here. And do nothing. It’s fun, you know. You should try it sometime.”
+
+Arwin snorted. “Sounds boring.”
+
+Then he strode out of the smithy.
+
+The midday sun bore down on him as he stepped out into the street. Arwin squinted, raising a hand over his head as he wove through the thick crowd that filled the Menagerie’s street.
+
+It was hard to tell if there were more people here than normal or not because Arwin just couldn’t remember the last time the street hadn’t been packed while the Devil’s Den was open.
+
+He moved quickly, making his way over to the entrance. Madiv stood watch over it. Anna’s healing table was set up outside with a sizable line of its own, but the woman wasn’t currently present.
+
+She must have headed in for something.
+
+Arwin nodded to Madiv as he slipped past the line and into the tavern.
+
+The inside of the Devil’s Den was just as busy as the street. Even through the magical darkness, the clink of cutlery and conversation came from every direction. Shadow imps scurried across the ground bearing plates piled high with food and the smell of seared meat tickled Arwin’s nostrils tantalizingly.
+
+He pushed his hunger down as he made his way toward the kitchen — only to spot Anna heading up the stairs to the second floor on his way.
+
+Arwin’s eyes lit up and he quickly changed course, hurrying after Anna. He caught up to her right before she reached the door to her and Rodrick’s room.
+
+“Anna!” Arwin called.
+
+She glanced back at him, hand on the doorknob, and blinked. “Oh! You’re out of the smithy! How are things going?”
+
+“Well enough,” Arwin said with a grin. “I’m actually making some armor for Rodrick right now. It’ll be a surprise when he gets back from Sunsetting his class. But it’s a Soul Weapon. I need—”
+
+“Oh, a piece of him, right?” Anna asked. “Sure.”
+
+Before Arwin could say anything else, she reached into the leather bag slung over her shoulder and pulled out a long, clear vial with several hairs inside it. She held the vial out to Arwin.
+
+He stared at it.
+
+“Is this…”
+
+“Rodrick’s hair, yes.”
+
+“Why do you—”
+
+Anna arched an eyebrow.
+
+“Right,” Arwin said, taking the vial from her gingerly. “Thanks.”
+
+Anna just nodded. “Good luck. I’ve got to get some supplies and get back to work. There are a lot of people waiting on me.”
+
+“Sure thing. Don’t let me hold you. Oh, wait. How long do we—”
+
+“Two days, including today,” Anna said with a knowing grin. “Cutting the deadline close. Are you going to be done in time?”
+
+Arwin thought for a moment. Then he nodded. “Yeah. I will. Good luck with the healing.”
+
+“And you as well.”
+
+He turned and headed back down the stairs as Anna slipped into her room. There was one more thing he had to do before heading out to collect the Nightiron. There was no way he was swinging by the Devil’s Den without at least saying hi to Lillia before he left.
+
+Arwin found Lillia in the kitchen. That really wasn’t much of a surprise.
+
+She was surrounded by a cloud of utensils, pans, and bowls that were ferrying a number of ingredients through the air like some strange parade — and she was already looking in his direction before the door had even closed behind him.
+
+The flying utensils made a path through the kitchen for Arwin.
+
+“I was wondering when you’d remember the rest of us existed,” Lillia said with a wry smile. Her nose scrunched. “And I’m sure you’ll remember a bath exists soon too.”
+
+Arwin grinned sheepishly. “Sorry. It’s been a long few days.”
+
+She just rolled her eyes. “You’ve got a hug in the bank, but you’re not cashing it in until you’re less than 50% soot and dirt.”
+
+“Good motivation,” Arwin said. “I’ll get on that tonight. I’ve just got to finish up some armor I’m making for Rodrick while the core bakes in your oven. Speaking of which…”
+
+“It’s still there,” Lillia said. “I’m keeping an eye on it. Did you need me to do anything else with it?”
+
+“Nope. Just keep doing what you’re doing,” Arwin said with a nod. “That’s all I needed, actually. I was just swinging by to check on you. I’ve got to go to a dungeon to find some Nightiron ore. It shouldn’t take long. I want to be done with all of this by tonight.”
+
+“You better be.” Lillia gave him a glare that was probably only half-joking. “I haven’t seen you in days.”
+
+“I will be,” Arwin promised.
+
+“Good. Then — oh! Hold on.” Lillia flicked her hand. A bracelet slipped out of the clock on the kitchen wall and floated over to hover before Arwin. From the other side of the room, a tarp rose up to enclose a covered plate, tying itself into a knot before flying over to join the bracelet in floating before Arwin. It was Lillia’s turn to give him a sheepish grin. “Could you take this? Both Reya and Olive are out, and I don’t know if they’ll make it back in time to deliver it.”
+
+Arwin blinked. Then he shrugged.
+
+“Yeah. Sure, why not. Might be fun.”
+
+“Thanks, Arwin,” Lillia smiled. She took a step toward him. Then her nose scrunched. “Two hugs. And remember — thirty minutes. There are around 25 left, so you’ll have to be fast.”
+
+“Noted,” Arwin said, plucking the bracelet from the air and slipping it over his wrist. “I’ll be back tonight.”
+
+And then he was off.
+
+A delivery, huh? Haven’t done one of these myself yet. Olive and Reya have been handling all of them.
+
+At this point, people probably expect one of them to show up. I kind of want to see the look on their faces when I pop up instead.
+
+This should be interesting.

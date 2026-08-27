@@ -1,0 +1,213 @@
+---
+id: 015d75a7-514c-5250-adec-6aab3ad3da25
+page-type-slug: story-chapter-royal-road
+title: "Chapter 632: Tonight."
+slug: 0102-chapter-632-tonight
+partOf: rise-of-the-living-forge
+position: 102
+ownLength: 2751
+unit: words
+publishedAt: 2026-08-13
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3808934/chapter-632-tonight"
+royalRoadId: "3808934"
+---
+
+Several long seconds passed without so much as a breath, much less a word. Koyu’s finished body stood before them in wait. Somehow both plain and beautiful, it was everything that they had set out to create. A small part of Arwin could barely even believe that it was actually done.
+
+And for some reason, the System seemed to agree.
+
+No information from the Mesh arose about the body. Arwin had gotten an immense amount of magical power for completing the set, but the golden light was fading away rather than forming into words. A flicker of confusion passed through him. He looked over to Koyu.
+
+But any words that Arwin might have said died on his lips.
+
+The Lich was reading.
+
+He could tell by the way the other man’s eyes were flicking through the air. It seemed that the Mesh had decided that it wasn’t anyone but Koyu’s place to read up about his new body. Arwin supposed that made more than enough sense. This wasn’t just some suit of armor.
+
+It was the closest thing they could get to making flesh.
+
+This was Koyu’s future.
+
+“It’s… beautiful,” Koyu whispered. He took a step forward, a translucent hand raising slightly before he caught himself.
+
+“It’s yours,” Wallace said. “No point bein’ gentle with it. That thing’s built to take a hell of a lot more beating than what one ghostly hand can do.”
+
+Perhaps it was because Koyu’s guard was down, but a soft laugh slipped from his lips. “It’s real. I can’t believe it.”
+
+“And it works,” Ida breathed, somehow sounding even more impressed than Koyu himself. “I… honestly, I wasn’t sure if we could do it. There were so many pieces. And the Mesh didn’t say anything. Is it actually finished?”
+
+“Did you not get hit by the big ole hammer of magic?” Wallace asked in disbelief. “Pretty hard to miss.”
+
+Ida shook her head. “No. No, I felt it. But…”
+
+“I think the Soul Guardian sealed itself so that only Koyu could read it,” Arwin said. “More powerful items are capable of doing things like that. Makes sense to me. I wouldn’t want to go around sharing all the information about my body with everyone that saw me. Even if they were the ones that helped make me.”
+
+“You can’t read it?” Koyu asked, glancing back at Arwin. “Do…”
+
+“No,” Arwin and Wallace said at the same time.
+
+“Stop waffling around and test it out,” Wallace said. “We don’t care about what it does. It’s your damn body. The only thing I want to see is how it moves.”
+
+Koyu turned back to the armor. He hesitated for a moment longer. Then he stepped forward and pressed his hand to its chest. A strange ripple passed through his pale blue form, almost like the effect made by a rock falling in a still lake.
+
+Then, with a pop, he vanished.
+
+A second passed in silence. All of them stared at the body expectantly. Its blank, dot-riddled face stared back at them.
+
+Then a faint hum filled the room. Silver liquid bubbled up through the many face holes, flowing down across its surface. But, instead of dripping down its chin, the liquid remained entirely on its the metal platform. It flowed to form arches and ridges, transforming into a strikingly accurate imprint of Koyu’s features made entirely out of liquid metal. Blue light shimmered, taking on the form and color of Koyu’s pale, icy eyes.
+
+His lips twitched, pulling apart ever so slightly. The metal moved seamlessly, revealing an opening for a mouth within the liquid. Then he closed his mouth again. If it wasn’t for the slightest delay in his movements, it would have been impossible to tell that his features were composed of liquid.
+
+Koyu lifted a hand. He closed his fingers into a fist, then opened them again. Then he took a step toward Arwin, extended his hand, and poked him right in the eye.
+
+“Ow!” Arwin exclaimed, jumping back and grabbing his head. “What was that for?”
+
+“Shit,” Koyu said. “I was trying to touch your chest. I — I can feel. It was squishy.”
+
+“Yeah, it was squishy,” Arwin muttered. “It was my damn eye. Eyes are squishy.”
+
+“I haven’t felt anything in… so long,” Koyu muttered. He looked at his hand. Then he looked back at Arwin.
+
+“Find something else squishy,” Arwin said, shaking his head and biting back a laugh. “My eyes are off limits.”
+
+Koyu grunted. He shifted his weight from one foot to the other. He took a few steps backward, then hopped to the side. He stumbled slightly on impact, staggering before he managed to catch himself against the wall of the armory. Then he pushed himself back upright.
+
+“Impact. I’m not used to that. But… it’s real. The floor beneath my feet is actual floor. I can taste the air. Smokey. Burnt. I like it.”
+
+“That would be ash,” Wallace drawled. “And I believe you should generally avoid trying to eat that.”
+
+“Eating,” Koyu said. His eyes shimmered. “I can properly taste food now?”
+
+“You couldn’t taste anything before?” Arwin blinked. “I mean, you were downing alcohol like no tomorrow. And I’ve seen you eat.”
+
+“The act was more important than the reward,” Koyu replied. “I can draw energy from food. I did not need it, and any tastes were little more than a memory of what they should have been. But this body is processing it correctly. Or, at least, closer to how it should be. If I can smell things so easily… then it stands to reason that I can taste it as well.”
+
+“I suppose that’s true,” Arwin said. “But—”
+
+Koyu wasn’t waiting around for his answer. He turned, striding for the door in unsteady steps, like a baby lamb first running from its mother. But it didn’t take him long to get the grasp of things. By the time Koyu had made it into the main room of the Armory, he was already moving roughly like a human.
+
+Then he strode through the door and was gone.
+
+“Well,” Wallace said. “Can’t say he isn’t motivated.”
+
+Arwin just laughed. He was just as relieved as Koyu was excited. “We did it, then. It sounds like everything works properly.”
+
+“Never thought I’d see the day,” Wallace said, shaking his head in disbelief. “But I’d say you’re right, lad. We did it. Reckon we all owe ourselves a good pat on the back. Especially you, Ida. That was a big project. Quite the jump from what we’ve asked you to do before.”
+
+“It… yeah.” Ida swallowed, then nodded. “I was so scared I’d screw a line up somewhere. But the whole thing would have failed if I did. So I guess it worked out.”
+
+“I guess so,” Arwin agreed with a chuckle. He clapped Ida on the shoulder. “Why don’t we all get some food? I don’t know about the two of you, but I’m spent.”
+
+“I’d be onboard with that idea even if I’d just stuffed myself like a plump chicken a scant few minutes ago.” An eager grin crossed Wallace’s features. “Let’s go pound some food down while there’s still light left in the day. Then we can think about who to get started on next.”
+
+“Not many left,” Arwin said cheerfully, heading out for the street with Wallace and Ida on his heels. “The choice is definitely starting to get easier. We’re making good time.”
+
+“Real good time,” Wallace said from behind him. “Might even start having some room to make a few little extras to help out. You never know what’ll be useful.”
+
+“Yeah,” Arwin said, nodding. “I don’t even want to let my thoughts wander in that direction yet though. There’s more to do. I’m just not going to try to do any of it quite yet. Not without refilling my magical reserves and getting a bit of rest. I honestly didn’t expect Koyu’s armor to take that much out of me.”
+
+“I’d wager that thing was more complex than Gehenna,” Wallace said. He was silent for a moment. Then he snorted. “But certainly not more dangerous. That armor of yours is a menace.”
+
+“Well, it’s got a different purpose,” Arwin said. The smile on his lips faltered slightly. “Hopefully one that won’t be needed for too much longer.”
+
+“Yeah,” Wallace said. “But until then, I think we’ll all be more than grateful to have it on our side.”
+
+***
+
+The rest of the day passed easily. It was already late in the afternoon when Arwin emerged from the Armory alongside his fellow smiths. They joined Koyu in the common room of the tavern, where Lillia had already sent a stream of imps bearing plates of food in preparation for their arrival.
+
+Koyu barely said a word the rest of the night. He was too busy trying all the new meals. Lillia certainly seemed to enjoy it. She sent plate after plate, each one with different textures and flavors. It seemed that Koyu was an excellent taste tester.
+
+They were soon joined by the rest of the Menagerie. Everyone who wasn’t out getting their class Sunsetted sat down for dinner, and the Devil’s Den was quickly filled by the sounds of the Menagerie’s energetic conversation. Arwin could have sworn that Lillia’s cooking had somehow gotten even better again.
+
+She’d probably advanced her Class at some point recently. That or she was just getting more skilled. Perhaps it was a combination of the two.
+
+It wouldn’t have been quite right to call the gathering a celebration. They were all still more than aware of what was coming for them and what still had to be done — but something about Koyu’s new body had filled every single one of them with renewed vigor to do even more the next day than they had this one.
+
+Well, it was either that or it was the fact that watching a metal man pound back a dozen steaks in the span of a minute was quite an amusing sight.
+
+One of the two.
+
+There were still a few hours left in the day when Arwin and Lillia flopped down on her bed. But, before they could sleep, there was one last thing that both of them had to do — and Arwin in particular. After the creation of some of his latest pieces, Arwin had quite a bit of magical energy lingering within him.
+
+Enough that he couldn’t just leave it sitting around in wait without putting it to use. He briefly considered upgrading one of his many abilities. Improving [Awaken] or one of his smithing abilities wouldn’t have gone awry. But with the proximity of the upcoming fight with the Adventurer’s Guild, taking advantage of Sunsetting’s most unique ability was a bit too tempting.
+
+He needed to make his physical form more powerful.
+
+Preferably in a way that didn’t transform him into a grotesque creature. Arwin already had magma coursing through his veins. He’d been thinking for a short while on exactly what he could change that would make him even more powerful. Something that would be the most likely to be useful against the Adventurer’s Guild and whatever the Deempind was capable of…
+
+Well, he had one idea.
+
+It was a bit niche. But if it worked, well, it would certainly catch someone off guard.
+
+Arwin only needed around ten minutes to finish distributing his power. There was a hell of a lot of it, but the change he was making happened to be pretty structural. It wasn’t an easy one… and it certainly wasn’t a comfortable one.
+
+But then it was done, and Arwin was left panting for breath on the edge of the bed.
+
+“Arwin?” Lillia asked, concern in her tone. “Are you okay?”
+
+“Yeah,” Arwin replied. His voice was rough and scratched. “I’m fine. Just a tough modification.”
+
+Lillia’s hand pressed against the side of his face. It felt ice-cold in comparison to the heat emanating from within him.  He could feel her gaze tracing over him. “What did you change? I don’t see it.”
+
+“My bones,” Arwin replied. He raised his hand, then flexed his fingers. He’d also strengthened his muscles — just enough to ensure that the new weight of body held wouldn’t slow him down. His bones had gotten a hell of a lot heavier, and for good reason.
+
+Metal wasn’t exactly light. Especially not metal this strong.
+
+“Your bones,” Lillia repeated in disbelief. “Seriously?”
+
+“Weight is power,” Arwin replied. He gave her a tired grin. “And I figured if we go up against something strong enough to cut through my armor, having my bones be strong enough to catch a blade will go a hell of a long way in surprising somebody.”
+
+“I do suppose it would,” Lillia allowed. She gave Arwin a small push. He didn’t even budge. Then she let out a disbelieving laugh. “You’re not laying on top of me again. Not before I reinforce myself, at least. I’ll get squished.”
+
+Arwin winced. “Oh. Shit. I didn’t think about that.”
+
+“We’ll make do,” Lillia said with a small laugh.
+
+“What did you change?” Arwin asked. He ran his hand across her side. “I can’t see.”
+
+“Nothing visible,” Lillia said absently. “I just made the Den stronger. Just in case.”
+
+“That’s probably good,” Arwin said. “A lot stronger?”
+
+“A lot stronger,” Lillia said. “But that can wait. We’ve got a little time, and it’s still pretty early. We can think about something other than fighting for a little, don’t you think?”
+
+Arwin smiled. He let himself lean into Lillia — though not too much. He didn’t want to squish her. “Yeah. I do.”
+
+They retired to bed early that night. Both of them were so spent that they had little to say — but little needed to be said. Even without being able to see Lillia’s face, Arwin could tell that they both fell asleep with a faint smile lingering on their lips.
+
+Ideas simmered in the back of his mind about the next pieces he would make. They followed him into his dreams. Arwin dreamt of the items that still needed to be made to forge a truly free world. He dreamt of what would come when there was nothing at all left of the guild but a sour, fading memory.
+
+He dreamt of a future where he and Lillia and the Menagerie could live truly freely. A world where everyone could truly live freely.
+
+It was a nice dream.
+
+Arwin was quite enjoying it before a hand slammed down on his shoulder, tearing him from its warm embrace.
+
+His eyes snapped open.
+
+It wasn’t Lillia’s hand.
+
+Awareness slammed into Arwin like a hammer. He shot upright, extending a hand for Caldera before he’d even fully risen from the bed.
+
+“Arwin,” One said.
+
+Arwin froze. Even in the darkness, he recognized the other man’s voice.
+
+“Who — what?” Lillia asked from beside Arwin. He heard her shift to stand alongside him. “What do you think you’re doing in our room, Eleven?”
+
+“Forgive me,” Eleven said from somewhere behind One. Her tone was uncharacteristically serious. “I didn’t mean to intrude. But we don’t have a choice. Time has left us without option.”
+
+“What?” Arwin asked. He blinked. “What are you doing here? And why is One here?”
+
+“The Guild,” One said grimly. “They are moving, Arwin. And far faster than I had hoped. Faster than I believed it possible. They are going to tear the kingdom apart in their foolish haste… but it seems they have begun the final stage of the cycle.”
+
+“The final stage?” Arwin’s stomach started to sink.
+
+“The current Hero and Demon Queen,” One said. “The Guild plans to wipe them away. Tonight. The instability we’ve sown will start to crumble without their doubt. We need them for this plan to work. And the Guild will not give us another chance.”
+
+“Shit,” Arwin whispered. Dread gripped his shoulders. But he didn’t ask what One planned.
+
+There was only a single reason why they would be here.
+
+“Our hand has been forced. Perhaps the Guild is aware of this. They will be ready for Setting Sun. But they will not be ready for the Menagerie. The Deepmind is unguarded,” One said in a tone little more than a whisper and with more iron than a razor-sharp sword. “There will never be a better opportunity. There will never be another opportunity. If we are to succeed, then guild must fall. Tonight.”

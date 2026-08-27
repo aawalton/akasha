@@ -1,0 +1,199 @@
+---
+id: d6d5057a-e927-5189-9ab8-a372d72949d7
+page-type-slug: story-chapter-royal-road
+title: "346. Willy's Will (Start of Volume 5 Part 3)"
+slug: 0048-346-willys-will-start-of-volume-5-part-3
+partOf: salvos
+position: 48
+ownLength: 2168
+unit: words
+publishedAt: 2022-05-19
+link: "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/909778/346-willys-will-start-of-volume-5-part-3"
+royalRoadId: "909778"
+---
+
+346. Willy's Will
+
+He went by many names. Far too many to even remember. All his life, he’d been worshipped. Revered as though he were a god. He’d been known as Ayati, Adash’s Deity of Day. Bodha, the Sun Spirit of Timira. Or Citta, the Hearthkeeper of Zaetya.
+
+If he were a mortal, he’d be nearly five thousand years old. And the last millennia had been spent in the Mortal Realm, where he grew lazy. Weak and conceited. But most of all— lonely.
+
+Being exalted was an incredibly lonely thing. It meant he had no friends. No companions. All that surrounded him were mortals who saw themselves beneath his station. It was like he’d been crowned as king when he didn’t want to be king. Imprisoned in the role of a god.
+
+He thought his life would never change. Not until he met her.
+
+She was an idealistic young woman. She didn’t treat him with the same reverence as the others. And perhaps that was because of her background. She was different. She was unlike the others who spent all their time praying to him— he couldn’t even hear their prayers!
+
+That was because she wasn’t a Human.
+
+It was the Humans who placed him on this pedestal, and the very fact that she wasn’t one of them already made all the difference in the world. She took him away from them— brought him with her to explore the world. To become an adventurer who’d help all those who were in need.
+
+Her name was Nynen. A Cyclops from Ajih. She was his first and only master. A free soul who’d swoop into danger without a second thought. And that was how she died: at the bottom of the Bloodied Gulf, trying to save him from the wrath of a group of [Evolved Centinels].
+
+After her death, he’d felt like he was alone again. Like nothing mattered once more. He just… existed. He lived amongst a sanctuary of monsters. A haven for the lost— for those just like him without a place in the world. A [Will O’ Wisp] whose flames burned softly. Flickering like the fire had exhausted all its fumes.
+
+Then a strange girl entered the Bloodied Gulf. A Demon who went by the name of Salvos.
+
+She reminded him of Nynen. That fearless— almost reckless— desire to always face the odds and come out on top. She promised the monsters of the haven that she’d help them escape. It sounded insane. He didn’t even think it was possible. Yet, she did it.
+
+She killed an [Ancient Centinel]. She learned two Grand Skills. She surpassed his level in a matter of weeks. And she even gave him a name.
+
+Willy. That was the name he’d bore since he met her. Truthfully, he didn’t think he’d ever go with another name since Nynen’s death, but now he did. Furthermore, he was following the girl. The Demon. Salvos.
+
+Why was he following her around? He didn’t know. Perhaps it was because she reminded him of Nynen. Or perhaps it was because he didn’t have anywhere else to go. But—
+
+Willy glanced over at Salvos. The girl was happily skipping down the gilded hallway, giddily whispering to herself over and over as her companions followed.
+
+“I’m finally going to see Edithe again! I’m finally going to see Edithe again—”
+
+If he was being honest, he was just glad he wasn’t alone again.
+
+After weeks of arduous travel, they’d finally arrived at Alyras. It wasn’t the largest city in the Helbir Plains. In fact, it wasn’t even home to the greatest military power here. It was simply the current city state that was in charge of the Helbir League.
+
+Edithe Dawnrise wasn’t sure why this was their destination. She wasn’t the one in charge of leading this army of adventurers. Companies from all across the western and even some of the southern nations in the Human lands banded together for one reason and one reason only: Helena Warshade.
+
+The leader of the Rising Veterans Company— one of the Three Honorable Companies of the Human lands. Also an Archmage of Mavos Academy. And the second highest-leveled [Mage] in the world. Some even had contended that she was the strongest [Mage] in the world, since the highest-leveled [Mage] in the world, Clayton Skyshredder, was more of a researcher than a combatant.
+
+Edithe didn’t know enough about either of them to make any concrete statement. But after just meeting Helena Warshade, she could see why she held such a reputation in the first place. The leader of the Rising Veterans Company was incredibly powerful. She could change the weather with just a wave of her staff. Even in a room full of Elites, she'd stand above them through her sheer presence alone.
+
+And it was not just strength. It was wisdom too. Helena Warshade was intelligent. Smart beyond her years, even though she was old. Although, she didn’t look nearly half her age.
+
+So there had to be a reason why the adventurer army was in Alyras. Perhaps it was to negotiate with the Helbir League— forge an alliance with them to bring down the Primeval Demon. Or maybe it was simply where the various adventurer armies were going to meet up.
+
+Edithe knew that the other Honorable Companies— the Remembered Order Company and the Forsaken Company— were mustering up whatever forces they could as well. It was their top priority to bring down the Primeval Demon. They had all agreed upon that.
+
+Whatever the case was, they were here in Alyras and they were here to stay. For now.
+
+“Looks like they’re throwing a party to welcome us.”
+
+Celine, one of Edithe’s closest friends, observed. Edithe looked to the edge of the city state and saw a large crowd gathered just outside its walls. They cheered and shouted, celebrating the arrival of the Rising Veterans’ adventurer army.
+
+“For good reason! We’re here to save the day and beat up that Primeval Demon!”
+
+A voice exclaimed. Edithe looked back at the young woman clinging onto Celine. Nora. An adventurer from the Northbury Troops. She swept her blue hair back and continued.
+
+“...or die trying.”
+
+“Come on, Nora. You’ve gotta have more confidence than that.”
+
+Celine chided the blue-haired woman with a grin.
+
+“Puff up your chest and say it with me: We’re here to save the day and beat up that Primeval Demon, or die trying!”
+
+“I don’t know if we should be enthusiastic about dying, Cel.”
+
+They both laughed as Edithe just watched on. Then she cast her gaze past her friends— past the gathering outside of Alyras. Her eyes focused on something camped beyond the city’s walls. It was an encampment. Edithe stared at the flags flying high above the tents.
+
+“That’s…”
+
+She narrowed her eyes. And someone else finished her sentence. The leader of the Valiant Dreamers Company— her company— stepped forward.
+
+“That’s the Merryster Family’s sigil.”
+
+Hadrian spoke softly. His eyes were fixed on that flag. Edithe raised a brow, puzzled.
+
+“I think I have heard of them. But why are they here?”
+
+He didn’t answer. Instead, he shook his head, gesturing at other flag designs that were flown throughout the encampment.
+
+“And that’s the Norwood Family’s flag. The Veridian Family’s flag. The Marins. The Patels… they’re all very influential families. Powerful, although some more than others. And—”
+
+Slowly, he turned to face Edithe. He closed his eyes, speaking in resignation.
+
+“And they’re Vampires.”
+
+“Oh.”
+
+That was all Eidthe said.
+
+—--
+
+Vampires. They were known as Demon Slayers. Demon Hunters. They were notorious throughout all of the Human lands for this reputation. They’d been elevated to nobility for their actions of the past. But the layperson didn’t know which of the tens of thousands of noble families out there were actually composed of Vampires.
+
+After all, Vampires worked from the shadows. They were the hidden protectors of Humankind. So since they were here, that was a good thing… right?
+
+Except, Hadrian wasn’t too enthused about their presence. In fact, he looked rather worried. And Edithe knew the reason why.
+
+Hadrian was a Vampire. More specifically, his father, Baris, had been the Head of the Slydrift Family. One of the Five Greater Vampire Families. Before they’d been driven to destruction by the other Greater Vampire Families.
+
+Edithe wasn’t too certain of the details. And Hadrian wasn’t either. He just knew that—
+
+“It was the Crimsonfangs and the Veridians who destroyed the Slydrifts.”
+
+Hadrian spoke in a daze as the adventurer army set up their own encampment outside of Alyras. He glanced over at the flying flags and the other encampment a few miles to the west. He bit his lower lip.
+
+“I don’t see the Crimsonfang Family’s flags anywhere, so at least that is one problem gone. But the Veridians have… a strong influence over the Helbir League. If they find out that I’m here…”
+
+He was worried. Understandably so. But Edithe placed a hand on his shoulder, speaking reassuringly.
+
+“You’ll be fine Hadrian. I highly doubt the Veridians will be able to recognize you as a Slydrift.”
+
+After all, he wasn’t raised as a Slydrift. He hadn’t even known he was one until recently. Edithe continued.
+
+“And even if they recognize you, they have no quarrel with you. The Slydrift Family is gone. You are Hadrian, the leader of the Valiant Dreamers— our leader.”
+
+“Edithe…”
+
+He looked at her, and she wrapped her arms around his neck. She spoke in a soft whisper.
+
+“Even if you are a Vampire, you were never raised as one. They won’t raise a finger against you. No one in the company will let that happen.”
+
+She held him in that embrace for a moment. He closed his eyes, slowly returning the hug.
+
+“Thank you.”
+
+The two remained silent. Neither said anything, simply luxuriating in their presence. Then a voice broke out, interrupting them.
+
+“Hey, uh, I don’t want to interrupt you guys, but I think we’re needed for something.”
+
+They turned to face Celine. She scratched the back of her head.
+
+“Bad timing?”
+
+Hadrian flushed, drawing back. Edithe just rolled her eyes and faced Celine.
+
+“Not really. What’s going on?”
+
+“Dunno.”
+
+Celine shrugged.
+
+“Apparently there’s big news. Helena Warshade herself is going to make an announcement.”
+
+Edithe exchanged a glance with Hadrian. He didn’t seem like he knew anything about this. She paused— she thought of Jake. Of Helena’s meeting with Orbur Vale a few days ago. And she had a thought.
+
+“Do you think Helena’s going to announce the truth about the Iron Champions? That they were led by Demons?”
+
+That would be big news. Yes, the Valiant Dreamers had tried to get the news out when they discovered it. But they were largely ignored, especially following the destruction of Nightsveil. It was taken as mere slander— not much to substantiate it. And when the True Valiants broke off from the Valiant Dreamers, Hadrian and Edithe had been too busy dealing with that to try to prove their claims.
+
+But Helena would corroborate it. And perhaps it would draw more allies to them. Edithe hoped for that. But as the red-haired woman strolled through the encampment, she had an inkling of a feeling that that wasn’t the case.
+
+“Did you hear—”
+
+“...it was terrible…”
+
+“—are you serious? Him?”
+
+Edithe frowned. She listened to the whispers. The rumors being spread by the gathering adventurers. But she couldn’t exactly discern what it was. The Valiant Dreamers eventually joined the crowd at the center of the camp.
+
+Helena Warshade was already there. She stood atop her floating cloud, looking down at a piece of parchment. Her face was pale, although her expression didn’t change. Finally, when she was ready, she descended from the cloudy sky.
+
+She addressed the crowd as her voice was magically amplified for everyone in the encampment to hear.
+
+“Just three hours ago, I received a report. I did not want to believe it at first, but I have confirmed its veracity. It is as follows.”
+
+Edithe narrowed her eyes.
+
+“A report?”
+
+“What could it be?”
+
+Hadrian was just as confused as the red-haired woman. They both quietened down as Helena continued.
+
+“Yesterday, at nightfall, the Primeval Demon assailed Westshield, the largest border city in Shedos. The Remembered Order Company and its allies were in the vicinity and moved to support Westshield.”
+
+There was a pause. Edithe watched as Helena showed her first signs of any emotion. The leader of the Rising Veterans Company hesitated, lips quivering. A susurration through the crowd, and she continued.
+
+“And… after a difficult battle, I regret to inform you all that the Remembered Order Company was defeated and their leader, Mori Gladius, the Champion of the Human Lands, was killed.”
+
+Edithe’s eyes grew wide. Hadrian took a step back. Even Celine was surprised. Pandemonium broke out amongst the adventurers as the news settled in— that Mori Gladius, Champion of the Human Lands, and one of the highest-leveled Elites in the world, died by the Primeval Demon.

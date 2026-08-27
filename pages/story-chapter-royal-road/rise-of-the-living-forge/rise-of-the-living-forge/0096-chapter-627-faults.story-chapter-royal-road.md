@@ -1,0 +1,121 @@
+---
+id: 96fb76d2-cb96-5ba2-abc2-1a2d36188391
+page-type-slug: story-chapter-royal-road
+title: "Chapter 627: Faults"
+slug: 0096-chapter-627-faults
+partOf: rise-of-the-living-forge
+position: 96
+ownLength: 1970
+unit: words
+publishedAt: 2026-08-05
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3773202/chapter-627-faults"
+royalRoadId: "3773202"
+---
+
+The joint armor sets for Vix and Art went without hitch. This wasn’t their first project working together anymore. Even Ida had a bit of experience working alongside Arwin and the others at this point. And despite any worries that Vix and Art had initially borne, the two of them did great.
+
+Adding them into the song proved to be incredibly easy. Perhaps it was because they had extensive experience sharing power because of their magical bond. Arwin didn’t know for sure. It didn’t really matter. At the end of the day, what he cared about was the fact that their armor was finished in near record time.
+
+Vix’s armor was a sallow gray. Not quite dark enough to be black. It was relatively plain, save for the carvings Ida had covered it with, and had no overly flashy components. The armor wasn’t all too dissimilar in design from the Chameleon’s Shadow, which Arwin had made for Rodrick. It was perfect for being relatively easy to miss, which suited an assassin very well. The only accents on it at all were faint red gems studded on the insides of her wrists.
+
+Art’s armor followed the same philosophy, but with different materials. In the place of sleek grays were dull yellows, almost like the light of the sun coming through a thick cloud of fog. His armor was considerably lighter than Vix’s. But neither of their suits were anything near what could be called heavy.
+
+Full plate would have been too much for either of them. Instead, the focus had been to create equipment that would give the two as much protection as possible for as little restriction and drawback as possible. Neither Art nor Vix would be in a good spot if they took a direct blow.
+
+Armor like what Arwin used would be completely useless on them. It would be too heavy and unwieldy, and they wouldn’t be able to get any real use out of the incredible defensive capabilities it had. What the siblings needed was equipment that would keep them light on their feet and protect them from any glancing blows that happened to land.
+
+Well, that and something that would considerably boost their existing abilities. Both of them had very dangerous powers for battle. Even with Art’s leg, his magic made him a formidable opponent so long as he had time to plan the fight out a bit. Neither of them were going to suddenly be on the front lines. Arwin just needed them to be as strong as possible in their respective abilities.
+
+And he had a feeling their new equipment would suit them perfectly. The sets didn’t actually grant any inherent abilities that were all that out of the ordinary. The enchantments within them were all basic — increased magical and physical protection, minor self-repair so long as they had the magical energy to spare, and enhancements to limit the weight of the already light metal.
+
+Where this particular set truly shined was in its core ability. Whenever one of the two used their magical energy, it would gather a portion of it and cycle it into the other, empowering them temporarily. And the more magic they used, the more powerful the effect became.
+
+It was a simple enchantment in concept. It was also an incredibly powerful one. So long as Vix and Art managed to stay in the fight for a considerable amount of time and continued using their magic… they would grow magnitudes in strength. The effect was theoretically unlimited so long as they had magical energy. And if Lillia packed them enough food — well, that fairly simple enchantment would become monstrous.
+
+Despite how relatively straightforward it had seemed in concept, actually making it work had taken Arwin and the others the better portion of the day. The enchantment was considerably harder to pull off than it had seemed.
+
+But they’d done it. The Mesh certainly agreed. They’d all gotten quite a significant amount of magical energy in return for the creation of the two new sets.
+
+Dusk and Dawn.
+
+And as Arwin watched Vix and Art trying their new sets on, he couldn’t help but feel like it would have been hard to choose better names for them.
+
+“This is… strange,” Art muttered. He shifted his weight uneasily. He clutched his walking stick tightly, as if holding on for dear life.
+
+“It is?” Arwin frowned. “What about it? It should have been sized properly. Did we screw something up?”
+
+“No, no.” Art hurriedly shook his head. “Not like that. It’s my leg. It feels a bit… easier to stand on. Why?”
+
+“Ah,” Arwin said. He grinned. “I worked a little bit of something extra in. It distributes a bit more of your weight onto your good leg while adding some support to your weaker one. It’s not as strong as a full on brace or something like that. Didn’t want to weigh you down too much. But it should help a bit if I did it right.”
+
+Art shifted his weight once more. Then he nodded. “It… yeah. It works. Better than I could have expected. Not as good as a stick, but I can move.”
+
+“And it’s so mobile,” Vix said, twisting her top back and forth to test the full range of her movement. “It feels more like I’m wearing leather than metal. This is incredible.”
+
+“Of course it is,” the armory said. “I made it.”
+
+“We made it,” Wallace said with a gruff laugh. “And that includes the two of you. Your desires would have been incorporated into the final results. That’s how the song works. Looks like it turned out pretty well. I definitely wouldn’t recommend testing the impact resistance, though. These are the lightest sets we’ve made.”
+
+“They will hold up under most blows,” Koyu said. “But do not go seeking them out. And if you are struck too many times in succession, it is likely the armor will falter. Ensure that you keep that core ability active to keep sharing magical power during a fight. It should make up for a lot of the slight structural sacrifices so long as you use it properly.”
+
+“We will,” Vix said. She swallowed, her hands clenching at her sides. “First my heart. Now this. I don’t know how to thank you. I don’t think there’s any way we could pay this back. But if there is—”
+
+“Don’t,” Arwin said, raising his hand as a small grin crossed his lips. “Because I know what you’re about to say. Not how this works. We didn’t give you that to put you in debt. It’s a gift. But if that feels too much, then just remember that you’re going to need it much sooner than any of us would like.”
+
+“We know,” Art said. He jabbed his crutch back under his arm and gave them a nod. “We’ll be ready. It won’t take long to adapt to this. Don’t worry. You can count on us.”
+
+“I already am,” Arwin said. He clapped the two of them on the shoulders. “Now go eat some food. Making armor like this is draining. Get some rest. Then get back to work. Never bring untested gear to the field.”
+
+The Armory shot Arwin a look. He ignored it.
+
+“We will,” Vix said, giving Arwin a sharp nod. She and Art headed out of the tavern, and the smiths all watched them leave.
+
+“Not bad,” Koyu said. “Perhaps better than not bad. That was an impressive piece of work. The Mesh rewarded us well.”
+
+“It was a tough one,” Wallace said. The dwarf tugged briefly on his beard. “Honestly, I can’t believe we finished that tonight. I really thought linking Dusk and Dawn was going to be much harder than it actually was — and it wasn’t easy. Ida does some good work. I don’t think we could have done that anywhere near as well as we did without her runes guiding the sympathetic magic.”
+
+Ida reddened. “I really didn’t do that much.”
+
+“You did,” the Infernal Armory said. “Runecraft and fine working is beyond Arwin’s lumpy hands. I am similarly unskilled in them due to his lack of knowledge.”
+
+“Hey,” Arwin said. “That’s not fair. You can’t blame me for not knowing something.”
+
+“My knowledge is yours,” the Armory said. “If you had learned about runes, then I would have too. Thus, it is your fault.”
+
+Koyu’s lips twitched in amusement. “I must say, there is a small point to be made there. Perhaps you should continue to learn more aspects of smithing. The Armory magnifies anything you can do. So if you are a great deal more knowledgable, then it will be as well.”
+
+“Very good. Listen to the lich,” the Armory said. “He is wise.”
+
+Arwin rolled his eyes. “I’ll work on that as soon as we have the time to. For the time being, I’ll just keep leaning on the rest of you.”
+
+“We’ve got your back,” Wallace said. “Don’t you worry. It takes many years to truly master just one aspect of smithing, much less multiple. That’s why there’s power in numbers.”
+
+“Yeah,” Arwin said with a nod. “Something to think about later. I’d love to go back and start from scratch at some point in the future. Really learn proper smithing techniques so I know what I’ve been doing wrong and what I’ve been doing right. Maybe in another life.”
+
+“This one,” Wallace said. He reached up to clap Arwin on the shoulder. “Just a bit down the road.”
+
+“Hopefully not too far down,” Koyu said. “Who is next? We should get started on the next set immediately.”
+
+“Elias, Maeve, or Vanessa,” Arwin said. “They’re the most likely to be directly in the front of a fight and neither have anything at the moment.”
+
+“Elias would probably be able to put it to more use,” Wallace said. “From what I’ve heard, he’s an absolute menace.”
+
+“He is powerful,” Koyu agreed. “But Vanessa is more talented than she appears. The overall improvement in our forces may be more significant if we enable Vanessa to fight at a higher level with a powerful set of armor. Elias is dangerous without it.”
+
+“He also uses those bandages,” Arwin said. “I wouldn’t want to get in the way of that. We’d have to figure out a way around it. Maeve could also use something, though. Her voice is a strong weapon.”
+
+“I think I might have been swayed by the argument for Vanessa,” Wallace said. He scratched at his chin. “There isn’t anyone else that’s just going to go charging into a mass of enemies screaming bloody murder. I mean, she’d likely do that one way or another. This makes it more likely that she actually survives.”
+
+Arwin snorted. “True enough. Especially if she’s appropriately motivated. I don’t think equipment for Vanessa would be too difficult. She’s pretty straightforward. Elias and Maeve will need more effort. I think we can start with Vanessa tomorrow morning and go from there.”
+
+The other two nodded.
+
+“Then we retire for the night?” Wallace asked.
+
+Arwin nodded. “Yeah. Don’t want to go pushing ourselves to the brink of death and end up too exhausted to keep at it. We’re done for the day. Great job, both of you. Thank you for your help. And tomorrow, we’ll do it again.”
+
+Koyu inclined his head in acknowledgement.
+
+“Works for me,” Wallace said with a shrug. “I’m going to go get some grub and crash. Until tomorrow.”
+
+“Yeah,” Arwin said, magic from the creation of Dusk and Dawn still prickling at the back of his mind and a myriad thoughts twisting in its forefront. Every step they took was another one toward victory. They were close. Arwin could feel it. They just needed to push a bit farther. “Until tomorrow.”

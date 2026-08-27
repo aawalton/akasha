@@ -1,0 +1,131 @@
+---
+id: b6e232f4-870c-530c-98ff-055ff34a508d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 588: Closer than expected"
+slug: 0156-chapter-588-closer-than-expected
+partOf: rise-of-the-living-forge
+position: 156
+ownLength: 1778
+unit: words
+publishedAt: 2026-05-11
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3382562/chapter-588-closer-than-expected"
+royalRoadId: "3382562"
+---
+
+Olive doubled over, bracing her palms against her knees as she gasped for air. Sweat soaked her tunic and her muscles ached so badly that she wasn’t even sure how she was still standing. She was exhausted. Every part of her mind begged for rest. Begged her to pitch back and fall asleep on the cold stone floor.
+
+Even the magical strength from her cursed arm had long since waned. She hadn’t gotten so much as a single request to kill anybody from it for hours. For the first time since it had attached to her body, it hadn’t been bargained with or appeased — nor had it even been overpowered by her own will.
+
+It was just completely and utterly spent.
+
+Olive ground her teeth together. The world swam around her and she nearly lost her footing. Her head was so muddled that her balance was completely shot. But, through sheer force of will alone, she forced her battered form to remain standing upright.
+
+“I’m… not done,” she hissed.
+
+“Then look at me,” came the response. “Because right now, it looks like your opponent is the floor.”
+
+Olive forced her gaze upward.
+
+Standing before her was Two.
+
+Even though he was in much better shape than Olive, he hadn’t escaped unscathed. His face was scratched and he bled from a number of different wounds covering his body. Two had shed his armor some time ago to fight Olive in plain clothes, a decision that had granted him at least one nasty cut that would probably scar if no healer got around to taking care of it.
+
+They stood in a sea of broken and splintered wood weapons. Handles and snapped blades piled in mounds around them. Many of them had blood splattered across their surfaces.
+
+“I’m not done,” Olive repeated.
+
+Two smiled. “I can tell. But your arm seems to be.”
+
+Olive glanced down. Her arm hung at her side like a lump of, well, wood. She tried to lift it. The arm didn’t so much as budge. It was stubbornly useless. Annoyance flashed through her and she pulled harder, but the arm refused to budge.
+
+“What did you do?”
+
+“Me? Nothing.” Two approached Olive, raising his hands palms outward to show that he had no plans of attacking her. “That was all you. Well done. Do you know what I’ve been preparing you for, Olive?”
+
+“Sunsetting.” She couldn’t muster up the energy to offer up any answer more detailed than that.
+
+“Obviously,” Two said. “But I was speaking more specifically. This particular training. It wasn’t just for Sunsetting. It was for you. Your arm, to be really particular.”
+
+“My arm?”
+
+“It wasn’t yours,” Two replied. He flicked the wood. It made a dense thunk. “This thing was tolerating you. But it wasn’t yours. Not truly. You had to fight with it every single time you wanted it to do anything that ran parallel to its desires. I saw you fighting it the entire time we were training. What did it want to do?”
+
+Olive hesitate for a moment. She wasn’t so sure if answering that question was the smartest move. But Setting Sun didn’t seem like they were here to antagonize them. Two might have just beaten the ever-loving shit out of her, but she’d returned the favor to a pretty satisfying degree.
+
+“To kill you, mostly,” Olive said.
+
+Two snorted. “I’m honored. And now? It seems its desires have fallen silent, have they not? But the really question is… how long has it been silent? Because I don’t know about you, but I noticed your motions getting a lot smoother the longer the fight went. Almost as if your body started responding the way it should be.”
+
+Olive paused. She dug through her thoughts, trying to piece together her memories of the fight. It was a blur. They’d been at it for so long that she really couldn’t recall anything specific. But even still, Two’s words sounded right. It had been some time since her arm’s last complaint. It certainly hadn’t been a dead weight at her side all this time.
+
+“What changed?” Olive asked, her brow furrowing. “I didn’t do anything different.”
+
+“Your will overpowered it,” Two replied. He clapped Olive on the shoulder. “You showed your arm — and me — that you have more will than it does.”
+
+“So it’s going to listen to everything I want now?”
+
+Two let out a bark of laughter. Then he shook his head. “Oh, no. I’m sorry. I didn’t mean to give you that idea. I’m afraid your arm isn’t going to be having any major changes of heart. If it’s been this stubborn this long, I highly doubt getting shown who the boss is will change anything immediately. Maybe the future will do something more, but the purpose of this wasn’t to cow it. It was to prove that you’re more powerful.”
+
+“Why?”
+
+“Because when you Sunset, that arm of yours may not be so happy letting you claw all the power for yourself.” Two’s features turned serious. “And it is absolutely vital that you overpower it, Olive. Your willpower must be greater. You need to understand this. We have never had someone with such a cursed item attached to them attempt a Sunsetting. Not even One knows what will happen. So we had to be certain you were stronger than your arm before we even let you try.”
+
+Olive swallowed. The idea of her arm somehow attacking her thoughts while she was distracted to wrench control of her body or influence her Sunsetting was… deeply concerning.
+
+“So that won’t happen now?”
+
+“I believe that you won’t let it,” Two replied simply. “If you can overpower it here, then you can overpower it tomorrow.”
+
+Olive started to nod. Then she froze.
+
+“Tomorrow?”
+
+“That’s right.” Two smiled. “You’ve more than proven your ability. Once you’ve rested and returned to full strength, there will be nothing further to prepare you for. The only step remaining is the last. Tomorrow, you Sunset your class.”
+
+***
+
+The sun had set when Arwin and Lillia left the Infernal Armory. Koyu and the rest of the Menagerie had already cleared out anyone who was straggling on the street, leaving the air silent as they stepped out night. The lingering satisfaction that only came with the creation of something truly enjoyable still clung to the back of Arwin’s thoughts.
+
+Not a word needed to be said. Both of them set a path for the Devil’s Den. Though Lillia’s armor hadn’t ended up draining them of all their magical energy because of the improvements to their process and the ease of synchronizing, Arwin was starving — and he suspected Lillia felt the same.
+
+There was a faint ache deep in the pit of Arwin’s stomach that begged for more food. Magical food. That particular part was a bit unsettling. He’d been eating Lillia’s cooking daily for quite some time now. That had almost entirely removed the most dangerous parts of the Hungering Maw.
+
+He couldn’t actually remember the last time in recent memory where the ache had returned. Today alone, he’d had multiple things she’d made, each which had been packed full of magical power. He’d felt that very power entering his body as he worked.
+
+But that did nothing to remove the faint ache, which grew faintly stronger as he focused on it almost as if it reveled in the attention. That was slightly concerning. It looked like he wasn’t the only one getting stronger.
+
+Could the Hungering Maw be getting more powerful the more magical power I have stored within me? I just got a lot from the creation of Lillia’s armor. I haven’t used it yet, but I suppose it’s still a part of me, somewhere deep down. How much stronger can I get before the Maw ends up consuming me?
+
+No. That’s not the way I can think about this. I’ve tamed the Maw every time before, and this is just a tiny ache. I’ve still got a lot of time before I need to eat magic. It’s not even like I need to make anything. Lillia will have more than enough. I just need to keep getting stronger and working on ways to control this.
+
+“Is everything okay?” Lillia asked, catching a glimpse of his face.
+
+Arwin nodded. “Yeah. Just a bit distracted with my thoughts. I’m looking forward to eating something. You have any leftovers from dinner or the like?”
+
+“Leftovers?” Lillia scrunched her nose. “Who do you think I am? I sell out. Every night. It’s been a while since I haven’t.”
+
+“I don’t know,” Arwin said with a playful grin. “I vividly remember a certain someone struggling to even get a single customer not all that long ago.”
+
+Lillia rolled her eyes, not even missing a step. “I don’t think I remember a line of people at your door either.”
+
+Both of them laughed. But, before they could make it up to the door of the Devil’s Den, a faint ringing sound caught Arwin’s attention from one of the ruined buildings off to their left. He stopped walking. Lillia did the same.
+
+“Did you hear that?” Arwin asked, his brow furrowing as he pushed his other thoughts to the back of his mind to be dealt with later.
+
+“Yeah,” Lillia said. “It sounded like striking metal.”
+
+Arwin approached the building. The sound came again, seemingly in a rhythm. It wasn’t very loud, more of a faint clinking that he would have missed had the street not been so quiet and they not been passing so close to the house it came from.
+
+The complete lack of a door to the ruins made it quite simple for Arwin to glance inside.
+
+Then his eyebrows rose.
+
+Lillia’s head popped up beside his.
+
+Sitting across from them was Ida. She’d sat herself upon a pile of bricks and before a small anvil. Candlelight from a flickering lantern illuminated her features as she tinked away at a silver chain bracelet, hammering the links into a closed loop with a tiny hammer. Faint motes of magical energy twisted around her fingertips, imbuing themselves into the jewelry.
+
+It wasn’t anywhere near a huge amount of magical power… but it was magic nonetheless. She was, after all, a Dwarven Master Smith.
+
+Neither Arwin nor Lillia said a word. They didn’t need to. The two simply watched silently for a moment longer, then stepped back and quietly headed for the Devil’s Den. They were both thinking the same thing.
+
+It seemed the next of the crafter classes to join the Menagerie had been a lot closer than either of them had expected.

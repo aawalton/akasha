@@ -1,0 +1,131 @@
+---
+id: 1b84b864-86bc-5caa-bb5c-06e5a2d06a04
+page-type-slug: story-chapter-royal-road
+title: "Chapter 538: Silent Thorn"
+slug: 0061-chapter-538-silent-thorn
+partOf: reborn-as-a-demonic-tree
+position: 61
+ownLength: 2305
+unit: words
+ownProgress: 2305
+publishedAt: 2026-02-25
+link: "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3092096/chapter-538-silent-thorn"
+royalRoadId: "3092096"
+markedReadAt: "2026-06-29T19:03:37.682Z"
+---
+
+World Tree Canopy - the city of darkness, Umbraholme.
+
+Mistress Veilshade frowned. It was never a good sign when a black tulip slowly rose from the shadows to the height of a human in her cultivation abode.
+
+"You have my attention," Mistress Veilshade said coldly, annoyed that her research had been interrupted. Knowing that the beast tide was on the horizon and that internal tensions among the Council members were at an all-time high, she had opted to conduct research on shadow medicine rather than seclude herself in deep meditation.
+
+The black tulip withered to dust, and a human shrouded in a cloak of shadows stepped out.
+
+As expected, it was one of the Silent Thorns, an elite group of spies that Mistress Veilshade had raised to counter the Chairman's realm-spanning Eternal Pursuit Pavilion. She had given them that name mostly out of humor, as she had created the group for the specific purpose of being a thorn in the Chairman's side. What she hadn't expected was for it to propel her city, Umbraholme, into the new go-to place for buying and selling information.
+
+Something the Chairman had never outwardly expressed his anger against, but she knew that the decline of the Eternal Pursuit Pavilion's dominance damaged that old man's ego.
+
+"Lady Darkness, I have an urgent report," the Silent Thorn said with an indiscernible voice. "Emissaries from the Stratospire League, Luminarch Conclave, and the Mycothane Hive are here for an audience."
+
+Mistress Veilshade raised a brow. That was unexpected to say the least.
+
+People from the Luminarch Conclave regularly make their presence known; those sun-worshiping lunatics have always hated my city of darkness, but the other two canopy factions usually keep to themselves. What could they all possibly want from me at the same time? She pondered, not letting her thoughts be known to the Silent Thorn. Perhaps they want to propose a joint canopy faction alliance that will stand against Empyrea and its hundred noble houses.
+
+"Bring them to the meeting room," Mistress Veilshade said, dismissing the Silent Thorn with a wave of her shadow-wreathed hand. Now alone, she grew more concerned.
+
+"The Stratospire League possesses the greatest military out of the canopy factions," she mused to herself as she cleared her workstation. "Earning their ire would already be bad enough, but emissaries from all three of the major canopy factions are at my doorstep?" She racked her brain for a reason but eventually gave up and decided the best thing to do was to meet them. Even she didn't dare to keep the emissaries from three factions waiting for her attendance.
+
+***
+
+"Finally, the darkness answers our hounding," a disgruntled old man's voice greeted her as she stepped out of her tulip. It withered to dust in her wake, and she surveyed the three emissaries one by one.
+
+Expecting the rude one to be from the Luminarch Conclave, she was a little concerned that it was, in fact, a white-bearded man clad in stormglass armor bearing the emblem of the Stratospire League who had made the remark. Beside him was a woman clad in a blindingly white and gold robe and adorned with a ridiculous pointed hat that just screamed look at me, and finally, another man with folded bug wings and a strange helmet hiding his features. They were from the Luminarch Conclave and the Mycothane Hive, respectively.
+
+"To what do I owe the pleasure?" Veilshade asked the white-bearded man from the Stratospire League, as he was the one seemingly taking the lead.
+
+"What deal did you strike with the Chairman?" the emissary snapped back, his face almost beet-red with rage.
+
+"Deal? You're going to need to be more specific," Mistress Veilshade said, subtly lacing her voice with her Monarch Realm soul pressure to remind these mere emissaries who they were talking to. She wasn't someone who would take such a tone directed toward her lightly.
+
+"Ahem," the bearded man cleared his throat and softened his aggressive posture, but only a little. It was clear that all three of these emissaries were furious about something. What it was, she still didn't know. Unless the Silent Thorn had gone against her orders and done something drastic without her knowledge, she could only imagine what had these three in such a rotten mood.
+
+"Let me start again. We've come to urgently discuss the sudden cutoff of golden sap to the canopy," the bearded man carefully explained, his keen eyes studying her face for a reaction. "All, except Umbraholme."
+
+That caught Mistress Veilshade off guard. "Cut off of golden sap? You're going to have to fill me in because I was deep in research until moments ago and haven't yet been brought up to speed on the matter."
+
+She felt the scrutinizing gazes of all three emissaries studying her face, and her honest confusion seemed to relax them somewhat.
+
+"The great Mistress Veilshade, leader of the Silent Thorn, is caught unawares? Improbable but not impossible," the bearded man muttered and stroked his chin contemplatively. "What do you two think of this?"
+
+"If Mistress Veilshade's confusion is genuine, then it seems this is a ploy by the Chairman to make us turn on one another," the man from the Mycothane Hive suggested, his voice distorted by his helmet that resembled a fly's eyes. She knew they used those helmets as magical artifacts to control the swarms of insects they had bred.
+
+"Perhaps, but I really doubt she has no involvement in the matter. Anything sinister around here has one of her many fingers in it," the woman from the Luminarch Conclave said spitefully, "but whether she knows or not doesn't solve the issue. Without golden sap, only Umbraholme will continue to prosper, and even if they share with us, it won't be enough." She paused and then dutifully nodded. "In light of recent events, I believe pitting us against one another is the Chairman's goal."
+
+"Just what is the Chairman thinking?!" the bearded man hissed, his stormglass armor flickering as if a trapped storm was within, ready to unleash its fury at a moment's notice. "Does he think so little of the canopy factions? Empyrea may have been dominant once, but the cracks are showing to anyone who cares to look. The hundred noble houses follow the Chairman only out of tradition. If we were to show our might, they would turn in an instant!"
+
+Everyone in the room nodded in agreement, including Mistress Veilshade. Those noble houses of Empyrea were not stronger than any faction by themselves, but their support could sway the tides of battle should a civil war break out. Right now, the Chairman held the majority, but if he showed weakness, they would no doubt switch sides to the highest bidder.
+
+"It seems the Chairman has taken us for fools," Mistress Veilshade said calmly, earning her the undivided attention of everyone in the room. "For now, I'll send what little supplies of golden sap I have to your three factions while my Silent Thorns conduct a thorough investigation into what is happening. Give me three days, that's all I ask."
+
+Mistress Veilshade knew when to compromise, and this was such a strange case. She needed information and time before she could act, as information was the only currency that appreciated in war. If a great civil war with Empyrea really did break out, billions would die, and the canopy would burn. It wasn't an outcome anyone wanted, but if there was something that could force such a dire future, it was limiting the golden sap supply.
+
+"Three days is asking for a lot," the Luminarch Conclave emissary said, clicking her tongue in obvious irritation. "But it will have to do. Ensure a detailed report is ready by then or get ready for war."
+
+Mistress Veilshade just smiled in response.
+
+The Luminarch Conclave emissary scowled and turned to leave, the other two following suit. The moment they left, Mistress Veilshade warped through the darkness and appeared in her court of the Silent Thorn. Many high-ranking members were waiting around a long table that seemed to extend into the endless blackness. None of their faces were visible, but their attention was all on her.
+
+"Trail all three of them," she said first. "What they claimed was frankly unbelievable. Until I've confirmed the golden sap really has run dry, we will not make any move on Empyrea for fear of the Chairman's wrath."
+
+The darkness shifted, and three of the high-ranking members vanished. It didn't take them more than an hour to return to their seats with news.
+
+"It's as they say," one reported, "the golden rivers have run dry. Only Umbraholme remains unaffected thus far."
+
+"It's as I feared," Mistress Veilshade sighed sadly. The long-running era of peace was finally at its end. She glanced around the room and cleared her throat. "Ahem, listen up. We are going to hit hard and fast. Whatever the Chairman is up to will inevitably cause a war, so there's no room to play nicely. You, you, and you, come with me. We are going to strike a sap harvesting outpost to learn more."
+
+In her opinion, there were two possibilities. The Chairman simply wanted war, and, judging by his attempt to make the canopy factions turn on Umbraholme, her city and spy network were likely his targets. The other, far more terrifying possibility was that the golden sap supply had run dry, and the Chairman had been left with no choice but to cut off the supply.
+
+Mistress Veilshade moved hastily through the underbelly of Umbraholme with three members of the Silent Thorn in tow like phantoms of the night. Approaching a secret dock below her residence, she swiftly boarded a private airship. Under the eternal twilight of the canopy, the airship, obscured by her shadows, dove down toward the many floating islands and the grand city of Empyrea.
+
+"Find me the closest and least guarded sap harvesting outpost. No more than two high-ranking Empyrea Guards should be present," Mistress Veilshade commanded as she lay back in her seat and rubbed her temple in frustration. This was bad.
+
+There must be a way I can somehow benefit from this upcoming chaos.
+
+Her city, her elusive position on the council, and even the Silent Thorns were inconsequential assets compared to her personal strength. All of these things could be stripped from her, but her own cultivation? That was all that truly mattered.
+
+Perhaps the real question I should be asking is: how does the Chairman benefit? If I can discern the method behind the madness and his end goal, I can dismantle his plans before they even see the light of day.
+
+"We have located a suitable sap harvesting outpost. Should we begin the bombardment?"
+
+"No, that will draw too much attention," she rose to her feet and strode toward the back of the airship. "How many guards are there?"
+
+"Two Nascent Soul Realm Empyrea Guards are confirmed, alongside five Star Core Realms," the Silent Thorn said.
+
+"Good, this should be easy," she nodded and rolled her shoulders. "I'll deal with them myself."
+
+Flicking her finger, the airship shrouded in darkness yawned open, revealing the bark of the great World Tree. The late evening glow could actually reach this region of the World Tree, unlike the area directly under the dense canopy where Umbraholme resided in permanent darkness. Each section of bark was the size of a mountain, layered thickly like dragon scales. Glancing down, she could see a blanket of cloud that served as a vague divide between the canopy factions and Empyrea. There were small islands of leaves poking through that really belonged to the massive branches lurking below the cloud cover, large enough to host cities.
+
+Cloaking herself in shadows, she jumped down through the clouds and floated close to the bark. There, hidden among the cloud cover, she found a small outpost built directly onto the World Tree's bark. The two Empyrea Guards noticed her approach instantly and tried to rally their subordinates to mount a counteroffensive, but it was too late.
+
+When faced with a Monarch, few could do anything but kneel.
+
+"Domain of the shadow garden," she commanded, and her Inner World expanded out to swallow the world before the Empyrea Guards could even blink. Landing on the porch of the outpost, the slithering shadows ending in tulips spat out the bodies in pieces. "Clean up this mess and stand guard for me," she said to the two Silent Thorns that landed behind her on swords.
+
+"Yes, Mistress," they replied in unison and got to work.
+
+She nodded and headed deeper inside. It didn't take long to locate the hole they used to harvest the precious golden sap.
+
+"What is this?" she muttered after finding the place filled with an indescribable miasma and no golden sap to be seen, only a thick, tar-like blood gathering in buckets. "No wait, this is sap too," she murmured, stringing it between her fingers. "Is this what the World Tree's sap has become and why the flow has stopped?"
+
+Gathering a load of the strange black sap into her spatial ring for further testing, she was about to pack up and leave when she sensed a disturbance in the shadow dimension. Something powerful had arrived on the Celestial Empire's borders.
+
+Swiftly leaving, the two Silent Thorns had cleaned up.
+
+"Mistress, we are receiving reports from Floridawn—" one began, but she knew what they were going to say.
+
+"I know," she said, cutting them off as she looked down and peered through the cloud cover. "I can see it too. An angel of darkness has descended upon our lands."
+
+Just what was going on?
+
+"Come on," she said to the Silent Thorns as she flew up toward the ship, "this is something I have to see."

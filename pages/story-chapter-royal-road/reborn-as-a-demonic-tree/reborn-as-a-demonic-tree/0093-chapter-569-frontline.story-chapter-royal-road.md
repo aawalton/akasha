@@ -1,0 +1,149 @@
+---
+id: a8f2f0b9-bf40-55d8-928a-5f06ea785538
+page-type-slug: story-chapter-royal-road
+title: "Chapter 569: Frontline"
+slug: 0093-chapter-569-frontline
+partOf: reborn-as-a-demonic-tree
+position: 93
+ownLength: 2120
+unit: words
+publishedAt: 2026-05-18
+link: "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3415297/chapter-569-frontline"
+royalRoadId: "3415297"
+---
+
+"House Virelios did what?" Mistress Veilshade looked up sharply from her desk, her gaze cutting into the reporting Shadow.
+
+"They are attempting to retake Floridawn, as per the missing Chairman's orders," the Shadow said.
+
+"I know activity on the frontline has escalated drastically in the last few days, but isn't this a little too hasty?" Mistress Veilshade mused. "They must be fielding quite the force to think victory is possible."
+
+The Shadow nodded. "A thousand Empyrea Star Core Realm and above cultivators have taken to the frontlines to fight back against the beast tide, but the true firepower is coming from two Monarchs who are going to bomb the flourishing city around the abyss."
+
+Mistress Veilshade raised a brow. "They aren't going to target the abyss itself?"
+
+"The abyss is guarded by two Monarchs and is shrouded in the dark god's power. It is known that gods derive their strength from followers, so they are going to target the defenseless city instead."
+
+"This.... is a terrible idea," Mistress Veilshade muttered as she rose from her desk, which was buried beneath carefully organized dossiers containing intelligence she had dispatched her finest Shadows to collect on every Monarch within the Celestial Empire. Affinities. Temperaments. Allies. Weaknesses. Nothing had been overlooked.
+
+There were not many Monarchs beneath the World Tree's canopy, and she knew each of them well.
+
+Still, there were enough to require selection.
+
+"Fielding a thousand Star Core Realm and above cultivators, I suppose that's possible if House Virelios is involved. They are the strongest family among the Empyrea nobles. I expected the nobles to get concerned as more of Floridawn falls and the beasts draw near to the World Tree's trunk, but this is insane considering they are bound to fail," she crossed her arms and glanced at the waiting Shadow. "Do you know which two Monarchs are carrying out the bombardment?"
+
+"We do. They are Droskan Virelios himself and a Monarch from the Mycothane Hive called Thal'korr, the immortal swarm."
+
+"The Mycothane Hive?" That was a surprise. As one of the canopy factions, she hadn't expected them to willingly team up with an Empyrea Monarch, especially since the canopy factions suspect that the Chairman is trying to make the canopy factions turn on one another over the tainted golden sap supply.
+
+"I could see a Monarch from the Luminarch Conclave as they despise anything evil, or the Stratospire League seeing it as an opportunity to remind the various factions of their might, but the Mycothane Hive?"
+
+She searched her pile of documents and found one on Thal'korr. As expected, the Mycothane Hive was incredibly difficult for Shadows to infiltrate, as they have control over the insects that live on the World Tree. Almost nothing was detailed about Thal'korr, aside from reports that his Monarch domain was called the Rebirth of a Thousand Adaptations.
+
+It allows Thal'korr to command a swarm of flesh-eating insects that rapidly evolve to adapt to their environment and to their opponents. If that extends to desolation Qi, then this might be one of the few Monarchs in the Celestial Empire that can force the All-Seeing Eye to get serious.
+
+She glanced up at the Shadow. "Do we know why Thal'korr is assisting House Virelios in this attack?"
+
+The Shadow shook his head. "I apologize, but his reasoning eludes us. Though the sentiment from the Hive seems to remain negative toward Empyrea, so there's a chance he's acting alone."
+
+Mistress Veilshade did not like that answer one bit. "The Shadows have been too focused on Floridawn and the All-Seeing Eye. We need to maintain our intelligence on the canopy factions as well."
+
+"As you wish, Lady Darkness."
+
+She set the report on Thal'korr down and drummed her fingers on the desk. "Do you know when this attack will occur?"
+
+"I believe tonight," the Shadow replied. "They are hoping the All-Seeing Eye's angel of darkness will make an appearance and wish to capture it."
+
+Mistress Veilshade paused her drumming and snorted. "They are doomed to fail, but I will at least watch their valiant attempt from the shadows."
+
+"There is another piece of news I believe you will find interesting," the Shadow said, moving closer to her desk.
+
+"Oh?" she mused as a sealed letter was placed atop the pile of papers. "What is this, an invitation?"
+
+"One of the Chairman's ancestors has left closed-door cultivation and is organizing a ball."
+
+"An ancestor?" Mistress Veilshade mused as she opened the invitation. It was a well-known myth that the Chairman had family members. Called the ancestors, they were all either missing or supposedly in closed-door cultivation. Little was known about them besides that they were as old as the Empire.
+
+The invitation was simple and straight to the point.
+
+A Monarch's ball has been arranged, and you are expected to join. The All-Seeing Eye's forces will also be in attendance, so we may settle our differences.
+
+The Crowned One.
+
+"The All-Seeing Eye will be in attendance?" Mistress Veilshade said, her eyes narrowing in suspicion.
+
+"It's not been confirmed," the Shadow said. "Though the strong wording suggests this ancestor got in touch with them somehow."
+
+"Or it's a fabricated lie to force our attendance. In the very slim chance that the All-Seeing Eye really does show up, any Monarch not present at that ball would be severely missing out. The question is, why does this ancestor host a ball and desire Monarch attendance?"
+
+"That we do not know," the Shadow said.
+
+Mistress Veilshade clicked her tongue in annoyance. "Things are getting difficult. The Chairman vanishes, one of his unknown ancestors makes an abrupt appearance, organizes a ball of all things, and the fools of Empyrea are launching an attack tonight?" She sighed and rose from her seat.
+
+Ren's Monarch-killing poison isn't ready yet, and neither Droskan Virelios nor Thal'korr is a possible target for assassination. Both are too strong, and while the winner is already decided in my mind between the All-Seeing Eye and these Monarchs, I want to see if the All-Seeing Eye can be pushed to display more of his powers.
+
+There was still so much she didn't know about the All-Seeing Eye and the movements within the political landscape of the Celestial Empire, which was unnerving her to no end.
+
+"Come on," she said to the Shadow. "Escort me to the frontline."
+
+***
+
+Ashlock had been rather busy the last few days waging war.
+
+After Kaida and Nymeria got together and had been enjoying their time in the library, he had teleported Janus and his disciple to Stella's abode in his Inner World to stay while awaiting her return from the Eternal Realm. Now, with nothing to do, he had settled his sights back on Floridawn.
+
+Things were going smoothly.
+
+Occasionally, he had the urge to go all out, show the Celestial Empire his true might, and free the World Tree from her suffering in one cataclysmic attack. But he managed to squash those urges with ease. Years of battles and bad decisions had tempered his patience.
+
+Like an army surrounding a castle and starving out its occupants, he was deploying the same medieval warfare tactic here. Slowly but surely, he was chipping away at their strength and patience with the beast tide and his desolation until it hit a tipping point.
+
+A tipping point he could sense coming. While his roots hadn't delved too deep into the World Tree's territory beyond Floridawn yet, he had enough observation skills to see the enemy gearing up for a counterattack. Earth and nature cultivators were working in tandem to erect massive walls, upon which turrets that could unleash elemental attacks were being placed. There was a tense mood in the air as the cultivators on culling duty fell back and regrouped.
+
+Something big was coming.
+
+"Elysia," he called out to the only Monarch he had stationed in enemy lines. "I'm noticing a lot of activity on the Celestial Empire's side. Be ready for an attack."
+
+The third eye in Elysia's forehead opened at his words, and she did not seem pleased at the news. "Surely they wouldn't dare step on your sacred ground," she said with disdain.
+
+"It would appear that after expanding our land closer to the World Tree in recent days, I have finally forced their hand. Should they make a move, I'll send Generals to assist."
+
+"They won't be needed," Elysia said adamantly. "I alone am enough to defend your sacred lands from the invasion of their filth."
+
+While Ashlock respected her confidence and strength, as she was a 3rd-stage reality-altering Monarch, he knew that if the Celestial Empire was able to set their differences aside and launch an actual invasion on his land, Elysia and the Hellroot Abyss would be obliterated. Luckily for him, Monarchs rarely moved or acted, so he had been left alone until now.
+
+Though that was also a problem, albeit to a far lesser degree, that he was running into despite his Monarchs having access to the Eternal Realm and his resources. When thinking about which Monarchs he could call upon to assist Elysia should something happen, there weren't many. Zephyrine was independent and recovering her Qi in the spiritual spring, Ao and Maple were with Stella in the Eternal Realm, and Kaida was also recovering after his duel with Astralis for Nymeria's hand.
+
+Magnus and Larry were both available, as was Nyxalia, his only Mythical rank summon, whose location was unknown. Since she found his soul too enticing to devour, she had distanced herself and gone hunting in the depths of the wilderness.
+
+"Do you think Cyphion will fight for us?" Ashlock asked. His loyalty was rather questionable from his perspective, but his presence in the Hellroot Abyss helped ward off invasion.
+
+Elysia smiled darkly. "Oh, I've been planting the seeds of loyalty in his mind over the last few days. I promise that he would be more than thrilled to lay his life down in your honor."
+
+That... was terrifying. Not only Elysia's words but her delivery of them. Her appearance didn't help either, now that she was a weird mixture of human and tree, with black vines for hair and bark coating some of her bare skin, looking like dragon scales. A twilight mist constantly shrouded her like a veil, filled with what appeared to be floating spectral eyes that were unsettling, to say the least.
+
+She shifted through the halls of the Hellroot Abyss and found Cyphion. Ashlock left her to brief him on the situation and refocused his attention on the front line. Seeing them put so much effort into erecting the walls gave Ashlock an idea.
+
+"If they are planning to attack anyway, a little pushback won't hurt," Ashlock mused and called upon Veylorak, the Dread Maw of the Molten Depths. During his fight with Ig'Zal, he had defeated Veylorak and turned him into an Ent, planning to use him against Ig'Zal.
+
+Until now, he hadn't had much use for the peak Nascent Soul Realm two-thousand-meter-long horror of the deep, but a siege like this offered a unique opportunity for him to shine.
+
+An hour later, the forces of the Celestial Empire felt Veylorak approaching. His Qi signature was like a burning storm underground as the monster shifted through the earth, leaving molten scars on the surface in his wake.
+
+Panic spread through the gathered cultivators. With most being in the Star Core Realm, the approaching monster might as well have been a death sentence in molten earth.
+
+"One of the dark god's monsters is approaching!" a Nascent Soul Realm commander shouted. "Inform the Monarchs!"
+
+Ashlock chuckled. They were far too late. He had managed to shroud Veylork's approach with his desolation, so by the time they noticed, he was already upon them.
+
+The ground below the battlements suddenly ruptured, and Veylorak surged upwards, enveloped by a wave of molten rock. His infamous maw, capable of devouring anything, consumed the Celestial Empire's pathetic attempts at defense.
+
+"Now return to the depths and strike again," Ashlock commanded. Not wanting to allow them to fight back, the immense creature returned to the depths as quickly as it had emerged, then moved to the next location and repeated the apocalyptic destruction.
+
+Regardless of the cultivation realm, not all cultivators and monsters were made equal, as shown by the helpless Nascent Soul Realm commanders' attempts to suppress the apocalypse incarnate.
+
+While the destruction was beautiful to watch, Ashlock felt a sudden chill down his spine. He had expected a retaliation brought about by Veylorak's presence, but this was far more than he had anticipated.
+
+Not one, but two Monarchs had appeared over Floridawn, and they hadn't come to talk.
+
+"Elysia!" Ashlock shouted to his Monarch. "We have company!"

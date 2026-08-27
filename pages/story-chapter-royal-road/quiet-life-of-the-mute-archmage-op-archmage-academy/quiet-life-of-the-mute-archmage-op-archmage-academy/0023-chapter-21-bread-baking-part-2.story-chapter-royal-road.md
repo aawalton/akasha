@@ -1,0 +1,185 @@
+---
+id: d92d7b8f-38b6-53e3-9651-36f7f8620f7c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 21: Bread Baking (Part 2)"
+slug: 0023-chapter-21-bread-baking-part-2
+partOf: quiet-life-of-the-mute-archmage-op-archmage-academy
+position: 23
+ownLength: 3268
+unit: words
+publishedAt: 2026-06-13
+link: "https://www.royalroad.com/fiction/167476/quiet-life-of-the-mute-archmage-op-archmage-academy/chapter/3531932/chapter-21-bread-baking-part-2"
+royalRoadId: "3531932"
+---
+
+Their walk to the dough mixer was quick. Molly stared at the machine with silent wonder; it sat on the stainless steel counter like a sleeping beast, all rounded chrome and matte grey curves, its heavy-duty motor housing hunched with barely contained potential. At its base, a cavernous stainless steel bowl gleamed under the bakery’s light, wide-mouthed and deep-bellied, capable of swallowing five kilograms of flour without complaint.
+
+What surprised Molly wasn’t how strangely foreign the machine appeared, but the white symbols that surrounded the dough mixer, swirling calmly in a jovial dance, especially around its heavy-duty motor.
+
+She blinked, trying to process what was happening, then a spark of realization bloomed in her expression.
+
+The dough mixer was formula powered. Molly’s face brightened further as she examined the control panel jutting from the side: a simple lever to raise and lower the bowl, a rotary dial for speed settings—1 through 6, with six being the kind of violence that could snap a wooden spoon in half. And finally, a digital timer that counted down with a calm, steady tick.
+
+Molly watched as Ted walked forward and poured all the ingredients into the stainless bowl—a careless snowfall of flour, cold butter, yeast barely visible but alive, egg and milk that soaked into the flour, and honey, thick and amber, trailing behind like captured sunlight.
+
+Ted locked the stainless bowl into place, tilting it until it clicked against the chassis. Then he lowered the arm, the dough hook descending like a question, hovering an inch above the chaos below. Once finished, he stepped back calmly, letting Lilly take over.
+
+Lilly glanced at Molly, a smile curving her lips. “This is where your task begins, baker Molly,” she said.
+
+Molly blinked—blinked again as if she hadn’t heard correctly, but upon seeing Lilly’s gaze fixed on her, she couldn’t stop her eyes from widening.
+
+Me!!
+
+Lilly chuckled while giving a short nod. “Yes, you.”
+
+Molly fumbled, the tiny particles swirled in unstable motion as she tried to project her shaking thoughts.
+
+B-but, I haven’t used this kind of object before. What if I do the wrong thing and end up spoiling everything?
+
+“Don’t be afraid, nothing will go wrong. We’re here, alright,” Lilly calmed her, her voice gentle as a lullaby.
+
+Molly studied Lilly’s welcoming expression. Her gaze drifted to Ted, who gave a short nod in confirmation, his eyes steady with quiet reassurance.
+
+She watched them for a moment longer before giving a nod of her own, her expression brightening into something resolute. She drew a deep breath, her small shoulders rising and falling, and walked forward to the dough mixer.
+
+“Just set it to speed one,” she heard Lilly say from beside her.
+
+Molly glanced at Lilly, gave a firm nod, and returned her attention to the dough mixer. She studied the control panel jutting from the side, her eyes tracing each marking, and with a calm motion pulled the lever to speed 1.
+
+Whir...!
+
+The hook began to turn slowly, almost lazily. It cut a steady circular path through the flour, pushing the ingredients toward the center, then dragging them outward. The scooped butter bounced against the bowl’s walls with soft, dull thuds. The honey clung to the hook’s curve, reluctant to let go as everything began to merge into a single, unified mass.
+
+“At this point, we begin adding water,” Lilly said, glancing at Molly, who was already watching her, eyes wide with attention. “You’ll increase the speed by two after Ted pours some water.”
+
+Molly nodded, her gaze shifting back to the dough mixer as she watched Ted, who stood near it, raise his hand and murmur in a calm voice, “[Water Droplet].”
+
+She observed as the rough white symbols in the kitchen’s air shuddered and drifted around Ted’s right hand, trembling before taking shape. They moved like fireflies stirring from a long slumber, each one seeking its proper place in the pattern.
+
+The first few symbols gathered together and formed the image of a water droplet, crystalline and perfect. Following that, others followed suit until five more droplet images had formed, creating the root. The next symbol to materialize was the structure, which encapsulated the entire arrangement with a circle, binding the components into a coherent whole. Then, like an illusion, the completed formula was suddenly dyed a vivid, luminous blue, pulsing gently with contained energy.
+
+The formula shrank until it was no larger than Ted’s right hand, clinging gently to his finger as he pointed toward the mixture inside the bowl.
+
+Before the water could fall, Ted opened his mouth once more. “[Flame Glow],” he intoned, his voice even and unhurried.
+
+Again, Molly watched the rough white symbols in the air drift toward Ted’s left hand, immediately taking shape with the same fluid precision.
+
+The first few symbols gathered together and formed the image of a fire, hot and burning, its edges flickering even in stillness. The remaining symbols followed suit, forming a point-light shape that overlapped with the fire image, its line pointing outward, creating the root. The structure encapsulated the entire arrangement with a circle, sealing the pattern. Then, like an illusion, the completed formula was suddenly dyed a vivid, golden red, radiating a gentle warmth that Molly could feel even from where she stood.
+
+The formula, like the first, shrank until it was as small as Ted’s hand, clinging to his finger. He angled it so that the warmth would intersect with the path of the falling water, positioning both spells with the careful precision of someone who had done this countless times before.
+
+The [Flame Glow] formula flared brightly, its hot glow spreading only within a confined area, contained and controlled. Then the [Water Droplet] activated; droplets fell from the completed spell, passing through the warm radiance so that the now-heated water cascaded into the bowl in a thin, steady stream—not all at once, but in ribbons, Ted controlling the output of both Tier 1 formulas while watching the mixture with expert eyes.
+
+Molly’s eyes sparkled as she watched the brilliant work of creating warm water. She knew controlling two formulas simultaneously was possible, but she had thought it was a skill only Jen and she possessed. Seeing someone else perform the feat before her eyes, even with low-tier formulas, was still commendable.
+
+Ted glanced at Molly and gave a short nod, which she understood immediately, snapping back to attention.
+
+She looked back at the control panel and increased the speed to 2, her fingers turning the dial with deliberate care.
+
+This was when the true work began.
+
+The hook caught a mass of flour and pulled it under, folding it into the wet patch forming at the bowl’s center. The yeast awakened—microscopic beasts stirring in the now warm milk and honey, already beginning to feast on the sugars surrounding them. The butter smeared against the bowl’s walls, leaving greasy streaks, then was scraped clean by the hook’s next pass, incorporated back into the growing mass.
+
+Thump. Fold. Scrape. Pull.
+
+The hook moved in three dimensions: it rotated around the bowl’s circumference, but also lifted and dropped with each turn, creating a continuous folding action, not just stirring, but kneading. Each revolution stretched the developing dough, then folded it back onto itself, forcing flour into water, fat into flour, yeast into everything.
+
+Water droplets splashed and disappeared, swallowed by the hungry flour. More flour surrendered, its dry resistance crumbling. What had been separate kingdoms, dry and wet, heavy and light, began to unify into a single domain.
+
+Ted dissolved the formulas into nothingness with a thought, the blue and gold light winking out like snuffed candles, and cast another glance at Molly as he gave another nod.
+
+Molly increased the speed to 3; the mixture pulled together with renewed urgency.
+
+A shaggy, chaotic lump formed, still rough, still speckled with unincorporated flour, but cohering, gaining identity. The hook lifted it, slapped it against the bowl’s side with a wet smack, then plunged it back into the remaining dry goods. The honey had fully dissolved now, its sweetness invisible but omnipresent. The milk and egg had done their work, softening the flour’s protein into something pliable, something that could stretch without breaking.
+
+The dough hook soon groaned, a low, satisfied sound that vibrated through the machine’s frame.
+
+Now the mixture was no longer separate ingredients. It was dough, still ugly, still lumpen, but alive. The gluten was beginning to form, invisible strands weaving together as the hook folded and stretched, folded and stretched, a relentless blacksmith hammering chaos into structure, forging order from disorder with every rotation.
+
+“You did well,” Molly heard Lilly say. She glanced at Lilly, who wore a cheerful expression while giving her a thumbs up.
+
+Molly’s expression warmed, a soft glow spreading across her features.
+
+Thank you very much, Miss.
+
+She gave a short bow of thanks which Lilly cheerfully dismissed with a wave of her hand.
+
+After that, Lilly glanced at the dough, a curve tugging at her lips as she studied its progress. “Within twelve minutes, it will be smooth, elastic, and ready.”
+
+Her gaze returned to Molly, who was arranging her apron with seriousness, small fingers smoothing the fabric with careful attention, but upon noticing Lilly’s gaze, she turned to her and gave a small smile.
+
+Lilly continued, “And when that happens, we will proceed with the next step.” The curve on her lips inched a bit further, a knowing glint in her eyes. “Kneading.”
+
+*****
+
+Minutes passed quickly, marked by the steady whir of the machine and the rhythmic thump of dough against steel. Molly observed as Ted dusted the already clean table with a handful of flour, a soft snowfall that scattered across the surface, and turned the rough dough out of the bowl. It landed with a wet slap, looking like a lumpy, alien creature, pale and glistening under the bakery lights.
+
+“Now comes the heart of the spell,” Lilly announced from beside her, stepping closer to the table with an almost reverent air. “Kneading.”
+
+Molly glanced at Lilly, who demonstrated cheerfully with her hands, her movements fluid and practiced. “You’ll fold, push, and turn,” she said, stepping closer to the table and positioning herself where Molly could see every motion. “Watch.”
+
+Lilly pressed the heel of her hand into the dough, pushing it away from her body in a smooth, firm motion, then folded it back over itself, gave it a quarter turn. A rhythm emerged, push-fold-turn, push-fold-turn, her body swaying slightly with the repetition. “This wakes the gluten, the soul threads that give bread its strength. It starts sleeping in the flour, dormant and still, but we wake it with movement, with warmth, with intention.”
+
+With that, Lilly broke off a piece from the large dough she was kneading, her fingers pinching cleanly through the mass, and placed it on the other side of the table. She inclined her head toward Molly. “Come. Let’s see how well you can get it on your first try.”
+
+Nervousness and excitement swelled in Molly as she stepped to the table, standing on a stool Ted had provided. The wooden platform was sturdy beneath her feet, bringing her to the proper height. She stared down at the small dough in front of her, and without hesitation, began mimicking Lilly’s hand movements. Her small hands struggled at first, the dough resisting her unpracticed touch, but Lilly placed her hands over the girl’s, guiding the motion with gentle pressure. The dough squeaked under their palms, a soft, wet sound. “Put your weight into it. The dough fights back now, but soon it will surrender.”
+
+For ten minutes, they kneaded in tandem, their hands working in synchronized rhythm. Molly’s arms ached because it was her first time, the muscles unaccustomed to the repetitive strain, but she didn’t complain; in fact, she was more determined and stubborn to keep going than to stop, her jaw set with quiet resolve. The dough transformed beneath her touch, from a sticky, ragged lump into a smooth, silken ball that bounced back when poked, springy and alive. Lilly pinched off a tiny piece and stretched it thin between her fingers, holding it up to the light. A translucent membrane held, light shining through like a stained-glass window, gossamer and golden. “The windowpane test. See? The gluten strands are awake. The dough is ready to dream,” she said, glancing at Ted, who was already approaching with two clean bowls drizzled with olive oil, the golden liquid pooling at the bottom of each.
+
+He placed them near Lilly and Molly, the ceramic clinking softly against the table, and stepped back as he watched Lilly roll each dough ball in its bowl until it glistened, the olive oil coating every surface with a protective sheen. Then she covered both bowls with a damp linen cloth, the fabric settling over the domed shapes like a veil.
+
+“Now, it needs warmth and a quiet time,” Lilly said, turning to Molly. “The yeast is eating the honey, releasing spirit. That spirit, carbon dioxide, fills thousands of tiny balloons inside, causing the dough to swell, to rise, to come alive.”
+
+Molly nodded, her eyes sparkling with awaiting excitement as she watched Ted carry the two bowls away to a warmer area, his footsteps fading into the bakery’s depths.
+
+*****
+
+An hour passed slowly, the minutes stretching like warm taffy, before Molly and Lilly returned to the table, watching as Ted brought the two bowls back and set them on the cleaned surface with careful hands. Lilly lifted the cloth on one bowl, steam-scented air escaping, and gestured for Molly to come closer.
+
+Molly did as told, stepping forward and climbing onto the small stool, her hands gripping the table’s edge for balance. Her eyes stared at the now doubled dough with awe, the pale dome trembling with life, its surface smooth and taut like the belly of a small animal breathing in sleep. “This is the proof,” Lilly whispered, her voice hushed with something like reverence. “Proof that patience is power. Press two fingers in. If the indent stays, it’s ready. If it springs back fast, give it more time.”
+
+Molly poked gently, her two fingers sinking into the pillowy surface. The indent remained, a small dimple in the dough’s smooth skin, and the dough exhaled a yeasty sigh, fragrant and warm. A lopsided smirk appeared on her face as her eyes darted to Lilly, who wore a knowing grin, her pink ponytail bobbing as she nodded.
+
+“Now we release the wild breath,” Lilly said, removing the cloth from the other bowl, which was meant for Molly. She placed it in front of the girl, the ceramic scraping softly against the table.
+
+Molly stared at her bowl for a moment, her eyes studying the risen dome, before glancing back at Lilly, who demonstrated how to release the air with a single, decisive motion.
+
+Lilly plunged a fist into the dough, and it deflated with a soft hiss, collapsing inward like a sigh given form. “Punching down isn’t violence; it redistributes the food, evens the temperature. Then we shape a new form before baking.”
+
+She turned the dough onto the table again, which had already been lightly floured, a fresh dusting of white waiting. Lilly patted it into a rectangle with confident, open-palmed motions, then folded it like a letter, tucking the edges with precision. Then, with cupped hands, she rolled and pulled the dough into a tight boule, tucking the seams underneath, her fingers working the surface until it was smooth and taut. “Tension is everything. A tight skin on the outside will trap steam and create a beautiful rise in the oven. Feel how it feels like a drum.”
+
+Molly suppressed a giddy laugh as she imitated, her tongue poking out in concentration, a bead of sweat tracing down her temple. Her boule was a little lopsided, one side higher than the other, but Lilly nodded approvingly. “The loaf that looks perfect is lying. Yours has truth.” A warm smile played on her lips. “So be proud.”
+
+After that, everything happened in a blur of motion and purpose. Molly watched as the doughs were placed into pans and carried professionally by Ted and some other bakers toward the oven, their movements efficient and synchronized.
+
+Ted returned alone after placing them, brushing flour from his hands, and glanced at Lilly, who wore her usual cheerful grin.
+
+She looked at Molly, who was silently watching them both, her eyes tracking their every movement. “Let’s take some air outside while the bread bakes,” she said.
+
+Molly’s expression beamed as she nodded. Ah, finally, a bit of fresh air to wash away the tension she’d felt while the bread was being made.
+
+********
+
+Molly’s robe shifted slightly as she rested against the wooden fence of the bakery, gazing at the field of purplish-brown crops stretching before her.
+
+Yes, this was one of the lands where Me-khutar wheat had been planted. The amusing part was, when she looked back over her shoulder, she saw the massive shape of Eoma’s main bakery. Molly had assumed the area around this side of Sigsug was nothing but structures, buildings crowding every available space; she hadn’t known some lands had been preserved.
+
+Well, it was kind of nice seeing an open field, the horizon visible and unobstructed.
+
+A mask of sadness crossed her features as she shifted uncomfortably, her small hands gripping the fence rail, her gaze returning to the purplish-brown crops that covered the entire field. If only the blight were gone, then it would truly be a great sight, a sea of healthy grain rippling under the sun.
+
+“Sigh… this blight is definitely a bad omen,” Ted whispered calmly, staring at the field, his deep purple eyes clouded with thought as he leaned against the fence beside her.
+
+“At least,” Lilly said, “let’s appreciate that Sigsug still thrives.” She turned to Ted, her ponytail swinging with the motion. “Most of all, let’s be grateful it wasn’t a plague that spreads to people.” A sigh escaped her as she shifted her gaze back to the field, she whispered, “Now that would be a true bad omen.”
+
+Molly’s expression dulled further upon hearing their exchange, the weight of their words settling on her shoulders, but it soon hardened into determination. When she gets back home, she definitely needs to read Jen’s diary. She steeled herself, her small hands curling into fists at her sides; Jen wouldn’t just go without having already come up with a way to solve this blight. The woman Molly could boldly call Mother would never leave something unfinished without a plan that would allow another to complete what she started.
+
+Just as she was thinking that, a cheerful laugh echoed from beside her, bright and sudden, distracting her from her thoughts. Molly’s eyes turned sharply to Lilly, who had an amused expression as she stared at the sky, her round face tilted upward. “Look who has returned,” she said, pointing toward the heavens with an outstretched finger.
+
+“Oh, heavenly mothers,” Ted breathed, his voice filled with wonder as he followed Lilly’s gaze. “It’s already the season for their return.”
+
+A frown crossed Molly’s face for a moment; she didn’t understand what they were talking about. She turned, lifting her head to the sky and raising a hand to shield her eyes from the sun, her fingers filtering the pale light as she tried to see what they saw.
+
+Molly’s eyes widened. A breathless laugh escaped her at what she beheld, for she knew what had returned with the coming of winter.
+
+Phragons.

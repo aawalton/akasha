@@ -1,0 +1,177 @@
+---
+id: 992058d9-0bab-5159-92f5-619fc23ccc66
+page-type-slug: story-chapter-royal-road
+title: "Chapter 575: Envy"
+slug: 0099-chapter-575-envy
+partOf: reborn-as-a-demonic-tree
+position: 99
+ownLength: 2627
+unit: words
+publishedAt: 2026-06-01
+link: "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3479791/chapter-575-envy"
+royalRoadId: "3479791"
+---
+
+Stella sat Janus down in the living room of her house.
+
+A table she had quickly cleaned with a snap of her fingers stood between them. Despite its small size, Stella felt there was a chasm between them, and the distant cries of laughter from Jasmine and Elaine's toddlers barely cut through the tense silence blanketing the room.
+
+"So, you wanted to talk," Janus said, leaning back and crossing his arms, "and by your expression, I can tell it's a heavy topic. Go on, I'll try to answer any questions you have."
+
+Stella spent a moment before finding the words. "After becoming a Monarch and realizing the power they hold, I began to question many things. I just wanted to ask, why did you never tell me the truth?" she asked, her voice tinged with hurt.
+
+Janus raised a brow. "Tell you what?"
+
+"That he let us escape."
+
+A look of realization flashed across Janus's face, yet he still dared to feign ignorance.
+
+"Who are you speaking about?"
+
+"The Chairman!" Stella yelled, glaring at him. "You made your escape from the Celestial Empire sound so heroic! You said you shattered your own cultivation to avoid detection, crossed the wilderness, and fought off monsters to the death to bring me to safety. Yet there's no evidence of any of this besides your words. Now that I'm a Monarch and understand the strength a Monarch wields, your story doesn't add up! The truth is that the Chairman let you flee with me, didn't he?"
+
+Janus's jaw tightened, and he didn't offer a reply.
+
+"Why did you lie to me, Janus? Huh?" The air between them thickened with bloodlust. "Am I going to have to beat the answers out of you?"
+
+"I..." he trailed off, his expression hardening. "This feels weird to admit, but I wanted your admiration, okay?"
+
+"My what?!" Stella said, baffled at what she was hearing.
+
+Janus went quiet for a moment, and when he finally spoke, his voice had lost its usual easy cadence. It was slower. Measured. The voice of someone choosing words they had never said out loud before.
+
+"There were hundreds of us, children made from the World Tree sap and raised as vessels for the Chairman's ancestors."
+
+He paused, making sure she was listening.
+
+"Once they discovered I possessed the Crestfallen bloodline, everyone else was discarded like dirty rags—Zephyrine included, because her monster blood dirtied our bloodline." He looked to the floor with shame. "I... felt on top of the world as everyone else was discarded around me and I alone was praised. I was the chosen one, they said, and I was showered with love, attention, and resources." He glanced up at her, and she could see the pain in his eyes. "That was until you came along. Like the others before me, I was discarded like the tool I was the moment they discovered the purity of your bloodline. Overnight, I went from the chosen one to the spare."
+
+Stella listened in stone-cold silence, deeply concerned at where this story was going.
+
+Janus continued despite her silence. "I tried everything to prove I was still worthy of their attention, but they didn't care. Envy... it consumed me." His tone turned cold. "I debated killing you, I really did. I thought if you were gone, I would reclaim their love. On the night I was thinking of slitting your throat, my fate was changed. The Mirrored One entered my dream."
+
+"The Mirrored One?" Stella asked. The name sounded similar to The Crowned One, albeit a little different.
+
+Janus nodded. "One of the Chairman's ancestors. They called themselves that and appeared to me as... well, me. It was like staring into a mirror and talking to myself. For whatever reason, The Mirrored One was attracted by my envy towards you and decided to brand me as their vessel. It felt like pity."
+
+"So what happened next?" Stella asked coldly. "Because clearly you didn't kill me."
+
+Janus bit his lip. "The Mirrored One... it continued to taunt me in my dreams, whispering in my ear and fueling my envy to new heights. It gleefully informed me that you had been chosen by the Crowned One, the most powerful of the ancestors and the one I had originally been created for." Janus sighed as if admitting that it still hurt him. "I spent many nights talking with the Mirrored One, debating what to do." He locked eyes with Stella. "We concluded that the best revenge wasn't by granting you death, but by denying you the birthright you had stolen from me."
+
+Stella felt her skin crawl at the coldness in his eyes as he continued to narrate his actions.
+
+"The Mirrored One told me he could give me an opening to get you out of the Celestial Empire. It worked, and we fled to the wilderness. My destination was the Blood Lotus Sect."
+
+"Why?" Stella asked with a lump in her throat, fearing the answer.
+
+Janus didn't hesitate. "I heard its leader could harvest bloodlines. I... wanted Vincent Nightrose to strip the bloodline from you."
+
+Stella felt something deep in her soul crack.
+
+"You were so envious of me, you would rather let that monster devour me and the Crestfallen bloodline than see me become this Crowned One's vessel?!" Stella hissed, her hands clenching in rage.
+
+Janus simply nodded. "At the time, yes. The Mirrored One had corrupted me deeply."
+
+"Then why did you plant Ash?"
+
+"Curiosity, and to give you a friend."
+
+"Your actions make no sense," Stella ground her teeth in rage. Had everything been a lie? "Why did you plant Ash to be my friend or pretend to be my father if you were so envious of me?"
+
+"I liked the way you looked up to me," he shrugged. "You thought I was the most powerful person in the world. It was cute."
+
+Stella shuddered. "Then why did you run off to the Frozen Star Sect?"
+
+"I..." he frowned. "I started to feel guilty. Distance from the Celestial Empire freed me from the Mirrored One visiting my dreams. Seeing you grow up so quickly and with my mind clear, I realized how wrong I'd been, but I also couldn't send you back there knowing the horrors of what being a vessel entailed. In a way, I'd freed you from that life and given you a fresh start."
+
+Stella abruptly stood up and glared down at Janus. "Then why did you fucking leave me on a peak alone, surrounded by enemies? I almost died so many times!"
+
+Janus slowly looked up at her with a tired expression. "I was a coward. I couldn't keep living a life of lies, and I feared the Celestial Empire would come for us, so I left your survival to fate and fled. I chose the Frozen Star Sect because it was far away and drowned my guilt with gambling and spirit wine. I kept telling myself I'd check on you, but I kept making excuses. I researched the Fleshfruit trees with the same idea of growing bodies as you did, perhaps to try to continue the World Tree sap project in my own way. I don't know. I was lost and confused, living every day without purpose and burdened by guilt."
+
+He glanced outside, where Rowan could be heard playing with Jasmine.
+
+"I took him on as a disciple to fill that void, and he helped me turn over a new leaf. Things were going well, and then you messaged me out of the blue one day. My whole world came to a stop. I was so surprised to find you still alive and, honestly, overwhelmed with joy. Knowing you were surrounded by enemies, I told you to run. I wanted you to live."
+
+Stella slowly sat back down and stared at the floor for a long time. Her mind was racing, flipping between rage and confusion at what to feel. So many things hadn't added up until now, such as how she had escaped the Celestial Empire under a Monarch's nose despite being their supposed prized possession, or why she was lied to and abandoned on Red Vine Peak by Janus. She had suspected Janus had been neglectful and behind some of it, but not to this extent. He had straight-up wanted her to be harvested by Vincent Nightrose initially, just so the Crowned One couldn't get their vessel. Just because his motives later changed didn't free him of wrongdoing.
+
+However, he did say the Mirrored One corrupted him, and he was brainwashed by the Celestial Empire to believe that being a vessel was the highest honor.
+
+"Now that you know the truth," Janus sighed. "Just kill me."
+
+Stella glanced up at her brother, who looked resigned to his fate.
+
+"And why would I do that?" she asked, surprising him.
+
+"Because my personality has forever been tainted by the Mirrored One's envy," he said cautiously. "I also did horrible things to you."
+
+Stella laughed and shook her head. "I'd argue it's quite the opposite."
+
+Janus looked at her with suspicion written all over his face. "What do you mean?"
+
+"Let's see," Stella leaned forward and counted off on her fingers. "I was branded to become a vessel for the Crowned One. Without your intervention, my fate of having my body taken over by another was inevitable. Envious or not, you refrained from killing me, smuggled me out of the Celestial Empire, set me up with a mountain peak, and even planted Ash. Without you, my life would be totally different. I'd likely still be in the Celestial Empire proudly awaiting my moment to be strapped to an altar with a grin as some old bastard's soul weaseled its way in to replace my own. Did I get everything?"
+
+Janus stared at her for a long second. "There's something seriously wrong with you, you know that?" he said with a scowl. "Did your ascension destroy your brain, too? Anyone else would torture me to death after hearing the horrors I committed. You should kill me, Stella."
+
+"Maybe," Stella laughed. "But I can tell from your actions and words that you really want the guilt off your shoulders. So death would be a kindness, and I won't forgive you for as long as I live." She stood up and looked at him with thinly veiled disgust. "This is the limit of my mercy. Get out of my house."
+
+Janus stared at her for a long moment before standing up and leaving without a word. Stella moved over to the window and watched in silence as Janus told Rowan they had to go. After letting Rowan say his goodbyes, the pair departed from Ash's Inner World.
+
+Stella let out a breath she didn't know she had been holding. The truth was, she was incredibly angry. To learn that she had been lied to by not just anyone, but her elder brother, whom she had trusted and looked up to, broke her inside. Yet at the same time, she now enjoyed a life built on the results of his misguided actions.
+
+Because of that, and the fact that he was still her brother, she couldn't kill him.
+
+Perhaps if this had been in the past, when I was weaker, I'd have felt threatened and killed him with the help of Ash and the sect. But now that I'm a Monarch, his continued existence is beneath me. Power has given me the freedom of choice.
+
+She had also learned a few things from their conversation. Janus had mentioned there were multiple ancestors like the Crowned One, namely this Mirrored One, who seemed to feed off envy.
+
+By the name and the way he dished out invitations with expected attentiveness, this Crowned One seems blinded by pride. Did this personality of his wipe off on me like envy had on Janus? I've been away from the Celestial Empire for so long, I doubt it.
+
+It was going to be impossible to get the answers she sought until she confronted the Crowned One at the ball.
+
+That bastard knew I'd attend no matter what once I read his name. Stella pursed her lips. It felt bad to be playing in the palm of another, but that didn't mean she had to go in blind. She had a plan he wouldn't see coming.
+
+"Did something happen between you and Janus, Master?" Jasmine asked as she walked into the house, Hazel and Talon in tow.
+
+Stella turned away from the window and put on a smile for her disciple. "I just learned the truth of my past, and because of that, my future cannot continue with him in it."
+
+"That's tough," Jasmine said, clearly not knowing what to follow up with.
+
+"It's life," Stella countered, looking back at the window and the now-empty garden. "When you're weak, you accept the world's lies because they protect you. Ignorance is bliss, as they say." She stepped away from the window and returned to her couch. "Even for you, Jasmine, there's so much you don't know, and it is better that way."
+
+"Such as?" she asked with naive curiosity.
+
+Stella smiled but didn't respond. She could give an example, like how Ash's power had not only come from devouring monsters and enemies, but also from piles of innocent mortal corpses that Larry had gathered for him in the past. Or that they had saved the people of Slymere on a whim, and Jasmine had simply gotten lucky.
+
+Jasmine understood her silence and dropped the topic.
+
+"What are you going to do now, Master?" she asked.
+
+"Put an end to everything in my past, so I may move on," she said grimly. "That includes the Celestial Empire, the Chairman and his ancestors, and freeing the World Tree from her shackles."
+
+"Stella!" Elaine's voice called from outside, surprising them both. She appeared a moment later in the doorway, out of breath but beaming. "It worked! The Fleshfruit tree accepted my mother's soul, and by giving her the Caretaker fruit, she's able to direct the tree to grow her a new body."
+
+"That's great news, Elaine," Stella said with a genuine smile this time. "How long will it take?"
+
+"A while, maybe weeks or months," Elaine admitted with a frown.
+
+"Really?" Stella asked with surprise. "I'd have thought it would be faster with Ash involved."
+
+Elaine shook her head. "For a child's body or a weak cultivator, it might be faster. But to create a body that can hold a Star Core Realm soul, it's the crafting of the spiritual roots that takes the longest."
+
+That made sense now that she thought about it. While the soul held all the power, the vessel still had to be adequate to support it.
+
+"Do you need to watch over it still?" Stella asked.
+
+Elaine hesitantly shook her head. "I don't think so?"
+
+"Good, then come take a seat. I need your opinion on a plan of mine."
+
+"Oh?" Elaine took the offered seat that Janus had occupied moments earlier. The mood this time was totally different as Hazel and Talon joined their mother on the couch. Elaine lovingly hugged and kissed each of them on the head, her mood totally lifted now that the Fleshfruit tree project was complete. "So, how can I assist the Princess?" she asked curiously.
+
+Stella placed a metal token on the table.
+
+"What's this?" Elaine asked with interest.
+
+"It's a token I stole from a man named Crow, who was a Shadow operating under Mistress Veilshade of the Celestial Empire. I was thinking that before the ball, I should make use of my new capabilities to infiltrate her organization and the heart of the Celestial Empire."
+
+She leaned forward. "I wondered what you thought of this idea."

@@ -1,0 +1,161 @@
+---
+id: 553ef8ba-8a08-5c11-9a38-e72bd53aab10
+page-type-slug: story-chapter-royal-road
+title: "Chapter 7: Treeskip"
+slug: 0008-chapter-7-treeskip
+partOf: reborn-as-a-demonic-tree
+position: 8
+ownLength: 2123
+unit: words
+ownProgress: 2123
+publishedAt: 2023-01-07
+link: "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/1081533/chapter-7-treeskip"
+royalRoadId: "1081533"
+markedReadAt: "2026-06-29T19:01:45.652Z"
+---
+
+Ashlock was in a tunnel—an endless tunnel where he could do nothing. No thoughts crossed his mind... no dreams of a better tomorrow. Nothing. Just steady progress to an eventual end. An end he knew was coming due to the timer ticking down. It was slow, so agonizingly slow.
+
+[Hibernation: 32 Days]
+
+Ashlock was trapped within his mind. The cursed skill he had employed kept his mind on the straight and narrow. Before, when he slept, time passed in the blink of an eye. There were no dreams, no turbulence. Just one moment, he would close his eyes, and the next, awaken in a new season, a new situation.... a new time.
+
+[Hibernation: 31 Days]
+
+But with the {Hibernate} skill, he was forced to experience the flow of time. Like some kind of mortal creature.
+
+How long had he been here? Going down this tunnel in his mind. The grey walls of nothingness kept him confined from everything else. He wanted to think, dream, plot, and plan. Anything to end this mind-numbing state of being.
+
+[Hibernation: 30 Days]
+
+Easy decisions create hard times. A phrase that resounded in Ashlock's head. The skill had seemed so innocent, so easy. Just flip a switch, and watch the world fly by. No more disturbances and even a slight boost to his Qi accumulation.
+
+[Hibernation: 29 Days]
+
+If Ashlock had to describe his current situation to a mortal mind, imagine a concrete, lifeless tunnel where you are paralyzed and rolling down the tunnel while strapped to a stretcher. Only an ominous timer floating in front of your eyes notifies you of your eventual freedom from this confinement. The worst of it? Ashlock did this to himself.
+
+[Hibernation: 28 Days]
+
+A small part of Ashlock appreciated this experience. It forcefully brought back a bit of his humanity that had been slipping away. Six months to him was nothing as a tree, just another passed winter. But to a human? Someone like Stella? Six months could be life-changing. For all Ashlock knew, he may escape this nightmare and awaken in an empty courtyard ravaged by nature. What if he went to sleep and no cultivators ever entered the courtyard? Would he awaken eons later to witness the eventual death of the planet as the sun expanded at the end of its long life and swallowed the planet whole?
+
+[Hibernation: 27 Days]
+
+He screamed. Anything to break the silence.
+
+[Hibernation: 26 Days]
+
+What was the rush? Ever since arriving in this world, Ashlock had chosen sleep over being awake. Was he hiding from his problems? Just because the system gave him rewards for passing the time and killing, did that justify him rushing into the future and letting the present pass him by?
+
+[Hibernation: 25 Days]
+
+Immortality is a funny thing. If given all the time in the world, the need to accomplish things suddenly vanishes since there's always tomorrow... or next year. And unlike an ordinary immortal, who needs to fill their time with hobbies to avoid insanity... Ashlock could just blink the time away. Ashlock knew he was in a world of cultivators where the pursuit of overwhelming power and immortality was possible. What would happen if he could speak to another immortal? Would they have some advice to steer him on the right path?
+
+Maybe. Maybe not.
+
+Ashlock was just a young sapling confined to a single courtyard atop a mountain peak.
+
+He was young and ignorant of the world.
+
+But that didn't mean planning for the future lacked merit.
+
+The endless pursuit of strength, new abilities, and land was fine, but what did he truly value?
+
+Perhaps a question for another time.
+
+[Hibernation: 24 Days]
+
+Ashlock's mind came to a sudden halt with such force that the mental tunnel that confined his mind from distractions shattered in a shower of glass. His worldview lurched forward as if the stretcher he was attached to was connected to a bungee cord, and everything hit him at once.
+
+[Hibernation Terminated. Extreme Threat Detected]
+
+The air vibrated as something beyond this mortal realm arrived. Ashlock's mind spun as he tried to identify the source and readapt to his surroundings. The purple grass central courtyard was empty; spring was in full swing, and Ashlock could feel the warmth on his leaves and the refreshing cool breeze on his shaded bark. But a suffocating presence blanketed the area like a godlike entity glaring from above.
+
+{Eye of the Tree God} activated, and Ashlock's view shifted. His 6th layer in the Qi realm became apparent as the peak of the neighboring mountain was in full view. Atop was a pavilion similar to his, but its courtyards were filled with harrowing leafless trees that looked like withered black fingers reaching for the skies. Monstrous birds with raven feathers and beady red eyes perched upon the tree branches, and a dense mist shrouded the entire peak as people moved about in the shadows of the fog.
+
+But the source of the alarm didn't come from there... no, it came from the base of Red Vine peak. Switching his view, Ashlock witnessed a man climbing a thousand steps, taking a hundred steps at a time. White fire so dense it was blinding shrouded the man as the air seemed to gravitate towards him as he gracefully glided up the mountain's side as if he were ice skating.
+
+As the man approached the pavilion's door, Ashlock rotated his view and saw Stella. She had been cultivating in the middle of a runic formation in one of the courtyards. Ashlock was no expert, but he suspected the formation helped to condense the ambient Qi, making cultivation faster. Her eyes snapped open, and her body shuddered right as the man placed his hand on the door to knock.
+
+Stella practically stumbled off the runic formation and managed to stop herself from tumbling to the ground as she broke into a sprint. Purple flames sprung to life, and Ashlock caught a glimpse of her movement technique. Purple flames exploded at the base of her feet, rocketing her forward in a controlled manner, letting her close the distance in a split second.
+
+A single knock resounded through the courtyard as Stella halted in a cloud of dust. She then quickly tidied herself up before opening the door.
+
+"Stella Crestfallen greets the Grand Elder!" Stella's hair whipped as she threw herself into a ninety-degree bow.
+
+"At ease, young one..." The man looked barely over twenty-five, but his voice and poise suggested a long life of politics and family drama. "I have come on behalf of the disciplinary committee." The man walked past Stella and slowly looked around as if bored. "I hope you don't mind the surprise inspection?"
+
+Stella gulped and didn't dare raise her head. "Of course not, Grand Elder. You are welcome to visit my humble abode anytime."
+
+"Mhm." The Grand Elder practically floated as he walked down the pavilion corridor toward the outer courtyards. The wooden walls creaked and groaned as he passed, unlocked window shutters swung inside, and plant pots wobbled on their stands.
+
+Ashlock tracked the man's movements with his skill through the windows, but he felt a sense of danger as the man wrapped in subtle white flames paused and glanced directly at him. Some would believe it was pure luck, or perhaps the man was gazing at the passing clouds littering the sky... But the man's cold eyes stared into Ashlock's with such precision and purpose it was creepy.
+
+"Tell me, scion of house Crestfallen. Where are your servants?" The man kept walking toward the exotic garden as he spoke in a tranquil voice as if the affairs of the mortal world were of no concern to him.
+
+"My servants... they betrayed me," Stella said without masking anything. "I slaughtered them all."
+
+"I see." The man's voice lacked emotion as the pair reached the garden, and the Grand Elder casually plucked a rose and twirled it between two fingers.
+
+The plants seemed to naturally bend their stalks as if an invisible weight was pressing down on them as the Grand Elder passed. "A fitting response. I would do the same... if not worse." The Grand Elder chuckled quietly as he continued his peaceful walk. His eyes lingered on the occasional splat of dried blood that Stella had missed when cleaning up.
+
+The pavilion was massive, and over three hundred people could live comfortably there at any given time. To expect a single teenage girl to clean every nook and cranny was unrealistic.
+
+The Grand Elder reached the kitchen wing and opened the door with a flick. White flames lashed out like a whip, and the hefty door creaked open. A plume of dust and stale air followed, causing the Grand Elder to frown. "Child, you are still growing. Food is important... why is the kitchen so unused?"
+
+"Responding to Grand Elder—"
+
+"No need for such pleasantries. Just call me Elder."
+
+Stella winced back, "Uhm, Okay, Elder. I don't know how to cook."
+
+"So, how do you eat?"
+
+Stella paused for a while. A gust of wind passed the two causing their robes to flutter. Only the chirps of birds and soft breeze filled the awkward silence. "It's complicated..."
+
+"Child, you seem confused about my purpose here." The Grand Elder said in a friendly but flat tone. "Your father was a good friend of mine. The snakes of house Ravenborne demand this peak be turned over to them as compensation for the death of their scion. I am simply here to confirm you are not a threat or conducting anything against the sect rules."
+
+The relief was evident on Stella's face as she let out a long sigh. "I grow food and live off that. Also, my cultivation is rather high, so my need for sustenance is rather low."
+
+"You are indeed a very impressive child. The Patriarch hopes you will become a Grand Elder in the future."
+
+The Grand Elder looked around the exotic garden with a deepening frown. "Don't tell me you live off this stuff." He plucked a small berry and gave it a sniff. "Hardly a whiff of Qi and the size of my thumb. Garbage."
+
+Then he said with a thin smile, "Stella, you are a terrible gardener. Shall we go see the true source of your food?" The Grand Elder didn't even wait for her response and glided toward the central courtyard.
+
+"Shit." Ashlock canceled out his {Eye of the Tree God} skill, and his view returned to the central courtyard's purple grass. "What can I do? Should I sign in?" The Grand Elder claimed to be friendly, but what if he didn't approve of a man-eating tree living near his dead friend's daughter? "Best to be safe..."
+
+Idletree Daily Sign-In System
+
+Day: 1975
+
+Daily Credit: 157
+
+Sacrifice Credit: 856
+
+[Sign in?]
+
+"Yes."
+
+[Sign in successful, 1013 credits consumed…]
+
+[Unlocked an A-grade skill: Deep Roots]
+
+Ashlock mentally slammed his mind against his bark in frustration.
+
+"System, what the fuck am I supposed to do with this? I have a demi-god walking toward me, and you give me this?"
+
+Focusing on the skill, the information appeared in his mind. "By spending Qi, my roots become empowered and can tunnel through rock without issue. I can also hollow out my roots to create tunnels..." Ashlock had to admit there were some applications for this skill, especially considering he was atop the peak of a mountain, so the only way was down.
+
+"And who knows what lies in the deep caverns of the mountains? There had to be a reason the sect was founded on this land. Maybe a secret realm or monsters for me to kill?"
+
+Sadly, the skill seemed rather useless in the current situation.
+
+Ashlock watched helplessly as the Grand Elder strolled across the courtyard. The purple grass flattened in a perfect circle around him as if the man had his own gravity, and the white flames shrouding his form made him so bright that he was blinding to look at in Ashlock's spirit sight.
+
+The man approached and eyed the golden fruit blooming from Ashlock's branches.
+
+"Interesting. I have never seen this type of fruit before." The Grand Elder reached up and easily plucked a fruit. He rotated it in his hand, observing every nook and crevice in the golden fruit. Then he threw it up and down a few times, testing its weight. "Dense and full of Qi. Although weaker than a cultivation pill, it's definitely a miracle fruit."
+
+Ashlock held his breath as the Grand Elder stepped closer and laid a hand on his bark. A pulse of power, like a sonar wave, rippled through Ashlock's body.
+
+The Grand Elder frowned. "Is this a demonic tree spirit?"

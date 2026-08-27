@@ -1,0 +1,391 @@
+---
+id: ad891ebd-925f-5e15-8eeb-e8d7f412d332
+page-type-slug: story-chapter-royal-road
+title: "516. Lord of Lies"
+slug: 0072-516-lord-of-lies
+partOf: salvos
+position: 72
+ownLength: 4730
+unit: words
+publishedAt: 2023-02-22
+link: "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1120689/516-lord-of-lies"
+royalRoadId: "1120689"
+---
+
+516. Lord of Lies
+
+“I shall kill him and become the Demon King myself.”
+
+Belzu’s voice echoed around even amidst the rumbling. The earth shook, and the world itself tore apart. But the Lord of Lies didn’t falter.
+
+Was it an insane plan? Perhaps it was. And yet, it was the only viable solution. The ritual could not be stopped. It was too late. It would take too long to dismantle the magic. All Belzu could do was redirect it.
+
+It was simple, really. The only way to make the magic dissipate was by prematurely forcing the summoning to go through. It wouldn’t completely disable the ritual, but once a large chunk of mana was used up, the spell would be delayed long enough for the Humans to clean up the remnants of the grand spell.
+
+The Lord of Lies saw the runes and the glyphs glinting on the trembling ground. He raised a hand, reaching for the spellwork and grabbing the threads of mana. He wove the magic. He altered the ritual. He focused its power on a single target.
+
+Regnorex the Demon King.
+
+Belzu saw the looming figure waiting at the other side of the summoning circle. Regnorex stood tall, hardly reacting to what was being done to the spell. He could see what the Lord of Lies was planning. But the Demon King did not care.
+
+And maybe that was a sign that Belzu should have stopped. But it was either summon an army of Primeval Demons, or summon Regnorex himself. Either way, the odds of victory were impossibly low. However, only one option made sense, since it would put an end to this once and for all.
+
+So Belzu continued to weave the threads of mana together. Even as the world around him tore open, and a castle broke its way into the Mortal Realm. He focused on his target. He focused only on Regnorex.
+
+Until a voice broke him out of his thoughts.
+
+“What are you talking about?”
+
+Glancing back, Belzu looked down at Salvos as she stared at him with wide eyes. The silver-haired girl— the faux Human— stepped forward.
+
+“Belzu— do you realize what you’re trying to do? You’ll kill us all!”
+
+She exclaimed. And the Lord of Lies just harrumphed.
+
+“There is no time to argue. There is no other solution. We will die, or we will kill the Demon King.”
+
+“That’s…”
+
+Salvos backed up. He eyed her callously.
+
+“But how are we going to defeat Regnorex? He killed the Immortal King Alexander— that means he’s at least Level 200!”
+
+She protested as Belzu shook his head. He waved a hand dismissively, replying without care.
+
+“There is an entire army of Humans gathered here, no? They will wear Regnorex down. And when he lowers his guard, that is when I will strike.”
+
+And Salvos paused. She blinked for a moment as she gaped his way.
+
+The Lord of Lies just sighed when he saw her reaction.
+
+Truth be told, her very presence grated on him. The only reason why he even indulged in her questions was the fact that she wasn’t actually a Human despite her appearance. She was a Demon, and so he tolerated her.
+
+But that fact also upsetted him even more when she cared for mortals like she did now.
+
+“But then most of the army will die.”
+
+Salvos spoke through gritted teeth. Belzu nodded.
+
+“And that is a sacrifice we must make if we want to stop this.”
+
+“There has to be another way!”
+
+She tried to argue. And that irked Belzu enough to stop what he was doing. He momentarily lowered his hands, spinning around to face the silver-haired girl even as the earth crumbled around them. He hovered ten feet in the air, buzzing weakly as she stood on the quaking ground.
+
+“You who are a Demon— why do you care for these mere mortals? They are not your kin. They are not your people. They despise you for what you are, so you are forced to hide your true self from them.”
+
+He pointed accusingly at her. But Salvos just shook her head vehemently.
+
+“I am not hiding anything. I am Salvos, and I will always be Salvos, no matter what form I take.”
+
+“That does not answer the question.”
+
+Belzu clicked his mandibles together. Behind him, the domed roof of the Demon King’s castle fully emerged from the ground. He flitted forward, and she stood steadfast.
+
+“Why do you protect these mortals?”
+
+“I am protecting my companions.”
+
+Salvos retorted. The Lord of Lies glared her way.
+
+“And yet, you protect those who are not just your companions. You defend the lives of Humans who would kill you if they discovered your truth. I cannot understand you. You are either a liar, or you are ashamed to be a Demon.”
+
+He loomed over her, but she refused to budge. She held his gaze, speaking without any fear.
+
+“I cannot understand you either. Why are you doing this? Why did you even rebel against the Regnorex?”
+
+Belzu frowned. He opened his mandibles to reply, but Salvos pointed back at him.
+
+“Do you even care about anyone other than yourself?”
+
+And that made him the Lord of Lies pause for a single moment. He was affronted at first. He wanted to laugh at her face.
+
+“Do I care for anyone other than myself?”
+
+But when he considered her words, he stopped. He slowly raised his head as he stared up at the fading crimson sky. And Belzu remembered.
+
+An Infant Demon thrashed in the dark pool of lifeblood. He had a bloated figure, with half a dozen little nubs protruding from his side. He tried to turn over where he lay, but his face was submerged in darkness, and he couldn’t make sense of where he was.
+
+He wasn’t sure how long he had been trapped there. He didn’t even know that there was anything outside of that black world. He just knew that something was wrong. He just knew he didn’t like it. But his lack of spatial awareness meant he would have never escaped.
+
+That was, until, something flipped him over.
+
+He looked up in confusion as an odd creature loomed over him. It— no, she had red skin and blue spots. Wide black eyes that peered into him with curiosity.
+
+She was another Infant Demon, and she saved him.
+
+The newborn Belzu stared at his savior, then watched as she dragged herself away from the dark pool, clambering ashore. She joined a group of other Infant Demons and glanced back at him.
+
+And in a daze, he followed her.
+
+“Have you ever had any companions?”
+
+A voice broke Belzu out of his stupor. Salvos glared up at him defiantly as he returned to reality.  He glanced down at her as she gestured all around her.
+
+“Have you ever considered what they might want? Have you ever thought about what they might need?”
+
+And the Lord of Lies hesitated.
+
+The group of newborn Infant Demons stuck close together. They slowly traversed through the vast white landscape as a dark rain poured from above, losing a handful of their numbers who simply wandered off to do their own things. Belzu stuck close with them, mostly drawn by the female Infant Demon who saved him.
+
+She was really an odd creature. Anytime an Infant Demon tried to leave the group, she’d move to dissuade them, even if she wasn’t always successful. And whenever they encountered another group of Infant Demons, she was always the first to invite them over.
+
+Belzu couldn’t understand her behavior. So he followed her. And he continued following her until the group of Infant Demons ran into their first wild Demon.
+
+“You are just utterly selfish, Belzu.”
+
+Salvos strode forward as the world crumbled around her. She raised a hand, creating a scythe made from gray flames. The Lord of Lies narrowed his bulbous eyes and drew back. But she didn’t attack him just yet.
+
+“You’re willing to sacrifice all of the Mortal Realm for the sake of your own goals.”
+
+“Do you really care about these mortals that much?”
+
+Belzu snarled in response. But Salvos just shook her head.
+
+“No— but unlike you, I will never do such a thing. Not to Humans, not to Elves, not to Spirits, and not to Demons.”
+
+It was a [Hellhound].
+
+A wild Lesser Demon. It was weak— injured from a previous fight. But it fortunately stumbled upon the group of Infant Demons. It tore through their numbers. It chased them down one after another. There had been dozens of them at the start.
+
+Now, only Belzu and the female Infant Demon remained. They were both chased into the deepest depths of a cave. She stayed by his side as they both hid in a small alcove right by a cliffside. The cavern led only to a large crevice that plunged into darkness.
+
+The [Hellhound] prowled the corridor leading in and out. Their only exit was blocked by their hunter. There was no way to escape. Belzu was sure of it
+
+But he had also seen the way that wild Demon acted. He had watched how it precisely pounced on each of its targets. Belzu knew that he could lose the [Hellhound] as he somehow tricked it into falling down the crevice. He just needed to bait it out.
+
+And he found his bait huddling next to him.
+
+She was his savior. His sister. She eyed him with those round black eyes. Belzu saw the look on her face. He heard the growling of the approaching [Hellhound].
+
+Was it cruelty? Or was it necessity? Belzu didn’t know. He could hardly even comprehend such concepts, but even back then, he hesitated before making his decision.
+
+It happened so long ago. But even till this day, Belzu remembered the way she stared at him as she fell down the crevice. He recalled the snarling of the [Hellhound], and he recalled turning away right as the wild Demon crashed into her.
+
+He didn’t stay to watch as both his sister and the wild Demon fell to their deaths.
+
+All for his own sake, Belzu sacrificed the Infant Demon who saved him. He killed his own sister to survive. He did everything he could from then on just to live in that terrible hellscape. He learned the magic of trickery. He mastered his illusions so that he could escape even the most precarious of situations.
+
+Whether it be fleeing from the Demon King’s forces.
+
+The newly-evolved [Imp] hid behind a thin white veil as he saw the marching Greater Demons. They wore strange metallic objects around their necks, and they ushered forward dozens of Infant Demons, with force if necessary.
+
+Or surviving even in the most hostile environments.
+
+The [Baal Imp] flitted quietly over the slumbering creature. The beating of his wings would normally make a loud buzzing sound, but it was muffled thanks to his magic. Even as he crossed the entire length of the Beast itself.
+
+Somehow, he managed to avoid waking it. And after what felt like forever, he reached the other side of the valley to safety…
+
+Belzu had done it all so he could survive. So what was he doing now? Why was he trying so hard to kill the Demon King?
+
+He closed his eyes, and a voice echoed amidst the chaos.
+
+“Do you know what that makes you, Belzu?”
+
+Salvos yelled as she stepped forward. She raised the gray flames, aiming it at Belzu’s head from afar.
+
+“It makes you wild.”
+
+The Lord of Lies hovered there for a single moment. Salvos faced him down. He opened his eyes, and she held his gaze.
+
+“Now that’s enough. We can figure out another way to stop this ritual without dooming us all.”
+
+Belzu stared at Salvos. He saw the determination in her face. He glanced up, watching as black spires rose all around him. The summoning ritual was nearing its completion. Not only that, he cast his gaze into the far distance and saw the army of Humans rushing to stop it.
+
+This was everything he had tried to stop. And the Lord of Lies knew it was now or never. Either he succeeded in his ambitions, or he died trying.
+
+So he ascended into the sky. He spread his arms wide as Salvos narrowed her eyes. He grabbed the danging threads of mana around him and began to enact the final changes to the summoning ritual.
+
+“You ask me why am I doing this, oh Sentinel of Secely? You ask me who do I care if not myself, Liberator of the Plaguelands? You wish to know why I oppose Regnorex, you, the Death of the Destroyer?”
+
+Belzu’s mandibles twisted as Salvos stared up at him.
+
+“I am doing this because I care about all of Demonkind.”
+
+With that, he snapped his fingers, and the world around the silver-haired girl changed.
+
+“I see now.”
+
+I whispered as a cascading curtain of darkness collapsed around me. The floor vanished beneath my feet. For a moment, I had almost thought that the summoning ritual had gone through. But I understood quickly that this was an illusion.
+
+Belzu had trapped me in his magic. He didn’t want me interfering with his plans. It was incredibly stupid, but he was going to follow through with it. And it was simply because he cared for all of Demonkind.
+
+I sighed and closed my eyes.
+
+“That… is such an obvious lie.”
+
+And I sprinted forward. I ran through the hallway of darkness, my footfalls echoing around me. But even as I sped past the revolving shadows, I didn’t move a single inch. I raised my flaming scythe and shouted.
+
+“If you cared about Demonkind, why did you try to kill me when we first met?”
+
+My eyes flickered. A large boulder bounded down towards me. I was about to leap over it, only to pause. Something told me not to react. To continue running. And so I did.
+
+“You knew I was not a wild Demon! You knew I was not with Regnorex! But you attacked me anyway!”
+
+I ran headfirst straight into the boulder. It phased right through me. A mere illusion. And when I saw a silver sickle flying towards me next, this time, I jumped.
+
+“We could have spoken. We could have worked together. You could have worked with Humans instead of making them your enemy. But you didn’t! Because you don’t actually care about anyone but yourself!”
+
+I leapt over the sickle. Nothing happened. It hadn’t been an illusion. If I had been struck by it, I probably would have died.
+
+“YOU KNOW NOTHING ABOUT ME!”
+
+Belzu’s voice shook the entire world of darkness, and I slowed. I looked up with wide eyes as the giant insect descended upon me. He was a hundred times his normal size. I was no larger than his bulbous eyes. I could see my tiny reflection in his gaze— a mere speck, like an insect.
+
+“I HAVE DONE EVERYTHING TO STOP THE DEMON KING. DO YOU NOT UNDERSTAND WHAT HE HAS PLANNED FOR DEMONKIND?”
+
+“And what’s wrong with Regnorex’s plan, huh?”
+
+I challenged Belzu, baring my teeth. I approached his hulking figure without fear.
+
+“I dislike Regnorex’s plan because he’ll endanger my companions. But what about you? What do you have against this merger?”
+
+And the illusion froze. I eyed the giant insect as it hovered over there without buzzing its wings. A smile crept across my face, and I tilted my head.
+
+“Surely you have an answer, don’t you, Belzu? Or maybe… I am right. Maybe you are wild.”
+
+At my taunting, the illusion broke free from its frozen state. The giant insect came diving down at me as I stood steadfast.
+
+“THE DEMON KING’S PLAN WILL RUIN DEMONKIND! HE WISHES FOR US TO GIVE UP WHAT MAKES US DEMON! HE WISHES FOR US TO LIVE LIKE MERE… MORTALS!”
+
+And the massive apparition of Belzu crashed straight into me. But I didn’t flinch, even as his figure exploded into a billion buzzing insects. Locusts, roaches, spiders— they swarmed over me. I was thrust into a sea of pestilence. It overwhelmed my senses. But it did not harm me.
+
+So I closed my eyes. I tuned out my hearing. The world grew eerily silent around me, and I was once again submerged in nothingness. However, this time, I did so willingly. The creeping feeling of insects crawling all over my body faded away. I had mastered control of what I perceived thanks to [Manifestation of the Old Gods].
+
+Belzu’s illusions wouldn’t bother me. I understood he was just trying to delay me. I tried to see through my spatial senses, but my vision was distorted by the warping of space by the summoning ritual. No sight. No hearing. No smell. No touch. No taste. No magic.
+
+I just walked forward anyway, unable to perceive anything. And [Angelic Premonition] guided my actions.
+
+“You’re right. The world of mortals is unlike our own. The world of mortals rejects us. The world of mortals despises us for simply existing. But so does our world! So does the Netherworld!”
+
+I spoke, but I couldn’t hear my voice. I took a step, and lowered my head. A deluge of chittering magical insects flew over me. When it dissipated, I continued.
+
+“The Netherworld is cruel. It is teeming with wild Demons that want to tear us apart. If we can somehow escape that life, wouldn’t it be for the better?”
+
+I moved, even while lost in my own head. I sidestepped a falling boulder, and I thought of the others. Even now, I recalled what they looked like. Each and every single one of them. Every little detail of their bodies. I recalled it all.
+
+An Infant Demon with a pair of antennae. An Infant Demon with light blue skin. An Infant Demon with large brown eyes….
+
+An Infant Demon with a single eye. One of the highest-leveled of them all. He had abandoned us when we met the large Demon, only to be killed by Simag at that valley for daring to flee.
+
+An Infant Demon with little nub-like limbs. She had been the kindest to me, waiting for me when I was lost. She had extended me companionship, even when I didn’t know what that meant yet. As brief as it was, perhaps I wouldn’t be who I was now if I hadn’t met her, and the memory of her being crushed by the large Demon was still as vivid as ever today.
+
+Finally, I recalled an Infant Demon with black and yellow spots. He had been there with the others, but I only reunited with him after I learned magic. I saved his life, and he had followed me for it. He became my first companion.
+
+Haec.
+
+We went through so much together. It seemed like so long ago, but even if the memory was distant, it remained close to my heart. He was the reason for everything I did in the Mortal Realm. It was all so I could get back to him.
+
+And I wanted to get back to him so I could bring him back here.
+
+“The world of mortals is beautiful…”
+
+I continued walking, speaking in a trace. It was like I was ascending a set of steps. I rose above a pulse of curse magic and let my scythe dissipate.
+
+I remembered my very first day in the Mortal Realm. I remembered wondering why the sky was blue, and I remembered watching in awe as butterflies fluttered peacefully around me. Not everything here wanted to kill me. Sure, I had fought against Dark Wolves and angry Humans, but I had also met friendly wolves and watched crawling caterpillars. I made plenty of companions here in the Mortal Realm.
+
+I gritted my teeth and came to a halt. I leaned back, and something just barely brushed by my cheeks. I took in a deep breath, before exclaiming as I snapped my eyes open.
+
+“So what is wrong with living in the world of mortals?”
+
+And I thrust a hand forward, tearing through the illusion. I pierced through the veil with the tip of my fingers. The darkness around me collapsed like broken glass, and a warm liquid poured down my arm.
+
+I looked up and saw Belzu right before me. We were both standing atop the domed roof the Demon King’s castle. He had his back against the wall, and his clawed hands were but an inch over my head. He had swung for my head and missed. But I stabbed him in the chest, and I didn’t miss.
+
+There was no scythe here. No flaming magic. No artifacts. Nothing. I impaled Belzu with my right arm alone. And I drew back.
+
+“I win.”
+
+Why was Belzu against the Demon King’s plan?
+
+When the Lord of Lies had first heard of it, he had been outraged. He was a measly Greater Demon who only cared for his own survival. He had lived for so long in inaction, watching as Genesis repeated itself again and again. He was beholden to his own terrors. A slave to his nightmares. And yet, he was more than happy to embrace these shackles.
+
+After all, they were his very own shackles he had placed upon himself. They weren’t the collars of the Demon King which he had worked so hard to avoid. And he was more than happy to remain in bondage to his own fears… until his anger had emancipated him.
+
+But what was wrong with Regnorex’s ambitions? How did it drive him so greatly?
+
+The Demon King wanted to bring Demonkind to the Mortal Realm. He had said the Netherworld was too harsh and cruel— he had promised a better life for all Demons if they followed him. And Belzu found it ridiculous.
+
+But why was it ridiculous? If Belzu didn’t have to live in constant fear of dying, his life would have been vastly improved.
+
+However, it was the fact that he had already lived through such a grueling struggle of a life that upsetted him. Because it was what made him a Demon. Or… so he thought.
+
+Belzu once again recalled his sister. His savior. He remembered the way she had acted. And it wasn’t just her, but the other Infant Demons with them too. Their brothers and sisters. None of them were bloodthirsty. They weren’t rugged and cruel creatures who only thought for themselves.
+
+They were innocent creatures. Kind and social. And most of all, they were all Demons.
+
+Back then, none of them had experienced the true terror of the Desolation just yet. They were completely unsuspecting of what was to come. But that didn’t change the fact that they were just as much Demons as Belzu.
+
+So his opposition to the Demon King’s plans were never about being a Demon in the first place. It was a lie the Lord of Lies told himself so he could rise to the occasion and challenge the greatest power of the Netherworld. But the truth was, he was upset that he was never given such a better life in the first place.
+
+Because it was unfair to him.
+
+And if he couldn’t have it, then no one else could have it. That was his drive. His goal. And he finally realized it as he sighed.
+
+“So once again, I was but a slave to my own desires.”
+
+Belzu closed his eyes as Salvos drew back. A gaping hole was left in his chest. He felt the black blood pouring out, and he crumpled to the ground. He lay there, dying as Salvos shook her head.
+
+“There is so much in the Mortal Realm for me to explore. I have yet to see the full extent of the Kobold lands. I haven’t even visited the rainforests of the Elves. I want to fly to the Endlands. I want to meet a Dragon one day.”
+
+She spoke wistfully as the world rumbled and tore around her. Belzu hardly even reacted. He just stared at her as his body went numb.
+
+“And that is why I will stop Regnorex’s plans. Not for the sake of Demonkind, nor for the sake of Humankind.”
+
+“But for your own sake.”
+
+Belzu spoke, and Salvos paused. He eyed her as his vision blurred. He could barely keep his bulbous eyes open. He just watched as she glanced down at the summoning ritual. The spell circle was growing brighter than ever, although the reflective image of Regnorex and his army had vanished.
+
+And she looked back up to meet Belzu’s gaze.
+
+“For my sake, yes. And for my companions.”
+
+He stared at her for a moment, before chuckling with his clicking mandibles.
+
+“In the end, we are not so different.”
+
+“But we are.”
+
+Salvos replied in an instant. Belzu mustered up the strength to shake his head.
+
+“We are both beholden to our desires. You will ruin the only chance of a better life for all Demonkind for your own sake. So we are but the same.”
+
+“And yet, I am Salvos, while you are Belzu.”
+
+She spoke over him as if that was a rebuttal. It was ridiculous. But Belzu knew what she meant. He understood the distinction between them. In acting for her own sake, Salvos would act for the sake of others. Whether it be her companions, all of Humankind, or some baby Wyverns. She fought for them because she cared for them, and that was ultimately a selfish thing.
+
+The same could be said for the Demon King. His grand design was not for himself, but for all of Demonkind. And that was why both Salvos and Regnorex were going to inadvertently clash.
+
+But Belzu’s selfishness was limited only to himself. In acting for himself, the Lord of Lies would act to the detriment of others. There was no one else in his schemes. Only he would benefit, while others would suffer.
+
+Closing his eyes, Belzu wondered if he had ever done something for the sake of others.
+
+And he remembered.
+
+It had happened so long ago. He must have forgotten the truth. All this time, he must have lied to himself. But now, the buried memories resurfaced, and his oldest memory was breathed with new life.
+
+Belzu hesitated as he heard the approaching [Hellhound]. He knew it would soon arrive. Its footfalls drew closer, and he made his decision.
+
+He turned to his sister and met her gaze. He stared at her into her deep black eyes. She didn’t know what he was doing, and he didn’t know what he was doing either. He just moved. Belzu started forward, ready to sacrifice himself to the [Hellhound].
+
+But he was stopped by a sudden movement. His sister got in the way and shook her head. Belzu’s eyes widened as he realized she knew what he was doing. And she wasn’t going to allow it. He was his sister. She was his savior. There was only one way for either of them to survive.
+
+And he wasn’t going to let him be the one to die.
+
+She leapt out of the alcove as the [Hellhound] snapped its gaze towards her. Belzu watched his sister edge up to cliff, and the [Hellhound] pounced. She fell back with the wild Demon as he let out a silent cry and rushed after her. But she was already tumbling down into the darkness as the [Hellhound] ripped into her side.
+
+Belzu stared at his savior as she vanished down that hole. He watched as she nodded his way before finally disappearing into the eternal darkness, saving him once again.
+
+“One final lie.”
+
+Belzu whispered as he no longer could feel his body. He didn’t even know if Salvos was standing there over him anymore. He could no longer hear the roaring of the summoning ritual. He didn’t feel cold. He didn’t feel afraid. He felt nothing at all.
+
+An all-encompassing darkness encroached on him, and the Lord of Lies let out a soft sigh.
+
+“I do wonder… if this time… that was… the truth…”
+
+Defeated [Hellprince of the Desolation - Lvl 168]!
+
+More experience is awarded for defeating an enemy at least 10 levels above you!
+
+Less experience is awarded for defeating an enemy with the help of others!

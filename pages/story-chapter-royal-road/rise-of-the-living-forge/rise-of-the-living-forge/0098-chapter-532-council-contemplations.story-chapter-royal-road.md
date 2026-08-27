@@ -1,0 +1,129 @@
+---
+id: a2cf4227-e936-58e0-9a02-4dd228140172
+page-type-slug: story-chapter-royal-road
+title: "Chapter 532: Council Contemplations"
+slug: 0098-chapter-532-council-contemplations
+partOf: rise-of-the-living-forge
+position: 98
+ownLength: 1618
+unit: words
+ownProgress: 1618
+publishedAt: 2025-12-24
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2876530/chapter-532-council-contemplations"
+royalRoadId: "2876530"
+markedReadAt: "2026-06-29T20:01:34.410Z"
+---
+
+Arwin had only managed to take two steps into the Devil’s Den before Lillia emerged from the darkness to arrive before his group.
+
+“You have good timing,” Lillia said with a relieved grin. “Everyone okay?”
+
+“It was simple enough. Arwin steamrolled everything,” Anna said.
+
+“Don’t give me credit for everything,” Arwin said. “Everyone did great. It was a team effort. Is Art’s team—”
+
+“All fine,” Lillia confirmed. “And you’re needed. Grab some random thing from the loot. The Dwarves are already here. They were ahead of schedule.”
+
+Arwin blinked, but he wasn’t taken aback for long. He shoved his hand into the bag with all the magical loot they’d gathered. It was completely chock full of beautifully crafted magical equipment, the vast majority of it gold or some other precious metal. There was something amusing about having a literal fortune stuffed into an old tarp bag like a bunch of potatoes.
+
+He didn’t bother reading any of the items’ stats too closely. They’d already checked over everything while they were collecting it in the dungeon. None of the items here were so powerful that he couldn’t afford to let the Dwarven Council hear of them.
+
+He just chose a small dagger and palmed it, making sure nobody in the dining room caught a glimpse of the item. Olive and Kien took the bag from him without a word. They nodded, then shuffled it off toward the basement and away from any prying eyes.
+
+Lillia grabbed Arwin by the wrist. Then they were off, hurrying toward the back room.
+
+“We’re going toward the torture room?” Arwin hissed. “Don’t tell me—”
+
+Lillia glared at him without missing a step. “Why does everyone call it that? It’s not a torture room! Torture just happens there sometimes! It’s entirely a coincidence. You don’t call the kitchen the murder-room because I kill a few chickens in there, do you?”
+
+“Why are the dwarves in the not-torture room, then?”
+
+“Because it’s isolated,” Lillia grumbled. She paused at the entrance of the room to send another glance at Arwin. “Is it really that suspicious?”
+
+“Yes,” Arwin admitted. He scratched the back of his head. “Sorry.”
+
+Lillia just sighed. “I’ll have to do something about that. We can worry about it later. You ready? It’s not Indrana’s people. It looks like there are factions within it, but these dwarves claim to be impartial and serve the council as a whole.”
+
+“Anything else?” Arwin asked.
+
+Lillia shook her head. “No. They seem reasonable enough. Not stupid. They’ve definitely got an agenda, but who doesn’t?”
+
+“Fair enough,” Arwin agreed. “Introduce me, then?”
+
+Lillia grinned. And, with that, the two of them swept into the room. The door slammed shut behind them with an ominous thud, making the three dwarves waiting at the table all flinch slightly.
+
+You know, Lillia really isn’t doing herself any favors with regard to the spooky torture-room when she does stuff like that. Then again… it doesn’t hurt to have the dwarves on edge.
+
+“Ifrit,” the lead dwarf said before Lillia could even try to speak, her eyes latching onto Arwin instantly.
+
+“Just Arwin, please. You’re here to make a deal with us, so there’s no reason we can’t use our names. And there isn’t much I need to hide from anymore,” Arwin said with a wry smile. He and Lillia approached the table. “And you are…”
+
+“Haley,” Lillia said. “The representative of the Dwarven Council. They’ve been very impatient about getting a chance to see some of the items we got from the vault.”
+
+Arwin shrugged. He flipped the dagger out from behind where he’d hidden it behind his palm and set it down on the table. The little weapon was really rather impressive, but not for any of the reasons that most people would have noted.
+
+Its enchantments were good. There was no denying that. It was magically strengthened, would forever have a sharp edge, and had an ability that allowed it to cut through magical defenses— though that was likely limited by the strength of the defense in question.
+
+But none of that truly held Arwin’s attention. The true selling point of this dagger was the method in which it had been made. It was flawless. There wasn’t a single missed hammer strike or imperfection within the plain golden blade.
+
+Every single detail was stunningly perfect. No part of it was wasted. It all served a purpose. No impurity, no distraction, no confliction existed within the dagger. This could be considered a perfectly pure weapon. One that embodied its purpose to such a near impossible degree.
+
+As far as Arwin could tell, the weapon had never properly seen the inside of a forge.
+
+None of the items in the vault had.
+
+They were, for lack of a better word, natural. Nobody had forged them. Not in any manner of crafting that could ever be considered forging. It would have been more accurate to say the weapons had been grown.
+
+Each one of them was made from a single piece of metal that had seemingly formed itself into the shape it desired. Arwin had never seen its like before. The items were fascinating. He had every plan of studying them for himself once he got a chance to try and unearth what technique had been used to create them.
+
+Perhaps some wouldn’t have cared about the craftsmanship. But something told Arwin that they would be hard-pressed to find a group more interested about the method in which an item had been made than the Dwarven Council.
+
+Sure enough, the moment Haley spotted the dagger, her eyes widened. She didn’t get a chance to control her expression. The awe crossed her features instantly.
+
+“What is that?” Haley murmured, extending a hand for the dagger.
+
+Lillia caught Arwin’s eye. He pulled his hand back.
+
+“We said you could look,” Lillia said with a shake of her head. “Not that you could have anything. Don’t push your luck.”
+
+Haley swallowed. The dwarf’s eyes lingered on the dagger for a second longer before moving back to meet Arwin’s gaze. “The other items are like this?”
+
+“Yes,” Arwin said. “They aren’t all weapons, but they were forged in the same manner. I noticed it as well. Fascinating, isn’t it?”
+
+Haley pressed her lips together. She was silent for several long moments. Then she nodded. “Would you consider selling—”
+
+“No,” Lillia said.
+
+“I didn’t finish,” Haley said.
+
+“You didn’t need to,” Lillia replied with a smile. “We know what we have, Haley. And we’ve made it very clear what we’re doing. The Menagerie is more than happy to partner with the Council, provided you offer sufficient compensation. We have a number of interesting items that will be up for auction. And when word gets out, I imagine we’ll draw the attention of others who have interesting objects as well. We’re not going to sell our stock and our chances of drawing attention to our Auction House.”
+
+Haley pursed her lips. “Very well. Let us discuss terms, then. The Council is interested in investing.”
+
+“Partnering,” Lillia corrected. “We don’t need investment. Just backing from one of your puppet guilds to add to our legitimacy and a few guards to back up our defenses should be more than sufficient.”
+
+“And what, specifically, will you give us in exchange?” Haley tilted her head to the side. “You make it sound like those are small boons you ask for. They are not. We do not back guilds easily.”
+
+“And we are not an easy guild to back,” Lillia countered. “You’ll get access to the VIP section of our auctions. That gives you a chance to bid on items before anyone else.”
+
+“Hardly a large boon,” Haley observed. “The opportunity to spend money in competition with other wealthy patrons? That seems to favor you much more than it does us.”
+
+“We’re in Milten,” Arwin said flatly. He crossed his arms in front of his chest. “Are you really implying that the Dwarven Council doesn’t have the resources to outbid someone coming all the way to the outskirts of the empire? That’s embarrassing.”
+
+Haley paused. Then the corner of her lip twitched. “Perhaps. That’s a fair argument. But the implication that Milten is some unknown town is no longer true. It has grown in fame. Especially with our backing, the auction will not be small. There will be wealthy individuals here. We do not want to spend ridiculous amounts of money on trinkets.”
+
+“Then you’re in luck.” Lillia’s smile grew predatory. “The VIP section of the auction isn’t going to be dealing in gold at all.”
+
+Haley hesitated. “What?”
+
+“The only currency accepted in the VIP section of our Auction House will be rare materials and ingredients,” Lillia said smugly. “And that, I believe, should be simple enough for an organization like the Dwarven Council. You’re sitting on a mountain of rare materials. There won’t be many people able to compete with you in that regard.”
+
+Realization passed over Haley’s features as she realized that she’d talked herself into the exact spot that Lillia wanted her in. The dwarf’s eyes narrowed. A second dragged by. Then, reluctantly, she nodded.
+
+“That is true,” Haley allowed.
+
+“Then we have a deal?” Lillia asked innocently.
+
+Haley studied the two of them for a few more moments. Then she blew out a small sigh. It wasn’t one of true annoyance. The Council had so many resources that they probably could have tossed the Menagerie more than they could ever use and not even notice. Haley knew she’d been outmaneuvered… but the deal was just too good to pass up.
+
+“Yes. On behalf of the Dwarven Council, I agree to your terms,” Haley said begrudgingly. “We accept your deal.”

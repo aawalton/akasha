@@ -1,0 +1,193 @@
+---
+id: ac12a88c-bc13-57c8-9ba0-1eeb883a385f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 530: Fall of the Frozen Star + short break till Feb 6th"
+slug: 0052-chapter-530-fall-of-the-frozen-star-short-break-till-feb-6th
+partOf: reborn-as-a-demonic-tree
+position: 52
+ownLength: 2880
+unit: words
+ownProgress: 2880
+publishedAt: 2026-01-26
+link: "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/2981932/chapter-530-fall-of-the-frozen-star-short-break"
+royalRoadId: "2981932"
+markedReadAt: "2026-06-29T19:03:18.967Z"
+---
+
+Stella flew through the dragon-sized tunnels of the palace toward the surface, hoping to run into Grand Elder Hanxu on the way, as she assumed the corpse-like man hadn't made it that far—but as she reached the final level below the surface, the whole building suddenly trembled violently—the ceiling cracked overhead, and loose chunks of ice rained down all around her.
+
+"Is the palace under attack?" Stella said, exchanging a look with Janus, who was floating at her side.
+
+"Or the volcano is erupting?" Janus mused. "Either way, staying underground is a bad idea."
+
+Stella nodded in agreement. "See you on the balcony," she said while tearing a rift into the aether. A moment later, she reemerged on the palace's large balcony that overlooked the volcano. It didn't appear to be erupting, but her attention was immediately drawn to the sky above, which was serving as the stage for a great battle. A grand blizzard raged, blanketing the entire volcano and barely obscuring the dozens of white- and black-robed cultivators duking it out within. Hail rained down upon the city below as they fought, with the worst of it hitting the palace and the surroundings.
+
+And at the center of it all was Grand Elder Hanxu. The peak Nascent Soul Realm cultivator floated half a mile opposite Grand Elder Vokar and seemed to be the source of the blizzard. He had an icicle sharpened into a sword at his side, and he was radiating bloodlust.
+
+A spatial portal opened beside her foot, and Janus rose from it. A deep frown adorned his lips. "I never thought I'd see the day that Hanxu and Vokar finally fought. Have they exchanged any blows yet?"
+
+"Not that I've seen, they just seem to be staring at one another," Stella absent-mindedly replied as she searched the aether plane and quickly confirmed that Zeph was with Jasmine. Knowing that her disciple was safe, she could focus on the fight above.
+
+"Why do you stand in my way, Grand Elder Hanxu!" Grand Elder Vokar roared, his Qi-empowered voice tearing through the sky like thunder. "Ao Lingxuan has been enslaved like a dog! His reign over the Frozen Star Sect is over! You have nothing left to fight for, so just roll over and die for me!"
+
+"Nothing left to fight for?" Hanxu's expression twisted. "Do you think I live and die for Ao Lingxuan?"
+
+Laughter boomed. "What else would Ao Lingxuan's servant have to live for?"
+
+Hanxu met Vokar's gaze and sneered. "Ao Lingxuan? He was nothing but a guard dog for my true mistress," he pointed his sword down at the palace. "For a hundred years, I have been waiting for this moment, Vokar."
+
+"What are you doing, Hanxu?" Vokar said, and a look of faint concern appeared on his face.
+
+Stella was also confused. Wasn't Hanxu supposed to be Ao Lingxuan's right-hand man? How could he call him a guard dog?
+
+"Ao Lingxuan guarded the vault," Janus muttered at Stella's side, "does that make Ilyzathar Hanxu's true mistress?"
+
+Stella furrowed her brows as she looked up at Hanxu, pointing his sword at the palace balcony she was standing on. The man seemed incredibly calm as the other white-robed loyalists gathered around him in a circle.
+
+"What am I doing? I'm making sure that you, and everyone else, will never be able to defile or leech off Ilyzathar anymore." A flash of ice Qi shot from Hanxu's sword and impacted the palace. But instead of damaging it, the ice palace began to glow with power, as many hidden runic formations Stella had never noticed came to life.
+
+Stella floated a few meters into the air and began analyzing the formations powering up beneath her feet, but a cry of pain from above drew her attention. Hanxu had decapitated one of his followers, yet the others remained in the circle around him. The corpse-like Grand Elder calmed his hand on the body's exposed neck, and he threw his head back in ecstasy as life seemed to surge into him.
+
+"Did he just absorb that man's soul?" Janus said in disbelief.
+
+"Is that... even possible?" Stella asked. "I thought only monsters or demons could grow in power from absorbing the souls of others."
+
+"That's what I thought too. Was Grand Elder Hanxu secretly a demon all along?"
+
+"I don't know what twisted plot you are up to, Hanxu," Vokar rushed forward and tore through the blizzard with ease, "but this is the end of your schemes!"
+
+Hanxu met the attack without so much as a glance, effortlessly parrying with such overwhelming force that Vokar's sword shattered on impact. The Grand Elder's arms burst apart in a grotesque spray of blood and bone, and his mangled body was hurled back through the blizzard.
+
+"What the?" Stella blinked. Had that been real?
+
+Janus was equally baffled by the sudden display of power.
+
+Seeing the fate of their Grand Elder, the rest of the volcano cultists kept their distance, with a few flying off on their swords toward the side of the volcano where Vokar had crash-landed.
+
+Hanxu swiftly killed his next follower and absorbed their soul too, their withered, frost-laden corpse dropping to the ground below and impacting the palace with a thud. He then moved on to the next, and the next.
+
+"I've always found it weird that Grand Elder Hanxu never had that true presence of a Nascent Soul cultivator, and he always avoided fights," Janus randomly mused as the pair watched the swift slaughter in disbelief. "Not to mention his rapidly deteriorating body, which he didn't seem in a rush to replace like any other cultivator would be. I don't think he's a monster or a demon. He just doesn't have an infant soul."
+
+"Huh? How do you know that?"
+
+"I've seen it once before," Janus explained, never taking his eyes off Hanxu in the sky. "When I was still in the Celestial Empire, I was dragged alongside the Empyra Enforcers to deal with a Nascent Soul Realm death Qi cultivator who was trying to sacrifice people in Umbraholme to bring his dead wife back to life. The wife's soul was long gone, so the madman had put his own infant soul into her."
+
+"Why would he do that?"
+
+"I suppose he just wanted to see his wife walk around again, even though her soul was long gone," Janus said, shrugging. "I don't know how their twisted minds work. The point is, I noticed that the death cultivator could absorb other people's souls. At the time, I chalked it up to him being a death cultivator, but what if all Nascent Soul Realm cultivators who have infused their infant soul into something else now have an empty void to take on more power?"
+
+Stella contemplated her brother's theory but found one issue. "Even if that were possible, wouldn't doing so be practically suicidal? When I cultivate Qi, I infuse it with my own will and knowledge of the dao. It no longer resembles the aether Qi you can find in reality. It's uniquely mine." She glanced up at Hanxu. "Recklessly absorbing so much foreign Qi will lead to the death of your soul."
+
+Janus nodded. "Weirdly, I don't believe that is a concern of his. He just wants to gather as much power as he can."
+
+"But for what?" Stella couldn't make sense of it. "No matter how strong he gets, this power-up can only be temporary. His only way to win here is to kill every last one of the volcano cultists."
+
+"Even if all of them are defeated, you and Zephyrine are still around. There has to be something else to his plan," Janus said, narrowing his eyes. "The question is what?"
+
+"Do you think I should stop him?" Stella asked while watching Hanxu kill the last of his followers.
+
+"I'm not sure if you even can," Janus replied. "Zephyrine will have to get involved, and he might go supernova at any moment, wiping out the entire sect in the process."
+
+Stella frowned. Maple could possibly devour Hanxu before he went supernova, but the Worldwalker was busy working alongside Zephyrine to enslave Ao Lingxuan's soul, and there was no telling how long that process would take. Is this why Hanxu had chosen this moment to execute his plan? Because all the Monarchs were busy?
+
+Hanxu opened his hand, letting the last of his decapitated followers fall to the ground. Flexing his hand, which was wreathed in a near Monarch Realm level of ice Qi, he grinned. Turning his head, he looked down at Stella.
+
+"Foreign Princess, you forced my hand today. But now, her great return cannot be stopped."
+
+Despite the distance between them, she could see it in his eyes; anyone could. They were those of a crazed person who had gazed upon something they shouldn't have.
+
+"He's lost control," Janus muttered.
+
+"I'm not sure he ever was in control," Stella replied, withdrawing her sword from her spatial ring. "Do you remember how those of the loyalist faction tried to blindly push past me to reach Ao Lingxuan during his fight with Zeph? I don't think they cared about Ao Lingxuan at all—they were just attracted to his primordial ice Qi, like moths to a flame."
+
+"They say exposure to too much Qi at once can drive you crazy from the affinities' whispers," Janus rose into the air next to her and also drew his sword. "You don't suppose this madman touched Ilyzathar's corpse?"
+
+"I fear he might have done more than that," Stella grimaced. "But that still doesn't explain the mountain of gold burying Ilyzathar. If he wanted to cultivate the primordial ice Qi coming off the corpse, why would he allow it to be suppressed? All that did was give rise to the volcano cultists and cause problems."
+
+"Didn't he just say something about 'her great return'?"
+
+Stella glanced at Janus. "You don't suppose he is talking about Ilyzathar?"
+
+"As unlikely as it sounds, that's the only logical option. But to revive a corpse as ancient and powerful as Ilyzathar doesn't sound feasible. Her soul is long gone, and the amount of Qi you would need to gather..." Janus suddenly paled. "I think I just figured out what he stuck his infant soul into."
+
+"Ilyzathar..." Stella trailed off as she felt the hairs on the back of her neck raise to attention. Both of them slowly glanced down, and Stella noticed the palace was trembling ever so slightly. Cracks then began to show, and the trembling worsened as if a great beast were struggling against the weight of its own grave.
+
+Stella shot higher into the air, her eyes wide as the spiderweb of destruction spread, widening into fissures that spewed out icy mist. The tremors intensified into violent quakes as the volcano groaned and started to crumble in on itself. The distant flank of the volcano, past the palace, heaved upward and bulged unnaturally. The layers of ice cracked, and entire cliff faces were suddenly hurled into the sky, only to crash down onto the sect below in an avalanche that shook the world.
+
+Something massive was trying to break free of its prison, and it was only a matter of time before it did so.
+
+"Oh, great herald of the primordial ice!" Grand Elder Hanxu bellowed, arms flung wide, robes whipping in the chaotic winds. "I welcome your return!"
+
+Stella didn't hesitate. "Janus, go!"
+
+The two vanished in flashes of Qi, mere heartbeats before the ground erupted with a roar that cracked the heavens. A colossal ivory dragon's head, mouth wide open, burst forth, shrouded in white soul flames that froze the world around it.
+
+Hanxu didn't avoid the gaping maw—he welcomed it with open arms.
+
+"Come to me, O great Ilyzathar! I offer my mind, body, and soul to fuel your return into this world!"
+
+There was a thunderclap as the dragon's mighty jaws slammed shut around Hanxu, silencing him forever. The dragon continued to pull its titanic body free. The volcano crumbled entirely in on itself, and avalanches roared down the sides of every cliff as the mighty dragon unfurled her wings with a screech that split the sky and cast an ominous shadow that blanketed the land.
+
+"Um," Stella said as she saw the flames of life ignite in the dragon's empty eye sockets. "Did he really just manage to resurrect Ilyzathar?"
+
+Janus shook his head. "Similar to the case of the death cultivator's wife, it's only a body puppeted by an infant soul. Ilyzathar is long and truly gone. Ironically, I'd argue this is the epitome of defiling a corpse, the very thing Hanxu was accusing Vokar of doing."
+
+The massive dragon roared and swung its claw toward the terrified volcano cultists in the sky. While it seemed to move in slow motion due to its sheer size, the tiny dots in comparison were caught in the beast's claw with ease, crushed to death, and then devoured.
+
+"I think I see why Hanxu allowed the volcano cultists to stick around. They were going to be nothing but food for Ilyzathar."
+
+Stella pouted. "Well, this is rather annoying. Not even an hour after becoming this sect's Matriarch, a giant undead ice dragon has been resurrected, destroying the sect and killing its people."
+
+"You sound less mad than I expected you to be," Janus replied as he surveyed the destruction and chaos.
+
+Stella shrugged. "I only came here in search of Fleshfruit trees and to meet you. Enslaving Ao Lingxuan and gaining ownership were unexpected bonuses. Besides, I doubt the people of this sect would have treated me like their new Matriarch anyway, even if I am stronger than them and enslaved Ao Lingxuan."
+
+"Yeah... people reluctantly bend the knee to power, but power doesn't automatically grant the authority one needs to be a leader," Janus chuckled. "Besides, you don't want to lord over these gambling fools anyway and be stuck in these frozen lands. Trust me."
+
+Stella sighed. "I'm tired, cold, and want to head home. But I suppose we should deal with this first."
+
+"Mhm, I suppose we should."
+
+A silence passed between them, neither making a move.
+
+Janus side-eyed her. "Well?"
+
+"Well, what? I was hoping you were going to do something."
+
+"Against that thing? Even if I could scratch it, it would be a terrible waste of Qi."
+
+"Oh," Stella said, looking unimpressed.
+
+"Why don't you stop it?"
+
+"I touched Ilyzathar before, and the Qi coating my finger didn't last a second against the primordial ice Qi in those bones," Stella replied, shrugging. "I doubt I could do much against her."
+
+"If you knew that, why did you expect me to go fight Ilyzathar?" Janus asked her skeptically.
+
+"Because I wanted to see you lose terribly," Stella replied with a deadpan expression. "Any more questions?"
+
+Janus stared at her for a moment and then slowly looked away. Another silence hung over the conversation as the two watched Ilyzathar continue to tear the Frozen Star Sect apart. It was chaotic, loud, and oddly a beautiful display of catalytic strength. Dozens of cultivators hurled endless techniques at the dragon, but all of them fizzled and crystallized the moment they came near the aura of frost surrounding the dragon.
+
+The beast continued to move, slaughtering everything in its way until it devoured the last of the voncalo cultists that had stubbornly remained and started seeking out more prey.
+
+"We seem to be next," Janus remarked, as Ilyzathar turned to gaze at them.
+
+"I'm not so sure about that. Teleport over there," Stella said, pointing to the left.
+
+Janus did as she asked and teleported away. Sure enough, Ilyzathar switched her focus to Janus.
+
+"She is hunting for sources of Qi, and mine is hidden by my artifact," Stella explained. "Which makes only you next. It was nice knowing you, brother!"
+
+"I'm going to ask Zephyrine for help," Janus quickly replied and teleported off.
+
+Stella tracked him through the aether plane and saw him arrive in the Lion's Den, which was being held together by Ao Lingxuan's ice Qi pouring out of him as he tried to fight off Zeph and Maple's attempts to restrain him.
+
+Ilyzathar briefly tracked Janus's location, with her claw raised as if ready to crash down, but once the dragon's gaze landed on the Lion's Den, she seemed to lose interest.
+
+Is it because there are multiple Monarch Realms in there? Stella pondered. The dragon seemed to be acting with more awareness than a mere beast, so perhaps it had deemed trying to devour three Monarchs too risky.
+
+Ilyzathar hunted around for a bit longer but didn't locate any prey to eat. So, expanding her wings, the dragon took to the skies over the ruined volcano. The beast scanned the horizon for a long minute, and then something caught her attention in the distance, causing her to shoot forward with a speed that didn't match her colossal size. Sonic booms echoed across the frozen lands as she left blizzards in her wake.
+
+Stella didn't think much of the chosen direction until she realized Ilyzathar was heading eastward, toward the Ashfallen Sect, and that's when she remembered why Nyxalia avoided Ashlock at all costs.
+
+Because he was like an irresistible beacon of Qi.

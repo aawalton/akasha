@@ -1,0 +1,158 @@
+---
+id: fc229ce9-891d-5887-9ff9-746643932fcd
+page-type-slug: story-chapter-royal-road
+title: "Chapter 271: Ashleaf"
+partOf: rise-of-the-living-forge
+position: 13
+ownLength: 2116
+unit: words
+ownProgress: 2116
+publishedAt: 2024-09-09
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge-stubbing-to-ch555-in/chapter/1795494/chapter-271-ashleaf"
+royalRoadId: "1795494"
+markedReadAt: "2026-06-29T19:58:52.613Z"
+---
+
+The Ashleaf Tree crashed down onto Arwin with the weight of a falling mountain. It slammed into the Wyrm’s Revenge, sending a wave of force tearing down Arwin’s body and through his feet into the ground.
+
+It nearly crushed him. Even with [Indomitable Bulwark] and [Scourge], it took every scrap of power that Arwin had to remain standing. The tree was massive and, even if he ignored the fact that an enormous plant was trying to beat him to death with its own body, it was a giant tree. There was little surprise that it was heavy.
+
+Arwin’s joints groaned and his knees shuddered. A shockwave rolled over him and out across the room from the force of the impact. Branches crunched and leaves rustled as the top of the tree smacked against the ground, raining razor-sharp blades all around him.
+
+For a brief instant there was silence.
+
+Then the roar of a Wyrm filled the air. All the power that had gathered in the Cursed item released. It ripped free from his shield’s mouth, spilling rolling black fire out like a raging river bursting free from behind a dam. The fire slammed into the Ashleaf Tree with such intensity and force that it carved a path straight through the trunk.
+
+Leaves crackled and withered in an instant. The trunk blackened and cracked from the intense heat and the tree jerked back, nearly ripping itself free of the ground in its haste to escape the attack.
+
+Thick patches of dark flame clung to its surface like Greek Fire. The tree thrashed, and Arwin ducked behind his shield a moment before a thick branch slammed straight into him. Even though he blocked the blow, its force was enough to lift him off his feet and send him flying across the room.
+
+He dismissed the Wyrm’s Revenge as he hit the ground in a roll. Roots scraped against his armor and caught on his flesh. Arwin slammed to a halt against a wall, the breath ripped from his lungs.
+
+Healing light rolled over his body no more than a second later. Relief came with it. Arwin shoved himself upright, still blinking the stars from his eyes. Someone yelled out a warning. He couldn’t tell from where it had come, but he reacted without thinking.
+
+The Wyrm’s Revenge re-materialized in his hands. He braced himself, lifting it above his head. A shadow passed overhead. An immense force slammed into him. More leaves tore across the ground, driving into it like spikes. Arwin staggered. His arms nearly buckled, but he managed to hold strong.
+
+There was only so much that [Scourge] and [Indomitable Bulwark] could do. He was down by more than an entire Tier, and the gaps between tiers only rose as the ranks went up. There was no way he could handle keeping the huge monster’s attention completely on his own.
+
+Fortunately, Arwin was not on his own.
+
+The darkness receded as a flash of yellow light lit the room. Arwin lowered The Wyrm’s Revenge just in time to see golden energy envelop Rodrick. His sword glowed with magic as he unleashed a series of three powerful slashes into the tree’s trunk, each one leaving a deep furrow in it swake.
+
+The Ashleaf Tree shuddered in either pain or fury — Arwin couldn’t tell which. Roots twisted up for Rodrick. He bounded back, water swirling at his feet with every step. More roots rose in his path, but Rodrick spun toward Arwin and redirected in his direction. The former paladin was using [Flowing Steps], his armor’s ability that increased his movement toward his allies. But, instead of running to protect them, he was using it to reposition.
+
+Roots erupted in a cage around Rodrick, sending brick spraying up into the air. Shadows shot out at the same time, manifesting themselves into a bar above his head. Rodrick leapt, grabbing onto the bar, and swung himself out of the roots’ reach before they could close down on top of him.
+
+Reya and Olive both dashed toward the Ashleaf Tree’s trunk. Arwin dismissed The Wyrm’s Revenge — the monster wasn’t targeting him at the moment — and resummoned Verdant Inferno as he broke into a run as well.
+
+[Scourge] empowered his legs. He bounded across the roots, vaulting over them before they could reach him, and arrived at the trunk just moments before Reya and Olive did.
+
+With a roar, Arwin swung his hammer. It slammed into the side of the tree’s trunk in the same spot he’d hit it before. Wood splintered and cracked, but the attack was no stronger than the last one he’d unleashed — Verdant Blaze only did increased damage when he attacked without blocking a blow.
+
+Arwin reared back to swing the hammer a second time.
+
+Olive reached the trunk first. Blue energy slammed into the tree as roots lifted from the ground and tried to bind around her. The monster locked in place and Olive’s sword crawled through the air toward its target.
+
+Reya’s magic wore off.
+
+Roots shot up — and Wyrmhunger met them. Reya cut the roots apart before they could reach Olive, her dagger thrumming with delight in her hands. Arwin could practically hear its song filling the air.
+
+Verdant Blaze vibrated in Arwin’s grip. Its head slammed into the Ashleaf tree. Wood crunched, louder this time, and the ground beneath him shuddered. Roots lifted toward Olive, trying to stop her before her sword could connect with the trunk, but Arwin and Reya had bought her enough time.
+
+Her blade met trunk.
+
+Wood sliced apart like paper. Olive’s sword continued until it had traveled nearly halfway through the huge tree trunk, several feet above the Dungeon Heart. Fire crackled in its wake, licking at the wood as Olive’s enchanted weapon fought to find purchase on the Ashleaf Tree.
+
+Strands of shadow slithered across the ground. They wrapped around Olive and Reya, yanking them back an instant before two massive branches swung down like axes. They slammed into the ground where the girls had been a moment before with enough force to shatter the bricks.
+
+One of them swept toward Arwin. He dropped to the ground, not willing to dismiss Verdant Blaze and sacrifice the two stacks of [Shieldbreaker]. The branch passed overhead, brushing so close that its ends rapped across Arwin’s helm and made his ears ring.
+
+He rose back to his feet, pouring [Soul Flame] into Verdant Inferno. The hammer drank the power and hummed with brilliant blue fire as he swung it a third time, striking the same spot in the tree.
+
+A third loud crunch echoed through the room. This time, the entire tree shuddered. Fire roared out from Verdant Inferno as Arwin ripped it free of the growing hole. Roots shot for him, but more blue light washed over the tree’s surface and bought him time to dodge out of the way.
+
+He didn’t get a chance to swing the hammer again. Reya’s magic faded and another branch crashed down for him. Arwin dismissed Verdant Inferno. He drove a hand into his pocket and ripped free a bracelet, slamming it into his mouth and biting down.
+
+Power poured down his throat and flooded through his body.
+
+Chitinous Band: Rare Quality
+
+[Chitinskin]: Activating this item will turn its wearer’s body to chitin and greatly reduce their range of movement at the continuous cost of magical energy.
+
+Arwin’s skin turned glossy and gray. He raised his hands above his head. The branch slammed into him, but the extra resistance the item pumped his body full of kept the impact from doing much more than momentarily shaking him.
+
+He dug the claws on his right gauntlet into the branch, activating their ability, [Reave]. Energy crackled at their fingertips as he raked them along the wood, stealing a small amount of power from the tree. It wasn’t much given the difference in their level, but every single scrap counted.
+
+The floor bucked in fury.
+
+Roots shot up from beneath destroyed brick. Another branch plummeted from above, glistening with bladed leaves in search of blood. Its shadow passed over Arwin.
+
+Rodrick arrived beside him, driving a foot into the ground with such force that the dead roots at his feet crunched and shattered. He leapt into the air with a roar, driving his shoulder into the branch and knocking its path askew.
+
+Shadows bore Reya and Olive to Arwin’s side and their weapons ripped the roots to shreds before they could reach him.
+
+The magic from the bracelet Arwin ate faded, but even as it did, he shoved a second one into his mouth and bit down.
+
+[Rough Band]: Rare Quality
+
+[Roughhousing]: This item is imbued with the anticipation of old metal that seeks to perform one last time. Every attack made while it is worn will do increased damage at the cost of considerable magical energy.
+
+Power drove into Arwin’s chest like a runaway horse. His stomach clenched, his muscles stiffened. He ground his teeth as he reared back, drawing every single scrap of energy he had in his body.
+
+With a thought, Arwin summoned Verdant Inferno back to his hands. He activated his gauntlets, sending their power into the hammer. [Soul Flame] joined it, re-igniting the hammer’s head with molten fire. The air around him hummed with power.
+
+Then, with a snarl, Arwin swung the hammer.
+
+It streaked through the air like a blue comet. Slammed into the side of the tree, in the exact same spot that the last few strikes had hit it.
+
+There was an earsplitting explosion. Wood vaporized within the sea of fire that burst from Verdant Blaze’s head, tearing into the Ashleaf Tree like a blade. Branches at the top of the tree snapped and spun free. The roots holding it to the ground screamed and creaked as they tried to resist the force of the hammer blow.
+
+Then they snapped.
+
+The Ashleaf Tree tore free of its base. It pitched back, suspended in the air for a brief moment before it hit the ground with a resounding crash. The floor bucked beneath Arwin’s feet and Olive stumbled, driving her sword into a stray root bunch to keep herself from falling.
+
+Dust swirled into the air. Then there was silence, only broken by the heavy breathing of the Menagerie.
+
+Arwin slowly lowered his hammer. He dismissed his gauntlet and helm, wiped his mouth with the back of his wrist, swallowed, and re-summoned it once more.
+
+“Is… it dead?” Reya asked, holding Wyrmhunger before her and shifting her weight from foot to foot.
+
+“No energy yet,” Olive warned. “Be careful.”
+
+Lillia walked up beside them, shadows twisting at her side and rising up behind her. Rodrick stood beside her, his eyes darting in search of anything that might try a sneak attack.
+
+A thump echoed through the room as the Dungeon Heart pulsed, still embedded in the top half of the tree. Arwin glanced in its direction.
+
+“Is it going to revive?” Arwin asked warily.
+
+Lillia stuck her hand into Arwin’s travel bag. She rooted around in it, then pulled out the carefully wrapped potion that Esmerelda had given him. The glass must have been special, because it wasn’t so much as scratched from the fight.
+
+Without a word, Lillia popped the cork off the potion and poured it onto the tree stump.
+
+They all stared at it.
+
+“What do you think the chances are that was actually a healing potion?” Olive asked as she fought to catch her breath.
+
+Anna walked up alongside her. “I have to admit that would be a funny joke.”
+
+“It would be,” Olive agreed.
+
+“We have different ideas of jokes,” Reya said.
+
+A wet, squelching whimper rose up from somewhere deep within the roots. Sickly red lines appeared in the stump, winding their way throughout it. Wherever they touched, the tree withered and softened.
+
+It only took seconds for the red to work its way through the rest of the stump. By the time it was done, the entire thing had turned into a wet pile of mushy red and black slag. The Menagerie stared down at what remained of the tree.
+
+I almost feel bad for the tree. This just feels disrespectful. Like pissing on a grave.
+
+“I don’t think it was a healing potion,” Olive said.
+
+“Thank you, Olive,” Reya said through a snicker. “Very astute.”
+
+The Mesh seemed to agree.
+
+Everyone other than Arwin and Lillia stiffened and drew in sharp breaths. At the same time, Golden letters shimmered through the air before Arwin.
+
+The Ashleaf Tree was dead.
+
+All that remained was to collect whatever rewards the Mesh saw fit to give them for their efforts.

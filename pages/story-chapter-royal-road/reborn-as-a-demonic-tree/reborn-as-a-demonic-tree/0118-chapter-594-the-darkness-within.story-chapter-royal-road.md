@@ -1,0 +1,333 @@
+---
+id: af210283-51a6-5300-b477-fbebe13efcb5
+page-type-slug: story-chapter-royal-road
+title: "Chapter 594: The Darkness Within"
+slug: 0118-chapter-594-the-darkness-within
+partOf: reborn-as-a-demonic-tree
+position: 118
+ownLength: 4018
+unit: words
+publishedAt: 2026-07-22
+link: "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3712267/chapter-594-the-darkness-within"
+royalRoadId: "3712267"
+---
+
+Aurelian detonated what was left of his domain.
+
+The blast caught the fake Evaline mid-lunge and threw him backward through the doorway in a wall of cosmic fire. The explosion thundered through the lower levels of the flagship, swallowing the room in flames and roiling smoke.
+
+He hit the corridor floor hard, rolled once, and forced himself up on shaking legs.
+
+His robes were singed black at the hems, his Qi was bleeding from a dozen invisible wounds in his Inner World, and the room behind him was a roaring furnace—but he made himself look back.
+
+He shouldn't have.
+
+A shadow rose within the inferno, silhouetted against the cosmic flames. Its shoulders shuddered in a rhythm that wasn't quite walking, wasn't quite breathing. The wings unfurled.
+
+Aurelian ran.
+
+Mist surged out of the burning room behind him, rolling down the corridor in a heavy wave, smothering the flames and drowning the passage in dense haze.
+
+"Where are you hoping to go?" the fog whispered against his ear, intimate as a lover. "There's nowhere to run. No chance of escape. The mist—it's inescapable."
+
+The wall beside him exploded.
+
+A tree root erupted through the steel paneling in a spray of shrapnel, lancing toward his ribs. Aurelian threw up his arm to bat it aside and immediately regretted it.
+
+It was like trying to backhand a mountain.
+
+The root slammed into him with the weight of a world-shaking landslide, drove him into the opposite wall, and pinned him there before he could draw breath. A second root burst from the floor between his legs and coiled upward, looking for his throat.
+
+Gritting his teeth and struggling against his entrapment, he glanced down the corridor and saw the Archdemon walking toward him through the dissipating smoke, unhurried.
+
+I knew I should never have set foot in the wilderness. The chilling stories of man-eating monsters weren't for amusement—they were a warning I ignored.
+
+He drove a cosmic Qi-wreathed fist down on the root pinning him.
+
+Once. Twice. On the third strike, the bark splintered, and so did every bone in his hand. The pain was a white flash that didn't distract him from the true threat.
+
+The Archdemon.
+
+He tore himself free and unleashed a volley of cosmic beams down the corridor, each one a needle of compressed starlight. They scoured through the mist in straight, screaming lines.
+
+The Archdemon didn't dodge. She let them pass through her, like sunlight through smoke.
+
+It's like fighting a bloodthirsty fog, he cursed, as he turned and ran instead of flying to conserve energy. To ensure he wasn't trapped again, he forcefully heightened his perceptions to the maximum and pushed against the demonic haze to seek out any roots lurking in the walls before they struck.
+
+Five more roots came for him. He saw each one a moment before it struck and twisted aside, the steel walls shrieking as the strikes punched through where he had been.
+
+Yet, when the corridor became a mess of shrapnel and tree roots, the Archdemon relentlessly followed at a walking pace. Her incorporeal body faded through everything with ease.
+
+Aurelian used that to create distance. He rounded a corner and another and another, the roots never relenting for a second to impale him. It was as if the entire flagship was alive and under the spirit trees' control.
+
+Climbing a set of stairs to the upper level, he rounded another corner and felt his heart leap out of his chest.
+
+She was waiting for him at the end of the corridor.
+
+"How are you here?"
+
+"Did you go up, or did you go down?" the demonified Evaline replied. Her head tilted unnaturally like an owl. "All your life, you've trusted your senses, Grand Elder Aurelian Vasthorne. But with those senses suppressed, with everything you see lying to you—how sure can you be that what's in front of you is real?"
+
+"I..." he began, but faltered. If this person were a regular Monarch, he would try to appeal to their desires or empathy. He could offer money or favors, maybe even beg for his life. But something told him that wouldn't work against an Archdemon. Her seemingly relaxed approach to chasing him wasn't out of caution.
+
+It was out of amusement.
+
+The Archdemon's wings unfurled.
+
+They consumed the corridor like an eclipse, and she lunged at him in a rushing tide of mist before giving him a chance to ponder her words or respond.
+
+Aurelian fled to the stairs only to find they now headed upwards. He had no choice, so he sprinted up them, lungs burning from the demonic Qi mist, and stumbled into the corridor at the top.
+
+He froze as he recognized it.
+
+Tree roots crisscrossed the passage like the ribs of a giant beast, and at the far end was the doorless room that held the real Evaline. Her cries of torment, while lessened, could still be heard.
+
+If I free her, I can throw her to the demon and flee this place, he thought, his mind racing for any thread of hope. The spirit tree on the surface, which radiated earth Qi, must be the source of the shield trapping me in here. The roots through the ship prove it's tied to this flagship. If I can break it, the shield will falter, and I can escape.
+
+A plan with many holes and assumptions, but it was a plan nonetheless. Something to hold onto with hope.
+
+He burned through his dwindling cosmic Qi reserves and carved a path through the roots, the corridor groaning around him as severed limbs writhed and splintered in his wake. He stumbled into the doorless room.
+
+Evaline was still kneeling before the glass, exactly as he had left her, tormented by something he couldn't see.
+
+"Evaline! Can you hear me?!"
+
+No response.
+
+He hammered his fist against the glass, earth Qi rippling across its surface. "Evaline!"
+
+Still no response.
+
+Bloodlust radiated down the corridor behind him like a chilling breeze that froze his body in primal fear. Gritting his teeth to force his body to move, he stepped back and unleashed a beam of Monarch Realm cosmic Qi at the pane.
+
+His blinding cosmic fire didn't shatter the glass as he expected. Instead, it was more like trying to burn a hole through a sheet of rock. He funneled more into the beam until he weakened the glass enough to shatter a hole through it with a kick.
+
+Tumbling through the freshly made hole, he landed on the other side, breathing hard, just as the Archdemon appeared in the doorway behind him. He met her shadowed gaze, crying tears of blood, and felt like he was staring death itself in the face.
+
+He desperately grabbed Evaline by the shoulders and hauled her limp body to her feet. "What is wrong with you?" he rattled her. "Talk to me."
+
+"Aurelian," she replied, her voice wrong. "Aureliaaaaaan."
+
+He dropped her to the floor and staggered backward.
+
+That thing wasn't Evaline.
+
+"What are you—"
+
+It came at him like a ghoul—white hair whipping, fingers hooked into claws—and tore at him with a savagery the real Evaline would never have shown. It looked like Evaline but seemed possessed by the desire to kill.
+
+He whipped his cosmic fan from his sleeve and snapped it open, channeling the weight of his fractured Inner World into the strike. The fake Evaline went sailing back into the wall with a sickening crunch. The wall, wreathed in earth Qi, dented from the force, exposing layers of roots behind.
+
+For a short moment, Aurelian thought she was dead.
+
+The noise of bones snapping back into place filled the room, and Evaline raised her bloodied head to look at him. Her eyes were filled with nothing but hate.
+
+"It's me, Aurelian," he tried to reason with her. "Why are you trying to kill me? Did the Archdemon make you like this?"
+
+She wordlessly came at him again. He smacked her back in kind in an even more brutal fashion, only for her to get back up and try again and again.
+
+Each time he batted her away, and each time she rose with no concern for the bones breaking inside her body, like a doll being thrown by a child who didn't know it could feel pain. The Archdemon waited beyond the plane of glass, watching and lurking in the mist. He could feel her watching. And every flick of his fan was Qi he wouldn't have when she finally decided to step in.
+
+"Evaline, you're a proud Monarch of House Brynhold! It saddens me to do this to an old friend, but you leave me with no choice." Cosmic Qi flared along the fan's leaves, and he unleashed a technique he'd been saving—a cascading sweep of compressed starlight that crashed down on the not-Evaline like a celestial tide. When the light faded, she finally stayed still.
+
+Aurelian fell to one knee, breathing hard.
+
+The dense demonic haze that blanketed the room had been quietly eating away at him the entire fight. He could feel the Qi loss in his Inner World like blood loss in a body. He was lightheaded and weak. His soul cried out for rest, but he could not grant it.
+
+He tried to dismiss the rising despair over what had been lost in a single battle. Centuries of painstakingly cultivated Qi wasted, and damage to his Inner World that no amount of riches looted from the Ashfallen Sect lands could replace.
+
+Forget gains and losses. This is a battle to the death.
+
+He forced himself up and trudged over to the broken thing on the floor while the Archdemon continued to watch. He picked Evaline up by the throat, rage coursing through him.
+
+"What are you?" he demanded, shaking her violently. "Answer me!"
+
+Amused laughter echoed through the room.
+
+"Heart demons aren't usually too adept at talking."
+
+The Archdemon's voice slid through the mist like silk drawn across a blade. Her voice would entice him if he weren't aware of its source. "You see, they're like leeches spawned from one's darkest thoughts and desires. They live inside you, feed off your shadows, and use your body as a mouthpiece—a puppet to enact their hatred upon the world. Without a body, they can do little more than enact their nonsensical wrath when formed from a weak host."
+
+Aurelian stared at the limp thing in his hand.
+
+"This is her heart demon?"
+
+"Given a more suitable form by the mist to lure you in, but yes." The Archdemon snapped her fingers, and the bloodied girl in his hand morphed into something else, something grotesque. Her skin peeled away to reveal the rotting mess that lurked beneath.
+
+Disgusted, Aurelian threw her to the ground with a wet splat and tried to flick the filth off his hand. He stared at Evaline's beaten and broken heart demon for a horrified breath before turning to the Archdemon that waited beyond the glass plane.
+
+"What happened to Evaline? Did you kill her?"
+
+"No. Evaline was a smart girl. She knew fighting an existence such as myself was a fool's errand." The Archdemon grinned with far too many teeth. "She made a deal."
+
+A deal with a demon, Aurelian's jaw clenched.
+
+"What was the price?"
+
+"Her soul."
+
+For a long moment, he said nothing. Then a dry, humorless laugh broke out of him.
+
+"So the proud Brynhold sold her soul to a demon." He shook his head. "What a backstabbing bitch. If we'd worked together, we could have defeated you—"
+
+"Perhaps." The Archdemon stepped through the broken pane as though the glass had never been there. "But that's what you get for teaming up with a rival instead of someone you trust."
+
+Aurelian raised his fan, but barely had any fight left in him. "Stay back, or I'll—"
+
+She was there before the word finished leaving his mouth.
+
+Her hand closed around his throat with a strength that no incorporeal form should have possessed, and she lifted him off his feet and pinned him to the wall with ease.
+
+Their gazes locked, and for the faintest moment, Aurelian thought he saw something human in them. Something he could talk to and connect with, only for that feeling to fade when she sniffed him.
+
+"Evaline was far too righteous and kind. Her heart demon was weak and hardly more appetizing than what I dined on in Hell." She leaned in, and he heard her gulp with anticipation. "But yours? I can already taste it from here."
+
+She placed a finger on his pounding heart and whispered like a lover, "Shall we confront your demons together, Grand Elder Aurelian?"
+
+Aurelian's eyes bulged. Something rose from within his chest. A pressure, a wrongness, a thing that had lived in him for centuries and had never been called to the surface before. Given the call, it was desperate to emerge, to escape.
+
+His heart demon was crawling out through his mouth.
+
+He gagged as his jaw was wrenched open by something inside. He felt fingers closing around the inside of his teeth and pulling. The Archdemon held him there against the wall, watching with sadistic interest as a hand emerged first. Pale and pristine like his own. It gripped the edge of his mouth and pulled. The rest followed.
+
+Aurelian hoped this nightmare was another elaborate illusion as the thing that crawled out of his throat dropped to the floor with a grotesque, wet squelch and began to unfurl like a chick emerging from an egg. The man, if it could even be called that, straightened up and matched him in height.
+
+It was like staring into a mirror. The imitation of him had the same long silver hair, the same narrow patrician face, the same constellation of tiny rotating stars settling into place around his shoulders.
+
+But the eyes were wrong.
+
+It was said that the eyes were the window to the soul, and in this moment, Aurelian knew it to be true. The eyes of his heart demon were what Aurelian had never let anyone see. Not his rivals, not his servants, not his own reflection in his most private moments. The naked, hungry, curdled thing that lived behind a thousand years of polished smiles.
+
+The Archdemon released his throat, and he dropped to his knees, retching.
+
+"Oh, Aurelian." Her voice was almost tender. "He's beautiful. Are all the men of House Vasthorne this rotten on the inside, or is it just you?"
+
+The heart demon turned its head toward Aurelian with a slowness that was somehow worse than speed. It smiled with a stolen smile. His smile. The one he wore at council meetings when he was lying.
+
+"Brother," it said, sending chills down his spine. "You always came so close to giving in to your hatred, to letting go and giving me control." Its voice matched his own, but the tone was different. It was darker and more self-serving.
+
+Aurelian tried to push himself up. His legs wouldn't hold him.
+
+"I'd never allow another to control me," Aurelian spat blood. "Especially not a hideous thing like you."
+
+"Yet you continued to feed me and live a life of lies," the heart demon continued, walking toward him on bare feet. "Every time you smiled at Evaline at the gatherings. Every time you watched a lesser house burn because they offended you. You said it, brother, that I will watch the world burn one day, and that day has arrived."
+
+The thing's stars rotated faster.
+
+Aurelian forced himself upright against the wall. The fan was still in his hand, somehow. He raised it.
+
+"You are nothing without me," Aurelian sneered. "You are a parasite made from my darkness!"
+
+The heart demon snarled and lunged.
+
+Their identical fans met in a thunderclap that rocked the room.
+
+Aurelian had expected to overpower it. A heart demon was a leech that fed on him. It shouldn't have a tenth of his strength. But cosmic Qi roared from the thing's body in a flood, and his own arms buckled under the strike. His broken hand shrieked with pain and the fan trembled in his grip.
+
+Of course it was strong.
+
+It had been cultivating in him for a thousand years.
+
+Every dark thought he'd ever had fed its power. Every petty cruelty, every swallowed humiliation, every time he'd smiled at a peer while imagining their throat cut. He had been pouring fuel into this thing for ten centuries, and now the Archdemon was forcing him to confront it.
+
+"Surprised, brother?" The heart demon's smile widened. "You always wondered why your cultivation slowed in recent decades despite being heralded as a prodigy. Where do you think it all went?"
+
+Aurelian shoved the fan aside and twisted away, putting distance between them.
+
+"Archdemon!" he called, his voice fraying. "Call it off! I'll give you anything! My fleet, my spatial rings, I'll even fight against the Empire like a loyal dog in your name, anything—"
+
+"Mm." She sat herself down cross-legged on the broken pane of glass as though it were a cushion, propping her chin on her knuckles.
+
+"Tempting. But I'd like to see how this ends first." She smiled at him with the amusement of an empress entertained by watching men bleed. "Don't worry. If you win, we'll discuss your future."
+
+A backhand caught Aurelian across the jaw before he could reply, and he tasted blood. He hadn't tasted his own blood in eight hundred years. His heart demon wasn't interested in his pleas to the Archdemon who had freed him. It just wanted to hurt him out of spite for being contained for so long.
+
+"Do you remember the kitchen girl?" the heart demon asked conversationally, circling him as he nursed his jaw. "Her rejection of your confession as a child is what birthed me. The hatred, the murder at the tender age of seven, and the taste of her blood off the knife is what gave me form." It grinned. "I enjoyed that night as much as you did. The power it gave us, the feeling of getting back at her for hurting our pride."
+
+"Shut your mouth—"
+
+"Do you remember Lady Verena? You told yourself she chose you. That she loved you. Even after she begged to be freed from your clutches—"
+
+"SHUT UP!"
+
+Aurelian's domain detonated outward despite the state of his Inner World.
+
+Stars erupted around him, not the elegant rotating constellation he used in show matches but a swarm, dozens of them, each one a small wrathful sun spinning out of his control. The room blazed with white. The heart demon was thrown back, robes scorching, and for one breath—one single breath—Aurelian saw something flicker across its face that wasn't a smile.
+
+Even my heart demon can feel pain.
+
+He pressed forward, fan raised, Qi roaring through his shattered hand. He drove the heart demon back with strike after strike, and for the first time in this entire nightmare, he was not the one being beaten.
+
+Then his stars began to splutter.
+
+Not all at once. One by one, each tiny sun dimmed as the demonic mist snuffed them out. He felt his Inner World collapse like stolen breath. The cosmic dao that had been his foundation for a thousand years was failing him.
+
+The heart demon laughed.
+
+"You can't burn brighter than the dark you fed me, brother."
+
+It surged forward.
+
+They met in the middle of the room in a final exchange that lasted an hour. Fan against fan. Cosmic Qi against cosmic Qi. Exhausted to the bone, the heart demon got a chance to drive its weapon toward his throat. Aurelian, with a clarity born of pure terror, drove his fan into the constellation rotating around the heart demon's shoulders.
+
+It was a weakness of his own design that he refused to admit to and could now exploit.
+
+The stars shattered around the heart demon, causing it to stagger.
+
+For a tense moment, the two of them stood face to face, their hair matted to their foreheads and robes scorched, breathing in the same ragged rhythm.
+
+Aurelian summoned a spear.
+
+"Killing me won't forgive your past, brother," the heart demon whispered.
+
+Aurelian drove it through the creature's chest with a grunt.
+
+The heart demon dissolved. Not into mist, but into a fine ash that fell around him like the snow of his family's estate, where he had grown up, where he had pushed his little brother off a roof and called it an accident.
+
+Aurelian fell to his knees in the ash.
+
+He was alive.
+
+He had killed the worst thing inside himself, and he had never felt so alive. Despite what the heart demon claimed, he felt cleansed of his sins, and this feeling of being freed from his darkness was better than any cultivation pill or technique could ever be. The bottleneck that had plagued him and seemed insurmountable was gone.
+
+He started to laugh, but it hurt. He was broken in all the ways possible, but he had won. He had survived a fight against his own heart demon. He closed his eyes and rested against the wall, filled with a sense of accomplishment.
+
+A slow, delighted clapping brought him crashing back to reality.
+
+He slowly opened his eyes.
+
+The Archdemon was still seated cross-legged on the broken pane, applauding lightly. Her smile had not changed. Her wings stretched lazily behind her without a hint of her intentions.
+
+"Bravo," she said. "Truly. I haven't enjoyed such a spectacle in a while."
+
+She leaned down and touched the ash, and it swirled up around her fingers with fervor as if drawn to her. She gathered the remains of his heart demon into a little ball and, to his horror, she ate it.
+
+Aurelian couldn't do anything as the Archdemon rose from her throne of glass and moved on to consume what remained of Evaline's heart demon. She then turned to him.
+
+"Now," she said, licking her fingers with delight, "about that anything you offered me earlier."
+
+Aurelian's blood ran cold.
+
+He had killed his heart demon. But he had spent every drop of Qi he had to do it. His Inner World was a ruin. His hand and body were shattered. What remained of his domain was nothing more than a light show illuminating his imminent demise. He didn't even have the Qi left to go supernova.
+
+Aurelian was nothing but a breathing corpse, and the Archdemon had barely needed to raise a hand to reduce him to this state. The demonic mist had greedily sapped away at his strength, and his own foolishness had done the rest.
+
+"You see, Aurelian," the Archdemon said, leisurely walking toward him, "the real trick of a heart demon isn't that it's strong. It's that fighting it always costs you everything you have left. Especially for someone as rotten as you."
+
+She crouched in front of him, cupped his face in her hand, almost gently.
+
+"And you never had as much to live for as you thought you did."
+
+"Wait, please," he wheezed. "I can offer you—"
+
+She placed a finger on his lips and shushed him. "I do, in fact, have a use for you."
+
+A final ray of hope.
+
+"Though I don't need you alive to do it," she said. All the amusement vanished from her expression. Her interest in him dying like his heart demon moments ago. "I just need your body to command the fleet alongside Evaline as if it were my own."
+
+Unconcerned with his final struggles against her grip, she pried open his mouth, and he felt that foul demonic mist pouring inside and burning his soul.
+
+"Surrender your body to the mist, Aurelian, and allow me to do the rest," she said tenderly. "Maybe you will get lucky and wake up as a tree one day, because trust me, the cycle of reincarnation is the true hell."
+
+Those were the final words he heard as his soul was lost to the demonic mist and his life faded into the darkness he thought he had conquered.

@@ -1,0 +1,103 @@
+---
+id: 34eb28fb-8e11-5aac-b5ae-fded3ddeb0ef
+page-type-slug: story-chapter-royal-road
+title: "Chapter 531: Satisfied"
+slug: 0097-chapter-531-satisfied
+partOf: rise-of-the-living-forge
+position: 97
+ownLength: 1539
+unit: words
+ownProgress: 1539
+publishedAt: 2025-12-23
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2873591/chapter-531-satisfied"
+royalRoadId: "2873591"
+markedReadAt: "2026-06-29T20:01:32.623Z"
+---
+
+“Is this meant to be an intimidation tactic?” Haley asked as Lillia sat down across from her in the back room of the Devil’s Den.
+
+The dwarf’s two guards stood at her back — though any intimidation factor the three may have had was slightly reduced given that Haley’s head was only barely able to make it over the table. The chair wasn’t quite tall enough for her.
+
+“Why would I need to intimidate you?” Lillia asked, interlacing her fingers and leaning on the table. “We have no reason to be hostile. Do we?”
+
+“There’s blood on your table,” Haley said flatly.
+
+Lillia grimaced. Evidently cleaning hadn’t gone quite as well as she’d hoped. It wasn’t her fault they didn’t have a room to properly dispose of bodies.
+
+Well, technically it is my fault, but I’m not building a torture-room. This is a meeting room that occasionally gets used for slightly more nefarious purposes. If people would stop trying to screw with us, then it would just be a meeting room.
+
+“It’s been used as a butcher room once or twice,” Lillia said. “Space is hard to come by, you know. We’re not exactly living out of a castle.”
+
+“You could have fooled me,” Haley said. “This place is so heavily fortified with magic that it might take a small army of humans to break in. I’d say it’s no less defended than many of the nobles’ villas are. Probably more.”
+
+It took a small force of will for Lillia to keep a grin from crossing her lips. Haley didn’t know the half of it. The vast majority of the Menagerie’s true defenses were completely hidden — unless Uriel was traipsing through the streets again.
+
+“We have a lot of enemies,” Lillia said with a shrug.
+
+“But less than you used to,” Haley observed. The dwarf’s sharp eyes bore into Lillia. “The Iron Hounds. Jessen. A run in with Twelve of the Setting Sun, of all people. One after which he has not been seen.”
+
+“We found that our views differed,” Lillia said with a shrug.
+
+“The Blacktongues’ manor, in flames after a birthday celebration for their new heir. One in which their second heir joined your guild,” Haley continued. “A number of their biggest clients stolen. And we haven’t missed what happened to the Ardent Guild. They were set up to be the strongest force in Milten, but they’ve been completely forced out by a mysterious partnership between the Montibeau family and the Dawnseekers. Both of which have close ties with the Menagerie.”
+
+“Is doing business illegal?” Lillia asked. “Or are you just buttering me up?”
+
+“The Menagerie is a crafting guild,” Haley said. “Except you’ve somehow placed incredibly high in the Proving Grounds, gotten Ranked by the Secret Eye in combat guild lists, and annihilated just about every single group that stood in your way. That includes a rogue dwarf warrior.”
+
+Rogue? Looks like Indrana is twisting the narrative a bit. He was definitely here on her orders. But if they’re not mad at us about it, I don’t really care how she frames things.
+
+“We make do,” Lillia said. “And not all of us are crafters. Is there a direction you’re going with this?”
+
+“No,” Haley said after a moment. “I was simply making an observation. Your guild seems suspiciously strong for such a small group. But in the end, all of that comes to naught. It won’t convince the real big names to sell or buy rare items from your Auction House. Not without some proper backing.”
+
+“Yes, you’ve made that point already,” Lillia said. “And while I’m sure we’d be able to find a solution, we certainly wouldn’t say no to smoothing the process along.”
+
+And more importantly, getting the Dwarven Council invested in this so you’re not one of the groups trying to tear it down. We can’t go up against both the Council and the Adventurer’s Guild. But as greedy as the Council is… if we get them to invest enough into us, they’ll almost certainly stay out of our way unless we start an overt war. That’s the whole point of this plan.
+
+The one thing I’m not sure about is those two dwarves that came after Art’s group. Even though it sounded like Rodrick redirected them, it seems like they were in different armor than Haley’s group.
+
+Were both groups sent by the Council? Or were the others by someone in the Council working toward their own goals? That’s going to make a big difference to how I can approach this, but it’s not like I can just straight up ask. Saying anything will just end up revealing that we had a decoy team and were planning on using the Council for cleanup from the start.
+
+“So?” Haley asked, tilting her head to the side. “You say we both want the same thing. Show me a piece of equipment from the Vault. Everything hinges on that. You say you’ve got it. The only reason you’d make me wait longer is because you’re trying to pull the wool over our eyes. And I don’t suggest that, innkeeper. I don’t suggest that at all.”
+
+“Are you threatening me?” Lillia asked.
+
+“Yes,” Haley replied. “But only if you’re lying. There’s nothing at all to concern you if you’re being honest. So why are you delaying?”
+
+“Because the last dwarf that came by promising he wasn’t looking for too much trouble tried to attack someone on our street,” Lillia said, her eyes narrowed. It wasn’t easy finding reasons to keep Haley waiting. The dwarf wasn’t asking for anything unfair. Getting a look at their newfound loot was a very reasonable request. But given the fact that Lillia didn’t have shit from the dungeon yet, she couldn’t exactly show Haley much of anything. “I’d like to make sure you’re not waiting to backstab us the moment you lay eyes on anything.”
+
+“Are you insinuating that the Council would stoop to such a low level?” Haley asked.
+
+Lillia stared at the dwarf. She knew for a fact that the Council — or at least, someone on it — had stooped to that level. And they’d done it no more than a few hours ago. For Haley to sit here and imply anything else was so ridiculous that she didn’t have a single response to offer up.
+
+Haley cleared her throat as Lillia’s gaze bore into her.
+
+“Perhaps I can understand your misunderstanding,” Haley said. “But please make no mistake. The dwarf that made the mistake of attacking you previously was under Indrana’s direct order. He did not represent the Council as a whole.”
+
+“And how do I know you do?” Lillia asked. “We’re not trying to stir trouble here, but we won’t be pushed around either. You’re asking for a lot of proof without providing any reassurance of your own. You could always wait for the actual auction to start in a few days, you know. The items will be on full display there. There’s no need for you to put your neck on the line if you’re that convinced that we’re trying to trick you.”
+
+Of course, that means you lose access to any ways to influence us to keep some of the choice items off the auction — and you don’t get to invest in the Auction House early, meaning a guild that the Dwarven Council isn’t affiliated with could hypothetically swoop in.
+
+There’s nothing that a ruling power hates more than letting someone else take a victory out from under their nose.
+
+“No. We want first look,” Haley said firmly. “Your reassurance is the armor we bear. Look.”
+
+The dwarf pressed a segment of her armor. It snapped open with a click, revealing a complex insignia embossed into the metal beneath with shimmering gold. Arcs of blue magic wove through the metal in a dim pattern.
+
+“Shiny,” Lillia said.
+
+“Only an official ambassador of the Council bears a mark like this,” Haley said, closing the slot once more. “It is proof of my identity. No smith could ever replicate this mark, and nobody would be able to wear this armor other than myself.”
+
+That’s true enough. The description says as much. But I don’t actually care if you’re officially with the council or not. What other shit can I distract her with? I’m running low on excuses. She’s going to start really suspecting something is up soon.
+
+“I see,” Lillia said. She leaned back in her chair and crossed her arms in front of her chest, letting her gaze linger on Haley for a long second. “Then, in that case—”
+
+And then Lillia paused.
+
+“Yes?” Haley asked, arcing a bushy eyebrow. “Go on.”
+
+Lillia smiled. Some familiar people had made their way into the domain of the Devil’s Den. They were back early.
+
+“I suppose I’m satisfied,” Lillia said as she rose to her feet. “Wait right here. I’ll go get something for you to take a look at. And, in the meantime, you can think about exactly what it is you’re going to offer us.”
+
+Their plan had been successful. Now, all that remained was to lock the Council into a deal before the dwarves could figure out that they’d been played.

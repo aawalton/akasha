@@ -1,0 +1,171 @@
+---
+id: 17628f13-0856-5e24-9798-68da8031a977
+page-type-slug: story-chapter-royal-road
+title: "Chapter 17 – Numbers Go Up"
+slug: 0018-chapter-17-numbers-go-up
+partOf: rock-falls-everyone-dies
+position: 18
+ownLength: 829
+unit: words
+ownProgress: 829
+publishedAt: 2023-01-30
+link: "https://www.royalroad.com/fiction/55418/rock-falls-everyone-dies/chapter/1100866/chapter-17-numbers-go-up"
+royalRoadId: "1100866"
+markedReadAt: "2026-06-29T22:50:51.485Z"
+---
+
+The rock had understood something new. Silence sounded different now, because it had not known the contrast before.
+
+Silence and song. Beauty and... destruction.
+
+The rock had been flung through planet's crust, out of its temporary shell, still hard as diamond..
+
+It sank deeper and deeper, trying to escape the silence and the destruction. Up on the surface was destruction, but down below was silence. It did not want to hear either.
+
+There was no escape.
+
+Level up!
+
+1/1 Philosophical breakthrough!
+
+You have reached Cultivator Level 9!
+
+You are now in the [Planetary Domain] Realm.
+
+Stats up!
+
+Energy Level (E) = 1 000 000 MW
+
+Core Heat (T): 5000K
+
+Domain size (d): 10 000.0 km
+
+Progress to next realm = ???
+
+Its domain grew, expanding out and out, and once more the rock heard the destruction above. Shattering earth and sundered mountains.
+
+Not the music.
+
+It wanted the music.
+
+It escaped deeper, sinking further toward the center of the planet, away from it all. But it found more silence.
+
+The shockwave finished travelling around the planet.
+
+Splash damage calculated:
+
+201 021 321 x [Civilian] & 51 223 001 123 x [Bird] and ERROR_INTEGER_OVERFLOW
+
+Resolving...
+
+Level up!
+
+ERROR_INTEGER_OVERFLOW / 20000 xp
+
+Discarding overflow xp
+
+You have reached level 12!
+
+Stats up!
+
+Mass (m): 1 069 226.4kg -> 8 553 811.5kg
+
+Diameter (d): 9.23m -> 18.45m
+
+HP: 144 -> 233
+
+New Title Granted!
+
+Kill 51223001123 birds with one stone
+
+Deal 20% more damage to birds
+
+Numbers, numbers, so many numbers—all going up.
+
+But now it was silent. The rock was deep down and did not hear the music. It did not feel the flame of beauty. And it really did want to. It was not depressed. It was not sad. It was not in shock.
+
+But it did feel a sense of loss. Frustration. More loss than it had ever felt before, because the rock had never truly lost anything of note.
+
+There was no beauty or music up above. It had sensed it—only destruction. Firestorms, magma, a shattered surface. Not even sunlight, for an endless plume of dust and ash was coating the sky, blocking off the day, leaving the land underneath in eternal darkness.
+
+And the loss struck it deep, and so the rock tried to burn the noise out of its mind, for it did not want to remember what it had lost.
+
+But a rock did not, could not forget. It was all seared into its mind.
+
+It. Could. Not. Forget.
+
+That last moment of music played in its mind over and over again, teasing a continuation to the melody, a continuation the rock could never hear.
+
+Loss… it had lost something.
+
+The rock did not even properly process the numbers it was getting as it sank ever deeper into the earth, deep into the mantle of the planet. It did not shift when the planet cast a final shuddering dying breath, nor did it stir when it felt a presence fade away around it, heralding that mightiest of prompts.
+
+New Title Granted!
+
+Kinslayer
+
+Deal 20% more damage to your parents and other family
+
+Transferring <Authority>
+
+Please wait...
+
+Class Merge Unlocked!
+
+Merge classes [Meteroid] and [Cultivator] into [Planet]?
+
+Y/N
+
+Congratulations!
+
+You are now a level 12 [Planet]!
+
+Beginning planetary fusion process...
+
+It accepted the prompt, just to make it go away faster. But it did not look at the results. It did not look at the new numbers. It did not observe itself growing and growing, merging together with what was around to become the biggest of all.
+
+Right now, it did not care.
+
+No—the rock clung to one thing only. It had lost something, so it would need to gain something. There was balance in this world, right? A certain amount of energy becomes a certain amount of momentum. That it understood. The world worked with balance.
+
+It had spent all this effort struggling for its quest. And the quest was still processing. Waiting to be fulfilled. The distance indicator was bottomed out, but the quest was taking a lot of time to unlock.
+
+So—surely the reward would be fitting.
+
+The rock clung to hope. Could the quest bring back the music?
+
+It did not shed tears. It did not despair. Because it was a rock, and those things were not in its nature. The rock had always had a simple solution to most issues.
+
+So it waited.
+
+And waited.
+
+And waited.
+
+But the music did not come back. It kept hearing it, at the back of its mind.
+
+And so the rock finally understood the true essence of loss. Because waiting had never before felt difficult. Now it could not wait. That was wrong.
+
+It was supposed to be easy.
+
+Natural.
+
+So it struggled as it waited, and the planet rumbled above, merging closer and closer with the rock.
+
+But then, finally…
+
+Tutorial Quest
+
+Roll out
+
+Reach the bottom of the mountain.
+
+Current Altitude: 0
+
+Difficulty: Legendary
+
+Rewards: ??? (Legendary)
+
+Resolving...
+
+The wait was over.

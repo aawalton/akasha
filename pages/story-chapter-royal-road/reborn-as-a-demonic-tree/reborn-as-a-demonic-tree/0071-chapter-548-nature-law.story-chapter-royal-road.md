@@ -1,0 +1,193 @@
+---
+id: fe772a97-07b9-5bbe-94cc-254d0e8776e5
+page-type-slug: story-chapter-royal-road
+title: "Chapter 548: Nature Law"
+slug: 0071-chapter-548-nature-law
+partOf: reborn-as-a-demonic-tree
+position: 71
+ownLength: 2703
+unit: words
+publishedAt: 2026-03-20
+link: "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3174520/chapter-548-nature-law"
+royalRoadId: "3174520"
+---
+
+Ashlock was trapped in another dream.
+
+Like the last one, he took on an energy-like form—this time, the ancient force of nature. What felt like centuries slowly passed by as he experienced life not as a tree, but as nature itself.
+
+During this indescribable amount of time, Ashlock surrendered to his situation and attempted to escape by carrying out nature's will. He wove vines around shattered swords, grew trees to reclaim fallen empires, and used moss to feed on forgotten gods. Life devoured death, only to give it life anew. At the start, he thought he understood what nature dao entailed, but as time passed, he realized how wrong he had been.
+
+Nature wasn't passive. It was relentless and inevitable.
+
+No matter how destroyed the world became after great battles and disasters, nature never gave up. It was stubborn and a perfectionist. Until the world was fully claimed by nature and shaped in its impossible image, it would keep going. Endlessly.
+
+Ashlock saw a sprouting sapling split a boulder in half. He watched flowers bloom from blood-soaked soil. He felt the will of the world—not in words, but in the silent determination of roots continuing to thrive under impossible conditions.
+
+Buildings built by monster and man that scarred the landscape all crumbled with time, and Ashlock slowly came to understand that nothing was eternal.
+
+Well, except for nature's pursuit of conquest.
+
+This was not the gentle nature of children's tales. He was carrying out the will of an ancient force that grew through corpses and cracked mountains with patience sharper than any blade. To wield nature dao was to embody persistence, reclamation, and the quiet certainty that life, no matter how often crushed, would always rise again.
+
+Upon finally coming to this realization and seeing the rising sun bathing the forest that he had grown with immense patience in its warm light, he was finally let go, and the dream world faded away.
+
+He returned to Red Vine Peak. No longer an ancient force, but now back as a tree.
+
+The sun was rising.
+
+He took a deep breath, using his entire root network like lungs, and relished in the nature dao he had been so blind to before.
+
+"Faelorian not only understood nature affinity to this extent, but he also allowed his soul to be shaped by it like all cultivators," Ashlock mused. "No wonder he was so arrogant. How could one not be when they have the relentless force of nature at their fingertips?"
+
+The sheer weight of the years he had spent in that dream started to lighten, but not entirely. Similar to his primordial ice dream, he felt as if he had experienced a significant passage of time and gained new insights that changed him and his thinking and perception of the world in indescribable ways.
+
+"Is this why the technique manuals and insights from cultivators were always so useless?" Ashlock chuckled. He couldn't even begin to imagine how to describe the profoundness of his experiences in words that someone could read and comprehend.
+
+He used his Gaze of the Tree God skill to observe Red Vine Peak and the surrounding wilderness from above for a while, simply enjoying the warm sunlight on his leaves and relishing the surrounding nature. Now that he was so attuned to nature dao, he noticed all the subtle things—such as the curling of new leaves pushing stubbornly through frost-bitten buds, the pale-green tips of grass slicing through the snow-speckled soil, and even the rhythm of the roots as they drank the residue left behind by nightly rainfall beneath the surface.
+
+The forest was awakening.
+
+Each tree, blade of grass, and lurking root held a purpose in carrying out nature's grand design. This included not only flora but also the many tiny creatures that stirred in nests and burrows, testing the air with cautious snouts. Insects traced invisible trails across bark and stone, while flocks of spirit-doves soared from distant peaks in search of food, painting the sky in streaks of iridescent blue.
+
+Ashlock could sense the land's nature Qi working in harmony. The frigid stillness of winter was retreating, not by force, but by being patiently outlived. Nature didn't conquer everything at once like a tsunami; it patiently endured its enemies until the time was right to bloom again.
+
+He marveled at how even his own mountain peak, once scarred by battles and stained by the corpses of beasts and cultivators alike, was healing. Unknown to him, nature was silently at work even under his very own canopy. Moss had claimed shattered rocks. Red vines that gave the peak its name slithered up ruined walls. Nature, quiet and unstoppable, was reclaiming what had been broken.
+
+Ashlock wasn't ignorant enough to try fighting it. If the dream had taught him anything, it was that nature always won.
+
+That's when Ashlock finally noticed the Monarch that had been impatiently waiting by Stella's bench for him to get his head out of the clouds.
+
+She collapsed in deranged ecstasy the moment he focused on her.
+
+"Oh! OH! MY GOD! Your gaze is so... touching. I can feel it all over me—"
+
+"Elysia, stop that," Ashlock said, almost surprised that he remembered how to speak after living life as the force of nature for so many years.
+
+She froze in place, but the madness never left her eyes. Much like Magnus, her body had undergone an evolution. She was now a weird mixture of human and tree, with black vines for hair and bark coating some of her bare skin and acting like dragon scales. A twilight mist constantly shrouded her like a veil, filled with what appeared to be floating spectral eyes that were unsettling, to say the least.
+
+Ashlock cracked open his trunk to expose his Evil Eye as he wanted to get a better look at her—a mistake.
+
+Elysia threw back her head, opening her arms and legs as if welcoming him in. "My god, please gaze upon the form I took for you and see if it's to your liking—"
+
+"As I thought, you reached Monarch Realm," Ashlock said, cutting her off and getting down to business. "What stage are you now?"
+
+"I made it to the 3rd stage," Elysia said while panting. "I wanted to reach higher to please you, but the pocket dimension I was in succumbed to my... experiments and collapsed."
+
+"What kind of experiments?" Ashlock asked, trying his best to ignore Elysia's crazed expression.
+
+"I—I crafted a statue of worthy size and magnificence in your image." Her eyes rolled back into her head as she let out a moan of ecstasy. Not in a sexual way, but more out of sheer happiness at being given his undivided attention. "W—While its creation was successful, the heavens didn't seem to appreciate its beauty and destroyed the pocket dimension in the process."
+
+Ashlock tried to ignore the insanity of what he was hearing. "What happened to the statue then? Is it destroyed?"
+
+Elysia darkly chuckled. "Definitely not. I assure you that the statue is nearly indestructible, even for the heavens. It likely found its way onto one of the layers of creation or is floating in the void."
+
+"So... there is a giant statue of me out there somewhere now?"
+
+Elysia nodded. "I'd have made more if the heavens had let me."
+
+The heavens rarely got involved in matters outside of ascensions. Whatever 'statue' Elysia had made must have been far from normal to provoke such a reaction.
+
+Ashlock finally let out a suppressed sigh. "I'm not sure how I feel about there being a massive statue out there somewhere crafted in your image of me. But I digress, can I see your Inner World?"
+
+"Why don't you just come inside me and see for yourself?" Elysia said and grinned.
+
+Ashlock was about to reproach her for such an inappropriate remark but then remembered that Elysia was linked to his ethereal root network and even knew about his system, which he had smartly called the divine voice—meaning he really could go inside her soul via Progeny Dominion.
+
+"You really have a way with words," Ashlock grumbled as he inserted a fragment of his immense soul into Elysia, sending her into pain that she seemed to enjoy far too much.
+
+Ignoring the masochist, Ashlock peered into her Inner World and came face to face with a demonic tree—his child, the tree that Elysia had attempted to raise as a replacement for him should he ever return to his old world. Mytherion now vaguely resembled a tree-like Gothic cathedral and dominated the center of Elysia's Inner World. His roots threaded the world like veins, feeding everything with Qi, and inside his trunk was a hollow sanctum where Elysia's infant soul resided, protected in a chrysalis-like pod.
+
+Zooming out, Ashlock took in all of Elysia's Inner World. Besides Mytherion, the rest of her Inner World was crafted from Mystic Qi, meaning it was an illusion turned real. The only reason he could tell it was a solid illusion was because of his Evil Eye, which let him peer through all illusions, and the fact that he knew Elysia cultivated Mystic Qi.
+
+"This is impressive for a fresh Monarch's Inner World," Ashlock mused in genuine awe. Because of the flexibility that mystic Qi provided, Elysia's Inner World seemed the most personal out of all the ones he had seen, including his own.
+
+Surrounding Mytherion until the shrouded horizon was a forest of demonic trees with eye-shaped leaves that rustled in an invisible wind. A mystic Qi fog blanketed the land, occasionally twisting to form All-Seeing Eye cult robes that floated as if alive. These phantoms seemed to aimlessly patrol the forest, occasionally pausing to kneel in prayer toward Mytherion in the center.
+
+The whole place had a haunted, creepy vibe. As if it served as a secret location for a cult, which Ashlock supposed it did. Elysia was the vice-cult leader of the All-Seeing Eye after all.
+
+"Mytherion, how are you?" Ashlock asked.
+
+Since Mytherion was technically also in the Monarch Realm, it meant one of his children had officially surpassed him in cultivation. A humbling experience for any parent.
+
+"I'm thrilled, Father, as Elysia and I have ascended to ensure you never require me as a vessel. We will be unstoppable now, able to slaughter everyone in our way and convince every living consciousness to join us in our worship of you."
+
+"Terrifying," Ashlock said, as Mytherion wasn't like any of his offspring; he spoke just like Elysia. He swiftly left as he felt strangely watched by the phantoms lurking in the mystic fog. Is this what people felt since he unlocked Gaze of the Tree God? No wonder Faelorian had gone mad.
+
+Returning to Red Vine Peak and closing his Evil Eye as his curiosity had been sated, he watched the new Monarch of his sect lying on the floor and panting.
+
+"Elysia," he said smoothly, "I apologize for not greeting you upon leaving the Eternal Realm, as I was preoccupied with some dao comprehension. I'm glad to see you progress so far. Just out of curiosity, do you know what your domain is capable of?"
+
+"I sure do," Elysia sat up and grinned widely—made all the more sinister by the vertical third eye in her forehead that remained open.
+
+"Great, what does it do?" Ashlock asked, ready to mentally take notes.
+
+"I make people believe in you."
+
+"You... what? Make people believe in me?" Ashlock said, unable to hide the disappointment in his voice.
+
+Elysia nodded eagerly and added. "Until they fully comprehend your greatness and my love for you, they cannot leave."
+
+"Oh, that's not—OH." Ashlock shuddered as he comprehended Elysia's words. Of course, this was Elysia they were talking about. The cathedral-looking Mytherion, the fog filled with devout phantoms, and the endless forest of trees with eye-shaped leaves? They weren't there for fun; they were likely going to serve as the backdrop for a Council member's forced indoctrination into worshiping him.
+
+Ashlock offered a silent prayer for them. Death by Magnus's hellfire was one thing, but being trapped by Elysia and having to fight her beliefs? Horrifying was the only suitable word.
+
+Elysia stood up, finally having recovered. She looked up at him with crazed eyes.
+
+"My dearest god, I do not need time to recover. Please send me to the front line so I can start converting the Monarchs and people of the Celestial Empire to your worship as soon as possible."
+
+Ashlock was about to deny her as he still needed some time to recover from the attack and his recent dream, but then he remembered the perfect person he could pass the responsibility of this insane person to. After all, being a good leader was all about offloading burdens to others, right?
+
+"Here, take this portal to Floridawn and meet with a Monarch called Cyphion. I've instructed him to spread devotion for the All-Seeing Eye in Floridawn, and I'm sure he would appreciate your help and oversight as my vice cult leader."
+
+Elysia perked up. "Another Monarch has realized your greatness?"
+
+"He has, and should he show any signs of lacking faith, I permit you to orchestrate his execution," Ashlock said.
+
+"As you wish," Elysia said with a sinister smile. "I will go now and meet with this man."
+
+"Please do," Ashlock chuckled. "I'm sure he will be absolutely thrilled about your arrival."
+
+Elysia left for Floridawn to terrorize—ahem, fulfill her duties. With that out of the way, it would appear his next task was to send someone into the Eternal Realm, as it was currently empty.
+
+Idletree Daily Sign-In System
+
+Day: 3736
+
+Daily Credit: 1
+
+Sacrifice Credit: 4780
+
+[Sign in?]
+
+As usual with the rising sun, his system was prompt to remind him that another glorious day had passed, even if it had felt like centuries to him rather than a single night. He was about to dismiss the system message when something caught his eye.
+
+"Huh, since when did I have 4780 credits?"
+
+If he remembered correctly, he had gained 1500 from eating Faelorian. Where had the rest come from? The stock market, perhaps? Plausible, but it had only been a single night. Even after pulling off a stunt like killing a Monarch, that was a lot of growth in a night, considering he only started with 1500...
+
+That's when he noticed a tick of notifications in the corner of his vision.
+
+[+32 SC]
+
+[+8 SC]
+
+[+67 SC]
+
+"Where are these coming fro—ah! I forgot to tell Diana and the others that the corpses are no longer needed," Ashlock's vision blurred as he headed to Moros and came upon a slaughter. Diana had not stopped for a second, even as he slept. Moros continued to slowly follow the beast tide, its surface covered in mountains of corpses being slowly digested by his vines.
+
+"Diana, it's over," he told her. The demoness reformed from a silhouette lurking within a cloud of demonic mist with a look of worry. "We won," he quickly added, "Faelorian, one of the Councilmen, has been killed."
+
+"We... killed a Monarch?!" Diana said in disbelief. The others gathered fell into silence as they took in the gravity of the statement.
+
+"The war must be in full swing now," Elder Magret said, stroking her chin. "What is our next move?"
+
+"A good question," Ashlock said. If the battle with Faelorian taught him anything, it was that he needed Monarchs to fight Monarchs. Therefore, his first priority was to get as many people as he could to that level.
+
+"Diana, return to Red Vine Peak and retrieve Kaida. I need both of you to meet me at the entrance to the Eternal Realm," Ashlock instructed the demoness. He had been thoroughly impressed with her fighting style and wanted to see how it would evolve once she became the next Monarch.
+
+While he was tearing open the portal for Moros and the others to return to Red Vine Peak, the bell attached to his trunk went off, informing him that someone required his attention.
+
+Swiftly returning to Red Vine Peak, he saw Stella waiting for him.
+
+And a unfamiliar Monarch Realm ice dragon at her side.

@@ -1,0 +1,125 @@
+---
+id: 9b31c2a3-41b5-5262-b9c8-dc772f11a58f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 565: Call Kein"
+slug: 0132-chapter-565-call-kein
+partOf: rise-of-the-living-forge
+position: 132
+ownLength: 1613
+unit: words
+ownProgress: 1613
+publishedAt: 2026-02-26
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3094992/chapter-565-call-kein"
+royalRoadId: "3094992"
+markedReadAt: "2026-06-29T20:02:39.882Z"
+---
+
+“How are things coming?” Rodrick asked, not even looking over his shoulder from where he sat at the edge of the roof.
+
+Olive grimaced. She stood well over six feet away from him and — at least as far as she was aware — hadn’t made so much as a single noise in her approach. She certainly hadn’t done anything that could have given away her identity.
+
+Godspit. His Sunsetted abilities are something else. Rodrick is a bit too creepy now, isn’t he?
+
+“Well enough,” Olive replied as she drew up alongside him. “The 2nd round of the auction is nearly over. Reya’s been keeping an eye on the VIP section while I watch the normal area. They’re on a short break to gather up the last items from people in the audience before resuming the last leg.”
+
+Rodrick nodded. “No issues on either side?”
+
+“Nothing noteworthy,” Olive confirmed. “Reya said the VIP section is antsy. They’re going to be pissed if they aren’t happy with the results. After all the buildup and such—”
+
+“That, at least, we won’t have to worry about,” Rodrick said with a chuckle. Olive couldn’t help but notice that his eyes were closed. He hadn’t looked at her once. “Nobody is going to be disappointed with the offerings. And that isn’t our concern anyway. All we have to do is make sure that nobody gets murdered on our street.”
+
+“Well, if any murdering happens, I don’t think it’s going to be coming from someone in the audience,” Olive said. “Not from what I’ve seen so far, at least. The tension isn’t really that high because nobody has had a chance to get into a proper bidding war. Madiv keeps randomly cutting shit off. Anyone getting annoyed is getting annoyed at him rather than each other — and that doesn’t get to last long. There’s always new item up fast enough to make everyone forget the previous one.”
+
+Rodrick snickered. “Good. Glad that part is working. It would be insufferable if we had to deal with a bunch of people bickering on the streets once the 2nd round is over. I imagine a few will try their hand at it anyway, but that’s far more manageable than a bloodbath of pissed off adventurers trying to earn their honor back or some equally stupid shit.”
+
+“Are things equally quiet out here?” Olive asked, glancing around at the streets below them. They were far emptier than they had been a few hours ago. After the 2nd round of the auction had started, the Menagerie had cleared the area out of anyone that wasn’t actively participating to limit the chances of some opportunistic thief or assassin using the crowd to get to their target.
+
+“Quiet would probably be the wrong word,” Rodrick drawled. “But they’re going largely as expected. A few incidents. Nothing too problematic thus far… but I wouldn’t count on it staying that way for too long.”
+
+Olive grimaced. “You’re still convinced someone is going to try something?”
+
+“People already have tried something,” Rodrick replied through a snort. “The only question is where the competent ones are… and why both the Secret Eye and the Adventurer’s Guild are hanging back.”
+
+“You mean they’re here?”
+
+“Of course they are,” Rodrick replied.
+
+Olive’s fists tightened at her sides. Even though her issue with the Guild and the Secret Eye wasn’t personal, she knew more than enough of what they’d done to the other members of her guild to know just what this meant.
+
+“Shouldn’t we be—”
+
+“Doing something?” Rodrick finished. His head tilted slightly to the side. “Of course not. If you were hunting a thief and were in possession of a gem you knew he wanted, would you leave the gem behind to hunt the thief?”
+
+“No,” Olive admitted. “I’d wait for the thief to come. He’s got to come to me as long as I have the gem.”
+
+“Precisely,” Rodrick said.
+
+“But what’s the gem?”
+
+“That’s the question, isn’t it?” Rodrick scratched his chin. “To be honest, I’m not quite sure yet. It’s the bit I’m trying to figure out. The fact that neither the Adventurer’s Guild or the Secret Eye have tried to enter the auction themselves makes me feel like something is amiss. Unfortunately, I don’t have any members of my network close enough to get certain answers. But their lack of action is answer enough.”
+
+“It is?” Olive blinked. “How?”
+
+“The Secret Eye should be all over this. There’s no way they wouldn’t have one of their members keeping an eye on an auction like this to figure out what the dynamics are and where we got all the items we’re selling,” Rodrick replied. The troubled expression on his features grew darker. “But they aren’t. They’re hanging back.”
+
+“You think they’re scared of us? Maybe they figured out Lillia is too dangerous when she’s on home ground or something?”
+
+“Possible, but she’s not in the Den right now. Her powers are limited,” Rodrick replied. He tapped a finger on the roof beside himself. “No. I don’t think it’s Lillia they’re scared of — and they don’t know enough to be scared of anyone else. Not yet. I think they’re waiting.”
+
+“For what?” Olive asked.
+
+“The Guild,” Rodrick replied. “The Eye has taken a position near — but not next to — the inn that the Guild’s members are staying at. I think they’re waiting to see what the fallout will end up being.”
+
+The hair on Olive’s arms stood on end. She sent a sharp glance at Rodrick.
+
+“Doesn’t that imply that the Secret Eye is scared of whatever it is the Guild might be getting ready to do?”
+
+“Yes,” Rodrick replied grimly. “It does. But the Guild wouldn’t act for no reason. There’s no benefit to them randomly attacking us, and I don’t think the information that would turn them against us directly leaked. I’d have heard at least some wind of it.”
+
+“Then…”
+
+“It isn’t us,” Rodrick said. He turned to look straight at Olive and eyes finally opened. For a moment, there was nothing within them but pitch darkness. Then the shadows drained away from his gaze until he was nothing but a normal man once more. Rodrick shook his head. “That’s my best guess. The Guild is after someone else. Someone attending our auction.”
+
+“Oh,” Olive said. “That’s not too bad. Hardly our problem. I mean, I don’t like the Guild, but who cares what they’re up to on their own time?”
+
+“You misunderstand,” Rodrick said. “If the Secret Eye is hanging back… then they’re expecting the Guild to be doing a hell of a lot more than just quietly getting rid of someone. They’re expecting something big.”
+
+“Oh,” Olive said. She was silent for a moment. “Shit.”
+
+“Shit,” Rodrick agreed. “Is there anyone in the lower level of the auction that caught your or Madiv’s eye? Someone that might have someone gotten on the bad side of the Adventurer’s Guild? If we can figure out who they’re after, then everything will get a lot easier.”
+
+“I don’t know. I’ll try to check,” Olive replied. “But I don’t know how or where to even start.”
+
+“The Mausoleum should be able to give Madiv some information on who we’ve got in there. Ask him during the break,” Rodrick said. “We’ve still got time. I doubt that the Guild will try anything before the auction is over. The easiest time for them to act will be when the crowd is in the street. Well, either that or taking out the entire Auction House… but that’s too inaccurate if they’re after someone in particular. They might also want to retrieve an item from their target. I don’t know what it is they’re after yet. That makes it hard to be certain of anything.”
+
+“Okay,” Olive said with a sharp nod. “I’ll see what I can do.”
+
+“Thank you. I’ll be here when…” Rodrick’s head tilted to the side. Then his eyes narrowed. “No. I don’t suppose I will.”
+
+“What?” Olive asked.
+
+“I was wrong,” Rodrick said. He rose to his feet, his lips thinning. “The Guild is moving. It looks like they’re getting into position for the end of the auction. I’m going to head them off.”
+
+“You’re going to fight the guild?” Olive hissed, aghast. “Before they even do anything?”
+
+“Of course not,” Rodrick replied with a snort. “There’s far more than one way to slow someone down. I’m not stupid enough to try my hand at fighting somebody that even the Secret Eye is scared of.”
+
+“Then—”
+
+“Enough. We’re out of time. Figure out who they’re after,” Rodrick said flatly. “And let Reya know to warn everyone else. We should prepare ourselves for a fight. A big one.”
+
+Olive swallowed. Then she gave him a sharp nod. “I’ll go now. Stay safe.”
+
+She spun on her heel, but Rodrick grabbed her by the arm before she could take more than a step. Olive blinked, sending a surprised glance back at him.
+
+“What?”
+
+“Sorry. One more thing. I almost forgot,” Rodrick said. “When you find Kien, tell him that we’re going to need the full-house cleaning service, staff and all.”
+
+Olive’s brow furrowed. “…what?”
+
+“Just tell him,” Rodrick said with a grin. He clapped her on the shoulder. “And don’t look so worried, Olive. Guild has no damn idea who they’re messing with. Don’t forget who we are.”
+
+A determined grin pulled up one corner of Olive’s lips. “I won’t. Don’t get yourself killed screwing with them, okay?”
+
+Then she was gone, darting off for the Mausoleum, as Rodrick dropped down from the edge of the roof and set out to intercept the Adventurer’s Guild.

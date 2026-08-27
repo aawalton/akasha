@@ -1,0 +1,123 @@
+---
+id: d51194eb-0d34-5a1b-83ff-709863442642
+page-type-slug: story-chapter-royal-road
+title: "Chapter 30: Plan"
+slug: 0032-chapter-30-plan
+partOf: quiet-life-of-the-mute-archmage-op-archmage-academy
+position: 32
+ownLength: 2763
+unit: words
+publishedAt: 2026-07-08
+link: "https://www.royalroad.com/fiction/167476/quiet-life-of-the-mute-archmage-op-archmage-academy/chapter/3650418/chapter-30-plan"
+royalRoadId: "3650418"
+---
+
+Zen was the first to move. She shot forward without hesitation, her legs churning across the sodden earth that had been churned to mud by the relentless downpour. Her blade sang through the air in a silent fury, cutting the falling rain into halves, each droplet split cleanly apart as the steel carved its path toward Krovi's neck with deadly precision.
+
+"Hmm." Krovi hummed, a note of mild interest coloring the sound. He twisted his body at a ninety-degree angle, the motion fluid as a dancer's, and the blade whistled past his throat by a hair's breadth. Zen did not relent. It seemed as though her first strike had been nothing more than a greeting, a mere formality before the true assault. She angled herself sharply, her boots sliding across the mud as she curved to follow Krovi's evasive movement. Her grip tightened around the hilt, knuckles paling, and she drove the point of her blade toward his neck in a swift, straight stab.
+
+Krovi pivoted again, turning sideways as the stabbing tip sought his flesh. An impressed smile crept onto his lips the moment he realized the intended stab had been a feint. The real attack came in the form of a sideways slash, the blade biting across his chest before he could fully adjust. It tore through the fabric of his shirt and split the skin beneath, inflicting a deep wound that welled with dark blood almost instantly.
+
+"A veteran," he said, his voice tinged with genuine amusement. His gaze searched her face, finding nothing but unshaken stillness in her eyes. "I haven't seen you before. Are you a new hire?"
+
+He spoke while weaving through the storm of her blade, his body swaying and twisting as Zen pressed her relentless assault. Her face remained carved from stone, emotionless, her eyes locked onto his in a deadly dance. She understood what this maniac mage was attempting. He sought to crawl under her skin, to pry open a crack in her focus with his words.
+
+"You know," Krovi continued, dodging yet another attack, though this one too was revealed to be a feint. A double feint. The blade sliced past his left hand and then his right leg before he could fully retreat, opening fresh gashes that leaked crimson down his rain-soaked skin. The wide smile on his lips did not falter. "I was once a veteran like you. Obeying the law. Following orders."
+
+He sidestepped another thrust, the wind from the blade's passage stirring his grey beard. "But you know what? I discovered that the law is nothing but a limitation. A limitation the higher-ups use to control us like puppets, using us for their petty little games." His voice deepened, a current of old bitterness rising beneath the words. "I didn't want that. I hated it with all my being, because that same law made me lose someone precious. So I tried my best to find a way to return the favor."
+
+Zen's blade cut through the rain with unrelenting precision as she aimed for a quick, decisive stab. Her eyes hardened almost imperceptibly when she felt resistance. Krovi had caught the blade's tip with his right hand, his fingers clamping around the steel while tilting his head slightly to the side. Blood seeped between his knuckles, diluted by the rain, but he held firm.
+
+"Now," he said, his voice dropping to a near whisper, "I have found where to start my revenge."
+
+His wide smile stretched further across his weathered face, and his dark greenish-grey eyes widened with that mad light that never seemed to leave them. "And you think I'll let you stop it?"
+
+Zen's jaw tightened. She summoned every ounce of her strength and drove the blade forward, forcing it through the resistance of his grip until the tip pierced into his chest. The steel sank deep. Krovi's smile did not waver. A laugh escaped his lips, a dry, crackling sound that held no pain. He ignored the blade buried in his chest and turned his head, his gaze sliding past Zen to settle on Fiona, who stood in a defensive posture before Sebastian.
+
+Sebastian was still standing, still chanting. The formula he was weaving was nearly complete, its luminous images coiling through the rain-soaked air like threads of living light.
+
+Krovi laughed harder when he recognized the shape the magic was taking. The [Illusion Dispelling] formula. He raised his right hand and pointed, droplets of rain and blood dripping from his extended finger. "Do you truly believe I'll let you complete that?"
+
+In that very moment, three more figures materialized into existence. Illusions. They burst from the air like reflections torn from a shattered mirror, their smiles wide and their laughter rising in unison with the original. Two of them dashed toward Sebastian and Fiona, while the third rushed at Zen.
+
+Fiona's grip tightened on her blade. She moved forward like a ghost cutting through the storm, her body honed by years of experience reacting before conscious thought could catch up. A wild punch came from one of Krovi's illusionary clones, swinging at her from the left. She sidestepped, the air whistling past her ear as the fist sailed through empty space. The second clone followed without granting her a moment to breathe, launching an uppercut aimed at her chin. Fiona tilted her head, the attack grazing past by the length of a fingernail.
+
+Her gaze snapped sideways. The other figure was moving toward Sebastian. She twisted her body and kicked out at it, her boot cutting through the rain, but her eyes widened when yet another clone materialized directly before her. This one wielded a blade. Its posture was already coiled into the motion of a quick, deadly stab, and her current position left her no room to dodge in time.
+
+Fiona brought her blade up immediately, pressing its flat surface against her vitals as she pushed herself backward, her boots sliding across the mud until she regained her footing. The clone's blade screeched against her steel, sparks flaring briefly before the rain swallowed them.
+
+"Nice reflexes you have there, young lady," the clone said, its expression genuinely impressed. "But you know full well that won't be enough to stop me."
+
+Fiona's eyes hardened with irritation as she watched the two illusionary clones smile widely at her. Just as Sebastian had told her minutes ago, it would be a waste of time to cast any formulas on the clones if they could not locate the main body actively sustaining the illusion. That was the reason none of them were using their magic. The real enemy was hidden, and every spell wasted on a fake was a victory handed to Krovi.
+
+Her jaw tightened when she spotted one of the clones rushing toward Sebastian. Her gaze shifted to Sebastian, lingering on him for a moment longer than she intended. 'Be careful,' she thought, before forcing her focus back onto the two opponents before her. She shifted into a battle stance, her feet spreading, her blade poised. Without another thought, she charged at the illusions.
+
+Sebastian stood still as Krovi's clone closed in on him, a small smile playing at the corners of his lips. He understood that Krovi was far smarter than his wild appearance suggested. The maniac mage would attempt anything to interrupt his chanting, to prevent him from casting the formula that would expose the main body. Sebastian shifted sideways just as the clone that had unknowingly appeared behind him lunged forward. The attack missed, and the illusion stumbled, slightly off-balance for the briefest of moments. Sebastian pivoted on his heel and delivered a sharp, precise kick to its back. But Krovi dodged, allowing his other clone to charge forward with gathered momentum.
+
+This particular clone closed the short distance between them in a blur of motion. One moment it was several paces away. The next, it was right in front of Sebastian.
+
+A twisting kick came at Sebastian's head with blurring speed. Still chanting, he dropped down, nearly into a squat, the air whistling through the space where his head had just been. He was already coiling his muscles to retaliate, to exploit the brief opening that follows any kick, when a fist was already rocketing toward his face. Sebastian's eyes widened slightly at the unexpected attack. 'How? He just threw a kick and hasn't even landed yet—'
+
+Then understanding clicked into place. 'Ah.. enhancement magic. He's using an enhancement formula.'
+
+Sebastian jerked his head back, the knuckles grazing his chin. He could feel the wind of the blow, the displaced air stinging his skin. He gave ground, stepping backward through the mud as Krovi pressed forward with another brutal, straight punch. The other clone came from the side, already launching a heavy attack of its own. Sebastian gritted his teeth and stopped the chant, dodging in the nick of time as Krovi's fist brushed past his throat. His movements felt sluggish compared to Krovi's magically boosted speed, each dodge a fraction too slow, each retreat a step behind.
+
+"Haha!" The stronger clone laughed when he saw Sebastian had ceased chanting. The partially formed formula dissolved into scattered motes of light, unraveling into nothing. "In the end, you still couldn't succeed, Your Royal Highness!"
+
+Krovi threw a fist that created a visible distortion in the air, the pressure of the blow warping the rain itself as it hurtled toward Sebastian's face.
+
+Everything seemed to slow. Sebastian watched the fist coming, his eyes tracking its path. A small smile lifted his lips when he noticed the other clone was already positioned behind him, cutting off any retreat. A sigh escaped him.
+
+"Do you think I wouldn't realize you had already studied my [Illusion Dispelling] formula?" Sebastian said.
+
+And then he caught both attacks.
+
+His hands snapped up, palms open, and seized the incoming fists mid-flight. The impact sounded like a clap of thunder. The two clones eyes flew wide with shock. They immediately wrenched themselves free and leaped away from Sebastian, putting distance between them with frantic haste. The stronger clone's eyes trembled as his mind raced through frantic calculations.
+
+"You never chanted the [Illusion Dispelling] formula earlier," he said, his voice dropping into a dangerous growl as he shot a glare at Sebastian. "What was the spell you were chanting?"
+
+Sebastian stood calmly amidst the falling rain, the small, composed smile never leaving his face. He rolled up his left sleeve with slow, deliberate movements. "Well, I was actually chanting two formulas, to be exact."
+
+Krovi's eyes widened further as he watched Sebastian roll up his other sleeve, the motion unhurried, almost casual. "One was the [Illusion Dispelling] formula," Sebastian continued, finally lifting his gaze to meet Krovi's as though only now taking note of his existence. "While the other.." He paused, pursing his lips into a fleeting curl. "The other was an [Enhancement] formula."
+
+He tilted his head slightly, the rain plastering his silky blond hair to his forehead.
+
+"Just like yours."
+
+In that instant, Sebastian's figure blurred. He lunged toward the stronger clone with a speed that devoured the distance between them. Krovi stepped back, almost forgetting in that moment that he was merely a clone, his instincts screaming at him to dodge. His eyes could not help but widen when he saw Sebastian's fist already nearing his face, the knuckles filling his vision. Krovi dodged with every ounce of strength he could summon, his mind racing as it searched desperately for an opening. When he spotted one, he retaliated without thought, his hand slicing through the air in a knife-hand strike aimed at the side of Sebastian's neck.
+
+Chop!
+
+The impact sent a jolt of searing pain shooting up Krovi's arm. It was like striking solid iron. His hand went instantly numb, the fingers tingling with deadened sensation.
+
+Sebastian did not even flinch. The fist he had thrown had been a feint, and now it had become a trap. As Krovi recoiled from his own failed strike, his body moved right into the path of the real attack. Sebastian's leg, which had been planted for balance, snapped upward in a vicious, short kick aimed precisely at Krovi's side, directly into his blind spot. Krovi had been so focused on the hands, on the numbing impact of his own attack, that he never saw it coming.
+
+A white-hot spear of agony erupted in his ribs. Krovi's eyes flew wide, a strangled gasp tearing from his throat. The force of the blow lifted him off his feet for a suspended moment, sending him spinning through the rain before he crashed against the wet earth. He landed hard, coughing violently, the coppery taste of blood filling his mouth. He tried to push himself up, to rise, but a searing pain shot through his torso and stole his breath.
+
+Krovi's eyes shook, but not from the pain. The physical agony was irrelevant. His mind was racing, pieces clicking into place one after another. Sebastian's plan. The fake fast chanting that had drawn Krovi's focus. The strength enchantment concealed beneath the illusion of another spell. Sebastian had known from the beginning that Krovi had set this entire place as his trap. He had known that even if they killed this body now, nothing would change, because it was not the main body. The only way to truly defeat Krovi was to locate his real form by dispelling the illusion formula.
+
+Then why was Sebastian still playing this game with him?
+
+"Wait..." Krovi breathed out, his eye widening as realization struck like a physical blow. His head snapped toward Sebastian.
+
+Sebastian had already opened his mouth. "[Judgement Spear]," he intoned.
+
+The chant rang out with the clarity of a temple bell, cutting through the drumming rain and the distant rumble of thunder. Following his voice, images began to draw themselves onto reality, radiating a pressure that felt like the weight of an unspent dawn pressing down upon the whole area.
+
+The first image to take shape was that of a great spear forged entirely of light. Its shaft was long and flawless, traced with spiraling bands that glowed like solar filaments wound tight around a core of brilliance. Its tip was not a mere point but a blinding, tapered shard of condensed radiance, the very image of a sunbeam turned solid, as though it had been torn from the heart of the sun itself.
+
+Following this, the next images arranged themselves into eight long, luminous lines. Each line was straight as a ray of light and tipped with an arrow shape that pointed resolutely outward, radiating from the spear's image in all eight directions. This was the completed root—a root that spelled projection, purity, verdict, and the irreversible flight of a decree made manifest.
+
+The final symbol was the structure. It encapsulated the entire arrangement, binding the blazing spear and its eightfold radiance into a single, sovereign formula. Then, like the sky breaking open at noon, the completed spell was suddenly dyed a blinding, molten gold—the color of the sun's corona glimpsed from the edge of the world, the color of judgment given form.
+
+From the face of the completed emblem, the spear of pure golden light wrenched itself into existence with a low, humming roar. It hovered in the air for a brief moment, and Sebastian reached out and held it calmly. The spear was solid and weighty with heatless fire, its radiance illuminating the area around them in pools of shifting gold.
+
+As Krovi beheld the golden spear, a laugh cackled from his mouth. "Hahaha!" He laughed wildly, his body shaking with the force of it, blood gushing from his lips. He ignored the crimson flow entirely. Everything felt like a joke, a grand and terrible jest.
+
+Abruptly, he stopped laughing. Silence swept through the whole area, broken only by the almost distant clash of his other clones still locked in combat with Fiona and Zen, the heavy falling of the rain, and the low, ominous rumbling of thunder.
+
+Finally, he broke the silence. "I have been dancing in your palms all along," he said, his voice a dangerously low growl. He shifted his gaze to Sebastian, who stared down at him with the spear of judgment held loosely in his grip. "So everything was your plan... you bastard."
+
+Sebastian stared at Krovi with an emotionless gaze. His face betrayed nothing, his crimson eyes glowing faintly with the reflected light of the spear and the distant flicker of lightning. Then, slowly, a curl lifted the corner of his lips.
+
+"You finally found out, huh?"

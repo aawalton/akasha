@@ -1,0 +1,121 @@
+---
+id: 8c0eca44-45ce-50b3-b003-1ba098e76ebd
+page-type-slug: story-chapter-royal-road
+title: "Chapter 508: Delivery"
+slug: 0074-chapter-508-delivery
+partOf: rise-of-the-living-forge
+position: 74
+ownLength: 1697
+unit: words
+ownProgress: 1697
+publishedAt: 2025-10-28
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2711718/chapter-508-delivery"
+royalRoadId: "2711718"
+markedReadAt: "2026-06-29T20:00:47.998Z"
+---
+
+The crack of lightning tearing through a dark room split the din of battle. It was followed an instant later by the dying screech of a Ogreling. The huge, flabby monster collapsed to the ground with a thunderous crash, smoke coiling up from its remains.
+
+Michael didn’t waste time celebrating the minor victory. He gathered his magic once again, turning his attention to the remaining monsters filling the huge boss room. There were only two of them, but that was still more than enough.
+
+The Ogre Chieftain and his Matriarch. The final two monsters in the Expert Tier Dungeon, and both of them at a terrifying Expert 5. Sweat prickled against his back and exhaustion pulled at his limbs.
+
+“Formation 3!” Maya yelled, jumping back as the Ogre Chieftain’s huge club slammed into the ground where she’d been a moment ago. The spry rogue vaulted off her hands and landed beside Michael, drawing a throwing dagger from her side in the process.
+
+“Bit busy at the moment!” Blaine yelled. The huge man, who had somehow managed to keep the attention of the Ogre Matriarch the entire fight entirely on his own, yelled. His armor was dented and scarred, and the shields he held in each hand were on their last legs. “If I disengage, I get splattered!”
+
+“Just hold off a little longer,” Michael called to him, pressing his palms together and drawing in a deep breath. He ignored the thick stench of battle and blood that filled the air. Power welled within him and he thrust his palms forward, letting it scream free as he activated [Storm Surge].
+
+A torrent of lighting exploded free from his body. It screamed through the air and slammed into the Ogre Chieftain’s face. The monster let out an agonized scream. Its back hit the wall with a loud crash and it swung its club blindly, nearly catching Blaine in the side on accident.
+
+Though the monster’s face had been blackened and warped into a melted mess from the intensity of Michael’s attack, he knew the damage wouldn’t last. Right on cue, the Ogre’s flesh rippled like a horrid green lake.
+
+The damage he’d done shivered and the ogre’s eyes bloomed from the ruined remains of its skin. New green scars replaced burn marks as the monster rapidly started to regenerate.
+
+Maya cursed, then flung her dagger. The blade flashed through the air in a blurred streak — shooting right past the monster’s shoulder.
+
+The instant it was behind the creature, Maya vanished. She appeared behind it, her hand wrapped around the hilt of her dagger once again. Spinning midair, she drove the blade into the base of the huge boss’s skull with a meaty thunk.
+
+It let out a pained scream and stumbled forward. The Matriarch roared in response. Her hand flashed out, catching Blaine in the side and launching the large man out of the way like he were a toy doll.
+
+He slammed into the wall and dropped to his feet, already running toward it again, but the Matriarch was faster.
+
+She swung her club at Maya.
+
+Michael called out a warning, but it was pointless. She’d already flung her dagger — right at him.
+
+An instant later, Maya appeared an inch away from Michael’s face.
+
+A resounding crash echoed through the room as the Matriarch’s club slammed into the wall, just barely having missed its target. Both of the ogres let out furious roars.
+
+“Shit,” Maya said. “That was too damn close. This dungeon is way too strong. Why is something this powerful so close to a town like Milten?”
+
+“Have you seen the other adventuring teams around the area?” Michael asked. “It’s the Menagerie. I’m telling you. It’s full of beautiful women. Strong ones. They deliver food.”
+
+“Are you still going on about that? I’m starting to think you only came here for the women,” Blaine yelled.
+
+“No. I’m not that desperate. We already have one in our party. But a few more couldn’t hurt,” Michael called back. He thrust his hands at the Ogre Chieftain once more, sending another thunderous blast of lightning into the monster’s skull and slamming it back against the wall. “But really, think of the rewards we’re going to get when we wrap this up. Who would have thought there would be enough adventurers getting themselves killed here to spawn dungeons this powerful?”
+
+“I still find it hard to believe that this egg thing of yours is actually going to summon beautiful women to back us up mid-fight,” Maya muttered. “Maybe we should start thinking about backing up. It’s nearly been thirty minutes. We timed the fight specifically so they’d show up on time according to what you were telling us, but I’m not so sure they’re coming.”
+
+“Maybe they figured out idiots like Michael were using them as a way to clean up dungeons,” Blaine said as he moved to stand between the Ogres and the others. “And I think Michael is dreaming. The only way a beautiful woman is coming for him is if she’s getting ready to cut his head off after he nicked her coin purse.”
+
+“Hey!” Michael protested. “I am a man of many admirers! Perhaps I’ll be able to woo our rescuers when they arrive. The rumors are that they make something around 70% of their deliveries on time — and they still complete the others, even when they’re free. That’s a crazy high percentage. I’m sure they’ll make it.”
+
+The ogres roared again, charging toward Blaine. The man drove his shields down into the ground. A golden aura enveloped him with a brilliant chiming note. He raised his shields once more as the two monsters both swung at him in unison.
+
+There was a resounding crash as both clubs slammed into him. Streams of light exploded from Blaine’s shields, but he didn’t even move an inch.
+
+These enemies were strong, but they were far from the most powerful ones that their team had gone up against. A group didn’t reach Expert Tier without having gone through a few good fights of their own.
+
+That said… two Expert 5 Bosses was a lot. This dungeon was disproportionately difficult. It wasn’t one he normally would have challenged. They could probably back out and survive, but it would have been a shame to give up so close to the end.
+
+“I don’t think your beautiful women are coming,” Maya said dryly. “Time to think about retreat, Michael. We’re not going down here. Both bosses are badly weakened, but so are we. It’s not worth it.”
+
+The mage gritted his teeth. Then he nodded. Living was better than losing somebody for a worthless victory. “Yeah. I suppose you’re right. Blaine, taunt the monsters out of the way of the door! We’ll run past you. Then follow after us! We’re going to have to—”
+
+A resounding crash tore through the room as the door behind the ogres slammed open. All the blood rushed out of Michael’s face. His insides churned in unease as a wave of unnatural fear drove into his gut like a physical blow.
+
+He took a step back despite himself.
+
+A man wearing what could have only been described as the body of a devil forged into metal charged into the room. Two savage horns curled from his helm, framing a faceplate complete with a hinged mouth full of jagged metal spikes.
+
+Pauldrons that almost looked like they were forged from living flame framed a heavy chestpiece that shimmered with so much raw power that it felt like it would consume Michael on the spot.
+
+The man wielded a huge hammer weeping black magma in one hand — and a covered metal dish in the other.
+
+Before he could even properly process what had happened, both ogres spun toward the newcomer.
+
+His form blurred. The ground where he’d been standing cracked as he slammed into the Ogre Chieftain, his hammer slamming into the monster’s skull with such force that it caved the weakened monster’s head straight in.
+
+It pitched to the ground and landed with a crunch. The ogre didn’t move again. It didn’t even seem like the newcomer had noticed. He had already moved, arriving before the Matriarch in a blur to swing his massive hammer once more.
+
+The weapon slammed into her leg, shattering it and sending a wave of magma splattering across the ground around them. She let out a pained scream and dropped to one knee, reaching for the armored man — only to catch a hammer to the chin.
+
+The monster’s head snapped upward, bones shattered and flesh sizzling. She tipped back to the ground with an earth-shaking thud and joining her husband in death.
+
+Michael stared in disbelief. His throat felt like it was parched. He couldn’t even swallow. They’d heavily weakened the monsters, sure, but the sheer damage that the man had put out with his hammer was practically inconceivable. Either he or the armor he wore was incredibly powerful.
+
+He has to be at least Master Tier. Maybe higher. What is a monster like that doing in Milten?
+
+And why is he here?
+
+The man strode right toward them. Michael took a step back despite himself, and Maya did the same. The hair on the back of his neck rose on end. The unease and fear churning in his gut grew stronger.
+
+Blaise’s limbs trembled as they fought with his mind in an attempt to move.
+
+His mind won.
+
+The man remained frozen in place, unable to do anything but watch in terror.
+
+Michael felt the wall meet his back. There was nowhere left to back up. He swallowed again, trying to muster up words.
+
+What does he want with us?
+
+Finally, the terrifying man came to a stop.
+
+He was definitely outfitted for a war. This was the kind of armor that had place only upon a brutal battlefield, against the most powerful enemies within the Monster Horde. And, for some reason, it was here in Milten.
+
+There was an instant of silence. Then the man lifted the covered dish he held in his off hand.
+
+“Delivery. Hope I’m not late. I’m a bit new to this.”

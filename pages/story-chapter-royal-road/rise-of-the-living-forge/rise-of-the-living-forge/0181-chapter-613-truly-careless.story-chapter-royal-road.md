@@ -1,0 +1,143 @@
+---
+id: 2cf27f7e-6142-52c6-bfbe-d2d7acb3a4e0
+page-type-slug: story-chapter-royal-road
+title: "Chapter 613: Truly Careless"
+slug: 0181-chapter-613-truly-careless
+partOf: rise-of-the-living-forge
+position: 181
+ownLength: 2100
+unit: words
+publishedAt: 2026-06-23
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3579882/chapter-613-truly-careless"
+royalRoadId: "3579882"
+---
+
+Arwin’s back didn’t lose its tension until at least a few seconds after the Beast had finished laughing. Even with all the preparation they’d done, he hadn’t been completely confident that their efforts would pay out. The item was completely untested — and it certainly hadn’t been easy to make.
+
+The amount of energy that Arwin had gotten for its creation spoke to that. But a powerful item didn’t always mean one that would work exactly the way he wanted it to. There were far more thing that could have gone wrong than he cared to think about.
+
+“How long is the range on this? The exact range?” The Beast finally asked, pulling himself free of the hysterical laughter that had gripped him like a vice for nearly a minute. “Am I going to be riding around inside your golem for the next few years?”
+
+“You can dream,” Uriel replied. “I would not allow one as filthy as you within my armor.”
+
+“We don’t know the exact range,” Arwin admitted, ignoring both of them. Something told him he was going to be hearing a lot more verbal sniping between the two. It was going to be like having a second Madiv and Esmerelda. He wasn’t looking forward to that. “Just assume it’s Milten. You’ll know if you’re getting close to the limit. The bracelet will start getting really hot. Might start shaking around as well. It definitely won’t be a surprise. You can’t just accidentally walk too far.”
+
+The Beast looked down at the bracelet. He didn’t say anything for several long seconds. Then he nodded. “That’s not bad. Not bad at all. And how convenient for you. If I want to keep my chances of escape alive… I’ve got to do everything I can to keep your guild around.”
+
+“Is that so?” Arwin asked, the corner of his mouth twitching. “That is convenient. But nothing in this life comes free. I’d say having to protect your home is a pretty reasonable expense for getting what you’ve been seeking for… how long was it, again?”
+
+The Beast let out one more bark of laughter. “Well bargained, Arwin. My allegiance is not easily bought. But you have it. The Guild’s offer for release has been outbid. So long as this item continues working to cure me, then I will stand by your side. But you must realize that the Guild will not take kindly to my complete disappearance. Are you truly prepared to deal with them?”
+
+“We’ve been preparing to deal with them for longer than you might expect,” Arwin replied. “Can we trust you to keep what you hear among us to yourself? I don’t think I need to explain that the Guild isn’t going to take likely to you turning on them. No matter what happens from here… we’re fully in the same boat.”
+
+“I don’t have any reason to undermine you. Not when you’ve done what the Guild could not,” the Beast replied with a one-shouldered shrug. “Do not mistake me. I never held any loyalty to the Guild. They were simply a potential escape and a source of mild entertainment. What little value they had to me is now gone. Only for amusement did I fight for them. But now… I will give them nothing more.”
+
+I’m not sure if I should be really relieved at that. The Beast willingly let the Guild use him like an executioner just because he was bored and didn’t know what else to do. Even if he had a vague hope that they might eventually free him from the cage he’s stuck in, it’s pretty clear he wasn’t actually expecting them to act on it anytime soon.
+
+He’s an opportunist. Then again… with what Koyu told me about how Revenants are made and how long he’s been alive, I don’t even know if I can blame him. The world isn’t nearly as black and white as I wish it was. The moment I start thinking about things as pure good or evil is when I eventually find myself taking the same path the Guild did to control the people under the guise of saving them.
+
+The Beast wasn’t going to have any more opportunities to take. Not anymore. He was stuck with them. The Guild would consider him an enemy. There was no reason for him to betray them. Not when they were the only ones that had proved they could free him.
+
+We need to use this. This is the best potential source for inside information in the Guild we’ve ever had. The Guild has unknowingly sent us what might be their end. With the Beast’s help, we might actually be able to figure out where their weaknesses really are.
+
+“Good,” Arwin said. “Then you should be somewhat pleased to know that you’ll need to be fighting for your freedom quite soon.”
+
+“Oh?” The Beast tilted his head to the side. His smile grew. “You think to actually fight the Guild? Directly? A tiny little crafting guild like yours? The sheer difference in scale alone would make that impossible, wouldn’t you say?”
+
+Arwin and Lillia exchanged a brief glance.
+
+“That depends,” Arwin said. He watched the Beast carefully as he continued. “Do you know how true that statement is?”
+
+The Beast matched his gaze. “Yes. I do. But do you?”
+
+He knew. Arwin could tell. There was something in his eyes, the anticipatory glint of a man holding a secret that he was just about to spill.
+
+“About the Demon Horde?” Arwin asked with a wry smile. “Yes. I know. We all do.”
+
+That gave the Beast a moment of pause. His eyes widened slightly in surprise.
+
+“You know! How did you—”
+
+“You might not believe it, but the Menagerie has been at war with the Guild since before it was even a guild itself,” Lillia said. She crossed her arms in front of her chest. “You clearly know a lot. But you don’t know everything.”
+
+“That’s a good thing,” Rodrick said, speaking for the first time since the Beast had entered the room. His eyes were still closed. He didn’t make any move to open them. “It means the Guild isn’t aware of who we are. Not properly. They’d have briefed him on it if they were. We’re just a mild annoyance to them… which is more amusing than I can easily describe. They really have grown fat and comfortable.”
+
+“How are you aware of the Demon Horde?” The Beast asked again, his surprise fading away as his eyes narrowed. “You know that they are controlled by the guild? Do you know of the others?”
+
+“The others?” Arwin asked. “Which ones? The Council?”
+
+“The Council,” The Beast muttered. “Yes. Though not completely. They’re puppets, controlled by their greed more than by any real power. They would turn on the Guild as quickly as I did.”
+
+“We’re aware,” Lillia said. Arwin could tell she was enjoying this. “But maybe you’ve got some other information for us? Something that would actually help sway the tides further, given that you’re now going to sink along with us when the Guild comes knocking?”
+
+“More than you could possibly imagine,” the Beast said. Then he paused for a moment. “At least… that is what I wish to say. How are you in possession of this information? The Guild has killed to protect it, and effectively. The entire war is manufactured. A way to control the population and—”
+
+“To keep power flowing into the Mesh and prevent the world from collapsing,” Rodrick finished. “We are aware.”
+
+The Beast stared at him. “You even know of the Mesh’s approaching collapse? How is this possible? Koyu?”
+
+“Not me,” Koyu said, shaking his head. “I learned it with them. You’re going to have to dig deeper if you want to impress anyone here.”
+
+The Beast’s eyes narrowed at the challenge. “Then I will reveal unto you the greatest truth of them all. The Guild does not fight to protect the world, despite what even the majority of their false leadership believe. There is another. One above the Guild. The one they say the aide, they serve. I do not know for what purpose, but—”
+
+“It’s destroying the Mesh,” Arwin said. “There’s some kind of ancient powerful creature in a hole. The Guild is feeding it magical energy with the daggers that they had Necrohammer create from what we believe to be the remains of a corrupted Leyline. Whatever the thing in the hole is, it’s permanently stealing pieces of the Mesh to grow stronger.”
+
+The Beast’s sentence died on his lips. Arwin couldn’t help but feel a bit smug at the man’s expression. It was clear they’d hit the nail on the head.
+
+This confirmed their information was correct.
+
+Arwin just wasn’t sure if that was a good thing or a bad one. Any chance that they’d slightly misread the situation was nothing but a passing dream in the wind. The Guild was, without a flicker of a doubt, destroying the world.
+
+“How?” The Beast muttered. “I didn’t even know some of that myself. Are you certain? The Mesh itself is under attack? The war isn’t enough?”
+
+“Yes. It is dying,” Rodrick said. “We don’t think it’ll collapse today or tomorrow, but if someone doesn’t stop the Guild, it will cease to be.”
+
+“How do you know for sure?” The Beast asked.
+
+“Because the Mesh told me,” Arwin replied.
+
+The Beast paused.
+
+Then his eyes snapped to Arwin.
+
+“What?” The Beast whispered. “It spoke? To you? And confirmed all of this?”
+
+“Much of it,” Rodrick said. “Some still must be confirmed. But the question remains. What can you tell us?”
+
+“It might be easier for you to tell me what you do know,” the Beast said. “Because it’s clear I — and the Guild — were severely mistaken about just how much you know. I assume you know about the Hero Initiative as well?”
+
+“What is that?” Rodrick asked. “We might, but confirming knowledge is always wise.”
+
+“The Guild has a powerful mage capable of opening a tunnel from this world into others,” The Beast said. “The way they source new souls for the Mesh to consume is by drawing them in from other worlds. It was supposed to be a fix. Something that kept the Mesh going. They said it was working.”
+
+“It isn’t,” Arwin said. The corner of his lip twitched in sardonic amusement. “And yes. I think we’re aware of the Hero Initiative.”
+
+“Then you know of the cycle they use as well,” The Beast said grimly. “Because the current one is well underway. If you want a good chance to attack the Guild, there isn’t going to be a better time than that.”
+
+“Say more,” Arwin said, a flicker of interest igniting within him. “A good time to attack? What do you mean?”
+
+“Finally. Something you don’t know.” The Beast let out a snort. “I’ll start with the basics. I assume you know that they kill the Hero and Demon queen every few years, then swap them out for new ones. Stops them from getting too powerful.”
+
+“Do they, now?” Arwin asked. His lips twitched again. “I think we know that part.”
+
+The Beast nodded. “Right. They kill them off before they figure anything too important out. Then they swap in new ones and start the whole thing over again. I — wait.”
+
+A flicker of realization passed through the Beast’s features.
+
+“Is something wrong?” Arwin asked, not even bothering to hide the smirk on his face. There was no point hiding the truth. The Beast had already figured it out.
+
+“It’s you,” the Beast whispered. He stared for a moment longer, as if unable to comprehend what he was seeing. “ I didn’t recognize your face. Never bothered memorizing it. New ones keep coming. But by the Mesh, it’s you.”
+
+“I don’t think I’ll ever forgive the Guild for footnoting me during my own funeral,” Arwin said with a wry smile. “That’s no way to treat a Hero, no matter how fake the role may have been.”
+
+The Beast let out a cold snort.
+
+“They failed to kill the Hero. No wonder you’ve been readying to take them down for so long. I don’t know if many have the right to hold a greater than you. Well, the Demon Queen, I suppose. But they couldn’t have been so careless as to…”
+
+The Beast trailed off. His eyes caught on Lillia.
+
+“No,” the Beast said.
+
+“Yes,” Lillia said. “I’m afraid they were”
+
+Then, once the Beast’s disbelief had finished processing, he really did laugh.

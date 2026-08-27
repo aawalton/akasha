@@ -1,0 +1,197 @@
+---
+id: 2a6bff0f-c06e-52ad-8133-f28a901802e8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 576: Stella's True Strength"
+slug: 0100-chapter-576-stella-s-true-strength
+partOf: reborn-as-a-demonic-tree
+position: 100
+ownLength: 2712
+unit: words
+publishedAt: 2026-06-04
+link: "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3490130/chapter-576-stellas-true-strength"
+royalRoadId: "3490130"
+---
+
+Ashlock returned to Stella's home a little after Elaine, as he had to ensure Morrigan had everything she needed to complete the creation of a new body. How exactly a body suitable for the origin of the void could be grown, he was not sure. But he would soon find out.
+
+He also noticed Janus leaving with his disciple through his ethereal root and didn't think anything of it.
+
+Focusing inside Stella's house, he caught her and Elaine in the middle of an intense conversation.
+
+"Your plan is simply beyond stupid, Stella!" Elaine said adamantly. "You want to walk in there, demand answers from your creator, kill this Crowned One somehow, and then what? Walk free after murdering the ancestor of the Chairman?!"
+
+Stella slowly nodded. "That sounds about right."
+
+"Haven't you heard about the war so far? Ashlock has fought multiple Monarchs and has only managed to kill one so far. The rest got away while leaving casualties in their wake!" Elaine clenched her teeth. "If not for Larry's domain, many would be dead by now."
+
+"That's because I wasn't there to finish them off," Stella pointed out and crossed her arms. "With my strength and capabilities, killing any Monarch should be easy," she said with her usual arrogance.
+
+"Have you even fought a Monarch before?" Elaine countered, causing Stella to frown.
+
+"No..."
+
+Elaine threw her arms in the air in exasperation. "Then where is this inflated ego coming from?" She sighed when Stella didn't answer. "Look, Stella. I understand the desire to prove yourself after having to sit so much of the war out so far, but this plan of yours is insane. If something were to happen to you, I fear for everyone's safety, and that's not a risk I can take with children now."
+
+Stella glanced at the ceiling after no doubt sensing Ashlock's presence.
+
+"Fine," Stella relented. "I won't attend the ball, okay?"
+
+Ashlock didn't believe her for one second, as, unlike Elaine, he had seen her determination earlier. She would attend that ball no matter what, and all he could do was ensure he was strong enough to protect her.
+
+"But what about my other idea?"
+
+"To infiltrate this shadow organization?" Elaine pursed her lips. "I don't hate it. While we have measures to counter infiltration attempts on home soil, we lack any offensive information-gathering capabilities," she glanced up, "isn't that right, patriarch?"
+
+That was true.
+
+"Besides myself personally checking places within the reach of my roots, you're correct," Ashlock replied and realized this wasn't an issue he had given enough thought to until now. "The Covenant had stalled in development due to the Fleshfruit tree issue that has now been resolved. There is still a lot we don't know about the Celestial Empire and its inner workings, leaving us susceptible to tricks like Thal'korr pulled on us."
+
+"Thal'korr? Who is that?" Stella asked.
+
+Ah, right, Stella had missed a lot while in the Eternal Realm.
+
+"A Monarch I just fought with," Ashlock explained. "He showed up with another Monarch called Droskan Virelios, a water affinity user. What made Thal'korr odd is that he was nothing but a body of insects inside a suit of armor. Initially, I thought it was some kind of body cultivation, but later discovered that the real Thal'korr was puppeting the suit of armor and an army of insects from afar. Upon capture, Thal'korr detonated the bugs and the suit of armor. However, Khaos managed to save the golden scepter containing an infant Monarch soul, letting us control the insects still causing problems."
+
+Now that he explained the situation out loud, he realized how silly it sounded to believe Thal'korr could have been anything but a puppet. A body of bugs? That was too far-fetched in hindsight.
+
+"What are you going to do with that scepter?" Stella inquired. "I bet there are many things I could do with a Monarch's infant soul, especially with the Fleshfruit trees now operational. We could grow a Monarch insect or even a person from it."
+
+"That's a great idea," Ashlock agreed. "I was currently having Cyphion inform them that they failed to blow up the scepter and that we are willing to sell it to their enemies should they not come to trade for it."
+
+"Obviously, you aren't actually going to hand it over?"
+
+Ashlock laughed. "Obviously."
+
+"Good," Stella nodded. "We should kill anyone who comes to trade. You still need Monarch Realm souls, right?"
+
+"Indeed," Ashlock confirmed with a sigh. "Upon your return, my Desolation Law comprehension has reached perfection due to your efforts in the Eternal Realm, leaving only the eight remaining Monarch Realm souls standing between me and ascension."
+
+Stella smiled gleefully, knowing she had been useful. He didn't want to give her suicidal ascension too much credit, but the results were hard to ignore. He was eager to test just how large a jump perfect comprehension of a Law really was.
+
+"I've never heard of someone needing to devour other Monarchs to ascend before, and such a specific number," Elaine mused. "How strange."
+
+Ashlock realized he had overshared. Only Elysia knew of the system's existence as the divine voice, and Stella and, to a lesser extent, Diana were vaguely aware of its capabilities. Those close to him could also infer that he grew stronger by eating foes, but he did agree that putting such a specific number did sound odd.
+
+"It's more of an estimate," Ashlock added. "I grow in power from devouring, and I estimated that eight is how many Monarch souls I will need to push myself over the edge to ascend. Since I already formed my Inner World at the Nascent Soul Realm, I assume that's why I need to gather so many."
+
+Elaine slowly nodded. "That does make sense. Is there a way you could devour that many before the ball? I'd feel a lot better about it if we had you at Monarch Realm before it started."
+
+"If we aggressively hunt, it is possible," Ashlock concluded. "I have Grand Elder Ren marked for death, and he has promised to try and bring me two Monarch souls in exchange for his life. There's also Cyphion, whom I'm willing to dispose of once his value is up."
+
+"That gives us a few, but many more to go," Elaine said while absentmindedly playing with Talon's hair. "If we are to meet the quota before the ball, we would have to go on the offensive."
+
+"Of course, this is assuming my ascension doesn't take long, and we ignore the aftermath that an apocalyptic ascension will bring upon the world."
+
+Elaine's hand paused, and she paled. "Oh."
+
+It was something that had been on his mind recently. With his presence covering such a large area and the heavens likely seeing this as the final opportunity to smite him to stop the beginning of the Era of Ascension, they were likely to go all out. Millions would die throughout the land as lightning rained down and the very layer of creation was torn apart.
+
+"I can't wait to see your domain," Stella grinned, uncaring of the horror his words indicated. "I bet it will be heaven-defying like everything else you do."
+
+Elaine nodded in agreement, all color having left her face. "Yeah... the Patriarch's ascension will be an era-defining moment, that's for sure, assuming anyone is alive after it's done."
+
+Hazel and Talon seemed to have felt the change in their mom and were looking at her with concern.
+
+"My ascension's implications aside, I agree with the plan of gathering the required souls and being on the cusp of ascension should my strength be required," Ashlock said, changing the topic. "Admittedly, Stella seems the best suited for the task. She has the firepower of a Monarch with the presence of a mortal. While Monarchs are strong with skin like steel, they are far more vulnerable before they activate their domains. Strike when they don't expect it, and instantly killing one is possible."
+
+Elaine nodded and reluctantly stood up. "Fine, give me the token," she said, holding out her hand. Stella placed a metal token in her waiting hand, and she pocketed it. "I'll go and speak with Nox and try to craft a cloak of shadows so you may blend in with the others."
+
+"Thank you, Elaine!" Stella beamed.
+
+"You're welcome. Just... don't get yourself killed," Elaine said, narrowing her eyes. "I don't think I'd live for very long if agreeing to your plan and assisting with it got you killed."
+
+Stella laughed. "You really don't have to worry, Elaine. The Celestial Empire won't know what hit them."
+
+Elaine seemed uneasy, but left Stella's home with her kids in tow after bidding goodbye, leaving Ashlock alone with his troublesome daughter.
+
+"What's this plan of yours?" Ashlock asked. He had missed it.
+
+Stella went on to explain how she obtained the token and her plan to infiltrate the Shadow Monarch's organization. Similar to Elaine, he didn't hate the idea of the plan. It had ignorable upsides, and aside from Stella causing a massive uproar, he didn't see how it could go wrong, given her untouchability now that she was a Monarch. She continued talking for a while and even spoke of her exploits in the Tessellate Citadel.
+
+"You could pass through formations designed to stop cultivators in the Sovereign of Realities realm and above without issue?" Ashlock muttered in awe. "Just what are the limits of your abilities now?"
+
+"Honestly? I don't know," Stella admitted with a shrug. "But I feel confident that nothing on this layer of creation can hold me down, unless I let them."
+
+"Why would you ever let them catch you?"
+
+Stella's gaze turned dangerous. "The Aether isn't a dimension that tolerates anyone's presence besides me."
+
+Spoken like a true Monarch.
+
+"I see," Ashlock said. "I suppose it would be a good idea to test your limits while awaiting Elaine's return."
+
+Stella stood up. "Sure. If anything happens to me, Ao will take the fall anyway."
+
+Ashlock glanced at the ice dragon standing in the corner. Despite radiating an ancient and dangerous aura, his gaze seemed so distant that he was indistinguishable from a statue. Whatever horrors Maple had inflicted upon him to enslave his soul like this, Ashlock dared not know.
+
+"An untraceable, untouchable Monarch with damage transfer," Ashlock sighed. "I really don't have a good reason to stop you. It would also help further the fear of the Covenant in the Celestial Empire while I actually get the project off the ground."
+
+Stella grinned from ear to ear. "So which unfortunate soul will be my test?"
+
+Ashlock pondered for a moment. Since Stella was in the second stage, someone like Magnus, who was in the first stage, would lose just from a power difference. Kaida had expressed interest, but he was currently still 'busy.' Larry's strengths were more defensive in nature, but that might make him a good matchup, as anything Stella could one-shot would be too easy. Elysia and Cyphion might be able to put up a fight, but they were also recovering after fighting Thal'korr and Droskan.
+
+"I can sense that Kaida is on Red Vine Peak and has stepped into the Monarch Realm," Stella said, looking at the sky with a smirk. "I think that arrogant dragon is long overdue for a humbling."
+
+"While he did express the desire to spar with you, I don't think bothering Kaida right now would be a great ide—"
+
+Stella was gone.
+
+Without a trace of Qi, she had escaped his own Inner World with ease. She hadn't even shown a hint that she was about to teleport away. Not even a step forward or a word. Just one moment, she was standing there, and the next she was gone.
+
+Perhaps even more unbelievable was that she had brought Ao with her and hadn't made use of his ethereal root network.
+
+"Ah shit, this isn't going to go well," Ashlock cursed as his vision blurred. He focused his attention outward to Red Vine Peak.
+
+Screams were coming from the library. A woman's screams specifically.
+
+"No way Stella lost that quickly," Ashlock said as his vision surged into the library and he took in the scene. The one screaming was not Stella.
+
+It was Nymeria.
+
+"You killed him!" she shrieked at Stella, pointing an accusing finger while standing up and barely covering herself in a dripping layer of ink from the lake.
+
+Stella snorted. "Relax, Nymeria, I did not kill him. I just cut his human body's connection to his dragon body, effectively knocking him out," she released her foot from atop Kaida's head. His body was half-submerged in the lake, and it looked like a murder scene. Luckily, his human body was still breathing, if barely. "Besides, what were you two doing in here? I thought he was attacking you for a moment."
+
+Nymeria's cheeks dyed red with embarrassment. "We were just having fun! I don't understand, Stella! What did he do wrong? Why did you attack him suddenly like that?"
+
+"I was informed he wanted to spar, and a Monarch should always be ready for a fight. Now is not the time for fun; we are at war. What if I had been a Monarch from the Celestial Empire? He would be dead right now," Stella reasoned with a dismissive shrug and not a hint of remorse. "It's not my fault he's so weak and careless."
+
+"W-What?! How could anyone counter that cowardly sneak attack you did? Neither of us noticed you were here until your kick had sent him flying across the room."
+
+Ashlock sighed and tore open a rift for Sol to leave Astralis and come heal Kaida.
+
+Stella ignored Nymeria and glanced his way. "Ash, did I prove my capabilities?"
+
+"Well, I didn't get to see it," Ashlock admitted.
+
+"Neither did Kaida," Stella countered. "That was the whole point."
+
+Ashlock sighed. "I suppose it was. What about Larry, do you think you could beat him?"
+
+"Isn't Larry immortal?" Stella said, crossing her arms and frowning. "While I doubt I could kill him, I could trap him in the Aether for a while or avoid him forever by masking my presence and teleporting away when I sense him near. I'm not delusional enough to think everyone is as easy to whack unconscious as Kaida, but I can definitely run from the strong if I wish."
+
+While they spoke, Sol's healing light wrapped Kaida in its warm glow, and the dragon slowly regained consciousness. Staggering to his feet behind Stella, he looked beyond angry.
+
+"Just because you are the Master's daughter, don't think I'll go easy on you," he seethed, uncaring for their conversation. The bloodlust radiating off the dragon suggested he would tear Stella's head off right now if he could.
+
+Stella glanced over her shoulder with a bored expression. "Fine. I hit you once. You can strike me back."
+
+Kaida seemed thrilled at the proposition. "Then I'll strike that pretty face of yours!" He lunged forward, his fist glowing with suddenly carved runes to empower his strength.
+
+Right as he was about to punch Stella squarely in the face, her eyes turned white, and the space between them shattered.
+
+Kaida's arm was deleted without a trace.
+
+Stella stepped aside, and Kaida fell to the floor at her feet with a thud.
+
+"You will always be that cute little grass snake to me," she said dismissively, her voice sounding ethereal and echoing from all around them. Then, before Kaida could stagger to his feet again and retaliate, Stella was gone without a trace.
+
+"That bitch!" Kaida beastily roared, and Ashlock could see that he was moments away from unleashing his domain to restore his pride.
+
+Ashlock sighed. Her methods were rather questionable, but he couldn't deny it. This confrontation had shown him all he needed to trust Stella's plan to infiltrate the Celestial Empire.
+
+"I almost feel bad for them," Ashlock mused as he imagined unleashing a bloodthirsty Stella upon their ranks. After all, Monarchs without their domains active were apparently really beatable.
+
+Stella had a lot of catching up to do, having missed out on the war until now, and she possessed a deep hatred for the Celestial Empire's Monarchs.
+
+Ashlock anticipated a slaughter.

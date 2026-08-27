@@ -1,0 +1,193 @@
+---
+id: 382875ad-2156-5eba-97dc-9bcaf906df7d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 16: A Foreign Guest (Part 2)"
+slug: 0018-chapter-16-a-foreign-guest-part-2
+partOf: quiet-life-of-the-mute-archmage-op-archmage-academy
+position: 18
+ownLength: 2015
+unit: words
+publishedAt: 2026-05-30
+link: "https://www.royalroad.com/fiction/167476/quiet-life-of-the-mute-archmage-op-archmage-academy/chapter/3468309/chapter-16-a-foreign-guest-part-2"
+royalRoadId: "3468309"
+---
+
+"Her name is Fiona. Do you know her?"
+
+The words replayed in Molly's mind as her gaze drifted behind her, toward the unfamiliar guest. She stood quietly, listening to their conversation.
+
+The guest in question stood a few paces apart from Eric as he posed the question.
+
+A frown settled on Eric's features while he studied the young man before him. "I don't think I know who you're talking about, sir," he said.
+
+"Are you certain?" the young man probed, his voice calm. "I was told she lives nearby."
+
+Eric shook his head. "I believe you may have taken a wrong turn, sir. To my knowledge, there isn't anyone around here named Fiona who matches the description you've given."
+
+A deep, weary sigh escaped the young man's lips as he smoothed the loose strands of his silky blond hair. "Oh, Fiona... at least give me more details when you send a letter," he muttered to himself before offering a brief upward curl of his lips, his crimson eyes settling on Eric. "Thank you very much, and my apologies for wasting your time."
+
+Eric nodded. "No trouble at all, sir."
+
+With another sigh, the young man turned and began making his way toward the exit. But as if suddenly recalling something, a soft "ah" slipped from his lips.
+
+He glanced back at Eric, who had been staring at Molly as she stood silently near the entrance. Eric's mouth opened, clearly wanting to say something to her, but he paused at the sound the young man made. His brows lifted a fraction when he noticed the young man clearing his throat. "Ah... would you happen to know if there's a bakery nearby?" he asked.
+
+Eric frowned at the question but answered regardless. "There are three bakeries around here." He began to explain further, his hand lifting to gesture, but he stopped short. His golden eyes shifted toward Molly as she walked slowly to where he stood.
+
+When Molly reached Eric's side, she gave him a brief nod before turning to face the young man, who now wore a faint, weary frown as he regarded her.
+
+Molly offered a short bow of greeting. The black orb drifted out from her robe and hovered beside her, dissolving into shimmering particles:
+
+~ Good morning, sir. Forgive me for eavesdropping on your conversation.
+
+She lifted her gaze to meet his, already strangely fascinated as he watched the black orb.
+
+~ I believe I might know who you're looking for.
+
+At those words, the young man's brow rose, his head tilted slightly. "Truly?" he said, watching as Molly gave a short nod.
+
+A bright expression bloomed across his face. "Well then, young miss." He gestured toward the exit. "Would you kindly lead the way?"
+
+Molly nodded briefly, her eyes flicking to Eric, who stared at her with a worried look.
+
+She gave him a thumbs up, a silent reassurance that she would be all right.
+
+Eric watched her for a moment, his worry deepening. He didn't believe her.
+
+Seeing this, Molly sighed. She turned back to the waiting young man as the tiny particles swirled and formed a sentence.
+
+~ Sir, might I have the honor of knowing your name?
+
+Upon reading the words, a spark of realization dawned on the young man. "Ah, forgive my manners. I seem to forget introductions on occasion," he said, pausing briefly before parting his lips again.
+
+"My name is Sebastian," he added. "A close colleague of Fiona."
+
+Molly shifted slightly, her expression lit up at the word "colleague." She offered another short bow.
+
+~ My name is Molly.
+
+She straightened from her bow and gestured toward Eric.
+
+~ And this is Eric, my friend.
+
+Molly then motioned toward the entrance.
+
+~ I hope you won't mind. I'd like to run a few errands before leading you there.
+
+An amused expression flickered across Sebastian's face as he read the words. "I don't mind," he said, shaking his head. "Not in the slightest. In fact, I'd love to learn a bit more about a few things while you go about your errand."
+
+Molly gave a brief nod. She turned to Eric, waved at him, and then walked alongside Sebastian as they left the stall.
+
+Eric watched Molly depart with the peculiar stranger named Sebastian. But just before her figure crossed the threshold of the exit, her left hand twitched ever so slightly. Before Eric's eyes, the black orb that had already slipped into her robe silently drifted back out.
+
+It hovered in the stall for a moment before dissolving into words.
+
+~ I'd like to ask a favor of you.
+
+The particles shifted into another sentence.
+
+~ Could you visit Eoma's bakery and inform a woman named Fiona that a young man called Sebastian is looking for her?
+
+~ I'll pass through this street on my way to the bakery. Signal me with a thumbs up if she knows him, and a closed fist if she doesn't.
+
+The tiny particles swirled one final time, forming a concluding sentence.
+
+~ And don't worry. I'll be fine. Thank you.
+
+Eric watched as the particles reshaped themselves into a ball, then shrank until it was smaller than a pinprick before floating out of the stall. He found himself staring at the empty air for a long moment.
+
+A breathless laugh finally escaped him. Surprise flickered across his face. "Did she just use the signal signs from 'Born Detective'?" he murmured, unable to stop himself.
+
+*******
+
+Molly walked gracefully through the bustling market square alongside Sebastian. Inwardly, her heart thumped with a mixture of excitement and pride at what she had pulled off.
+
+According to a novel called 'Born Detective', one she had read during her free moments away from travel and magic lessons, chapter forty-eight described a moment when Agent 004 encountered someone asking after a distant cousin. Since the agent didn't know the inquirer, he immediately employed the "buy time until identity cleared" method, which meant stalling until the unidentified party could be properly identified.
+
+A subconscious curl graced Molly's lips. She had just executed the first step. Now came the real objective: to actually buy the time.
+
+And Molly intended to do precisely that.
+
+Shifting her gaze to the side, she saw Sebastian walking beside her, the earlier amused expression lingering on his face. When he noticed her glance, he spoke while still looking ahead. "So, young miss, which errand do you intend to tackle first?"
+
+Joy crinkled at the corner of Molly's eyes as she had already mapped everything out in her mind. She lifted her hand and pointed toward an ice cream stall nearby.
+
+Sebastian raised a brow. "An ice cream shop?" he asked.
+
+Molly nodded vigorously.
+
+A short laugh escaped him. "Very well. Let's be off, then."
+
+With a calm stride, they diverted toward the ice cream stall. The old seller smiled the moment he spotted the approaching duo.
+
+"Hello, young sir," he greeted Sebastian. "What flavor of ice cream would you like to buy for this lovely sister of yours?"
+
+At that word, a silence swept between Molly and Sebastian.
+
+Molly's eyes twitched before her gaze darted sharply to Sebastian, as if urging him to correct the misunderstanding before it escalated further.
+
+Sebastian immediately offered a wry laugh when he caught Molly's expression. "Ha, sir, we aren't related. Though our eyes may share a certain similarity, we are not family in the slightest. However..." His voice trailed off as he studied Molly, a smirk curving his lips. "We might be alike in our way of thinking. Don't you agree, young miss?"
+
+Molly's eyes twitched further at his words. Her face hovered on the edge of reddening with embarrassment as she pieced everything together.
+
+Had he already figured out her plan?
+
+Seeing Molly's expression falter, Sebastian laughed. Molly nearly pouted but stopped herself, a determined gleam settling in her eyes. She had to complete her mission.
+
+With a bold stride, she stepped closer to the seller and lifted her hand, pointing at the ice cream she desired.
+
+The seller followed her gesture. "Strawberry flavored?" he clarified.
+
+Molly nodded, then lifted two fingers, indicating she wanted a pair.
+
+"That'll be one bronze coin," he said.
+
+Molly dipped her hand into her robe's pocket to retrieve her pouch but paused when she noticed Sebastian extending his hand. He placed a gold coin into the old seller's palm. "Keep the change," she heard him say.
+
+The old seller fumbled over his words, stunned by the unexpected sum. When he finally gathered himself, he gave a deep bow of gratitude. "Thank you very much, young sir."
+
+Sebastian waved. "It's nothing, sir."
+
+The old seller lifted his head, warmth filling his expression. "It means a great deal."
+
+As if recalling something, his face lit up. "Let me fetch your ice creams at once." He shuffled inside the stall, leaving Sebastian and Molly alone for a moment.
+
+Sebastian exhaled softly, a quirk lifting the corner of his lips as he turned to meet Molly's pointed stare, giving a short bow of apology. "Forgive me. I simply had a whim to pay."
+
+Molly regarded him for a moment before sighing, shifting her gaze away as she watched the old seller return with two cones piled high with strawberry-flavored ice cream.
+
+"Here you are, young lady," he said warmly.
+
+Molly accepted the cones with a polite bow of thanks, then resumed walking beside Sebastian as they made their way to the next destination.
+
+While they strolled, Molly handed Sebastian one of the ice creams.
+
+He raised a brow when he noticed the offering. His lips twitched, fighting a grin. "Let me guess... you had already planned to buy me an ice cream before I paid for them?"
+
+Molly nodded, extending the cone once more, and he accepted it with a word of thanks.
+
+With that settled, Molly immediately dug into her own ice cream, taking a small bite from the peak. The moment her teeth sank into the chilled cream, the cold sweetness of strawberry spread across her tongue. Her expression brightened with delight as she licked the ice cream.
+
+Sebastian observed her calmly. The amused look on his face was about to deepen, but his expression shifted, as if he had just remembered something. "That reminds me," he began, glancing at Molly, who stared at him while still savoring her treat.
+
+"Would I be permitted to have a look at that black orb? I promise I won't take long."
+
+Molly paused mid-lick at his request. She considered it for a moment, then gave a brief nod, resuming her ice cream as the black orb drifted out from her robe pocket and floated over to Sebastian's awaiting hand.
+
+"Thank you," he said, and Molly answered with another nod.
+
+Sebastian studied the black orb resting in his palm. He turned it over, rotating it in his hand as he examined every angle, searching for a formula imprinted upon its surface. A surprised breath escaped him. "Remarkable... who would have imagined I'd ever encounter something like this," he murmured to himself while continuing his analysis.
+
+"Not only is the material used to craft this sphere something not native to Gaia, but it also bears no formula physically etched onto its surface. It almost feels as though it wasn't created using formula at all." He mused quietly. "This is unquestionably technology far more advanced than anything most magic-tech inventors in Gaia could conceive."
+
+"I wonder who created this extraordinary artifact," he said as he returned the black orb to Molly's waiting hand. She received it calmly before allowing it to drift into the air, where it projected her thoughts.
+
+~ A very special person.
+
+Molly's expression warmed as she cast the thought into the air.
+
+"Oh, is that so?" Sebastian said, inclining his head slightly skyward, the edges of his mouth rising a fraction. "I hope I'll have the chance to meet that person one day."
+
+Molly could only offer a fleeting, melancholy grin, one that concealed the sadness threatening to break through. Deep within her heart, a masked longing stirred.
+
+If only it were possible.

@@ -1,0 +1,161 @@
+---
+id: a2e3be04-f09b-5b7a-b5b9-9e296acc9992
+page-type-slug: story-chapter-royal-road
+title: "Chapter 592: Workplace upgrades"
+slug: 0160-chapter-592-workplace-upgrades
+partOf: rise-of-the-living-forge
+position: 160
+ownLength: 1914
+unit: words
+publishedAt: 2026-05-18
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3413913/chapter-592-workplace-upgrades"
+royalRoadId: "3413913"
+---
+
+Jake laughed.
+
+That lasted about a second. Then he realized that Lillia was completely serious. The Merchant’s guildsman swallowed. He seemed to think for a moment, opened his mouth, then decided better of it. It was another second before he actually said anything.
+
+“The whole street?”
+
+“Yes,” Lillia said. “That is what I said.”
+
+“I am about to be so rich,” Ridley said, rubbing his hands together with a delighted grin. “So rich. Wait. You’re not expecting a discount for doing all the houses at the same time, are you?”
+
+“Why yes, Ridley, I am,” Lillia said. “It is a lot of houses. I might not be one of our resident merchants, but I would venture to guess that you’re going to be… how did you say it? So rich. Rich enough to cut your good business partners a reasonable deal. Well, it’s that or I call up Melissa or Raen.”
+
+“Rain would be thrilled,” Monica put in. “He loves bargaining.”
+
+“We are more than aware,” Lillia said, leveling a look at Ridley. “But I don’t think we want any other parties involved in the bargaining. Do we?”
+
+The mason cleared his throat and pulled at his collar with a single finger. “10% off?”
+
+“That sounds lovely,” Lillia said with a smile. Then she looked back to Jake. “So. The whole street. We’d like to pay immediately. No point just sitting on a giant pile of gold and doing nothing with it, is there?”
+
+“I… no. I suppose not.” Jake shook his head. “I’m really not meant to be giving any manner of advice here, but are you quite certain? That’s a lot of buildings that you’re going to have to pay tax on. Right now, you’ve just got building rights to the street. The Merchant’s Guild doesn’t count the ruins as proper buildings. But if you actually renovate them, that’s going to start adding up pretty quickly. You’d be losing a lot of money.”
+
+“Your concern is appreciated,” Lillia said. “But ultimately unneeded. This street has looked like a haunted graveyard for long enough. Just two buildings aren’t enough. We need to expand. The Menagerie will be opening up several new shops along the street. That should bring more business and make more money from the business that we already have. And if it doesn’t… well,  w have the money to lose.”
+
+Jake coughed. “Well. You’ve certainly gotten richer since we last spoke.”
+
+“Astronomically,” Lillia said. She beamed at him. “No small thanks to your assistance. We haven’t forgotten how you helped us secure our street. That won’t go unrewarded. Reya will show you to the treasury and get you paid for the street and the buildings we’re putting on it, as well as settle any other debts we still have notwithstanding. Sound good?”
+
+“Yeah,” Jake said, sounding somewhat distant, as if he couldn’t quite recognize the sound of his own voice. “Yeah. It does.”
+
+Reya led him out of the room without another word.
+
+Ridley pulled at his collar again. “You do actually have the money for all this? I heard you had a successful auction, but the cost of renovating an entire street…”
+
+“Don’t worry about it,” Lillia said. “I’ve been saving for a long time. The auction isn’t the only funds we have. Just get started at your soonest convenience. Madiv already has the plans for what we want. He’ll find you after the old ruins have been cleared out.”
+
+“You don’t have to tell me that twice.” The mason turned on his heel and practically sprinted out of the room in his haste to get started.
+
+Arwin didn’t blame him. Not only was he about to make a metric ton of gold, but he was also about to heavily advance his class. He doubted masons often got the chance to renovate an entire street.
+
+“How long have you been planning this?” Vix asked. “What buildings are we going to be making?”
+
+“A while,” Lillia replied. “And some are just going to be empty for the time being. We put out a call for crafters during the auction. With any luck, some people will answer that call. Any of them that happen to be worth bringing aboard will get to customize their building as they need.”
+
+“Does that mean we have to postpone going to the dungeon?” Kien asked, a note of disappointment in his voice.
+
+Lillia snorted. “Absolutely not. Ridley works fast, but I still want to go now. There are too many things I’ve been waiting to try. I’ve left all the instructions for how to handle the building situation with Madiv.”
+
+Rodrick arched an eyebrow. “And—”
+
+“And she gave me the instructions of what to do when Madiv inevitably goes overboard and tries to make a bunch of coffin-shaped buildings,” Anna provided with a grin. “So there’s nothing to fear. I’ll keep an eye on things. I’ve just been sitting around and running my healing booth anyways.”
+
+Rodrick grinned. “Just making sure.”
+
+“I’m surprised you didn’t already know,” Art drawled. “I thought you liked keeping an eye on everything.”
+
+“There’s a big difference between watching your enemies and watching your friends. I keep an eye on the movings of Milten. Not on what happens within the Devil’s Den or what people do in their private time.” Rodrick sent Art a sharp look. “Abusing our abilities to overstretch where our noses belong is a great way to erode trust.”
+
+Art cleared his throat. “Right. Yeah. It was just a joke.”
+
+“That said,” Rodrick said, rising from his chair and sliding it back into the table in his absence. “You should stop going for a morning bath at the same time every day. It’s predictable, and someone could take advantage of it if they were trying to isolate you. Throw some variance in there.”
+
+“How did you…”
+
+Rodrick just arched an eyebrow.
+
+Art glared at him. Then he grabbed his cane and pushed himself to his feet. “Bah. Your magic is bullshit, you know that? Completely unfair. Come on, Vix. Let’s go train. Best of luck to everyone heading to the dungeon. Come back in one piece.”
+
+Vix rose, and the two of them headed out of the tavern.
+
+“How do you track something like that?” Arwin asked. “I thought your magic needed an information network or something. You don’t have people set up in the Den, do you?”
+
+Rodrick snorted in amusement. “Godspit, no. The floor just creaks when he walks past my room. No magic involved. Art’s a brilliant strategist, but he relies too heavily on his powers. A part of that is because he knows he can’t rely on his physical combat skills. But he’s a smart kid. He’s going to have to use his head more if he wants to stay ahead of me.”
+
+“Ever humble,” Anna drawled as she flicked Rodrick in the shoulder. “Don’t let him frame things like he’s doing it all as training. Rodrick just loves flexing his abilities. He’s thrilled to have a student.”
+
+Rodrick coughed into his fist as the rest of the Menagerie chuckled.
+
+“Have you already determined the location of the nearest worthwhile dungeon?” Kien asked. It was clear there was really only one thing he was focused on at the moment. “I am quite eager to get started.”
+
+“Not yet,” Lillia said with a shake of her head. “I was thinking we’d stop by the town center on the way. Not for long. Just to see what dungeons have been found in the area. It shouldn’t take too—”
+
+“I know where they are,” Rodrick said. “There’s one four hours north of town. Expert. Should suit your group well enough. The others are either a bit too far, not worth the trip, or not suitably explored. I don’t think you’re looking for a dungeon that’s going to be pushing you too hard right now.”
+
+“That sounds perfect,” Lillia said. “Straight north?”
+
+“Just about. It’s at the base of a large hill in an outcropping of sharp rocks that look like the burst up from beneath the ground, according to the information board,” Rodrick said with a one-shouldered shrug. “Should be easy enough to find. There apparently aren’t many hills in that direction, and you can follow the road for the majority of the trip over.”
+
+“Just what I wanted to hear,” Lillia said. She glanced to Vanessa. “Is there anything else you needed to prepare?”
+
+“Nope,” Vanessa replied cheerfully. “Been just sitting around and hoping we could go thwack something sooner rather than later.”
+
+Lillia sent a quick look to Arwin. He nodded. It wasn’t like there was anything he had to prepare himself. All his equipment was already on him.
+
+“Then there’s no reason to delay,” Lillia said. “Let’s get moving, shall we?”
+
+***
+
+Ida didn’t hear the members of the Menagerie heading out to the dungeon. She barely even noticed the time slipping by as she worked, the tip of her tongue poking out from her mouth as she worked on the amulet in her hands. It wasn’t the first she’d tried to make, and—
+
+There was a faint snap.
+
+Her jaw clenched.
+
+Ida stared down at the the two pieces of fragile metal in her hands. She’d broken another amulet. An exasperated sigh slipped from between her lips and the urge to pelt the pieces of metal into the ground of the ruined building around her nearly won.
+
+She found her hand lifted halfway into the air before she caught herself. Her jaw worked. Then she shook her head and let her hand lower. Throwing a fit would solve nothing at all. She was just doing things wrong. Ida was capable of making far better than this.
+
+It’s just been so long since I tried. I swear I was more skilled when I was a child than I am now. Too much damn time acting like a pawn and too little actually creating anything of worth.
+
+But I had a much better set of equipment to work with back then.
+
+Ida pushed that thought away. It wasn’t helping, and neither was trying to blame failures on anything other than a lack of her own ability. It wasn’t that creating complex pieces was impossible without specialized tools. That, too, she had done before.
+
+They just made things a whole lot easier.
+
+Ida rose to her feet, brushing the dirt off her backside — and then she froze.
+
+There was a shadow across the room from her.
+
+Her hands raised before herself as she lowered into a fighting stance. “Who…”
+
+Madiv emerged from the darkness, his arms crossed behind his back. “Me.”
+
+“Madiv,” Ida said, blinking. She lowered her hands slightly, though not all the way. “What are you doing?”
+
+“Watching you.”
+
+“I — you’re not supposed to just up and say that,” Ida said. “That’s creepy.”
+
+“Why did you ask a question you did not want the answer to?” Madiv shook his head in annoyance. “Humans.”
+
+“I’m not a human,” Ida snapped.
+
+Madiv arched an eyebrow. “You are a short human.”
+
+“Yeah? And you’re one with fangs. And shitty fashion sense.”
+
+The vampire snorted. “A fair argument. Then I will extend my distain for the mortal races to include dwarves. Does that satisfy you?”
+
+“Yes,” Ida said. She crossed her arms in front of her chest. “Why were you watching me?”
+
+“Because Lillia told me to,” Madiv replied.
+
+“What? Why?”
+
+The corner of Madiv’s lips pulled up. “She thought you might like a better workspace.”

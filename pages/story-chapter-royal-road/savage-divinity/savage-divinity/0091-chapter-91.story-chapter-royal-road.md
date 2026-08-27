@@ -1,0 +1,115 @@
+---
+id: df1c56ff-5ce8-5bb2-9164-c2ea2fae74e9
+page-type-slug: story-chapter-royal-road
+title: "Chapter 91"
+slug: 0091-chapter-91
+partOf: savage-divinity
+position: 91
+ownLength: 3933
+unit: words
+publishedAt: 2016-07-08
+link: "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/80569/chapter-91"
+royalRoadId: "80569"
+---
+
+“I need you to cut off my finger.” I declare my request with steady confidence, which quickly withers away as Tokta stares silently at me, his expressionless gaze bearing down upon me, scouring my very soul as he scrutinizes me as if I were an unpleasant stain upon his robe, trying to decide how to best scrape me out of his life. “Uh... cut off my finger, please?” He has a way about him that makes me feel so uncomfortable, as if he was here simply to judge all of my inadequacies. I don't know why exactly I feel that way, he's never said anything to specifically insult me but he has an air of finality about him, as if he knows I'm going to fail spectacularly and is just waiting to silently disapprove.
+
+“Okay.” His blade whistles out of his sheath and dances through his fingers with a well-practiced twirl. According to some stories, Tokta was so in love with conducting surgery on his patients he chose a straight-edged, curved-back general purpose kitchen knife as his first Spiritual Weapon, and while I haven't personally seen him fight with it, the ease and precision with which he cuts through my flesh is enough to convince me that he truly loves his job, despite the world-weary expression he carries all day. “Which finger?”
+
+Uncertainty begins to creep in through the back of my mind, and I take an involuntary step back at his unexpected enthusiasm, holding my hand out before me. Rethinking that decision, I quickly ball my hand into a fist and hide it behind my back. “Wait, don't you need to hear why? Or, I dunno, clean your knife and prepare in case something goes wrong?”
+
+“No need. Don't be shy and hold out your hand. If you can't decide, let me choose and it will be a surprise. This will only take a second.” He steps towards me, somehow retaining the same bored expression while still appearing eager and excited in his body language. I guess it's not every day that he has someone volunteer for an amputation.
+
+“Look, I just want you to slice off the tip of my pinky finger, just below the nail so I can reattach it and see what happens firsthand.” I extend the sacrificial digit out and off to the side of my hand, my arm fully extended and eyes closed, dreading the incoming pain.
+
+“It's done.” No sound of the blade chopping through the air, not even the sound of his clothes moving. Huh. That wasn't so bad, I didn't even feel a thing. Peeking open my eyes to view his handiwork, I gaze upon the bloody stump of my finger, cut down to the base of the knuckle and my stomach drops out from beneath me as my head begins to spin, my mind unable to focus on anything besides the fact that my entire finger is gone. Bright, arterial blood gushes from the open wound, spraying about to coat Tokta's robes, although one would hardly notice it among the multitude of blood stains already on his outfit. Bending over, he picks up my severed digit and holds it out to me, waggling it in front of my face. “You should begin the healing process immediately, as more time passes it will become more difficult. I will even hold it in place for you.” A few more seconds pass before he frowns, leaning in to stare into my eyes whilst snapping in front of my face. “What's the matter with you boy?”
+
+“What's the matter with me?!” My voice grows indignant and high-pitched, cracking from the stress. “I said just the tip and you chopped off the entire finger!”
+
+“Bah.” Waving with the hand that still holds my finger, he dismisses my accusations without a thought. “There is no practical difference when it comes to attachment and it's easier for me to hold a finger as opposed to just a tiny nub of flesh. Stop complaining, this is simply what is best.”
+
+“Well I'm sorry for almost inconveniencing YOU!”
+
+“Apology accepted. Get to work now before I feed this to a quin. I have better things to do than to play with you all day.”
+
+It is only with great self-control that I am able to let go of my anger and calm down, as well as the realization that he is now equipped to beat me to death with my own finger. The blood loss may also be a factor, and I shakily plop down onto the dirty, blood stained ground, taking deep breaths to center myself as Tokta holds my finger in place against my hand. Reaching for Balance, I'm surprised to find that upon inner examination, it appears as if my finger is still attached and only leaking blood as if from a deep cut. Directing my chi towards it, trying to keep the healing process as slow as possible, I carefully study the proceedings.
+
+The two parts attach themselves loosely, beginning at the skin and working its way inwards, flesh and tendons connecting as my chi seems to take physical form and bond the two parts together, new tissue created to hold it all together. The severed blood vessels simply plow forward in new paths, sending fresh blood into the appendage. The bone reconnects itself in a natural manner, an area of inflammation and clotting that repeats over and over to harden into a new sliver of bone, all done without any guidance from me other than the initial push.
+
+Opening my eyes to study the mended finger, I wiggle it around while ignoring the searing pain, trying to see if there is any noticeable change. Other than the fact that I barely needed to think about the healing process, the finger fully fixed much like how I was regenerating my arm, albeit at a faster pace than I am able to do while directing each step.
+
+“Learn anything useful?” Tokta sits at a table nearby, grinding away with a mortar and pestle. Guess he got bored waiting.
+
+“I think so.” Might as well discuss it with Tokta, Other me is utterly useless in this regard. He still wants me to hunt down a bear even though I explained that bear arms would kill us, a complete idiot. “How does chi become a solid object? It doesn't seem real, an invisible and ethereal energy that somehow turns into physical blood and tissue.”
+
+Shrugging without any concern, he answers with a question. “How does the wind pick up a leaf?” More fucking philosophical bullshit, but thankfully, he continues. “However, your thinking is incorrect, chi does not become a physical thing. Your chi simply fuels the process of healing, speeding it along like how food becomes energy for you to move. The wind in the sails pushing the boat, the steam in the kettle firing the cork, unseen and intangible, yet capable of affecting the physical.”
+
+Hmm... Fair enough. Going over a few things, I decide that it makes no difference, that my theory is still possible. “I don't believe that I need to visualize and guide each step of the regeneration process. There's a … Phantom arm of mine that dictates how my real arm should be, so technically my body should know how to recreate it without my direction.”
+
+“More experienced healers than you or I have tried, but it is always better for a man to make his own mistakes.” Great. He's humoring me. At least he isn't outright laughing. “What do you plan to do next?”
+
+Coughing to stall for time, I gather my courage and resolve, looking him straight in the eye. “I need to lose a tooth and watch it heal.” Seeing the corner of his lips raise as he moves to stand, I quickly back away and specify, “Just one fucking tooth, you sadist. Don't punch me in the mouth or something crude, I need you to remove a single tooth while leaving the root intact. You said it will grow back from normal healing, right? I want to see that in action.” He is far too eager to do these things, in my opinion. At least try to look hesitant.
+
+“You and your odd fixation on your teeth. I cannot understand it but I will be glad to help.” His fingers tap excitedly across his desk as he sits in waiting, betraying his eagerness to inflict pain upon me. While we wait, I say a small prayer of apology to his wife, just in case I've awoken something in Tokta, the closet sadist showing his true colors. Before I can gather the courage to ask what we're waiting for, a Sentinel arrives with a small case of tools and a porcelain jar, leaving both on Totka's desk while giving us a strange look. He lingers for a moment before being shooed away by Tokta, who pulls out a curved, iron tool, with a wooden handle perpendicular to the bar and tipped with a blunted hook. Holding it in his fist, the iron bar and hook poking out from between his fingers, he stands from his chair and waves me over, gesturing for me to sit.
+
+This may have been a mistake.
+
+Gingerly making my way towards the chair, Tokta busies himself by rinsing out a teacup and pouring a measure of wine from the jar. “Drink this boy, you are going to need it. Slosh it around your mouth first.” Shakily throwing back the harsh drink, burning as it slides down my throat, I gasp and blink as I hold out my cup for more. A long pause ensues, during which he stares at me once again as if debating how to best dispose of me, before a second, more generous measure makes it way into my cup, and this time under his careful watch, I follow his instructions, letting the terrible tasting liquor coat the inside of my mouth, the taste almost making me gag.
+
+“What is that stuff?” It's horrible, and almost makes me want to never drink again.
+
+“The Tears of the Mother, my personal stash, unflavored and pure. Steam distilled five times and made with the best Dragon Pearl Barley available, aged in earthenware for twenty years and imported from the Eastern Province.” He pours himself a cup and drinks it down, smacking his lips in appreciation. “Delicious stuff. Be appreciative that I am willing to share, this jar was horrendously expensive as it is the Emperor's alcohol of choice.”
+
+It tastes like foot fungus and leaves my mouth dry as I try not to heave, but I remain silent out of politeness. Who knew that Tokta would be one of those people who likes to emulate their heroes. I wonder if there's some sort of publication detailing all of this? Opening my mouth wide, he begins to insert the hooked end into my mouth, before pulling back, leaving me with a metal taste on my tongue. “One thing to note, do not attempt to direct the healing in your tooth, just passively allow it to heal on its own. If a tumor grows in your mouth, I will have to remove your jaw and that will be unpleasant for all involved. Is there any tooth in particular you would like removed, or should I just surprise you?”
+
+It takes several minutes of indecision before I finally speak up again, unsure if I still want to continue. “Umm... The lower-third tooth from the back right, there's a cavity on it and I would have to yank it eventually anyways.” The hook makes its way into my mouth as he fiddles with some gears on the handle, tightening the metal snugly around the targeted tooth, the metal digging in and causing me some discomfort. Grabbing the wooden handle, he looks at me sternly, warning me to keep still as he braces one hand against my chest before he begins to rock the handle back and forth, loosening the tooth from my gums in a burst of pain. An unmanly screech exits my mouth, but my hand remains gripped to my pants as I resist the urge to stand and throw him off, remaining as still as possible so he can finish quickly. Have some dignity, if I try to run now it's likely that he will pin me down and finish this. He does not like to leave things half-finished, the sour look upon his face each time he sends an injured or crippled soldier out of the tent making that clear.
+
+After an agonizing eternity, I feel and hear a series of cracking, the tooth fracturing beneath the stress as my mouth fills with blood. Removing the now crimson hook from my mouth, he lets me lean forward to spit, handing me a cup of water and telling me to rinse and spit. My chest heaving in pain, he makes me sit back once again, this time with a smaller hooked tool with a sharp tip as fine as a needle, and a pair of tweezers just as fine. He begins to rip out the shattered remnants of my broken tooth, tears dripping down the side of my face at each painful probe and merciless yank.
+
+The things I do for science.
+
+I should just switch places with Other me and let him take this pain, payback for bitching out after getting smacked around by the Demon. That little asshole has caused me nothing but pain and suffering, taking up valuable mental real estate, hiding away while I suffer for our strength. I should start charging him rent in the form of substitution for unpleasant activities and monotonous tasks, like digging and filling the latrines.
+
+“We're done here boy, are you well?” For once, it seems Tokta is actually concerned and he looks apprehensively at me as I exit my thoughts, the pain in my jaw radiating outwards in a dull, unending tide of agonizing throbs, my mouth barely able to close from the strain of staying open for so long, the morning passing me by while I sat in a stupor. The weirdest things go through your mind sometimes. Tokta fusses around me as he checks my pupils, asking me questions I can't be bothered to answer as I probe the gap in my gums with my tongue, sending a fresh wave of torment through me. Leaning over to one side, I slowly spit out a globule of thick, viscous blood, mingled with the tiny remaining shard of my tooth. My chest begins to heave as I try to unsuccessfully hold back my sobs, Tokta awkwardly patting my shoulder while I lean forward to hide my weakness, gasping as my tears flow freely from my clenched eyes, unable to do anything but make sounds of distress to deal with my pain.
+
+After my sobbing subsides, I finally open my eyes once again, gingerly wiping my face on my sleeve, trying to compose myself while avoiding using my pinky and touching my mouth, failing in each respective attempt. Thankful that we are alone and isolated with no witnesses, my entire body feeling like one enormous amalgamation of painful injuries, every movement I make causing me some form of pain or discomfort. I want nothing more than to beg Tokta just to heal everything and then drug me up until the pain goes away, or take the easy way out and stop trying, waiting for Taduk to make everything better, staying in his villa until this war ends, letting my every need be cared for by his army of servants.
+
+Unfortunately, my dreams and aspirations won't let me just coast through this life. If this world was just normal and without any fucking magic, I would probably do something to that extent, be a merchant or a farmer, or something safe. Unfortunately, knowing that I can regenerate an arm and not learning how to is simply unacceptable to me, and this is the cost of knowledge. Life would be so much simpler without morals or scruples, testing on people or animals, but unfortunately, I was born with a conscience.
+
+Who knew pulling a tooth would hurt so fucking much? I feel a little bad for just ripping out Zabu's, but that was a necessity.
+
+Failing at smiling, I simply give Tokta a thumbs up, wondering if the gesture translates, but he simply looks at me with concern without saying a word. Getting out of his chair, I move back to my spot on the floor and lean back against a rock, resting as I wait for the pain to subside and prepare myself to heal. Taking a deep breath, I crumple over in pain as the cold air whistles past the gap in my teeth, eliciting a pained groan from me and a panicked charge over from Tokta. Fucking hell, there has to be a better way.
+
+Once again reaching for Balance, I watch carefully as I direct my chi to heal my mouth. A fracture along the jaw and severe bruising in the gums tells me that I should probably rethink asking Tokta to do this again. I don't think his nightmarish tooth-breaker is meant for healthy teeth, causing far too much collateral damage, so I better figure this out in one try. I already know what to expect, having regrown a few teeth already in the span of a few hours, but to my intense regret, I never really paid any attention to the process. My patience wears thin as I finish fixing all the peripheral damage, wanting no distractions while I watch my tooth grow, keeping in mind his earlier words, that chi is simply fuel for the process.
+
+Once I am ready, I gently check the abscess in my mouth, comparing and contrasting with the surrounding teeth, trying to visualize what to expect. The root is still present in the form of a tangle of blood vessels, but other than that, the gum in empty of all else. I am 100% positive that, were I not in this world, I would be short a tooth for the rest of my life. Things are different here, but I cannot believe that regrowing teeth is a natural phenomenon unique to the normal humans of this world. I mean, of all the things to be different, why something so minor and almost inconsequential? Figure out why there's a difference, and maybe it can offer insight on something else, something important.
+
+Immediately upon beginning, an anomaly grabs my attention, causing me to grow immensely excited. A type of bodily substance is being produced at the tips of the broken root, something I am unfamiliar with. Slowing the process as much as possible, I note that the substance is a byproduct of my blood, only the tiniest of portions splitting off while the remainder continues to flow past. Usually, all of the blood will be consumed in the healing process in one form or another, but in this instance, only the smallest part is left behind, pooling together as if in preparation for something. Without warning, following some unknown signal, the substance begins to transform into different parts of the tooth, beginning from a tiny bud and growing slowly, folding down in two halves that will eventually connect to the remnant blood vessels to form the root, then beginning to peak upwards in the early stages of the tooth crown.
+
+All throughout the process, the same unknown substance continues to split off from my blood, the base material of every part of the tooth despite the complex composition. While not that strange, as blood will generally be used in a multitude of ways throughout the healing process, there are usually more stages of change in between. Even in a simple cut, blood will clot, collagen will form, then tissue, then skin, and only then will the body begin to truly heal, a multiple stage process. In this case, I am simply going from simple, unknown substance to complex tooth in one single step, as if the substance were a panacea capable of becoming anything that was required of it.
+
+Barely able to contain my excitement, I continue to watch the process unfold, the panacea seeming more important the more I think about it. While possible that it is a unique substance required solely for the growth of teeth, if it turns out that it can truly become any substance in my body, then I can cut out many of the steps involved in the regeneration process. While perhaps not the mindless regeneration I was hoping for, it could help save me a lot of time and effort.
+
+My tooth fully healed and only briefly stopping to inform Tokta that I will be working on my arm, I quickly return to the State of Balance, my heart pounding in anticipation. This time fully in control, I direct my chi to begin creating the same substance as before, depositing it all at my stump, praying that I don't somehow grow a bunch of teeth, shuddering at the mental image of a tooth-studded meatball exploding out of my arm. No problem, at worst, Tokta chops off more of my arm and I go back to the drawing board.
+
+Both disappointed and relieved, nothing happens as the unknown substance seems to drain away as it is created, unable to grow in volume and explode into action like it did with my tooth. Still, I continue to direct my chi to create more, focused entirely on that one, single task at the detriment of all else, attempting to speed up the process. Why isn't it pooling? Is it just being cannibalized by my body's natural responses? Maybe it really is only for teeth.
+
+Regardless of all my doubts, I sit there maintaining my efforts to create the unknown substance from my blood until I am drained, both mentally and physically. Letting out a dejected sigh, I slump down and rub my eyes, upset at my failure, dreading what I come up with next to try. Maybe I should give up, I'm just useless. Opening my eyes, I jolt back in fright as I see Tokta crouched before me, staring intently. His hands reach out to grasp my shoulders and I feel the cool intrusion of his chi entering my body, examining me from head to toe. “What did you do boy? Tell me in detail, take your time.” His eyes are wide and penetrating, his grip steely and almost painful.
+
+Snorting loudly, I shake my head, too tired to explain properly. “I failed. I know, just as expected. Maybe we should take another tooth out, but do you have a better way? You almost broke my jaw with that thing.”
+
+Blinking owlishly at me, he quickly rummages through his pockets for a moment and holds out a piece of string with a knot in it, the measuring device we use for checking my progress. Lifting my arm up, he holds it in place for me to see, the knot a full finger-width above my stump. Staring at the string, my mind blanks for several seconds before I snap back to reality. My arm stump is more than a centimeter longer than it was yesterday.
+
+It worked?
+
+Bubbling up and bursting out of me, a laugh escapes my mouth as I cackle in glee, the sound tinted with a hint of madness, the rare and incredible feeling of success filling me with pride.
+
+It fucking worked!
+
+…
+
+Next project: Bear Arms.
+
+The dream is alive.
+
+Chapter Meme

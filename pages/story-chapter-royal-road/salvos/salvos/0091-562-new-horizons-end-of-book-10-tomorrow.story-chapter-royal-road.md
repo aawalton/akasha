@@ -1,0 +1,133 @@
+---
+id: eee5703e-c252-5fa7-808f-511ed700554a
+page-type-slug: story-chapter-royal-road
+title: "562. New Horizons (End of Book 10) + TOMORROW!"
+slug: 0091-562-new-horizons-end-of-book-10-tomorrow
+partOf: salvos
+position: 91
+ownLength: 1521
+unit: words
+publishedAt: 2023-05-20
+link: "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1219299/562-new-horizons-end-of-book-10-tomorrow"
+royalRoadId: "1219299"
+---
+
+562. New Horizons
+
+Now Entering [Dungeon: Remnants of the First Demon Kingdom]
+
+The words resounded in my head. I stared at the broken altar. I swept my gaze around the room, staring at the brick wall. I recognized this place. It was the very first room I entered after descending further into this Dungeon.
+
+It was where I had discovered those collars— the very same summoning rings that would bring Regnorex’s minions to the Mortal Realm. And the inscriptions told me that this kingdom belonged to my father.
+
+Or, at least, it used to belong to Sal.
+
+Samuel?
+
+The Devil King.
+
+Whatever he went by back then, it didn’t matter. He used to be a ruler of a vast kingdom— this place used to be a safe haven. A sanctuary for all kinds of Demons to gather, away from the harsh world above.
+
+But now, it was all ruins. And in the depths of the second layer, only a single citizen of the kingdom remained.
+
+Was Belphegor dead? I didn’t know. He was still battling the hordes of the corruption down in the second layer last I saw. He had even used a Skill when he was reaching for his chest. Was it a regular Skill? A Grand Skill?
+
+Again, I didn’t know. He was so much stronger than me that even his regular Skills were comparable to the Grand Skills I had seen from other Elites. Or maybe they were all Grand Skills. Maybe every Skill I had seen him use was a Grand Skill. Maybe every Skill he had was a Grand Skill.
+
+Either way, he was still fighting against the end of the world. And that last Skill he used had been greater than the others. I hoped that he was able to defeat that Corrupted Hellspace. It was strong— it was almost unkillable. It simply regenerated from everything Belphegor had thrown at it.
+
+It had even corrupted me… maybe.
+
+I looked down at myself. I wasn’t a corrupted creature like the Corrupted Netherstones and Corrupted Netherstructures. Certainly, I hadn’t succumbed to the corruption like the Wyvern I had fought back in the Helbir Plains did. It was more like I had Skills related to manipulating and even creating the corruption.
+
+Just like the [Ancient Centinel] I had killed back in the Bloodied Gulf.
+
+I narrowed my eyes. I saw the veil of corruption wisping off me. The four wheels that circled around me faded away as I deactivated my [Protection of the Corruption]. But my body remained distorted. Like my figure was nearly invisible— obfuscated by the warped space.
+
+I took a step forward, taking in a deep breath. And [Corruption Camouflage] came to an end too. I was finally back to my regular self. And I nodded as I took in a deep breath.
+
+“Alright… so maybe going down to the second layer was not a good idea…”
+
+I should have known it would be dangerous, but the fact that even a Level 200 [Golem of the Basilisk] was torn apart in the face of the army of the corruption just showed how far out of my depth I was down there.
+
+It was as the Kobolds had told me— the Old Gods died to prevent the end of the world. The Dragons in the Mortal Realm, and my dad’s kingdom in the Netherworld. They fought to stop the corruption. And even then, all they could do was slow it.
+
+I stared at the tunnel leading further down to the Prison of the Basilisk. There was nothing for me down there— not right now. Even going back to speak with the [Basilisk] was pointless. After all, there was a very real chance that it would attack me since I now had a Corrupted Title.
+
+If it sensed ever a semblance of the corruption on me… I would be turned to stone in an instant. Probably.
+
+…most likely.
+
+Still, I didn’t know for sure. I just knew that the [Basilisk] was far higher-leveled than me. I didn’t want to risk dying just so I could just pay the Gate of the Netherworld one last visit. Instead, I slumped over and let out a tired sigh.
+
+I was exhausted. I was hurt. My body was bloodied and broken— I had been through so much. I wasn’t sure how much time had passed since I entered the Remnants of the First Demon Kingdom. And I especially wasn’t sure how much time had passed since I entered the second layer.
+
+Space was distorted there, and it was entirely possible that time wasn’t exactly moving normally either. That was in addition to the time it took for me to readjust to the environment, trapped in that hallway that led to the Corrupted Hydra.
+
+Could it have only been a few days? A few weeks? Maybe a few months? Maybe even a few seconds!
+
+And what about the time I spent in my dad’s pocket space, just before I returned to the Netherworld for Revelation?
+
+I closed my eyes as I let [Rest] take over. So much had happened in what felt like a short period of time, and I needed to catch a break. Even if it was only a short reprieve, I couldn’t just keep pushing on at this pace. Everything from seeing the multiverse to seeing the end of the world— I just needed some time to recover now.
+
+“Then… I’ll find Haec.”
+
+I whispered to myself as I began to succumb to darkness.
+
+“And I’ll speak with my… Dad…”
+
+And as I lay here, slowly passing out in the ruins of my father’s kingdom, the world continued to move.
+
+Deep beneath the depths of the second layer, Belphegor’s eternal battle continued. The end of the world drew closer, but it was delayed for just a moment longer. He knew that he could not hold it off until the end of time.
+
+But for the sake of the man he loved, Belphegor was going to keep fighting until he died.
+
+And on the first layer of the Netherworld, Revelation raged on. The Beast continued its endless slaughter, waking up from its slumber. Archdemons, Primeval Demons, and even Primordial Demons alike stood helplessly in its path of destruction.
+
+But nothing would satiate its hunger for death. Not here. Not on the surface of the Netherworld.
+
+After all, while its slaughter seemed mindless, its actions were driven by confusion. By fear and terror.
+
+It unleashed a deluge of black flames that ripped across the landscape. It watched as tens of thousands died in an instant. And as it stared at the barren landscape—
+
+It simply longed to return to its home.
+
+News of the Heir of the Netherworld’s betrayal reached the Demon King’s Castle, and a terrible roar echoed out, shaking the Domain. As the tremor died down, Regnorex called for his Deathsquad Hunters.
+
+Haec, Taburas, Betrugil, and Aemula wandered the scarred world of Revelation. They were lost. They were being hunted. But they weren’t afraid.
+
+Haec wasn’t afraid. After all, he knew he would see his leader again.
+
+But until then, he wasn’t alone. He was accompanied by… others. No— by his brand new companions? Or at least, a singular companion in Taburas.
+
+They continued following the cracks and crevices, staying safe and far from the death and destruction above.
+
+But in the Mortal Realm…
+
+Things were different. There wasn’t a planar disaster that naturally struck the world, following a consistent cycle like that of night and day. However, that didn’t mean that the Human lands didn’t have their own problems.
+
+For one, they were still recovering from the Demon invasion of the Mortal Realm. Even though they had repelled the Demon King, the aftershocks of the attempted merger remained. Even now. And for another—
+
+The Human lands was at war.
+
+Daniel Song drew his bloodied sword from the corpse of an Elf. He raised his head, scanning the barren battlefield. It was a resounding victory. He nodded at himself, before sheathing his blade as a notification echoed in his mind.
+
+He closed his eyes as he listened.
+
+Class [Hero Of Demon And Man] Level Up!
+
+[Hero Of Demon And Man—
+
+Gained 5 Stats—
+
+[Advancement Available]
+
+Author's Notes:
+
+This is the final chapter in book 10, and unfortunately, I will be taking a 3 week break from posting public chapters for Salvos. It was initially supposed to be a two week break, however I got sick a few days ago... so yeah.
+
+I will still be updating my patreon chapters because they already went through their break, so if you want to keep reading, check out my patreon! https://www.patreon.com/MelasD
+
+And if you want to check out something to read during that time, you can read my other novel Amelia the Level Zero Hero here: Amelia The Level Zero Hero Book 1: An OP MC Isekai LitRPG - Kindle edition by Lewis, V.A., Delta, Melas. Humor & Entertainment Kindle eBooks @ Amazon.com.
+
+Lastly, MY COMIC IS COMING OUT TOMORROW! Big hype! I've done a lot of promo for it so far, so for now I'll just show you the cover :)

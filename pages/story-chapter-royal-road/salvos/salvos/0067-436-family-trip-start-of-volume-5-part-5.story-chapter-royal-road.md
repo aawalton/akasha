@@ -1,0 +1,223 @@
+---
+id: 8294dde7-1d8a-54d5-892a-e8eade8bacc1
+page-type-slug: story-chapter-royal-road
+title: "436. Family Trip (Start of Volume 5 Part 5)"
+slug: 0067-436-family-trip-start-of-volume-5-part-5
+partOf: salvos
+position: 67
+ownLength: 2441
+unit: words
+publishedAt: 2022-10-20
+link: "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1020109/436-family-trip-start-of-volume-5-part-5"
+royalRoadId: "1020109"
+---
+
+456. Family Trip
+
+The city lay waiting in the distance. An undulating field of hills and valleys surrounded it, ravaged from weeks of fighting until just two days ago. I’d been gone from Alyras for quite a while, and when I returned, I hadn’t been able to luxuriate in the peaceful confines of the city due to the state of chaos it was in.
+
+I barely even had time to say hi to any of my companions before I was fighting for my life— against Demon after Demon, facing Grand Skill after Grand Skill, and Treasure of Alexander after Treasure of Alexander. I was lucky I had my own Grand Skills and my own Treasure of Alexander, otherwise I probably wouldn’t have stood a chance against them.
+
+And after a protracted battle, we finally came out victorious and defeated most of the Archdemons assailing Alyras. Many people died. Some of whom I knew. I mourned their losses as I was somewhat close with them. But even still, I was elated. After all, I was Level 144 now. I was one step closer to reaching my next evolution. It had been so long, and I was finally on the precipice of taking the next step.
+
+It wasn’t just me who grew stronger, either. Both Edithe and Daniel reached Level 120 from this— the former literally just at Level 120, while the latter was at Level 125 somehow. Apparently Daniel leveled up even after the battle was over, when one of the Demons that ran away died. Still, I was pleased. I managed to keep my promise to the both of them. I told them I’d help get them both to Level 120, and while I technically wasn’t the one responsible for bringing those Archdemons to Alyras, I was ready to take full credit for it. I mean, I did save their lives, didn’t I?
+
+Either way, it was all resolved mostly fine. And that meant that—
+
+“It’s finally time.”
+
+It was something I’d wanted to do for a while, but couldn’t due to a litany of reasons. Now though? Now was the perfect chance for it. I glanced back at the three figures waiting behind me. They backed away shyly, trying to hide behind the hill. But they knew just as well as I did that I wouldn’t let them get away. It was happening today.
+
+A [Will O’ Wisp] flitted by my head and snorted.
+
+“Idiot.”
+
+The decision was announced in the morning. It came only two days after the siege of Alyras was lifted. Laux Lionfist, one of the triumvirate leaders of the Forsaken Company, was the one to make the announcement.
+
+“With the conclusion of the Conference of Alyras, all parties have unanimously agreed to form a coalition to put an end to this Demon threat once and for all!”
+
+Of course, there was a lot more nuance to that statement than what he said, but he was met with applause as he stepped off the podium. It was a good decision, after all. The only right decision after those seven Archdemons plagued the Conference of Alyras for so long. To think that the best of Humankind would be so unprepared to face only a handful of Demons…
+
+Laux Lionfist had been more wary of the Demon threat than most other parties, but even he didn’t anticipate this. It clearly emphasized just how much of a threat the Demons posed to Humankind. After all, when all of the Human lands were united under the Immortal King Alexander himself— the highest-leveled [Hero] to ever be summoned— they barely managed to fend off the Demon King’s invasion. And it was at a great cost too, with Alexander sacrificing his life to save all of Humankind.
+
+It was always blatantly clear to any observant watcher that the odds were against the currently splintered Human lands. But so many factions had been against forming a coalition, trying to push on the task of exterminating these Demons to the Vaun Qieur Empire or the Three Honorable Companies or the Greater Vampire Families. Only now did they change their minds.
+
+That was the difference between knowing something and understanding it. After the siege of Alyras, everyone now clearly understood just the threat the Demons posed. And that was why it was a unanimous decision to form the coalition they were so against forming.
+
+Laux Lionfist also knew there was some politics behind it. Some bribes or threats made behind closed doors. But it didn’t matter. The decision was made and announced, and he stayed behind in the city square to answer any questions and clear up any concerns that might be had.
+
+It was a tiring job. It was honestly his least favorite part of being in his position. He much preferred being in a life-or-death position, punching his enemies as they punched him till he was an inch from death. He didn’t really have to think too much about what he did, instead letting his instincts take over and drive his actions.
+
+Here, he had to wear a politician’s mouth. Think through every word he said— ensure he couldn’t be misinterpreted, and keep the populace calm. If he misspoke once, the rumor mill would take over and he would have to spend the next few days or weeks trying to clear it up. He was far more focused here as he addressed the concerned people of Alyras
+
+But even his steel-like concentration on the crowd before him broke when he saw the figures moving through the streets of the city. He raised his head, ignoring the questions as he stared at the silver-haired girl and the three creatures following behind her. The crowd turned with him, and a susurration slowly spread throughout the city.
+
+“Is that… a baby Wyvern?”
+
+“Excuse me! Sorry! Please don’t stare— they’re shy!”
+
+This was a terrible idea. Willy knew it was a stupid idea. But all he could do was watch as Salvos led the three baby Wyverns into Alyras.
+
+It was bad enough that he was a Grand Spirit. His presence drew a lot of attention. Coupled with Salvos being a famous Diamond Ranked adventurer who gained even more recognition after her efforts during the siege of Alyras. They were already quite a spectacle to behold.
+
+Now with three baby Wyverns tagging along, everyone was asking questions.
+
+“That’s Salvos! Liberator of the Plaguelands! Why… does she have those baby Wyverns with her?”
+
+This attention was too much for Novis, Bellum, and Oriur. The three of them were still young. Not even a month old. And while they did have some exposure to people with the Beastmen just a few days ago, it was incomparable to the bustling life of a city.
+
+Novis and Bellum stuck close to Salvos, too scared to wander around with all the eyes fixed on them. They didn’t even raise their heads as Salvos gestured at the street just ahead of them.
+
+“This is the city square. You can see the palace of Alyras just ahead here— I am pretty sure they hold large gatherings here for important things. Like right now! Look. There’s something happening over there!”
+
+Sure enough, there was a crowd of hundreds just up ahead, although whatever important thing they had been doing was interrupted by Salvos’ presence. Willy sighed as he shrank back, making himself as small as possible— which was unfortunately not as small as he’d like— to avoid the stares and the attention.
+
+Salvos didn’t care for it. She continued forward as Novis and Bellum clung to her legs, quite literally being carried by her with each step she took.
+
+“And this is market street. They sell lots of disgusting— I mean delicious food here.”
+
+She had not a care in the world. And because Willy was too embarrassed from all the staring, neither one noticed Oriur slipping away. The third of the baby Wyvern siblings— and the shyest of them all— was most interested in the Human city. Willy and Salvos only noticed he was wandering around and exploring when they heard the scream.
+
+“Monster! Someone call the guards!”
+
+Willy and Salvos snapped their gazes to the side. They watched as Oriur snatched up a roasted pig from the front of a nearby stall. The lady at the counter was sprawled on the ground with silver coins scattered and clinking all around her. She pointed with shaking fingers at the baby Wyvern as he scampered back to Salvos.
+
+“There’s a Wyvern in the city! We’re under attack!”
+
+“No— Oriur! You can’t just take that!”
+
+Salvos exclaimed as the lady continued her shouting, drawing even more attention to the scene. The silver-haired girl picked up the baby Wyvern and tugged the burnt pig carcass from his mouth. She tried to return the half-eaten food back to the lady.
+
+“Sorry about him. He doesn’t know you can’t just take things from people yet… well, actually, you can. As long as no one stops you, you can take whatever you want. But you know what I mean, right?”
+
+The lady just looked up at Salvos with wide eyes.
+
+“Are those… yours?”
+
+“They’re, um… Novis, Bellum, and Oriur.”
+
+“You named those Wyverns?”
+
+Salvos nodded.
+
+“Yep. I guess I kind of adopted them because their mom died?”
+
+The lady got to her feet, now glaring at Salvos.
+
+“You adopted those Wyverns… after what they did to Catark?!”
+
+She pointed accusingly at the silver-haired girl. Salvos blinked as the watching crowd began to whisper amongst themselves. They turned to each other, casting sidelong glances back towards her.
+
+“That’s true. Why does she have those Wyverns with her?”
+
+“My family died in Catark to those damn Wyverns!”
+
+“They’re monsters! They shouldn’t be allowed in the city!”
+
+Their voices grew more and more outraged as Salvos stood there, caught off guard by the sudden anger directed towards her. She spun around, confused. But Willy knew things would quickly spiral downwards if left unchecked. He moved to defuse the situation, but was too slow.
+
+A burly man stepped forward from the crowd and spoke in a booming voice.
+
+“Now, now, what’s this ruckus going on?”
+
+“Laux Lionfist! Our city is under attack by those monsters!”
+
+The lady stumbled past Salvos, pointing at the trembling baby Wyverns. Salvos blinked as she saw the scared looks on Novis, Bellum, and Oriur.
+
+“Stop scaring them!”
+
+Salvos stepped forward, raising a fist. But the lady ignored her. However, the burly man— Laux Lionfist— cleared his throat.
+
+“Monsters? I’m sorry madam, but I do not see any monsters here.”
+
+“What?”
+
+The lady stared up at him in shock. Laux Lionfist nodded.
+
+“All I see is a young woman taking care of her pets.”
+
+“Pets?!”
+
+Both Salvos and the lady sputtered. But he waved a hand off, interrupting the both of them.
+
+“Now I understand you are troubled and upset because of what happened to your stall, so I shall ensure you are fully reimbursed and more.”
+
+The lady tried to work her jaw.
+
+“But… but…”
+
+And Laux Lionfist clapped his hands together and made a shooing motion at the crowd.
+
+“Let’s not make a fuss, everyone. I’m sure we’re all tired after the events of the last few weeks. Let’s go back about our day, shall we?”
+
+For a moment, the gathered crowd hesitated. Eventually, they began to disperse one after another, not wanting to get involved with the large and clearly important man. Willy held Salvos back— she was still upset that he called the three baby Wyverns pets. But the [Will O’ Wisp] managed to convince her that Laux Lionfist only said that to help her. Which was true. Although she was still upset about it.
+
+“They’re not pets…”
+
+“Calm…”
+
+Willy said the word like it was supposed to be a spell. Laux Lionfist did as he promised, handing over a handful of gold coins to the lady as she sulked back into her broken stall. He shook his head and laughed.
+
+“Well, that was quite the scene, wasn’t it? Honestly, I had no idea you were a [Beast Tamer] in your second Class.”
+
+“Um, actually—”
+
+She raised a hand to correct the man, but Willy stopped her. Salvos looked between Willy and the baby Wyverns for a moment before mouthing an ‘oh’ and lowering her hand.
+
+“Nevermind. Thanks for the help.”
+
+Salvos smiled at Laux Lionfist. He nodded back at her.
+
+“It is my pleasure, Liberator of the Plaguelands.”
+
+“You know me?”
+
+She cocked her head at him.
+
+“I do. Everyone knows you. Especially after that stunt you pulled with your clones.”
+
+He shook his head and proffered her a hand.
+
+“In any case, I am Laux Lionfist, one of the triumvirate leaders of the Forsaken Company.”
+
+Salvos returned with a blank stare.
+
+“Who?”
+
+He paused. He narrowed his eyes at her, scrutinizing her look of confusion.
+
+“You’re serious, aren’t you?”
+
+“Yep. Never heard of you in my life. Although… you look a bit familiar.”
+
+Laux Lionfist guffawed at that. He threw his head back as he laughed boisterously before patting her on the shoulder.
+
+“It doesn’t matter. Honestly, I’d prefer that you didn't know who I was. I don’t have to deal with formalities that way.”
+
+“Same. Pretending to be who I’m not is annoying.”
+
+Salvos nodded in agreement, although Willy knew she was referring to something else entirely. Laux Lionfist ushered Salvos forward as Willy and the baby Wyverns trailed after.
+
+“You’re an interesting person, aren’t you? I can see why Orgaf has taken quite the interest in you.”
+
+“You know Orgaf?”
+
+“Let’s just say we’re co-workers.”
+
+The burly man winked at her. He brought her away from the city square, towards a more secluded street before coming to a halt.
+
+“But before we stray too far from the topic of honesty, I must confess, while I did come here to both offer you a hand and to get to know you better, I do have ulterior motives.”
+
+Salvos stopped behind him, raising a brow.
+
+“Ulterior motives?”
+
+Willy froze, unsure of whether this was a good or bad thing. He was almost certain that he should intervene, but Laux Lionfist was above Level 150. And the burly man probably wasn’t going to try anything too bad, right?
+
+Well, the [Will O’ Wisp] got an answer soon after as Laux Lionfist nodded and gestured at Salvos.
+
+“Those artifacts you’re wearing… I believe that we are going to be needing them back.”
+
+Salvos looked down at the boots and greaves she was wearing, before raising her head at the crown on her forehead. Laux Lionfist pointed at each of the Treasures of Alexander, and she blinked.
+
+“Huh.”

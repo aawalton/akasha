@@ -1,0 +1,21 @@
+---
+id: fa1f0550-2776-54ff-ab9f-c33ee25718a3
+page-type-slug: story-chapter-royal-road
+title: "Salvos Book 8 is now available on the Amazon store! Give it a rating!"
+slug: 0063-salvos-book-8-is-now-available-on-the-amazon-store
+partOf: salvos
+position: 63
+ownLength: 212
+unit: words
+publishedAt: 2022-10-02
+link: "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1006844/salvos-book-8-is-now-available-on-the-amazon-store"
+royalRoadId: "1006844"
+---
+
+Real quick, am still sick. But I'll try to get a chapter out by end of today.
+
+As the title says, Salvos Book 8 is now available on the Amazon store! Check it out and give it a rating! It covers up to chapter 435, which means you guys can technically read ahead if you buy this book. I'd still recommend patreon over it because it's more cost effective and cheaper for more rewards, but if you guys don't like subscription payments and are willing to wait a few weeks for the RoyalRoad chapters to catch up, then check out the book version instead!
+
+The Treasures of Alexander.The genuine version of this novel can be found on another site. Support the author by reading it there.They are Mythic Grade Artifacts. The greatest weapons of Humankind against the Demon threat looming over them. But the Dukes and Duchesses of the Netherworld won't remain idle. They will do whatever it takes to upheave the Conference of Alyras and steal the Treasures of Alexander.And while this is happening, Salvos will have to come to grasps with taking care of the newborn Wyverns...
+
+The Treasures of Alexander: A LitRPG Adventure (Salvos, Book 8) - Kindle edition by Lewis, V.A.. Literature & Fiction Kindle eBooks @ Amazon.com.

@@ -1,0 +1,129 @@
+---
+id: 539ff77d-5357-50ed-9bea-5a876647c447
+page-type-slug: story-chapter-royal-road
+title: "Chapter 504: Sooner"
+slug: 0070-chapter-504-sooner
+partOf: rise-of-the-living-forge
+position: 70
+ownLength: 1980
+unit: words
+ownProgress: 1980
+publishedAt: 2025-10-20
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2691312/chapter-504-sooner"
+royalRoadId: "2691312"
+markedReadAt: "2026-06-29T20:00:40.480Z"
+---
+
+Arwin wiped sweat from his brow. His arms ached. He couldn’t remember the last time that he’d actually gotten sore from smithing. Arwin also wasn’t entirely sure how long he’d been working.
+
+He knew it hadn’t yet been a week. If it had, somebody from the Menagerie would have come to get him by now so he didn’t miss the deadline they’d given the Blacktongues. Even though the deadline was completely fake, he still had every plan of looting the actual vault near the day they’d promised.
+
+They’d need the rewards from the Vault if they were going to properly leverage the Dwarven Council into dealing with the Blacktongues for them, not to mention getting them to support and participate in the auction house.
+
+But Arwin’s thoughts only managed to linger on the future for a short while. They were quickly pulled back to the anvil before him. The results of the work that he, Koyu, and Wallace had done laid before him.
+
+A large black lump of metal roughly in the shape of a ball was all they had to show for their efforts. It looked more like a chunk of molten slag that one might have found deep within the Setting Sun’s volcano than it did like a Core. The obsidian material was actually metal, but it was so craggy and beaten up that it seemed closer to stone. There was nothing particularly remarkable about it at all.
+
+Nothing, at least, in physical appearance.
+
+But that was where its inadequacy ended.
+
+Even from where Arwin stood, not even in contact with the Core, he could feel it. There was hunger. Power. Desire. It pulsed in a rhythmic hum, too high pitched for any human ear to pick up on but somehow simultaneously impossible to completely miss.
+
+Making the Core had been… strange. Arwin had expected there to be some differences caused by Sunsetting his class. The Core was the first major project he’d undertaken since then. But he hadn’t realized just what those changes would be.
+
+There was no way to describe them other than that he’d been working half-asleep before. The song of the materials he worked with was a thousand times louder, as if it came from within his own body rather than some outside source.
+
+He understood the song. It was the closest he’d ever gotten to a proper conversation that wasn’t an outright Vision. Every single minute request, every single desire of the metal he worked with, all of it became clear to Arwin.
+
+There were components that had seemed like they would have been perfect. Ones that he would have previously used without a second thought, but he now set to the side. They bore subtle differences in desire. Ones that were small enough to easily be looked over — and ones that would inevitably cause disagreement and reduce the quality of the final product in the long run.
+
+Sunsetting his class hadn’t just made Arwin stronger. It felt like, for the first time, the world no longer treated him like an outsider. Everything was one massive symphony. He wasn’t just listening anymore. The Mesh, the materials, Arwin — they were all one and the same.
+
+Arwin didn’t get any notification of a new skill activating, nor did the information on his old ones change. This change wasn’t a magical one. It was a change of being itself.
+
+And the results were beyond evident.
+
+This rather unimposing blob of black metal was, without a doubt, the most powerful Core that Arwin had ever created. It had so much magic packed into it, woven in and between the layers of metal that composed the rough orb, that Arwin didn’t even want to think about what would happen if it were damaged.
+
+There was a good chance that the power would go off like a bomb and wipe a fair portion of Milten off the face of the Kingdom. He, Koyu, and Wallace had completely drained their magical reserves several times over in the process of getting it to this point. Even the Infernal Armory had dried its reserves bare.
+
+The only thing that had kept them all going were repeated deliveries of Lillia’s cooking. One of her imps would routinely show up with several plates of meals and drinks. Some for them, and some for the Armory itself.
+
+If it hadn’t been for them, the core never could have been completed. Their magic would have run out entirely and the Core would have collapsed long before getting anywhere close to a stable state.
+
+And they had still yet to get a single reward from the Mesh for their efforts. That wasn’t because they’d failed. It was because, despite all the power within the Core, it still wasn’t done. There was still one step left.
+
+“I’ll be damned,” Wallace breathed from the other side of the anvil. His beard was singed from the heat of the black Soul Lava that they’d been using to forge, but the dwarf barely even seemed to notice. His eyes sparkled with awe and delight as he looked upon the nearly finished core. “This… it’s beautiful. I’ve never seen its like before. We’ve made art. Art like the world has never seen. Not even the Dwarven Council has produced anything like this.”
+
+“We’ve made a weapon,” Koyu said. The lich rested against the wall of the Infernal Armory, his pale flesh somehow even paler than usual. Soot and stains covered his pure white hair to the point where he probably could have blended into a herd of zebras without much issue at all. “I’ve seen power like this before, but only during the war. And only in explosives that were used to level cities. To contain it within a Core… we grow dangerously close to the path that my former master walked.”
+
+“Except all the materials are entirely on board with this,” Arwin said. “There was nothing forced to act in a way it didn’t want to. This Core is formed by metals that want to be part of a Soul Guardian. Pieces from the Devil’s Den and the Infernal Armory. From us. There is nothing at all here like the vision you showed me of your master.”
+
+Koyu was silent for a few moments. Then he slowly pushed himself to his feet. The weariness was evident in his stance, but his eyes still burned with the same intensity that they always did.
+
+“You are correct,” Koyu said. He looked down upon the Core in silence for another moment before speaking again. “This is something new. I do not know if I am scared or excited to see what it is capable of.”
+
+“Well, it ain’t done yet,” Wallace said. “And me mum always told me not to think too hard about things that haven’t been finished. Great way to botch it all up by daydreaming.”
+
+“She’s right about that,” Arwin said. “It needs to connect with the Devil’s Den. The only way something this powerful will be able to properly interface as a suit of armor is if we let it really soak in more of the Den’s essence. We need to—”
+
+“Have Lillia stick it in her oven,” Wallace said.
+
+“I was thinking in the basement, but the oven might actually be better,” Arwin said after a moment of thought. “The oven is probably about as close to the deepest part of the Den as you can get — and it’ll have a constant application of magic soaking into it as she cooks.”
+
+“I’ll bring it over,” Koyu said. “It is likely this will take several hours to steep properly.”
+
+What is it, a tea?
+
+“I think a whole day would be best,” Arwin said. “The metals were settling down… but there was still some mixing going on. I think letting it stew inside the oven for a while should really let the Core get to know itself.”
+
+Koyu nodded. Then he lifted the Core gingerly, cradling it in his arms like a slightly misshapen child, and strode out of the Infernal Armory to ferry his payload over to Lillia.
+
+The Armory didn’t even say a word. Arwin could feel its presence, but the building was so exhausted that manifesting itself in the typical pillar of red mist was too great an ask. The only thing it managed was a faint sense of smug satisfaction.
+
+Well, that and anticipation.
+
+Arwin got the feeling it was looking forward to seeing the new body for the Devil’s Den.
+
+“Should we keep going?” Wallace asked through a yawn. “The body still has to be built. We have the materials prepped, but—”
+
+“Not yet,” Arwin said with a shake of his head. “I don’t want to make the other parts of the armor without the Core present to choose them.”
+
+Wallace blinked. “You think it’s going to be that intelligent? It’ll be able to select the pieces you make its body with?”
+
+“Yes,” Arwin said. “I already felt the intelligence inside it. Not human intelligence, but intelligence all the same. After its finished bonding with the Den, there should be even more of it. You wouldn’t want a custom tailored suit without any input into what it looks like, would you?”
+
+“Do I look like the kind of dwarf to wear a suit?”
+
+Arwin shrugged. “You get my point. Custom tools, then.”
+
+Wallace nodded thoughtfully. “Yes. It makes sense. I just never thought such a thing was possible. Magical items don’t typically have this level of intelligence. Not unless they’re at a level only spoken of in legends. This isn’t something I’m familiar with.”
+
+A prickle of something between annoyance and catty satisfaction rolled against Arwin’s mind from the Infernal Armory. He got the feeling it didn’t like the implication that it might not have been as smart as the Core.
+
+Arwin ignored it. He shook his arms out, reaching for the magical energy that he’d managed to recover since they’d stopped working. A fair amount of it was back. More than enough to make sitting around and doing nothing pointless.
+
+There was still more he wanted to accomplish before the day was done.
+
+“Discovery is half the fun,” Arwin said. “How’s your magic doing right now?”
+
+“It’s fine,” Wallace said suspiciously. “But I thought you said we weren’t going to start on anything until the Core was done soaking.”
+
+“Not for the Core,” Arwin agreed. He cracked his knuckles and looked down at the anvil. “But it’s been a while since I’ve updated everyone’s armor. With everything I’ve learned recently… I think I’ve got quite a lot that I can improve upon. I reckon we can get a few pieces made before the core is finished, don’t you?”
+
+Wallace stared at Arwin in disbelief. “What is wrong with you? Does the idea of rest bring you physical pain?”
+
+“Oh, come on,” Arwin said. “It’s just a few pieces of armor. Maybe a set. Should be easy. We’ll be done well before the Core is.”
+
+“Yeah, yeah,” Wallace muttered under his breath. He brushed his hands off against his apron. “Just making a few more magical pieces of armor. Stuff that people would pay thousands of gold for, and you’re going to bang it out in an afternoon because you’re bored.”
+
+“Are you helping or not?” Arwin asked. “You can always sit this one—”
+
+“You kidding me?” Wallace snorted. “Untwist your head, boy. ‘Course I’m helping. No way am I sitting this out. So… whose the lucky one that we start with?”
+
+“I was thinking we might make a victory present for Rodrick’s triumphant return. He still doesn’t have anything custom from me. I want to fix that.”
+
+“Isn’t he meant to be out a while?” Wallace asked, blinking.
+
+“Maybe. But underestimating Rodrick… that’s generally not a good idea.” Arwin smiled. “I get the feeling he might be back sooner than expected.”

@@ -1,0 +1,139 @@
+---
+id: 57ed4f5f-6e32-581f-8a92-16b6872cb525
+page-type-slug: story-chapter-royal-road
+title: "Chapter 571: Mandate of the All-Seeing Eye"
+slug: 0095-chapter-571-mandate-of-the-all-seeing-eye
+partOf: reborn-as-a-demonic-tree
+position: 95
+ownLength: 2585
+unit: words
+publishedAt: 2026-05-22
+link: "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3433273/chapter-571-mandate-of-the-all-seeing-eye"
+royalRoadId: "3433273"
+---
+
+Ashlock had fought their kind before—except last time, it had been in the form of a giant mind-eating moth.
+
+Thal'korr was undoubtedly a Psychic affinity Monarch, meaning he specialized in mind control. However, unlike Ig'Zal, who seemed to focus on altering foes' memories to enslave them to his service, Thal'korr utilized a swarm of insects as his weapon.
+
+How the insects could adapt to his affinity, Ashlock wasn't sure. But after focusing on one of the insects in the swarm that was honing in on Elysia and comparing it to the insect encased in amber atop Thal'korr's scepter, he discovered they were identical. It could have been theatrics to misdirect his focus, but the insects only seemed to obey Thal'korr's orders when he waved the scepter, leading Ashlock to believe it was the source of his control.
+
+Take or destroy the scepter, and the tides of battle could turn in their favor.
+
+With Cyphion doing his best on the ground against Droskan, that left Thal'korr to face off against Elysia and Larry. Perhaps realizing his less-than-ideal position, rather than standing his ground and fighting, he was on the run and was surprisingly fast as he whizzed overhead like an annoying fly.
+
+Ashlock tried to suppress him with his immense soul pressure, but it had no effect. Thal'korr appeared to be in the mid-stages of the Monarch Realm, and his unusual form of body cultivation—if replacing one's entire body with insects could even be called that—was proving far more effective thus far than his actual affinity.
+
+This concerned Ashlock. Ig'Zal had been a freshly ascended Monarch when they fought. In contrast, Thal'korr was a seasoned veteran with a body, armor, and weapons designed to make use of his Monarch Realm strength, which surpassed that of Elysia and Larry. While Ashlock had his {Soul Forest [S]} skill to protect his mind and soul from threats, the same couldn't be said for his allies, which, in his opinion, made Thal'korr the greater threat of the two and needed to be eliminated immediately.
+
+"Larry, trap him within your domain. Elysia, I'll portal you closer to him so you can use your domain," Ashlock instructed. If they couldn't keep the Monarch still, that didn't mean Ashlock couldn't help his sect members get closer to the Monarch.
+
+Silver ash erupted from Larry's body, significantly shrinking him, but in return, his signature dome of ash began to encase the battlefield. Thal'korr glanced at it but deemed it not worrisome, as he didn't attempt to escape before it formed.
+
+Instead, his focus was on the desolation portal opening beside him. He spun around and met Elysia's attack with his scepter. His parry was far too effortless and almost sent Elysia flying back through the portal she had just emerged from.
+
+He was strong for a man made of bugs.
+
+"How dare you torture the All-Seeing Eye's believers with your grotesque insects!" Elysia seethed.
+
+"My insects are grotesque? What about the character of people who would turn their backs on the Empire that protected and nurtured them for centuries in favor of a dark god that brought ruin to this land?" Thal'korr countered, his haunted chuckle made all the more alien by his golden beetle mask. "They are the truly grotesque ones, rotten from the inside out and deserving of eradication!"
+
+"Eradication? Was that his goal? To kill all the people who had turned their backs on the Empire?" Ashlock pondered. "I didn't know the Celestial Empire was so zealous, unless they figured out I derive my power from my believers and seek to eradicate them because of that?"
+
+"The only ones worthy of eradication are the enslavers of the World Tree, such as yourself," Elysia raised her finger and pointed it at Thal'korr. "Behold my domain, and rejoice as you receive the Mandate of the All-Seeing Eye."
+
+Upon uttering those words, Ashlock received a notification.
+
+[Elysia has initiated a domain that relies on borrowing your strength. Do you authorize its activation?]
+
+"I do," Ashlock replied, unsurprised to see the message. He knew that Elysia housed his offspring, Mytherion, in her soul and had assimilated into his ethereal root network to the point that she could receive system messages, which he had called the divine voice.
+
+While being her own broken person, Elysia was the closest he had to an avatar in this world through which he could truly channel his strength. Upon authorizing the domain's usage, Elysia underwent a change.
+
+While the two human eyes remained glowing violet, the vertical third eye on her forehead blinked and now resembled his Evil Eye. Her body grew in size, and the black bark that had been relatively unintrusive until now spread over her entire body like scales. Her black vine hair thickened, and the ends turned ethereal, seeming to fade into nothingness, while in truth they had plugged into his ethereal root network lurking beneath the ground. Mystic Qi rushed around her, condensing into thousands of floating eyes that weren't mere decoration—they made use of his Gaze of the Tree God skill to inflict a sense of being watched onto the enemy and to feed information about the battlefield to Elysia and Ashlock.
+
+She had transformed into an all-seeing spectral titan of wood and wrath, and that was just the beginning. Her Mystic Qi continued to expand outward, filling Larry's ashen dome and turning it into her world.
+
+"Can't you feel it, little bug?" Elysia said, her voice echoing from all sides. "The beauty of his gaze?"
+
+Thal'korr laughed. "If you were hoping to overwhelm my senses and impose false devotion upon me with this little trick of yours, I'll have to disappoint. Perhaps if you were a couple of stages stronger, I might be swayed or impressed."
+
+"He's a Psychic Monarch, Elysia," Ashlock mentally informed her. "Any type of mental or soul-based attack is likely to have little effect on him."
+
+"Oh, I knew that already," Elysia said with narrowed eyes. "But unlike Psychic Qi, which keeps battles in the sea of consciousness, my Mystic Qi lets me bring those visions to life!"
+
+She snapped her fingers, and the surrounding Mystic Qi condensed into arm-thick tree roots that surged out of nowhere and rushed toward Thal'korr. For a moment, they looked like they were going to ensnare his limbs successfully, only for his limbs to simultaneously explode into masses of buzzing insects that swarmed around the roots.
+
+"Mystic Qi, it has been a while since I saw a practitioner, and certainly the first time I've seen one of your strength," Thal'korr's alien-like voice said from within the expanding swarm. "But just because you can bring your visions to life doesn't make them strong."
+
+Elysia's eyes widened as the swarming insects impacted her conjured roots and devoured them in a frenzy. Their bulbous bodies glowed and began to take on Mystic Qi, much like the ones quickly approaching from below had done to Ashlock's Desolation Qi. They then dispersed, targeting the floating eyes and eating away at the Mystic Qi that made up Elysia's domain.
+
+She conjured more and more roots out of Mystic Qi, only for the swarm to devour them all the same.
+
+Infuriated, Elysia rushed toward Thal'korr—only to be blown back by a sudden detonation of Mystic Qi between them. It took a moment for Ashlock to realize that Thal'korr had blown up one of his own insects, and judging by the blast's strength, the insect had been in the Star Core Realm. Though perhaps because of its size, or the little time it had to absorb any Mystic Qi, the explosion wasn't enough to cause real harm to Elysia.
+
+But if that had been a random Star Core cultivator? Their heads would have been blown off their shoulders in an instant. Thal'korr was now more than just a swarm of Qi-devouring bugs—he had turned the battlefield into a minefield.
+
+"He forced one of his own insects to go supernova, causing it to blow up and create space," Ashlock informed Elysia as he watched on, trying to figure out a way to win. The scepter was still in Thal'korr's possession, being held by a skeletal hand encased in a thin layer of insects. Like a school of fish avoiding a predator, Thal'korr continued to weave and change his body shape to avoid the endless stream of roots still being conjured by Elysia.
+
+Ashlock looked down and saw that Larry was now being swarmed by the Desolation insects, leaving Elysia alone to face Thal'korr. The battle waged on for another minute—time the citizens of his captured land couldn't endure. Their screams continued to echo out into the night while the battle above the Hellroot Abyss raged on.
+
+While Elysia seemed unable to advance, Thal'korr was unable to go on the offensive. The mystic Qi swirling around Elysia had condensed into a spectral armor, which she used to ward off the insects as she focused on killing them. Occasionally, she would try lunging at Thal'korr, forcing him to detonate many insects in response.
+
+If this battle turned into one of attrition, Elysia would win, as Thal'korr seemed to have a limited number of these strange insects to work with, whereas Elysia could keep pulling on Ashlock's Qi reserves to fuel her attacks.
+
+But Ashlock didn't want this to be a battle of attrition; he needed Thal'korr dead and the scepter in his hand so he could seize control of the insects attacking his believers. After watching the fight intently through his Gaze of the Tree God, he had an idea.
+
+"Elysia, take my demonic sword and eat this fruit," Ashlock said as a portal opened above her, and the mighty blade of blood-red metal that pulsed with life descended alongside a fruit. "Wait until my signal, and then lunge at him and scream in his face."
+
+"I trust in your foresight," Elysia said as she received the gifts. Blood leaked from the corner of her mouth, possibly because of internal injuries or from overusing her domain. She devoured the Soul Protection fruit derived from his Soul Forest skill without question. Previously, the Soul Protection fruit had been made with the {Mental Protection [B]} skill, so it was much stronger than before.
+
+Ashlock then opened a portal inside the Hellroot Abyss and called upon Khaos, his peak Nascent Soul Realm void Ent. The six-armed headless General silently emerged through the portal and awaited orders.
+
+"You see that golden scepter? I want you to seize it the moment Elysia goes in for an attack," Ashlock instructed. "Make sure not to be revealed for more than a second, as the opponent is a Psychic Monarch and will obliterate your mind and soul with ease due to the difference in your strength."
+
+"As your Lordship commands," Khaos said and vanished into the void.
+
+Ashlock returned his sights to the battle.
+
+Monarchs were strong, but they could still be overwhelmed, and Ashlock had far too many tools in his arsenal to lose after sufficiently analyzing the opponent. Now that he had realized that Thal'korr had sacrificed the strength of his body in favor of speed, if put in a situation where he was threatened, he would have no choice but to defend his weak body with his scepter, leaving it exposed for but a moment.
+
+He followed the flow of battle for a while longer until he saw Thal'korr command many insects from his right flank to intercept spears of desolation Qi that Ashlock was hurling in his direction.
+
+"Now!" he shouted in Elysia's mind.
+
+Without hesitation, Elysia lunged forward with the great demonic sword raised overhead. Explosions went off as insects detonated against her spectral armor. Bringing the demonic sword down, she cleaved through a wall of insects, and the blade popped them upon contact and greedily devoured their lifeforce, further empowering the strike.
+
+"Die, you insect!" Elysia screamed in Thal'korr's face as ordered, which Ashlock empowered with Abyssal Whispers. It did little, as expected, due to Thal'korr's mental defenses, but the insects he was controlling seemed temporarily stunned.
+
+Seeming startled for the first time in the fight at his loss of control, Thal'korr swung his golden scepter to intercept the demonic sword, and the moment they touched, Khaos appeared at the Monarch's side without a trace. Three of her clawed hands wrapped around the weapon's shaft, while the other three focused on tearing his skeletal arm from his body.
+
+"You dare!" Thal'korr yelled out through his helmet as Khaos failed to detach the arm but succeeded in yanking the scepter from his hand. There was a split second where Ashlock thought maybe they could push for more; perhaps they could defeat their second Monarch—only for Thal'korr to blow up in their face. Dozens of insects went supernova, forcing Khaos to retreat into the void to avoid annihilation.
+
+Elysia wasn't so lucky. Her spectral armor hadn't had time to repair, leaving her exposed. Shrugging off one or two explosions was possible, but dozens against her skin? Not a chance. Ashlock's spiritual sight was blinded by the cataclysmic explosion, sending a shockwave across the battlefield and a Qi mushroom cloud that punched through Larry's domain.
+
+What was left of Elysia fell to the Hellroot Abyss and turned to an ashen statue, Larry's domain saving her from death. Thal'korr was nowhere to be seen, the explosion having masked his escape.
+
+Khaos appeared beside Elysia's ashen form with the scepter in hand.
+
+The escape of Thal'korr was regrettable, but Ashlock and his sect members didn't yet possess the strength to kill a Monarch that wished to flee. All that mattered was that he had the scepter, which had been his objective from the start.
+
+The only problem was that Elysia, who was the best option to use it, was now a statue. Khaos held it mutely, unsure what to do. Larry was still fighting off the insects that were following their master's last order, and Cyphion... well, he seemed near dead.
+
+"Kaida isn't going to like this, but his fun time is over," Ashlock mused as he quickly switched his view back to Red Vine Peak. "I need him on the battlefield."
+
+The passionate scene of lovemaking in the library's ink lake came to a slow stop as they sensed his presence. Kaida let out a disgruntled snarl as he rose from the lake nude. He glanced Ashlock's way as ink-like clothing began to slowly manifest across his body.
+
+"Master, whatever it is, now isn't a good time," the dragon said, his tone edging the line between respect and warning.
+
+Which was concerning as Kaida had broken free from the system's control after his ascension and was technically stronger than Ashlock now.
+
+Unfortunately for Kaida, Ashlock didn't give a shit. He only cared about winning, and the millions of mortals being mauled alive by insects couldn't wait for Kaida to finish his lovemaking session.
+
+"I need you in Floridawn to deal with a developing situation there," Ashlock said, tearing open a portal in the middle of the room. "Do you obey?"
+
+Kaida glared at the portal, and Ashlock genuinely thought he might need to fire up his {Voidstorm Aegis [S]} skill to smite the dragon where he stood with void lightning.
+
+Thankfully, that wouldn't be necessary.
+
+"I obey," Kaida snarled in annoyance and strode through the ink toward the portal. "Nymeria, await my swift return," he grunted without looking over his shoulder at the half-dragon shyfully trying to hide herself. "I'll resolve whatever situation has my masters cowering in a heartbeat."

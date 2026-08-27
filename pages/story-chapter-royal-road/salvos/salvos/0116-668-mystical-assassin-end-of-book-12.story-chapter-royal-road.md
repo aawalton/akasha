@@ -1,0 +1,119 @@
+---
+id: 42b91253-fcf4-5540-8f4a-441e78ef7d77
+page-type-slug: story-chapter-royal-road
+title: "668. Mystical Assassin (End of Book 12)"
+slug: 0116-668-mystical-assassin-end-of-book-12
+partOf: salvos
+position: 116
+ownLength: 1324
+unit: words
+publishedAt: 2024-03-29
+link: "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1572047/668-mystical-assassin-end-of-book-12"
+royalRoadId: "1572047"
+---
+
+668. Mystical Assassin
+
+The [Horned Drake] looked through the trees and saw its prey standing in the clearing up ahead. It had been following the three of them for a while now, stalking them across the forest floor as they hunted down the lesser monsters in the area. But the [Horned Drake] was no lesser monster.
+
+It was certain it was more powerful than them. Certainly, they looked intimidating to an extent, considering they resembled the [Horned Drake] in shape, although they were much pudgier, smaller, and had wings. But they were lower-leveled than it was— since it was Level 67, and they were just under Level 60— so it knew it could take them on. The only reason it hadn’t already struck them was because it was an apex predator, and because of that, it knew that sometimes easy prey wasn’t as easy as it seemed.
+
+So it had observed them to ensure it knew what it was going up against. And now that the time seemed right, it was going to strike.
+
+The [Horned Drake] huffed as it took a soft step forward—
+
+“Hey.”
+
+And it paused as it heard a voice come from behind it. Blinking, the monster turned around to face a Human standing there. But it was not just any Human. It was a little girl.
+
+She had her arms crossed as she glared at the [Horned Drake].
+
+“Leave my friends alone, or else.”
+
+The [Horned Drake] stared at her for a moment, before scoffing. It had killed many Humans before— especially little ones like her. So it simply spun around and swung its tail down at her to crush her.
+
+The ground shook as its tail struck the earth. A thunderous crash echoed throughout the forest, and the three figures in the clearing perked up. They looked towards the [Horned Drake] as it turned back to face them with a savage gaze. Even if it alerted them of its presence, it knew they couldn’t outrun it.
+
+So it took a step forward as it flashed its fangs dangerously. And then a blurred figure landed right in front of the [Horned Drake], causing it to pause.
+
+“Did you not hear me?”
+
+It was the little girl. She drew a pair of daggers as she looked up at the giant monster. And it roared and snapped its jaw down onto her as she spoke simply.
+
+“I said: leave my friends alone!”
+
+The [Horned Drake] lashed out, but she leapt over its attack. She swung her daggers down at its neck as they flashed with a blue light. The giant monster recoiled, but it was too late. It collapsed to the ground, gargling in its own blood, feeling its body grow numb. As it fell, it stared at the little girl one last time, before seeing her level.
+
+[Mage - Lvl. 71]
+
+And the [Horned Drake] realized that it might not have been the apex predator it thought it was, before its vision went dark.
+
+Rachel landed lightly as she sheathed her daggers onto her belt. Twirling around, she eyed the dead [Horned Drake] curiously, before looking over at the three baby Wyverns rushing towards her from the clearing. Bellum was the fastest, running at the front, followed by Bellum, and then Oriur.
+
+“Rachel!”
+
+The last baby Wyvern called out as he stumbled over some shrubs. His brother and sister reached her first. They gushed over her as they looked at the dead monster.
+
+“What do you think of that?”
+
+Rachel laughed as the two baby Wyverns whined. Well— to call them babies was a bit odd now. Even though they had already been larger than she was when she met them, they were now about the size of a brown bear.
+
+And yet, they were still babies. At least for Wyverns. They weren’t even two years old yet. Even if it had been a few months since Rachel had met them.
+
+She smiled, watching Novis and Bellum argue with each other. They clearly thought they could have taken on the [Horned Drake]. An evidently misplaced confidence, considering their levels. But it was cute to see them bicker.
+
+“Are you alright, Rachel?”
+
+Oriur asked as he finally reached the little girl. He was the only one who looked even a little bit concerned about her wellbeing. But she was fine. She was much higher-leveled than the [Horned Drake], so she knew she could have taken it down.
+
+After all, she was a Level 71 [Mystical Assassin] now. While she wasn’t the most durable in battle, she was fast, and her attacks were incredibly deadly. It had only been two months since she started training and leveling again. And thanks to the occasional help from Centina, Willy, and the three baby Wyverns, she was leveling up faster than she ever had been before.
+
+So Rachel beamed and gave Oriur a thumbs-up.
+
+“I’m fine! I should be more worried about you!”
+
+Oriur blinked, then returned with a smile. He was the smallest of his siblings, but he was also the most intelligent. And he was the reason why they were out on this little hunting trip today.
+
+“So did you find any Centinels?”
+
+Rachel asked as she tilted her head curiously at the baby Wyvern. He shook his head in response.
+
+“No, no traces of any Centinels. Which is strange. Usually, they’d be swarming these forests to get to Mavos Academy.”
+
+“So that makes it a whole week without any Centinels, huh?”
+
+The Child Monster tilted her head back, before laughing.
+
+“Maybe we scared them all away!”
+
+“I highly doubt that.”
+
+Oriur scoffed as he strode back. He grabbed both Novis and Bellum too as he started heading back in the direction of Mavos Academy.
+
+“Centinels are particularly known for their tenacity and lack of intelligence. They wouldn’t give up this easily— not especially when they’re targeting Ms Centina.”
+
+“Huh.”
+
+Rachel nodded as she followed after Oriur. She glanced back over her shoulder as she furrowed her brows.
+
+“I wonder what happened to all the Centinels, then.”
+
+And in the distance, far from Mavos Academy, a figure emerged from beneath the earth. It was a twisted creature. One that had seen the end of the world approach from the world’s borders. One that had survived the destructive corruption that was only starting to reach this part of the Nexeus.
+
+It was the Matriarch Centinel of the Bloodied Gulf. And behind it, thousands of Centinels poured out of the ground, swarming forward.
+
+But that was not the only calamity that was beginning to unfurl. In the Netherfied Lands, the rifts in the skies continued to shift, even as the Netherworld awaited the start of Genesis. The gathered Demons there waited for something to happen, uncertain about this world they found themselves in.
+
+And Edithe Dawnrise, knowing this, stood before the Council of Cremont, arguing with them over drawing forces away from the Elven Forests to prepare for what was to come.
+
+At the same time, Helena Warshade, Orgaf, and a group of Elite Ranks encountered the corruption for the first time, before learning about the inevitable fate of the world’s future.
+
+Meanwhile, Daniel Song trained high above the world, atop the peak of Astros Mountain, under the tutelage of Yves Virgil the Watcher himself.
+
+And Salvos? Well, yes, she reached her Class advancement, but she had to save that for later. For now, she followed Haec as he led the Third Legion away from the Expanse, moving to put a halt to the Demon King’s plans to destroy Humankind as a whole.
+
+Author's Notes
+
+And that's the end of Book 12. 90% of the chapters in Book 12 will be removed for publication in 5 days' time. But I will focus on keeping the most recent chapters up for people to keep up.
+
+Salvos will be on break for public chapters for all of April. Patreon will continue updating. Thanks for reading as always!

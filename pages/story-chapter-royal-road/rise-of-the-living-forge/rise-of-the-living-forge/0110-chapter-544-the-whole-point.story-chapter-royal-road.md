@@ -1,0 +1,133 @@
+---
+id: 484edeff-a836-5d81-a880-89e4f07e147a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 544: The whole point"
+slug: 0110-chapter-544-the-whole-point
+partOf: rise-of-the-living-forge
+position: 110
+ownLength: 1537
+unit: words
+ownProgress: 1537
+publishedAt: 2026-01-15
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2945789/chapter-544-the-whole-point"
+royalRoadId: "2945789"
+markedReadAt: "2026-06-29T20:01:57.166Z"
+---
+
+Arwin set the sleek chestplate of black metal down. He referenced the blueprint hanging on the far end of the Infernal Armory’s walls once more, then nodded slightly to himself. Everything was on track.
+
+“How is it?” Vix asked nervously from his side. “Did we make it correctly? I didn’t mess anything up?”
+
+“You did perfectly fine,” Wallace said gruffly from Arwin’s other side. “Probably a fair bit better than that damned Lich. You should do this more often.”
+
+Arwin’s lips twitched in the faintest of smiles. That wasn’t true in the slightest. Koyu was objectively better than Vix at crafting in just about every manner. It wasn’t like it was a fair comparison. Vix may as well have been a child with a hammer in comparison with the Lich.
+
+But that wasn’t what she needed to hear right now. And for all the rough exterior that Wallace liked to keep erected around himself, the dwarf certainly knew when the right time to leave a complement was.
+
+“You did well,” Arwin said with a nod. “You’re learning very quickly. This piece turned out perfectly. Once we complete the greaves, the whole set will be done. Anna is going to love it.”
+
+“I hope so,” Vix said. “I still feel like you should have started me on something a little less… I don’t know. Important?”
+
+“Everything we make is important,” Wallace said with a gruff laugh. He walked over to pat Vix on the upper back — which was just about the dwarf’s equivalent of clapping her on the shoulder. “Do you have this little confidence when you fight?”
+
+“Of course not,” Vix said. “I know what I’m doing when I fight. This is a whole different realm. Even though I’m only helping a little, if I make a mistake, I’ll ruin Anna’s armor. I’ve probably already delayed it by a day or two.”
+
+“And if you slip up during a fight, you’ll die,” Arwin pointed out. “Relatively speaking, the risks here are far lower.”
+
+“Lower than they’ll be when we’re making you a heart, lass,” Wallace agreed with a nod. “Better to learn now. We can afford a few delays for Anna. But when we’re working on your new heart… there won’t be any room for confusion or slip ups. You’re only getting one chance at that.”
+
+Vix fell silent for a moment. Then her features hardened and she nodded. “Yeah. I know. Thank you for involving me like this. It isn’t something I ever really saw myself doing. But, to be honest, I’d largely given up on my chances of ever being able to fix my heart in the first place. If this gives me a chance to pull it off, then I’ll take it.”
+
+“Don’t get so serious. I mean, serious is good. But don’t get stressed. Crafting is just another kind of fight. Well, it’s more like a song. But you get the idea.” Arwin said.
+
+Vix stared at him.
+
+“No. I really don’t.”
+
+“You can’t be stiff,” Arwin said. “The more you worry about messing up or taking the wrong step, the more likely that very thing will happen. Focus on your goal and on what you want to achieve. The rest will follow.”
+
+“I somehow don’t think it’s that easy,” Vix said.
+
+“It isn’t,” Wallace said with a snort. “But he’s right. That’s the start. You aren’t doing this yourself, girl. You’ve got me ‘an Arwin here as well. I figure the Lich will be back by the time we’re making you that heart. He’ll know a thing or two as well. Your job will just be to stay focused on what it is you’re lookin’ for. Just like you were doing today. But more important.”
+
+“Yeah. Okay. I think I can do that,” Vix said. She swallowed. “But maybe not too soon?”
+
+Arwin chuckled. “Whenever you’re ready, Vix. We brought you in to start watching our work to make sure that you’d be acclimated to the process before we went about making you your heart. The only reason we’ll be rushing to do anything is if you feel we need to.”
+
+Vix inclined her head. “Thank you. For everything.”
+
+“It really isn’t much trouble,” Arwin replied. He wiped sweat from his brow with the back of a hand and sent a mental command to the Infernal Armory. The bubbling black magma filling the pool before him slowly started to drain away. “You should get back to your practice. I don’t want to eat up your whole day.”
+
+“Right,” Vix said. “Tomorrow, then?”
+
+“Tomorrow,” Arwin said.
+
+Vix inclined her head once more. Then she slipped out of the Infernal Armory. Neither Arwin nor Wallace spoke until she was gone.
+
+“What do you think her chances are?” Wallace asked.
+
+“One hundred percent,” Arwin replied without so much as an instant of hesitation.
+
+Wallace snorted. “I figure I should have seen that one coming. You’re not much one for worry, are you?”
+
+“Not anymore,” Arwin replied. “I’ve got other people who are a hell of a lot better at worrying than I am. That isn’t my role. I’m just here to hit shit with my hammer until everything turns out okay in the end.”
+
+The dwarf let out a bark of laughter. “You’re sounding like a Dwarven Saint, now. Maybe you’ve got a bit ‘o our blood running in your veins after all. But we’ve called an end to the day earlier than I thought. It’s still bright outside. Why?”
+
+“Vix needed a break,” Arwin replied. “And it’s not like she’s going to get all that much stronger by watching us craft. It prepares her for her heart, but that’s about it.”
+
+“So what do we do?” Wallace asked. “I assume we’re not going to finish Anna’s armor without her.”
+
+“Nah. I figured we could make a few toys to put up for sale in the upcoming auction,” Arwin replied with a wry smile. “Nothing too dangerous. I don’t want to arm our enemies… but I’m sure we could come up with something interesting and bang it out today.”
+
+A coil of red smoke twisted across the ground between them.
+
+“Can we make something that kills people?” the Infernal Armory asked. “In a glorious fashion?”
+
+“Has anyone ever told you your building has a problem?” Wallace asked.
+
+“Yes,” Arwin said. “So… shall we?”
+
+“Oh, yes,” Wallace said. “Absolutely.”
+
+***
+
+Lillia’s eyes snapped open.
+
+Her skin felt strange.
+
+No. It wasn’t just her skin. It was everything. The bed beneath her was rougher than she recalled it. Scents hung in the air like memories — honey and meat and charred vegetables from the kitchen. But that wasn’t all. Even though it had been hours since Arwin had been in the room with her, his scent was present as well.
+
+Her senses felt keener. Everything within the darkness surrounding Lillia was more vibrant. The shadows were no longer just a cloak. They were more like a new limb.
+
+Lillia rose to her feet slowly. Even moving didn’t feel quite right. Her body reacted so fast to the commands of her mind that it almost felt like she was acting before she’d even figured out what task she wanted to accomplish.
+
+She looked down at her hands. Then she flexed her fingers. They were the same hands that she’d always had. She ran her tongue along her lips, then raised her hands to her head. And there she paused.
+
+Two horns curled up from her forehead. They were cold, almost like ice, and far from insignificant in size. Her stomach flipped over.
+
+“Well,” Lillia muttered, letting her hands slowly lower. “That wasn’t exactly part of the plan.”
+
+She didn’t recall asking for horns. It seemed the changes to her body had somehow grown them. Perhaps the new power had needed extra space to linger in. They were far too large to hide, even if she’d wanted to.
+
+Lillia let her hands brush across her face, over her cheeks and down her nose. It still felt the same. That, at least, hadn’t changed.
+
+I guess I’ve got a slightly new look.
+
+She swallowed. Nervous butterflies still danced up a frenzy in her stomach. But there was no time for her to hide from the day any longer. There were still tasks to do. It never felt like there was enough time to do everything she wanted to.
+
+But that was the whole point of this, wasn’t it?
+
+Lillia took a careful step forward. She could already feel herself adapting to the new speed of her body. It was her body, after all. After one or two more unsteady steps, she reached the door.
+
+Then Lillia pulled it open and stepped out of the darkness of her room to start down the thin hallway leading to the kitchen. Dim light spilled out to greet her. It just barely managed to cast a shadow at her feet.
+
+And, as it did, Lillia’s eyes lowered to the ground, to the oddly detailed shadow mirroring her every step.
+
+It looked back up at her, eyes shimmering with faint purple energy.
+
+A small smile crossed Lillia’s lips.
+
+Then her eyes raised again and she stepped into the kitchen.
+
+There was work to do.

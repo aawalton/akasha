@@ -1,0 +1,157 @@
+---
+id: 9b3ae955-5053-5b3e-95e2-19156025a030
+page-type-slug: story-chapter-royal-road
+title: "Chapter 602: Blackened Roots"
+slug: 0126-chapter-602-blackened-roots
+partOf: reborn-as-a-demonic-tree
+position: 126
+ownLength: 2250
+unit: words
+publishedAt: 2026-08-10
+link: "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3796872/chapter-602-blackened-roots"
+royalRoadId: "3796872"
+---
+
+The World Tree's titanic root crashing through the ceiling made the Crowned One's enormous soul space look pathetically small in comparison. In a shower of rubble, the root crashed down onto the altar where the Mirrored One proudly sat.
+
+The Mirrored One, wearing an imitation of her face, dove to the side and landed on the ground beside Stella.
+
+"She's here," the Gilded One said calmly, looking at the destruction of the space with indifference. "This is what you wanted, isn't it, oh Mirrored One?"
+
+The Mirrored One laughed manically in response. "For too long, we have all lived in the Crowned One's suffocating shadow. Isn't it about time we split up and live out our desires rather than his?"
+
+"You are plagued with desire," the Burning One snarled. "We had peace and unity brought about by a careful balance between our egos. You just always want what you can't have."
+
+"Peace? Oh, Burned One, you only wanted to keep us together so you would have the power to watch the world burn," the Mirrored One retorted with Stella's stolen voice, though it sounded strange to her and made her skin crawl. The Mirrored One turned to look down on Stella as an obsidian mirror rippled into existence at their side. "Stella Crestfallen, you should change your name and face, because everything you once represented is now mine."
+
+Stella blinked in disbelief at the utter absurdity of that declaration.
+
+"You bastard," Stella hissed, still tasting blood in her mouth. "My brother is dead because of the delusions you fed him, and now you dare to wear my face as if it's your own?"
+
+The Mirrored One looked down at her with a condescending stare. "Your face? I have taken everything that was once yours and made it mine."
+
+Stella snarled and lunged at the Mirrored One, but was kicked back with ease. Her nose exploded, coating her face in blood as pain tore through her consciousness.
+
+"You should learn your place," the Mirrored One said, grabbing Janus's corpse and retreating through the obsidian mirror. It shattered in their wake, disintegrating into nothingness right as another World Tree root punched through a wall, showering the space in more rubble.
+
+Through her bloodied vision, Stella saw the other silhouettes that had silently borne witness to her torture depart one by one.
+
+"You accursed egos that defied the heavens and my trust are not free to leave this place!" The World Tree thundered, followed by more roots crashing into the space. They twisted like limbs, trying to skewer the fading silhouettes. However, deep marks of corruption left by fading golden chains clearly impacted her root mobility as her attempts caused tears in their surface.
+
+"Stella Crestfallen," the final of the silhouettes called out to her.
+
+She glanced their way.
+
+They were lazily lounging on the ground as if they had been awoken from a nap by the chaos.
+
+"What?" she snapped, cradling her crushed nose.
+
+"I allowed Janus to escape with you and the empire to fall around me. I watched you be tortured and didn't raise a finger to stop it. Now our unity has fractured, and only chaos looms on the horizon..."
+
+"So? Stop with the cryptic words," Stella said, her patience drawing thin. "What is your point, sin of Sloth?"
+
+She had long figured out that each of the silhouettes represented a bad part of human nature. The Crowned One was obviously pride, the Mirrored One envy, the Burning One was wrath, the Gilded One was greed, and the Still One was sloth.
+
+"My point?" the Still One paused for a moment. "A word of warning, I suppose. The Mirrored One takes what isn't theirs, the Burning One scorched the heavens and made us pay the price, the Crowned One's desire to rule was his downfall, but my inaction makes me just as guilty as them. You should take action when you have the capabilities to do so. Otherwise, you will watch everything around you crumble to dust—"
+
+A root struck where the Still One lay, obliterating him. Whether that killed him or he escaped, it didn't matter. With all the silhouettes gone, the soul space began to crumble around her as reality came pouring in like a flood. The presence of heaven's Qi, the World Tree's spiritual presence, and the aether all slammed into her at once.
+
+She took a deep breath of air.
+
+In that moment, Stella realized exactly why she hadn't been able to access her Qi or the aether while trapped in this place. It wasn't a soul space constructed out of Qi like Ashlock's Inner World. It had been crafted from the wills of the silhouettes, and specifically the Crowned One's heaven-defying pride. That's why reality and all the types of Qi that it was made from had been rejected from this place, and she had been unable to fight back in any capacity. In that soul space, the Crowned One had been more than a god. He was everything.
+
+But with his soul sent down the soul link to Ao Lingxuan, he was no longer present to lord over this place, causing its collapse.
+
+As more of the soul space crumbled away, the reason why Maple hadn't come to save her—despite the void being outside reality's jurisdiction—also became clear. It wasn't because the Crowned One's will was superior to the void. It was because this soul space wasn't out in the open or suspended in the void.
+
+It was inside the World Tree's inner world.
+
+As the ceiling finally crumbled away, Stella looked up and saw, for the first time in what felt like forever, something besides grey stone veined with pulsing gold.
+
+Above her, a vast canopy of floating, shimmering leaves, translucent as stained glass, filled the sky. They spread outward in every direction until distance turned them ghostly. Within each leaf was a world, reminding her of the Eternal Realm. Stella turned in place and marveled at them. She saw a world containing a forest of purple flora, another that was nothing but an ocean of churning darkness flecked with pale, blinking eyes. Another was dominated by a chain of ice volcanoes spitting blue flame into a colorless sky, and then her gaze settled on a world where the desert's sand fell upward into clouds. There were too many to count, each one a beautiful window to another place.
+
+And yet, even while enjoying their beauty, she could see the remnants of the Crowned One's golden chains that had made up the restraining formation. While they were faltering, the corruption that the brightness of those chains may have once concealed was now plain to see.
+
+Some leaves had darkened to a sickly bronze, the realms they held rendered in muted color. They were the ones who had yet to utterly succumb to the corruption. Her gaze flickered between a few that were on the verge of breaking, with cracks and jagged edges that leaked corruption onto those around them.
+
+Other leaves were missing entirely—gaps in the canopy where the bare branches showed through. Stella assumed those patches had once held healthy worlds that had died out.
+
+Her chest tightened in rage.
+
+This is what they did to her, she thought, her hands curling into fists. If I had been stronger, I could have come earlier to stop this.
+
+The soul space that had imprisoned her finally crumbled to nothingness around her, and Stella found herself on a bridge of blackened roots. Life was slowly returning to them, but it was clear the corruption had run deep from this spot.
+
+"My child," the World Tree's tender voice echoed through the space. "It's alright, I'm finally free. Please... look at me."
+
+Stella tore her angry gaze away from the corrupted mark the escaped egos had left on the World Tree and looked up.
+
+There, at the end of the bridge of blackened roots, on a throne of branches and roots that had grown so deep into the foundation of the realm they had become indistinguishable from it, sat her mother.
+
+For the first time, Stella saw her mother.
+
+She was... beautiful. Tall but not overwhelmingly so, robed in soft light, with antlers branching from her brow the way Zephyrine's did. Her long hair was the color of poured moonlight, and her eyes were the same pink that Stella saw when the Mirrored One wore her face.
+
+The World Tree was a woman. A mother. Someone Stella could run up to and hug.
+
+"Mom!" Stella said with a bloodied smile and aimlessly walked forward with a sense of longing.
+
+"My child," the woman said, opening her arms. "Come to me."
+
+Stella faltered as her mind caught up with what she was actually looking at, and the figure broke apart.
+
+What sat upon the throne was not a woman. It was not anything. It was a vague, impossible collection of raw power that her brain could only see as a woman because it had no other way to comprehend what it was looking at. The World Tree's avatar's true scale only registered when Stella followed a stray branch of one antler upward until she found herself looking straight up. She was barely the size of her mother's finger and felt like a fleck of dust standing in a goddess's palm.
+
+And the goddess was looking at her.
+
+"Do you fear me, my daughter?" she asked.
+
+Stella blinked, and the vast avatar looming over her returned to its original appearance. That of a mother she had longed for and could comprehend.
+
+"Of course I don't," she said, shaking her head. While this wasn't quite the reunion she had been picturing, she was almost in disbelief that this was happening. The World Tree, enslaved by the Celestial Empire for heaven knows how long, was finally free.
+
+Unable to hold herself back anymore, Stella stepped through the aether and embraced her mother in a tight hug. Maybe it was her imagination, but the mass of raw energy felt warm. For possibly too long, she enjoyed the World Tree's embrace, and when they finally separated, Stella had tears streaming down her bloody and broken face.
+
+"Mother, I..." she gulped, wiping away her tears. "I'm sorry I didn't come sooner, and about Janus, I—"
+
+"Stella," her mother said soothingly, "I should be the one who is sorry. You must have been through a lot to believe you have to bear the weight of the realms on your shoulders." She reached forward and wiped her tears. "You have done well until now, my daughter."
+
+Ashlock had told her many times in the past something of a similar nature, but it had never hit her as hard as now. An invisible weight lifted with her mother's permission.
+
+She smiled.
+
+"Thank you, Mother," Stella said and hugged her again. This time was shorter, but felt just as good as the first. "Are you going to be okay now?" she asked. "The Crowned One's corruption seems to be quite deep."
+
+"If there's something trees are good at, it's weathering a little storm," her mother chuckled, and it echoed through her immense inner world, and the many realms trembled. She looked toward a distant horizon that Stella could not see. "Instead of worrying about me, you should go to your father."
+
+"Father?" Stella repeated. The word sounded oddly foreign coming from her mother's mouth.
+
+She looked down at her. "Yes, Ashlock has been tearing up this layer of creation in search of you."
+
+Stella felt an opening at the end of the corrupted bridge appear behind her. She glanced over her shoulder and saw a clear blue sky on the horizon dotted with clouds through the opening.
+
+The outside.
+
+She stared at it for a long moment, then back at her mother. "Will you really be fine if I go?" she muttered, knowing her worries were mostly unfounded. "I just don't want to turn my back on you after all the effort I spent freeing you."
+
+Her mother's smile was filled with amusement. "For a child to worry about their mother is natural. But you have nothing to fear, my daughter. The Crowned One is captured, and the other egos have fled. While individually strong, they can only enslave me when working in perfect unison. That era has been brought to an end."
+
+She gestured to the hole in the wall. "You should go. Your family and friends await your return."
+
+Stella slowly nodded, accepting that they would have to part so soon after meeting. She could only begin to imagine the lengths Ashlock had gone to in search of her.
+
+"I will be back," Stella insisted, slowly walking backward. "Don't go anywhere."
+
+The World Tree laughed. "Have you ever heard of a spirit tree moving before?"
+
+Stella paused and realized how silly her statement had been. "True."
+
+But then again, she wouldn't be that surprised if Ashlock had found a way to uproot himself and march across the wilderness in search of her. He could be unreasonably protective like that.
+
+I just hope some of the ninth layer of creation has survived his wrath, Stella thought as she walked across the bridge of corrupted roots, casting glances over her shoulder every now and then at her mother.
+
+The World Tree just waved at her as she left.
+
+"I'm going now, Mother," Stella said, standing on the boundary of the exit.
+
+"Take care," she said, "and beat the shit out of the Crowned One for me."

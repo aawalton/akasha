@@ -1,0 +1,165 @@
+---
+id: 131386eb-1d82-5f61-b72d-f8d5ccdbad2f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 510: Making monsters"
+slug: 0076-chapter-510-making-monsters
+partOf: rise-of-the-living-forge
+position: 76
+ownLength: 2078
+unit: words
+ownProgress: 2078
+publishedAt: 2025-10-30
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2717383/chapter-510-making-monsters"
+royalRoadId: "2717383"
+markedReadAt: "2026-06-29T20:00:51.850Z"
+---
+
+Thane could swear he could feel the weight of every single glare in the line boring into his back as he walked into the Devil’s Den. Even though Madiv had ushered him through, something about cutting past everyone who was waiting to get into the tavern felt like inviting death onto his doorstep.
+
+Monica gave him a thumbs up as he entered. Somehow, that actually helped. Even though Thane was more than aware nobody was going to be stupid enough to try to attack him just for skipping past a line, knowing that the towering bouncer had his back was comforting.
+
+“Really?” Vireth asked irritably. “That’s what you feel better about? An orc? Do you not realize what you carry upon your hip? I am a thousand times more powerful than—”
+
+Thane choked on his own salaiva. He nearly tripped over his own feet and fell onto a table. He managed to catch himself at the last second, hopping to the side and muttering half a dozen apologies as he scurried out of view.
+
+Wait. Monica is a real orc? That’s not just an outfit?
+
+“You are starting to annoy me,” Vireth huffed. “Why are you more impressed with her than me? Do you realize what I am? You bear Vireth of the Crimson Night. My wielder cannot be more impressed by a green-skinned rodent with poor dental than me.”
+
+Hey. Don’t call her that. She’s nice. But I didn’t realize she was literally an orc. Holy shit. That’s awesome. I wonder if she’d let me ask her some questions. Do you think that would be rude?
+
+Vireth let out an exasperated sigh. “You are insufferable. If this were not the reason I chose you, I would make you suffer for that disrespect.”
+
+I can ask you questions whenever I want to. How often do you find a real Orc? And one just working a normal job? Don’t you realize how much this means? Common theory indicates that monsters are too bloodthirsty and hate humans far too much to let them ever work a normal job like this.
+
+But Monica isn’t even just working the job. She’s nice. She says hi every time I come to the Devil’s Den. Vireth wouldn’t be wrong about her being a monster, though. That means the leading theory is wrong. This changes everything!
+
+“You are making me jealous,” Vireth said flatly. “You weren’t even half as interested in my abilities as you are in this… orc.”
+
+I didn’t mean to be rude, sorry. You were just exactly what I was expecting.
+
+“I am now even more offended.” Vireth let out a huff. “I — forget it. Just focus on what we’re here to do. My knowledge of your guild is only surface level, but it will suffice.”
+
+For what, exactly? I’m still not exactly sure what it is you want me to do.
+
+Thane stepped out of the way of a shadowy imp. He pressed his back to the wall in an attempt to stay out of the way and away from prying eyes. Even though nobody could tell he was speaking to Vireth, having a conversation like this felt uncomfortable.
+
+“You will be demonstrating to yourself how your talents are useful,” Vireth said. “Find a member of the Menagerie.”
+
+Which one?
+
+“It doesn’t matter. You have documents on all of them. Preferably someone that you have a lot of information on. Don’t choose a mysterious one. That will make things more difficult. But for someone you have researched a large amount about… you can use that knowledge to convince them to do your bidding without them even realizing your goals.”
+
+Thane grimaced.
+
+Hold on. I don’t want to do that. I’m not some master manipulator, and I’m definitely not going to blackmail anyone from the Menagerie. Why would I ever do that?
+
+Vireth let out a groan. “Godspit. You’re going to do your best to drive me insane, I see. If your potential wasn’t so high I would find a different way to deal with things. But convincing someone to do something does not necessarily have to come from a nefarious goal. It can be beneficial.”
+
+Thane’s eyes narrowed.
+
+That sounds a lot like a slippery slope. How could tricking someone into doing something be good?
+
+“Not tricking,” Vireth corrected. “Convincing. Your research is full of information. Of statistics. And the best thing to do with such things is to twist them to your own purpose.”
+
+I’m not so sure I agree with—
+
+“I will demonstrate,” Virety said, cutting Thane off, “In a way that even your insufferably good self will appreciate. Let us take Lillia. I have observed you writing notes about her. She is involved in a romantic relationship with Arwin. Is she not?”
+
+Yes? But if you think I’m going to mess with them at all—
+
+“They are both busy,” Vireth said. “Both have important tasks. You observed that they rarely leave their respective rooms. Is that correct?”
+
+…yes. What is this about?
+
+“When was the last time they spent time together? Your notes did not imply they take many breaks. Two people that are very focused on accomplishing difficult goals are going to find it difficult to set time aside to do nothing at all. But relaxation is equally as important for victory as hard work. The mind needs time to recover. Spending time together will be good for them both, but they are likely so focused that they do not even let themselves take time for that break. That is what you will solve.”
+
+Thane’s brow furrowed. Then he blinked.
+
+Wait. This isn’t manipulation. You’re just talking about giving normal advice.
+
+“Do not discount my words as mere trash,” Vireth growled. “What I speak of is manipulation of the highest extent. Convincing others to do your bidding by using only their own desires. Through this, we can control all that we meet so long as you have sufficient information. They will think they act on their own… entirely unaware that we pull the strings that bind them.”
+
+Vireth. Like, this is literally giving Lillia relationship advice and saying she should go take a break and meet with Arwin so they can do something together. That’s just something people should do. Calling it manipulation feels like a bit of a—
+
+“You will push Lillia to seek out Arwin. This will allow her to take a break from her task and give her mind time to rest. In doing so, you will aid the guild and gain experience in the art of controlling others. The greatest weapon in war is information. Rodrick would agree with you on this. So utilize it. Bend others to your will. And soon… we will control all that I — we — desire.”
+
+Thane pinched the bridge of his nose. It didn’t matter how dramatically Vireth said it. This was still just giving unwanted relationship advice. But he was pretty sure Lillia and Arwin really hadn’t had much time together recently. They’d both been so busy that it would have been hard for them to find the time.
+
+I suppose it can’t hurt. Maybe it’ll get Vireth to stop bugging me.
+
+“I heard that,” Vireth snapped.
+
+Thane took his hand off the hilt of the sword. He paused for a moment, then cautiously made his way up to the door leading into the kitchen. Thane raised his hand to knock — but the door swung open before he could.
+
+Goosebumps prickled against his neck. Lillia’s awareness was terrifying. But he couldn’t turn aside now. Lillia was waiting. He stepped inside, trying not to gawk too much at the pots and food flying in every which direction.
+
+The door closed behind him.  Lillia stood in the center of the metal storm, watching him with her head cocked slightly to the side.
+
+“Thane,” Lillia said. Her eyes flicked to the sword at his side. “What happened to you? Are you aware—”
+
+“I got a devil in my weapon,” Thane said. “It’s a bit of a story. Sorry. I didn’t mean to mess it up. I think she’s mostly okay.”
+
+Lillia stared at him for a second. “I… see. Are you certain?”
+
+“No,” Thane said. “But it’s okay. Esmerelda had to let it happen, and I came to a good deal with the devil.”
+
+“What was it?” Lillia asked. “Are you certain it’s safe?”
+
+“It would take a few hours to go over it,” Thane said, scratching the back of his head. “I still need to transcribe it. I can get you the book when it’s—”
+
+“Book?” Lillia asked.
+
+“Well, yeah. It obviously won’t fit one or two pages.”
+
+Lillia cleared her throat. “You know, I imagine you’ve probably got it covered. So the devil isn’t the reason you’re here?”
+
+“Well, she kind of is,” Thane said. “She wants me to practice manipulating people by convincing you to go spend time with Arwin. You probably haven’t had a chance to recently since you’ve been so busy, and it would be a good change of pace. I’m sure he’d like the chance to hang out with you while he’s working and the distraction would end up being beneficial to both of your mental states. I just know it can be easy to get lost in work, but breaks are important too, you know?”
+
+Lillia blinked. Then her head tilted to the side. “I’m not so sure manipulation works if you tell someone what you’re doing, Thane.”
+
+“Oh.” Thane scratched the back of his neck. “But it felt like good advice. Not that you needed advice. But in case you wanted it. You know. I occasionally get lost when I’m doing research and forget to eat. Then my stomach hurts for hours. Sometimes a reminder can be helpful.”
+
+Lillia studied Thane for a few moments. Then a small grin pulled at the corners of her lips. “Well, Arwin is out right now, but it actually has been some time since we’ve taken a break. Maybe your devil has a point. That isn’t the kind of advice I was expecting from such a thing. She seems kind.”
+
+The sword rattled in displeasure at Thane’s side.
+
+Vireth definitely did not take well to being called kind.
+
+“She is,” Thane said. “Sorry for the unwanted advice. I know it isn’t my place.”
+
+“It’s fine.” Lillia laughed and shook her head. “You don’t have to walk on thin ice around me, Thane. That isn’t how we do things around here. And Arwin and I do have a tendency to become overly focused. Maybe a new perspective will do us all well. Thank you for thinking of us.”
+
+“Sure thing,” Thane said, his cheeks heating. “I — uh, I’ll be on my way, then.”
+
+Lillia just smiled.
+
+Thane hurriedly darted back out of the kitchen, Vireth’s hilt as door closed gently behind him.
+
+How did I do? I think that went well.
+
+“You told her what we were doing,” Vireth said. “You do not tell people you are manipulating that you are manipulating them.”
+
+Well, yeah. I’m not going to try and trick Lillia. She’s my friend. I wasn’t manipulating her. You just had good advice, so I was passing it along.
+
+An exasperated sigh rolled through his mind.
+
+“You are more hopeless than I imagined. The domination of weaker minds will have to wait a little longer,” Vireth said. She paused for a moment. “But the desired result was still achieved. Perhaps your method has some credence to it. We will have to do extensive testing. There are others whose potential can be maximized by your research.”
+
+Thane’s eyes lit up.
+
+You mean you want to go around using what I’ve figured about people to help them? That’s a great idea! I never thought about actually using my research like that, but if I could help the Menagerie out, that would be fantastic! Do you think Olive would want to see the write-up I made about her arm? Would I be overstepping my place sharing that? I should ask.
+
+“Not helping!” Vireth snapped. “Controlling! We will bend them to our desires by providing aid without asking for anything in return! They will become our pawns!”
+
+Vireth?
+
+“What?”
+
+That’s called doing things for your friends.
+
+“Disgusting,” Vireth snarled. “I would never support such a foolish notion.”
+
+Right. I’m going to go… uh, see if Olive wants to be manipulated, then.
+
+“Very good,” Vireth said. “See? I’ll make a monster out of you yet.”

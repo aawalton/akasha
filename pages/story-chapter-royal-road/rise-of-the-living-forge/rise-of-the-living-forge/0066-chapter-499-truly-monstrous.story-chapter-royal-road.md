@@ -1,0 +1,89 @@
+---
+id: 6495584d-7e75-50a6-8f48-8192484cbbb4
+page-type-slug: story-chapter-royal-road
+title: "Chapter 499: Truly monstrous "
+slug: 0066-chapter-499-truly-monstrous
+partOf: rise-of-the-living-forge
+position: 66
+ownLength: 1588
+unit: words
+ownProgress: 1588
+publishedAt: 2025-10-13
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2673411/chapter-499-truly-monstrous"
+royalRoadId: "2673411"
+markedReadAt: "2026-06-29T20:00:32.896Z"
+---
+
+Eleven arrived at the Devil’s den just a few short minutes after Ida left. To be fair, there was a very good chance she’d been there for quite some time and had simply been waiting for the right moment to reveal herself.
+
+The long-haired woman positioned herself in the corner of the dining room like some specter of seaweed that stared out from the shadows hungrily. Arwin nearly walked straight into her on his way back to the Infernal Armory, only catching himself when Lillia cleared her throat a second before disaster.
+
+“Shit,” Arwin exclaimed, taking a half step back. “Can you not do that? Just… walk in. Like a normal person.”
+
+Eleven yawned. “That would have been a lot more effort than just standing here and waiting. No time for pleasantries right now. I have a nap for me, and you already know why I’m here. I’ve come for a soul. Have you chosen?”
+
+“She’s what, now?” Rodrick asked as he joined the three of them, his eyes narrowed. “That doesn’t feel like it was ever part of the deal.”
+
+“I think she woke up on the dramatic side of the bed,” Arwin said. “Eleven is here to take you to Setting Sun’s training quarters.”
+
+“Every side of the bed is dramatic when you’re forced to awaken against your will,” Eleven said with an exhausted sigh. “I don’t want to be here. I want to be dead. Dead people get to sleep as much as they want.”
+
+“I don’t think they sleep at all, actually,” Lillia said. “They’re dead.”
+
+Eleven frowned. “Oh. That’s a good point. Maybe I don’t want to be dead. I just want to sleep. Is that too much to ask?”
+
+“Probably,” Rodrick said. “My soul is already bought and paid for by another, but if you’re about what Arwin and Lillia discussed with me earlier… then I am ready. All my preparations have already been handled.”
+
+“Then let’s get on with it,” Eleven said through another yawn. It really did look like she’d literally just woken up. “It may be quite some time before you’re back. Even if you’re a prodigy, expect this to take weeks. You sure there’s nothing you’ve forgotten? I’m not taking you back if there is.”
+
+Rodrick shook his head. “No. I am prepared. Everything is arranged. Anna and I don’t like doing long farewells. Makes things feel too final. I’ll be back soon enough. Arwin, Lillia — Art is coming back. I’ve gotten in contact with him. He’s already been updated on everything and will fill in for me. It’ll be good practice for him.”
+
+“Right,” Arwin said with a nod. “Just take care. Don’t rush. We want you back fast, but we’d prefer you back alive. A few weeks is a lot easier to get through without you than forever… and there isn’t anyone who can replace any part of you.”
+
+Rodrick’s lips twitched in a smile. “Don’t worry. I don’t make a habit of getting myself killed. I’ll be back before you know it.”
+
+Eleven pulled a portal open at her feet with her heel. She didn’t even say another word. The constantly weary woman just looked in Rodrick’s direction and nodded to it.
+
+Rodrick stepped into the portal. He vanished from sight in an instant, the shadows of Lillia’s tavern completely swallowing any chances that someone might have seen what was happening. At most, they just would have seen a flicker of light and a form vanishing from sight.
+
+Eleven dropped in right after Rodrick. The portal closed behind the two of them, and then all that remained was the clink of dishes and the sounds of avid conversation and people eating.
+
+“That was… faster than I expected,” Lillia said. “It really feels like there should be more ceremony around these things, doesn’t it?”
+
+Arwin gave her a half-shrug in response. “I get the feeling that not even One himself could drag Eleven out of bed if she knew she had to be fancy about things. It’s a miracle she even made it here within a week.”
+
+“True,” Lillia said with a snort. “Well — Rodrick will be fine. We’ve got preparations of our own to get to, and I want to supervise the kitchen. Reya and Olive have been pretty busy recently. Do you know if we’ve had any luck locating Vanessa? I think we’re really going to need some help soon. Some more eggs as well, if you can. A lot of them.”
+
+Arwin blinked. “I don’t know. Probably should have asked Rodrick before he headed out if he’s located Vanessa. We’ll probably have to wait for Art now. She’s not here, that’s for sure. If she was, we’d know. What’s the rush?”
+
+“The delivery orders are a whole lot more popular than I was expecting. A whole lot more popular.” Lillia scratched the side of her neck. “I wonder why.”
+
+“Maybe people are getting really hungry in the dungeons?” Arwin guessed. “I know I do. Fighting builds up an appetite like nothing else. Getting a good meal down there is probably a great change of pace.”
+
+“Yeah,” Lillia allowed with a frown. “But it’s not like any of the dungeons in the area around Milten are that deep. Nobody is going into any of them for weeks on end. They’re a day long at most. The volume of requests we’ve been getting for deliveries is way higher than I was expecting. That’s even with the high price we set.”
+
+“Maybe it’s the novelty?” Arwin chewed on the insides of his cheeks in thought. “People could just be more excited about this than normal since nobody else has ever done delivery… right? I’ve never heard of such a thing beyond catering for large parties.”
+
+“Could be it. Yeah. I suppose it must be. Either way — I need to get back to the work. The kitchen won’t run itself,” Lillia said. Then she grinned and cleared her throat. “Well… it will. But not optimally. Better to have someone at the helm.”
+
+“I’ll get some of those eggs made for you,” Arwin promised. “Anything else you think you might need in preparation for the Vault? If not, I’m probably going to work on some upgrades for the rest of the guild. I honestly don’t even know where to start, but it’s been a while since I’ve made some good equipment for you or the others.”
+
+Lillia shook her head. “Nothing on my end. I’m in a good spot. Just make whatever you think is best. And, aside from the eggs, it’s probably best to focus on that right now anyway. This whole business with the auction house has a lot of potential… but it’s going to get the attention of some powerful people. Especially if we get the Dwarven Council involved. Might need to make sure we’re all prepared for a fight.”
+
+“Yeah. I’ll definitely be making some more Soul Guardians,” Arwin said. “One for the Devil’s Den. One for the auction house — at a minimum. We’ll see how much I can get accomplished in the time we’ve got. I think I have a few ideas. There’s one thought I have in particular that should be particularly fruitful. Something tells me the Infernal Armory will be quite the fan of it. But I’ll have to do some preparation to get it ready. It won’t be simple.”
+
+“Oh?” Lillia arched an eyebrow. “Being intentionally sneaky about it? You could just tell me what it is you’re thinking about.”
+
+“I could,” Arwin allowed with a grin. “But that would take some of the fun out of it, don’t you think? It would be a lot more fun to surprise you.”
+
+Lillia let out a huff, a small grin flickering over her lips before she shook her head and turned on her heel to stride back toward the kitchen. She vanished through the door, leaving Arwin standing alone in the shadows of the busy common room.
+
+The rest of the Menagerie were all busy. Reya and Olive were off running deliveries. Monica and Madiv were keeping an eye on things on the street, while Kien and Thane were off somewhere in the basement, likely training. Rodrick had gone off with Setting Sun. Anna was, as far as he knew, out doing healing for people on the street again. Art and Vix were probably on their way back to the Menagerie to take over for Rodrick. Esmerelda was… well, she was Esmerelda. She was doing something. It was generally best not to look closely when things came to her.
+
+And Arwin had his own task ahead of him. A small grin pulled at the corners of his lips as he strode out of the Devil’s Den and made his way toward the Infernal Armory. He got the feeling his smithy was going to like this.
+
+After all, he’d already made one building a pilotable suit of armor. Prototype or not, Arwin didn’t see why he couldn’t do it a second time.
+
+I can’t think of any defense better than a Soul Guardian that the Devil’s Den itself can control. All I have to do is figure out how I can make something that fits this place.
+
+He only knew one thing for certain. Whatever he made, if it was going to suit the Devil’s Den properly, if it was going to be one of their last lines of defense as even more eyes within the kingdom turned to Milten, it was going to have to be monstrous.

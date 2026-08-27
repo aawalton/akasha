@@ -1,0 +1,145 @@
+---
+id: e8498127-9516-5beb-81ce-4bb2a7447cf1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 536: Falling Star"
+slug: 0059-chapter-536-falling-star
+partOf: reborn-as-a-demonic-tree
+position: 59
+ownLength: 2969
+unit: words
+ownProgress: 2969
+publishedAt: 2026-02-18
+link: "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3068868/chapter-536-falling-star"
+royalRoadId: "3068868"
+markedReadAt: "2026-06-29T19:03:33.641Z"
+---
+
+Astralis had learned a shocking truth—that the beast tide was heading for the Celestial Empire. So, upon recovering from Ig'Zal's mind control by bathing under the calming moons in Ashlock's Inner World, he fled the lands of the Ashfallen Sect and returned to the depleting Spiritual Spring.
+
+No matter how prideful he was, he knew that marching with the beasts toward the Celestial Empire was nothing but a death sentence. Most humans were weak, but the guardians of humanity that resided in that vast Empire were worthy of fear. Not only were they Monarchs, a step above him, but they also worked together, unlike the Primal Overlords of the wilderness, who only cared about protecting and lording over their own territory.
+
+If not for Zephyrine being a uniting force to keep them in check, they would all kill one another until only one remained.
+
+So, while hiding in the Spiritual Spring and quietly cultivating until he reached the Monarch Realm for himself and could finally stand his own against the other powerhouses of this layer of creation, he sensed something. His massive head rose from the mountain peak that his titanic body was coiled around, and he looked westward.
+
+"The aura of a high dragon, and this strong?" He rose further and sniffed the air. "It can't be..." He hastily looked up at the sky. "Seven dragon divination," he commanded as cosmic Qi gathered along his body before shooting up into the sky. A constellation overhead answered his call, providing him with an answer.
+
+"It's not a dragon of divine blood," Astralis narrowed his eyes. "But one with such a potent aura. Perhaps a fallen dragon from the higher realms?" He licked his lips. Dragons, like all monsters, grew stronger from devouring others, and nothing tasted as good as dragon meat. He spread his wings and, with a powerful flap that demolished the mountain peak, rocketed into the sky and headed westward.
+
+***
+
+A day of traveling later, Astralis knew he was close. After flying over endless greenery for hours, he suddenly encountered a strange blizzard that seemed like an impassable wall. Unperturbed, Astralis flew into it and quickly discovered that it was no ordinary blizzard. It was so cold that he had to use Qi to keep his body warm.
+
+"Is this snowstorm an attempt to ward me off?" he wondered, flapping his wings to get closer. While the blizzard was quite intense, he estimated it had been caused by a being around the peak of the Nascent Soul Realm, like him. Though even he could tell there was something off about the snow Qi. It felt almost too pure.
+
+That filled him with excitement.
+
+He wasn't usually rash and preferred to take his time. But time was not on his side. It would take him at least a few years to reach the Monarch Realm through regular cultivation. However, if Zephyrine, or heavens forbid, Ashlock, demanded he participate in the death march on the Celestial Empire, he didn't currently possess the strength to say no. He had seen what Ashlock's Inner World looked like and how swiftly he defeated Ig'Zal. To even have the possibility of running away, he needed to be in the Monarch Realm.
+
+Such thoughts for Astralis, the mighty Celestial Star Dragon, were deeply shameful. But he hadn't survived this long by acting like a fool. Ig'Zal had overestimated himself and was easily crushed like the bug he was. Astralis swore he would not meet the same fate.
+
+Cultivating slowly was no longer an option. Astralis had to go on the offensive, and this stray dragon seemed like the perfect target. This unknown dragon was far from the Ashfallen Sect to the west, not a Primal Overlord, so Zephyrine shouldn't have a problem, and they seemed to possess incredibly pure ice Qi.
+
+Astralis was aware that the fight was likely to be to the death, with no guarantee he would win. But as far as he was concerned, only death awaited him in the near future should he not reach the Monarch Realm.
+
+These dark thoughts clouded his mind as he ventured deeper into the blizzard. After another hour, he saw something through the snow.
+
+"Is this it?" he said, powering up his Nascent Soul and Star Core and shielding his scales with cosmic Qi. At a moment's notice, he was ready to call down star beams to obliterate the entire area.
+
+However, as he drew closer, his expression changed to one of confusion. Expecting to find an ancient dragon curled high on a mountain and cultivating, he was rather surprised to discover nothing but a dragon's skull on the edge of an ice crater.
+
+"It's already dead?" he said in disbelief. Gliding past the skull, he confirmed the rest of the dragon's skeleton in the frozen crater. However, from the skeleton's sheer size and shape, he could tell it belonged to an ancient continental dragon. They were called that because they usually lorded over entire continents and could fit cities on their backs, though they would never consent to such a thing.
+
+Astralis was big, but he could only curl around a mountain peak. This dragon could be mistaken at a distance for a mountain range when slumbering.
+
+"This is bad," Astralis said, looking left and right. He had only detected this dragon's presence a day ago. If there was something out there that could not only kill a peak Nascent Soul Realm dragon but also strip it down to this state in a single day, he should flee this place.
+
+Unless they got what they needed and already left.
+
+Bones, while not totally useless as they still contained some Qi and dao insights, were far less desirable compared to a dragon's Qi-rich flesh, blood, organs, and beast core.
+
+Astralis looped back around and landed on the dead dragon's skull. It cracked slightly under his weight as he looked down the length of the dragon's spine. He couldn't see that far, only a hundred meters or so, as the dense blizzard was messing with his spiritual senses, but all he could feel was the presence of ice Qi.
+
+He peered down through a large hole in the back of the dragon's skull. Something quite large had punched through, and from the residual Qi coating the inside of the skull, he could tell this was where the dragon's beast core had been located.
+
+"The beast core is gone," Astralis hissed through clenched teeth. If he had devoured such a dragon's beast core, he would easily be able to start his ascension to the Monarch Realm today. Yet all that remained was a corpse, filled with ice Qi that was going to be a pain to extract. He reached down, tore off a jagged piece of bone around the hole, and inspected it. It was perfectly white, like holding a shard of pearl. He licked it, and his eyes widened.
+
+"Primordial ice Qi?" He tore off another piece of bone and repeated the lick test, only to reach the same conclusion. "It really is Primordial Qi. I thought such a thing was impossible." He looked up at the sky. "This dragon really must have come from above, but I haven't heard of the Era of Ascension starting. If this dragon came down during the last one, I would have heard of them."
+
+Something was off.
+
+"Was this dragon perhaps already dead? Maybe reanimated? If so, then who put the skeleton here?" Astralis froze and abruptly turned his head as he heard something behind him. His gaze bored into the frozen ground, looking for the faintest movement. Slowly, he rotated his body, his claws cracking the ice-coated skull as he shifted his massive weight.
+
+He unfurled his wings, ready to take flight at a moment's notice. For a tense few seconds, he studied the spot. "I know you're there," he hissed while his heart pounded. He twitched at the faintest movements. Another five minutes went by, and he remained in place. Anyone else might start doubting they really heard something, but not Astralis. He didn't make mistakes. He knew something had to be there.
+
+Just as he leaned in ever so slightly closer, the ice erupted as a mass of jagged ice lunged at him. He reacted instantly by leaping into the air with one massive flap of his wings, sending out a sonic boom that smashed into the monster. Not wasting a second, he took control of the fight.
+
+"Nebula Mirage," Astralis commanded the heavens. His cosmic Qi took control of the surrounding blizzard, turning it into a storm of cosmic dust that resembled a nebula. It quickly cloaked his presence, and with a wave of his claw, he populated the nebula with countless star-dragons made of sparkling lights. With his defensive preparations complete, he looked down at what had lunged at him.
+
+The best way to describe it was a mutated ice centipede, and from its aura, he could tell it was at the peak of the Nascent Soul Realm like him. However, it didn't seem to have a head like most monsters, or even a mouth. From the fractured ground, it continued to rise like a hungering worm covered in spikes of jagged ice that seemed to serve as its limbs.
+
+"Are you the one who defeated and devoured this dragon?" Astralis asked, his voice booming through the hastily conjured nebula. The creature didn't respond with words and simply looked directly in his direction despite the high-level illusion technique he had used. "Not going to answer me? Very well, let me beat the answer out of you."
+
+The monster lunged upward at him, its body seemingly endless as it climbed into the sky. Choosing caution over recklessness, Astralis met its charge with one of his most powerful direct attacks.
+
+"Stellar Collapse," Astralis decreed, spreading his wings wide. Along their polished black surface, his cosmic Qi carved out a constellation. Far above in the cosmos, the constellation in question answered his call. A distant light pulsed. He continued beating his colossal wings, gaining height as the encroaching monster didn't slow down. It was heading right for him at an alarming speed. Astralis grew concerned. While the firepower of his techniques was incredible and inspired awe in those who witnessed them, it came at the price of casting speed.
+
+He kept rising until eventually he broke the cloud level and rose above the blizzard and his own nebula. Gazing down at the storm surrounding a swirling nebula, his eyes widened as the monster broke the cloud layer and hungrily continued after him.
+
+"Just what are you?!" Astralis roared.
+
+"I'm Bob," the creature replied, its voice sounding juvenile. "One of the three Generals."
+
+Astralis was somewhat surprised this creature could speak, especially considering the lack of a head. "Bob? Three Generals? I've never heard of those," Astralis admitted. "Why are you attacking me, impudent creature?"
+
+"Father commanded me to guard the dragon's bones, and you took two pieces! Even I'm not allowed to savor them, yet you dared to!" Bob replied, sounding genuinely upset.
+
+Astralis smirked. This foolish monster had confirmed two things. One, Bob was not the one responsible for defeating the dragon, it had likely been this Father figure. Secondly, the Father figure wasn't here—otherwise, there would be no need for a guard. That meant if he defeated Bob, he could harvest the bones and escape without incident.
+
+Easy, Astralis thought, grinning as he felt the Stellar Collapse near. He had bought enough time for one of his most destructive techniques to land, and Bob was terribly exposed.
+
+"Sorry about this, General Bob," Astralis said, thinking the name was ridiculous. "But this is going to be goodbye." He veered to the side as the sky exploded with light. A searing mass of air warping gravity descended. It was a miniature singularity encased in radiant starlight. It streaked downwards, bending space around it as it went.
+
+Astralis felt his creation pass him by before the singularity struck the ice centipede. A pained cry escaped the monster and was abruptly cut off as the singularity soundlessly imploded, crushing the beast. Ice and shards of bone flew off as the monster shattered vertically, like a boulder dropped on a stack of glass. The destruction continued downward until the beast was no longer visible above the clouds.
+
+"Few can survive a falling star," Astralis said, and began to lower, only to pause. He could sense that the singularity had suddenly started to weaken somewhere below the cloud level. No, weakening wasn't the right word. It was being straight-up consumed as if it had encountered a black hole.
+
+Such a thing shouldn't be possible, let alone from a monster using ice affinity. Astralis's wings tucked, and he dove down through the hail-filled clouds and into his swirling nebula. Coming to a stop, what he saw baffled him more than anything he had seen thus far.
+
+The ice centipede was cradling the singularity with a dozen jagged limbs that were no longer made from ice and bone—but from stardust and cosmic Qi, which he knew belonged to him yet had somehow been stolen and added to the monster's strength.
+
+"How..." Astralis muttered as he floated there in the nebula that was rapidly shrinking as it was pulled toward the monster and absorbed. His eyes drifted down the length of the monster's form, and he noted that not only were its limbs adapting to his Qi, but so was its icy carapace, which was now slimy in texture and taking on a cosmic sheen.
+
+Countering his technique was one thing, but catching it so casually and then stealing his hard-earned Qi? Astralis had never in all his years been so insulted. This creature was an enemy of all creation, but it was also a blob of walking Qi. Should he kill it and dine on its flesh, Monarch Realm could be possible.
+
+Astralis's lips curled up. No matter the cost in Qi, he would take down this beast.
+
+With a flick of his claw, he crafted luminous chains from the surrounding nebula. They emerged like shooting stars, arcing across the battlefield and slamming into the centipede's form. The creature twisted and groaned as each chain locked a segment in space, freezing it. He poured more Qi into the attack, trying to tear the monster apart segment by segment. Yet, right as he thought himself victorious, the monster adapted again. The chains began to weaken as the creature started to feed on them.
+
+Astralis had never battled such a tricky foe before. The more he fought, the more it seemed to adapt. He had no choice but to go in for a risky one-hit kill. He shot up into the air, high above the low-hanging clouds once again. He then wreathed himself in starfire and plummeted like a celestial comet.
+
+He would use his own body to secure victory. He broke through the clouds once more, rapidly gathering speed, and not a second later, he tore through his nebula and crashed down into the centipede, feet first. The creature's body imploded under the immense impact, with a satisfying crunch, as segments of ice and bone detonated outward in a cascade, along with ruptured limbs of stardust. Astralis didn't stop there—he drove it deep into the earth, pulverizing stone and shattering the terrain for icy miles. The force of his descent was so intense that it launched half of the massive dragon skeleton into the air—before it came crashing down in a thunderous collapse.
+
+Astralis rose from the freshly formed crater that was steaming, one step at a time, with his wings spread outward. Nothing seemed to remain of the monster as he glanced around.
+
+"Strange, I thought it might survive that," Astralis said, feeling disappointed. As he lumbered around the crater in search of any remains, the ice cracked underfoot. "A weak creature relying on borrowed power in the end," Astralis shook his head and looked back at the dragon corpse. It would have to suffice and pay for the Qi this monster wasted.
+
+That's when he felt something coil around his foot. He quickly looked down and saw that three icy limbs had captured his foot. "It lives?" Astralis said, only for the whole crater to explode around him as if it were a maw trying to devour him. He didn't even have time to escape into the air as the living ice coiled around his entire body and grounded him.
+
+"Father said I wasn't allowed to devour the dragon's bones," the childlike voice said from every direction, sending shivers down his spine. "But he didn't say anything about you."
+
+Astralis tried to tear himself free, but the more he struggled, the colder the icy restraints became, and he could feel the creature sapping his Qi. "Bob..." he said, wincing as his scales cracked under the pressure, "we can talk about this. Who is your father? Let me speak with them."
+
+"Food shouldn't talk too much," Bob replied. "Father is Father."
+
+"But who is he? Maybe I know them."
+
+Astralis received a reply in the form of pain as Bob seemed to bite into his wing. "I'll go supernova and kill us both before you can finish eating me," he hissed through the pain. "Now tell me, what is your father's name?!"
+
+A desolation rift overhead tore open, and a man stepped through. He stood in the air above them, peering down with twin suns for eyes.
+
+Astralis knew the oppressive feeling of a Monarch in an instant. While he had no idea who this Monarch was, he knew who could make desolation rifts.
+
+That's when even more panic began to set in than his current situation of being eaten alive by Bob.
+
+Was this creature's father someone who knew Ashlock?

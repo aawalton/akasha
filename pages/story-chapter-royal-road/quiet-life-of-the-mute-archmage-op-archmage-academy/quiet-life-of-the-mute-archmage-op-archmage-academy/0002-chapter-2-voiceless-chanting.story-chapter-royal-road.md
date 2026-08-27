@@ -1,0 +1,133 @@
+---
+id: 03965c86-6dd7-577a-a3b0-d86c6ff7cbdb
+page-type-slug: story-chapter-royal-road
+title: "Chapter 2: Voiceless Chanting "
+slug: 0002-chapter-2-voiceless-chanting
+partOf: quiet-life-of-the-mute-archmage-op-archmage-academy
+position: 2
+ownLength: 2405
+unit: words
+publishedAt: 2026-05-13
+link: "https://www.royalroad.com/fiction/167476/quiet-life-of-the-mute-archmage-op-archmage-academy/chapter/3388918/chapter-2-voiceless-chanting"
+royalRoadId: "3388918"
+---
+
+A deep sigh escaped the lips of a young girl with raven black hair. She stood at the top of a hill, taking in the fresh early morning air as the scent of something like vanilla drifted into her nostrils. Her light green tunic fluttered as the wind caressed it.
+
+"Molly! Breakfast is ready. Why don't you come inside?" A warm voice called out to the young girl.
+
+Molly's expression brightened when she heard Jen's voice. She turned from the hillside and sprinted enthusiastically back toward the simple cottage not far from where she had stood.
+
+With a slight creak, the door swung open, and a thick aroma of something delicious wrapped around her. She quickly shut the door behind her and hurried to the dining table, her expression lively, a joyful grin plastered on her face as she drummed her fingers against the wood. Jen was already walking over, balancing two plates in her hands.
+
+Molly watched as Jen set the plates down. She stared at the tempting food before her, a neatly sliced portion of white fish, a handful of brown sugar rice, and some mashed potatoes.
+
+Her stomach growled softly, a sound she quickly tried to stifle as her eyes lingered on the dish. Her mouth watered, but she restrained herself. Waiting was a matter of discipline Jen had taught her through these past six months.
+
+A small quirk played on Jen's lips as she noticed Molly sneaking glances at her, waiting for her to begin the thanks.
+
+Jen sighed, then proceeded to close her eyes and clasp her hands, a gesture Molly mirrored. "May the gods bless our meal," she murmured calmly.
+
+Molly nodded in reply, and almost instantly, she grabbed her utensils and began eating. The peaceful clicking of cutlery echoed softly through the cottage. She sliced the white fish and used her spoon to scoop it up along with the brown sugar rice and a smear of mashed potatoes.
+
+The moment the food entered her mouth, she could not help but make a satisfied sound as she chewed slowly. The texture of the white fish was soft and spongy, almost like chewing a tender sweet rubber. The mashed potatoes blended smoothly with the fish's delicate sweetness, and to top it all off, the brown sugar rice added a gentle, wheaty, honey-like flavor to the mixture.
+
+Molly swallowed and scooped more into her mouth.
+
+Jen watched her, the brightness on her own face deepening. She shifted her gaze to her plate and sliced into the white fish. "The locals down the mountain like to tell a story," she said, her voice calm and drifting, "about how the white fish is a symbol of comfort, connection, and…" Her eyes flicked toward Molly, who nodded along while intently devouring her food. A tender warmth shaped Jen’s expression. "And hope."
+
+When they finished, Jen moved to stand and collect the two plates, but paused, her brows rising slightly. An amused smile appeared as she watched Molly rise with her own plate, pad quietly over to Jen's side, and take her plate as well. A small, proud smirk touched the little girl's lips as she gestured for Jen to stay seated while she washed the dishes.
+
+"Alright," Jen said, settling back down. She watched Molly make her way to the kitchen.
+
+Seeing the girl's retreating figure, Jen's expression lit up as she remembered something. She glanced toward the kitchen. "When you're done, meet me outside so we can wash your hair," she called.
+
+Molly, who had nearly stepped into the kitchen, paused, retraced her steps, glanced at Jen, and nodded vigorously before rushing back inside.
+
+******
+
+The mountain wind swept through the wide meadow of green vanilla-scented grass, the blades bowing gently in the cool air. Above, the sky stretched bright and clear, painted in soft tones of blue, with morning sunlight spilling gently across the hill.
+
+Nearby, Jen sat on a simple wooden chair, her slender fingers brushing through Molly's raven black hair. Molly was seated on a small stool, her back to Jen, staring into the air and silently counting the rough white symbols gathering around her.
+
+"It still surprises me how vividly you can see the mana in the air," Jen's warm voice cut through Molly's counting.
+
+Molly tilted her head upward. Her crimson eyes found Jen’s face, and the amused expression there immediately brightened when Jen noticed the hopeful, pleading smile Molly had already fixed on her. That same smile had become a familiar ritual ever since Molly had learned to read and write. Jen remembered clearly how, two months ago, Molly had stumbled upon a book of magic, and from that day forward she had rarely let a morning pass without silently asking to be taught.
+
+"I know you want to learn magic, but you're still too young, and not to mention, magic requires chanting, a voice to shape the mana in the air into our desired formula," Jen reminded her.
+
+Molly’s face clouded for a heartbeat, the hope dimming. Then her expression hardened into a look of quiet resolve, the kind that promised she would try again another time.
+
+A warm upward curl played on Jen's lips when she noticed that resolve. She sighed, ceasing the gentle brushing of her fingers through Molly's hair. With a silent utterance, the rough white symbols in the air shuddered and began to float around her slender hand, trembling before taking shape.
+
+The first few symbols gathered together and formed the image of a water droplet. Following that, the other symbols followed suit until five more droplet images had formed, creating the root. The next symbol to form was the structure, which took the shape of a large circle encapsulating the entire arrangement, a perfect formula. Then, like an illusion, the completed formula was suddenly dyed a vivid, luminous blue, a pleasing sight for the eye.
+
+The formula floated gently until it hovered just above Molly's head.
+
+Molly stared at the luminous blue form with an awed expression, her eyes sparkling with wonder and curiosity. She watched as droplets of water began to fall from the completed spell, soon becoming a small stream cascading down into her hair. Jen's slender hands meticulously worked through the strands as she washed. A small quirk touched her lips as she watched Molly seriously study the roots and structure that created the formula.
+
+A few moments later, while the water still fell, Molly tilted her head upward to find Jen's smiling face. Once she had Jen's full attention, she raised her right hand and pointed at the formula still yielding water. Jen raised a brow as Molly began to demonstrate what she wanted to say. Molly pointed at her own mouth and moved it, though no words came out. Then she shifted her hand and pointed at Jen. After that, she concluded her demonstration by gesturing to the formula with both hands before retracting them and waiting for a reply.
+
+Jen thought for a short moment before understanding. An amused smirk settled on her face. "Are you curious to know how I used voiceless chant to create the formula?"
+
+Molly's expression brightened, and she gave a short nod, as much of one as she could manage with Jen washing her hair.
+
+Jen watched the girl's expression, her expression warming as she proceeded to explain. "Voiceless chanting is something nearly impossible for just anybody to master." She lifted her gaze to the bright sky. "It requires a certain level of potential." She watched the heavens for a moment, her gaze growing distant. "Every human is born with the potential to wield magic. But not all of them can access that potential to do so."
+
+Her eyes returned to Molly, her meeting deep crimson. "You remember what I explained to you about potential, don't you?"
+
+Molly gave a thumbs up in reply.
+
+Jen nodded, her gaze drifting into the distance once more. "Since you already know, I assume you still remember that the number of potential each person is born with ranges from one to five. It's only when someone casts their first formula that they can awaken their full potential, which in turn grants them their affinity."
+
+She sighed deeply, realizing she was giving Molly another long lecture instead of getting straight to the point. "What I'm trying to say is... voiceless chanting has only ever been used by mages with the potential of an archmage. It's an exceedingly rare way of casting magic, as it largely requires the ability to read or see the mana in the air and will it to your visualized spell to create the formula you desire." Just as the words left her mouth, she paused. Something clicked in her mind. An amused tilt played on her lips, and her eyes glanced back at Molly, who had been listening intently to every word and didn't seem the least bit bothered by the limitations.
+
+Jen's amused smirk widened. "But by the looks of it, it seems you're already one step closer to being able to use voiceless chant, since you can basically see the symbols around us. But..." She trailed off as she finished washing Molly's hair. The glowing blue formula in the air dimmed and dissolved into nothingness. A slight frown crossed her face as she stared at Molly, who was looking at her with those usual pleading eyes. She shook her head. "I still think it's not right for you to attempt voiceless chant—" Before she could continue, a small hand grabbed hers.
+
+Jen stared at Molly, who held her hand tightly, her crimson eyes locked on Jen's own. For a long moment, those eyes met hers with a quiet, unshakable determination, the look of someone ready to do anything for the love of magic.
+
+Jen smiled warmly. "You know, someone once told me..." She turned toward the distance, where the sun hung in the sky. "A little spark can become a great fire as long as it keeps burning." She turned back to Molly and leaned closer. "Why don't we try some voiceless chanting practices before bedtime today?"
+
+Molly's expression brightened as she leaped from her stool and bounced in happy circles, her wet hair splashing water around.
+
+Jen laughed. "Alright, alright. Settle down. Let me dry your hair," she said, still laughing as she watched Molly beam.
+
+*******
+
+After a few minutes of enthusiastic jumps, Molly finally settled back onto her stool and waited for her hair to be dried.
+
+Jen wasted no more time. She waved her hand with a calm motion. The rough white symbols in the air immediately obeyed, shuddering for a moment before floating around her slender hand and taking shape.
+
+The first symbols gathered together and formed the image of sunlight. The remaining symbols followed, assembling into a vortex image of air that overlapped with the sun, creating two roots. The last symbol to form was the structure, which took the shape of a large circle encapsulating the entire arrangement, the perfect formula. The completed spell was suddenly dyed a vivid bright orange.
+
+The formula floated until it hovered just above Molly's head.
+
+Then, from deep within the spell, a small gust of hot wind began to blow around her. Her wet raven black hair fluttered weakly at first, then, after a few seconds, the strands dried, and the warm breeze sent them dancing wildly, making her giggle at the sight.
+
+After that, the gust diminished and the formula faded into nothingness.
+
+Jen stood with a deep sigh and stretched. "Well... let's go prepare lunch together," she said, glancing at Molly. She wanted to say more but paused, staring into the distance as if noticing something ordinary eyes could not see.
+
+A deep sigh soon escaped her lips. Her lush blue eyes dropped to Molly, who wore a sad look upon hearing that sigh. A wistful tilt played on Jen's mouth. "It seems that we have to shift the practice session to tomorrow, my dear Molly."
+
+Molly stared at her for a moment before exhaling as well. She nodded, already understanding that duty called. Jen ruffled her raven black hair. "Don't worry. I promise, we'll definitely start your training tomorrow," she said, and Molly gave a short nod in reply.
+
+Jen's expression saddened briefly before brightening again as she thought of a way to cheer the girl up. "Say, Molly, why don't we go prepare your favorite dish?" She raised a brow in amusement. "I'll even let you have your favorite treats."
+
+Molly's face immediately lit up. She nodded vigorously while tugging Jen's hand as they walked toward the simple cottage.
+
+******
+
+Evening slowly crept outside as the night sky enveloped the world. Inside the cottage, Molly watched from her bed as Jen kissed her on the forehead and walked to the door, turning back to her. "Good night, my dear Molly. I'll see you tomorrow," she said, slowly shutting the door.
+
+Molly lay in bed, staring at the door for a few minutes before sighing and turning to face the ceiling. She began to imagine, replaying in her mind all the formulas Jen had used. She raised her right hand, picturing herself casting that same magic. Her lips curved upward as the rough white symbols around her danced and followed her arm's movement in a silent lullaby. Molly giggled at the sight and reached out a finger to touch one of the symbols. The contact made it glow faintly. The rest of the symbols began gathering around her, as if asking to be touched in turn.
+
+Molly giggled further as she watched them take turns meeting her hand. Soon, a slight frown appeared on her face as Jen's words replayed in her mind: 'Voiceless chanting has only ever been used by mages with the potential of an archmage. It's an exceedingly rare way of casting magic, as it largely requires the ability to read or see the mana in the air and will it to your visualized spell to create the formula you desire.'
+
+Her frown deepened as she stared at the mana surrounding her. Can she actually chant without a voice? Would it work? She pondered, her fingers drumming gently on the bed, curiosity gnawing at her more than ever.
+
+Should she try and find out? Or should she wait for Jen to return tomorrow and mentor her on how to do it?
+
+Her drumming quickened.
+
+What to do... what to do...

@@ -1,0 +1,149 @@
+---
+id: beec9cb0-b197-5b67-98d9-dc1387ef69c0
+page-type-slug: story-chapter-royal-road
+title: "Chapter 548: Koyu"
+slug: 0114-chapter-548-koyu
+partOf: rise-of-the-living-forge
+position: 114
+ownLength: 1862
+unit: words
+ownProgress: 1862
+publishedAt: 2026-01-26
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2981130/chapter-548-koyu"
+royalRoadId: "2981130"
+markedReadAt: "2026-06-29T20:02:04.956Z"
+---
+
+Koyu floated in a sea of white. Nothingness stretched out around him in every direction, spanning past infinity and into whatever laid beyond. The memory of molten gold power still shimmered at the back of his mind.
+
+Before him stood the Mesh.
+
+There was no way to have known that for certain. The man hadn’t introduced himself, nor had Koyu. Neither of them had spoken. And yet, even in spite of that, Koyu knew without a doubt that the plain-looking individual before him was none other than the Mesh.
+
+The silence wasn’t an uncomfortable one. It wouldn’t have been right to say it was comfortable, though. It was simply silence. Silence and everything that came with it, like the moment of silence that came after the rain stilled on a dreary day.
+
+But, as all things but liches naturally did, it ended.
+
+“Koyu,” the Mesh said. “You know, the Menagerie never fail to amuse me. Of everyone within the guild, they chose you. Do you know why that is?”
+
+“Because it was the move for which we had the most to gain,” Koyu replied.
+
+“We?” the Mesh raised an eyebrow. “That’s an interesting choice of words, Koyu. Do you know how many liches I have spoken to?”
+
+“Probably more than you would like.”
+
+The corner of the Mesh’s lips pulled up. “Do not misunderstand my purpose — and do not attempt to paint me as a mortal purely because this is the form I chose to manifest myself as. My alliances lie no more with man than they do with the monsters that roam this world. I am the cycle. Every single part of it. That includes even those that are reviled… and those that revile themselves.”
+
+“If you had any care about the natural order whatsoever, then liches never would have been permitted to exist,” Koyu said flatly. “My kind are a wretched scourge. Nothing good is born of our existence. My master destroyed more than most can ever even dream of building. I was not much better. Should we never have been allowed to be reborn—”
+
+“You’re still misunderstanding,” the Mesh said with a shake of its head. “Still trying to classify things as good and evil. Still trying to find purpose where there is none. What do you think the purpose of life is, Koyu?”
+
+“I couldn’t say. I do not live,” Koyu replied.
+
+The Mesh laughed. “An answer that only a lich would have the arrogance to claim. You live just as much as any other being in this world. Do you think? Do you exist? Then you live. Life does not come from the breath in your lungs. It comes from the soul in your body. And no matter what you may think, a soul you still have. Now answer the question. I am curious. What do you think the purpose of life is?”
+
+“If I knew the answer to that, I wouldn’t waste it on the likes of a fence-sitter like you,” Koyu said. “At least I have the honesty to admit that there are things that are not good. There is no reason for a lich to exist. There is no reason for atrocities of such a horrible nature to be permitted. You should be sheparding the world, not guiding it to its demise.”
+
+“I am not a god, Koyu.” A small smile played across the Mesh’s face. “I am a law. It is not for me to decide what men can or cannot do.”
+
+“Then you can answer your own question.”
+
+“I don’t know your answer.” The Mesh laughed. “For that matter, I’m not sure if there is an absolute one. I was simply curious as to yours.”
+
+“Which implies you have an answer of your own?” Koyu tilted his head to the side. “What would you say the purpose of life is?”
+
+“To live,” the Mesh replied. “To live however you see fit.”
+
+It was Koyu’s turn to laugh. “That’s rich. Coming from the law that constrains every element of existence.”
+
+“Rules are necessary for order,” the Mesh said. “Without them, this world would unravel. Energy is not infinite.”
+
+“Right,” Koyu said dryly. “Which is why you permit liches to exist. We certainly don’t draw more resources than the average man.”
+
+“In net? You do not,” the Mesh replied. “For that matter, nearly every single lich that has ever lived has done a great deal of good for the cycle by sending immense amounts of magic back into it before their end.”
+
+“And yet I still live,” Koyu said.
+
+“Do you?” the Mesh asked. “You’ve taken practically no magical energy in years. You are nothing but a shade of what you once were. If you had been a more proper lich, the Guild would have killed you a long time ago. Liches, for all their power, rarely live long.”
+
+“So the purpose of living is… what, to kill a bunch of people and then die?”
+
+“Perhaps,” the Mesh replied. “Is that what you would say?”
+
+“I think I’d tell you to go fuck yourself, you self-righteous, self-absorbed prick. I’ve seen innocent men die. I’ve seen war consume husbands and wives and children. I’ve killed enough of them myself to know that nothing good at all came of it. And you sit here and tell me that such things have a reason to exist?”
+
+“I would not tell you anything,” the Mesh replied. “That is for you to decide. There is no definition to life. There is no answer. There is only life.”
+
+“I can’t say I’m surprised to find that the Mesh doesn’t have the faintest amount of a belief itself, but I’d be lying if I said I wasn’t disappointed.”
+
+“Would you really be any different, were you in my position?” the Mesh watched Koyu silently for a moment before speaking again. “Every single being in existence has an equal right to life. But they cannot all live. Would you have me decide who is granted life and who must die to sustain it? Would you have me become god?”
+
+“You’re practically omnipotent,” Koyu said. “Who better?”
+
+“Who worse?” the Mesh countered. “I am not a god, Koyu. It is not my place to determine the fates of those who live. I have already interfered more than I should have. And whatever happens, I must ensure the continued existence for the whole rather than the individual.”
+
+“So that’s how you justify letting the Adventurer’s Guild fake an entire war,” Koyu said. “Arwin told us, but a part of me found it hard to believe. I wanted to think otherwise.”
+
+“I will take any solution that I can,” the Mesh said. “There is not enough power for everyone. The world is overwhelmed. Magic must come from somewhere, and I cannot truly control man. Even if I wanted to stop everyone from having children, I could not. That is not my purpose.”
+
+“Conveninent. You’re only able to sit back and do nothing while spouting philosophy and keeping your hands clean,” Koyu said. “Very magnanimous of you.”
+
+“Your words will not goad me to anger,” the Mesh said. “Unlike you, I am not capable of such emotions. I am no more human than I am god. And I will not kill you, Koyu. If you wish your existence to end, then you must do it yourself.”
+
+Koyu’s jaw clenched. “I never said—”
+
+“You didn’t have to,” the Mesh said. “Nor do I believe you truly want such a thing. But the thought lingers in your mind.”
+
+“Get out of my head,” Koyu snarled. “Just Sunset my class and begone. That’s how this works, isn’t it?”
+
+“To Sunset your class is to forge you into the shape you wish to become,” the Mesh replied. “But you don’t know what you want, Koyu. And I cannot help you until you do.”
+
+“Just make me stronger. Strong enough to kill those bastards you’re more than happy letting murder thousands of good warriors.”
+
+The Mesh shook its head.
+
+“That is not how this works. I cannot just make you stronger. Sunsetting a class is not just the process of me granting you power. You softened your soul. Prepared it to be forged. But if you do not know what it is you wish to create, then how can you possibly complete your task?”
+
+“Insufferable bastard,” Koyu growled.
+
+“Perhaps,” the Mesh allowed. “But it changes nothing. What do you want to be, Koyu? The rest of your guild know. Every single one of them could answer that question in a heartbeat. But you are lost. A being between worlds. You’re not a lich. Not anymore. Do you want to be one? A true Awakened Lich, not a stray soul bound to the street that was once his? Or do you want to be a man? Do you want a body and the freedom that comes with it?”
+
+Koyu didn’t respond.
+
+That didn’t seem to satisfy the Mesh.
+
+“Do you need to look back on your life?” it asked, raising a hand.
+
+Hazy images shimmered through the white void. They twisted into dim colors and shapes. But they weren’t just images. Koyu’s stomach clenched as the blur faded away. Memories. As sharp as the day they’d burned themselves into his mind.
+
+“No,” Koyu snarled. “I do not.”
+
+The images vanished, only to be replaced by a new one.
+
+It was the interior of the Infernal Armory.
+
+Vix was laying down on a raised platform of obsidian, surrounded by Arwin, Wallace, and Anna. The three of them were all hunched over her while Anna had a razor-sharp knife raised into the air just above the girl’s heart.
+
+“Then perhaps the present,” the Mesh said. “They make her a new heart.”
+
+Ice prickled against the back of Koyu’s neck.
+
+“Will they succeed?”
+
+“I do not know,” the Mesh replied. “That is not for me to say. Such an immense task is never guaranteed to be successful. But they knew the risks. Perhaps you fear them. I could give you a body if that was truly what you wanted from Sunsetting. It would be safer.”
+
+Koyu stared at the image for a moment longer. It had frozen moments before Anna could plunge the blade into Vix’s chest. A second dragged by. Memories howled through Koyu’s mind. Ancient thoughts dragged icy claws through him, buried fears pulled back from where he’d buried them.
+
+Then his gaze raised back to the Mesh.
+
+There would be time for regret later. There would always be time for the past. But he’d kept the present waiting for more than long enough.
+
+“A new body? I don’t need one. Not from you,” Koyu said. “I’ll be making my own, alongside Arwin and Wallace. There’s only one thing I need.”
+
+Light twinkled behind the Mesh’s eyes. “I can see you have made your decision.”
+
+“I told you to get out of my head,” Koyu said.
+
+“When you find out the answer to my question, do let me know. We will not speak like this again, but I will hear it nonetheless.” The Mesh smiled. “And I will be most curious to hear your answer.”
+
+And then the white void was gone.

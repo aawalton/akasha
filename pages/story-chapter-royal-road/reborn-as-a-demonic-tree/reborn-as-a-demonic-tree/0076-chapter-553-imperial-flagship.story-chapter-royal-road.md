@@ -1,0 +1,249 @@
+---
+id: 72efe5d2-8e78-5b19-be8f-49aa5d5452fc
+page-type-slug: story-chapter-royal-road
+title: "Chapter 553: Imperial Flagship"
+slug: 0076-chapter-553-imperial-flagship
+partOf: reborn-as-a-demonic-tree
+position: 76
+ownLength: 2599
+unit: words
+publishedAt: 2026-04-01
+link: "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3219654/chapter-553-imperial-flagship"
+royalRoadId: "3219654"
+---
+
+"The reports mentioned that the fleet was quite large, even by the Celestial Empire's standards, with a flagship present," Tiberius reported, his voice somewhat grave. "I'd suggest more than a warm welcome."
+
+Ashlock was surprised. Was it that big of a deal?
+
+"What's the reported location?" he asked.
+
+"They only left the borders of the Celestial Empire a few hours ago, yet have crossed a vast section of wilderness in a short time, likely due to the presence of the flagship. The report is a little old, but if you look to the south, I doubt you can miss it."
+
+Ashlock was a little skeptical about that. The world tree's leyline was possibly thousands of miles across. If he were to send his own fleet toward the Celestial Empire, it would show as a tiny dot on the horizon at best. So, to claim he couldn't miss it suggested the fleet contained far more ships than he could ever have expected.
+
+"Let me take a look, and I'll report back," Ashlock said. Casting his Gaze of the Tree God skill, Ashlock soon came upon the reported location of the fleet. Expecting to find a dozen airships of a similar size to Moros, he found himself sorely mistaken.
+
+What he saw was hell.
+
+This wasn't a mere fleet of airships—it was a goddamn armada that bathed the wilderness below in a blazing glory. The source of the destruction was orchestrated by dozens of airships, each the size of Moros. Looking more closely at one and taking advantage of his Gaze of the Tree God to peer past the shimmering layers of shields, he found that the airship was constructed from spirit-forged steel. Many cultivators, all in the Star Core Realm and a few even in the Nascent Soul Realm, flew around to keep the ship moving.
+
+Everywhere Ashlock looked, he came to the same conclusion: this airship was a masterpiece of warfare. It reminded him of dreadnoughts from Earth, warships designed with maximum destruction in mind.
+
+Arrays hundreds of meters wide pulsed with power along its flank as cannons unleashed hell. The alchemical firebombs detonated mid-fall, blooming into streaks of white-hot flame that crashed into the land below.
+
+Why are they burning the wilderness? Ashlock wasn't sure. Perhaps in an effort to burn his roots? Or possibly to reduce the effectiveness of his desolation Qi? That's when he zoomed out and noticed that in their warpath, a forest of his offspring was lying in wait. While the flames hadn't reached them yet, it wouldn't take long.
+
+Now the target was clear.
+
+"Have they figured out that I draw power from the trees?" Ashlock muttered and began to panic. How much did they know? Had they figured out he was a tree, or was he just being paranoid? "Shit, this isn't good. Not only are my offspring at risk of burning to death, but what would happen when this armada reaches Darklight City? Would they hold their fire, or had they been instructed to wipe out the wilderness?"
+
+Ashlock had been expecting a response to the death of Councilman Faelorian, but nothing on this scale.
+
+"Just how many ships are there..." Ashlock trailed off as he realized something horrifying. The sun was setting to the west, yet the airships were coming from the south. "So what is that blazing sun behind the armada?"
+
+Switching his view to look upon the fleet from above, it became clear. There was no sun—it was an airship emitting enough power to appear like a second sun in his vision. "Is that the flagship Tiberius warned me about?"
+
+Ashlock fell silent in awe. It was hard to fathom the sheer scale of what he was looking at. The flagship was a floating fortress city, and its hull alone could have cradled the entirety of Red Vine Peak. Yet, despite its immense size, it glided effortlessly through the air with the aid of its hundreds of ethereal sails woven from what appeared to be spirit-beast silk, which glowed with Qi and shifted color. Meanwhile, a vast gravity-reversing array inscribed across its hull appeared to keep it airborne.
+
+Piercing its many layers of shields that put the dreadnoughts to shame, he saw hundreds of cultivators seated in grids and feeding a grand formation that seemed to power the whole thing.
+
+"This is madness," Ashlock muttered in disbelief. "Absolute madness. How am I supposed to fight this thing?"
+
+While he could peer through the shields due to his Gaze of the Tree God, there was no way he could force open a desolation rift and send in one of his sect members. That's when he noticed the flagship was fully designed to stage a battle, with walls and cannons that aimed inward, ready to blast any cultivator that managed to get past the shields.
+
+Zooming back out, Ashlock looked at the fleet again. His mind was racing as he analyzed everything. "The flagship is toward the rear, but it's keeping pace with the dreadnoughts. No wait, it's pushing them forward with waves of spiritual pressure."
+
+That's why Tiberius said the fleet was advancing faster with a flagship present. It literally pushed the entire fleet forward. Not only that, but it seemed it was feeding the dreadnoughts with Qi as they advanced in a tight formation. The flagship was clearly the key to the fleet's operations, but the dreadnoughts effectively formed a layer of defense around it.
+
+"I haven't even bothered to mention the swarm of small airships surrounding the dreadnoughts. I think they are used to hunt down individual cultivators or carry out smaller-scale missions."
+
+Whatever the case, he had to deal with this mess somehow.
+
+"Right, what are my options? I could spawn a Hellroot Abyss below the flagship and try to drag it down... no, that won't work," Ashlock cursed. The armada was moving forward at the speed of a Star Core Realm cultivator. By the time his Hellroot Abyss had spawned, the fleet would have passed over it already. "They are approaching my forest, so I can use Progeny Dominion and... what? All of my skills work best on the ground and non-moving targets. The moment I take over a tree, they will just blast it to smithereens with long-range cannons. System, show me everything I have to work with."
+
+Idletree Daily Sign-In System
+
+Day: 3736
+
+Daily Credit: 1
+
+Sacrifice Credit: 5201
+
+[Sign in?]
+
+[Demonic Demi-Divine Tree (Age: 10)]
+
+[Nascent Soul Realm: 9th Stage]
+
+[Soul Type: Nine Moons (Desolation)]
+
+[Mutations…]
+
+{Crown of the Withered Sovereign [S]}
+
+{Cursed Blood of the Demon Tree [A]}
+
+{Evil Eye [A]}
+
+[Summons...]
+
+{Netherwood Wraith: Nox [Mythical]}
+
+{Harbinger of the Eternal Ash: Larry [SS]}
+
+{Celestial Ink Dragon: Kaida [A]}
+
+[Soul Weapons…]
+
+{The Sword of New Beginnings [?]}
+
+[Skills…]
+
+{Skyborne Bastion [SSS]}
+
+{Necroflora Overlord [SSS]}
+
+{Divine Cycle of Creation and Ruin [SS]}
+
+{Eternal Realm [SS]}
+
+{Hellroot Abyss [SS]}
+
+{Progeny Dominion [S]}
+
+{Dimensional Overlap [S]}
+
+{Nocturnal Genesis [S]}
+
+{Ethereal Roots [S]}
+
+{Voidstorm Aegis [S]}
+
+{Dao Fruit Production [S]}
+
+{Abyssal Maw [S]}
+
+{Soul Forest [S]}
+
+{Gaze of the Tree God [S]}
+
+{Abyssal Whispers [A]}
+
+{Magic Mushroom Production [A]}
+
+{Language of the Eldertree [A]}
+
+{Blooming Root Flower Production [B]}
+
+{Fire Qi Protection [B]}
+
+{Superior Poison Resistance [C]}
+
+"I have five thousand credits, that's enough to quickly make a few more Bastions, but each one would need to contest with a few dreadnoughts. No, I should save them for a random draw or upgrade. Besides, where would I even find spirit trees with a high enough cultivation to make Bastions? Most of my offspring are in the Star Core Realm at best," Ashlock paused as he ran down the list. "I obviously have my Crown of the Withered Sovereign, but I can only use that once every couple of days, and if I were to unleash it now, one of the dreadnoughts would tank the hit rather than the flagship. Wait, will my B-grade Fire Qi Protection be enough to keep my offspring from burning in that fire?"
+
+Ashlock realized his thoughts were too chaotic, and he was going in circles. "I still have time, calm down. Think. Maybe I should test the waters a little, target one of the dreadnoughts, and see how far that gets me. Once I've tested their capabilities and limits, I'll move on to worrying about the flagship. So long as no Monarch is hiding in the hull of the flagship, victory should be possible."
+
+Refocusing on the largest dreadnought he could find, positioned at the vanguard of the fleet and in front of the flagship, he got to work.
+
+***
+
+"Elder Hao—"
+
+"Yes," Elder Hao replied, his gaze lifting toward the ceiling. "I can feel it too. He's here. Inform Grand Elder Ren on the Imperial Flagship that the All-Seeing Eye has taken notice. His attention is on our airship."
+
+The young cultivator nodded and retrieved a communication jade to make the call.
+
+A faint smirk tugged at Elder Hao's lips as he strode toward the broad window of his airship. He had led countless conquests during the war era long ago, and the familiar tension of war set his blood boiling with anticipation. He had never faced a dark god in direct combat before and was eager to add it to his long list of accolades.
+
+"Elder Hao, should we—"
+
+"No, not yet," he cut in, already anticipating his subordinates' desire to reinforce the shields. The Grand Elder commanding the flagship and this mission had drilled the importance of speed into them for this mission. The All-Seeing Eye was said to wield devastating, wide-area techniques, but those techniques were slow and obvious. Even a god could be defeated with the proper strategy. For now, every resource was diverted to keeping the fleet in motion while laying waste to the land below, disrupting any attempt by the All-Seeing Eye to slow them down. After all, their target was not out here; it was the All-Seeing Eye himself.
+
+A sudden rift tore open in the sky overhead.
+
+"Enemy attack inbound!" someone shouted as formations flared to life.
+
+A spatial cultivator is nearby? How irritating, Elder Hao thought. He had never liked fighting their kind.
+
+From the rift shot a bloodthirsty, demonic-looking sword—something fit for a titan. It streaked toward one of the smaller fighter airships waiting on standby, moving with absurd speed that unleashed a sonic boom. The fighter attempted evasive maneuvers, but the sword instantly altered its trajectory to follow.
+
+"Telekinesis," Elder Hao muttered, narrowing his eyes. "Tell the cultivator to abandon ship—"
+
+He winced as the sword abruptly reversed direction after narrowly missing the fighter and cleaved straight through the fighter and the cultivator inside. The mangled remains fell from the shattered hull, only for the sword to dive after them and impale the corpse midair. A blood-red miasma bloomed around the pair, and in the blink of an eye, the body was reduced to dust. The demonic sword pulsed, visibly empowered.
+
+"Elder Hao—"
+
+"Not yet," he repeated calmly. "I'm under orders not to empower the shields until the very last second."
+
+"It's not that, my lord," the cultivator said urgently. "Our shields are being targeted."
+
+Elder Hao turned sharply. "By what?"
+
+"Desolation Qi, my lord. It's eating away at the layers of shield protecting our hull."
+
+"Hull?" His brow rose. That was an odd choice—until realization struck. His eyes widened. "He's targeting our gravity arrays. He wants to ground the ship. How long will the shields hold?"
+
+The cultivator glanced down at a jade console, fingers dancing across its surface before he looked up, concern etched on his face. "An hour at most, and the rate of decay is increasing."
+
+"Increasing?" Elder Hao frowned. "I heard the All-Seeing Eye possessed nearly endless Qi reserves. If that were the case, he'd simply increase the output to speed things up. That isn't happening, correct?"
+
+"That is correct, my lord. The density of desolation Qi hasn't increased."
+
+Elder Hao clasped his hands behind his back and contemplated for a moment before arriving at a solution.
+
+"Change the shield's affinity."
+
+"Pardon?"
+
+"I don't know how he's doing it, but he's learning. I'm no expert in the destruction arts, but cultivators are always more efficient against Qi types they have Dao knowledge in. We need an affinity he has no experience countering."
+
+"Understood," the cultivator said, immediately getting to work.
+
+Elder Hao returned his attention to the demonic sword. Fighter airships sacrificed defense for mobility, so losing one in a surprise attack didn't shock him. Nor did he feel particularly concerned. The dreadnought he commanded was layered in shields and possessed enough firepower to level a city. Compared to that, a single sword was little more than an irritating fly.
+
+The desolation gnawing at their shields, however, was another matter entirely.
+
+"Send a dozen Enforcers to eliminate that sword. I don't think our cannons can track it," Elder Hao ordered as the blade vanished beneath the hull. Moments later, many Star Core Realm cultivators launched themselves from the ship on flying swords, streaking after their target.
+
+"With that dealt with, what's the status of the shield's affinity readjustment?" Elder Hao asked.
+
+"Command has authorized Earth Qi reinforcement."
+
+"Good. Power it up."
+
+Beyond the window, the shimmering barrier took on a dull, earthen hue.
+
+"Elder Hao, we have a problem. The rate of decay didn't slow. It actually sped up."
+
+"Then keep changing it until it slows!" Elder Hao snapped before forcing himself to calm down. It was far too early in the battle to lose his composure. Straightening, he turned to another subordinate. "Status report. Has the demonic sword been destroyed?"
+
+"About that," a cultivator said hesitantly, eyes fixed on his jade console. "We've lost all communication with the dispatched group. It could be interference from the ambient desolation Qi, but communication with the Imperial Flagship is still stable, so…"
+
+He trailed off, and Elder Hao followed his gaze.
+
+The demonic sword hovered just beyond the window, blazing with crimson light, its tip leveled directly at him.
+
+"It killed them," Elder Hao said quietly.
+
+"What now, my lord?" a cultivator asked him.
+
+"Fire at it with the cannons—" he began, but then the sword suddenly turned and shot toward another fighter airship. Just like the last, the fighter barely had the mobility to dodge at first, only for the sword to rotate and swiftly return, obliterating it from behind, except with far more power this time. The sword was growing stronger. "Hold that order," he said with irritation. "I'll deal with—"
+
+The sword changed target again and shot straight toward the dreadnought.
+
+"Power up shields!" he roared toward one of his subordinates.
+
+The earthen-hued shield glowed brightly as his dreadnought drained Qi from the flagship, only for the demonic sword to pause an inch from the first layer of the shield abruptly. It simply stayed there, hovering threateningly.
+
+"He's messing with us," Elder Hao hissed between clenched teeth. "It's almost like he can hear my commands and react instantly..."
+
+That's when he realized the feeling of the All-Seeing Eye's gaze had further intensified. If he could see him, it wouldn't be a stretch to say he could hear him too.
+
+"Sir, command has demanded we power down the shields."
+
+He raised a hand, silencing the cultivator. "Shhh, the All-Seeing Eye is listening."
+
+The shields dimmed a moment later, the flagship having cut them off.
+
+Elder Hao scowled and slowly turned as he felt the demonic sword flare with bloodlust. It was going to strike. "Brace!" Elder Hao shouted, rushing forward just as the sword shot forward, piercing the many layers of shields with ease.

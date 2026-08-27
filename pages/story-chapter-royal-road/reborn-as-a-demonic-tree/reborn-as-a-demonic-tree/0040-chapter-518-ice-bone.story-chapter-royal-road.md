@@ -1,0 +1,199 @@
+---
+id: f21b8211-a411-5057-a2e5-a2170c77022b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 518: Ice Bone"
+slug: 0040-chapter-518-ice-bone
+partOf: reborn-as-a-demonic-tree
+position: 40
+ownLength: 2956
+unit: words
+ownProgress: 2956
+publishedAt: 2025-12-29
+link: "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/2890710/chapter-518-ice-bone"
+royalRoadId: "2890710"
+markedReadAt: "2026-06-29T19:02:53.042Z"
+---
+
+Tiberius, the Celestial Warden of the Eternal Pursuit Pavilion, could barely contain his laughter as a grumpy-looking Stella trudged into his office.
+
+"Let me guess, you didn't enjoy the dramatic welcome you received?" he mused while gesturing for her to take a seat opposite him.
+
+Stella huffed a few strands of stray hair out of her face as she sat down. "No, I didn't. What was that all about anyway? I had over twenty guards escorting me."
+
+"Well," Tiberius intertwined his fingers and leaned back in his chair, "you're the first VIP we have had visit since opening this new branch next to Desolark City, and you're not making an effort to hide your face."
+
+"So what?" Stella replied.
+
+Tiberius raised a brow. "You do realize that many still remember your face from the slaughter that occurred when the Ashfallen Sect's flagship showed up, and those fools deemed it a threat and went out to fight? Your status as the mighty Ashfallen Sect's princess aside, you're like the grim reaper in many of their minds," he chuckled, "and I can hardly blame them. Whenever you show up, death seems to follow."
+
+"No, it doesn't..." Stella replied, but trailed off. She frowned deeply and then shrugged. "Whatever, I just came to see you."
+
+"You came all this way just for little old me? Well, aren't I a lucky man?" Tiberius laughed. "I'm truly honored to be worthy of the princess's attention."
+
+Stella rolled her eyes. "Can you shut up? I need the Celestial Warden, who just so happens to be you."
+
+Tiberius regained his professional composure. Jokes aside, she was right. They had never spoken outside of this meeting room, and while he felt like he understood the princess quite well, she wasn't someone to mess around with when she had something that needed to be done. While the Eternal Pursuit Pavilion tried to stay independent from local powers, it was impossible to not be slightly biased when something involved high-ranking members of the Ashfallen Sect.
+
+"How may I be of assistance?" he asked, his tone strictly professional.
+
+"That's more like it," Stella nodded. "I wanted to know about Fleshfruit Trees and if there have been any reported sightings of them in the Frozen Star Sect?"
+
+"Fleshfruit Trees? Interesting. While this isn't typically my job, I can look into it for you." Tiberius slotted his pendant into a hole in his desk, and a glowing golden interface appeared before him. From here, he could remotely access the archives of the Eternal Pursuit Pavilion. "The information will cost you. Is that fine?"
+
+"Can I afford it?" Stella asked, almost making Tiberius break character.
+
+"Most certainly," Tiberius replied smoothly. "You are one of the primary owners of the Ashfallen Trading Company. The cost of this information is around 2000 Yinxi Coins, and you have millions. Though I have to say, it's unusual for information like this to be so costly."
+
+"So long as I can afford it, the price doesn't matter," Stella said, gesturing for him to hurry up.
+
+"Okay," Tiberius said, deducting the Yinxi Coins from her account and watching the total number barely move. Opening the information, he quickly scanned it.
+
+"The real file is being brought to us now, but I can give a quick summary. First of all, I'm impressed by the level of detail in this report. While a few years out of date, I doubt Fleshfruit Trees will have moved much, so it should still be helpful." Tiberius scratched his head. "Honestly, I just expected a map, but this is so much more. This information must have been collected over decades, as there's an analysis of Fleshfruit Tree life cycles, eating habits, and how what they eat affects how the fruits develop."
+
+Stella mirrored his surprise. "That's going to be beneficial information for what I have planned, but I have to wonder why someone went through such effort to document a type of spirit tree?"
+
+"Mhm," Tiberius stroked his chin. "It says here the mission was completed on specific request by a Jade Sentinel. Which is extra strange. As the strongest hireable members in the Pavilion, such an extended mission must have cost the client an absurd amount. The client also isn't named, but the Jade Sentinel simply goes by the name Riftwalker."
+
+"Tell me about Riftwalker," Stella said, leaning forward with interest. Sadly, he had nothing to offer her.
+
+"I can't," Tiberius replied. "All information regarding members of the Eternal Pursuit Pavilion is private. Though you could put out an information-gathering request or place a bounty on their head."
+
+Stella mulled over those options for a moment before shaking her head. "I'll ask my brother or the Frozen Star Sect's Patriarch about this Riftwalker when I arrive. If they don't even know, then I might try hunting them down. But either way, this information seems well worth the price."
+
+The door to the office suddenly opened, and a man respectfully strode inside. Bowing, he presented a hefty leather binder. "Here are the Fleshfruit Tree records you requested, Celestial Warden."
+
+"Pass it to her," he said, gesturing with his chin to Stella.
+
+"As you wish," the man passed the book to Stella and then promptly left the room, closing the door shut on the way out.
+
+Stella idly flipped through the binder for a while, reading through the contents. Tiberius sat there a little awkwardly until he decided to break the silence.
+
+"Is that all you required of me?"
+
+"Huh? Oh, sorry, I got a bit distracted," she said, closing the leather binder with a thud. "I actually wanted to ask if there was a portal or a fast way to get to the Frozen Star Sect?"
+
+Tiberius shook his head. "There is not. Your Patriarch would be a far better person to consult about quickly traveling over large distances if the root network the Silverspires have access to now is anything to go by."
+
+Stella frowned and looked up at the ceiling. "I guess I'll have to call for my sister after all," she muttered. "Ash, can you call her here for me? Oh, and get Jasmine too. I want to take her to the Frozen Star Sect to meet Janus's Disciple."
+
+An unmistakable presence that had blanketed the room shifted away.
+
+"Do you happen to know the general direction of the Frozen Star Sect?" Stella asked, drawing his lingering attention away from the ceiling.
+
+"Ahem, it's to the far west of here, past the Tainted Cloud Sect," Tiberius drummed his fingers on his desk in thought. "While I've never been there myself, I heard the sect is built inside an ice volcano. You can't miss it."
+
+"An ice volcano? Like a volcano covered in ice, or a volcano that spews out ice?"
+
+Tiberius smirked, "Both." He leaned to the side and opened a drawer. Finding what he needed, he pulled out an artifact. It was a simple-looking piece of bone, cold to the touch. "This is a fragment of bone from an ancient ice dragon that supposedly died in the volcano, turning the magma and surroundings to ice. I was told it could be used to find the way toward the Frozen Star Sect—it should grow colder the closer you get. You can borrow it."
+
+He passed it across the desk.
+
+"Huh? Free of charge?"
+
+"Free of charge. Only if you give it back, though."
+
+Stella picked up the bone and winced, "It's already so cold," she squinted at it, "so this is the bone of an ice dragon? I can feel the intense Qi stored inside even now."
+
+"Dragons, while incredibly rare, are known to be Qi adept monsters. Though, I believe the ice dragon corpse predates the last Era of Ascension, so it was likely the dragon retreated from a higher layer of creation and then died shortly after." Tiberius had never personally seen a dragon in all his years, so he believed this to be true.
+
+"Interesting," Stella placed the bone on the desk before her, and the wood started freezing. Her fingers had gone red from the cold, and she blew on them to warm up.
+
+Tiberius was about to ask a question when that unmistakable presence returned, and the air beside them tore open to form a desolation portal. From within, a young girl with grass-like hair sprouting white flowers and curious bright yellow eyes stepped through.
+
+"Master!" she said, almost looking surprised to see Stella. "I thought you would never stop hiding from Grand Elder Elaine."
+
+"Well, I still kind of am," Stella replied sheepishly. "Actually, we are going on a trip far away."
+
+Jasmine blinked. "We are?"
+
+"Yeah. Not because I'm scared of Elaine, just to be clear," Stella insisted. "I'm taking you with me to meet my brother in the Frozen Star Sect, far west of here. We will be using this fragment of bone from an ancient ice dragon to find our way."
+
+"The Frozen Star Sect? Isn't that the only other sect in the wilderness that has a Monarch Realm?" Jasmine said, her eyes practically sparkling with interest.
+
+"It is indeed."
+
+"But why are you bringing me?"
+
+"Last time I spoke to my brother, he also had a disciple. I thought you two could meet, and this trip would be a good experience for you. While the lessons Elaine teaches are great, nothing will beat expanding your worldview and going on an adventure."
+
+Jasmine fell into contemplation. "Won't it be a long and dangerous trip?"
+
+Stella snorted. "Jasmine, I'm at the 7th stage of the Nascent Soul Realm."
+
+Tiberius raised a brow. Is she lying, or has she truly reached such an insane height in such a short time? It seemed frankly impossible. While he wasn't a prodigy, it had still taken him hundreds of years to advance through the stages in the Nascent Soul Realm, yet Stella claimed she was already at the 7th stage, meaning she was a stage stronger than he was.
+
+"Almost nothing can threaten me at this point, and besides, I called for Zeph to come too," Stella continued, unaware of or ignoring the confusion on his face at her reality-warping statements.
+
+"Your sister is coming?!" Jasmine said, giddy with excitement.
+
+"Well, hopefully she agrees. I haven't exactly discussed it with her—" Stella paused as a loud bell echoed through the office and the entire mountain range.
+
+Tiberius immediately rose from his chair in a panic as the clanging continued. That was the warning signal for evacuation. "We need to get out of here," he said, his voice firm.
+
+"Why?" Stella asked, clearly not understanding the gravity of the situation.
+
+"That noise is the signal for evacuation—a Monarch Realm level threat is attacking the Eternal Pursuit Pavilion," he said quickly, grabbing his things. "You two especially need to get out of here. I won't let the blood of a princess and her disciple be on the Pavilion's hands. The defensive formations should hold for at least a minute..." A loud static noise filled the room, drawing his attention to the window. Usually giving him a clear view of the perpetual fog that served as a concealment formation, he could see streaks of silver crackling through the fog like lightning as the formation buckled.
+
+The door to the room flung open, and multiple Sage Advisors rushed in with panic-stricken faces. "Celestial Warden! We must leave immediately."
+
+"What is the threat?!" he shouted at them over the noise of the clanging and the failing defensive formation.
+
+"A Monarch Realm monster," one of the older Sage Advisors said. "It appears to look like a white deer, though it is shrouded in a small storm, making any attempts at further investigation with spiritual senses impossible."
+
+"I've never heard of such a monster," Tiberius said, brows furrowing. "Whatever the case, we need to leave. Nobody will be able to fight that thing. The Iron Seekers and Crimson Trackers should use the emergency tunnels below the sect, while the rest of us can retreat out the back and try to draw its attention."
+
+"Relax," Stella's weirdly calm voice cut through the chaos.
+
+Tiberius felt a tinge of anger as he glanced over and saw Stella looking as relaxed as ever. She returned his glare with a nonchalant dismissal.
+
+"It's just my sister. Open the formation and let her in."
+
+The elderly Sage Advisor stepped forward with irritation on his face. "That monster is your sister? Don't be ridiculous. If we lower the Pavilion's grand defensive formation, we are all dead—"
+
+"Do as she said," Tiberius said, cutting him off.
+
+"Celestial Warden! That is preposterous—"
+
+Tiberius flared his Nascent Soul Realm cultivation toward the Sage Advisor, making him stumble back as if the wind had been knocked out of him. "You will do as I say and lower the formation. That is an order from the Celestial Warden, or do you want the formation to burn out trying to resist a non-threat, costing us millions of spirit stones in repairs?!"
+
+"Fine, I will lower it," the man grumbled, leaving through the door.
+
+Tiberius huffed with annoyance and pinched the bridge of his nose in frustration. Ignoring the insane reveal that Stella had a Monarch Realm sister, or that she was a monster, he had other questions. "Just what is your sister doing? Why is she trying to break through the defensive formation instead of coming through the front entrance?"
+
+Stella shrugged. "I don't think spirit beasts understand the concept of a front door. She is likely just trying to take the most direct route toward me, and your formation happens to be in the way."
+
+"Couldn't she have used a portal?" Tiberius reasoned. Before Stella could answer, a being rose from the shadows of the room. It was a lich, towering at three meters tall, whose head almost scraped against the ceiling. Tiberius was well aware of what this lich's presence signified, so he instantly bowed, and the Sage Advisors followed suit.
+
+"I am honored to be in the presence of the Ashfallen Sect's Patriarch," Tiberius said. He should have known so many ridiculous things would happen in the wake of the abrupt arrival of the princess.
+
+"Please, raise your head. I have come to apologize, Celestial Warden. I told Zephyrine that Stella wanted to see her, and she took off before I could offer a portal. If the Pavilion sustains any damage from this oversight, the Ashfallen Trading Company will cover it."
+
+"Your generosity truly knows no bounds," Tiberius said with relief as he straightened his back. The defensive formation was one of the most expensive things the Pavilion was equipped with, and by the look of things outside, it was about to blow itself up trying to resist a Monarch Realm's entrance. Thankfully, the silver crackling abruptly stopped, and the fog began to fade. "It looks like the formation was powered down in time," he said, his gaze continuing to linger beyond the window with curiosity. He had never laid eyes on a Monarch Realm monster before and was curious what Stella's supposed sister looked like.
+
+The fog was pushed aside by a gale, and he soon laid eyes on an ethereal white-furred deer trotting through the air.
+
+"Are you able to open the window to let her in?" Stella asked.
+
+"I can." Tiberius walked over and undid some latches. Swinging the large window open, he was surprised by the size of the deer as she got closer. Around three to four times the size of a regular deer that he would find in the forest, the majestic creature came to a pause before the window, unable to fit through.
+
+The gale around the deer collapsed inwards into an intense ball of storm Qi, which disappeared a moment later, revealing that the deer had morphed into the appearance of a woman. Her antlers still curved from her brow like an empress's crown, and long, snow-white hair flowed around pointed ears tucked flat against her head. Her fur had transformed into a long, thick coat covering everything except her calves and feet. As she stepped through the window, silver sparks crackled across her skin as the office's far weaker personal defensive array briefly tried and failed to stop her. The moment she passed the threshold of the window, the room was flooded with her aura.
+
+Unlike what he had expected, it was like a pleasant breeze that carried an ancient feeling with it.
+
+Tiberius met the woman's gaze and wasn't instantly captivated by her perfectly crafted beauty, but rather by her eyes. They were calm and unbothered, as if nothing in this world could faze her, but more importantly, they were a deep, vibrant pink—the same as Stella's.
+
+"I see," was all he muttered as they broke eye contact. They really were siblings.
+
+The woman paid him no more interest and instead scanned the room until her gaze landed on Stella. "Sister, I heard you called?"
+
+"Zeph!" Stella said, rising from her seat. Despite being slightly taller, it was unmistakable that the deer woman carried far more command over the room's attention. "Sorry to call you here so suddenly, but I was hoping you would take Jasmine and me far west, to the Frozen Star Sect, to visit Janus."
+
+"Janus... I haven't seen that brother of mine in a long time," Zephyrine said, seemingly somewhat amused by the idea. "I've also not visited the grave of Ilyzathar in centuries."
+
+"Ilyzathar?" Stella asked, and Tiberius was also curious.
+
+"Yeah, the ice dragon that lay to rest there."
+
+Stella tilted her head. "How do you two know each other?"
+
+"It's a long story, but..." the deer woman paused, "I was the one to kill Ilyzathar, and I also know where her child is hiding."

@@ -1,0 +1,193 @@
+---
+id: ac425015-a2c4-5bea-8447-e2fdf9dd23f9
+page-type-slug: story-chapter-royal-road
+title: "Chapter 595: Strengths and Weaknesses"
+slug: 0119-chapter-595-strengths-and-weaknesses
+partOf: reborn-as-a-demonic-tree
+position: 119
+ownLength: 2433
+unit: words
+publishedAt: 2026-07-24
+link: "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3721291/chapter-595-strengths-and-weaknesses"
+royalRoadId: "3721291"
+---
+
+Diana breathed Aurelian's heart demon back into his body.
+
+What was left of his exhausted soul and ruined Inner World offered no resistance. The heart demon spilled back into him like blackened water, flowing through every chamber of his body and mind, eventually settling into the throne of control it had lusted for.
+
+Aurelian twitched.
+
+Then his eyes opened.
+
+The horror of confronting death was gone. In its place was a cold, predatory stillness.
+
+"Stand up," Diana said.
+
+Like an obedient dog, the heart demon pushed Aurelian's body to its feet. It winced. The body was still broken from the fight, with a badly shattered hand, a ruptured Inner World, and robes burned to rags.
+
+Diana watched it sway in place, testing for any flicker of disobedience. There was none. The mist had it on a leash, and the leash was holding. She placed a hand on his forehead and confirmed that the throne upon which the heart demon sat was controlled and fed Qi by her.
+
+Archdemons could control lesser demons, and that privilege extended to heart demons as well.
+
+Satisfied, she let her act drop.
+
+She staggered sideways and caught herself against the wall, the mist around her thinning as she couldn't sustain her domain a moment longer. The heart demon turned its head and watched her with patient, empty interest. If she did not command it to speak, it would remain silent.
+
+"Thank the heavens your heart demon was so strong," she breathed, sliding down to sit against the wall. "I had to work alongside Zephyrine and Geb to convince Evaline to surrender without blowing the whole flagship up, but I knew that wouldn't have been possible with you. I had to break you first."
+
+She closed her eyes.
+
+Maintaining control over two bodies had already strained her, but now she had three to manage. Breathing in, she retracted her domain into her clone, giving it the strength to stand again, and fed some Qi into Aurelian to mask his injuries.
+
+The battle was over, but the war had only just begun. There was no time for rest.
+
+"Evaline's heart demon was a nice snack, but it hardly put a dent in the Qi I expended for this battle," she grumbled as she stretched. The mist gave her the closest thing to immortality this layer of creation knew, but it wasn't free, and it wasn't infinite. Maintaining her domain was costly to her reserves, as it required her to exercise control over a vast area.
+
+If not for Geb's shield trapping Aurelian inside the dome with her, none of this would have worked. Aurelian could have simply left the reaches of her domain and waited for her Qi to run out. A few hours of patience, and victory would have been his.
+
+But Geb's shield had held, trapping Aurelian and Evaline inside her domain and forcing a confrontation. Perfect conditions for her to thrive. Even so, in a straight fight against a thousand-year cosmic Monarch, she would have lost. Her clone that Douglas summoned, for all the menace it carried in the mist, lacked the strength of a true Monarch. The power she could truly fight with was closer to the peak of the Nascent Soul Realm.
+
+That's why she hadn't fought him directly. She had pitted Aurelian against himself by using illusions and mimicry to cloud his mind and not give him time to think. The heart-demon mirror in the glass room, the false stairs, and the voice in his ear. Every trick she thought of in a short time was used to disorient him.
+
+Her title as an Archdemon added a sense of mystique and grandeur to her abilities, clouding his judgment. While it was true that as long as Diana's domain lingered, she was unkillable, that didn't mean she had the strength to end Aurelian herself. That is why she had briefly empowered her clone to pin him against the wall and drag the heart demon out of his throat.
+
+The heart demon became her champion. It fought Aurelian to the death in her stead.
+
+In a clean fight, Aurelian would have crushed his own heart demon in minutes. It was a leech, not a peer. So she had cheated. Every time Aurelian relied on his domain, her mist suppressed it. Every time the heart demon swung, she fed it a sip of her own Qi to empower it.
+
+Even still, the fight had gone on for far longer than she had expected, and if not for Geb shielding the room with his earth Qi, the flagship would have fractured in the process. Despite her demonic mist Qi sapping away at Aurelian's strength, it had taken an hour of trading blows with his heart demon to chip away at the centuries of gathered Qi he had to draw from.
+
+Diana opened her eyes and looked at the husk of a man that had once been Grand Elder Aurelian Vasthorne. She wasn't sure how useful a heart demon-puppeted Monarch was, but so long as he could command the fleet to their destruction, he would have served his purpose.
+
+"Right," she sighed, and forced herself to her feet against the wall. "Let's see what your fleet has to say to its returning Grand Elder."
+
+***
+
+Diana was welcomed on the surface of the Radiant Dawn by Zephyrine, with a rather meek-looking Evaline at her side. At the sight of Diana with a possessed and limping Aurelian trailing her, Evaline collapsed to her knees.
+
+"Oh great Archdemon, please have mercy—"
+
+"No need for that," Diana said, waving dismissively. "As promised in our deal, for the surrender of your mind, body, and soul to me, you are permitted to live under my control, and I will see to it that your family survives the wrath of our dark god."
+
+It was a clearly one-sided deal, hardly a step above what Stella did to Ao Lingxuan. Still, Diana didn't have much sympathy for those who would ride an airship into the wilderness and firebomb their cities and people. Additionally, if she hadn't arrived in time, Douglas would have been a smear on this very deck, and Hazel and Talon would have grown up without a father.
+
+As far as Diana was concerned, mercy was already more than Evaline deserved.
+
+"I thank your dark majesty," she said, kissing the ground before her.
+
+Diana hid her disgust. "Take Aurelian and return to your fleet. Your orders are to cease the siege of Argentum and direct the fleet toward Desolark City. There, you will command the fleet to fire upon the Empire airships attacking Desolark City."
+
+Evaline slowly raised her head.
+
+"As you command. Though I expect resistance, your majesty. Most of those who joined this fleet did so out of loyalty to the Empire or hatred for the Ashfallen Sect. They will not turn their cannons on their countrymen without a fight."
+
+"Then kill them."
+
+The words landed flat. Evaline's eyes widened.
+
+Diana stepped forward, gripped her chin, and tilted her face up.
+
+"I've granted you mercy, but that doesn't extend to your fleet. Encase them in ice. Shatter their bones. Tear their throats out." Her smile didn't reach her eyes. "Do whatever needs doing. Those who don't fall in line and follow my orders will die. Trust me, I will gladly dine on their heart demons over tolerating their defiance."
+
+She released Evaline's chin.
+
+"Now go. Take Aurelian with you."
+
+Evaline scrambled to her feet and shot into the sky. Above them, a hole irised open in Geb's earth shield just long enough for the two Monarchs to pass through, then sealed shut behind them to block the continuous attacks from the Empire's fleet.
+
+Diana watched them go for a moment longer than she needed to. Then she turned and walked toward the broken silhouette of Geb at the heart of the deck.
+
+The spirit tree was a wreck.
+
+Heavenly lightning had wrecked his canopy, and his trunk was scorched black down half its length, but even as Diana approached, she could see new bark knitting itself across the wounds. Earth Qi flowed up from his roots in slow, patient rivers, repairing him in real time.
+
+The golem standing at his base turned its faceless head to acknowledge her.
+
+"How are you holding up?" she asked.
+
+"The master's Qi draws thin," Geb said, his voice grinding like stone over stone. "Resistance for much longer will be difficult."
+
+"Don't worry," Diana said, glancing up. "Once Evaline and Aurelian retake control, they will be directing the fleet away. Do you think we can still fly and follow them?"
+
+The golem nodded. "While my body is in ruins and the Qi supply draws thin, my Bastion Core is intact, and the flagship is still operational. We can fly and fight."
+
+"Good, then get us in the air," she turned to Douglas. "We are heading to Desolark City to squash the fleet there, and then we will direct any remaining ships after the conflict that will submit to us and lead them to the Celestial Empire to assist the Patriarch in the war and retrieval of Stella."
+
+Douglas grinned.
+
+"What is it?" Diana asked.
+
+"It's just..." he sighed with relief. "I'm so glad to have you back. The sect already felt disorganized in your absence, and your immense strength is just what we needed."
+
+"I appreciate it." Diana's voice softened, just a touch. "But sentimentality can wait. I've already wasted an hour protecting this city, and I don't know how long Stella has. The sooner we secure the Ashfallen lands, the sooner we can throw everything we have at the Empire."
+
+"Agreed."
+
+"Then prepare for the battle to come." She glanced past him to where Zephyrine stood beside the railing, the storm overhead still answering to her presence. "All this time we've leaned on Ashlock. It's time we paid him back. Zephyrine," she called out to Stella's elder sister specifically, "what will you do now?"
+
+Zephyrine's stormlit eyes drifted toward the horizon.
+
+"Desolark isn't far. If it's truly the Crowned One who has Stella, time is the one thing none of us can spare." She looked back. "I'll fly to the Empire and assist there."
+
+Diana mulled over her answer for a moment and realized she didn't have to make a choice. She had two bodies to use. In a direct fight, she was weaker than someone like Stella. But what she lacked in raw combat power, she traded for immortality and the ability to exist in more than one place at a time.
+
+I should make use of it, she thought, making up her mind. "Zephyrine, I will go with you."
+
+"Wait," Douglas protested. "That leaves our fleet without a Monarch."
+
+"Evaline and Aurelian are under my control," Diana replied, and hid her smile. The absurdity of that statement wasn't lost on her. "They will fight to the death to fulfill my orders. I will also join you on the route to Desolark City. It's only a few hours' flight away from Red Vine Peak."
+
+"But your—" Douglas started.
+
+Then he stopped.
+
+His eyes narrowed in slow understanding, and he raised the communication jade still clipped at his belt.
+
+"You're still at Red Vine Peak, aren't you?"
+
+"That I am," Diana answered, not through her clone, but through her main body.
+
+She heard her own voice answer a half-second later through the jade in Douglas's hand, threaded with the faint distortion of long-distance communication. Even to her, it was a slightly disorienting thing to experience.
+
+Douglas exhaled a quiet laugh.
+
+"I thought Stella's powers after the Eternal Realm were terrifying, but Archdemons are just as ridiculous," Douglas muttered. "I'm never going to catch up to you two, am I?"
+
+"You'll have to," Diana said, her eyes drifting to the sky. "Whether Stella lives or dies, you and I both know this won't be the last war the Ashfallen Sect wages."
+
+Douglas snorted. "War is an inevitable part of life. What matters is being on the winning side." He grinned. "And I think I'm on it."
+
+"True." Diana nodded slowly.
+
+"We should go." Zephyrine was already rising from the deck on a crackling lattice of storm Qi, her hooves not quite touching the wood beneath her. "I've waited too long for my revenge on the Celestial Empire to spend another moment here."
+
+Diana could feel the deep conviction in her tone. This fleet attacking the Ashfallen Sect and the Monarch commanding it weren't her targets—the Councilmen who maintained the seal on the World Tree and created Stella likely were.
+
+Diana unfurled her wings and pushed off the deck.
+
+Above, the dome opened one last time. Diana passed through into the open sky and glanced back. Hundreds of Mudcloaks had emerged from the bowls of the ship and spilled out onto the deck. She waved at the small figure of Douglas at the center of it all, beside the ruined towering tree of Geb.
+
+Everything below her would have been unimaginable years ago, but to the current-day Ashfallen Sect, this was almost normal. The Celestial Empire had no idea who they were messing with.
+
+Then she turned her gaze upward.
+
+The fleet's bombardment was faltering, ship by ship. She could feel the confusion rippling through them. Elders were on deck, glancing at neighboring vessels in bafflement, while formation officers were shouting into communication jades. She could sense, through the mist, that Evaline was issuing orders with ruthless efficiency.
+
+I'd put it at half, Diana thought. Half of them won't bend the knee. The rest will once they see the consequences of refusal.
+
+It didn't matter to her either way. The fleet falling apart in the sky above Argentum wasn't her concern. So long as Evaline, Aurelian, and the Radiant Dawn reached Desolark, the rest could burn each other out of the sky, and the wilderness would be all the better for it.
+
+Her sights were already further south.
+
+"Try to keep up," Zephyrine said, uncaring of her distractions. She vanished before Diana could reply. A streak of white-hot lightning tore across the sky in her wake, and the sonic boom that followed shoved the nearest airships backward like a wave breaking against a seawall.
+
+Cultivators were sent tumbling on their decks. Formation shields rippled.
+
+Diana narrowed her eyes and took it as a challenge.
+
+"Clearly you've never been chased by an Archdemon," she murmured, and dissolved.
+
+Her body broke apart into a winged plume of deep blue mist that twisted on itself once, then shot after Zephyrine.
+
+The Celestial Empire had no idea what was coming for it.

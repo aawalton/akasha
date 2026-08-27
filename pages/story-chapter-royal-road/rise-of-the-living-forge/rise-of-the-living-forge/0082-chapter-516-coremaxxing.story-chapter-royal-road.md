@@ -1,0 +1,129 @@
+---
+id: 1d510510-b373-58d3-bfed-43971203e88d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 516: Coremaxxing"
+slug: 0082-chapter-516-coremaxxing
+partOf: rise-of-the-living-forge
+position: 82
+ownLength: 1621
+unit: words
+ownProgress: 1621
+publishedAt: 2025-11-12
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2754867/chapter-516-coremaxxing"
+royalRoadId: "2754867"
+markedReadAt: "2026-06-29T20:01:03.503Z"
+---
+
+Arwin had just finished feeding Lillia’s food to the Infernal Armory when she rejoined him, Koyu, and Wallace in the smithy.
+
+Lillia had retrieved the core from where it had been baking in her oven. She had it wrapped in a tablecloth, but Arwin felt its presence before she even had a chance to start unwrapping it.
+
+He wasn’t the only one. Both Koyu and Wallace spun toward Lillia the moment she’d walked through the back door of the Infernal Armory, their eyes going wide and locking right onto the bundle cradled in her arms.
+
+“Yeah,” Lillia said before anyone could even try to voice anything. “I felt it too. The moment I opened the oven door. It was like a punch to the gut. I don’t know what you guys made here… but it’s working. At least I think it’s working. If it isn’t, you might have made a really big explosive.”
+
+“Most powerful things are explosive if you use them wrong,” Wallace said gruffly. He gestured to Lillia. “Open ‘er up. I’m practically dying to see what manner of creation you’ve got there. Even we don’t know exactly what it’s turned out as.”
+
+Lillia pulled the tablecloth back, unrolling it with careful, deliberate movements. She then held it out gingerly. Nestled within the cloth was what very strongly resembled a lumpy black meteorite.
+
+It was pockmarked and covered with soot. Something about the oven had actually shrunk the Core since the last time Arwin had seen it. The orb — if its misshapen form could even still be considered as such — was about half the size it had been before. He could have held it with a single hand if he’d wanted to.
+
+But its size did absolutely nothing to repress the power radiating from it. Arwin’s hair stood on end. It felt like he’d stepped outside onto a hill during a thunderstorm. His tastebuds prickled with the taste of metal as he stepped forward.
+
+The Mesh made no move to try and identify the Core. This was raw power, so concentrated and strong that it couldn’t be contained within the vessel it currently resided within.
+
+Arwin swallowed. The magic pouring out from the Core was only getting thicker. He didn’t even need to speak to the item to know what it wanted, and neither did any of the others.
+
+“We should get to work,” Arwin said. “Preferrably before the Infernal Armory explodes from all the magic leaking through it.”
+
+“Is that possible?” Lillia asked with a frown.
+
+“No idea,” Arwin replied. “But I don’t want to find out.”
+
+He gingerly took the core from her, using the tablecloth to avoid touching the black chunk of metal directly. Flickers of thoughts that weren’t his own danced through Arwin’s mind. The Core’s desires were so powerful that they almost had a magnetic pull to them.
+
+He barely even had a chance to process them before he felt himself drawn to several of the metal pieces that the Infernal Armory had lying in wait to be chosen from. Surprise crossed Arwin’s features.
+
+The metal trembled. Not just in his hands, but on the shelves extending from the walls of the smithy. Every piece rattled as if pulled by some invisible force.
+
+The Core had selected the components for its own armor.
+
+“Whoa,” Wallace breathed, his eyes as wide as saucers. “Do you lot feel that? It’s like…”
+
+“Magnetic,” Koyu murmured. The Lich swallowed, then shook his head. “It is intelligent. Before completion. That is unnerving. This is no inanimate object we work with. We must take utmost caution while using Soulmancy on such a thing to avoid impacting its sense of self.”
+
+Arwin nodded. “Yeah. I’ll be careful. But it looks like it’s already done a lot for me. Have you ever heard of a material choosing the components it wants to be made with?”
+
+“No,” Wallace said. “But I’ll give you a guess as to the amount of times I’ve made anything even close to resembling these Soul Guardians. And I’ll toss in a hint as well. It ain’t a big number.”
+
+“A unique case among unique cases,” Koyu said. “We should begin. It is late, but I cannot think of a better time to create something like this than at night. It is powerful enough that there is a chance some energy will leak out of the Infernal Armory.”
+
+“He’s right,” the Armory whispered, coils of red mist twisting across the ground as openings appeared within the walls. “I don’t know if I’ll be able to fully contain the energy that this kicks up. If we pull it off properly…”
+
+“Nothing we can do about it now,” Arwin said. He set his jaw. “Everyone, get ready. And brace yourselves. We’ve never tried to connect this many minds at once. There are a total of five of us — six if you count the Core.”
+
+“We should count the core,” Koyu said. “Six. It is a powerful number. I am prepared.”
+
+“As am I,” Wallace said.
+
+“Me too,” Lillia said. She rolled her shoulders and gave them a firm nod. “Did the Armory get enough magical energy from the meal to continue?”
+
+“I am prepared,” the Armory whispered. “Let us begin.”
+
+Arwin extended his hand. Caldera snapped into being within his grasp, the hammer already humming with anticipation.
+
+“Do it.”
+
+Black tendrils writhed out from the walls in a flash. They drove into everyone, connecting them in an instant.
+
+Arwin’s back went stiff. Six different seas of power all crashed into each other at once. A thunderous crash rolled through his mind and he staggered, nearly stumbling over his own feet at the immensity of the magic roiling through their connection.
+
+He drove Caldera down into the ground before him to stabilize himself. Arwin ground his teeth and forced himself to focus, reaching deep within himself for his own magic and pulling it forth.
+
+Heat prickled against his skin as black lava poured through the channels in the ground and filled the pool before him with renewed intensity, bubbling and popping like the surface of a tar sun.
+
+Arwin could feel everyone’s presence against his own. They were simultaneously at his side and overlaid on top of him, shimmering and dancing in a hazy kaleidoscope of thoughts and desires.
+
+Pain prickled in Arwin’s chest. There were too many of them in the connection. So many different aspects. So many different views and lives and powers. The magic was stretched too thin, their song had too many different notes within it.
+
+It was going to break.
+
+“Focus,” Arwin barked. “You all know why we’re here.”
+
+Waves of power beat against him. He felt the images in his mind shift. Felt the presences alongside him trying to adapt to each other, but there were too many of them. They were all changing at once. And when all of them changed, none of them could catch up.
+
+More cracks formed in the connection.
+
+Arwin gritted his teeth. He strained, trying to pull everything together, but it was impossible. He couldn’t control the other souls. They weren’t his to command. There were just too many of them, all trying to match too many different things at once.
+
+But this wasn’t a job he could complete with fewer people. Arwin knew that for certain. He needed every single person in this room. But as things were, there was no way they could hold the connection for more than a few more moments.
+
+Shit. We all need something to focus on. A common note to harmonize with. There has to be a leader.
+
+Arwin hummed. Perhaps it wasn’t the most effective method to get everyone’s attention, but it was just about all he could manage at the moment. The noise was for his own benefit as much as everyone else’s.
+
+It gave him — them — something to concentrate on.
+
+Listen for my song. Follow me. I will take the lead.
+
+The churn within his mind quieted. The other’s thoughts focused on his — they found his song and fell in line alongside it, matching him rather than all trying to match each other. Arwin felt the cracks spreading through their connection slow to a stop. They weren’t gone, but they weren’t progressing any further either.
+
+Immense strain burned in his mind. It was immediately apparent to him that there was absolutely no way he would be able to hold everybody together for the entire process. It was impossible.
+
+Wallace’s gaze met Arwin’s.
+
+You lead for now, Arwin. I will pick up when you can lead no longer.
+
+Koyu nodded, as did Lillia. Even the Infernal Armory’s will joined their mutual understanding. And it wasn’t the only one. A prickle of something else rolled against Arwin’s mind.
+
+The Core.
+
+It was there as well, waiting. Ready.
+
+None of them could lead for the entire time… but they could trade off. This was a song of many parts, and this was just the first.  Arwin drew in a deep breath. He let it out slowly. His hands tightened around Caldera’s haft.
+
+A black tendril ferried over the first of the metals that the Core had selected. It was a brilliant red, almost as crimson as a glistening ruby. Arwin couldn’t even remember its name in this state. He didn’t need to.
+
+The metal’s desires joined the song seamlessly. It already knew what it wanted. That was why it had resonated with the Core. No words had to be said. All that remained was them and the song. There was nothing left to do but get to work creating the most powerful Soul Guardian that Arwin had ever dared conceptualize.
+
+And that was exactly what they did.

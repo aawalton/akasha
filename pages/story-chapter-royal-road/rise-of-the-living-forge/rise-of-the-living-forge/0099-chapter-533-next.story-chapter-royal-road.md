@@ -1,0 +1,129 @@
+---
+id: bf0f6d22-a7d6-5b30-97a8-1326c1d13efe
+page-type-slug: story-chapter-royal-road
+title: "Chapter 533: Next"
+slug: 0099-chapter-533-next
+partOf: rise-of-the-living-forge
+position: 99
+ownLength: 1678
+unit: words
+ownProgress: 1678
+publishedAt: 2025-12-25
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2879441/chapter-533-next"
+royalRoadId: "2879441"
+markedReadAt: "2026-06-29T20:01:36.202Z"
+---
+
+Haley didn’t stick around for long after the deal had been agreed upon. She simply promised to return with the Dwarven Council’s human guild representative in two weeks and asked to ensure the grand opening of the Auction House was delayed until then.
+
+Arwin and Lillia had absolutely no problems agreeing to that. It meant they’d have enough time to bring the building to life with the Dungeon Heart and finish a few more preparations in the meantime.
+
+And with that, their meeting was over. Haley strode out of the room with her two silent guards, leaving the Devil’s Den without another word. Arwin remained behind in the not-torture room together with Lillia.
+
+“Okay,” Lillia said several seconds after Haley had left. “She’s gone.”
+
+The serious air in the room evaporated instantly. Arwin let out something between a laugh and a sigh. He ran a hand through his hair and blew out a terse breath.
+
+“Shit. That was close. How long was she here before we made it back?”
+
+“A few minutes. You had strikingly good timing,” Lillia said. She shook her head. “How did you get back so quickly? You weren’t meant to make it back for… what, at least a few more hours, no? I was running out of ways to distract Haley. It almost got hairy.”
+
+“Things went faster than expected,” Arwin replied. “We made good time… and Sunsetting is absolutely ridiculous. The difference in strength is just incredible when you can actually use the power exactly how you want to. Body improvements… they’re much stronger than just letting the Mesh distribute your power.”
+
+“Yeah,” Lillia said thoughtfully. “I’ve got some plans there. You’re certainly talking it up a lot, though. I’m going to get jealous. I take it this means the dungeon went well? You didn’t have any trouble?”
+
+“Not much,” Arwin said. “It was fairly predictable, honestly. Kien read the dungeon like a book. I guess that’s what happens when you have a bunch of ancient stuff that everyone else learned by copying. All the cool new tricks just become old tropes.”
+
+Lillia shrugged. “Can’t complain about that. Life is hard enough as it is. Getting an easy win is always nice. And Godspit, it’s definitely a win. I can feel those items from here. How much did you guys take?”
+
+“Not even half,” Arwin admitted. “Kien said there was a good chance the room was trapped to punish the greedy. The whole place was gold. You should have seen it. Like an ocean of coins. It was… well, it was something. We tried to pick out the best items over the nonmagical valuables.”
+
+“Damn,” Lillia said. She scrunched her nose. “You’re kind of making me wish I went. Don’t get me wrong. I love the Den. But I don’t want to have to stay back every time the Menagerie does something big. Maybe I need to look into ways to leave the Devil’s Den for longer.”
+
+“You’ll find a way,” Arwin said. “Even if you hadn’t Sunset your class, I know you would. But now that you have… I’m not worried at all. And don’t worry. We’ll have more than enough shit to do in Milten that should be more than exciting enough to keep our attention.”
+
+Lillia snorted and rolled her eyes. “I don’t know if that’s exactly the kind of excitement I want, but I suppose I can settle. But we can worry about it later. We’ve got two weeks to prepare for the auction.”
+
+“Raen and Melissa already sent word out about everything, right?”
+
+“Yes.” Lillia nodded. “We’ll have people coming in from all over the kingdom. They’ve let slip word that you’ll have a few of your own pieces up for auction. That’s doing some heavy lifting. I know we don’t want to let your work end up in the wrong person’s hands—”
+
+“I’ll make something that can justify being put up for auction but won’t cause a problem if we find ourselves up against it,” Arwin said. “Putting a failsafe into something shouldn’t be too hard for me to do anymore. I’ve got it covered. Don’t worry.”
+
+Lillia smiled. “Perfect. Then all we have to do is make sure the Auction House is all loaded out and the finer details are polished up. Do you think you can handle making the Dungeon Heart modification to bring it to life without my help this time around?”
+
+“Easily. I’ve still got the Armory, Wallace, and Koyu,” Arwin said with a nod. “Don’t worry about backing us up. You’ve got more than enough on your own plate. Do you have something in particular you’re thinking about doing?”
+
+“Yeah. I want to push my own abilities a little farther, and this is the perfect opportunity for it. I think I might be able to extend a few of the Devil’s Den’s effects outside of the den and into the Auction House once we finish building it.” Lillia fell silent for a few moments in thought. Then she shook her head as if to clear cobwebs away from it. “But I’ll deal with that later. I need to plan a little more first — and I should probably improve my own abilities first as well.”
+
+“Well, we’ve got two weeks,” Arwin said. “More than enough time to figure things out.”
+
+“Yeah,” Lillia said.
+
+The two of them fell silent for a few moments.
+
+“Wait,” Arwin said. He blinked. “Rodrick is back, isn’t he?”
+
+“Oh, yeah!” Lillia exclaimed. Her eyes lit up. “Shit. I can’t believe it almost slipped my mind. I was so caught up with the Dwarven Council business. I need to get back to the kitchen to keep an eye on everything, but I’ve got time to go see how things are going with him. I wonder how his Sunsetting went.”
+
+“Only one way to find out,” Arwin replied with a grin.
+
+***
+
+Everyone was waiting for them in the shade of the massive demon tree growing in basement of the Devil’s Den. They had gathered into a small semicircle around Rodrick, who stood before the tree showing off his newly made armor.
+
+“It’s awesome,” Reya was saying, her eyes sparkling in awe. “What else can you turn into?”
+
+“Just about anything humanoid,” Rodrick replied with a huge grin. “This is the best armor I’ve ever had.”
+
+“Keep going,” Wallace said. “Tell us more. How much better than everything else is it? Don’t feel the need to hold back.”
+
+“You’ve got problems, Wallace,” Arwin said as he and Lillia walked up to the group. He grinned at Rodrick. “Welcome back. It’s good to see you again.”
+
+“Likewise,” Rodrick said, stepping forward to pull Arwin into a quick hug. “Thank you, Arwin, Lillia. I’ve been told about how much effort everyone put into the gift. It’s… a lot. More than I think I’ve ever gotten before.”
+
+Anna coughed.
+
+“Other than my lovely wife,” Rodrick added hurriedly. “She still takes the prize.”
+
+“But only by a little,” Anna said with a laugh.
+
+“I’ll try to get something equivalent made for everyone,” Arwin promised. “And I’m sure Wallace and Koyu will be more than willing to keep helping. It wouldn’t be possible without them.”
+
+“It’s not like I’ve got anything better to do,” Wallace said with a grunt, clearly displeased that his compliment session had been disrupted.
+
+“I have to say, you took a little longer than I thought, Rodrick,” Arwin said. “Everything go okay with Sunsetting? Is your class…”
+
+“Fine,” Rodrick said. He was silent for a moment. Then he shook his head. “It wasn’t what I expected. Not at all. But it was fine. Maybe better than fine. I feel more like me than I ever have before. I’m not a Fallen Paladin anymore.”
+
+“Then what are you?” Olive asked curiously. “Did your class name change?”
+
+“It did,” Rodrick confirmed. “My class has been changed to Infiltrator. I’d say it fits me a whole lot better than my previous one did.”
+
+Infiltrator, huh? That does suit him.
+
+“Good,” Lillia said. “I can’t think of anyone who had been more deserving of a change. You were stuck with that old class holding you back for too long.”
+
+“Now he’ll be even sneakier,” Art grumbled. “Just what we needed. He’s going to scare the life out of me by appearing out of nowhere someday.”
+
+A shadow shifted beside Art.
+
+Eleven slipped into view right beside him, her face only a few inches away from his. “Like this?”
+
+“Shit!” Art exclaimed, somehow launching himself to his feet. Vix doubled over cackling as his surprise was quickly replaced by annoyance. “Seriously?”
+
+“I have to have fun every once and a while.” A small smile slipped over Eleven’s features before vanishing as quickly as it had come.
+
+“Eleven,” Lillia said. “I still can’t sense you.”
+
+“I would hope so,” Eleven replied. “I’ve been at this for a while. It would be really embarrassing if you could track me so soon after Sunsetting. At least give me another week. Look, I’m sorry to interrupt the reunion. I won’t be around long. Schedule to keep and all, and I’ve got a bed waiting for me. Schedule to keep. You understand. But I don’t need to go back alone.”
+
+“You mean…” Arwin trailed off for a moment. “You’re here to take another person to Sunset? Already?”
+
+“There were some slight discussions on our end,” Eleven said. “Rodrick performed better than expected. With the way things are moving, One agrees that it would be wise to keep allowing the Menagerie to Sunset so long as things continue progressing the way they have been. If you have someone prepared — and I do mean really prepared — then they can begin. Today.”
+
+Arwin blinked. That was faster than he’d been expecting, and the expressions on the rest of the Menagerie’s faces made it clear that they thought the same. He exchanged a glance with Lillia.
+
+Rodrick was a shoo-in with his class holding him back. We obviously can’t turn down a chance for someone to Sunset…
+
+But who should go next?

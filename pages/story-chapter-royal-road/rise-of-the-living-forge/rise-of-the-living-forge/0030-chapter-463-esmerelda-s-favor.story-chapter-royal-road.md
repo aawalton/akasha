@@ -1,0 +1,179 @@
+---
+id: 03350c66-7271-546e-892b-1253c615445a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 463: Esmerelda's Favor"
+slug: 0030-chapter-463-esmerelda-s-favor
+partOf: rise-of-the-living-forge
+position: 30
+ownLength: 1986
+unit: words
+ownProgress: 1986
+publishedAt: 2025-07-28
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2473233/chapter-463-esmereldas-favor"
+royalRoadId: "2473233"
+markedReadAt: "2026-06-29T19:59:25.204Z"
+---
+
+After a brief talk with a shadow imp in sign language and exaggerated gestures, Arwin confirmed that Lillia didn’t mind if he loosed Vanessa on the Devil’s Den for the remainder of the night. It seemed vastly preferrable to letting her out and giving someone a chance to hire her back from out under their noses.
+
+With the renovations Ridley had done to the Devil’s Den, there were several extra rooms that still had yet to be filled. The price for one of them could easily be lifted from the next bag of pay they’d promised her — and the imps would just have to take a little extra care cleaning the room up after the night was over.
+
+With Vanessa dealt with, there was only one task left to handle before the day of the party was upon them. Lillia was still finalizing the dinner service for the tavern, so he made his way right on back to the Infernal Armory.
+
+After all, one couldn’t show up to the coming of age party of a noble with empty hands.
+
+There were a few gifts he had to make.
+
+And if he was going to be making anything for Thane’s brother, then it only felt right that Thane get something as well. It was, after all, Thane’s birthday too.
+
+***
+
+Arwin retired to Lillia’s room at a surprisingly reasonable time that night. He managed to finish his bath and stumble his way through the darkness to join Lillia in bed only a few hours after the moon had made its ascent into the night sky.
+
+“You’re early,” Lillia said, shifting to make room for him as he sat down.
+
+The moment Arwin was in bed, the blanket somehow found itself entangled around Arwin as Lillia dragged him down beside herself, binding him like a spider as if to make sure he couldn’t run off again for the rest of the night.
+
+He certainly didn’t have any complaints.
+
+“I didn’t have much work left today. I was just finalizing some gifts for the party,” Arwin said.
+
+Lillia rolled over his arm, pinning it to the bed beneath her back as she let her head rest against the crook of his neck. “Smart. I did the same. I figured showing up with some snacks was a great way to break the ice.”
+
+Arwin arched an eyebrow. Even if he wasn’t able to see in the darkness, Lillia was more than aware of just about everything that happened in the Devil’s Den. He was pretty sure she didn’t even need to be looking at him to tell—
+
+“What’s with that expression?” Lillia asked, prodding him in the stomach with a finger. “Are you trying to imply that I’m not generous to give a proper gift without strings attached to it?”
+
+“Yes.”
+
+Lillia snickered. “Ah. Well, you’re right. Even if someone isn’t in the Devil’s Den, if they’ve eaten anything I make, suggesting things to them becomes considerably easier. I’ve got no plans of abusing the ability… but if the situation arises where it becomes important, it could be quite useful to have an extra card up our sleeves.”
+
+“Nice,” Arwin said with an approving grin. “Just try to make sure people don’t see what you’re doing. That definitely isn’t a reputation you’re going to want to pick up.”
+
+“It’s only for emergencies,” Lillia said. “And there’s more than one way to plant a suggestion. Don’t worry. I’m not going to screaming my plans from the hilltops. What about your gifts? Sword handle spiked with a poison?”
+
+“Nothing like that. Just some pretty normal stuff,” Arwin replied. “Small enchantments. Definitely nothing that should make anyone jealous. I’m not trying to become the Blacktongue’s best friend. I’m pretty sure that ship has long since sailed. I just don’t want to be rude.”
+
+Lillia yawned and adjusted her position, joining the blanket in wrapping around Arwin as she settled in. “Boring.”
+
+“It’s fine to be boring every once and a while.”
+
+“Bah,” Lillia grumbled. “Says the one that can never seem to pull it off at all. I saw what happened during dinner, you know. And after it.”
+
+“That wasn’t my fault. You can’t blame me for that.”
+
+“It was about you. That makes it your fault.”
+
+“This feels unfair,” Arwin said.
+
+“It’s my tavern. I get to be unfair if I want to,” Lillia said in a smug tone. She paused for a moment. Then she spoke again, every trace of smugness evaporating from her voice. “And unfortunately, I also get updated on everything that happens in the Devil’s Den.”
+
+“Wait,” Arwin said. “You mean you can tell what Vanessa and that adventurer are—”
+
+“Trust me,” Lillia said. “You don’t want to know. I’ve asked the Den to avoid reporting on anything that people do in their rooms when it doesn’t apply to us or safety. It did take a little training to teach it exactly what safety meant. Did you know there are a surprising number of words that sound like threats but are actually something else entirely? I’ve learned things about Rodrick that I never want to—”
+
+“Right,” Arwin said hurriedly. “No need for that. I’m sorry for the burden you carry.”
+
+Lillia laughed into his chest. “Yeah. Me too. At least the Devil’s Den kind of has a grasp on things now. I’ve only gotten a few horrifying information updates this week. It used to be—”
+
+She went stiff.
+
+“What?” Arwin asked urgently. “Are you—”
+
+“And now I’ve got another one,” Lillia muttered, slumping against him. “Turns out Vanessa is a lot more creative than Rodrick and Anna are. Who would have thought. I can’t exactly turn it off, either. She’s a threat. We have to monitor her… so maybe let’s get to sleep and let the Devil’s Den keep an eye on things before I get a permanent mental scar. If I hear anything else, I’m going to make sure you do too it.”
+
+And that, Arwin found, was one of the most effective threats he’d ever seen.
+
+***
+
+Time ground on.
+
+The day of the party was finally upon the Menagerie.
+
+And, for once, they were actually ready.
+
+They — along with Vanessa — all gathered in the common room of the Devil’s Den as Lillia hung a sign she’d apparently had prepared that said the tavern would be closed for the day. It was time to head out. There was just one more task they had to get out of the way.
+
+“Who’s coming?” Arwin asked. “Or more accurately, how many can we bring without getting turned away at the door?”
+
+“A normal delegation is no more than 6 people,” Rodrick said. “I’d suggest we stay something around that.”
+
+“We need at least a few people there just to further the goals we discussed previously,” Art said. He sent a glance at Vanessa before continuing. “If we count Arwin and Vanessa as two, then we only have four more slots. What is she for, anyway?”
+
+“Thugging,” Vanessa said.
+
+“That was remarkably useless,” Art said. “Hold on.”
+
+He reached into his pocket and pulled out a deck of cards, rifling thorugh them before plucking one free. The boy held it up before himself, blocking Vanessa out for a moment. Then his brow furrowed and his head tilted to the side.
+
+“What?” Vanessa asked. “Do I have something on my face?”
+
+“That explains it, actually. Thugging indeed,” Art said, slipping the card back into his deck. “Bringing her is a good idea.”
+
+“That’s sweet of you, but you’re too young for me,” Vanessa said. “But maybe in a few years.”
+
+Art sent her a flat look. Then he turned to Rodrick. “You should go. Lillia as well, obviously. That brings us to two remaining slots.”
+
+“I can go,” Madiv volunteered. “I am capable of both combat and merchandizing.”
+
+“I don’t think merchandizing is the word you’re looking for,” Art said. “And you look like you’re about to bite someone’s neck.”
+
+“Mine is available,” Vanessa offered.
+
+“Noted,” Madiv said.
+
+“You’re best remaining here. We need to keep some combatants at the Devil’s Den,” Rodrick said, clapping Madiv on the shoulder. “Same with Kien. You know why.”
+
+The broom-wielding man just nodded. “I have no interest in something like this. I will continue my practice and training.”
+
+Vanessa glanced at him. She opened her mouth.
+
+“No,” Kien said.
+
+Vanessa shrugged and closed her mouth.
+
+“I think Esmerelda should be one of the official party,” Arwin said. “Having her around would be immensely useful, especially if she doesn’t have to hide.”
+
+“I wouldn’t miss this for the world,” Esmerelda said with a wide grin. “All those rich idiots… who better to sell useless love potions to? It’s hilarious. Just mix water, a shit-ton of pink food coloring, and a handful of salt, and boom. Fake potion. Best part is whoever they try to use the potion on immediately knows something is wrong because their drink now tastes like death. Then they come back to me a day later for a healing potion, and I get to charge them double when I say they used the last one wrong.”
+
+“Right,” Arwin said. “That. Please don’t do anything that gets us in too much trouble. We’re trying to play above the board here.”
+
+“We are?” Vanessa asked.
+
+“In spirit,” Arwin replied.
+
+“Ah,” Vanessa said. “That’s what we say when we’re about to break every single rule and then pretend we didn’t do anything wrong.”
+
+“Great. You’ve got the idea,” Esmerelda said. “I like you.”
+
+Vanessa scratched her chin. Then she shrugged. “I’m free tonight.”
+
+Good lord. Even Esmerelda? This woman is insane.
+
+Esmerelda let out a cackle. “Oh, that’s rich. How attached are you to your guild?”
+
+“Dental,” Vanessa said. She flashed a very full-toothed smile at the old woman. “Plus paid vacation.”
+
+“Bah. Dental. Who needs teeth?” Esmerelda let out a scoff. “Replaced all of mine years ago. Dragon bone is far superior to the little protrusions that humans get. What’s the point of filling your mouth with shit you have to massage to keep it from rotting? A joke, I tell you.”
+
+“Moving on,” Arwin said, coughing into his fist before the conversation could derail any further. The Menagerie did have a few too many… unique individuals. They weren’t the best at staying on one topic. “If Esmerelda comes, that means we’ve got five people. Me, Rodrick, Lillia, Esmerelda, and Vanessa. Who’s up to be six?”
+
+Olive went to raise her hand, but Reya spoke first.
+
+“I think I’m the best fit,” Reya said. “I can fight, but I’ve had a lot of experience selling stuff. I can fill whatever role we need. I’m also hard to keep locked down. There isn’t anyone who can get around easier than me.”
+
+Arwin paused to see if anyone would protest, but nobody said a word. It seemed they were all in agreement. Even Olive let her hand lower as she let out a small huff of disappointment.
+
+"People are probably going to be watching for me anyway,” Olive said. “I made too much of a show during the Proving Grounds. Better to keep them off guard by showing up with people they don’t recognize.”
+
+“And it’s always wise to leave a competent fighting force behind when your heavy hitters travel,” Kien said, drumming his fingers on the handle of his broomstick. “There are too many that will seek to take advantage of such a thing. This layout is ideal.”
+
+“Then we’re settled,” Lillia said. “Is everyone ready? If you have anything left to handle before we leave, now’s the time to do it.”
+
+Nobody spoke up. They all just nodded.
+
+“Then it looks like it’s time to crash a party,” Arwin said. “Esmerelda, would you and your shop do us the honors? It seems we need a trip to the Blacktongues’ household.”
+
+A cold smile split the old woman’s face.
+
+“With pleasure.”

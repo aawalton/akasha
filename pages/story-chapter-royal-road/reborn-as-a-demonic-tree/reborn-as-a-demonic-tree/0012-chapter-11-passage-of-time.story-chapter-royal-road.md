@@ -1,0 +1,171 @@
+---
+id: 332dec12-6629-5021-b1f7-3e04168595e9
+page-type-slug: story-chapter-royal-road
+title: "Chapter 11: Passage of Time"
+slug: 0012-chapter-11-passage-of-time
+partOf: reborn-as-a-demonic-tree
+position: 12
+ownLength: 2213
+unit: words
+ownProgress: 2213
+publishedAt: 2023-01-07
+link: "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/1081686/chapter-11-passage-of-time"
+royalRoadId: "1081686"
+markedReadAt: "2026-06-29T19:01:53.676Z"
+---
+
+[Damage calculated at 0% — Sleep mode deactivated]
+
+Red Vine peak had undergone some significant changes since Ashlock last saw it.
+
+The familiar purple grass courtyard was replaced with smooth grey stone of the highest quality engraved with a shimmering silver metal gleaming under the summer rays.
+
+A dense stream of chaotic Qi danced around Ashlock as if he was the center of a grand whirlpool. The world's energy felt revitalizing, like a jacuzzi. Ashlock relished the pleasant feeling.
+
+Ashlock was oblivious to this world's common sense, but there was no way such a sizeable runic formation was easy or cheap to build.
+
+"Did Stella build all of this so I would heal faster?" Ashlock inspected his body and confirmed the earlier system message was accurate... he was fully healed and looked better than ever. The charred bark was gone, and the evidence of such an incident was lost with time... only he and maybe Stella, if she became an immortal, would remember what happened.
+
+Ashlock hummed to himself as he looked at his branches. They were practically dripping in various types of fruit. Some had clearly been plucked recently, as there were glaring gaps in a few fruit clusters. "Perhaps Stella has been feasting on them?" Ashlock glanced around and failed to spot the girl.
+
+"Maybe she went out..." A breeze blew by, rustling Ashlock's scarlet leaves, and it was only now in the stifling silence that Ashlock realized he was terribly lonely without Stella. Letting out a sigh, Ashlock decided to busy himself to pass the time.
+
+"I should catch up on what's changed while I was sleeping... Status!"
+
+[Demonic Spirit Sapling (Age: 7)]
+
+[Qi Realm: 7th Stage]
+
+[Skills…]
+
+"Seven years old?" When Ashlock had fallen asleep, he had barely been halfway through the fifth year of his life.
+
+A part of him winced at the thought that a year and a half had seemingly vanished... those were days he could never get back. But there was another startling point... he had gone up a stage in the Qi realm and was now at the 7th stage.
+
+"Cultivating in my sleep seems a bit ridiculous..." It made Ashlock think of all those people back on Earth that preached the importance of a side hustle that generated passive income. "Isn't everything about being a tree passive? I have very little control over anything." Ashlock had successfully made himself sad again, so he looked at his skills to see if anything had changed.
+
+{Eye of the Tree God [A]}
+
+{Deep Roots [A]}
+
+{Language of the World [B]}
+
+{Qi Fruit Production [C]}
+
+{Devour [C]}
+
+{Hibernate [C]}
+
+{Lightning Qi Resistance [C]} -> {Lightning Qi Protection[B]}
+
+{Fire Resistance [D]} -> {Fire Qi Resistance[C]}
+
+{Basic Poison Resistance [F]}
+
+{Basic Meditation [F]}
+
+Ashlock paused for a while and read over his skills.
+
+They were mostly the same except for a new piece of UI that he had never seen before. "My skills can upgrade?" Once again, Ashlock wanted to smack himself for not thinking it was possible. His previous shock came from learning a skill outside of the sign-in rewards. So it was only natural he could upgrade his skills as well. However, what caused an upgrade was now a question gnawing at Ashlock's mind.
+
+"Let's think... The two skills that upgraded were resistance skills—if my memories serve me correctly... I was struck at least nine times by lightning strikes during that storm almost two years ago.
+
+Those lightning strikes were Qi-enhanced, likely due to the chaotic weather. So {Lightning Qi Resistance} a [C] grade skill, upgraded to {Lightning Qi Protection}, a supposed [B] grade skill while I slept."
+
+Ashlock mulled over the difference in naming. His previous dismissal nature to the power of his skills had been cast away, and now if a skill was at the C grade or higher, he took them seriously.
+
+"What is the difference between resistance and protection?"
+
+As that was the only clue left for him by the system, Ashlock thought long and hard. "Resistance means not being as affected by something... whereas protection outright stops the threat from ever doing any harm. So in terms of lightning—resistance should mean I would still get damaged by lightning, just not as much... meanwhile, protection would be like a shield?" Ashlock scrutinized the clear blue sky and silently begged the heavens to test him again with their vicious lightning.
+
+"I have been an evil tree! Strike me down if you dare!" Ashlock hollered at the mighty heavens while waving a metaphorical fist like a grumpy old man.
+
+A bird landed happily on his branch where it had made a nest and fed a grey slug-like creature to its awaiting children...
+
+Ashlock sighed... it was hard to give off evil tree vibes when a stupid bird could use his branches as free real estate. "At least pay to stay here with shiny coins or something..." Ashlock grumbled to himself.
+
+"Right, back to the skills, I keep getting sidetracked." Ashlock peeked back at the list, and there was one last skill upgrade.
+
+{Fire Resistance [D]} -> {Fire Qi Resistance[C]}
+
+"Well, this one is a little easier to figure out. The [D] grade skill clearly offers resistance to standard flames, whereas {Fire Qi Resistance} will give me resistance to fire powered by Qi rather than flames fueled by oxygen. It was interesting that the world considered them two separate things, and it would appear Qi-based attacks are in a league of their own above standard elemental attacks.
+
+"Anything else to check up on?" Ashlock did plan to check his sign-in system, but first, he wanted to confirm everything else. "How about down below?" It had been about a year and a half—surely he had made some progress through the mountain?
+
+Ashlock struggled to hold back his shock as he felt down below. His roots spread for thousands of meters, and he was around halfway down the mountain at this point. "Oh my god... look at all these mineral deposits!"
+
+Ashlock still did not know the true name for the silvery metal that seemed to power the runic formation, but the mountain was abundant with the stuff. Ashlock painstakingly counted over a hundred such deposits spread throughout the mountain.
+
+To his relief, it seemed his roots had learned from the previous experience and were latched around each mineral deposit. "Never underestimate the versatility and genius of an A-grade skill!" As {Deep Roots} was one of his two [A] grade skills, it was naturally a source of pride for Ashlock.
+
+"Sadly, the mineral deposits only help me dig deeper rather than improve my own cultivation..."
+
+Ashlock thought back to {Deep Roots} abilities. It allowed him to dig deeper and make tunnels. However, he hadn't tried the tunnel-making feature due to his low Qi reserves and only discovering one mineral deposit. But now, with so much ambient Qi surrounding him due to the runic formation and the many mineral deposits scattered throughout the mountain, he should be able to use that feature.
+
+"Well, here goes nothing!" Metaphorically closing his eyes, Ashlock willed the {Deep Roots} skill to work its magic. Ashlock felt the ground tremble as the roots bulged outward, causing the rock to crack in protest.
+
+"This doesn't seem very stable—" Ashlock's thoughts were rendered useless as he watched his now slightly hollowed roots open up and consume the loose rock, and then, like a very slow conveyor belt, the pebbles were carried within the roots.
+
+"But where can the stone go?" Ashlock traced the direction the rock was heading in his mind. It wasn't upward or downward. Rather it was sideways. "Does the skill plan to dispel the rock out the side of the mountain?"
+
+With anything tree-related, Ashlock would likely know the answer in a few days... if not months. Unfortunately, the rock being carried by the viscous sap within the roots seemed about as motivated to move as he was to stay awake, which was to say... not very motivated at all. "Reminds me of public transport—so bloody slow." Ashlock chuckled at his memories from Earth before regaining his focus.
+
+"Anything else to check up on?" Ashlock used his {Eye of the Tree God} to scout out the pavilion for anything interesting. "Oh look... the Koi fish in the pond have had children, and they seem rather large already."
+
+To Ashlock, no time had passed at all. One moment, he closed his eyes with half his body scorched and ruined, and the next time he awoke to a fully healed body. The rapid passage of time was jarring and hard to ground in reality, but little things like seeing baby fish in the pond let Ashlock comprehend the passing of time.
+
+Other than the new fish, some plants were added to the exotic garden, and some had grown slightly more mature. "Good to see my fellow plants are doing well."
+
+His roots were so expansive at this point that they ran below the entire pavilion, meaning some of his ambient Qi seemed to be helping all the plants in the courtyards bloom.
+
+Despite the pavilion's immense size, as usual, it was desolate of people. It was like an abandoned site that would soon succumb to nature, but a few traces of footsteps amongst the dust suggested some recent activity.
+
+Ashlock checked around the entire mountain, including the steps, and even peeked into the misty fog of the neighboring peak, but alas, there was no sign of Stella.
+
+Since there was nothing else to do, Ashlock summoned his system. "Alright, time to sign in."
+
+Idletree Daily Sign-In System
+
+Day: 2774
+
+Daily Credit: 766
+
+Sacrifice Credit: 0
+
+[Sign in?]
+
+"Wow..." Ashlock was aware that a lot of time had passed, but seeing it in numerical form really hammered in the fact that over seven hundred days had passed. "Now the question is... should I save up or spend now?" Ashlock sat there for a few hours, mulling over the decision. As a tree, he had patience and time on his side. There was no threat breathing down the back of his neck demanding he spend right away... so he should wait, right?
+
+The door to the pavilion swung open.
+
+Its creaking door broke Ashlock from his thoughts as a familiar but somewhat different face entered.
+
+"That is almost freaky..." The girl in Ashlock's mind didn't match up with the young lady.
+
+When he had last seen Stella, she was a thirteen-year-old girl who reminded him of a scared kitten, but she was now almost fifteen and walked with far more purpose and pride than before. Puberty was no joke as she had changed considerably in such a short time.
+
+Stella was a little taller, had sharper features, and the demeanor of a scared child was long gone. Her black cloak, which had seemed a little baggy and odd for a child to wear, now fit her form perfectly as she strolled into the courtyard.
+
+As she got closer while subconsciously twirling the black wooden handle daggers in her hands, her face was a cold mask, almost unrecognizable.
+
+Ashlock groaned, "Has she become one of those ice-cold beauties I heard so much about." Sadly it seemed to be the case as the girl that had once been so bubbly and full of life coldly appraised the courtyard, meticulously checking every runic stone underfoot as she walked.
+
+It wasn't until she was a few steps from Ashlock that her head snapped upwards, and her eyes went wide. The cold facade vanished, and Ashlock once again saw the vulnerable child with an odd obsession with a tree return.
+
+"Tree!" She practically threw herself forward and placed both palms on Ashlock's freshly healed trunk. "You took far too long to heal, so I built this runic formation for you! Hehe..." She nervously stepped back and rubbed her cheek as she surveyed the courtyard.
+
+"Hope you don't mind... I did have to destroy the rather scenic courtyard to make space for it, but it should be worth it!"
+
+Ashlock found the sudden change in her demeanor around him rather amusing—maybe even a little endearing. "Glad to see she is doing well..." When Ashlock had seen the cold look on her face a moment ago, he was worried the lack of his presence had sent her down a dark path...
+
+"So Tree! How have you been? Feeling better?" Stella leaned forward and patted his trunk—her blonde hair fell forward, revealing the red leaf earrings he had gifted her all those years ago. "Oh boy, do I have a story to tell you!"
+
+The young woman collapsed onto the bench, which Ashlock noticed had been upgraded to a lovely hand-crafted oak bench. Stella went to open her mouth—
+
+"So noisy!" Ashlock grumbled and skillfully dropped a large fruit on her head, causing the girl to yelp.
+
+"What was that for!" Stella shook her fist at the tree in a playful manner and giggled while biting into the fruit. "Mhm, yummy. Oh, speaking of food... I went hunting this year and have some snacks for you..."
+
+A ring on Stella's hand flashed with Qi, and suddenly the entire courtyard was pilled high with monster corpses of every type imaginable, and Ashlock could barely hold back the sudden surge of hunger.
+
+It was time to feast!

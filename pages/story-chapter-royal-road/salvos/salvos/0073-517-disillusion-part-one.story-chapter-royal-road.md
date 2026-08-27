@@ -1,0 +1,369 @@
+---
+id: f507d456-c647-5f27-80a2-edb6fba114b3
+page-type-slug: story-chapter-royal-road
+title: "517. Disillusion Part One"
+slug: 0073-517-disillusion-part-one
+partOf: salvos
+position: 73
+ownLength: 2232
+unit: words
+publishedAt: 2023-02-23
+link: "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1121580/517-disillusion-part-one"
+royalRoadId: "1121580"
+---
+
+517. Disillusioned Part One
+
+“And so it ends.”
+
+Sal whispered, watching as Belzu slumped over on the ground. The Lord of Lies was finally dead. After so long, this rivalry had concluded. And it was Salvos who came out on top.
+
+“I always believed in you, my dear daughter.”
+
+The Devil smiled as he peered into the screen. He felt like a proud father who finally got to see his daughter all grown up, instead of dying a terrible death at the hands of a giant bug Demon. It warmed his cold, dead heart, really. He couldn’t stop himself from smiling as he eyed his daughter.
+
+“But now, let’s see if you survive what comes next.”
+
+Chuckling, Sal leant back in his seat as the world began to collapse around Salvos. She stumbled back as the ground broke at her feet.
+
+“I do wonder how you’re going to escape this predicament. Maybe I should help you out…”
+
+He tilted his head back for a moment, then waved a hand dismissively.
+
+“Nah, it’s more fun when you don’t know what the outcome is gonna be. I’ll stick to watching, thanks.”
+
+Defeated [Hellprince of the Desolation (Lord of Lies) - Lvl 168]!
+
+More experience is awarded for defeating an enemy at least 10 levels above you!
+
+Less experience is awarded for defeating an enemy with the help of others!
+
+“Huh.”
+
+I paused for a moment, hearing the notification resound in my head. For a moment, I completely forgot that the world was breaking around me. I didn’t pay attention to the collapsing earth. I just stared at Belzu’s corpse.
+
+“So he really is dead this time.”
+
+But that wasn’t the only notification I heard. There were plenty more that had rang out before that, which I didn’t pay attention to because I had been so busy fighting. But there were a lot of notifications for me to sort through, for the wild Primeval Demons that I had fought hard to help bring down.
+
+Defeated [Hellabomination - Lvl. 175]!
+
+More experience is awarded for defeating an enemy at least 20 levels above you!
+
+Less experience is awarded for defeating an enemy with the help of others!
+
+To the wild Primeval Demons I had hardly helped with before it was defeated by others. Most of the damage I inflicted was mostly thanks to [The Call of Armageddon].
+
+Defeated [Archarachne - Lvl. 166]!
+
+More experience is awarded for defeating an enemy at least 10 levels above you!
+
+Less experience is awarded for defeating an enemy with the help of others!
+
+Defeated [Archarachne - Lvl. 169]!
+
+More experience is awarded for defeating an enemy at least 10 levels above you!
+
+Less experience is awarded for defeating an enemy with the help of others!
+
+Defeated [Chthonic Agaros - Lvl. 165]!
+
+More experience is awarded for defeating an enemy at least 10 levels above you!
+
+Less experience is awarded for defeating an enemy with the help of others!
+
+There were also the swarms of wild Demons and [Legions] and Archdemons I had killed either on the way to face Levithus, or just because they were caught by my stray spells.
+
+Defeated [Savage Agarat - Lvl. 141]!
+
+Experience is awarded for defeating an enemy!
+
+…
+
+Defeated [Vampyr Chiroptera - Lvl. 138]!
+
+Less experience is awarded for defeating an enemy at least 10 levels below you!
+
+And, lastly, there was Levithus. I hadn’t been the one to deal the finishing blow against him. That had been Scarlet. But I had whittled him down throughout the fight, along with Belzu. It was a three-way split, but still a hefty chunk of experience for me.
+
+On top of that, Levithus had been under the effects of his Grand Skill when he died. He was still transformed. And it wasn’t even like a [Changeling]’s fake transformation. He had truly embodied the levels and the Subspecies he had been given. So…
+
+Defeated [Cerberus (Hound of the Demon King) (Lord of Chaos) - Lvl. 181]!
+
+More experience is awarded for defeating an enemy at least 20 levels above you!
+
+Less experience is awarded for defeating an enemy with the help of others!
+
+He would have given me over 30 levels worth of experience at the start of the war. But considering that I had already been fighting non-stop for a while, I leveled quite a bit even before I fought Levithus.
+
+And now, I finally had the chance to briefly look through all my level ups.
+
+First of all, and less importantly, I had leveled up in a General Skill that I hadn’t leveled in a really long time.
+
+General Skill [Advanced Mana Manipulation] Level up!
+
+[Advanced Mana Manipulation - Lvl. 8] -> [Advanced Mana Manipulation - Lvl. 9]!
+
+Experience is awarded for leveling a General Skill!
+
+General Skill [Advanced Mana Manipulation] Level up!
+
+[Advanced Mana Manipulation - Lvl. 9] -> [Advanced Mana Manipulation - Lvl. 10]!
+
+Experience is awarded for leveling a General Skill!
+
+Additional experience is awarded for maxing a General Skill!
+
+I wondered if the reason it leveled now after so long was because I was fighting in an [Antimagic Field].
+
+Subspecies [Angelic Devil Princess] Level Up!
+
+[Angelic Devil Princess – Lvl. 150] -> [Angelic Devil Princess – Lvl. 151]
+
+Gained 5 Stat Points and 3 Skill Points!
+
+Subspecies [Angelic Devil Princess] Level Up!
+
+[Angelic Devil Princess – Lvl. 151] -> [Angelic Devil Princess – Lvl. 152]
+
+Gained 5 Stat Points and 3 Skill Points!
+
+…
+
+Subspecies [Angelic Devil Princess] Level Up!
+
+[Angelic Devil Princess – Lvl. 154] -> [Angelic Devil Princess – Lvl. 155]
+
+Gained 5 Stat Points and 3 Skill Points!
+
+Gained 1 Grand Skill Skill Point!
+
+I paused for a brief moment at that.
+
+“Huh.”
+
+But I didn’t waste any time processing it, instead moving on.
+
+…
+
+Subspecies [Angelic Devil Princess] Level Up!
+
+[Angelic Devil Princess – Lvl. 157] -> [Angelic Devil Princess – Lvl. 158]
+
+Gained 5 Stat Points and 3 Skill Points!
+
+Class [Draconic Apprentice] Level Up!
+
+[Draconic Apprentice - Lvl. 118] -> [Draconic Apprentice - Lvl. 119]
+
+Gained 2 Secondary Skill Points!
+
+…
+
+Class [Draconic Apprentice] Level Up!
+
+[Draconic Apprentice - Lvl. 124] -> [Draconic Apprentice - Lvl. 125]
+
+Gained 2 Secondary Skill Points!
+
+Altogether, I had leveled up 8 times in my Subspecies, and 7 times in my Class. I was impressed. However, I was also in a rush. So I quickly distributed all my Stats and Skill Points and Grand Skill Points before turning my attention to the issue at hand.
+
+Salvos (Secely’s Sentinel) (The Devil’s Daughter)
+
+Species: [Primeval Demon of Pride]
+
+Secondary Species: [Lesser God]
+
+Subspecies: [Angelic Devil Princess] - Lvl. 158
+
+Class: [Draconic Apprentice] - Lvl. 125
+
+General Skills:
+
+[Advanced Mana Manipulation] - Lvl. 10 (Maxed)
+
+[Corruption Resistance] - Lvl. 1
+
+[Identification] - Lvl. 6
+
+[Racial Skill: True Divinity] - Lvl. 1 (Maxed)
+
+[Racial Skill: Universal Language Comprehension] - Lvl. 2
+
+[Rest] - Lvl. 5
+
+[Wisdom of the Old Gods] - Lvl. 5
+
+[Title Skill: General Status Effect Resistance] - Lvl. 1
+
+[Ttle Skill: Invoke Wrath] - Lvl. 2
+
+[Title Skill: Protection of the Sentinel] - Lvl. 1
+
+[Title Skill: The Devil’s Grace] - Lvl. 1
+
+[Racial Skill: Divine Essence of the Angelic Devil Princess] - Lvl. 1 (Maxed)
+
+Stats:
+
+[Available Stat Points: 0]
+
+[Vitality]: 255 (+30) (+10) (+100)
+
+[Strength]: 255 (+30) (+10) (+100)
+
+[Endurance]: 255 (+30) (+10) (+3) (+100)
+
+[Wisdom]: 400 (+30) (+10) (+50) (+100)
+
+[Agility]: 440 (+30) (+10) (+5) (+100)
+
+Skills:
+
+[Available Skill Points: 9]
+
+[Angel’s Wings] - Lvl. 11
+
+[Barrage of Cinders] - Lvl. 20 (Maxed)
+
+[Divine Demon’s Mark] - Lvl. 20 (Maxed)
+
+[Divine Haste] - Lvl. 20 (Maxed)
+
+[Intimidation] - Lvl. 10 (Maxed)
+
+[Faux Limbs] - Lvl. 25 (Maxed)
+
+[Divine Nebular Construct] - Lvl. 25 (Maxed)
+
+[Divine Radiant Slash] - Lvl. 15 (Maxed)
+
+[Sacred Hellfire] - Lvl. 10
+
+[Salvo of Vanity] - Lvl. 25 (Maxed)
+
+[The Call of Armageddon] - Lvl. 10
+
+[The Holy Flames] - Lvl. 15
+
+[Passive - Angelic Premonition] - Lvl. 10
+
+[Passive - Weapon Mastery] - Lvl. 20 (Maxed)
+
+[Available Grand Skill Points: 0]
+
+[My Flame Shall Burn Until Eternity Ends] - Lvl. 2
+
+[Unused Skill Slot] x4
+
+Secondary Skills:
+
+[Available Secondary Skill Points: 0]
+
+[Draconic Fury] - Lvl. 15
+
+[Fragmented Pocket Dimension] - Lvl. 10
+
+[Full Phase] - Lvl. 9
+
+[Greater Teleportation] - Lvl. 20 (Maxed)
+
+[Manifestation of the Old Gods] - Lvl. 5
+
+[Truth Divination] - Lvl. 5
+
+[Warped Time] - Lvl. 20 (Maxed)
+
+[Passive - Dragon Scales] - Lvl. 10 (Maxed)
+
+[Passive - Master of Material Manipulation] - Lvl. 5
+
+[Passive - Weaker Regeneration] - Lvl.5
+
+And with that, I turned to face the ritual circle at my feet, narrowing my eyes.
+
+“Now, how do we stop this?”
+
+As I tried to figure it out, finally, the others came.
+
+Edithe sent a blast of white light streaking across the battlefield, wiping out the last of the wild Demons in her path. It was her [Vindication of They]. Her greatest Skill. Especially amidst a large battlefield where she could draw power from the deceased around her.
+
+But for whatever reason, it had been incredibly weak. The [Sentinel of the Elements] had tried to grasp for the wisping power around her— the essence of the dead faded away, as if it was being stolen by the earth. She didn’t understand what was going on at first.
+
+For a moment, she had been utterly confused. However, the realization settled in. As a former [Summoner], Edithe understood what was happening, perhaps faster than others even.
+
+Each and every death here was fueling the grand summoning ritual.
+
+“We can’t kill—”
+
+Edithe started as she spun around. But she paused. Her eyes grew wide when she saw the remnants of [Legions] and wild Demons scattering from the might of the United Coalition of the Human Lands. It didn’t matter if they stopped now.
+
+It was already too late.
+
+“Fuck!”
+
+She cursed and sprinted straight for the center of the summoning circle. It wasn’t easy. A powerful earthquake ripped through the ruins of Inor, and giant crevices tore through the ground. Dark spires rose to the sky, and they blocked her path.
+
+Edithe sprinted around all these obstacles, only coming to a halt for a brief moment as she saw a wounded figure stumbling ahead of her.
+
+“You’re…?”
+
+Scarlet Vermillion leant against a spire, clutching at her shoulders, clearly wounded. She looked towards Edithe who just called out.
+
+“Hey, we’ve got to do something about this! Where’s Salvos? Where’s Mori?”
+
+“Mori is… dead.”
+
+The Red Rose replied before shaking her head. Edithe blinked in shock, but Scarlet just pushed herself off the spire and staggered ahead.
+
+“I’m not sure where Salvos went. I’ve been searching for her, but I got lost when the spires…”
+
+“I… right.”
+
+Edithe pursed her lips before snapping her gaze to the strongest source of magic. She nodded at Scarlet and offered a shoulder.
+
+“I think it’s this way—”
+
+Together, the two women made their way through the crumbling landscape. They managed to avoid the rising spires, and even escaped the forming crevices. They arrived right before a large domed room rising from the ground, where a vast spell circle laid at its base.
+
+Salvos stood there, right next to the corpse of a large bulbous creature. It was shaped almost like an insect. Edithe narrowed her eyes.
+
+“Isn’t that… Belzu?”
+
+Edithe wondered aloud, but quickly dismissed the thought. Salvos wasn’t the only one here. Orgaf, Helena Warshade, Alder Ashford, Kaitlin Darkhelm, Thaddeus Reimar, and Jola Wilf looked like they’d just gotten here no more than a minute ago.
+
+There were a few other figures present. A hulking Cyclops, one of the triumvirate leaders of the Forsaken Company, and even Daniel Song stood there. More and more people were joining, ranging from Diamond Ranked adventurers to high-leveled Generals.
+
+Surprisingly, Clayton Skyshredder wasn’t anywhere to be seen. Maybe he was going to arrive soon, or maybe he was trying to work up a solution.
+
+Edithe didn’t know. Peris Dolonia joined the fray a few moments later, but the redhead didn’t care to take note of who else was arriving. She just ran up to where Salvos and Daniel were standing, glancing between them.
+
+“Guys, this ritual, it’s being powered by—”
+
+“We know.”
+
+Daniel spoke over Edithe, nodding grimly. She blinked as he gestured towards the Great Tempest Archmage of Mavos Academy.
+
+“Archmage Warshade is trying to find a solution to stop it as we speak. I’m sure she can figure something out.”
+
+Indeed, Helena spoke in conference with Alder Ashford, Thaddeus Reimar, and a multitude of other [Mages]. Edithe barely heard what they were saying as they spoke so quickly in their discussion.
+
+“We need to act now.”
+
+“I am unsure how much time we have left.”
+
+“Dismantling this spell will take…”
+
+“Perhaps through combination casting we can—”
+
+But a single booming voice spoke over all of them. A figure descended from the sky, and Edithe blinked. Heads turned, looking up. Even Helena Warshade paused to stare at the descending figure, standing atop a cloud.
+
+Clayton Skyshredder, the Headmaster of Mavos Academy, and the highest-leveled [Mage] in the world arrived at the scene. He was finally here. He would help put a halt to this ritual… right? That was what Edithe had thought.
+
+Unfortunately, what he said was not what they hoped to hear.
+
+“This ritual cannot be stopped. It is already too late. We have to prepare ourselves for the final battle.”
+
+And Edithe blinked.
+
+“What…?”

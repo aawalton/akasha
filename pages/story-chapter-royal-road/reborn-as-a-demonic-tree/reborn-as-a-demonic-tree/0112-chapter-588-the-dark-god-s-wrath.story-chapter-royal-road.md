@@ -1,0 +1,185 @@
+---
+id: 67020802-4eb3-5bff-b419-fcdbac88cc3c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 588: The Dark God's Wrath"
+slug: 0112-chapter-588-the-dark-god-s-wrath
+partOf: reborn-as-a-demonic-tree
+position: 112
+ownLength: 2596
+unit: words
+publishedAt: 2026-07-01
+link: "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3618605/chapter-588-the-dark-gods-wrath"
+royalRoadId: "3618605"
+---
+
+Caelan's eyes burned.
+
+He desperately blinked against the blinding light that had swallowed the Grand Hall whole, stumbling backward until the edge of a banquet table caught him across the lower back. Glass toppled and smashed in his fall. Spirit wine stained his hands and bled into his robes, but that wasn't his concern.
+
+After a few breaths, the world finally sharpened from vague shapes, and he could see the aftermath of the explosion. There was confusion and shouting as the cultivators, still trapped in the Grand Hall, stumbled about, trying to find their family or an escape.
+
+However, among the chaos, two things became immediately clear.
+
+Fen, who had seemingly been possessed by the Crowned One, was gone.
+
+As was Stella Crestfallen.
+
+The Monarchs floating overhead hadn't moved and seemed to have already recovered from the flash of light. For one suspended moment, the most powerful cultivators in the Celestial Empire stared in silence at the empty throne where the daughter of the All-Seeing Eye had stood a heartbeat ago.
+
+A dreaded feeling overcame Caelan. Having taken over as head of the Stonecrest family a few hours ago, he knew that an empty throne wasn't a good thing. It was a void that attracted greed and war.
+
+"She's gone," Droskan Virelios said with a hint of relief, a grin widening. "The Crowned One has freed us from that vile spawn of the Dark God." He turned to the three Monarchs who had taken Stella's side. "It would seem you three will regret betraying the Celestial Empire—"
+
+He froze and looked around as something in the air shifted. It wasn't subtle—a pressure that felt physical crashed down on the Grand Hall, flooring everyone who was below the Monarch Realm in an instant.
+
+Caelan struggled to breathe under the pressure. He strained against the table, only for it to give way under his weight, cracking in the middle and collapsing with a crash. Nobody glanced his way.
+
+Everyone was focused on the ceiling, where a wound in reality was splitting wide enough to swallow a building. Caelan didn't even know a portal could be that big, but what peered through shocked him further—an eye set within a vast expanse of black bark stared down at them. It wasn't a normal eye, like an animal's, a human's, or a monster's. It was physical yet almost spiritual, like staring into a star that served as a gateway to hell. The more he looked into the eye, the more lost he became.
+
+It stared back.
+
+Desolation Qi, so pure it burned the very air, billowed out of the portal, forming a cloud of death that hung over the Grand Hall as it loomed over them.
+
+"He's finally showing himself," Droskan Virelios declared as he mobilized his water Qi to push back the desolation. "The All-Seeing Eye is here!"
+
+Caelan was in agreement. It didn't take a genius to guess that this eye belonged to the dark god, the All-Seeing Eye—the very being that had laid waste to Floridawn and sent Stella to assassinate his father.
+
+The All-Seeing Eye ignored Droskan, the eye swiveling to focus on the empty throne, where Stella had been moments ago. It pulsed with cold analytical curiosity, the pressure in the room increasing further.
+
+"Where is she?" a hundred overlapping voices thundered inside his own mind. It was cold and authoritative.
+
+Caelan broke out in a cold sweat. "I don't... I don't know."
+
+Why is he asking me? he wondered, but soon realized the voice wasn't targeting him. Everyone was looking around as if trying to find the source of the voice.
+
+"WHERE IS SHE?" the voices roared, this time sounding more panicked.
+
+Droskan Virelios laughed. "She's gone! The Crowned One took her, and now we have no reason to fear you."
+
+The eye slowly moved to focus on Droskan, making him flinch.
+
+"And why wouldn't you fear me?"
+
+"Stella could kill Monarchs in an instant," Droskan said. "You cannot. Otherwise, you wouldn't have let the Crowned One take her," he reasoned with a grin. "Even Faelorian took so much of your power to kill, and you let me walk freely. Admit it, you are weak and rule with fear over strength."
+
+The All-Seeing Eye stared at Droskan for an uncomfortably long moment before replying.
+
+"It would seem you've mistaken my restraint for weakness," the All-Seeing Eye said with chilling calmness. "Until now, I've been slow and methodical with my conquest of your lands. I was focused on unimportant things, like ensuring an empire worth ruling remained after I was finished. You see, killing billions of innocents goes against my conscience."
+
+Droskan scoffed. "You, a dark god with a conscience? Don't make me laugh. You murdered millions of mortals to overtake Floridawn, and your monsters butchered thousands of Empyrea Guards that bravely defend our borders. You even sent Stella to murder Monarchs in their own cultivation abodes despite us doing nothing wrong. So I ask you, what is this conscience you speak of?"
+
+"You're right," the All-Seeing Eye said, silencing Droskan. "My conscience faded long ago." The eye glanced at the empty throne. "In truth, I didn't hold back out of a moral obligation or because I respect the lives of the innocent mortals. No, I held back for her. Taking over the Celestial Empire and freeing the World Tree was her goal to see to completion. I was just here to support her along the way."
+
+The eye returned to looking at the floating Monarchs.
+
+"But with her gone, so has my reason for restraint. This war is now mine to wage and end," the All-Seeing Eye said, and a bone-chilling coldness ran through Caelan as the eye seemed to loom closer. "Until Stella is returned to me, I'll kill you all."
+
+"What if she cannot be returned because the Crowned One has killed her?" the woman representing the Conclave asked. "Is there a possibility for peace?"
+
+"Peace?" the All-Seeing Eye repeated the word as if it were a foreign concept. "Peace is the desire of those who have something to protect. Without Stella, I have no purpose left in this life other than to bring the nine realms to ruin."
+
+The portal snapped closed, leaving only a smog of desolation and a chilling silence behind.
+
+Droskan's focus lingered on the ceiling for a moment before looking down and meeting the opposing Monarch's gaze. Despite the All-Seeing Eye's speech, he seemed amused.
+
+"Such hubris! For a dark god whose Qi only registers at the peak of the Nascent Soul Realm, he sure speaks nonsense. Not even the Chairman could go against us all, let alone bring the nine realms to ruin." He extended a hand to the opposing Monarchs. "You were likely all forced to his side. In light of the current situation, I'll ignore your misjudgment if you swear allegiance to me. The Chairman promised me that should I retake Floridawn, it would become mine. I could leave you three in charge of it in my stead."
+
+"That is a good offer, Droskan. I want to switch sides," Grand Elder Ren said, floating toward Droskan.
+
+Droskan seemed thrilled. "Grand Elder Ren! I always knew you were a man of great character and worthy of leading the Chairman's fleets. While the recent loss against the All-Seeing Eye was a stain on your record, it does not sully your past achievements."
+
+Grand Elder Ren didn't smile as he took Droskan's offered hand and pulled him closer.
+
+He then spat in his face.
+
+"Droskan, you always were a fool," Ren said coldly.
+
+"What—" Droskan's eyes widened in shock from being spat on, only for his face to contort in pain, and a soul-curdling scream escaped his mouth.
+
+"The All-Seeing Eye isn't a being whose capabilities you can limit to a mere realm of cultivation," Grand Elder Ren said with contempt, kicking the screaming Droskan to the floor. "Consider yourself my tribute to his rule."
+
+Droskan crashed onto a table and rolled to the floor in agony. Caelan was in disbelief. How could being spat on reduce a Monarch to their knees like this?
+
+"What did you infect me with, Grand Elder Ren?!" Droskan yelled from the shattered table as he tried and failed to stagger to his feet.
+
+"Soul poison," Grand Elder Ren replied simply. "Made from the blood of the Dark God."
+
+"His... blood?" Droskan was clawing at his throat where the poison had hit, but it didn't seem to offer him any relief. Likely because, as the name suggested, the poison targeted his soul.
+
+"Someone end him," Grand Elder Ren said to his allies.
+
+Thal'korr wordlessly dove down at Droskan.
+
+"No!" Droskan protested, trying desperately to command his Qi and summon his domain, only to seemingly fail due to the poison rotting his soul.
+
+Caelan was thrown against a nearby pillar by the shockwave as Thal'korr pulverized the defenseless Droskan. Thankfully, his earth Qi and tough body allowed him to get to his feet and witness Thal'korr straighten up among the cloud of dust with a bloody golden scepter in hand.
+
+"Droskan Virelios has been killed in the name of the All-Seeing Eye," Thal'korr announced, his voice echoing from the helmet. He pointed at the Monarchs overhead with the scepter. "Who is next?"
+
+The Monarchs who had been on Droskan's side dispersed away from Thal'korr and Grand Elder Ren in a panic.
+
+Mistress Veilshade spoke up.
+
+"Why do you still oppose us? Haven't you noticed yet, Monarchs of the Empire, that nobody from the All-Seeing Eye's side has so much as suffered a scratch? Besides Stella being taken by the Chairman, only those on the All-Seeing Eye's side possess the ability to swiftly kill other Monarchs," she glanced at Grand Elder Ren. "While Grand Elder Ren's poison has always been potent, it was the Dark God that granted him the strength to inhibit Droskan with ease."
+
+She narrowed her eyes at the other Monarchs. "Strength in numbers won't save you. The All-Seeing Eye will win."
+
+I've got to get out of here, Caelan concluded. No matter what. He scrambled to his feet and took flight, making use of his high Nascent Soul Realm cultivation to soar through the vast Grand Hall. He wasn't the only one—many others, including Elders and Patriarchs of minor families, were making a run for it. Besides the destroyed festivities, Caelan noted that the golden lines covering the hall were brighter than before and still shimmering.
+
+It would be beautiful if he didn't know the meaning behind them.
+
+Caelan's plan to flee soon hit a wall.
+
+The marble steps leading to the surface were flooded with desolation Qi and stained with blood and corpses that were withering to dust before his very eyes. Shadowy fiends summoned by the shadow angel in service to the All-Seeing Eye lurked at the top of the staircase and seemed to be dragging some of the corpses elsewhere.
+
+I had hoped those monstrosities in service to the Dark God would have fled from the light, Caelan thought, his jaw tightening as he saw the shadow angel and the six-armed void creature slaughtering anyone who dared brave the stairs. While neither seemed to be in the Monarch Realm, neither was he. Trying to force his way through would lead to a gruesome fight and likely end.
+
+He needed everyone else to go first and distract the monsters.
+
+Which is probably what they are all thinking too, Caelan thought as he looked down at the hundreds of nobles below, stuck between the staircase of hell and the fight about to break out between the Monarchs.
+
+Many were gathering around the proud griffin.
+
+"I'm from House Solmend! We have been loyal to your master for centuries," one man begged the griffin. "Please, I implore you to provide safe passage out of here for myself and my family—"
+
+"Hey!" another Elder shouted, trying to shove the House Solmend Elder aside. "I'm from House Caldwen and am far more loyal to the Chairman than House Solmend ever was! Take us instead!"
+
+"You dare?!" the House Solmend Elder bellowed. The two Elders soon began bickering, yet the proud beast didn't even acknowledge them—its focus was on the standoff occurring above the empty throne.
+
+Caelan couldn't blame the Elders for trying. Nobody here was in the Monarch Realm, and only the Chairman's pet griffin possessed the strength to force its way out of here.
+
+If only my father were here, Caelan thought with a hint of shame. If House Stonecrest came to these people's aid, they could collect a great number of favors. Wait, what am I thinking? Favors are worthless in the face of the All-Seeing Eye...
+
+Which gave him an idea. He landed, pushed past the other nobles, and stepped onto the first step with his arms raised. "I surrender," he called out to the shadow angel. "I wish to join the All-Seeing Eye!"
+
+If you can't beat them, join them, you fools.
+
+A wave of insults came from behind him, yet none dared to strike him in the back. Likely because they wanted to see if he would succeed more than their supposed undying loyalty to the Celestial Empire.
+
+The shadow angel levitated down the steps, scythe lazily at its side. It paused a few steps above him and seemed to appraise him.
+
+Maybe they will accept—
+
+"The window for surrender has passed," the shadow angel said simply. "With the Princess kidnapped, this place will drown in darkness until she is recovered, dead or alive."
+
+"But I'm willing to switch sides?!"
+
+"The Dark God's techniques are rather costly to use at the scale required to swallow an empire," the shadow angel said, raising the scythe and pointing it at Caelan. "You, along with everyone else here, will serve as fuel for his wrath."
+
+Caelan didn't even have a chance to plead his case as a loud crack echoed through the room behind him.
+
+His face paled as he glanced over his shoulder, and his mouth hung open in disbelief. The ancient polished stone floor of the Grand Hall was gone. In its place, a rift to the abyss had yawned open. Twisted beings, adorning tattered robes of the Empyrea guard, crawled out and began rushing toward them.
+
+Yet, that wasn't all. Roots as thick as the columns holding up the ancient ceiling grew upwards out of the abyss, curling inwards over the empty throne and the disputing Monarchs like the fingers of a closing fist. Some Monarchs were fast enough to avoid the enclosure, only for void lightning to silently arc out from the abyss and strike them. They desperately conjured techniques to block the onslaught or defensive items, but a few got hit.
+
+The All-Seeing Eye had taken to the battlefield with murder on his mind.
+
+Caelan looked up and wished he hadn't.
+
+Portals overhead tore open, and from each, a powerful being descended into the Grand Hall that was rapidly descending into further chaos. From one, he saw a human who seemed half-dragon, wearing robes that shimmered like ink. From another, a spider made from a cloud of silver ash and wearing a halo-like crown.
+
+Instead of heading toward the empty throne like the spider, the dragon of shimmering ink turned and floated toward them. The moment his golden eyes settled on the griffin, the mighty beast finally reacted to the situation.
+
+It flinched.
+
+"A feathered bird dares be so proud in my presence?" the dragon smiled, showing inhuman teeth. "If you didn't have answers that could quell my master's rage, I'd love to see how you taste."

@@ -1,0 +1,281 @@
+---
+id: 19246147-b3ef-50d7-b240-0bf60e96d533
+page-type-slug: story-chapter-royal-road
+title: "Chapter 601: Upon the Altar"
+slug: 0125-chapter-601-upon-the-altar
+partOf: reborn-as-a-demonic-tree
+position: 125
+ownLength: 3225
+unit: words
+publishedAt: 2026-08-07
+link: "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3783762/chapter-601-upon-the-altar"
+royalRoadId: "3783762"
+---
+
+Stella froze at the top of the stairs to the throne.
+
+"Why are you here?" Stella asked Janus. She had mercifully cast this bastard out of her life, yet here he was, sharing the same prison as her.
+
+Janus held her gaze. "Because I was invited."
+
+"By whom?" she asked, narrowing her eyes at him.
+
+One of the six silhouettes peeled itself off the wall and emerged into the room's light. They looked just like Janus and came to stand beside him. However, the more Stella looked between them, something about the second Janus was off. While they looked identical, their posture, smile, and gaze were imitations.
+
+"Mirrored One, you claimed to have found someone who can strip Stella of her soul link," The Crowned One said, his tone icy. "Who is this weakling you have brought me?"
+
+"Your old chosen one," the fake Janus said. "Don't you remember him?"
+
+The Crowned One looked ever so slightly puzzled, and Janus's cold expression shifted to annoyance at the lack of recognition from the Crowned One.
+
+Stella's attention rapidly shifted between The Crowned One, her brother, and this Mirrored One who looked like her brother.
+
+What were they talking about? How could Janus strip her of the soul link with Ao Lingxuan? Why was he here?
+
+It had to be a trap of some kind.
+
+Did they bring him here to shake my resolve? Maybe they hoped to torture him in front of me so I would relinquish my soul link? But then why would he willingly come in here if he knew that was the case?
+
+"Well, no matter," the Mirrored One said when the Crowned One failed to remember. He patted Janus on the back. "The point is, he has the Crestfallen bloodline. Naturally, his is inferior to Stella's," he glanced up at her and smiled. "But still serviceable for your plans."
+
+"Ah, the inferior one. Yes, I remember this chosen one now," the Crowned One said, nodding to himself. "You're the one who escaped with Stella under the Still One's negligence and caused this mess."
+
+Janus scowled at that.
+
+The Crowned One floated before Janus.
+
+"Kneel."
+
+Janus fell to his knees at the Crowned One's feet, and chains sprang up to bind him in place.
+
+"Good boy," the Crowned One said softly. "So much more obedient than your insufferable sister. Now," he disappeared, and Stella felt a chill run down her spine as a presence arrived behind her, "let's free you of that pesky soul link. Shall we, my vessel?"
+
+Stella felt fingers clasp her neck, and her world went spinning. She hit the ground beside the kneeling Janus, denting the stone. She felt nothing, as usual. The pain was transferred to Ao Lingxuan, and she could only assume Sol was keeping the dragon alive, as he should have died many times over with how much torture Stella had endured.
+
+"Brother," she hissed, looking up at him. "I let you go. So why... why are you—" A foot on the back of her head silenced her by ramming her face into the ground as if she were an insect to be crushed.
+
+In here, the Crowned One was king, and Stella could do nothing but shoulder the humiliation. For days, she had already endured this treatment, but somehow it was far more shameful now that she had an audience.
+
+"I'm here to finish what I started," Janus said calmly. "You don't need to worry."
+
+"That doesn't explain—"
+
+"Silence." The Crowned One commanded.
+
+Stella felt her Crestfallen bloodline stir in retort, but unlike before, it didn't rise up to fight the command with the same vigor. A force squeezed her neck, and she found herself suddenly unable to speak.
+
+The Crowned One snorted. "Finally, after seeing your brother being obedient, your bloodline learns its place."
+
+Power rippled from him, and Stella saw, out of the corner of her eye, ancient runic script dance through the air. The Crowned One had done this many times during her imprisonment as he tried to sever the tie between her and Ao Lingxuan, but until now, it had defied his attempts.
+
+This time, the runes did not dissipate after failing their purpose.
+
+"With Janus here, I no longer have to destroy the soul link," the Crowned One mused. "I only have to tear it free and give it a new home."
+
+The runes danced past her vision in long strokes, hungry and searching. She had seen the runes do this many times before, but they felt oddly threatening this time. They brushed her chest, slid down her arm, and caressed her soul, and—
+
+Stella's breath hitched the moment it happened. The soul link, the one tether she had clung to for survival, was seized by the runes. They had never managed to do that before.
+
+No, no, NO! Stella refused to accept it. This can't be possible!
+
+She tried to fight against the runes invading her soul, but she was face-down in the dust of a soul-space, her cheek pressed flat against cold stone with the Crowned One's power radiating through her. Her bloodline surged to resist in her stead with the desperation of someone protecting their last possession.
+
+The runes faltered.
+
+The Crowned One's foot pressed harder onto the back of her head. "Mm," he hummed. "An insufferably stubborn little vessel you are. Even in this situation, that ancient blood in you refuses to yield." He leaned closer. "I can't wait for it to soon be mine."
+
+His Qi pressed down through his foot, through her skull, through her struggling soul.
+
+The runes regained their vigor. They dug their claws into her soul link and, with a soul-reaching pain, tore it free. Stella gasped as the runes dragged the soul link across the floor as if it weighed the world, and sank it into Janus's chest like a needle threading cloth.
+
+Stella felt the connection to Ao Lingxuan cut.
+
+It wasn't pain, it was worse. The horror of knowing what was to come settled deep into her bones. For days, she had endured this prison with the certainty that she couldn't be harmed or killed. That certainty was now gone, and she was suddenly vulnerable.
+
+The Crowned One lifted his foot and looked down at her with an expression of dawning delight at her terror.
+
+"Ah. There she is," he said softly. "There's the look my vessel should have. Not one of defiance, but one of fear."
+
+He raised his hand.
+
+Stella saw the strike coming and could do nothing. The bloodline didn't fill her with the strength to defy his commands. The aether didn't answer her call, and there was no Ao Lingxuan in some distant place to shoulder her pain.
+
+The backhand caught her across the cheek like lightning given weight, and it hurt.
+
+Real, mortal pain. Her vision sparked as the taste of iron filled her mouth.
+
+She lay there blinking blood out of her eye and could not, for a moment, remember how to breathe.
+
+The Crowned One laughed. A full, throaty laugh, the laugh of a man who had finally been handed everything he had wanted. The room glowed golden with power.
+
+"At last," he sighed.
+
+He crouched in front of her. Took her chin between his thumb and forefinger and lifted her bleeding face to his.
+
+"Do you feel it, Stella?" he murmured, almost tender. "That's the pain of resistance. I created you, crafted you from the World Tree's sap to be mine. I should thank that weed of a father for fattening you up with resources, and that soul link for keeping you flawless for me."
+
+Stella tried to spit in his face.
+
+She only managed to drool blood down her own chin.
+
+The Crowned One smiled and stood. He flicked the blood off his fingers like it had soiled him.
+
+"Take her to the throne."
+
+The chamber answered him.
+
+Stella felt golden chains coil around her wrists, her ankles, her waist, and lift her—not roughly, but with the same careful reverence as servants handling something precious. They carried her up the steps. The fractured throne shifted as they neared, its broken stone rearranging into a flatter slab, an altar more than a chair, ready to receive her.
+
+She was carefully laid out on it.
+
+The gentle chains suddenly hardened. She tried to fight against them, but it was futile. Their immense weight alone kept her limbs pinned.
+
+From the foot of the throne, the Mirrored One's voice drifted up. "You should breathe and try to relax, Stella. The body transfer is much smoother when the vessel doesn't fight its fate."
+
+She turned her head, blood-matted hair falling across her face, and found the Mirrored One smiling at her with Janus's appearance. Janus himself was still kneeling at the foot of the steps. She could feel the soul link she had once relied on tied to him now.
+
+Janus, you bastard.
+
+She tried to yell, but the Crowned One's silencing pressure was still on her throat. Nothing came out. The only sound that filled the chamber was the thrashing of her chains as she tried to escape.
+
+The Crowned One climbed the steps with the slow, ritual gravity of a coronation. He reached the altar and looked down at her, splayed across it. "I've dreamed of this moment, when the ancient Crestfallen bloodline would be finally mine," he said, and pressed his palm flat to her brow.
+
+Burning light poured in.
+
+It was not like any pain she had ever known. It was not pain at all, in the way pain normally is. It was the sensation of someone else's self trying to occupy the same space she occupied. A great, gold-bright pressure that pushed at the boundaries of Stella and forced its way in.
+
+Her bloodline flared, weak now, exhausted, half-betrayed. It pushed back anyway despite the hopeless situation. It was the Crestfallen bloodline, and it would fight till the end.
+
+The light kept coming.
+
+Stella's back arched against the chains. The scream the Crowned One had stolen from her throat tried to come out anyway, a strangled, voiceless cry. The light continued to pour into her, conquering her soul and pushing her out of her own body.
+
+The experience was so horrifying that she couldn't even muster a thought. Every fiber of her being was working in tandem to retain her sovereignty.
+
+Just when all seemed lost, from very far away, like a sound traveling underwater, she heard her brother say one word.
+
+"Stop."
+
+The light did not stop.
+
+She heard the chain rattle as Janus stood. She heard the Mirrored One's quiet, amused, "Oh?"
+
+She heard the heavy thud of shoes on stone steps.
+
+Then she heard Janus shouting, full-throated and ragged in a way she'd never heard him.
+
+"I said, STOP!"
+
+A body slammed into the Crowned One, and the pressure on her brow vanished.
+
+Stella's eyes snapped open.
+
+Janus was on the steps of the throne, the golden chain still trailing from his wrist, and he had thrown himself between her and the Crowned One.
+
+The Crowned One staggered backward a single step, expression contorting from control to incandescent rage. His face was wrinkled, having aged a hundred years in an instant, likely due to his soul invading Stella's body, partially leaving the old one behind.
+
+"YOU INFERIOR—" he began.
+
+"Take me instead," Janus snarled.
+
+He grabbed the Crowned One's withered wrist with both hands and yanked it back toward him, slamming the Monarch's glowing palm flat against his own forehead. The golden light, not knowing who to target, flared dangerously around them.
+
+"This is my birthright, not Stella's! Take me, not her!" he demanded.
+
+The Crowned One stared down at him with disgust.
+
+"You were once my chosen vessel, until a better one showed itself before me. I will settle for nothing but the best."
+
+"But I was still chosen," Janus retorted. "Just because a 'better' one exists, does not discount me!"
+
+Stella, chained to the altar, could only stare up at the back of her brother's head as he stood between her and the Crowned One.
+
+Just when she thought the Crowned One would kill Janus, an obsidian-dark mirror appeared in the air above the altar, and from it spilled a wave of cold, silver-veined light that washed down across Stella and forced the Crowned One to stagger back and cover his eyes.
+
+The golden chains binding Stella to the altar shattered like dropped glass.
+
+Stella didn't know why, but she was freed. She rolled sideways off the altar and down the steps until she hit the floor, gasping at the shock of being able to move again—only for a new chain to settle around her wrist before she could even rise to her feet. This one was obsidian, silver-threaded, and didn't carry the feeling of being woven by the Crowned One, as it didn't demand dominance like the golden ones.
+
+She looked up and found the one who had freed her.
+
+The Mirrored One was standing over her, smiling with an imitation of Janus's smile, and the obsidian mirror at his back rippled like still water.
+
+"What do you want?" Stella tried to say, but it came out in rasps.
+
+"I want what everyone wants." The Mirrored One said, brushing a stray bloody strand of hair behind her ear with a tenderness that turned her stomach. "You, my dear. I want you."
+
+On the throne, the Crowned One had finally noticed her temporary escape into the hands of another.
+
+His head whipped around. His crown blazed so brightly that Stella had to squint.
+
+"MIRRORED ONE, YOU DARE STEAL FROM ME?" He thundered, pointing an accusing finger.
+
+The Mirrored One straightened and brushed dust off his sleeve. "The vessel was always going to be mine. You just did the work of dragging her here for me."
+
+"You insolent sin! How dare you always strive to take what is mine!" the Crowned One roared, pushing Janus aside.
+
+"Ours," the Mirrored One corrected. "We are fractured pieces of the same fallen god, so what is yours is also mine—"
+
+"NONSENSE!"
+
+Stella was barely listening. Her gaze was fixed on the steps of the throne, where her brother stumbled beside the Crowned One. Obsidian mirrors, likely created by the Mirrored One, had appeared in a halo around the pair to trap the light that was growing more chaotic by the second.
+
+Janus had turned his head, very slightly, toward her.
+
+He was smiling. The nutcase was actually smiling. While the Crowned One and the Mirrored One continued shouting at one another amid the chaos, Stella called out to her brother.
+
+"You didn't need to do this for me, Janus. I could handle myself until Tree came to save me."
+
+"I didn't do this for you," he said, looking away. "I did it for me."
+
+Stella felt the hatred she had built up for him break as he stood where she should have been.
+
+"You fucking liar."
+
+A tear brimmed at the edge of her eye. She had shouldered the humiliation and torture of the Crowned One for days. Even if it hadn't hurt, it had been mental torment. Finally, someone had come to save her—but it hadn't been Tree, Maple, Larry, or anyone from the sect.
+
+It was her brother, whom she had cast away.
+
+"You've only ever lied," she choked, "from the moment we met."
+
+"That's true," he chuckled. "But there was one thing I never lied about." He looked at her with the warmth of an older brother. "I never stopped caring about you. Even when I was a coward and ran. Every time you almost died on that peak, I was—"
+
+He never finished as the obsidian mirrors shattered under the strain. The Crowned One tried to cancel the ritual, but it was too late. The golden light, with nowhere left to flow and no vessel left to claim, lunged for the only path still open to it.
+
+It poured into Janus.
+
+For one bright, terrible second, her brother's spine arched as the sin of pride's body turned to dust and the Crowned One tried to wear him. His eyes blazed gold. His mouth opened, and a thousand voices tried to speak through it at once.
+
+Stella tried to haul herself up the stairs to help him, but the Mirrored One pulled her back with his obsidian chain. She glared back at him and now saw how deeply wrong their imitation of Janus was.
+
+Janus's screams filled the chamber as he failed to fulfill his destiny. The Crowned One's soul, rejecting the body it had been forced into, tore through Janus like a heart demon, intending to get out.
+
+The Mirrored One ensured the Crowned One couldn't reach Stella. He summoned more mirrors and forced the Crowned One's soul through the soul link to Ao Lingxuan. The entire chamber shuddered as the Crowned One's immense soul was sent down the soul link and out of the soul space.
+
+Janus's body, emptied, slumped sideways across the throne turned altar. The golden chain on his wrist dissolved into nothing. His eyes were wide open, but soulless. Stella knew in an instant her brother was gone.
+
+"Your envy has doomed us," one of the silhouettes said, peeling itself from the wall. It seemed hollow. "Without us unified, our hold over the World Tree will weaken, and this space will collapse."
+
+The Mirrored One ignored the silhouettes' warning and selfishly ascended the steps to the throne, dragging Stella by the chain with him. He grabbed the slumped Janus by the neck and hurled him away like trash.
+
+"You are not permitted to lord over us, Mirrored One." A figure draped in gold said coldly. "We must bring the Crowned One back if we are to continue our joint rule."
+
+Stella's gaze was locked onto Janus, who was sprawled out on the floor like a discarded rag. Below him, the ground began to crack. The soul space was dimming and falling apart. She even noticed a few of the silhouettes fading away to somewhere else.
+
+"Silence, Gilded One. You only speak ill of my actions because you didn't have the guts to do it yourself," the Mirrored One sneered and tried to command the altar to transform back into a throne, but it refused to listen. "I have the Crestfallen vessel, so the throne should be mine," he snarled. Grabbing Stella's chin, he forced her to lock eyes with him—the fake wearing Janus's skin. He loomed closer and licked her. Specifically, the blood on her chin.
+
+Stella reeled back in disgust, but the Mirrored One didn't seem to care. He let her fall to the ground and scurry backward, away from him.
+
+Then something deeply unsettling happened. The Mirrored One's skin bubbled and wiggled as if infested with maggots. His skin tore apart and reformed. Within seconds, she was no longer staring at an imitation of Janus.
+
+She was staring at herself.
+
+"Now, I am the chosen one," the Mirrored One said with a face-splitting grin that was hers. The Mirrored One kicked her down the steps and enjoyed her makeshift throne for a moment.
+
+Until a tree root crashed through the ceiling of the soul space and a voice Stella hadn't heard in a long time thundered into the space.
+
+"Stella!"
+
+It wasn't Ashlock's.
+
+It was her mother's.

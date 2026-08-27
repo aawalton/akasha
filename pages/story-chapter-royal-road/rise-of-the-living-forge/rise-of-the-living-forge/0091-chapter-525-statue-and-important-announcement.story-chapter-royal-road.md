@@ -1,0 +1,117 @@
+---
+id: a5633942-4c1c-5c55-afd2-7fc632a80360
+page-type-slug: story-chapter-royal-road
+title: "Chapter 525: Statue & IMPORTANT ANNOUNCEMENT"
+slug: 0091-chapter-525-statue-and-important-announcement
+partOf: rise-of-the-living-forge
+position: 91
+ownLength: 1645
+unit: words
+ownProgress: 1645
+publishedAt: 2025-12-03
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2815375/chapter-525-statue-important-announcement"
+royalRoadId: "2815375"
+markedReadAt: "2026-06-29T20:01:20.749Z"
+---
+
+Kien’s prediction proved to be right. The sound of rolling thunder heralded Arwin’s advance through the dungeon as he rung the walls like gongs, tearing the poor skeletons from their sleep before subsequently smashing them into a thousand little pieces.
+
+It quickly became clear that the monsters in this dungeon hadn’t been prepared for a strategy like this. Their camouflage with the walls was perfect. These things were basically ambush predators. And when the element of surprise was torn from them in the booming crash of Arwin’s hammer, there really wasn’t much at all they could do.
+
+The group made fast progress through the dungeon. With Arwin at the head, they marched deeper and deeper into the earth. The crown guided Arwin through room after room, past enemy after enemy.
+
+None of them put up anything that could properly be considered a fight against the Menagerie’s team. Expert Tier or not, Arwin alone was enough to give every single one of the enemies they faced a run for their money. When Olive and Kien were added into the mix, even the bosses they challenged fell like dominos.
+
+The few injuries they did take were quickly dealt with by Anna. Their advance was practically unstoppable… but none of them let their guards down. They all knew why they were here. The basic dungeon wasn’t the real threat.
+
+Their goal was what came after it. The vault buried somewhere in the ground beneath them. That would be where the reward was, and it would also be where the greatest of the monsters would be lying in wait.
+
+Time pressed on. Arwin and his group advanced, but they never pushed harder than they were comfortable with. They still had quite some time to complete the dungeon, and rushing ahead mindlessly was a great way to slip up.
+
+This was still an Expert Tier dungeon. Respecting how dangerous the monsters could be was the best way to make sure those monsters never got a chance to truly show them the hard way.
+
+But even with the breaks they took every few rooms, the Menagerie moved at an incredible pace. It wasn’t long before they were deep beneath the ground. Something around four hours had passed by the time they all turned a corner and found themselves staring at a craggy wall.
+
+“Wrong turn?” Olive guessed, glancing around. “It’s a dead end.”
+
+Arwin looked down at the golden path at his feet. It led straight into the wall before him. His brow furrowed as he raised his gaze again and shook his head. “No. This is the right way.”
+
+“Ah,” Kien said. “Of course. The old wall-door. It’s been a while since I’ve seen one of these. They felt out of fashion a while ago.”
+
+“What?” Olive asked. “Fashion? Dungeons have fashion?”
+
+“Well, we call it fashion.” Kien waved his hand before himself. “It’s really more of just a pattern — but this Vault was placed here intentionally. That means someone hid it, be it the Mesh or some group from ages past. Either way, there were trends in which how things get hidden. Hence… wall-door.”
+
+“Wall-door,” Olive repeated. “What exactly is that? A door that’s a wall?”
+
+“Exactly,” Kien said. “Think about it. If you’re trying to really hide something, would you really make a grand entrance to it? Or would you put it out of the way in a spot that everyone else would just pass by?”
+
+“So this is the entrance to the vault?” Anna asked. She stepped forward to examine the scuffed up stone. “I don’t see anywhere for the crown to go. It seems pretty solid.”
+
+“Old trick,” Kien said. He approached the wall alongside her and pressed his cheek to the stone. Then he ran a finger along the surface of the craggy rock. After a moment, he took a step back and nodded. “Yeah. There are abnormalities in the stone. Can you give the wall a love tap with your hammer? Not too hard, please. If you somehow manage to break it, it could trigger a trap.”
+
+Arwin shrugged. Hitting things was, after all, his specialty. Everyone backed out of the way as he stepped into position. After making sure nobody could get hit by a random piece of flying debris, Arwin gave Caldera a lazy swing.
+
+The head of the hammer rung against the stone with a deep, brassy thud. A thick cloud of dust and debris exploded out from the stone and right into his face. Arwin coughed, waving it away. Pebbles rained to the ground with a loud clatter.
+
+Kien stepped into the dust before it had had a chance to fully dissipate. He ran his hand along the stone, then turned and gave them a nod. The particles of dust slowly settled down to reveal the door beyond.
+
+There were deep grooves within the stone that had been previously completely invisible. They weren’t fully connected, but Kien dug his thumb into the stone and pried another chunk of rock free easily.
+
+“The channels are stuffed with debris and binding agents. All nonmagical,” Kien said as he flicked the stone to the ground. “It’s the best way to avoid detection. Looks natural and has no magical trace whatsoever. Most people rely on their abilities very heavily. So when you make something purely natural… well, it slips under a lot of noses.”
+
+“I’ll be,” Anna muttered. “Impressive, Kien.”
+
+“Look,” Olive said as she joined Kien beside the door. “That ring in the center of the wall looks pretty crown-shaped, doesn’t it?”
+
+Arwin stepped up alongside them. There were still a few chunks of rock and debris stuck within the gouge, but it was a simple enough matter to pull them free now that the majority had been shaken loose.
+
+Olive was right. There was a very suspicious ring in the very center of the stone. A ring that was exactly the same size as the crown currently lodged on his upper arm. Arwin reached up to it, pulling the circlet free and raising it before the stone.
+
+It looked like it would be a perfect fit.
+
+“Right. Good find, Kien,” Arwin said. “Prepare yourselves. We don’t know what’s waiting for us after this point. There could be a trap for whoever opens the vault. Don’t let your guard down and get behind me.”
+
+Everyone moved to follow his orders. Arwin summoned his Gehenna armor around himself. He felt the Infernal Armory lurking in the corner of his thoughts, prepared to join him in battle at a moment’s notice.
+
+Arwin waited a moment longer to make sure everyone else was prepared. Then he slotted the crown into the door.
+
+It slid in smoothly. There was a faint click. A shimmer of energy passed across the stone door like a ripple rolling across the surface of a lake. And then there was nothing.
+
+A second ticked by.
+
+Then a second click echoed through the hall. Fallen debris bounced against the ground as a faint tremor rolled past Arwin’s feet. The door shifted, rising up from the ground and rumbling toward the ceiling with the grating crunch of rusted gears put back to work after years of rest.
+
+Golden light spilled out into the hall from behind the door. It was bright enough to sting Arwin’s eyes. He squinted as his vision adjusted to the intensity of the light and took a step back, readying Caldera.
+
+Arwin’s eyes went wide. The first thing he caught sight of within the room was gold.
+
+Not light.
+
+Real gold. Heaps and heaps of it, piled across the floor in flowing waves that rose to mounds twice his height. Firelight reflected off the piles to pierce into their eyes, coming from massive braziers suspended in the air above.
+
+But gold wasn’t the only thing in the room. Weapons, jewels and chests brimming with riches covered the ground. They’d been tossed every which way like they were nothing more than random scraps of trash.
+
+And sitting in the center of the entire room, looming more than three times Arwin’s height, was a massive statue. Its body was made of pure gold, detailing trimmed with shimmering diamond and blood-red rubies.
+
+The statue sat with its legs crossed and palms braced against its knees. It had been clad in the robes of a monk that couldn’t possibly have been more opulent if its creator had tried. It wasn’t exactly a humble depiction.
+
+Upon the monk’s head sat a brilliant crown carved of a glossy green jade. It looked like the entire piece had been carved from a single chunk of precious stone. There wasn’t a single fault or break within it, and the technique that had gone into it was incredible.
+
+Even from where Arwin stood, he could see faint waves shimmering within the jade. They seemed to shift and move with the crackle of the firelight around the massive statue.
+
+For several long seconds, nobody said a word. They all stared into the room in mute disbelief. When the crown had mentioned a Vault, Arwin had pictured a great stash of weapons. It was clear the others had as well.
+
+This was no vault. It was the horde of some ancient dragon.
+
+“Godspit,” Olive whispered. “We’re so fucked.”
+
+“That statue is definitely going to try and kill us,” Kien breathed, unable to tear his eyes away from the room before them. “Something is hiding the abilities of the weapons in there as well. I’m confident many of those are magical. They shine far too much to be anything but.”
+
+“Only one way to find out for sure,” Arwin said.
+
+“You mean about the statue?” Anna asked.
+
+“Oh, no. The statue is definitely going to try and kill us,” Arwin replied. “So. Shall we?”
+
+Everyone exchanged a look. Then, with Arwin at the lead, they strode into the ocean of gold.

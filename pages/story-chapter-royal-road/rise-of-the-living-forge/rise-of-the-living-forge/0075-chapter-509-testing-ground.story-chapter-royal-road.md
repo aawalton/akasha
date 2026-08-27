@@ -1,0 +1,153 @@
+---
+id: 51d0b5b6-baad-51dc-8e52-e8ab13ae6e0d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 509: Testing Ground"
+slug: 0075-chapter-509-testing-ground
+partOf: rise-of-the-living-forge
+position: 75
+ownLength: 1762
+unit: words
+ownProgress: 1762
+publishedAt: 2025-10-29
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2714570/chapter-509-testing-ground"
+royalRoadId: "2714570"
+markedReadAt: "2026-06-29T20:00:49.918Z"
+---
+
+Thane’s eyes snapped open and he drew in a sharp gasp, bolting upright like he’d been stung in the behind. Cold sweat coated his back and stuck his shirt to his back like it had been pasted on. He could feel his heart slamming in his chest with such intensity that his ribs creaked and groaned in their attempt to contain it.
+
+The only thing around him was darkness. He sat on something chilly and ever-so-slightly damp. Confusion assaulted his mind. Thane swallowed, trying to find his bearings.
+
+What? I was… wasn’t I in Esmerelda’s shop? What happened? Was it all a—
+
+“Don’t disgrace me with such a disparaging thought,” a cruel female voice hissed in Thane’s ear. “No dream could ever hope to hold one such as I.”
+
+Ah. Definitely not a dream.
+
+“Vireth?” Thane asked, blinking heavily. He rubbed his eyes as he fought to slow the thunderous beat of his heart. “What’s going on? Did I pass out? What happened the others? Are they—”
+
+“Oh, relax,” Vireth said with a weary sigh. “They are fine. The woman with more skin than leather for armor went back with the Curse Broker. And even if I had wanted to, I would have been unable to harm that old bag of a woman.”
+
+That, surprisingly, actually calmed Thane slightly. He swallowed and took a steadying breath. Then his brow furrowed. Esmerelda had made it pretty clear that they would be in trouble if she angered the devils in her weapons. That didn’t quite seem to line up with what Vireth was saying.
+
+“Esmerelda is stronger than you?”
+
+“We have a contract,” Vireth said stiffly. She clearly didn’t much like Thane’s chosen conversation topic. “And she fulfilled her bargain. I got my wielder. That makes things… difficult.”
+
+Thane couldn’t help but notice that Vireth didn’t say whether Esmerelda was stronger than her or not. He also got the feeling that it wouldn’t be very good for his health if he pressed the matter any further.
+
+“Where am I?” Thane asked. “And what happened after I passed out?”
+
+“In an alleyway, you dolt,” Vireth said with a dry laugh. “There’s just a tarp above us blocking out the afternoon sun.”
+
+Thane blinked. He rubbed his eyes, then felt around the ground beneath him. Cold, rough cobblestone met his fingers. “Oh. I thought…”
+
+“What, you were in the depths of the underworld?” Vireth asked dryly.
+
+“Yes,” Thane said. He stood up and plucked at the back of his shirt, unsticking it from himself with a grimace. “Or something like that.”
+
+“What good would that be? I didn’t seek a wielder out so I could go run off to some musty old dungeon or hellish afterlife,” Vireth said.
+
+“I guess that makes sense,” Thane said. “But… how did I get into an alleyway? Did Esmerelda just leave me here?”
+
+“I walked you here,” Vireth replied. “You needed to rest, and I don’t know where your room is. So I brought you here.”
+
+Thane paused. Then his brow furrowed. “…why didn’t you just ask Esmerelda where my room was? It’s in the Devil’s Den.”
+
+“I’m not asking that old witch for a favor,” Vireth snapped. “The floor was perfectly comfortable, was it not?”
+
+“Not really,” Thane said. “But I suppose it doesn’t matter anymore.”
+
+There was a short pause. Neither of them spoke for several awkward seconds. Then Thane cleared his throat.
+
+“I’m… going to go back to Esmerelda’s shop, then. I have some more inventory to do.”
+
+“That’s what you’re spending your time on?” Vireth asked. The displeasure in her voice was evident. “What more reason do you have for such a thing? You have me.”
+
+“I wasn’t doing it to get something. I promised I would help Esmerelda.”
+
+“She doesn’t need help,” Vireth said. “But you do.”
+
+Thane blinked. “I do? What do you mean?”
+
+“Start walking. We are not far from your street,” Vireth said. “And you don’t have to respond to me out loud. I have access to your surface level thoughts so long as your hand is on the hilt of my blade, and you’re the only one who can hear my voice unless I will it otherwise.”
+
+Thane worked his way out of the alley, using the wall as a guide. He stepped out into the dim orange light of the evening, squinting slightly as his eyes readjusted to even that faint light. His hand drifted down to the hilt of the swords strapped to his side.
+
+A trill of cold energy shot through his arm. His eyes widened and he nearly yanked his hand back before he stopped himself. Vireth probably wouldn’t take too kindly to such a reaction — but his sword had never done that before.
+
+Thane looked down at the weapon.
+
+The sword that had once been Lightfinger was no more. Or perhaps it would have been more accurate to say it was more. The blade had turned a pitch black and the coils of stylized wind engraved across its pommel had transformed into a brilliant gold that ran all the way down to the tip of the razor-sharp blade.
+
+It took Thane a moment longer to realize that the Mesh wasn’t rising up to identify the weapon.
+
+“Whoa,” Thane whispered. “What did you do? How come I can’t see any information on it anymore?”
+
+“I entered the more suitable of the two swords you bore,” Vireth replied. “It’s better than I expected, actually. And I consumed the magic within it to take its place. You can’t see my powers, boy. You’re nowhere near strong enough for that. And I’m not just going to let you peek. You’ll earn it in time.”
+
+“Oh,” Thane said. “I kind of liked that sword, though. It was a gift.”
+
+“Its main purpose was to automatically pull itself into the right positions in a fight. Do you really think that any enchantment could possibly fight better than I?”
+
+Thane thought about it for a moment. “I’m not sure. Maybe?”
+
+Vireth let out something that might have been a choked cough. “Why, you—”
+
+“What?” Thane asked as he walked down the street, reorienting himself. Vireth had been right. They weren’t far from the tavern. “It was an honest answer!”
+
+The devil’s sigh rolled against Thane’s ears. Even though she wasn’t actually standing next to him, her mere attention was enough to make the hair on the back of his neck stand on end.
+
+“I am aware,” Vireth grumbled. “It is the reason I chose you. And your class… it is quite fascinating. Turn left.”
+
+“I know where we are,” Thane said. “What do you mean about my—”
+
+“Then start thinking and stop speaking so nobody thinks you’re mad,” Vireth said. “And you are not using your class to its fullest extent.”
+
+“I—” Thane caught himself, then coughed.
+
+I’m using it! It’s just that I need to go to a dungeon so I can—
+
+“What are you on about?” Vireth asked. “What part of your class requires you to be in a dungeon?”
+
+I mean… I have to be in a fight, don’t I? And I have to analyze monsters and stuff. That’s the point.
+
+Vireth clicked her tongue. “Maybe I asked the wrong question. What is your purpose, Thane? Why do you exist within the Menagerie? Because I have observed enough about this strange guild to know that they would not recruit someone out of mere pity.”
+
+Thane stopped walking.
+
+I… I don’t know. I never really thought about it.
+
+“That does not absolve you of an answer,” Vireth said. “You serve a purpose. That is how a guild works. Those who do not serve a purpose are removed. A chain is only as powerful as its weakest link. And a link that does not even realize it is a link — that is nothing more than a piece of scrap metal.”
+
+I don’t know what I’m supposed to say! I don’t have any real talents! I guess they want me to help figure out how to fight monsters that they might not have a good understanding of?
+
+Vireth’s sharp laughter sliced into Thane like a blade.
+
+“A veteran group of adventurers that needs a child to tell them how to fight? No, Thane. That is not your purpose. Your class isn’t nearly that powerful. No. I would imagine they chose you largely for similar reasons that I did. The Mesh gave you a class to further your natural talents, not restrict them.”
+
+Thane blinked.
+
+My natural talents? What are you talking about? I don’t have any special talents.
+
+“You are impressively dense,” Vireth said. “If I were a more patient devil, I would probably find great enjoyment in teasing this out. But I am not. You have the eyes of a starved hawk, Thane. You pick up on things.”
+
+But Rodrick already does that. He’s like the Menagerie’s information-guy. And other stuff. I think. I don’t actually know what Rodrick does.
+
+“He serves a different purpose. Information gathering is a subtly different path from where your talents lie,” Vireth said. “Art has a similar path. Both of their skills lie in manipulating information to achieve a goal. They work with large-scale operations and focus on accomplishing goals. But do you know what they do not do?”
+
+Thane swallowed.
+
+Nothing? I’m pretty sure Rodrick is a genius.
+
+“Wrong!” Vireth snapped in his ear, so loud that Thane flinched. “No mortal is a god, Thane. You are all fallible. You all die. I can promise you that. And Rodrick is no exception. He focuses on gathering information about people. But you — you seek a different level of knowledge. You can predict the future.”
+
+Thane stopped walking.
+
+What are you talking about? I can’t do any such thing.
+
+“What do you think the purpose of research is?” Vireth asked with a laugh. “All that knowledge you love hording has to be put to a purpose. It holds the future within it. The statistics that write what will be. Rodrick and Art can manipulate the present, but you are positioned to unveil what will be… or manipulate it into becoming what we desire. That is your role. You are the manipulator.”
+
+I… don’t think I understand. Being a manipulator doesn’t really seem like something I want to—
+
+“If you do not understand, I will demonstrate,” Vrith said. An eager note entered her voice. “The Devil’s Den will be a suitable testing ground. I have been eager to witness it. Take me there, and I will show you why you were selected as my wielder.”

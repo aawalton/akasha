@@ -1,0 +1,239 @@
+---
+id: 1640ec68-2b45-580d-9c3f-beba2c8669e4
+page-type-slug: story-chapter-royal-road
+title: "518. Disillusion Part Two"
+slug: 0074-518-disillusion-part-two
+partOf: salvos
+position: 74
+ownLength: 2624
+unit: words
+publishedAt: 2023-02-25
+link: "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1122584/518-disillusion-part-two"
+royalRoadId: "1122584"
+---
+
+518. Disillusion Part Two
+
+Daniel Song froze when he heard Clayton’s words. Everybody did. The nearby [Mages] gaped at the Headmaster of Mavos Academy, in complete disbelief of what was said. Everyone from the panting Saffron Merryster to the pursed-lip Peris Dolonia were in shock. Even Salvos didn’t say a word.
+
+“Now get moving.”
+
+Clayton continued as he flew up with his cloud. He glanced down at the rumbling ground, before shaking his head.
+
+“We want to form a defensive formation around the castle by the time it is fully summoned.”
+
+Helena Warshade exchanged a glance with Thaddeus Reimar. They looked like they were both at a loss for words, but felt a need to protest. However, before either of the [Mages] could speak up, Daniel stepped forward.
+
+“What are you talking about, Clayton?”
+
+The [Hero] was the first to break from his stupor. He narrowed his eyes at the highest-leveled [Mage] in the world. But Clayton just shook his head, replying simply.
+
+“We have no time to waste. It’s over. It cannot be stopped.”
+
+“But we have time!”
+
+A second voice protested. It was Edithe. She joined Daniel, gesturing at the rumbling earth around them.
+
+“If we didn’t have time, we’d be dead by now. So we clearly have time!”
+
+She spoke as she held Clayton’s gaze. But the Headmaster of Mavos Academy was adamant. He drifted down, raising his sword as it picked a thin thread out of the air. A glowing mana thread, visible even to Daniel’s eyes, appeared.
+
+“This ritual will be completed in ten minutes. Fifteen minutes at the very most. Even if all the greatest Archmages of the Human lands worked together in dismantling this ritual, it will take far too long.”
+
+Clayton Skyshredder let out a heavy sigh, releasing the mana thread.
+
+“Half an hour, at the very least. Likely more. And that is nevermind the fact that we are exhausted.”
+
+His words made everyone present freeze in fear. Kaitlin Darkhelm, Alder Asfhord, Scarlet Vermillion. Even Orgaf was taken aback. A susurration swept over the gathered crowd. It spread quickly as more and more high-leveled individuals like Laux Lionfist joined the scene.
+
+Clayton just spoke, staring down into the ritual circle.
+
+“It will be a fruitless effort. Our time is better spent preparing for the inevitable. The Demon King is coming, and we will have to do everything we can to stop him when he comes through.”
+
+Daniel heard these words, and he gritted his teeth. He knew nothing about magic. He was sure that Clayton was right. But still, the [Hero] couldn’t accept it. Once again, he was the first and only one to protest against this plan.
+
+“We can’t just give up. We can’t run away. We have to try something out.”
+
+He strode forward, raising the Sword of Alexander. Daniel pointed at the Headmaster of Mavos Academy and spoke for all to hear.
+
+“We are exhausted. Many of our friends are dead. We have already used up our best Skills in battle. This final battle you speak of— it’s just suicide. You’re just accepting defeat.”
+
+Clayton furrowed his brows. Edithe nodded, joining Daniel’s side. It wasn’t just her either. Orgaf the Thief of the Golden Scales grunted and stepped forward. Saffron Merryster nodded at them. Amanda, Laux Lionfist, Kaitlin Darkhlem, Kacey, Titus, and many more.
+
+But none of the high-leveled [Mages] argued. Neither Thaddeus, nor Helena, nor Jola stood next to the [Hero]. And neither did Salvos.
+
+That made Daniel paused uncertainly. He was unsure why she seemed so unnaturally silent. But he kept his gaze fixed on Clayton Skyshredder.
+
+The Headmaster of Mavos Academy sighed, opening his mouth to say something. However, before he could, a lumbering figure stepped forward. An Elite Ranked Cyclops.
+
+“If I may interject…”
+
+He cleared his throat, and heads turned to face him. Daniel frowned as the Cyclops glanced down at the ritual with his single eye. It glimmered a golden color.
+
+“I am Revis Umontos. The Seer of the Cosmos. I can discern truths from lies. I can see your greatest secrets. I can even peel back the past, and gaze moments into the future.”
+
+Revis gestured vaguely around him with all four of his arms.
+
+“And I see nothing but truth in the esteemed Skyshredder’s words. As things stand right now, the summoning ritual will go through.”
+
+“That’s…”
+
+Daniel pursed his lips. But he realized he was quickly losing support. He glanced back, hearing the whispers running through the gathered crowd.
+
+“I have heard of this Cyclops before…”
+
+“They say that he has never spoken a falsehood in his life.”
+
+“His divination magic is unparalleled!”
+
+Shaking his head, Clayton Skyshredder drew back once more. His gaze darkened as he spoke with a grim voice.
+
+“We can only try for better things. Fighting a loss cause is pointless. Wasting time here will only leave us unprepared when the Demon King arrives. We cannot let the Mortal Realm be overrun by Demons. Now let us move.”
+
+Daniel looked back towards the crowd, watching as in an instant, all the support he had gathered vanished. The [Mages] ascended into the air, quickly joining Clayton Skyshredder, ready to leave the ritual circle. None of them said anything. But their actions were loud enough. They just hung their heads, shame-faced in defeat.
+
+It was ridiculous. Daniel didn’t understand it. Defeating the Demon King wasn’t possible. There was no way they’d be able to win, when the Immortal King Alexander himself was slain. No one here was over Level 200. Sure, there were a few dozen Elites. But that would be no different than if Daniel went up against a group of Platinum Ranked adventurers.
+
+It would be a slaughter.
+
+He clicked his tongue, watching as the gathering thinned, most of them beginning to disperse in line with Clayton’s orders. Sure, Edithe, Orgaf, Saffron, and a few others remained. But they couldn’t do anything about the ritual.
+
+Daniel had to draw the others back in somehow. Otherwise, it was purely suicide. But he couldn’t. He had tried, and he had failed. While he was a [Hero], he wasn’t the highest-leveled [Mage] of Humankind. He needed
+
+So he turned to the only person who could support him. The only thing above a [Hero] to the people. A Lesser God.
+
+“Why aren’t you saying anything, S—”
+
+And the [Hero] paused. Daniel eyed his companion. The silver-haired girl. She just stood there, her face shadowed over, staring at the ground, no words said. He blinked.
+
+“Salvos…?”
+
+She slowly raised her head and gave him a weak smile.
+
+“Sorry, Daniel. This was my fault…”.
+
+“What are you… talking about?”
+
+Daniel stared at her, utterly befuddled.
+
+It was my fault. Belzu had been right. It really was too late.
+
+I had hoped it wasn’t. I thought that if Clayton Skyshredder got here, things would be fine. I believed that he could have done something about the summoning ritual. But I was wrong.
+
+And now, because of my own mistakes, we had to face Regnorex and his greatest army.
+
+Belzu was right. But I couldn’t accept his plan, either. Because he was going to sacrifice everyone here to the Demon King, including my companions. I wasn’t going to let them die. I couldn’t let them die.
+
+I raised my head, facing those still gathered around me. Daniel, Edithe, Saffron, Orgaf, Amanda, Hadrian, Crocus… there were more of them. But we were few compared to the many who were trailing away from the ritual site.
+
+I eyed Clayton Skyshredder as he slowly flew off. He hadn’t gotten far yet. He was still closeby. It was almost like he was hesitating. Like he was doubting his own decision. All the [Mages] were. Perhaps, if given a chance, they might… turn back.
+
+I looked back down at the summoning circle at my feet and took in a deep breath.
+
+“Salvos, are you alright?”
+
+A voice drew my attention. Edithe’s voice. She peered into me with a worried look. Daniel stood next to her— both my companions waited for me. Even though staying here could spell their demise.
+
+If they died here, it would be my fault. It was my responsibility.
+
+And it wasn’t just them. I glanced past both Daniel and Edithe as they fussed over me. I swept my gaze over Saffron who watched the rest of her kin trailing away from the ritual circle. I saw Orgaf standing there, jaw clenched and glaring at Clayton’s back.
+
+These were my companions. They acknowledged me. And somewhere far away, watched over by my last surviving clone, was Willy and the baby Wyverns. Novis, Bellum, and Oriur. Even further beyond was Rachel. Sakura. And in the Spirit Plane were Mistshard, Druma, and Lily.
+
+No one else knew me for who I truly was. So they didn’t matter to me. I could simply cast [Greater Teleportation] now to escape with my companions— to save those I cared about.
+
+And yet—
+
+“Clayton Skyshredder!”
+
+I burst into the sky as I yelled out, wreathed by iridescent flames. Daniel and Edithe blinked. They looked up at me with wide eyes. My companions called after me. And I turned away from them.
+
+Instead, I faced the Headmaster of Mavos Academy as heads turned to face me. Those I recognized, and those I hardly knew. They all stared at me as I hovered in the sky, just above the dark domed roof of the Demon King’s castle.
+
+Clayton Skyshredder paused as he stared at me. For whatever reason, he drifted closer. Maybe because he hoped I had some solution to our predicament. And I did.
+
+I remembered how I ended up here in the Mortal Realm in the first place.
+
+“I can delay it! I can delay the summoning ritual!”
+
+I shouted for all to hear. And that drew their attention. They listened to what I had to say. They listened to me.
+
+“What are you suggesting, Salvos? How are you going to delay the summoning ritual?”
+
+The Headmaster of Mavos Academy furrowed his brows as he flew my way. I eyed the bearded man, before casting my gaze past him. I saw all the faces staring at me hopefully below.
+
+All of them knew my name. They heard about me. But they didn’t know me.
+
+Jaakko, Zack, Helen, Hadrian, Amanda, Sophia, Cless, Gabriel, Ismail Zuland, Crocus Merryster, Cinne Merryster, Lamarr, Gallus, Amanda, Laux Lionfist, Alder Ashford, Kaitlin Darkhelm, Titus, Ze-jai.
+
+None of them acknowledged me. Only Helena Warshade knew my truth, but she rejected me.
+
+But still, I could save them all. I brought my hands up, tugging at the strands of mana weaving the complex grand ritual.
+
+“To delay the summoning, we just have to expend its magic. It no longer has a source to draw from. No more deaths, and no more ritual circles.”
+
+Clayton narrowed his eyes at me as I explained my plan. By the look on his face, I knew I was right.
+
+“So if I reverse the summoning spell and change its target to me, you should have enough time to dismantle it after, right?”
+
+I began altering the magic as Belzu did, and the runes at the ground shifted. Daniel blinked. Edithe paused. Saffron’s jaw dropped. And Orgaf stared at me with wide eyes. They heard what I said in utter disbelief.
+
+But Clayton just shook his head.
+
+“That will not work. This summoning ritual is designed to target only Demons. Your plan will fail.”
+
+The ground rumbled beneath me. An image rippled into existence on the ground, showing the visage of the Demon King. But no one even paid attention to it. They just looked on at Clayton and I.
+
+I closed my eyes, even as I continued making minor amendments to the ritual. I couldn’t make big changes because I was unfamiliar with how it worked. But with my Class, I could at least alter its spatial properties.
+
+I raised my head, my eyes snapping open.
+
+“I am aware of that. But my plan will work.”
+
+I spoke simply as the image reflected in the ritual circle blurred. I stopped manipulating the threads of mana. I was done. There was only one thing left to do.
+
+“And how will it work, Salvos? How are you going to alter the very crux of the summoning ritual in such a short amount of time? We stand a better chance of dismantling it than wasting time on that!”
+
+Clayton’s gaze bore into me, his voice booming. I looked back down. I stared at my companions. Orgaf had taken a while to accept me, but he did now. Saffron also initially feared me, only to warm up after a while.
+
+Edithe hated me when we first met. And yet, she willingly fought alongside me for so long. Perhaps out of necessity, but it was still a form of acceptance, which only grew stronger when she finally started caring for me.
+
+And even though Daniel tried to kill me in our first encounter, he was also the first Human to show me kindness. He was the fastest Human to ever acknowledge me as Salvos.
+
+It was always the same. It always took time. But eventually, I was always accepted by my friends. So I turned away from my companions, sweeping my gaze over the sea of faces staring at me one last time, before looking back up at Clayton Skyshredder.
+
+I smiled as I pointed a thumb at myself, speaking loud for all to hear.
+
+“I don’t have to do any of that. Because—”
+
+And iridescent flames wisped wildly off my body. My Divine Essence shone brightly, and I floated like a star in the sky, gazed upon by all.
+
+Was it because I was a Lesser God?
+
+The fire burned all over my body, scalding me with its blazing intensity. But instead scarring me into a shade of dark crimson, the flames simply peeled back at my outer shell, revealing an ethereal pale skin underneath.
+
+Was it because I was Secely’s Sentinel?
+
+I brushed my fingers through the divine flames, and cracks formed on my forearms. Like the heat was cutting deep into me, but blood refused to pour out. My elbows were layered with ash as my hands were stained black.
+
+Was it because this plan had to work?
+
+Sharp claws emerged from my fingertips, and a set of crown-like horns curved out of my forehead. My pupils thinned as Clayton’s eyes went round.
+
+“You’re…”
+
+For a moment, the world froze, and I felt a burden ease off my shoulders. Despite the rumbling earth, and despite the tearing space, everyone— from friends like Zack to strangers like Zejai— simply stared at me in shock, completely speechless. Even my four companions below looked at me with wide eyes.
+
+No! I screamed internally at myself. It’s not because of any of those reasons! It was because of one reason and one reason only. This plan would work because… because…
+
+I hovered in the air as the rainbow-colored flames dissipated, pulling back like a folding curtain. There I was— all of me for all to see. Horns, claws, and scales. My Subspecies no longer hidden, and my true self finally revealed.
+
+“Because I am Salvos, and I am a Demon!”
+
+With that, I dove straight into the summoning ritual, activating [Full Phase]. I passed over the sea of shocked faces. I heard my companions calling after me, screaming my name.
+
+“Salvos!”
+
+But their voices faded in the distance as I plunged into the blurred image on the ground. Space tore around me, and darkness shrouded my vision. In an instant, I was engulfed by a numbing nothingness. And the only voice I heard was the voice in my head.
+
+Now Leaving [Nexeus: Mortal Realm].

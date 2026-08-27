@@ -1,0 +1,325 @@
+---
+id: 679b9cec-70c6-53ef-98d6-92ddd779ef6a
+page-type-slug: story-chapter-royal-road
+title: "392. Apologies and Excuses"
+slug: 0057-392-apologies-and-excuses
+partOf: salvos
+position: 57
+ownLength: 2685
+unit: words
+publishedAt: 2022-07-27
+link: "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/957411/392-apologies-and-excuses"
+royalRoadId: "957411"
+---
+
+392. Apologies and Excuses
+
+The hunter stalked its prey through the quiet forest.
+
+A dark shadow was cast over the clearing as a cloud passed overhead. A soft breeze whispered through the leaves and between the bushes as a little white figure popped out.
+
+It was a small animal. A rabbit, one might surmise. With a pair of droopy ears and a bushy tail. If you saw it, you might’ve thought it was cute. A harmless little thing. Completely none-the-wiser to its true nature.
+
+But Novis knew what it was. He crawled through the bushes as he observed the rabbit make a little hop. It craned its neck back, and he caught a glint of its blood-red eyes. A horn protruded from its head, and a pair of vicious fangs revealed itself as it made a squeaking sound.
+
+It was a dangerous monster.
+
+A terrible creature that infested this land. His land. Novis had to protect his territory. He had to keep his mama safe. And also, he was hungry. So, as it slowly turned away from him and revealed its back, he leapt at the opportunity.
+
+He struck it at the back with his nascent claws, knocking the rabbit into a tree. It didn’t squeak in pain, instead growling as it got back up and faced him. Novis gulped, nervously backing up. Then he steeled himself. He let out a mighty roar as he challenged the bunny. It accepted his challenge.
+
+This would be a legendary battle. One for the ages. Where everything was on the line. They charged at each other.
+
+“Look! I think Novis is winning!”
+
+“Just started.”
+
+“Aw, come on. Give him some encouragement.”
+
+“No.”
+
+“You’re mean.”
+
+“Sh. Watch.”
+
+The bunny moved fast. It bounced up to Novis at extreme speeds, lashing out with its horn. He anticipated that, already reeling back with a blow. He struck it in the stomach as he barely sidestepped its attack. It squealed in pain as he grabbed it by the leg and slammed it to the ground.
+
+But it was very strong. It struggled in his grip, threatening to break free. He brought his other hand down, holding it in place as it gnawed on his skin. Novis nearly dropped the bunny in pain. It hurt. It hurt so much.
+
+However, he couldn’t give up. Not now. He had so much to live for. His life flashed before his eyes. The memories he shared with his siblings. His uncle. His mama. All of it would be gone if he fell here.
+
+The baby Wyvern fought through the pain, pinning down the bunny’s head. It glared up at him as it tried to swing at him with its horns, but he kept it still. Then he bit down hard.
+
+The bunny squirmed. It shrieked in pain as his fangs tore through flesh. But despite its struggling, he forced his jaw shut. And with every ounce of his strength, he ripped its head off. Blood squirted off the decapitated bunny’s neck, splashing over him as he bathed in his victory.
+
+Defeated [Horned Rabbit - Lvl. 11]!
+
+Abundant experience is awarded for defeating an enemy at least two times your level!
+
+Subspecies [Hatchling Wyvern] Level Up!
+
+[Hatchling Wyvern - Lvl. 5] -> [Hatchling Wyvern - Lvl. 6]!
+
+Gained 3 Stat Points!
+
+Subspecies [Hatchling Wyvern] Level Up!
+
+[Hatchling Wyvern - Lvl. 6] -> [Hatchling Wyvern - Lvl. 7]!
+
+Gained 3 Stat Points!
+
+Subspecies [Hatchling Wyvern] Level Up!
+
+[Hatchling Wyvern - Lvl. 7] -> [Hatchling Wyvern - Lvl. 8]!
+
+Gained 3 Stat Points!
+
+He did it. It was a glorious battle, and he had won.
+
+“He did it!”
+
+I cheered as Novis defeated the bunny rabbit. I turned to Willy, excitedly clapping my talon-hands together.
+
+“Look, Willy! I told you he’d win!”
+
+“No you didn’t.”
+
+The [Will O’ Wisp] snorted. I crossed my arms.
+
+“You weren’t being supportive at all! You didn’t think he’d win! But I knew he was fine from the very beginning.”
+
+Willy didn’t even retort. He just made a sighing sound as he flitted around in frustration. I ignored him, instead looking on as Novis devoured the dead rabbit, eating it limb by limb as his hands were coated in blood.
+
+“He’s so cute.”
+
+“Really.”
+
+Willy spoke in a flat voice. I nodded eagerly as Novis burped out a bone.
+
+“Absolutely adorable.”
+
+—--
+
+“Bellum! Oriur! Playtime’s over!”
+
+I called out for the two other baby Wyverns as Novis followed behind me. Willy was flitting around me in circles, and while the three of them had been spread out, both of us had been keeping a watchful eye on them the entire time. I could sense everything that was going on in the area, so I always knew if they were actually in trouble.
+
+That was also why I had called them back. I sensed a pair of Humans entering the forest, and I was very excited for their arrival. I turned to the three baby Wyverns.
+
+“Now, make sure you guys behave, alright?”
+
+I wagged a finger at them. They all nodded as I had taught them. They huddled together in a group, waiting in anticipation for whatever was happening. This was the first time they had a change in schedule. Previously, they’d just been doing the same things over and over again. Now, guests were here to spice up their life.
+
+A red-haired woman strolled up to the valley with a black-haired man following behind her. The pair glanced around the area with round eyes before their gaze settled at me. These pair of Humans looked at my Wyvern form, but they didn’t flinch. They didn’t scream in terror. They just looked at me with a smile. After all, they were my companions.
+
+“So this is where you have been for the past two days, Salvos.”
+
+Edithe Dawnrise spoke as she crossed her arms. Daniel came to a halt next to her and shook his head.
+
+“We were worried. We didn’t know what happened after you took off with the Wyvern eggs. I almost thought they hatched and ate you.”
+
+He chuckled as he faced me. I rolled my eyes.
+
+“Come on, guys. I can take care of myself. And I was busy. When I finally had some free time, I sent one of my clones to get you guys, didn’t I?”
+
+I waved a hand off. My clone wasn’t with them. I had dismissed her the moment they reached the forest since she had already done her job. Then I glanced over at Novis, Bellum, and Oriur with a soft smile.
+
+“And they would never eat me. They love me— also, they’re too cute! Look at them!”
+
+I gestured at the three baby Wyverns. Their skin wasn’t as pink as when they were first born. They now had some color— a blotched mixture between pink and gray. The very first signs of their hide. Like the teething sun.
+
+But that didn’t really matter since they were drenched in blood. I beamed.
+
+“See?”
+
+Daniel and Edithe exchanged a glance. The red-haired woman opened her mouth.
+
+“I… uh, guess?”
+
+She looked at Daniel for a response. He just shrugged with a look on his face that said not to question it. And, of course, she didn’t question it.
+
+“Come on here!”
+
+I called the baby Wyverns over. They scampered to my side, hugging my body. They stayed close to me as I gestured at them.
+
+“This is Novis, Bellum, and Oriur. Say hi to them!”
+
+I pointed at the Wyverns one after another.
+
+Novis was the oldest, and clearly the tallest. He had little nubs on his head too— like horns, except undeveloped.
+
+Bellum, on the other hand, looked like she already had a layer of hide over her body. Even though she wasn’t the oldest, she was developing the most Wyvern-like features out of all of them with visible claws and the sharpest fangs.
+
+Lastly, there was Oriur. He was the plumpest of the three. He ate the most, and he hunted the least. He much preferred it when I just provided the food for him.
+
+“They’re still very young, so I doubt they’d be able to understand you. But you can at least wave at them.”
+
+Daniel and Edithe blinked. They drew closer, intrigued by the three Wyverns. The Human man stopped a few feet away as he looked at Willy and I. He grinned.
+
+“So, I’m guessing Willy has been doing most of the work?”
+
+“Yes.”
+
+“No!”
+
+Willy and I answered at the same time. I scowled as Daniel chuckled to himself. Meanwhile, Edithe halted just before the three Wyvern babies. She peered at them as they hid their faces on me.
+
+“I’m not going to lie, they’re actually quite cute.”
+
+The red-haired woman smiled as she waved her fingers at Novis.
+
+“Hello there, little guy. Your name is Novis, right? And you’re already almost at Level 10? You really are taking after Salvos, aren’t you?”
+
+Novis raised his head, eyeing her warily. She placed a hand on her chest, speaking softly.
+
+“I am Edithe—”
+
+And he lashed out.
+
+“Grrr!”
+
+He growled as he swung for her head. The red-haired woman stepped back, easily dodging the attack. She blinked a few times as he continued his assault, and I gasped.
+
+“No, Novis!”
+
+I grabbed him. The boy struggled in my hand as I raised him in the air. I waved a hand apologetically at Edithe.
+
+“I’m so sorry about that! I don’t know why he… I mean, I told him to—”
+
+“It’s fine, Salvos.”
+
+Edithe shook her head and raised a hand placatingly.
+
+“He couldn’t hurt me even if he tried. Anyway, no harm was done.”
+
+“I know, but…”
+
+I felt embarrassed and annoyed. Novis continued to thrash in my grip until I raised him til he was next to my head. He paused when he met my gaze. I frowned at him.
+
+“I said don’t attack them. They’re friends! They’re my companions! But you still attacked Edithe.”
+
+He shrank back. Novis trembled in my grip as I pointed at him.
+
+“Why didn’t you listen to me?”
+
+I asked, but he didn’t answer. He just lowered his gaze. Daniel called out at me before I could continue interrogating him further.
+
+“I think that’s enough, Salvos. It was no harm done. There’s no reason to get upset with him over it.”
+
+I looked down at the Human man. He was standing next to Edithe. The red-haired woman nodded.
+
+“It’s really fine, Salvos.”
+
+“But what happens if he does something like this again?”
+
+I sputtered. Daniel and Edithe looked at each other, puzzled. The red-haired woman faced me uncertainly.
+
+“I guess that just means  they aren’t ready for Humans yet.”
+
+I felt my wing-arms sag. I slowly lowered Novis back to the ground. Willy flitted up next to him and ushered him back to his siblings.
+
+“Oh… but my promise…”
+
+I spoke dejectedly. Daniel blinked.
+
+“Promise?”
+
+“I said I’d help you guys reach Level 120 by the end of the month, remember? This means I can’t bring you guys along with the babies.”
+
+“Oh, that.”
+
+He simply waved a hand off dismissively.
+
+“It’s fine. I wanted a bit of a break, anyway. That fight with the [Hellabomination] was too much excitement for one month. Then there was that battle with the [Savage Agarat] just after that…”
+
+Daniel glanced over at Edithe.
+
+“I’m sure Edithe feels the same way, right?”
+
+“Yeah.”
+
+She nodded as she shuffled her feet.
+
+“Hadrian and I were thinking of spending just some time relaxing. Not too long. A week, maybe. While we still can— especially since we weren’t invited to the Conference of Alyras.”
+
+Her lips twisted as she said that last part. It looked like it annoyed her. But I didn’t question it. I was too busy reeling from their words. I stared at my companions sadly.
+
+“...huh, I see.”
+
+I had put so much thought into my promise— in trying to figure out a way to make it all work. I had it all planned out. I was going to bring Novis, Bellum, and Oriur with us so that they could level alongside us. Just against weaker monsters.
+
+But they didn’t like Humans. I didn’t know why, but they really disliked Daniel and Edithe. Even now, I could hear them growling at my companions as Willy brought them back further away from the conversation we were having.
+
+I closed my eyes and sighed.
+
+“Well, if that’s the case…”
+
+I brought my hand back as Edithe spoke up.
+
+“I’m not saying we don’t—”
+
+But she paused as I produced something. I held it out for them, and they stared at it. Well, it was two things, but the exact same.
+
+“Here, if you guys ever need anything.”
+
+“This is…”
+
+The red-haired woman furrowed her brows. Daniel eyed it.
+
+“The Horn of the Caller? I haven’t seen you use it since the Plaguelands.”
+
+“It’s an improved version of it. I made two of them.”
+
+They took both of the artifacts. Edithe looked at me, impressed.
+
+“How’d you go about and do that?”
+
+“I made a few modifications to the enchantments in the original Horn of the Caller. It was simple since I could just work off the existing enchantments, then I replicated it on another horn. It’s easy work compared to what I learned to do in Mavos Academy.”
+
+I scoffed, raising my head proudly. I was still a student of the best school in the Human lands, after all. Then I faced my companions with a smile.
+
+“If you guys need me, just blow on it. I’ll be able to hear it as long as I’m within a hundred miles.”
+
+“A hundred miles?”
+
+They stared at it, amazed. I nodded.
+
+“Yep. It’s far enough… right?”
+
+I actually didn’t even know. But Edithe pocketed the Enhanced Horn of the Caller and smiled.
+
+“It is. Thank you, Salvos. We don’t want to disturb you, so we’ll be taking our leave now.”
+
+“But can’t you guys stay for a bit?”
+
+I pouted. But Daniel glanced at Novis as he hissed at the [Hero].
+
+“I don’t think they want us around. Besides, we just wanted to check up on you.”
+
+“Aw…”
+
+I felt a bit sad. But it was a feeling I was getting used to. Still, I managed a smile.
+
+“Well, it’s not like we’re very far away. We’ll probably see each other next week, right?”
+
+“With you around? I wouldn’t be surprised if you come flying in with three [Greater Wyverns] by the end of the month.”
+
+Edithe smirked at me. Daniel massaged his temples.
+
+“Don’t encourage her…”
+
+We laughed at that. And we bade each other farewell. Not for long, of course. Because we were still closeby. I was just going to be busy for a little bit. And my companions had their own things they wanted to do. I watched them leave, feeling some melancholy.
+
+It wasn’t the fact that we were separated that made me feel that way. It was the fact that they had people who were just as important or even more important than me in their lives than me, now. Although, they probably had their own companions when I first met them. But I hadn’t realized it then. Not in the same way I did now.
+
+It wasn’t a bad thing. I did have other companions too. It was just a new experience for me. I closed my eyes for a moment, letting this feeling settle in. But that was interrupted as I heard a cry.
+
+“Mama!”
+
+I turned around. I looked at Novis, Bellum, and Oriur as they ran up towards me once the scary Humans were gone. I sighed as they hugged me in relief.
+
+“I guess I’ll be busy with this for a while.”
+
+I ran a hand over their heads, feeling the warmth of their hug. I heard their soft murmurs— the fear they’d felt towards the scary Humans. It was something I’d probably have to sort out, eventually. But not now. Instead, I felt my lips curl up now as Willy flitted next to me.
+
+“But this is good, too.”

@@ -1,0 +1,153 @@
+---
+id: 0c423290-fbc5-50dd-9cd4-a2649fe6e840
+page-type-slug: story-chapter-royal-road
+title: "Chapter 81"
+slug: 0081-chapter-81
+partOf: savage-divinity
+position: 81
+ownLength: 4032
+unit: words
+publishedAt: 2016-06-15
+link: "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/76322/chapter-81"
+royalRoadId: "76322"
+---
+
+Mila moved her lancer forward to take a guardian, at the same time denying the Monarch several avenues of escape. “Check.” Leaning back, she smiled to herself as she watched Song stare at the board, her expressionless face calm and steady, but her lashing tail gave away her inner frustrations. Any sign of emotion was an improvement, her previous apathy beginning to fade as her desires and personality emerged from behind the shell that she had constructed out of necessity. She was more relaxed, no longer always tense and ready to flee, and would happily eat her meals without asking for permission or seeming uncomfortable eating at the same table as other people. Mila was looking forward to the day Song began to speak out on her own, but despite her optimism, she knew it could take years, as it had for Rain.
+
+After Song moved out of check, Mila quickly responded, moving her skirmisher into position. “Check and mate.” Song looked at the board silently for a few moments before she began resetting the board, putting the pieces back into place. Mila took the opportunity to offer some more advice. “You need to think ahead, Song. You make good singular moves, but you don't take into account the follow-up. You are also too easy to read, always taking the 'optimal' choice of not losing a piece, when in fact sometimes it is better to trade with your opponent. A lancer for a skirmisher, a chaplain for a pawn or a guardian for anything besides a pawn, these are favorable trades, but you choose to shy away from them.”
+
+“Sorry Master, this slave is failing to understand the concepts and wasting Master's goodwill in teaching her.” She lifted a hand to smack herself, but expecting it, Mila quickly stopped her.
+
+“You are learning very quickly Song. I am simply offering advice, you are not failing me. Maybe we should take a break and stretch a little, then head off to bed. The day grows late, and we can play again in the morning. How does that sound to you?” There had been little else to do the past few days, Mama had left all the cadets and younger Sentinels at camp with the soldiers, and only the elites were allowed to ride out. It was horrendously boring.
+
+Her heart ached a little, watching Song hesitate to answer, unsure of the 'correct' response and fearful of making the wrong one, but Mila waited patiently, showing nothing but a smile to the agitated girl. Despite being older than her, Song was quickly becoming like the little sister that Mila had always wanted, someone to look after and teach, but Mama and Papa had always been too busy to adopt another child despite her pleas for a sister when she was young. Of course, instead Mila had taken in the sweet Lin as a substitute, spoiling her to no end. Nodding, Song finally answered, “As Master wishes.”
+
+Taking that as consent to walk around, Mila stood and stretched her body, her arms raising towards the night sky as she made a tiny grunt while Song mimicked her adorably. They had played for hours, Song's dedication to the game rather impressive, seeming to enjoy the strategic challenge, although she wasn't very good. Mama had suggested the game to her, both as a way for Song to play, as well as learn. Although her combat skills were superb, her forethought was lacking and Song was easily outmaneuvered in duels. Had she been better able to think ahead, Rain would have been thoroughly defeated by her in their exchange at the restaurant, an event that seemed so long ago now.
+
+At the thought of him, Mila glanced over at his tent, seeing nothing but the closed flaps and Yan sitting outside the entrance, still meditating. At first, she had been a little jealous at Yan for sharing a tent with Rain, but after a day of seeing how much help he needed, Mila had thanked the Mother that Yan was willing to help him without complaint. Mila had plenty on her plate already, looking after Song and helping Alsantset as her aide, if she had to help Rain eat every day as well, she would have been at her wits ends.
+
+Although his arm was now healed, he still needed plenty of help and Mila wished he would accept more. He insisted on eating without aid today, and the sight of him sitting in the grass, his bowl held between his knees was already shaming enough. Worse, he would take his chopsticks in his fist and lean forward putting his lips to the bowl to shovel rice into his mouth, a sight even children would have found disgraceful. However, he had looked so happy that she had kept quiet, Alsantset doing the same and simply turning away to ignore the sight. Yan had spoken out about it, but that had only devolved into a competition of who could be more vulgar, the two of them were so similar at times, sharing so many of the same maddening qualities.
+
+Looking up at the moon, she guessed the time to be past ten, Rain having gone to bed early as he did each night. Despite his insistence that he was healed, the encounter with the Demon had taken its toll on him both physically and mentally. She had caught him staring several times, a wistful look in his eyes as he gazed both at her and at other various women, the pervert. Just how many women had that degenerate married in his dreams? It seemed as if every woman he knew dredged up painful memories, so he worked to isolate himself, practicing by the river and not the open grounds at the top of the hill with the other Sentinels and soldiers.
+
+At least some good had come of it. He used to always shy away from people, an invisible barrier around him that kept others away, stepping back when approached or standing when sat next to, but now he seemed more relaxed and comfortable around his family and friends, a silly smile upon his face when spending time with his sister, or eating with his friends, more willing to share a seat or be hugged. Alsantset was thrilled that he would now allow her to embrace him without pulling away or being exhausted, taking every chance to do so.
+
+And then there was the charming smile and rakish glint in his eyes when he had said she was 'too damn beautiful', something that had set her heart to pounding and often thought of when alone. Of course being Rain, he had immediately ruined the moment, but she still cherished the memory. He had married her, albeit only in a dream, but at least it told her that he was interested in her, and not just seeing her as someone to answer all his questions. She pretended not to notice his longing stares, even though it felt like they made her face turn beet red, simply enjoying his attentions.
+
+Gingerly stepping in front of Yan, Mila furrowed her brow, unsure of if she should wake her. It was always dangerous to interrupt someone who was deep in meditation as it was always a risk that you could ruin their concentration and cause them to lose control. This was especially true when someone was using a Spiritual Ring, and Yan's control was still unsteady, as evidenced by her grave expression as she cultivated.
+
+Taking no chances, Mila found an older Sentinel to come help wake Yan, and a short moment later, the foul-mouthed girl was cursing and grumbling, her face twisted in annoyance as she brooded wordlessly. Thanking the Sentinel, Mila sent the man off before turning to Yan. “Don't be rude, you're pushing yourself too hard. I told you to have someone watching over you. Come, let's go wash up and sleep, you can start again in the morning.”
+
+“Quiet. Thinking.”
+
+Rolling her eyes, Mila stood with her hands on her hips, patiently waiting for Yan to finish her deliberations, tapping her foot silently. After a few minutes of waiting, her patience wore thin and she asked, “What are you even thinking about? You were meditating all day, you had plenty of time to think.”
+
+Shooting her a dark glower, Yan was silent as the two of them locked eyes, Mila remaining calm and in control. She reminded herself that Yan was only frustrated, difficult to deal with at the best of times, and to not take this as a personal affront. After a few long moments, Yan capitulated, deflating as she went from angry to petulant. “I don't know.” Standing, she brushed herself off and headed towards the stream without another word.
+
+Shaking her head as she followed after, Mila asked, “What do you mean you don't know? Talk to me, Yan.”
+
+“'I don't know' means I don't know.” Stomping her feet as she moved, Yan continued to speak. “There is something wrong with how I cultivate, but I don't understand what the problem is. Every time I wake from meditation, I remember nothing of my time spent, only feeling tired and frustrated, knowing I've forgotten something important, but no idea of what.” She snorted and began complaining about Rain, and how he felt 'refreshed and invigorated' after meditation.
+
+Mila's eyes widened as Yan spoke, but she quickly hid away her bewildered expression and took Yan in a hug from behind, lifting her from the ground and spinning in a circle, ignoring her attempts to struggle free and laughing. Putting her down, Mila turned her so that they were facing one another.
+
+“Are you mad, woman? What are you doing?” Yan blustered, trying to look angry, but Mila could see a smile was creeping onto her face.
+
+“Calm down, grumpy. You're working too hard, which can be detrimental to your progress. You need a break to allow your core to stabilize and your mind to refresh, have some fun and laugh a little. Balance, Yan. One day, no meditation, minimum. We'll see how tomorrow goes.”
+
+“What? No, I don't have a day to waste. I'm not talented like you and Rain, and I'm being left behind as things stand. I am nothing without my strength, so I must continue to become stronger.”
+
+Poor girl. Mila took her into another hug, this time without resistance. “Silly idiot. You have plenty to offer, a sweet and kind soul with a prickly nature. Let go of your fear, it weighs you down and you are meant to soar through the sky, a carp leaping through the dragon gate.” Giving her a wink as she pulled away, she added, “Trust me Yan.” Ignoring her questioning stare, Mila skipped away, happy for her friend. It seemed that Yan was close to a Spiritual Awakening, and if that happened, then she would quickly rise in strength and laugh at these silly fears of being left behind.
+
+It would be nice to have someone to chat with and share notes on the experience.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+“...Brother, can you not hear me? Are you unwell?”
+
+Cringing at his constant questions, I lift my head from my now human hands, no longer bear-armed, looking at his face as he squats down to be on my level. “Yes, yes, I can hear you.” I've already tried breaking out of here, but nothing is happening. This may be a dream, but I'm stuck here for now, it seems.
+
+Giving me a smile, he nods. “That is good.” Pausing, we look at each other in awkward silence before standing in tandem. Unable to think of anything to say, I look around at the bleak, vacant landscape, stretching as far as the eye can see. Maybe I can spruce the place up. With that thought, we are now sitting on comfortable, padded, red leather chairs, in a room exactly like the sitting room at my home in the village. The chairs are modern, but everything else is exactly as I remember it, sunlight shining through the paper screened windows, the hardwood floor polished and gleaming, with simple, unadorned furniture around the room, our two chairs facing one another.
+
+“Incredible brother, I have tried to do something like this, but it takes so much concentration I can only hold the image for a short time.” Looking defeated, his disheartened eyes bore into me as he slump in the chair, his arms mangled and broken, hanging at his sides. His words fill me with pride for a moment until I realize that he is me, complimenting me, for being better than myself. Next level self-flattery.
+
+Pointing at his arms, I ask, “Why are your arms all broken? You don't actually have a body.”
+
+Hanging his head down with shame, he hesitates for a few seconds before muttering, “I cannot fix them. I do not know how. … Please brother, it hurts so much, could you fix it for me?”
+
+“And just how am I supposed to do that?”
+
+“...I do not know. The same way you do this, I would imagine.” He moves his head as if gesturing around us at the room, his eyes large with pleading.
+
+Well, might as well give it a shot. Standing up, I motion for him to come close, and lift his broken left arm, sympathizing as he winces in pain, a small sound escaping him. “Sorry, my bedside manner is kind of lacking.” The bones are poking through is some places, and his arm feel like shards of pottery in a leather bag. Concentrating with my eyes narrowed in thought, I imagine his arms fixed and whole.
+
+Before my eyes, his arm straightens out, the bones receding back into the skin, feeling whole and normal. Flexing his arm, he stares at me in open adoration as I move onto the other arm, fixing it as easily as the first. If only regular healing was this easy. “Any other problems?”
+
+“My chest hurts and I have a throbbing pain in my side.” Skipping ahead, I simply imagine him hale and healthy, injury free, all health signs full red and topped off. Looking satisfied, he jumps back into the chair, sinking deep into the cushioned leather. “Thank you, brother.”
+
+Taking my seat as well, I decide that I need an animal to pet, something furry, fat, and docile. A large gray rabbit with floppy ears hops into my lap, and I stroke his fur as I watch the other me. I need a name for him. I'm going to name this rabbit too... his name will be Fluffy Bunnykins. The rabbit, not other me. “So... You're here.” He should have a bunny too. A brown rabbit hops onto his lap, waiting there to be pet.
+
+Other me looks at the rabbit in his lap and makes a face, the same face I make when thinking about taking a shit in the latrines. “Yes, I am.” Shifting the rabbit off his lap and onto the floor, he looks at me and salutes, bowing his head. “I apologize, brother. The Demon was stronger than I anticipated.”
+
+“Oh was it? I didn't notice.” My sarcasm seems to strike a nerve with him, his face going scarlet red. Holy shit, I hope I don't blush that much, his cheeks are cherry red as he pouts. His emotions display prominently upon his face, anger, turning to shame, then back to anger, and finally, reluctant acceptance.
+
+“The ancestors told me that we could kill it and I felt their strength flow into me... but the Demon still struck me down as if I were a child.”
+
+This poor, crazy idiot. “Well, at least we both learned a valuable lesson: not to listen to the voices in our respective heads.” Chuckling to myself, I try to ignore the insanity that is my life, petting Mister Fluffy Bunnykins.
+
+“I cannot understand why they would lie to me, but I will find some way to make them pay for what they have done to us.”
+
+Great, he's going to make war on the voices in his head. Crazy bastard. “... Just pet your bunny and stop talking to me. We're just going to sit here quietly until I wake up and this is over. No more voices in my head, understood?” The brown rabbit hops back into his lap, turning its head to look up at other me, demanding to be pet.
+
+Giving his bunny a reluctant pet on the head, other me relaxes slightly in his chair, his hands running through the soft, thick, velvety fur of the bunny. “I do not believe that it will be that simple, brother. I too am confused as to why we are split in two, separate and unequal.”
+
+I guess he isn't going to shut up. What an ass. “Sounds like way more than two if you count your 'ancestors'. How many of them do you hear?” I'm not sure if I actually want the answer to that. Please don't be crazy.
+
+“Countless brother, their voices ever-changing, I would not be able to tell if the same one spoke twice, the lying bastards.” The face he makes does not fit with the image of him petting the bunny, broody and upset. He looks exactly like I do but once again, I'm amazed by the differences between us. Even sitting in his chair, seemingly at ease, I can sense the tension just below the surface, ready to explode out in violence at a moments notice. His hand smacks down on the rabbit, roughly brushing his hand through its fur, and were it a real animal, I feel like it would be squirming to escape his grasp.
+
+There is nothing gentle about him, his gaze steely, his voice hard, even his breathing seems powerful, his chest and shoulders moving perceptibly with each slow, measure breath. If I saw him on the streets, I would likely avoid him for fear of upsetting another arrogant warrior. Dressed in a vest of leather and fur, he looks every bit the tribesman with his exposed shoulders, chest and stomach, looking more ripped than I could ever be, hard muscle covering his body, where mine is softer, less defined. It's all the sweets I think, sugar is terrible for my figure. We continue to sit across from each other, rabbits in our arms, quietly assessing the situation.
+
+Other me is first to break the silence. “While soft, it is unseemly for us to have rabbits as pets. They are weak and frail. If you insist on tiny creatures, why not hares?”
+
+Great. Another hare supremacist. “What's the difference? Long ears, tiny nose, little cotton tail. Same animal.”
+
+Frowning at me, he begins to lecture. “Rabbits are born blind and helpless and will remain so for some time. They spend their lives hiding in their burrows, helpless should a predator dig into their homes. Hares are born with open eyes, able to fend for themselves soon after birth, living above ground, open and free, struggling with all their might to survive.” He continues to pet his rabbit as he looks expectantly.
+
+Hmm... I think I owe Taduk an apology. I guess there is a difference. “Okay then... What's the physical difference?”
+
+Holding his rabbit up, he inspects it, trying to spot the differences. “...I am not sure. Longer ears and feet, perhaps?”
+
+Rolling my eyes, I focus on his words, trying to picture a hare as opposed to a rabbit, and the creature in his hands changes. “Better?”
+
+“Good enough.” Looking satisfied, he returns the animal to his lap, petting it roughly. “So what are we to do?”
+
+“I already told you what I'm going to do: pet my bunny, wake up and forget all about this.”
+
+“... and what of me? Am I to remain here forever, living my life in the void?”
+
+Ideally, you wouldn't exist. Keeping that thought to myself, I simply shrug, not wanting to agitate the crazy bastard. “What's it like here anyways, when I'm awake?”
+
+“Dark. Boring. Time passes and I am unaware, but sometimes I see glimpses of our life through our eyes, and I realize how long I have sat idle.” Hmm. Bummer. Before I can offer condolences and attempt to wipe him from existence, he continues speaking. “I know that you are stronger than me, but I can offer aid.”
+
+“From your ancestors? No thanks, I've seen what they can do.”
+
+“Even if they do not offer strength, they can offer guidance. I saw you practicing the Forms.” Putting his hare aside, he looks around for an empty area. Shrugging, I stand as well, carrying my rabbit to the door and opening it to the courtyard of our home. I can always try to 86 him after he makes his case. Striding to the center of the courtyard, he begins to move, his body demonstrating the Form I was trying so hard to perfect, Prancing Stride and Rising Step, but that isn't all. His arms move as if holding sword and shield, an overhand smash followed by a vicious upwards slash, another set of Forms, making it four in one. “That is what you were attempting, was it not?” A smug grin sits on his face, and an urge to slap him across the face boils in my chest, but I quickly suppress it. Can't be hating on myself.
+
+“Do that again please.”
+
+At my request he performs it several times, but all of my questions are met with shrugs, other me unable to delve into any technical aspects of the movements. When asked how he knew the movements, he answered “I just … felt you moving, and then I knew how to properly perform it. The ancestors guide my movements and they can guide you too, brother. Perhaps their words cannot be trusted, but these physical movements are a tangible benefit.” That sounds like Insight to me, just knowing how to fight without understanding. Has he been taking all my Insights? This thieving bastard. No, no. We're the same person.
+
+Standing in silence, I watch as he continues to move about, fighting unseen enemies, a real warrior, graceful and savage, powerful and brutal. This is no performance of the Forms, but a demonstration of skills, one that rivals watching Adujan or Sumila, an impressive display. He is me, and I am him, but we both have knowledge that the other lacks. Maybe he's some repressed personality of mine and I actually can fight that well, but I'm being held back by my mentality. That's always been my weakest point, my hesitation to kill and reluctance to go all out, always thinking of another way out, but this Rain seems to have no qualms in that regard, the warrior I aspire to be.
+
+Assuming that he had taken over while I was fighting, anger issues and voices in his head aside, he seems useful. While he doesn't understand the Forms, that just means that I don't either, but we can work together on that. So long as I remain in control and skeptical, everything should be fine. He looks at me expectantly, waiting for my reply. Walking up to him, I extend my hand for him to shake. “I lead, you follow. I am the one in control. Just remember that, and we'll work well together.” It would be better if he would just... be me and we could combine, but until I figure out how, this will have to do.
+
+An angry glint shows in his eyes, but it is quickly hidden. I'll have to keep an... eye, I guess, on the bloodthirsty bastard. He takes my forearm in his hand. A fitting gesture, I have a faint recollection of gladiators shaking hands like that. “The pact is made. We are one brother, and I will do whatever I can to see that we survive and become stronger, until none can rival us. The world shall tremble when they hear our name.”
+
+Dramatic, but it suits him.
+
+Plus, I would kind of enjoy that.
+
+Falling Rain, Hero of the People, Champion of the Empire.
+
+That'd be nice.
+
+Chapter Meme

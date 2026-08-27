@@ -1,0 +1,121 @@
+---
+id: 137bc5d9-76b8-5f56-a30f-128976baba69
+page-type-slug: story-chapter-royal-road
+title: "Chapter 486: Reunion"
+slug: 0053-chapter-486-reunion
+partOf: rise-of-the-living-forge
+position: 53
+ownLength: 1514
+unit: words
+ownProgress: 1514
+publishedAt: 2025-09-17
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2607754/chapter-486-reunion"
+royalRoadId: "2607754"
+markedReadAt: "2026-06-29T20:00:08.062Z"
+---
+
+“You’re kidding me,” Arwin said.
+
+“No,” Two said. “I am not.”
+
+Waves of heat rolled past Arwin’s face with such intensity that they were physically driving into his chest. Even with his magical resistance to hot temperatures, this was on an entirely different level to anything he’d felt before.
+
+That was little surprise.
+
+Two had brought him to the precipice of an active volcano.
+
+Lava bubbled below him, great bubbles bursting and releasing blasts of sulfurous gas that rose up with the intense heat. Droplets of sweat barely had time to form on his skin before the acrid air burned them away.
+
+Eleven had taken cover a safe distance away, up on top of the stands of stone that had been erected around the mouth of the volcano like the seats in a colosseum. She was the only one within them. Something about that made the entire structure feel even more grand.
+
+“Setting Sun built their base inside an active volcano?” Arwin asked. He threw a glance over his shoulder at the underground pathway they’d emerged from a few seconds before. The Leyline was only a short walk away from where they now stood, buried within the stone beneath them.
+
+“It makes sense if you think about it,” Two replied, raising a hand in an ineffective attempt to try and block the heat from bearing down on him. “The Mesh is closely intertwined with the world. It stands to reason that it would be most concentrated in locations where something of great significance is present.”
+
+A large bubble of magma burst beneath them. It felt like enough of an answer for Arwin to not bother with a response of his own. He just stared down into the bubbling depths of the volcano, his eyes already practically dried into raisins.
+
+“What exactly am I meant to do?” Arwin asked finally. “You want me to dive into the volcano or something?”
+
+Two choked on his own tongue. “What? Do you have a death wish? No!”
+
+“Then why’d you bring me to a volcano? What else would you do with magma other than dive into it?”
+
+“I’m going to pretend you didn’t ask me that,” Two said, pinching the bridge of his nose. “Gods. The Adventurer’s Guild have twisted your perspective on the world badly. But I can’t blame you. This is what you know. Sunsetting a class should not be some frantic battle for survival, Arwin.”
+
+“The last time I tried it, I died,” Arwin pointed out. “What do you expect me to think? What exactly is Sunsetting a class, then?”
+
+“Coming to peace with yourself. It’s meditation,” Two said. “The only way you can truly Sunset a class is if you’re satisfied. With what you’ve done, with who you are, and who you’ll become. If your state of mind is anything else… you’ll fail.”
+
+Arwin paused. Then he blinked.
+
+It had been some time, but he still remembered the final moments of his life as the Hero. He still remembered the feeling of falling beside Lillia, knowing that his long watch had finally ended.
+
+Knowing that the war had ended.
+
+Even though it had all been a lie, he hadn’t known it at the time. He’d truly been at peace. Right up until the confusion of [Sunset] activating had torn through his death, Arwin had been satisfied.
+
+“There you go,” Two said with a small smile. “So you did feel it the last time. I suppose there’s a certain peace to be found in death… but I won’t pry. That’s yours to know and mine to discover when the time comes.”
+
+“That doesn’t make sense. I was wrong,” Arwin said. “All the peace I felt was a lie.”
+
+“Your feelings don’t depend on fact or logic. You are who you are. The world is beyond your control. Other people are beyond your control. But your feelings — that’s all you. The only thing you can control is yourself. And if you want to Sunset your class, that’s exactly what you have to do.”
+
+“Then what’s the lava for?” Arwin asked. “Doesn’t seem like it’s very nessessary when I could just sit down and meditate.”
+
+“It’s a way to keep you from drifting too far,” Two replied as he walked Arwin toward the edge of the pit. A winding pathway had been carved into the inside of the volcano’s mouth. It wound down in a spiral before coming to a stop at a small platform that jutted out just a few dozen feet over the molten rock.
+
+“Explain,” Arwin said.
+
+“The Leyline you just bathed in softened your magic.” Twelve said. Then he paused and lowered his voice. “At least, it should have.”
+
+“Right,” Arwin said. “So the lava… you’re using pain to help give me something to remain grounded with? So I don’t somehow drift away or something?”
+
+“Pretty much,” Twelve said. “It’ll make sure you’re completely focused on the task at hand. There won’t be room for anything else. Use that discomfort to press ahead and reforge yourself in the image that truly suits you. Don’t worry about how. Just focus on what you desire. The lava will also make sure you don’t stay down there too long. Perfectionism is our enemy. People aren’t perfect. They’re just people.”
+
+The two of them were silent for a few moments.
+
+“Is this a bad time to mention I’m resistant to heat?” Arwin asked.
+
+Two sent him a sidelong look. “Is this a bad time to mention I hate you?”
+
+“No,” Arwin said. The corners of his lips twitched. “I’ll see you on the other side. I still have questions.”
+
+“Save them,” Two said. “Good luck, Arwin.”
+
+Neither of them said another word. Arwin set off down the path. The heat was oppressive, but it was nothing compared to the searing pain of being bathed in Soul Magma. It probably helped that he hadn’t literally dived into the lava.
+
+Still, he could feel every breath come harder than the last. The air felt heavier. Each step he took along the path pushed the thoughts from his head. There was no room for them. It was oddly peaceful.
+
+There was nothing here but him and the heat. It wasn’t a comfortable experience, but it was a grounding one. The rest of the world would wait for him. Right now, the only thing that existed was the path down to the platform.
+
+Arwin walked.
+
+And, before he even realized it, he stood upon that stone platform at the bottom of the path, overlooking the bubbling magma. The strangely satisfying pop of bubbling magma accompanied him as he sat down upon the rough stone.
+
+Bands of heat tightened around his chest. There still wasn’t any pain. Arwin felt like he probably could have sat there for hours without moving, without even trying to accomplish anything other than existing.
+
+A faint discomfort enveloped his entire body. It made him acutely aware of every part of himself. It wasn’t exactly in a way that he would have liked, but it was an awareness all the same.
+
+He fought back against the oppressive air, drawing in a slow breath and holding it in his lungs for a second before letting it free in the same manner. His heart thumped in his chest and blood pounded in his ears.
+
+Arwin let his eyes drift closed.
+
+And there he sat. He wasn’t sure how long. Arwin wasn’t even sure why. He sat simply because he wanted to. Something about this place was grounding. Home wasn’t always the place that was the most comfortable. Home was the place one belonged. It wasn’t some utopian sanctuary. It had to be fought for, defended. Paid for in blood.
+
+This place wasn’t home. It wasn’t even close. Home was the Devil’s Den. It was Lillia’s cooking and Reya’s laughter. Home was when he was among the Menagerie. That life wasn’t one that could be taken for granted.
+
+No, this wasn’t home. And the volcano seemed to remind him of that. Life was a constant threat, a constant pressure just beneath the surface. But the rock still stood. He still sat here, and he would continue to do so.
+
+Another slow breath slipped from Arwin’s lips.
+
+But, when he inhaled again, the scent of sulfur was gone. The pressure was gone. A flicker of confusion coiled through Arwin. The heat had vanished as well. There was nothing at all.
+
+Arwin opened his eyes.
+
+Formless white stretched out all around him in every direction. There was no horizon, no end to its expanse. There was only white.
+
+And standing before him was a man. He was of average build and height and posture, with unremarkable features and hair that would have blended into any crowd. There was nothing interesting about him at all. The man was the kind that anyone might have felt a vague sense of recognition toward — and the kind that nobody could ever quite put a name to.
+
+Arwin knew who it was instantly.
+
+“Hello, Arwin,” the Mesh said with a soft smile. “It’s been a while.”

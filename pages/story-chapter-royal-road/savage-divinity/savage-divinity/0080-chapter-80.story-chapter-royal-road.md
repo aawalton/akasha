@@ -1,0 +1,107 @@
+---
+id: 2e4b2d58-813a-5bb0-b3f4-82f6b6c8f40f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 80"
+slug: 0080-chapter-80
+partOf: savage-divinity
+position: 80
+ownLength: 3240
+unit: words
+publishedAt: 2016-06-13
+link: "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/75960/chapter-80"
+royalRoadId: "75960"
+---
+
+My belly full of food and my core full of chi, I slip into the healer's tent, dropping off some plants collected by the patrols and scan the area for Tokta, finding him hard at work with a patient. Wandering over, I begin helping out around the tent as best I can as I wait, collecting dirty bandages and tools for cleaning, bringing water to the injured and helping them drink, chatting with a few familiar faces as I check their wounds for signs of infection or blood poisoning. After half an hour of keeping myself busy, Tokta motions for me to follow him and move towards a large, messy desk.
+
+“Okay so you're here to learn how to regrow your arm.” Without any greetings, he skips over to the important part, his nasal voice sounding more bored and tired than normal. I can't blame him, there are far more wounded than injured, but I can't really help out too much with only one arm, feeling like I'm in the way more than half the time. “First, you need to decide if you want to learn from me. I have neither time nor energy to hold your hand through the process, and failure will result in no small amount of pain. You can always wait for Taduk to heal your arm and teach you properly.”
+
+“Well, might as well try, right? No sense just idling around for an indeterminate amount of time.”
+
+Shaking his head, he looks at me critically. “What do you know about regrowing limbs?”
+
+“Er... It hurts a lot when it's done.”
+
+That earns me a small chuckle. “It hurts far worse while growing.”
+
+Fuck.
+
+Ignoring my crestfallen expression, he continues to pile on the downsides. “It is mentally and physically exhausting and you will need more rest and food than normal, almost twice as much. If you reach a point where I believe you can succeed, it will take a minimum of three weeks for you to regrow your arm, during which the healed area will feel as if rubbed raw and burning. Even should you abandon the process, the pain will linger for at least a week, possibly more.”
+
+A devilish smile is pasted on his face, as if taking glee in my growing apprehension. “When you make an error, at best it will need surgery to fix and at worst, we will amputate what you have grown. It is not a simple process Rain, and while I am impressed with your natural healing abilities and medicinal knowledge, I doubt you will be able to master this skill with the little help I can afford you, likely only bringing yourself pain. However, if you still insist on learning, despite all my warnings, I will do what I can to help you succeed.” His grin grows wider, his pale skin and white teeth almost glowing in the lamplight. “Or chop off your failure.”
+
+Impatiently tapping his foot, he waits in silence as I contemplate my choices. It's not as if I have anything better to do, so I might as well try. This is still part of my plan to be an undying, fast healing warrior. Better to start learning now rather than later. “No pain, no gain. I would much appreciate any guidance you can offer me.”
+
+Looking only slightly disappointed, he nods at me and turns towards his disorganized desk, moving things about as he searches for something. “Explain for me the process of natural healing with your chi.”
+
+“Uh, You take in the Energy of the Heavens, and bind it as chi in your core, then you circulate it throughout your body, and it heals you.” It's pretty simple stuff honestly, so I don't really understand why people say I'm talented. I just throw chi at the problem until it is fixed.
+
+“And what type of injuries are healed in that process?”
+
+“Err.... Bruises, cuts, abrasions, things like that. You can regrow teeth, skin, and nails, but not fingers, limbs, ears, eyes or organs. Uhhh... Esse- ”
+
+“Stop stammering when you speak, it is annoying.”
+
+“Uh... Sorry.” I just like to fill the silence while I think. “Bones will need to be set before healing, or they won't heal straight, but essentially, you can .. uh... heal anything that um... would naturally heal on it's own, with teeth being the exception, I guess.” Fuck now that he pointed it out, I can't stop.
+
+“What do you mean about teeth?”
+
+Blinking owlishly at him, I shrug. “Um... Well, teeth don't grow back normally. People get two sets, one children's set, and an adult's set of teeth. Normally, if you lose your adult teeth they don't grow back, but they do if you heal with chi.”
+
+Shaking his head at me, he rolls his eyes. “Teeth do grow back, without using your chi. Any peasant who has never even tried to cultivate can regrow their teeth, given enough time. What has Taduk been teaching you?”
+
+What? No, that's not right. I remember feeling surprised that my teeth grew back after my training sessions with Baatar. It isn't normal. “Are... Are you sure? Because, I don't think that's true...” Did I reincarnate as a different kind of human?
+
+“Of course I'm sure, I have studied to be a healer for my entire life. When I first regrew someone's limb, you weren't even born yet. I was deemed acceptable and granted with the title of Healer over fifty years ago.” He turns up his nose at me, his pride showing. I always have trouble placing someone's age, Tokta looks maybe 40 years old, but if he's been at this for fifty years, how old is he really? He's human as well, so I didn't think he was a geezer. “So long as the root is undamaged, the tooth will regrow as many times as necessary, just like many plants. There are plenty of herbalists and physicians that will remove teeth for peasants, the fee is usually very small.”
+
+With a small sound of triumph, he turns back to me having found what he was looking for, and his face goes dark. “Stop thinking rude thoughts, I am not so old enough to be senile.” Seriously... Mind Reading. Someone teach me how. Handing me a thick, leather-bound tome, simply labeled 'Anatomy', he begins to walk me out of the tent. “In order to recreate working organs or limbs, you will require forethought and planning, beginning with a detailed knowledge of anatomy. You cannot only study the chapters on the arm, but also the preceding sections, on bones, tendons, joints, and all that. Once you have learned how each component works, you will need to use your chi to recreate them, tiny piece by piece, layer by layer. You cannot first regrow the bones, then the muscles and so on, you must move from your shoulder, restoring the bicep to whole, then the elbow, and down the arm until the tips of your fingers. Study hard, return each night after your supper, and do not attempt to regrow your arm until I am satisfied with the depth of your knowledge, which is unlikely to happen anytime soon.”
+
+Pushing me out of the tent, he returns to his work, dismissing me without so much as a goodbye. Glancing down at the book, I flick through the yellow parchment pages, looking at detailed diagrams and large chunks of characters, my head spinning from the amount of knowledge I will need to learn. At this rate, it could be years before I'm even ready to start. No wonder he wasn't confident in my abilities. Or maybe he's just getting rid of me, he didn't seem too enthused about teaching me. No, no, he wouldn't do that, if he didn't want to teach me, he'd just say so.
+
+Discouraged and disheartened, I slowly walk back towards my tent, my mind deep in thought. It just seems so... pedestrian. I mean, where's the magic? Healing with chi is one of the best things ever, I can feel the mysticism in it, an unseen energy that flows into me, fixing my injuries without direction, or healing what I want with a simple thought. This... This is just studying. Thinking back on how I was healed by Taduk after my close call with the snake, I remember comparing it to weaving a tapestry with a thousand needles at once, but it seems like I underestimated the difficulty. It's like weaving an actual working arm together while suffering through the pain of new nerves, with nothing but your mind. I thought it would be easier than this.
+
+I guess it does make a little sense. Naturally healing with chi works because the body would have fixed those injuries anyways. That's why despite many people being able to heal with chi, physicians still have a place in this world, to remedy problems that the body can't naturally fix, like chronic aches, swollen joints, bad infections, or tumors. Many of those things are fixed with herbal remedies or surgery, and the body will slowly recover on its own. For other ailments, some knowledge and physical aid is required. For example, to reinflate my collapsed lung, I had to jam a hollow needle into it through my chest, because I couldn't fix it with chi. The hole in my chest and lung were easily fixed in comparison.
+
+This sucks, I want an easier method of regrowing my limbs. Having returned to my tent, I plop myself down next to Sumila, who is playing chess with Li Song outside their own tent, right next to mine. Adujan sits close by, once again deep in meditation, obsessed with her training.
+
+“Your lesson with Tokta went quickly.” Sumila smiles at me as she takes Li Song's scout, the cat-girl's face showing no expression, but her tail raised straight up behind her with tiny crook in the end, her ears twitching atop her head, seeming having a lot of fun despite her inevitable loss. It's easier to read Li Song's body language rather than her stony, pretty facial features. Biting her lip in concentration as she ponders her next move, she is a lovely sight.
+
+“Yea, it was pretty much 'Read this'.” Hefting the book for her to see, I rest it on my knees as I watch the two of them play, the game somewhat familiar to me, but different at the same time. Li Song loves playing games, likely because she probably never played a day before in her life, the poor girl. Sumila gifted the hand carved wooden chess set to her after finding out how much she enjoyed playing and ever since, Li Song will set up the tiny table and sit in front of it in her free time. She never asks anyone to play, but if someone sits down across from her and makes a move, she will respond in kind. It's really cute watching her sit there, her ears flat against her skull as her tail lashes from side to side, shoulders slumped as she waits, hoping for someone to play with her.
+
+Sumila is likewise always willing to play, but she is merciless. I don't think she has even come close to losing, dominating every match they play, a short affair ending with most of her pieces still on the board. Settling in, I decide to read a bit before I sleep, the sun still yet to set, and I begin to go over the words slowly, listening to the sounds of Sumila kindly and patiently explaining the reasoning behind why every move Li Song makes is a bad decision, ruthlessly capitalizing on every mistake with a bright smile on her freckled face. Li Song sits as still as a rock, careful consideration going into each move as she slowly deliberates the possibilities, only for Sumila to act immediately, taking another of Li Songs pieces off the board more often than not.
+
+After an hour or so of reading dry, boring descriptions of the human anatomy, I am ready to tear my hair out. The book is 100% about anatomy, with no mentions of healing anywhere in sight. While I studied this a little with Taduk, I never really paid too much attention to it, mostly memorizing herbs and medicinal formulas, looking for something I could easily make and sell. Self-healing was so easy, I figure it would continue in that fashion, just feeding energy into the process and letting it do it's work. I didn't think I would need so much knowledge to do magic. This sucks, studying blows. Closing the book shut, I lay my forehead against the leather, wishing the information within could all just be beamed directly into my brain. That would be nice.
+
+“Having troubles with your studies?” Sumila chats with me while moving her skirmisher over a pawn and taking Li Song's Cleric, paving the way for checkmate in three moves. Li Song sits in quiet contemplation as she considers her next move, although she doesn't have a viable one. She still isn't very good at the game, having lost every single game, but she only learned a few days ago and Sumila is pretty damn good at the game.
+
+“I don't know, it's not what I expected from healing. It's so direct and complicated, different from how chi manipulation has been so far. Normally, I can either do it, or I try again until I can, no knowledge necessary.”
+
+“Well, that's because so far, you haven't really been manipulating chi, just guiding it along.” Always so helpful, adorable Sumila turns to me with a smile on her face. “Self-healing of this magnitude is one of the most difficult internal usages of chi. Did you expect to learn it in a day?”
+
+“Not really.” Taduk always said I'd be healing other people soon, but then he let slip that soon was five to ten years. Real soon. I guess time runs differently when you expect to live for several hundreds of years. I wonder how old Taduk really is? “I guess I'm just bored by all the technical reading. It raises more questions than it answers.” Sumila gives me a patient look, indicating I can ask away, and I take full advantage, smiling at her in thanks. “For starters, if I direct the creation of my missing arm, can I modify it, make it better, faster, stronger?" We have the technology. “Can I make it scaled and armored, or claws bursting out from between my knuckles?”
+
+“No.” I can almost hear the implied 'you idiot' in her tone. “You cannot forge a stronger body through chi, or add enhancements.”
+
+“... Why not?”
+
+“Because that is the way of the world. There are limits, and creating artificial flesh is one of them. When you regrow your arm with chi, it will be just as it was before you lost it, no stronger, no weaker, just like when you heal your injuries.” She moves a piece into checkmate and lets Li Song peruse the board, studying where she went wrong.
+
+“That isn't always true though. I've injured myself for years, and when I meditate, it repairs my injuries and makes me stronger than before.” Striking boards and getting hit with sticks is not pleasant, and has earned me more than a few nasty rumors regarding my preferences and mindset. Small villages are always full of gossips with nothing better to do. “Stress fractures in my bones are healed over and reinforced, my overworked muscles made stronger and tougher. I'm shorter and skinnier than most, but I'm almost 100 kg in weight, proof that my body is more dense than others.”
+
+Shaking her head at me as she resets the board with Li Song, she gives me a helpless look. “Except that you aren't healing yourself with chi, you are strengthening yourself with the Energy of the Heavens, something everyone does when they meditate. All you do that is different is you injure yourself to the point of idiocy beforehand, allowing your physical body to absorb a tiny bit more Energy than otherwise possible. Mama says it is like swatting flies with a heavy spear, small results attained with great effort.”
+
+She turns back to her game, giving some new advice to Li Song, always helping others. The woman I married in my dreams was a lot like that as well, a charitable soul and a very generous lover. Shaking clear my idle thoughts, I return to trying to figure out a shortcut in repairing my arm. So, if healing with chi is just returning my body to a previous state, when is the state saved? If I cut off my toe would I be able to reattach it without great difficulty if I were fast enough? What if I took someone else's arm, can I attach that to myself?
+
+I wouldn't do that second thing, it's just speculation, but if it is possible, then that opens up new avenues of thought. Like the right to bear arms, or maybe just one bear arm. Ha, too bad that pun only works in English. I should do some testing on my first idea, maybe cut off my pinky toe and see if I can reattach it quickly. No, I put weight on my toes when I walk, the pinky finger would be more ideal to cut. Just the tip, enough to figure out if I can reattach it. I open my mouth to ask Sumila to help me cut it off, but I change my mind before I speak, deciding to sleep on it before I go around mutilating myself, or at the very least, ask someone about it. That's not going to be fun, I can just imagine Tokta's reaction at my questions, but it beats cutting myself for no reason.
+
+Saying goodnight, I take care of my business before crawling into my bedroll, the night still young. Adujan is still meditating, so I need to fall asleep before she comes into the tent or else I get too worked up to sleep. Laying in the darkness, my mind continues to go over what I know and things I should try. I doubt I can graft animal parts onto my body, there is no way that I'm the first person to come up with that idea. I'll keep studying the book, and talk to Tokta in the evening. I can't slack on practicing everything else, but a bit of reading will be a good change of pace. I may just end up having to wait for Taduk.
+
+My mind begins to drift in my sea of consciousness, that blessed moment between awake and asleep where inspiration always seems to strike, but you are already too sleepy to care. Visions of myself float before my eyes, charging into battle with bear arms, tearing through the Defiled with my massive paws, smashing Demons aside with bear fists, unstoppable in all my furry glory.
+
+“You come up with the most interesting idea's, brother. Is this truly possible?” My alter ego appears next to me, full of false confidence, his minor hesitations betraying his inner thoughts, his arms hanging at his sides, broken and battered. Looking at him, and then at my bear arms, I sigh deeply and sit down, palming my face with my clawed, soft, furry hands.
+
+I might actually be insane.
+
+Great.
+
+Chapter Meme

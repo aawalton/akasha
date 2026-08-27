@@ -1,0 +1,355 @@
+---
+id: 79f83e76-6fa9-51f2-8b24-afacd2702b3e
+page-type-slug: story-chapter-royal-road
+title: "2 - Survivalist Extraordinaire"
+slug: 0002-2-survivalist-extraordinaire
+partOf: rise-of-the-dragon-queen-evolutionprogression
+position: 2
+ownLength: 3306
+unit: words
+publishedAt: 2025-08-22
+link: "https://www.royalroad.com/fiction/129546/rise-of-the-dragon-queen-evolutionprogression/chapter/2539156/2-survivalist-extraordinaire"
+royalRoadId: "2539156"
+---
+
+Stella had been sleeping peacefully with her sack of copper coins before a giant centipede rudely disrupted her slumber. It came punching out of the ground at dawn, showering dirt down on her head.
+
+She was jolted awake and watched hundreds of legs tower above her until the arthropod reared its ugly head, revealing serrated pinchers.
+
+Ah! I'm not getting eaten yet!
+
+She quickly lunged out of its path, soil practically exploding behind her as it burrowed back underground.
+
+Phew, I doubt this is a roguelike where I get second chances!
+
+She stumbled, having landed awkwardly. After faceplanting and spitting out leaves, she turned to survey her surroundings. Her eyes immediately went to the spot where her bag of coins had been, finding it missing.
+
+The ground had holes in it, appearing just big enough to contain her money. Abruptly, a tunnel of lifted soil started to form before her eyes. A trail of disturbed earth, revealing the location of the thief.
+
+Gotcha!
+
+Stella reacted instinctively and released a jet of fire. Her surprise and subsequent anger seemed to strengthen her flames, as they came out more explosive than she anticipated. The ground turned scorched and smoky, while the centipede screeched and shot out of the soil to avoid the continued blast.
+
+The centipede was large enough to make Stella second guess herself. But, she wasn't willing to lose the only cash she had. She then tackled the centipede to the ground, holding its head beneath her palms, trying to avoid getting bitten. It thrashed violently and powerfully, snapping at the air and nearly slicing off her fingers.
+
+“Give me back my money!” She demanded.
+
+Its pincers spread wide, clicking into place. Then its entire body shot forward, wriggling so hard that it threw her off. After freeing itself it burrowed into the soil. As it moved, Stella caught sight of the bag held near its rump.
+
+She quickly grabbed it before its entire body was beneath the soil, trying to pry it from its clutches. For a time she played tug-of-war with the butt of a bug, until she finally won. But the release was so sudden that she dropped her bag and did a full-body roll in the opposite direction.
+
+Argh! I'm light as a feather because of how small I am.
+
+The ground split open yet again. This time producing widened pincers that clamped onto the bag of coins. Before Stella could move, the centipede thrashed, dumping out the bag.
+
+The second the coppers dotted the ground the creature turned its attention to Stella, gurgling with ignition.
+
+Stella instinctively released a stream of fire. The golden gauge glowed in the bottom of her vision, gradually getting shorter.
+
+The thieving centipede began contorting as the flames boiled it inside of its exoskeleton. It still attempted to lash out, but everytime it moved Stella directed the flames into its next path.
+
+Stella could feel the strain the flames put on her body. The golden gauge had reduced in length and was now flashing crimson.
+
+I have to stop, who knows what will happen if I run out of gas.
+
+She suppressed the stream of flames, which was actually harder than she imagined. Smoke spiraled out of her nostrils as she got to her feet. Moving on to new tactics, she kicked the centipede right in the head.
+
+Her kick made the bug's head to whip back, slamming roughly to the ground.
+
+“You realized the bag wasn't food? Well, you can't eat me either!”
+
+Stella pinned its head to the ground and gave a harsh twist. A deafening crack echoed, and then the centipede thrashed one final time. Stella blinked, examining her hands like they were alien to her. She had just defeated her first monster.
+
+W-Whoa! I'm strong!
+
+[You have defeated a Giant Centipede!]
+
+[Evolution percentage has increased to 5%. Elemental Breath is now level 2.]
+
+[Item ‘Pincer Blade’ has been dropped by Giant Centipede.]
+
+Stella frowned at the last notification and glanced down at the limp centipede. A flash of light was followed by its pincers popping off the sides of its head. Seconds later, they combined with a satisfying sound, creating a bigger, shinier pincer. The blade was serrated and sharp, with a handle that fit easily into Stella's hand. It was a deep amber color that changed to a honeyed hue when the light hit it at the perfect angle.
+
+This really is like a light novel! Stella exclaimed, holding her prize as close as she could without risk of injury.
+
+Wait, what does it do?
+
+[Pincer Blade: A sharp, serrated blade sourced from arachnids, arthropods, and insects.]
+
+Giddy and shaking from shock, she got off the centipede corpse and plopped down on the ground. Her pudgy reptilian tail wriggled with joy.
+
+As she gazed happily at her weapon, a thought hit her like a boulder.
+
+What if this improved my wealth?
+
+Name: Stella Algos
+
+Stage: Queen Dragon Hatchling (5% to next evolution)
+
+Class: None
+
+Renown: 0
+
+Wealth: Meager (+0 to all stats)
+
+(C: 250 S: 0 G: 0)
+
+Stats: (5 points available)
+
+Power: 25
+
+Vigor: 20
+
+Grace: 20
+
+Intellect: 5
+
+Skills:
+
+Elemental Breath (Grade S) - Level 2
+
+Hmmm…
+
+Her wealth had remained the same. Did items not count at all? No. That couldn't be right. Treasure wasn't necessarily always coin; what about diamonds or other non-money valuables? Would her status still say she was broke, even then?
+
+[Answer: Items with a great enough value will change your Wealth Impression.]
+
+There's an inherent value? Could you tell me how much this is worth?
+
+[Negative. While all items have a presumed value, I cannot inform you of an item's worth.]
+
+Why not?
+
+[The code of conduct for the All Seeing Eye is based around privacy and neutrality. I cannot inform you of harmful or private information.]
+
+All Seeing Eye? I thought you were like… A game system with a narrator.
+
+[No. I am called the All Seeing Eye, not ‘Narrator’. I can only be observed by powerful mages, sages, and magical technology.]
+
+But I'm not a sage or a mage.
+
+[You are, in a way, a mortal god.]
+
+Whoa…
+
+Stella had way too much on her mind. She had unused stat points, was apparently a god, and had been born just yesterday. After collecting some of her copper, she realized the pouch it had been in was ripped. With a sigh, she decided to tear a piece off her gown. It was too big for her anyway, and it covered her tail awkwardly. If she just tore a hole for her tail, she could make a sack and have a more comfortable outfit.
+
+She tied the white cloth around the copper coins and then held the bundle protectively.
+
+I never thought I'd be so greedy, but I really adore money.
+
+Stella sniffed a bit, noticing the smell of copper in the air. It was like rust and iron, a powerful scent, one Stella was certain she'd never scented before becoming a dragon. Had all her senses been enhanced?
+
+[Answer: Compared to a human, a dragon's senses are 80% improved.]
+
+And for a Queen Dragon?
+
+[Over 100% more powerful than that of all other dragons and dragon subspecies.]
+
+Stella was in awe. She tried to open up her senses, to smell, to hear, and even taste more effectively. The smell of algae and wet stone wafted into her nose. The towering trees could hide it from view, but with her improved senses, she could find it. Water. The scents and sounds of rushing water were distant but there. Birdsong and the sound of hooves treading soil nearly overwhelmed her, but she found as easily as she opened her senses, she could dampen them just as easily.
+
+Before leaving her place under the willow, she considered leaving her coins only to be reminded of aggressive and stupid centipedes that tended to think coins might be food. She glared at the corpse of the orthpord before marching towards the scent of water. As she went, she wondered why she was even using her legs.
+
+I'm a dragon, aren't I? And now that I'm in this new body, my legs are short. Where are my wings?![Answer: You are likely to acquire wings during future evolutions.]
+
+It didn't take her too long to reach a river, confirming that her sense of smell and direction were indeed much better than she could comprehend. The trees receded near the river, giving way to wide, grassy paths. Finally, she could see the sun. As it touched her skin, she blinked in confusion. Why wasn't she cold? It was morning, and yet, she didn't feel a drastic difference under the sun.
+
+[Answer: Alpha species have excellent temperature regulation.]
+
+That's handy.
+
+She cupped some icy water in her palms and pulled it towards her lips. The water looked clean and reflective, like something she'd see in a fantasy. But now she lived in a fantasy. One where she was a superior species, a species that probably didn't need cooked meat or boiled water.
+
+So, she drank her fill, then gave her reflection a good look. Stella scarcely recognized herself. Blue hair and eyes, with a matching tail. Well, the correct color of her hair was more akin to periwinkle. She didn't have wings, but she did have budding horns mostly covered under her hair. Her large sapphire eyes gazed back at her as she examined herself. They looked confused.
+
+She stood up and took a few steps into the shallow part of the river, watching small fish zig-zag between her ankles. When the water stilled enough for her to see herself again, she realized she looked feral. There was dirt on her face, her hair was a long, tangled mess, and her dress was covered in grass stains. She'd need to get new clothes, but first she'd take a bath.
+
+The water was cold but refreshing, and while she scrubbed every inch of herself, she took the time to put her long hair into a big braid.
+
+I remember braiding my hair every day before school when I was younger. I guess it's fitting I do it now, given I'm young all over again.
+
+As she dried herself in the sun alongside her recently washed gown, she asked the system about her lifespan.
+
+[Dragons live between 100 and 500 years based on their evolutionary stage and health. You have the capacity to live triple that amount under the right circumstances. At minimum, 500 years.]
+
+Stella was once again stunned. When her gown was dry, she dressed herself and decided to take a seat and use her stat points. She recalled the system explaining that her stat point acquisition would be more frequent than other species. But given she had no frame of reference, she had no idea how important they were.
+
+[Answer: Stat increases occur automatically. However, Stat Points are only given when sufficient progress has been made to earn them.]
+
+That didn't give her much to go on, but at least she knew her stat points had the chance of replenishing. There was a possibility she didn't need to use them at all, but in a world with giant bugs, she could only imagine how many other giants existed. What if she encountered a giant polar bear? What would she do then?
+
+[Answer: Ice Bears are not located in this region.]
+
+Well, still! Weren't those the biggest bears?
+
+Stella pulled up her status screen, eager to place her stat points.
+
+Name: Stella Algos
+
+Stage: Queen Dragon Hatchling (5% to next evolution)
+
+Class: None
+
+Renown: 0
+
+Wealth: Meager (+0 to all stats)
+
+(C: 250 S: 0 G: 0)
+
+Stats: (5 points available)
+
+Power: 25
+
+Vigor: 20
+
+Grace: 20
+
+Intellect: 5
+
+Skills:
+
+Elemental Breath (Grade S) - Level 2
+
+Hm… What about classes? Ugh! One thing at a time!
+
+Junk food and soda would be good about now. In this world, her parents wouldn't shame her for it. Plus, she was a growing dragon baby! She needed all the calories she could get.
+
+Speaking of calories…
+
+Her stomach gurgled on cue.
+
+She figured the more power she had, the easier it would be to hunt things for food. But just to be certain.
+
+System, tell me what each of my stats do!
+
+[Stats are calculated as a general, overall score and have multiple working parts. Power can be physical or non-physical strength. Vigor is mana, stamina, and other forms of endurance and longevity. Grace is agility, accuracy, and even beauty. Intellect is a mix of perception and how easy it is to connect clues to understand complex issues.]
+
+The best thing to do in this situation, given how low her intellect was, was to buff it. She was already a powerful species; she didn't need to be excessive.
+
+Put all my stat points into Intellect, please.
+
+[Apply 5 stat points to Intellect. Confirm?]
+
+Yes.
+
+[Partial fail. 3 points have been applied to Intellect, 2 remain.]
+
+Why did it fail? I told you, this has to be some kind of mistake. I've never been stupid!
+
+[There is a cap on your Intellect. To raise it further, tremendous progress must be made. Would you like me to place the remaining 2 points into a different stat?]
+
+Fine. Put it into Power.
+
+[Apply 2—]
+
+Yes!
+
+[Successful. 2 points have been added to your Power stat.]
+
+Name: Stella Algos
+
+Stage: Queen Dragon Hatchling (5% to next evolution)
+
+Class: None
+
+Renown: 0
+
+Wealth: Meager (+0 to all stats)
+
+(C: 250 S: 0 G: 0)
+
+Stats: (0 points available)
+
+Power: 27
+
+Vigor: 20
+
+Grace: 20
+
+Intellect: 8
+
+Skills:
+
+Elemental Breath (Grade S) - Level 2
+
+Still frustrated about her lack of intellect, Stella scowled at her status until it closed. When it did, her stomach growled again.
+
+Jeez, I'm hungry! But… I don't have anything except that bug.
+
+Stella considered her options. She could use her breath attack and try to cook some birds, but in the process she might cook the forest along with it. Upon thinking about using her skill on a nearby sparrow, the golden gauge at the bottom of her vision glowed red.
+
+I guess my breath takes a while to recharge. I'll have to be careful about that.
+
+When she walked back to the centipede corpse, she nearly gave in to her original impulse and tried to find more appetizing prey. But the system stepped in, seeming exasperated with her indecisiveness.
+
+[Upon reviewing your past life culture, I recommend that you consume the centipede. With your lack of Elemental Breath energy, you will be unable to cook anything else you catch.]
+
+But I—
+
+[Answer: Utilizing Pincer Blade will allow you to conserve Elemental Breath’s energy.]
+
+Hey, that's a good idea!
+
+That was right, she had a weapon. She held it up triumphantly and then began her search for food. Mice and squirrels were frequent finds, but they weren't her preference. Upon discovering a rabbit, she failed time and time again to catch it.
+
+Given she had no means to make a trap and no ability to kill any of her preferred creatures, she considered mice only to realize she'd have to capture and skin over a dozen to even make a dent in her hunger. That was exceedingly more distasteful and energy inefficient than eating the centipede.
+
+At last, she returned with armfuls of sticks she'd cut up with her pincer blade, which she placed in a small hole, away from the willow tree, recalling something about fire safety. She lined the fire pit with rocks from the riverbank and then lit the fire with the last of her [Elemental Breath]. The flames were strong and quickly consumed over half the sticks.
+
+Stella panicked momentarily until the system reminded her to grab branches instead of twigs. After that was finished, she broke the centipede into cookable portions, placing those large, rounded pieces onto the rocks lining the fire pit. There, they could get cooked but not scorched.
+
+How long do bugs take to cook?
+
+[Answer: Several factors come into play, including heat, duration, size of the bug—]
+
+Don't answer just to give non-answers, okay Eyeball?
+
+[All Seeing Eye.]
+
+Whatever. I'll just try it and see if it's done, it'll taste gross either way.
+
+She let one of the portions cool in the grass and then picked it up and worked off the shell. The meat inside was a light pink, reminding her of what shrimp looked like when deshelled.
+
+Stella took a bite fully expecting to hate what had entered her mouth, but pleasantly surprised to find the flavor was that of lobster and crab mixed together. It was a little slimy, but overall it was actually delicious.
+
+Now all I need is some salt and pepper… Maybe butter too and some lemon?!
+
+Stella devoured so much of the centipede that her belly was as round as a melon. She patted it with admiration, proud of her dragon-sized appetite.
+
+She saved enough to ensure she wouldn't starve later, then snuffed the fire and by the time she had slept off her fullness it was evening.
+
+Life in the forest so far is exciting and peaceful. But I don't want to live here forever. I want to talk to people and explore grand cities… And wear underwear, because it gets super drafty.
+
+Stella decided to scale a tree. The process took her many feet into the air, and as she clung to a particularly wavy branch, she found exactly what she was looking for.In the far distance, past the edge of the forest, there were orange lights and tall buildings. Her enhanced sight allowed her to make out stone towers, wide archways, an impressive church, and a bustling stream that ran its way through the outskirts of the large town, the evening lights refracting brilliantly against the smooth surface of the water.
+
+Despite its proximity, that life felt far away. Stella sighed.
+
+How will I get into a city without being captured for my beautiful scales?
+
+She idly ran her fingers along her tail, admiring the shining blue scales. It was like having natural armor, though it was a little useless to only have it on her tail.
+
+[Answer: Shapeshifting is a natural ability for all Alpha subspecies. It is as natural as blinking.]
+
+That's anything but natural!
+
+[...]
+
+Okay, thank you for the information. I will… Well, I guess I can put more effort into learning about my new body in general.
+
+Stella wobbled, deciding to get down from the precarious branch she was perched on. When she landed back on the forest grass, she felt ready, fully prepared to begin training under the system's guidance. She squared her shoulders.
+
+I'm going to live a long time. I better make the most of it and not just sit around in this forest! Now, tell me how to shapeshift and do other cool things like in anime!
+
+[While I can inform you of common, natural abilities that occur in your species. I cannot inform you on how to train them effectively.]
+
+Stella instantly deflated.
+
+Great… Can you at least tell me how long I'll be a child?
+
+Even if she could shapeshift, would that extend to changing her age as well? Looking too young was another issue she'd be pressed to tackle.
+
+[Upon your next evolution, you will physically mature. Your evolutions will occur based on time and physical, mental and emotional advancement. The growth of Alpha species is fast until adulthood is reached.]
+
+Stella was thankful that she wouldn't remain a child forever. Now she could just focus on getting stronger, which learning how to shapeshift would surely cover. And that, in of itself, would hopefully carry her into adulthood.
+
+But what else could her new body accomplish? If she wanted to leave the forest without being swallowed whole, she'd need to find out.

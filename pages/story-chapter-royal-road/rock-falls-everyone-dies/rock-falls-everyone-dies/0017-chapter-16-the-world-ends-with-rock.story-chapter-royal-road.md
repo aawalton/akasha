@@ -1,0 +1,311 @@
+---
+id: 6d4adf04-3c00-5af1-8860-3d8518c7ea1e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 16 - The World Ends With Rock"
+slug: 0017-chapter-16-the-world-ends-with-rock
+partOf: rock-falls-everyone-dies
+position: 17
+ownLength: 2683
+unit: words
+ownProgress: 2683
+publishedAt: 2023-01-29
+link: "https://www.royalroad.com/fiction/55418/rock-falls-everyone-dies/chapter/1100076/chapter-16-the-world-ends-with-rock"
+royalRoadId: "1100076"
+markedReadAt: "2026-06-29T22:50:49.397Z"
+---
+
+On a certain mountaintop, high above the clouds, a hero and a villain were having a grand battle.
+
+“Take this—[Final Super Attack that Is Not Even My Final Attack]!”
+
+“You cannot defeat my [Mega Casting: Fire Inferno: Flare Ember Mode: Astral Activation]!”
+
+Grand spells and abilities were flying every which way, tearing apart the landscape and slicing up the clouds below. It was a very grand battle indeed—one that would decide the fate of the world.
+
+And then it was decided.
+
+EMERGENCY BROADCAST
+
+The world will end in 60 minutes!
+
+Please beware meteor showers.
+
+The two paused, letting their attacks fade, then looked to the sky. They did not see it yet, but they could almost sense an oppressive presence. Growing.
+
+The hero and villain shared an uneasy gaze and nodded at each other. They turned to face the meteor. They would meet it in a battle and see which one would win.
+
+And so, the world finally came to peace.
+
+Even as the citizens all over the world panicked and screamed, shouted and cried, ran and hid—the rock did only one thing. It kept accelerating. But it was so—so slow. The body around it was large—and heavy. It did not accelerate easily. It had not been moving that fast in the beginning. But it had gotten faster, gradually increasing its speed.
+
+It would not be stopped again.
+
+Current Velocity: 108304.0 m/s
+
+Quest:
+
+Current Altitude: 389 894 400m
+
+Time remaining: 60 Minutes
+
+The timer was actually shrinking a bit faster than the 60 minutes indicated within, because the rock was still accelerating. The system did not seem to account for such things.
+
+But it saw the world—its homeworld down below. And the planet prepared.
+
+Time remaining: 60 Minutes
+
+The [Mages] of the world gathered in a hasty remote conference, arguing over who would get the glory of saving their world. But practicality won out, and the newly elected [Supreme Grand Magus] of a certain city with a jade statue won out—because they had foretold.
+
+That was the landing zone. And there was no time.
+
+All the mana of the world was sent to the man, channeled through remote connections and ancient treasures, and he held the power of the world at his fingertips. For a brief moment.
+
+And he cast a spell, high atop his tower, gazing at the meteor through magnification spells. His skin crackled with mana, and he was barely holding himself together, but he raised his arms and cast the spell. The grand one they had all prepared together, fit to make a rock go away.
+
+“[Supreme Greater Anti Gravity Grand Magic].”
+
+The rock sensed the blast of magic approaching itself. But it had learned. It saw gravity better than any other on this planet—for who was more its child than a stone, not rolling, but falling?
+
+It felt at the canvas of space below it, tilting it just to the side—
+
+And the blast missed it, careening off to the side, all the mana spent. Wasted.
+
+The rock calmly kept accelerating, and the [Supreme Grand Magus] retreated down from his tower, escaping to his wine cellar, awaiting the end.
+
+Time remaining: 40 Minutes
+
+An ancient dragon lumbered out of its cave, weary of the world, for it saw its own mark of fate on this doomsday. That was why it had retreated here, for whenever a dragon interfered—disaster soon followed.
+
+And now it looked up at the greatest disaster of all—the end of everything. It did not know how, but somehow the dragon had played a part in this. The thought was a crushing dread, and the dragon...
+
+Felt tired. Weary.
+
+Still, the great dragon, one of the last of its species and certainly mightiest of them all, gathered the roiling heat in his lungs, staring up at the rock, which it could just make out with its supreme eyes.
+
+It breathed out, and a bright beam of magma was shot at the meteor, one last attempt to do something.
+
+But it too failed, because the rock did not care for the laws of temperature. The mighty blast hit the rock in a blast that shattered the sky, but only heated it up more.
+
+And the rock continued converting that heat to movement.
+
+The dragon saw that it had once more only hastened the end, and retreated back to its cave, weary of this world. It would sleep through the end.
+
+Time remaining: 2 Minutes
+
+A hero and a villain stood side-by-side, atop a mountain, having formed their plan. They had combined their two techniques, and the hero was holding a grand sword in his hands, shaking with power.
+
+He could now see the stone, invisible as it still was, because he was a [Hero] and could always see the enemy. He raised his sword high, and its tip cut the clouds. He sliced it down, using every technique available to him, and a great blast of energy was sent at the rock.
+
+The rock activated [Diamond Skin], fueled by a roiling core of Qi, and the sword of a [Hero] scratched through 1000 meters of rock. But there were 9000 more, and the rock quickly began repairing the damage with its Qi.
+
+The hero fell to his knees atop the mountain, overcome with despair. The villain did not speak, only stared up at the sky, waiting.
+
+So—the mightiest of the world failed to stop the rock, because of course they did. Even had they blasted it to pieces, those pieces would still have been falling down. Even had the [Mages] managed to send it back up, a ceaseless meteor shower would have followed in its wake.
+
+And the rock would have returned—even bigger than before.
+
+Eventually.
+
+Because the rock was inevitable. And so—it descended down on the planet, satisfied that it had grown past all its former foes. None of the mighty could sway it.
+
+But… when has this ever been a story of the mighty?
+
+Even the rock had humble origins.
+
+Winding the clock back a bit, to before a notification told the planet of its doom, let us follow a different young hero. A human one, not a [Hero]—but a [Bard].
+
+A young woman, 21 years of age, with auburn hair. She was dressed humbly, but well enough to serve at a court. She had a lyre in hand, a treasure she had toiled on endlessly for many a year.
+
+But… her flame was dying out. She sat in the city that was her own, walking around aimlessly, eyes listless.
+
+Because the world had ended.
+
+Not literally, of course, but to her, it certainly felt that way.
+
+“Aah—I can’t believe I failed at the big performance… It’s all ruined now—” she said with the sureness of youth, because her goals and future were ash.
+
+She had worked hard for years, and the opportunity had finally come. A chance to perform at the governor’s annual ball, where all the important people of the city could hear her. The chance of a lifetime, the reward at the end of the path she had walked so long.
+
+And she had failed—completely.
+
+Simple reasons, just nerves and being requested unfamiliar songs, but she had failed spectacularly, stuttering on stage, barely able to play.
+
+Embarrassing herself in the eyes of everyone. Reputation in tatters.
+
+She would never get hired again.
+
+And she could feel those eyes, as she walked the city, looking for an excuse to not go home. Rumours spread, especially juicy ones like these. She thought she heard every shopkeeper snickering at her turned back, and every window seemed to peer into her soul, laughing.
+
+But it was better than facing what awaited at home, so on she walked.
+
+“Why did I have to fail now of all times… It’s always the critical moments, isn’t it?”
+
+She finally stopped, at a plaza she was used to frequenting. A plaza with a Jade statue that seemed to grasp for the heavens, depicting a beautiful woman.
+
+It was an old statue—nobody really remembered where it had come from. But it had always been there, and the [Bard] liked to stare at it now and then, and to speak. She could almost imagine it listening.
+
+“Hey, odd statue. Tell me, do you really have magic powers like rumours say? Because… I could really use a wish.”
+
+She looked at the statue, feeling that ever-present, oppressive weight upon her chest. Anxiety and terror, always warring within.
+
+“Can you just… give me a little excuse? Anything will do. Just so I don’t have to go back home yet.”
+
+The [Bard] asked for an excuse, looking up at the statue with pleading eyes… and she received one.
+
+EMERGENCY BROADCAST
+
+The world will end in 60 minutes!
+
+Please beware of meteor showers.
+
+Her brown eyes widened as she saw the notification appear, and she hesitantly turned her head up, searching. She did not see anything yet up there—but she could almost imagine it there. Destruction, imminent.
+
+Almost here.
+
+And she felt all her worries, all her anxieties, all the weight upon her chest—
+
+It all faded away in an instant, brushed off with the warm spring wind.
+
+She smiled.
+
+There were shrieks of terror and despair from the few others in the plaza at this hour, panic growing among the other people, but she alone smiled. She spread her hands out, breathed the fresh air in deep, and felt better than she had in years.
+
+“Yesss!” she shouted, jumping up with joy.
+
+Then she really felt the looks. Sheepishly, she peered around, seeing gazes of disbelief coming her way. “Ah, sorry about that.”
+
+The other people continued screaming and running about. Running away from the plaza.
+
+But the [Bard] just sat down, looking up at the statue, finally feeling free. Calm. There was nothing to look forward to anymore, so there was nothing to dread either.
+
+She only wished this moment would last forever, but…
+
+Time remaining: 55 Minutes
+
+It would be only a short while. She wondered what she should do? In this short moment, with the peace she felt.
+
+It was odd—but although she did not want to die, to say goodbye to this lightness blooming in her chest—she had accepted the end strangely easily. She felt no dread.
+
+Then—she had an idea. The [Bard] looked up at the statue, picked up her lyre, took it out of its case—
+
+"Hey statue, do you want to hear a song?"
+
+And she began to play.
+
+It felt easier than in years, the notes flying off her fingers effortlessly. She felt a faded fire begin to burn brighter in her soul, and looked up to the sky—almost thinking she saw that approaching doom.
+
+Then she sang.
+
+Not any song she had known before, but a song of complete freedom—free from the expectations of others, free from consequence.
+
+She did not have to worry about how other people would like her song. She did not have to think about whether her song could earn money. She did not have to worry about how the song would be remembered.
+
+It would all end soon, so why not just play what she really wanted?
+
+And her soul sang. The plaza was clear by now, most people having retreated to friends and family, cellars and bunkers. Her only audience was the statue, which did not look at her. The statue looked to the sky.
+
+But oh how she played! How she sang! It was a song ignoring all conventions, something freer than anything that had come before. She was drumming at the ground with her feet, playing the lyre with a frantic energy she had never felt before.
+
+Time remaining: 4 Minutes
+
+And eventually, for such a short moment, she began to see the meteor, growing larger in the sky, a bright figure burning against the atmosphere.
+
+She did not want the world to end—she wanted to live on. But it would happen. She would not be able to affect this inevitability no matter what she did.
+
+If the world was going to end… why face it with fear and dread?
+
+Why not instead throw the most glorious of concerts—a symphony for the end?
+
+At the most glorious of stages.
+
+And so, the clearer she saw the blinding light in the sky, the louder she sang. No longer words with any direct meaning—just sounds that felt grand and energetic enough for this moment. Almost screams. Her playing grew faster. But the statue was not her only audience.
+
+Something above listened. And something else—something that always was there in this world.
+
+Level up!
+
+You have become a level 9 [Novice Bard]!
+
+New music genre invented: [Rock and Roll]!
+
+Time remaining: 1 Minute
+
+The rock could make out the city below, and could see the plaza of its dreams. It was almost there. The end was in sight.
+
+Quest:
+
+Current Altitude: 6 498 240m
+
+But then—it heard something. Sound. A song.
+
+It had never heard things before.
+
+Before its launch into space, it had only been able to perceive the rumbles and vibrations of the earth, for it had no ears to hear with. But in space—it had grown. Developed. Become a master of a domain.
+
+And as its domain focused downward, away from its body, that whole mass of energy searching for that jade figure which reached up for it, the rock heard a song. And… it was strange. Soft, gentle, sorrowful. But still energetic.
+
+Something new.
+
+The rock had never felt a soft touch or a caring hand before—its stone skin was too tough for that.
+
+The rock had never seen color—its vision only showed shades of grey.
+
+The rock had never tasted before either—for that least of all was a thing of rocks.
+
+But now… it heard music. It had finally been given the senses to perceive such things. It did not see the [Bard] because the rock did not understand humans. It only saw that jade statue, the symbol of its dreams reaching up for it, and heard the song coming from it.
+
+The jade statue was singing for the rock—welcoming it.
+
+And in that moment, as the [Bard] looked up at the imminent destruction with glowing eyes—the rock finally felt it in its soul. It understood beauty. It wanted to hear more of the song.
+
+The music resonated through its domain for a brief moment, and everyone heard it.
+
+The hero raised his head, sorrow draining out of him, and he stood up, side by side with the villain. They held hands, looking the end right in the eyes.
+
+The [Magus] rose up from his cellar, abandoning the flasks of wine, and stepped outside. He felt the spring breeze against his skin, and the coming of summer in the air. He smiled.
+
+The dragon looked out of its cave once more, and for a moment, remembered the glories it had achieved in life. It closed its eyes, hearing the roars of old friends in the chorus of the song.
+
+For a brief moment, everyone listened, and the rock wanted to hear more.
+
+But—it was too late.
+
+Gravity, the cruel mistress that it was, once more laughed at the rock. For it had made a mistake. It had worked so hard to make sure none could stop it. It had brought along a greater mass that its [Pivot] could not shift—and now... it could not stop itself.
+
+In an instant, brave though it was against the storm, the brief ember of beauty was snuffed out.
+
+Quest:
+
+Current Altitude: 0
+
+Resolving...
+
+Please wait.
+
+CRACK
+
+Title Activated!
+
+Line Ender Activated!
+
+Gained 20% damage bonus!
+
+Collide activated!
+
+[Unnamed] Dealt 14959787069100 * 108304.2 * 1.2 / 4 = 486062331206766100 dmg to [Novice Bard Rihito] & [Planet Dirt]
+
+New Velocity for [Unnamed]: 6000 m/s
+
+Dealing splash damage to ERROR_OVERLOAD entities
+
+Resolving...
+
+Please wait.
+
+Please wait.
+
+Please wait.
+
+The music had stopped, and so the rock also understood loss. It had never lost anything before. Not really. But the music wasn't coming back, no matter how hard it listened. There was only the brutal symphony of destruction, and then... silence.
+
+But numbers went up.

@@ -1,0 +1,265 @@
+---
+id: 662e1c19-3e9a-5ff8-b599-ab1c6f0dd3e8
+page-type-slug: story-chapter-royal-road
+title: "3 - Wrath Of The Ravenous"
+slug: 0003-3-wrath-of-the-ravenous
+partOf: rise-of-the-dragon-queen-evolutionprogression
+position: 3
+ownLength: 2507
+unit: words
+publishedAt: 2025-08-26
+link: "https://www.royalroad.com/fiction/129546/rise-of-the-dragon-queen-evolutionprogression/chapter/2550126/3-wrath-of-the-ravenous"
+royalRoadId: "2550126"
+---
+
+Stella had been sitting in a tree for nearly an hour. She was split between staring at her hand while willing it to change shape and watching the town in the distance. Her vision wasn't perfect, but she had moved deeper into the forest to get a better look. And from here, when she focused, she could hear gossip.
+
+“Did you hear about the prince?”
+
+“No, what happened?”
+
+“He fell in love with some peasant girl and refused to marry a princess from one of our closest neighboring nations, can you guess which one?”
+
+“No, which one is it?”
+
+“The Moonsoul's! The one ruled by the Queen of Griffins! How dumb do you have to be to snub a griffin?!”
+
+“But, doesn't the prince deserve to be with whom he loves?”
+
+“Love? What about the good of the country! I wouldn't want beastlings in our royal houses, but it's better than us all getting scorched by an angry queen!”
+
+“Alright, I suppose that's true.”
+
+Stella tuned out, her focus snapping her back to where she was, sitting on a tree branch.
+
+Am I not the only Queen?
+
+[Answer: Of course not, but it’s rare for there to be more than one King and Queen for each species.]
+
+Well, then, who made me? Did I just happen to get the royal jelly?
+
+[You may get more clues about your heritage via the eggs you hatched with.]
+
+Stella nearly fell out of the tree.
+
+Right! The eggs! I forgot all about them. I should have been sitting on them or something!
+
+[That would likely crack them.]
+
+No, it wouldn't, that's how you keep eggs warm! Don't you know anything?
+
+Stella climbed down the tree, forgetting the distant castles to go searching for her siblings. Or, what she presumed to be her siblings. It was hard for her to picture having parents who replaced the ones in her old life. Her human parents hadn't been perfect, but they were hers.
+
+If she had been born to a dragon, she wondered how they'd react to such human offspring. Would she be killed? Thrown out of the nest? Or would she be cared for like normal?
+
+I hope no one killed my dragon parents, that would be depressing… Wait, that's the bush I hid the eggs in!
+
+Nestled and hidden within an autumn fern, there they were, three large white eggs. They reminded Stella of chicken eggs with thicker shells and, of course, they were gigantic.
+
+Upon picking them up, Stella was concerned about how cool they were to the touch.
+
+I feel bad that I didn't think about them. I figured they'd just survive and hatch on their own.
+
+[They likely would have.]
+
+And let me guess, that's hidden information?
+
+[...]
+
+Thanks for the comfort, it's good to know I didn't sentence them to death.
+
+Stella carried the eggs back to the willow tree and the fire pit. She nearly dropped one as she went, but her tail stuck out and curled around it before it hit the ground.
+
+Oh!
+
+She then carried one in her tail, finding it controllable and precise.
+
+That'll come in handy.
+
+She made a makeshift nest out of leaves, grass, and random twigs. It was ugly, but that combined with her presence would hopefully be enough to hatch the eggs.
+
+We'll be different species, but they’re my siblings. Weird.
+
+She stared at the eggs silently for a bit. Then, without much thought, she took them out from beneath the tree and placed them in a beam of sunlight.
+
+The eggs were darker, with fewer red veins than she remembered. An air pocket had formed, suggesting they might hatch soon, like she had. Their forms were larger and so obscured by their own projected Shadow against the shell. But still they wriggled, and Stella nearly jumped out of her skin when she heard a soft, high-pitched growl inside one of them.
+
+“Wow, I can't believe this is really happening…” She spoke quietly as she pressed her hands against the growling egg.
+
+They're the only family that I have in this world.
+
+“I promise that I'll take care of you.”
+
+***
+
+Besides being a new parent/sister, Stella was experimenting with ways to shapeshift. As she did, she figured she could do more than one thing at a time. Like dunking herself in freezing water or trying to balance somewhere precarious.
+
+As she went, she tried to visualize parts of her body changing. The easiest thing to visualize was the thing she could see, her hand. She tried to imagine longer claws or maybe some scales dotting her skin, but whether her eyes were opened or closed, nothing changed.
+
+When she had all but given up, she went to the river to clear her head. When she returned, her bag of copper coins was once again being disturbed, or more rightly, attacked.
+
+Another centipede? What is with these things! Do they just live here?
+
+[Answer: —]
+
+Stop.
+
+This centipede was larger than the last. It was clicking and headbutting the bag of coins before preparing to strike. Stella noted its skepticism, suggesting higher intelligence compared to the previous bug.
+
+Before it could do serious damage to her makeshift bag, Stella used her [Elemental Breath] to blow air, throwing it off balance. She swiftly followed up with fire, which caught on some of the remaining air, igniting an explosive blaze. As it lit up, the centipede began to thrash and screech.
+
+The centipede was quick to burrow back into the soil, leaving Stella to grab her bag of coins and toss it into some nearby shrubs. Her eyes scanned the ground while she also listened intently. The sound of scraping beneath the soil grew louder until she pinpointed the centipede's location.
+
+It's about to surface.
+
+Her eyes darted ahead, predicting its path. Right above where it was about to surface were the dragon eggs.
+
+No!
+
+She panicked, and reflexively she released a breath of fire. It coated the eggs, scorched the ground, and stopped the centipede from surfacing. The heat was enough to scare it away from its intended target, though the move had been risky. The eggs appeared unscathed, but Stella knew that not all wounds were obvious.
+
+What if she had cooked the eggs?
+
+She'd had little choice, and the fight wasn't over. The centipede was still churning under the ground, lurking like a shark.
+
+I have to protect them! She thought, hurrying over to pick up the eggs.
+
+When she did, the centipede was triggered by the movement. It shot out of the ground and reared to bite her.
+
+I'm vulnerable while holding the eggs! But if I don’t, they’ll be crushed!
+
+She dodged to one side, the centipede's jaws nearly catching her tail. She ran, and as it pursued her beneath ground, she decided to use her tail as bait.
+
+She could hear it beneath her and made sure to run just beyond its reach should it surface. As she did, she prepared to turn near a large tree.
+
+Now!
+
+As it shot out of the ground, she gave it a good whack with her tail, slamming it’s skull against the tree.
+
+Again!
+
+Three more good slaps with her tail, and it was attempting to go back underground. Without missing a beat, she wrapped her tail around its neck and set down the eggs. In its confused state, it scarcely fought back as she moved forward, steering away from the eggs and pulling it out of the hole.
+
+Once it was away from its escape route, it thrashed wildly.
+
+Well, now what do I do?
+
+If she let it go, it would escape. But as it was, she was struggling just to keep it in her tail’s grip.
+
+She gave it an ounce of thought before letting out a war cry and running forward, thrusting her tail to one side. The centipede was released and hit the ground with a crunch.
+
+Momentarily surprised by her own strength, Stella watched the centipede recover. Before it could fully, she reached out for its head, planning to pin it. But she underestimated its strength. Its powerful pincers clamped around one of her wrists, giving it the upper hand.
+
+Within seconds, it slammed her to the ground. Blood rushed down her arm, and pain wracked her body. It had her pinned to the ground, growling happily as it ground her flesh between its pincers.
+
+Instinct took over as light flashed behind her teeth. Suddenly, the air was exploding, flames bursting from her lips. Her breath gauge was fading fast, but the fire was the only way to make the centipede release her. Once it had, she only had a few moments to think.Her mind raced as the centipede writhed above her. Before she knew it, one of her hands swiped through the air. With that single motion, the centipede was cut in half. The hand she was used to had been replaced by a dragon paw with talons to match. What happened to me?She blinked up at the burning centipede parts now falling around her. She watched her expression reflected against the mirror-like exoskeleton, surprised to find her eyes weren’t blue. They were crimson.
+
+I can… Be awesome!
+
+Abruptly, green bug goo coated her diamond blue scales. Bleh.She got up, crouching over the body of her second monster kill. Her tail wiggled, moving like a snake as her chest swelled with joy. This body was powerful, and she had finally unlocked a new part of its potential. She giggled and then looked over her new modifications.Her tail was thicker with sharper scales. Her teeth were sharper, and her arms had changed up to her elbow, replaced with dragon claws. She curiously felt her scalp for the budding horns she was familiar with, only to find they had grown out into small, sharp horns.Well, this is an improvement. She sniffed. The smell of the centipede's corpse was more fragrant than she remembered, even while raw. She licked some saliva from her bottom lip as she stared at the half-burnt pieces of arthropod.
+
+I should eat it.
+
+She ate it, crunching even the thick exoskeleton between her teeth. As she munched, the sound of movement underground seized her attention.
+
+Why are they so attracted to me? She grumbled internally.
+
+She scented the air, smelling mostly her own blood. It smelled like rust and iron.
+
+Blood almost smells like my copper coins… Is that why they kept going after my bag?!
+
+Abruptly, three juvenile centipedes leaped out of the soil. They attempted to latch onto her, seemingly hungry, but definitely not as hungry as she was. She clawed them to bits and then ate their remains.
+
+More were coming, a whole hive. A family of centipedes, all determined to take her down.
+
+One of the largest she'd seen was the first to pop its head out of the soil. She charged in response, but one of the younger ones exploded out of the ground and grabbed her by the ankle. She tripped, face-planting hard.
+
+They've done this before, she observed.
+
+When she hit the ground, two more appeared, pinning her by the shoulders. They held her in place as the largest one, probably the mother, opened her pincers and prepared to splatter Stella's remains across the forest.
+
+But instead of thrashing, Stella turned her head to one side and took a bite of one of the living centipedes.
+
+[New skill [Wrath Of The Ravenous] has been added to your status.]
+
+Huh? What's that?
+
+[Wrath Of The Ravenous: Consuming defeated enemies temporarily increases stats. Partially refreshes energy, uses, or mana consumed by skills. The longer it is used, the hungrier the user becomes and the more vigor is depleted. Passively increases hunger.]
+
+Name: Stella Algos
+
+Stage: Queen Dragon Hatchling (10% to next evolution)
+
+Class: None
+
+Renown: 0
+
+Wealth: Meager (+0 to all stats)
+
+(C: 250 S: 0 G: 0)
+
+Stats: (0 points available)
+
+Power: 32 (27)
+
+Vigor: 25 (20)
+
+Grace: 25 (20)
+
+Intellect: 8 (8)
+
+Skills:
+
+Wrath Of The Ravenous (Grade SS) - Level 1
+
+Elemental Breath (Grade S) - Level 2
+
+Hm, my evolution percentage has increased. Nice.
+
+As the mother centipede attempted to decapitate Stella, she rolled out of the way, still munching on the juvenile one like a crunchy spaghetti noodle. She swallowed it down as a mountain of soil and roots flew over her head. Then she blasted the mother centipede with ice breath.
+
+It stilled, body partially frozen in place.
+
+[Elemental Breath is now level 3.]
+
+My breath gauge is zero. Time for the claws, big centipede!
+
+Stella closed the distance between them and then, just as the ice began to break and the centipede attempted to escape, she raked her claws through its midsection.
+
+It had been partially arched into the ground, a crest of shell covered in ice. But with two swipes, it was broken in half, scattering ice everywhere.
+
+Stella didn't really know what she was doing after that. She slaughtered any remaining centipedes and consumed a fair amount of the smaller ones. When there were no more that dared to approach her, she stood covered in green goo and her own blood, wondering where the next fight would be
+
+Then she realized it was over.
+
+She surveyed her surroundings a few times. Still in disbelief. Had she really done all that?
+
+[Evolution percentage increased to 40%]
+
+[Item ‘Mother’s Last Breath’ has been dropped by Mother Giant Centipede.]
+
+Stella wandered back over to the largest centipede, not seeing its item at first. She searched around it, but found nothing. Then she lifted it and scooted it over with great effort. There she found a clear, oval-shaped stone. It sort of reminded her of fossilized tree sap.
+
+Her confusion instantly triggered the system.
+
+[Mother's Last Breath: A wish in solid form. Can heal wounds.]
+
+Stella was covered in many bites, but wondered if it was worth it to use the item. When she took a step and fell to her knees, she considered that it might be. She consumed part of it, surprised at how easily it came apart. It worked immediately and healed most of her injuries.
+
+It prioritized the worst injuries first. That's handy.
+
+Stella was about to return to the dragon eggs and then back to her tree, but the sound of something incoming drew her attention away from that goal.
+
+More? She wondered.
+
+It was coming from her left, and the closer it got, the louder its approach. It sounded more like something lumbering around with four distinct beats. Nothing like the centipedes.
+
+Had the fighting attracted something new?
+
+Whatever it is, it's getting faster.
+
+She could hear its rumbling, snarling approach. A part of her was still adrenaline hungry and ready for battle. But her body was tired and sluggish. Despite her desire, her body didn’t agree.
+
+She had to get away and regroup, at least until she felt like she could use [Wrath Of The Ravenous] again.
+
+Without a second thought, she turned to collect the eggs and escape her fate.

@@ -1,0 +1,193 @@
+---
+id: c868c65f-296b-58db-adb8-1ccd1ae9705d
+page-type-slug: story-chapter-royal-road
+title: "669. Council of Cremont (Start of Book 13)"
+slug: 0118-669-council-of-cremont-start-of-book-13
+partOf: salvos
+position: 118
+ownLength: 2192
+unit: words
+publishedAt: 2024-07-04
+link: "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1705039/669-council-of-cremont-start-of-book-13"
+royalRoadId: "1705039"
+---
+
+669. Council of Cremont
+
+“It is almost time.”
+
+The voice rumbled, shaking the throne room. Every single one of the gathered figures bowed deeply as Regnorex drew back from the ornate balcony. Far behind him, the backdrop of a dark storm played, covering the scarlet dome of the Netherworld.
+
+The Demon King continued as he strode up to his throne.
+
+“Soon, the Cycle of Advent will once again begin. But this time, Genesis will not come.”
+
+He settled into his seat as he turned to his subjects. A pained expression crossed his face. It was the first change in emotion he had shown in many cycles. But not a single one of the Demons kneeling before him dared to raise their heads to meet his gaze and witness his moment of vulnerability.
+
+Regnorex wouldn’t allow them. For a king must show strength when faced with his people.
+
+“There will be no Desolation. There will be no death. There will be no new births— not in the Netherworld, any longer. For they shall be the brickstone which will be laid to pave our path to our eternal salvation.”
+
+He wore a solemn face as he spoke. He did not find joy in killing his own people. They had suffered long enough. An eternity of damnation. An endless cycle of death and rebirth. However, Regnorex found solace in knowing that it was for the greater good.
+
+That Demonkind shall be able to leave this hell once and for all.
+
+“Oracli.”
+
+Regnorex spoke, turning to face the Wisest of the Domain. Oracle raised his head, but didn’t meet the eyes of the Demon King.
+
+“Have you confirmed the status of our future children?”
+
+The Demon King asked the question simply. Oracle nodded and raised an orb, showing a scene from the Mortal Realm. Dark clouds were gathered above the Netherfied Lands— far fewer clouds than in the Netherworld, but they were present nonetheless.
+
+“I have, indeed, my King.”
+
+Oracli replied as he lowered the orb.
+
+“The next generation of our people shall be birthed in our new home, and they shall be unaffected by the sacrificial ritual that is to come.”
+
+“They are few, but they will eventually become many.”
+
+Regnorex shook his head as he turned towards the dark clouds in the distance— in the Netherworld. His heart ached, knowing that those children would never have the chance to truly live. However, knowing what awaited them— both Desolation and the Revelation— only further entrenched the Demon King in his beliefs.
+
+“Soon, Demonkind shall know peace.”
+
+Regnorex’s eyes fluttered shut as he continued in a soft whisper.
+
+“Soon, my dreams shall be achieved.”
+
+It had been a month since the rifts closed up across the skies of the Netherfied Lands.
+
+A whole month had passed with tens of thousands of Demons and thousands of high-leveled Demons converging at the center of the region that had once been the Inoria Empire and the Elutra Kingdom. It was a strange anomaly. Now, Demons no longer poured from the Netherworld to the Mortal Realm at random. Instead, a dark cloud hung overhead.
+
+It cast a shadow over the entirety of the skies around the Netherfied Lands.
+
+When Edithe Dawnrise had first seen this strange sight, she had wondered what it could have been. It didn’t make any sense to her. But what else she saw was obvious to her. That the Demons were acting erratic around that black cloud. That the Primeval Demon that had crossed through to the Mortal Realm had occasionally taken to the skies and circled around the dark cloud.
+
+There was something else to this black cloud. And while Edithe herself didn’t exactly know what it was, she knew that the adventurer companies that were exterminating the Demons there weren’t well-equipped enough to deal with it.
+
+That was why she had sought out the help of others. That was why she had gone to the Council of Cremont to seek out the aid of the temples. The [Priests] who communicated with the Spirit Plane. The [Crusaders] who exterminated Demons.
+
+As a child who grew up under the influence of the Sanctum of Elements— one of the three denominations of temples that were out there— she believed that she’d be able to turn to them for help. But what she was met with was…
+
+“The Council of Cremont refuses to offer aid to the adventurer companies in the Netherfied Lands.”
+
+[Archbishop] Ulric Magnus bellowed as he slammed a heavy metal gavel down to the wooden desk. Each strike of the tiny hammer echoed throughout the vast chamber. Edithe stared at him in sheer disbelief.
+
+But he wasn’t alone in making his decision. [Archbishops] Thorsten Siegfrid and Diana Ashlin were gathered there as well. Respectively, they were the leaders of the Sanctum of Elements, the Den of Souls, and the Sanctuary of Fauna.
+
+So their decision was final. There was no one else for Edithe to turn to now.
+
+“But you don’t understand—”
+
+Edithe started. However, they refused to hear her out.
+
+“Your appeal has been dismissed.”
+
+Ulric Magnus said as he slammed his gavel on the table once again. Edithe pursed her lips. She stood there for a moment as a group of [Crusaders] moved to escort her out of the dark chamber, illuminated only by a stained glass window hanging directly behind the three [Archbishops], casting shadows over their figures with backlight.
+
+Lowering her head, Edithe thought about everything she had learned under the tutelage of the Sanctum of Elements. And as the [Crusaders] moved to remove her from the room, she raised her head and glared at the three [Archbishops].
+
+“When I was a child, a [Priest] taught me that we need to study history books to learn from our mistakes. But the fact that you people rejected the Immortal King Alexander’s call for aid thousands of years ago, and ignored Belzu’s path of destruction until it was too late…”
+
+The [Crusaders] seized her and began to escort her out of the room. But Edithe’s gaze never left the three figures sitting atop their high tables.
+
+“It seems like you guys have never read a history book, because you guys just can’t stop yourselves from making the same mistakes over and over again.”
+
+And with that, the door was slammed before her. She closed her eyes and took in a deep breath as the [Crusaders] led her down the hallway. When she finally left the Council of Cremont, she couldn’t help but pull her hair and suppress a scream.
+
+“This is such fucking bullshit!”
+
+Edithe was outraged. And why wouldn’t she be?
+
+It was ridiculous. She thought it was absolutely ridiculous. It made no sense why they would reject her request for aid. Especially so soon after the United Coalition of the Human Lands had nearly lost against the Demon King.
+
+“Their age must be getting to them. How could they have already forgotten what happens when they refuse to act against Demons. Isn’t it literally their job as the Council of Cremona to do something about it?”
+
+Edithe rubbed her temples as she stood before the steps leading to the massive building. It was a temple of sorts, but judging by the architecture— the marble pillars and the brick stone buttresses— it was incredibly old.
+
+Next to her, a voice spoke up placatingly.
+
+“To be fair to them, they are currently preoccupied with the Elf attacks, right?”
+
+Glancing to the side, Edithe saw a figure standing with a wry smile there.
+
+It was not Hadrian. He had been left in charge of the Valiant Dreamers Company back in the Netheried Lands. And it was not like the speaker was even a man anyway.
+
+It was a woman. Her name was Faith El, and she was the Fallen Queen of Elutra.
+
+She had come with Edithe to plead their case as well. Unfortunately, the both of them had been thoroughly shut down.
+
+“Don’t try to defend those old fucks. They don’t deserve defending. Not when they refuse to even support the United Coalition of the Human Lands in the front lines, choosing to hide here like the cowards they are.”
+
+Edithe shook her head as she strode past the Fallen Queen of Elutra. The two of them began to make their way away from the Council of Cremont.
+
+Certainly, Edithe could see Faith’s point. After all, there was the threat of the Elves. But they weren’t an existential threat to the existence of the Mortal Realm. It was a threat to only the Human lands.
+
+Meanwhile, the Demon King was different.
+
+His plan was to conquer all of the Mortal Realm. Or at the very least, that was what Edithe was told. And everyone else seemed to understand that fact. But they didn’t understand it enough to act.
+
+How could they have all forgotten about the consequences of their inaction so soon? Because of them, Belzu had been allowed to roam freely. Because of that, the Inoria Empire had been overtaken by Demons without anyone realizing. Despite the pleas for help from the Elutra Kingdom, no one offered an ear to listen.
+
+Edithe glanced to the side, eyeing Faith. Once again, even though the remains of the Elutra Kingdom was calling for help, no one acted to save them. Perhaps this was the reason why the Fallen Queen seemed so unperturbed by their rejection. Faith was probably used to being ignored in her time of need, so she had already been resigned to this outcome.
+
+But Edithe didn’t want to give up just yet.
+
+The United Coalition of the Human Lands was formed for a reason. Because even though there was no Immortal King Alexander to unite them, Humankind still could work together to defeat their enemies.
+
+At the very least, that was what was agreed upon during the formation of the United Coalition of the Human Lands.
+
+But that didn’t seem to be the case any longer.
+
+“I just don’t get it…”
+
+Edithe sighed as the two of them approached a flaming figure waiting for them a mile away from the Council of Cremont.
+
+“They didn’t even give us a reason. Like, I would understand if they at least explained why they refused to help us.”
+
+“Other than the obvious fact that the Netherfied Lands poses no immediate threat to them?”
+
+Faith spoke up, placing her hand on her chin. She regarded the flaming figure waiting for them as she continued.
+
+“I think the fact that you’re friends with her plays a part in their decision too.”
+
+Edithe pursed her lips as she faced the flaming figure that was waiting for them. In response, the figure just tilted her head back at them. What the two women stared at wasn’t… a person, per se. Although, technically, it was a person too?
+
+It was complicated. Because the flaming figure was technically just a copy of a real person. But she behaved like a real person too.
+
+She was the Salvos clone— the very same one that had stayed behind in the Mortal Realm when Salvos left for the Netherworld. And she had been the one to transport both Edithe and Faith from the Netherfied Lands to here in the Council of Cremont.
+
+But the [Crusaders] that guarded the area would have attacked Salvos on sight. Even if she was a clone. So they landed far enough away for her to not be spotted. The Salvos clone waved a hand and smiled as the two women stared at her.
+
+“Yes?”
+
+The Salvos clone asked curiously. Edithe chewed her lower lip, before turning to Faith.
+
+“While that is a possibility, I think it’s even more ridiculous that they’re refusing to offer us aid for such a petty reason.”
+
+Edithe shook her head, and Faith nodded.
+
+“I agree. But such is the way of politics.”
+
+“It’s fucking stupid.”
+
+“It really is.”
+
+The Salvos clone just stared at them quizzically as they both sighed. Edithe raised her head and looked towards the horizon in the distance. She recalled the dark clouds that were gathering in the Netherfied Lands.
+
+“Our only saving grace is the fact that so far nothing else has happened since the rifts have closed.”
+
+She spoke in a whisper. However, she wasn’t sure if that would remain the case forever. That was why she needed to return to Hadrian and the rest of the Valiant Dreamers Company.
+
+But before she could direct the Salvos clone to send them back, her attention was drawn back to the Council of Cremont as she heard a bell tolling. Her brows snapped together as she saw a commotion break out in the front entrance of the building, with a large bell atop the structure repeatedly ringing in alarm.
+
+“What is going on?”
+
+Faith asked with a frown. Edithe narrowed her eyes, before she heard a voice shouting.
+
+“Emergency! Emergency—”
+
+A man ran up the steps of the Council of Cremont as he waved a piece of parchment above his head. And as Edithe processed his words, her eyes grew wide.
+
+“Mavos Academy is under attack by the Matriach Centinel of the Bloodied Gulf! Headmaster Skyshredder calls for aid!”

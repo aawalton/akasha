@@ -1,0 +1,175 @@
+---
+id: 4503023e-2747-508b-8392-c485d0af0c1a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 525: Thanatos"
+slug: 0047-chapter-525-thanatos
+partOf: reborn-as-a-demonic-tree
+position: 47
+ownLength: 3207
+unit: words
+ownProgress: 3207
+publishedAt: 2026-01-14
+link: "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/2943236/chapter-525-thanatos"
+royalRoadId: "2943236"
+markedReadAt: "2026-06-29T19:03:08.674Z"
+---
+
+Ashlock wasn't a single tree on a mountain peak but rather the head of a vast forest of interconnected minds. He shared his knowledge of the world and granted use of his passive skills to his offspring, and they did the same for him.
+
+However, just like how his offspring couldn't use his skills as well as he could, the same was true for him.
+
+Ashlock had a deep understanding of shadow law after Nox assimilated the shadow throne in Tartarus. He could even infuse shadow law into his desolation Qi, meaning he could bring the shadow dimension to ruin with ease. But since he didn't possess the ability to actually wield shadow Qi, the applications of his knowledge of shadow law were limited.
+
+Hence, he had gone to Tartarus seeking Nox's aid. As the ruler of Tartarus, a shadow cultivator, and the inheritor of the shadow throne, if anyone could help override whatever Councilman Faelorian had done to Anubis and reestablish his connection with the captured Ent, it would be her.
+
+She had agreed to try, and to Ashlock's surprise, it had worked.
+
+"Your message has been delivered as you requested," Nox said through her shadow dryad that was lying under her tree. "Wait, hold on. Something's wrong—ow!"
+
+Ashlock felt it too. With his connection to Anubis briefly reestablished, he could feel the Ent's intense pain from being burned alive by light Qi. Ashlock's instant thought was to panic, but then he remembered something. His Ents could no longer die, at least not that easily.
+
+"Don't fight back," Ashlock instructed. "Let Anubis die."
+
+"O-Okay," Nox replied hesitantly, relaxing the shadow Qi she was pumping through the connection. Sure enough, the pain increased tenfold and then vanished. Anubis's body had disintegrated under the intense light Qi.
+
+Yet the connection to what could be described as Anubis's soul was still active. A moment later, the Ent's soul began to rapidly absorb the surrounding Qi to reform, not only from the shadow dimension but also from the formation that contained him. Ashlock felt the connection strengthening as the reforming Anubis began to tear apart the very thing that had been suppressing him. Eventually, the formation seemed to reach a breaking point.
+
+"I think the formation has lost its hold. Bring Anubis home if you can," Ashlock said to Nox.
+
+"From such a distance? It's going to cost a lot of Qi, but it might be possible," Nox said as her dryad body spread her arms, creating a massive rift into the shadow dimension. The sheer power being poured into the rift was astounding as Nox circled it and reached inside. Reality tried to resist, but Nox overpowered it with her domain over shadow law, and after a long struggle, she pulled out a half-reformed Anubis.
+
+She had to step back quickly as the incredibly refined shadow Qi from Tartarus was pulled toward Anubis to accelerate his recovery, as if he were the center of a black hole.
+
+After a full minute, the Ent stood once more—but notably weaker. Anubis's cultivation had dropped several stages, all the way down to the 1st stage of the Nascent Soul Realm. A reasonable cost considering Anubis had been disintegrated down to his soul. However, while Ashlock was glad to have Anubis back, he was rather upset that one of his favorite Ents now felt so... weak.
+
+"How can I use Anubis as a mouthpiece moving forward if he's barely in the 1st stage of the Nascent Soul Realm? This won't do at all, but I don't have any Ents that could replace his role. Mhm, should I turn him into a general?" Ashlock mused. "Actually, system, can you show me the summary of my Necroflora Overlord skill again?"
+
+[{Necroflora Overlord [SSS]}: You now lord over an immortal army that will be feared throughout the realm.
+
+All armies need a General, so for 1,000 credits each, you can now select up to three Ents at a time to be Generals. Upon selection, the chosen Ent's cultivation will rise to match yours, and they will continue to advance with you. These Ents will have heightened intelligence and will be able to lead an army on your behalf. General-class Ents are also able to raise Ents in your stead.
+
+Furthermore, when fighting within your domain, all Ents benefit from your aura. They become empowered, allowing them to fight multiple stages above their cultivation level. They can also absorb Qi from their surroundings to keep themselves going and even heal, making them entirely self-sufficient.
+
+Upon death, Ents will now rapidly absorb surrounding Qi to regenerate, but they will be weaker than before. This can happen indefinitely until they run out of Qi or become too weak to continue. At this point, they will plant themselves into the ground and revert to a demonic tree seed]
+
+Ashlock had now witnessed that final part of the upgrade firsthand.
+
+"I like that it helps to keep my Ents alive, and it will make any army of Ents I raise incredibly annoying and Qi-intensive to wipe out. But since normal Ents have no way to advance in cultivation, it means upon death, they are permanently weakened. Unless I turn them into a General, forcefully raising their cultivation level to match mine."
+
+Previously, Ashlock had dismissed the idea of promoting Anubis in favor of Geb or possibly Sol, as Anubis had been at the 5th stage of the Nascent Soul Realm, which hadn't been far below Ashlock's stage at the time, so the promotion had felt like a waste.
+
+"Yet now Anubis is barely in the Nascent Soul Realm, and I'm at the peak. The difference between us is now huge."
+
+There was also another thing that the recent confrontation with Councilman Faelorian had taught him: the monumental gap between Nascent Soul Realm and Monarch Realm cultivators, and the significance of knowing an affinity's law. Without possessing knowledge of an affinity's law, there was simply no hope of challenging a Monarch.
+
+"If I promote Geb to become a General, while his cultivation will rise to match mine, what's to stop a Monarch from coming along and crushing Geb with ease in their domain? The idea of a walking fortress was appealing, but such a big, slow-moving target is only practical if it's stronger than what it's facing. Sol kind of has the same issue, in that his light beams won't deal any damage to Monarchs, and his healing will be rather redundant with Larry's domain keeping people from dying and the Ents self-regenerating." Ashlock paused, thinking about the two Ents he had picked to turn into Generals so far. "Now that I think about it, isn't it a stroke of luck that the two I've chosen so far don't suffer from lacking an affinity law? Void Qi ignores most conventional rules, and Bob is a unique entity that will be practically impossible to kill unless two Monarchs with differing affinities team up."
+
+Contemplating for a while longer, Ashlock made up his mind. For the current situation, promoting Anubis to the General class made the most sense. As his mouthpiece, the shadow lich couldn't be weak, and with the heightened intelligence granted by the upgrade, the Ent should be able to wield shadow law-infused Qi.
+
+"System, I want to promote Anubis to become a General class Ent."
+
+[Upgrading the Ent {Anubis} to General class will cost 1000 SC. Are you sure?]
+
+"Yes. But I also want to change the Ent's name to Thanatos. Anubis represents the guide to the afterlife in Egyptian mythology, but I want him to be named after Thanatos, the Greek personification of death. It only seems fitting since he's the first of my Ents to die and rise again from the ashes."
+
+[Acknowledged. Upgrading now...]
+
+The entire pocket realm of Tartarus quivered as Anubis rose into the air, arms spread wide like an ascending being. Shadow Qi from all corners of the pocket realm poured into the seemingly endless pit encased in his ribcage. Rapidly, the Ent's cultivation level and sheer presence rose as more and more shadow Qi continued to pour in.
+
+"He's going to devour the whole pocket realm at this rate!" Nox yelled. Her hands were raised, and two gushing rivers of liquid shadows were being drawn out of her fingertips.
+
+"There's nothing we can do but hold on!" Ashlock replied, but swallowed his words as he started to see cracks forming in the pocket realm's structure. "Shit." He quickly activated Progeny Dominion, tearing out a chunk of his own soul and shoving it into Nox.
+
+[Progeny Nox selected: Initiating soul transfer...]
+
+In an instant, he became acutely aware of the overwhelming amount of shadow Qi swirling around him and Tartatus's rapidly degrading condition. Without hesitating, he drew deeply on his stored divine energy and flooded the area. The majority was actually swallowed up by Anubis, soon to be Thanatos, but he did manage to use some divine energy to plug up the widening holes in Tartarus.
+
+The whole process lasted a few more minutes. Anubis slowly completed his evolution into Thanatos, first by growing another meter in height to a total of four meters and then by creating a massive scythe. Two wings of darkness followed, and finally a hood that obscured his facial features, save for two hollow eyes that somehow drew attention despite being nothing but black flames.
+
+Just when Ashlock thought Tartarus was really going to break, the ascension abruptly ended.
+
+Nox fell to her knees, breathing deeply, and Tartarus finally fell silent.
+
+Thanatos lowered but remained levitating, his feet never quite touching the ground. Sweeping his piercing gaze around the top step of Tartarus, Thanatos located where Ashlock was watching from, and the giant floating lich bowed deeply.
+
+"My Lord," he said in a faint voice that sounded like death whispering in your ear. "What are your orders?"
+
+Ashlock was thrilled. Partly because Tartarus had survived the collapse, and also because Thanatos had turned out exactly as he had envisioned. While Anubis had carried a notable presence as a three-meter-tall shadow lich, it was nothing compared to this looming shadow angel of death.
+
+"My orders? Mhm..." Ashlock pondered. What should his next move be? He had delivered the Covenant's first kill order to a Monarch Realm Councilman, no less. However, he had made sure not to put a time limit on that, as his roots had advanced barely halfway through Floridawn at this point, meaning it would be a few days until he could bring even a fraction of his full strength to the front lines. Not to mention, the only time he had successfully killed a Monarch was Ig'Zal, and that was a special case.
+
+It might be a while before the Covenant could complete that promise.
+
+Though having already met with two Monarchs and threatened to kill one of them, things were progressing faster than he had planned. Perhaps it was time for him to take this war with the Celestial Empire to the next stage and start really pressuring the Monarchs to take action?
+
+"Most of the mortals of Floridawn have likely fled the area by now, and the first waves of the beast tide have already entered the city. That means I can begin the next phase of my plan that makes use of the fact that General-class Ents can also raise Ents in my stead."
+
+No longer did he need to have a Bastion nearby and manually plant death seeds in each corpse to turn them into Ents. If a monster died near one of his Generals, then his General could raise it as an Ent for him.
+
+"Here are my orders. Upon the coming of dusk, you will set foot on Floridawn and raise an army of Ents from the dead. You will then massacre any cultivators mounting a defense in the name of the Celestial Empire, and before a Monarch can step in, you will vanish into the shadows."
+
+There would be a time and place to test if Thanatos could stand against a Monarch in a fight, but now wasn't the time.
+
+"Understood, my Lord," Thanatos said, and vanished into the shadow dimension.
+
+Ashlock really enjoyed the feeling of having perfectly loyal, basically immortal, and competent subordinates. Though that didn't mean he didn't want the challenges certain people in the sect gave him.
+
+"I wonder what Stella is up to," Ashlock mused. "I hope she is having a nice reunion with her brother."
+
+***
+
+"HA!" Stella yelled gleefully as she planted a Qi-infused fist into the face of a white-robed cultivator, sending them spiraling into the distance before pounding the snow.
+
+Oops, Stella thought, flexing her bloodied hand. Judging from the crunch of bone and the fact that the fool had been in the Star Core Realm, he was most certainly dead after that one punch.
+
+"Wrong one!" Janus called from the side while engaged in a brawl with a black-robed volcano cultist who seemed to be in the Nascent Soul Realm.
+
+Stella snorted. "These fists don't discriminate. Volcano cultist or not, anyone who crosses this line is getting punched!" She grinned while eying the many cultivators floating on swords before her and drawing an invisible line with her finger in the air. It had been hours since Zeph and Ao started fighting, and she had sent a dozen idiots to an icy grave.
+
+Just when will these arrogant fools learn that just because my cultivation realm is hidden by the Phantom Veil Amulet, that I'm not a weakling? I mean, I'm floating here without a sword. That means I'm at least in the Nascent Soul Realm.
+
+"No! I meant the one you just killed didn't have a bounty!"
+
+"Oh..." Stella blinked and pretended to care. Killing these guys for their bounties provided her a nice excuse to go all out and suffer no repercussions. She really didn't need the money. Besides, it was their fault if they died. She had drawn a line, told them many times not to cross it, and they simply didn't listen. It's not like she was going out of her way to hunt weaklings down and kill them. That would be uncalled for, after all.
+
+Instead, they kept sprouting nonsense about saving Ao or needing to help kill him for the future of the volcano, and then charging past her, or at least trying to.
+
+I'm starting to feel a little bad for them. But it's not like I can let my guard down as it's fifty of them against just the two of us. We are really the victims here, being ganged up on.
+
+While seeing this many Star Core Realm cultivators didn't faze her anymore after what she had seen in the Eternal Realm, there was no doubting that the Frozen Star Sect was a powerhouse worthy of being considered on a similar level to the Celestial Empire.
+
+"Unknown cultivator, stay out of this!" A black robed volcano cultist, this time, floated toward her without a sword drawn. Bloodlust openly radiated off him, but Stella wasn't impressed. Had this guy even killed a monster in his life? His bloodlust was so weak.
+
+"And who might you be?" Stella asked arrogantly. She found that if she said it this way, they were far more likely to try to feel the need to impress her with their name.
+
+"I'm Grand Elder Bingxu."
+
+"Uh-huh," Stella said, secretly tapping the name into her Eternal Pursuit Pavilion pendant. Her eyes widened slightly. There was a bounty! That meant she could kill without Janus getting mad. Glancing up, she smiled at him. "Well, Grand Elder Bingxu..."
+
+She paused, finding the man's confident grin strange.
+
+"It's not often I get the pleasure of facing a beauty like yourself, and it pains my heart to see how you tremble in fear before me after learning of my profound name." The man raised his chin, looking down his nose at her condescendingly and flashing his soul pressure. "But even if you were to kowtow, kiss my foot, and beg for forgiveness, it's far too late for you. For you have wronged too many of my brothers today and are narrow-minded enough to defend Ao Lingxuan from facing judgment. Now... in their memory, I will be the one to handle your execution."
+
+"Oh, is that so?" Stella narrowed her eyes. "Brother, it seems I have restrained myself for too long."
+
+"What do you mean by restraint? It's only been a few hours, and you have killed dozens, many of whom didn't have bounties!" he yelled while grunting from his fight, but Stella could tell Janus was putting on a show to try to deter others from entering the battle. After all, his goal from the start had been to reduce casualties and not anger Ao Lingxuan once the fight with Zeph was over.
+
+But Stella didn't care about any of that. Ash could fight the Celestial Empire just fine, with or without this arrogant dragon's help. All she cared about was finding a Fleshfruit tree, meeting her brother, and heading home as soon as possible.
+
+"Brother, forgive me for what is about to transpire," Stella whispered as she closed her eyes and summoned her sword into her grasp for the first time. She was far too angry to hold back anymore. Aether Qi law surged from her fingertips down the length of the blade, wreathing it in shimmering threads of ethereal energy. Reality itself quivered as she slowly raised the weapon, tracing a hair-thin fissure through existence with its tip that seemed to divide the very fabric of the world. However, with her Phantom Veil Amulet obscuring her cultivation, one would need to have paid close attention to notice what she just did.
+
+Clearly, Grand Elder Bingxu hadn't. He was far too busy sneering at her down that long nose of his.
+
+"It's useless!" Grand Elder Bingxu laughed, floating closer with his arms arrogantly open as if inviting her in. "Closing your eyes won't save you, girl. No matter how much you beg, I, Grand Elder Bingxu, will—"
+
+With her eyes still closed, Stella blinked past him and carved downwards. Reality caught up a second later, a hair-thin tear in the aether tracing her path and seamlessly horizontally slicing Grand Elder Bingxu in half alongside the rest of reality in her wake.
+
+Grand Elder Bingxu's death was swift and silent. The man didn't have time to even blink, let alone cry out in pain. In fact, he likely didn't even know he had died. Yet, despite the incision being hair-thin, reality made up for the silence, loudly shrieking as it pulled itself back together.
+
+Stella slowly opened her eyes and snapped her fingers—a rift to the aether swallowed the two halves of Grand Elder Bingxu. Ash might appreciate the snack, Stella thought as she flicked the blood off her sword and smiled at the remaining cultivators, who all floated backward in fear.
+
+"Game has changed," Stella said, eying each of them. "No more line. If you stay in my sight, you're dead. Got it? Good." She blinked out of existence again.
+
+Enough holding back. It was time to enjoy a hunt.
+
+She just hoped Janus wouldn't be too mad at her once it was over.

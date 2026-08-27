@@ -1,0 +1,167 @@
+---
+id: 101d8512-adeb-5423-9f47-8b92f844fc91
+page-type-slug: story-chapter-royal-road
+title: "Chapter 5: Beating the Shit out of Stuff"
+slug: 0005-chapter-5-beating-the-shit-out-of-stuff
+partOf: road-to-mastery-a-litrpg-apocalypse
+position: 5
+ownLength: 2018
+unit: words
+publishedAt: 2022-11-17
+link: "https://www.royalroad.com/fiction/61041/road-to-mastery-a-litrpg-apocalypse/chapter/1042831/chapter-5-beating-the-shit-out-of-stuff"
+royalRoadId: "1042831"
+---
+
+Jack Rust sat on a branch, waiting. Strips of fabric were wrapped around his fists and knuckles, courtesy of his now-ruined shirt, so they wouldn’t break or bleed.
+
+He’d considered making a weapon, but the fistfighting skill’s enhancements were too good to pass up. A spear was only nice until you tripped and impaled yourself. Plus, his fists were more than enough for the task.
+
+Below, his victims approached, unaware of the human predator eyeing them.
+
+They were green, ugly, and wickedly stupid. As Jack watched them, the three goblins were arguing over a piece of wood—a club, probably, though it looked like a random fallen branch.
+
+They had no idea what was coming.
+
+As they passed nine feet below Jack’s branch, he took a deep breath and fell on them.
+
+The sight of the earth bear and the ramifications it implied had sharpened Jack’s resolve. He was on fire now, in a race against time. He couldn’t afford to hesitate.
+
+The nine-foot fall was long, but Jack broke it on the back of an unsuspecting goblin. His fists were clenched, and his Fistfighting skill helped him make the landing, though he had to roll once on the ground—that wasn’t the skill, he could always do it.
+
+Jack and the goblin collided with a heavy thud, and the poor greenskin was driven into the ground hard enough to break its neck. Jack rolled, stood, and grinned.
+
+One down, two to go.
+
+The other two goblins were surprisingly quick on the uptake. Before their comrade had even stopped moving, they were already screaming and pouncing at Jack, claws extended.
+
+Goblin, Level 2
+
+Goblin, Level 3
+
+The goblin he’d just killed had also been Level 3. He grimaced as they approached. Unfortunately, he didn’t have time to observe them fight beforehand. He assumed the Level 3 goblin would be faster than its brethren, which was true, but he completely underestimated the world of difference.
+
+The fucker was fast.
+
+It fell on him almost instantly, claws blitzing out to tear him apart. Jack defended by punching back. His reach was significantly longer, given that the goblins were child-sized, so he should win this exchange.
+
+Unfortunately, the goblin was slippery. His fistfighting skill only provided basic familiarity with the movements, and the goblin slipped under his punch to enter his guard. Jack panicked. His battle mode activated in full throttle. His veins were filled with steel, and his entire body felt on fire as his mind turned ice-cold. His eyes widened to take in everything. The world slowed down.
+
+The goblin remained fast.
+
+A set of claws raked his chest, while another went for his eyes, only narrowly missing. The chest attack hit dead-on, but no blood came out. Instead, with a grin, Jack’s knee rose to meet the goblin’s face and catapulted it backward.
+
+This time, he was prepared to fight—and, though he couldn’t use a weapon without sacrificing the skill’s bonuses, he could wear armor. A layer of bark decorated the inside of his half-torn shirt, protecting against the goblins’ short claws. They could have seen it if they weren’t stupid.
+
+The second goblin arrived as soon as the first went flying. It screeched as it dove into Jack’s guard, then grabbed his leg before he could retrieve it. Its claws pierced skin and drew blood, and it refused to let go when Jack pulled his leg back, intent on maiming him. It opened its jaws wide and lunged in for a bite.
+
+That wasn’t a very good idea.
+
+Jack’s fist fell onto the goblin’s head like a meteor, smashing its mouth shut. It stumbled, still weakly holding onto Jack’s leg right under the thigh, but a brutal punch to the face threw it back, forcing it to let go as it lost control of its body. Jack felt thin bones bend under his fist. The goblin didn’t stand back up.
+
+Thankfully, it had missed the major artery in his thigh.
+
+He turned around with an elbow, trying to hit the other goblin before it surprised him, but it wasn’t there. A hard strike to the back of Jack’s head brought stars to his eyes. He fell forward, only instinctively rolling to the side and avoiding a second attack. He turned around.
+
+Motherfucker…
+
+The Level 3 goblin, bleeding from where its long nose had been broken, was now wielding the branch-turned-club. It lunged at him again, shouting-crying a grating “Kekekeke!”
+
+Jack, still on the ground, blocked with his forearm and felt it crack under the impact. He growled, seeing red. The world was swimming, he was in pain and deadly danger, yet his heart was filled with rage. He gave in to the beast, letting violence take over.
+
+The goblin smashed its club down again, and Jack defended with the same arm, sensing it crack further. He then lunged at the goblin before it could retract its heavy weapon, grabbing the top part of its face, turning around with the goblin in hand, putting a leg behind its knees, and smashing its head into the floor. Hard.
+
+The club left its hand as the goblin screamed, and Jack screamed back, right in its face. Sharp jaws bit his palm, ripping a piece of flesh, but he didn’t care. He let go, and as the goblin tried to rise, he drove a left punch into its face. Its head bounced off the ground, but its Level wasn’t for show.
+
+Despite the heavy hits, it was still kicking and clawing. Crimson lines appeared on Jack’s arms, along with a thin one on his cheek, right below his eye. However, he was relentless. If he stopped now, the goblin would stand back up.
+
+He braced through the claws and kept pummeling. He roared like an animal. His fists rained on the goblin’s face, each punch jolting its head to the left and right. The goblin’s throes weakened—and then, with a tremendous burst of strength, it rolled under his feet and jumped upright beside him.
+
+It tried to run away, but Jack couldn’t let it. If even one goblin escaped, the entire tribe would learn about him, and he would die.
+
+Even as it tried to run, Jack grabbed its ankle and pulled it back. He realized it was light—and then, with a massive roar, he raised the entire goblin over his head like a club and smashed it head-first against the ground.
+
+The head exploded, painting the dirt red and decorating it with brain matter.
+
+Jack plopped to the ground, staring at the dead goblin with horror. As the battle fever died down, he realized what he’d done. It was necessary but so madly brutal…
+
+I did this.
+
+He puked. I did this, he kept thinking, spiraling into guilt and disbelief. I did this…
+
+It wasn’t about killing the goblin. It wasn’t even about the brutal way of doing so. These were all necessary, and Jack had already come to terms with it before attacking.
+
+No, what terrified him was the mad rush of satisfaction he felt while doing it. Fighting these goblins, he was alive. When he let go of everything, the increased brain activity and awareness, as well as the feeling of omnipotence his body gave, were almost ecstatic. When he smashed the goblin like an octopus, he wanted to roar in triumph.
+
+These were the same feelings he’d experienced against that first goblin in the cave, but back then, they had been overshadowed by the fact that he’d killed something and all the new information he received. Now, these feelings were laid bare, and he had to face them.
+
+At least, his injuries weren’t too deep, and his enhanced body was quick to stop bleeding.
+
+Jack stayed there for a while, struggling to get his thoughts in order. He felt increasing panic and a desire to run away but forced himself to calm down. Eventually, he succeeded, at least to the extent where he could think and operate as normal.
+
+He stumbled away and back to his cave, then sat on the ground near the entrance. He took a few deep breaths.
+
+Transitioning from a researcher to a forest killer wasn’t easy.
+
+Thankfully, Jack was in control. The emotions were too many to comb through quickly, but he wasn’t overwhelmed after the initial onslaught. The same drive that pushed him to survive no matter what now helped him put himself in order.
+
+He’d known this was coming. He could handle it. He just needed a bit of time.
+
+The minutes ticked by for Jack, turning into hours before he realized it. In his mental self-healing state, time had lost its meaning as recovery took priority. His entire being was focused on digesting the brutal reality that the modern world didn’t let people experience.
+
+Now, Jack was speed-running it. The experience was harrowing but necessary—and, thankfully, he could handle it.
+
+No, not just handle it. He would thrive in it. He could feel it in his bones. This was where he belonged. This was him.
+
+Transitioning wasn’t easy, but he would get there.
+
+Jack kept comforting himself until night fell. He was finally better, and suddenly, he realized he was terribly thirsty, the back of his head hurt like hell, and his stomach was empty enough to burn.
+
+Shit! I forgot to find water!
+
+He had shelter—his cave—but water was the single most important resource. Without food, he could survive for weeks. Without water, not even a couple days. It just hadn’t crossed his mind before.
+
+He knew a creek nearby. The water wasn’t too potable, but it would do—stomach and intestine problems were better than dehydration. He would even drink his own piss if he had to.
+
+The only thing he wouldn’t drink—besides saltwater, the only fluid that doesn’t help dehydration—was the ice pond. He suspected it was something more than simple water—something magical—and that its freezing cold would persist inside his stomach, destroying him from the inside out.
+
+At least, he wouldn’t take the risk unless he had no choice.
+
+He could always capture a small animal and experiment, but…Jack had his bottom lines. Killing man-eating goblins was fine; torturing innocent animals was not, at least while he could help it.
+
+He stood up to head to the creek, but before that, there was one final thing to do.
+
+Level Up! You have reached Level 3.
+
+Another cold announcement, product of an unfeeling system that pitted living creatures against each other. Jack shook his head, then opened his status screen and put both free points into Physical. He intended to invest in Mental as well—it should help with everything, including his unstable mental state—but not yet. Not when he almost died every time he did battle.
+
+Name: Jack Rust
+
+Species: Human, Earth-387
+
+Faction: -
+
+Grade: F
+
+Level: 3
+
+Physical: 9
+
+Mental: 7
+
+Will: 6
+
+Skills: Fist Fighting (I)
+
+The familiar surge of power passed over his body. He was stronger, faster, healthier. By now, he was already at the level of a professional athlete, if not past that, and all it took was four goblins…
+
+His status screen reminded him of how many things he didn’t know yet. What were factions? Grades? He’d seen F before in the dungeon description, and the Ice Pond was an E-grade resource, but what exactly did that mean?
+
+More importantly, he saw that his species was referred to as Human, Earth-387. This clearly implied the existence of multiple Earths, possibly multiple intelligent species.
+
+Was the System really alien? Did it refer to a galactic empire or an inter-dimensional one, where many variations of Earth existed? Maybe that Animal Kingdom? Then again, if intelligent species existed on other planets, why wouldn’t they name their planet Earth? It literally meant dirt. It could be the most common planet name in the galaxy.
+
+But yes. Water. Then, Jack would revisit the ice pond to try and get extra bonuses—after his level-up, he might be able to take an extra step—and then, goblin-hunting.
+
+By the end of it, he would be a superhuman killing machine. The thought should have been terrifying.
+
+Why did he feel excitement instead?

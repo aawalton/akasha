@@ -1,0 +1,255 @@
+---
+id: d12a3d52-deff-5876-8813-08ee3882db94
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1 – A [Rolling Stone] Gathers no Moss"
+slug: 0001-chapter-1-a-rolling-stone-gathers-no-moss
+partOf: rock-falls-everyone-dies
+position: 1
+ownLength: 1365
+unit: words
+ownProgress: 1365
+publishedAt: 2023-01-09
+link: "https://www.royalroad.com/fiction/55418/rock-falls-everyone-dies/chapter/1083016/chapter-1-a-rolling-stone-gathers-no-moss"
+royalRoadId: "1083016"
+markedReadAt: "2026-06-29T22:50:15.675Z"
+---
+
+On a certain mountaintop, high above the clouds, a hero and a villain were having a grand battle.
+
+“Take this—[Holy Infinite Beaming Sword of Banishing the Nasty Darkness]!”
+
+“Hah, that is nothing against my [Aegis of Divine Darkness for Repelling Pesky Heroes]!”
+
+Grand spells and abilities were flying every which way, tearing apart the landscape and slicing up the clouds below. It was a very grand battle indeed—one that would decide the fate of the world.
+
+But did it really matter? Like, really really?
+
+Because… the fate of the world was constantly shifting this way and that. There was always balance. Another hero and another villain. Yes, it was the fate of the world, but…
+
+Only for like—30 years or so, probably.
+
+The record was half a year before a new villain rose up. A rather short eternity of peace that turned out to be.
+
+Therefore, it really was not that special of a battle. Similar battles had been fought before. Similar battles would be fought again.
+
+Whichever side won; the other side would eventually strike back.
+
+Ultimately, it was a pointless story that would lead nowhere.
+
+Luckily, they are not the main characters of this story. In fact, they will be left as mere footnotes in history, while our hero will lead a much grander tale.
+
+On the violently shaking mountaintop sat a stone. It was a nice stone—a gneiss stone in fact. It might have been more accurate to call it a pebble. The type of pebble a child might take along due to its nice shape and pretty coloring. This pebble was spending its time as stones tended to, minding its own business. The racket nearby was quite annoying, and it wished that it could get some peace and quiet.
+
+That however threw the stone for a loop—wishing for peace and quiet? Since when had it wished for anything? Since when had it had thoughts anyways? The stone strained its mind but could only recall a long time spent in comfortable silence. Was this awareness a new thing?
+
+It was.
+
+Just a few minutes ago, one of the hero’s stray spells had hit this very pebble, causing some strange changes to come over it. The pebble found the situation quite odd and wished it could go back to the relaxing state it had previously been enjoying.
+
+Who wanted to be aware of eternity spent waiting on a mountaintop?
+
+As it tried to relax its mind, the pebble noticed a strange screen hovering in front of it. Had that been there before? No—it had to be new. Curious, the pebble focused on the little grey box.
+
+[Unnamed]
+
+Title(s): None
+
+🗿
+
+HP: 1/1
+
+Mana: 0/0
+
+Level: 0
+
+Experience: 0/10
+
+Class: None
+
+Sub-class: None
+
+Race: Gneiss Stone
+
+Gold: 0
+
+STATS
+
+Diameter (d): 0.06m
+
+Mass (m): 0.3kg
+
+Velocity (v): 0 m/s => [0,0,0]
+
+ABILITIES
+
+Collide
+
+Crash into a foe and inflict damage equal to m * Δ v / 4.
+
+Bounceback damage is reduced.
+
+The stone found the screens rather curious—it somehow understood the contents. It understood that the screens were referring to itself in some way, and that they indicated that the pebble was not a very mighty pebble currently.
+
+That thought saddened the pebble somewhat.
+
+Now that it was aware of things, it considered itself superior to all the other pebbles around, but its statistics indicated anything but!
+
+The pebble was not quite sure how it observed its surroundings, but somehow it did just that. All around it, other stones lay about—many quite a bit larger than itself.
+
+The pebble did not like that.
+
+It wanted to be the best of all stones.
+
+Just then, as it was deep in thought, a new screen appeared in front of it.
+
+Tutorial Quest Assigned
+
+Roll out
+
+Reach the bottom of the mountain.
+
+Current Altitude: 10 000m
+
+Difficulty: Legendary
+
+Rewards: ??? (Legendary)
+
+What was this?
+
+A quest! A grand, heroic, quest! The pebble was ready to set forth towards danger, to seek out the mysterious rewards it could receive, when it suddenly recalled a poignant detail. It was a stone, and stones did not tend to move about too much.
+
+A trap! A jest! A taunt! Who would be so cruel as to assign a monumental task like that to an immobile pebble? Oh greatest of sins, what cruelty!
+
+“Go, [Heroic Homing Overpowered Lazer of Atomic Water Bonds]!”
+
+“You fool, all water is atomic, you cannot penetrate my [Impenetrable Shield of Darkness that Cannot be Penetrated]!”
+
+Of course, the battle was still raging in the background.
+
+Just as the pebble was about to fall into a deep depression, a blast of energy was deflected near it, and it was launched into the air.
+
+The pebble was perplexed—it was moving!
+
+For the first time ever, the pebble moved from that place!
+
+It rather enjoyed the feel of it and noticed a change on its stats screen as its flight passed its apex.
+
+STATS
+
+Diameter (d): 0.06m
+
+Mass (m): 0.3kg
+
+Velocity (v): 26.13 m/s => [3, 7, -25]
+
+The numbers had gotten bigger! Overjoyed, the pebble realized that it should do this fly-about thing more—anything that made the numbers grow was surely a good thing. Perhaps it could even advance on its quest?
+
+The pebble then noticed that its flight was nearing its end, as it was flying right at the head of some strange, red-skinned creature. The creature seemed to be engaged in battle with another white-clad one. And the pebble was flying right at the red creature's hea—
+
+Bonk
+
+Collide activated!
+
+[Unnamed] Dealt 0,3 * 13.1 / 4 = 1 dmg to [Demon Lord Diablos]
+
+New Velocity for [Unnamed]: 13.01 m/s => [1.4, 12.3, -4]
+
+The red-skinned creature flinched for a second as a pebble hit it in the face, allowing the white-clad one to plunge its sword deep into the creature’s chest.
+
+“This isn’t over... I will resurrect in 666 years, and then humanity will be doomed!”
+
+“Heh, I don’t care. The isekai office only contracted me for one demon lord. I’m saying goodbye to this shitty world.”
+
+Some more words were spoken, but the pebble was already far away, rolling down the mountain. Soon, a notification appeared in front of it once again.
+
+You have assisted in defeating [Demon Lord Diablos!]
+
+500 000 Assist experience granted!
+
+You have gained the title: Enemy of Demons!
+
+Effects: 20% Greater damage dealt to demons, 20% more experience from killing demons, permanent hostility with all demons!
+
+Level up!
+
+500 000 / 10 xp
+
+Discarding overflow xp
+
+You have reached level 1!
+
+Stats up!
+
+Mass (m): 0.3kg -> 1.0kg
+
+Diameter (d): 0.06m -> 0.09m
+
+HP: 1 -> 1
+
+[Unnamed]
+
+Title(s): Enemy of Demons
+
+🗿
+
+HP: 1/1
+
+Mana: 0/0
+
+Level: 1
+
+Experience: 0/20
+
+Class: None
+
+Sub-class: None
+
+Race: Gneiss Stone
+
+Gold: 0
+
+It had grown!
+
+Immense joy filled the pebble as it noticed that it had become a larger pebble. This was the start of a path to greatness! It celebrated for quite a while as it rolled down, then finally noticed more screens.
+
+You are eligible for the class: Rolling Stone
+
+Accept the class? Y/N
+
+A class?
+
+The pebble slowly considered each new screen as it flashed by and judged that it indeed did want to be a Rolling Stone. To be quite frank, it already was one–the pebble was making good speed down the mountain.
+
+The pebble focused on the prompt and accepted the class.
+
+Congratulations!
+
+You are now a level 1 Rolling Stone!
+
+New Ability Gained!
+
+Steer
+
+Subtly shift acceleration vector into desired direction
+
+The pebble parsed its new ability and stats and felt satisfied. It had grown bigger! Moreover, it had received some sort of new, complicated ability. It didn't quite know what an acceleration or a vector was but had time to learn. It would experiment.
+
+Eventually.
+
+A stone was a patient one after all.
+
+The pebble continued rolling down the mountain, eagerly awaiting a chance to test out its new ability. It rolled onward to its grand quest.
+
+Down the mountain.
+
+Towards the unknown, dark horizon.
+
+To where no pebble had gone before (probably).
+
+And so, a brave hero set forth, as many had done before.
+
+This is its story.
+
+Quest:
+
+Current Altitude: 9 673m

@@ -1,0 +1,156 @@
+---
+id: db7b68bd-6dee-58a9-af08-098fbf60fe8f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 566: Ragged"
+slug: 0133-chapter-566-ragged
+partOf: rise-of-the-living-forge
+position: 133
+ownLength: 2048
+unit: words
+ownProgress: 1708
+publishedAt: 2026-03-02
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3108447/chapter-566-ragged"
+royalRoadId: "3108447"
+---
+
+Rodrick wasn’t usually one to present himself directly before a problem. Unfortunately, not every situation allowed him to deal with things from the shadows or while wearing someone else’s face. There were occasionally times where he had to deal with things himself, as himself.
+
+This was one of those times.
+
+And so, his features set in a careful mask, Rodrick stepped out from the alleyway and right into the path of the members of the Adventurer’s Guild.
+
+There were two of them. Rodrick knew what they looked like, what they walked like, what they smelled like, even before he laid eyes on them. The man at the lead wore a dark cloak that left no part of his body visible but his mouth.
+
+His companion was ragged and dirty, with the wild eyes of a caged animal but the silken robes of some pompous noble. The dagger on the wild-eyed man’s hip didn’t suit him in the slightest — and given who they were dealing with, the presence of any daggers whatsoever immediately set Rodrick on even more edge than he had been before.
+
+“Excuse us,” the cloaked man said. “You appear to be in our way.”
+
+“So I am,” Rodrick said. He made no move to attempt to rectify that fact. “And you seem to be heading in the direction for my street. I’m afraid to inform you it’s currently closed off for the purposes of an Auction. This is, of course, entirely legal as per Milten’s laws. We own the entire street.”
+
+The ragged man didn’t look particularly impressed. He barely even seemed to register Rodrick’s presence in the slightest. He just gazed aimlessly around like a bored child searching for a toy to play with.
+
+“You’re with the Menagerie, are you?” the cloaked man asked. “A pleasure to make your acquaintance. Congratulations on the apparent success of your auction. But don’t worry. We have no deigns or interest in that. This is official Adventurer’s Guild business. We won’t be long.”
+
+I believe that, at least. He definitely doesn’t have any interest in the auction itself. Doesn’t seem to care about us either. That’s good. Means we’re still somehow under the Guild’s radar… though I’m not sure if we’ll be able to keep things that way after this.
+
+We’re not ready for a head on collision with the Guild yet. I’ll have to figure out a way to divert attention. But that’s a problem for later. Can’t go counting eggs before they hatch.
+
+“Thank you for your kind words,” Rodrick said. He remained exactly in his spot before the two men. “But I think you might have misheard me. I’m well aware of who you are. That changes nothing. The Guild represents a great number of powerful individuals. It holds respect that few institutions can even hope to match… but you are still bound by the same laws as everyone else.”
+
+“Of course we are. What does that have to do with anything?” the cloaked man asked. His foot tapped impatiently on the ground. He wanted to get somewhere, and soon.
+
+That was good information. As eager as the Guildsman clearly was to get past Rodrick, he wasn’t doing it in an overt manner. They were trying to hide their intentions. That wasn’t out of any amount of goodwill or kindness.
+
+Whoever the Guild is after… they’re strong or connected enough to cause a stink if they realize what’s happening. They don’t want to let on that something is going down. Does that mean their target has spies that the Guild doesn’t want to accidentally spook?
+
+Most likely.
+
+That narrows the potential options down a lot. Only a few people in the Mausoleum have anyone waiting outside on the street.
+
+“Maybe I should be clearer,” Rodrick said. “You’re bound by the same laws as the rest of us. And I am refusing you entry to the street. For the purposes of the safety of our auction attendees, nobody who is not participating in the auction is allowed past me right now.”
+
+A long moment of silence dragged by. The ragged man’s eyes stopped wandering. They lowered as his gaze finally found Rodrick’s. Then, slowly, a grin spread across his lips to reveal two rows of rotted, pitch-black teeth.
+
+“Come now,” the cloaked man said wearily. “Do I need to show you my Adventurer’s Guild badge? You’ve already admitted you know who we are. That should be more than enough—”
+
+“The rules cannot be bent. Not for you. Not for anyone,” Rodrick said firmly. “And though I do believe you, there is always the possibility for human error. We can’t afford that risk. If there’s something you need to handle on our street or with any of our audience members, please deal with it in a few hours when the auction is complete.”
+
+“You do realize that you’re standing in the way of official Guild business, yes?” the cloaked man asked. “We can respect your dedication to the safety of your audience members, but I am not here today to hurt the good people of the kingdom.”
+
+That’s probably true as well. This guy isn’t the one here to kill anyone. That’s what his creepy ass companion is for.
+
+“Perhaps if you informed me of your goals, I could assist you with them without risking the safety of anyone we’re currently responsible for,” Rodrick offered smoothly. “Is it an audience member you’re seeking out? I could retrieve them for you.”
+
+“I’m afraid that wouldn’t be possible,” the Guildsman replied.
+
+There was a hint of annoyance in his voice. He could clearly feel the time slipping away. Whoever the Guild’s target was, they were strong. No random adventurer would justify needing more than an hour of time to get into position for.
+
+Good information, but still not enough. There are a lot of strong people at the auction. I need more.
+
+“Then it seems we’re at an impasse,” Rodrick said. “Whatever business you have can surely wait an hour or two, can it not? I would be happy to put you up in the Devil’s Den. We have some of the best food and drink in the Empire. Free of charge as repayment for the inconvenience.”
+
+“A kind offer. But not one we can accept,” the Guildsman said. He lowered his voice. “This is a secret operation. One that we can’t go spreading around. The Kingdom’s safety is at stake. I’m sure you understand. We’re also here to protect people. For the greater good. But perhaps we could come to an agreement to keep everyone…”
+
+A burst of raucous laughter rolled through the street. Both Rodrick and the Guildsman turned in surprise as the ragged man doubled over, cackling madly.
+
+“What’s gotten into you?” the cloaked man hissed. “Conduct yourself properly!”
+
+“Oh, you sorry fool,” the other man replied. His laughter evaporated as quickly as it had arrived and he straightened, but the smile remained plastered across his dead lips. “Dense idiot. Don’t you get it? You’ve been bargaining with a brick wall. This man has had his mind made up since long before we opened our mouths. He isn’t letting us through no matter what you offer him.”
+
+The Guildsman paused. Then he turned back to Rodrick. There was a shift in his stance, so subtle that almost nobody would have noticed it.
+
+Godspit. Looks like my time is up.
+
+“Damn it,” the Guildsman sighed. “What a fucking shitshow. I’m giving you one last chance to get out of the way. You’re going to make me do something I really don’t want to do. I’m trying to be reasonable here.”
+
+“Oh, man,” Rodrick said. He scratched the back of his head sheepishly. “You do make a very good point. I don’t want trouble or anything like that.”
+
+The Guildsman smiled. “Then—”
+
+“But I’m not,” Rodrick said, cutting him off.
+
+“What?” the Guildsman tilted his head to the side. “You’re not what?”
+
+“Trying to be reasonable,” Rodrick replied.
+
+The wall of the building to their left exploded. An enormous metal arm erupted from the rain of debris in a blur of motion. Thick chunks of stone spun out all around it as debris sliced through the air like knives to explode against the far wall of the alley.
+
+There was a heavy crunch as the palm of the massive hand slammed into the Guildsman. It drove him into and through the wall of the already-crumbling building with a crash. The rest of the house’s structural integrity gave out.
+
+It collapsed with a rumble, falling upon the guildsman. A thick cloud of dust buffeted out from the collapsed building.
+
+A shadow passed over Rodrick. Uriel extracted herself from within the house she’d been waiting within, molten power burning within the eyes of her helm as she passed through the stone wall as if nothing at all were in front of her.
+
+“Ooh,” the ragged man said, not so much as twitching from where he stood. “That looked painful. But I don’t think you killed him. You might want to take another pass. Nobody that disappears off a cliff or into a fallen building is ever actually dead.”
+
+“Good advice,” Rodrick said. “Uriel?”
+
+A stone shifted within the ruins of the fallen building. A burst of shadowy magic howled through the air, flinging debris in every direction as the Guildsman erupted from within the house.
+
+“You idiot,” the Guildsman snarled. “Who do you think you’re dealing—”
+
+Uriel’s fist slammed down directly on his head. The rest of the Guildsman’s words vanished beneath a deafening crash.
+
+There was a moment of silence. Uriel lifted her hand. Both Rodrick and the ragged man looked at the ground where the Guildsman had been a moment before. There was no sign of him. He’d been embedded straight into the stone.
+
+A muffled voice came up from the earth.
+
+“Nope,” the ragged man said with a shake of his head. “Not even close.”
+
+“One moment,” Rodrick replied. “We’re working on it. Uriel?”
+
+The huge suit of armor nodded. She raised her leg, waves of humming white power enveloping her foot with growing intensity. Then she dropped it like a meteor. It slammed down on the spot where the Guildsman had been with a deafening boom.
+
+When her foot raised again, there was nothing but a hole in the ground. Debris rained down into a cavernous opening far beneath the street, pitch black save for the light streaming in from the sun overhead.
+
+He’s still not dead. I’m not even sure if he’s seriously injured. He took nearly zero damage from her first attack. But that’s hardly a surprise.
+
+Uriel dropped down into the hole, tearing through the stone in her way as she threw herself after the Guildsman.
+
+“I know,” Rodrick said before the ragged man could speak. “He’s not dead.”
+
+“I didn’t say anything yet,” the other man replied with a grin. “Anyway. Your big metal friend is dealing with mine. That leaves the two of us.”
+
+“Something tells me you aren’t too interested in the offer of food and waiting?” Rodrick asked. “I really don’t give a shit what you do to anyone after they’re off our street.”
+
+“It’s tempting, actually. I’d kill for a good bite to eat. It’s been too damn long. But I’d kill without that as well. Can’t have everything we want, can we?”
+
+“I suppose not,” Rodrick said. He cracked his neck, then lowered his stance. “Well, then. Let’s get on with it.”
+
+“You know how to fight?”
+
+Rodrick blinked. “…yes?”
+
+“Ah, good. Just making sure. I hate killing things that can’t defend themselves. It’s no fun at all,” the other man said. “You ready?”
+
+The hair on the back of Rodrick’s neck stood on end. His instincts were screaming all sorts of warnings — and he didn’t take those lightly.
+
+“If I said no, would you wait?”
+
+“At this point? No. I just don’t want to waste my first good blow in a while on a boring surprise attack. It’s no fun if you go down with one hit. I just want to make sure you’re ready or the fight might be over too soon to enjoy.”
+
+Rodrick’s eyes narrowed. “Then you can consider me ready.”
+
+The ragged man’s grin stretched across his face.
+
+Then he vanished.

@@ -1,0 +1,201 @@
+---
+id: 73188fb2-d078-5374-9dd0-3f4eba800647
+page-type-slug: story-chapter-royal-road
+title: "Chapter 608: Ashbound Order"
+slug: 0132-chapter-608-ashbound-order
+partOf: reborn-as-a-demonic-tree
+position: 132
+ownLength: 2820
+unit: words
+publishedAt: 2026-08-24
+link: "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3859999/chapter-608-ashbound-order"
+royalRoadId: "3859999"
+---
+
+Sometimes it was easy to forget just how many noble families resided under the banner of Ashfallen.
+
+But as Amber looked around at those gathered for the entry into the Eternal Realm, the sheer scale of the sect was put into proportion. There were noble families she was familiar with from the old Blood Lotus Sect gathered closer to the entrance, while families from other sects stood in clusters further away.
+
+She had been to gatherings like this before, namely the summit that used to be held by the Nightrose family. For centuries, the pecking order between the nobles had been long established.
+
+That's why Amber paused and wondered if she was dreaming when she saw her family, the Redclaws, who had been used as mere warriors by House Nightrose, were present in the largest numbers and clearly wielded the most influence, as evidenced by the number of figures gathered around Magnus Redclaw.
+
+It was hard to miss him—now towering at two and a half meters, his obsidian skin veined with magma, he looked like a living volcano given the shape of a man.
+
+Talking to him with an easy smile was the Grand Elder of the Silverspire family, his wives in tow. Their exchange looked perfectly natural, but a few years ago, Magnus would have had to grovel for an audience with any Silverspire Elder, let alone the Grand Elder himself.
+
+It was clear that from the fall of the Blood Lotus Sect, the real winners were the Redclaws and the Silverspires. Besides them, the other families in attendance were few in number or absent altogether.
+
+The Nightrose, Voidmind, Skyrend, Winterwrath, and Evergreen families that had once all been major pillars in the Blood Lotus Sect were all eradicated, some due to internal strife, the others by the Ashfallen Sect during their conquest. While some members of those families were still alive somewhere out there, they didn't dare to return.
+
+However, this open invitation had brought remnants of noble families to return home.
+
+Gathered around Grand Elder Douglas and fawning over his twins were a few members of the Terraforge family. Grand Elder Diana, likely her clone, was conversing with a small group of Ravenborne nobles. The Azurecrest family was also present, though they were keeping to themselves.
+
+Though one girl stood out. Alone, and without any others from her family, was Celeste Starweaver. She was a short, beautiful girl with galaxy eyes and black hair streaked with blue and gold. Her appearance and lineage aside, what made her stand out the most was who she was talking to.
+
+Stella Crestfallen, the Princess of the Ashfallen Sect. The story that her father, the All-Seeing Eye, had conquered the Celestial Empire in a single week to save her had spread like wildfire and elevated her status to unseen heights.
+
+At her side was a beautiful woman whom Amber believed was Stella's elder sister. While not any taller than Stella, her presence was far more commanding. Antlers curved from her brow like an empress's crown, and long, snow-white hair flowed around pointed ears tucked flat against her head. A thick coat of white fur draped her form, covering everything but her calves and feet, while silver sparks occasionally crackled across her skin like restrained lightning. While Stella's eyes were vibrant pink, her gaze was ancient and unbothered as she surveyed the crowd.
+
+Little was known about her, matching her mythical appearance, and it seemed nobody dared to greet her.
+
+Spotting Elder Margret in the crowd, Amber drifted over and set her sword down beside her.
+
+"Oh, Amber, you made it." Elder Margret turned with a smile. "Did your walk help clear your head?"
+
+"Uh?" Amber blinked. "Oh—the walk. Yes, it helped a lot more than expected, actually."
+
+"That's good." Margret gestured to a handsome teenager beside her with lush crimson-and-white hair. "This is Kane Azurecrest. I don't believe you two have met before?"
+
+"Wait—the Kane Azurecrest?" Amber said, dumbfounded.
+
+"That's me." He smiled awkwardly. "Were you expecting someone else?"
+
+Amber couldn't stop herself from looking him up and down. "I just didn't expect the person overseeing pill production for the Ashfallen Trading Company to be so… young."
+
+"You're only a few years older than me," he pointed out, "but yes, I admit I might not match the mental image of a wizened pill master."
+
+Amber realized she was being weird. "Sorry, ignore me. Head's a bit in the clouds today."
+
+"It's not a problem." Kane nodded to Elder Margret. "We can discuss more upon our return from the Eternal Realm. Until then, I'll bid you both farewell and a safe trip." He gave a curt bow and retreated into the crowd.
+
+"I scared him off, didn't I?" Amber said in despair.
+
+"No, no," Margret reassured her. "He's one of the busiest people in the sect, so it's hard to pin him down for a conversation. Look—he's already gone to speak with Diana, despite her being mid-conversation with her family."
+
+"Makes sense, considering how massive the Ashfallen Trading Company has become," Amber murmured.
+
+Margret chuckled. "You have no idea. In the month before the war, our sales eclipsed what the Blood Lotus Sect used to make in a full year, including the Silverspire spatial ring production. You can only imagine how much those profits will spike once we establish ourselves in the Celestial Empire."
+
+"Oh..." Amber trailed off, her gaze lingering on Kane in the distance. He looked so professional as he conversed with a towering Archdemon.
+
+"Anyway, enough about business." Margret took her hand and led her gently away from the crowd. "As a future leader of the Ashbound Order, you need to know the names of the families that will serve under you."
+
+"The Ashbound Order?" Amber asked, allowing herself to be tugged along.
+
+"That's the name Diana decided on this morning for the new force that will establish order across the Ashfallen Empire. Now look over there—" She pointed discreetly. "Those with the black hair, you see them?"
+
+Amber followed her gesture and found them in the crowd.
+
+"Yeah, what about them?"
+
+"That is the Duskwalker family from the wiped out Tainted Cloud Sect. Like the other noble families from that sect, they now reside in Desolark City. What makes them special is that they are Nox's family."
+
+"Nox?" Amber said, frowning. "You mean the spirit tree that oversees Tartarus?"
+
+Margret nodded sharply. "See the woman in the middle? That's Evelyn Duskwalker, Nox's sister." Her voice dropped to a whisper. "Centuries ago, Nox fled the family to become a merchant and escape her political marriage to Albis Lunarshade. Since the Lunarshade family was the most powerful in the Tainted Cloud Sect, the Duskwalkers were left with no choice but to give Evelyn instead. Out of spite, Albis used her as a plaything for centuries."
+
+Amber's eyes widened. "What?"
+
+"Keep it down," Elder Margret hissed. "It's a touchy subject, as I'm sure you can understand. Apparently, Nox and Evelyn have since made up, but there's still a deep rift between them."
+
+"Why are you singling her out to me?"
+
+"Because she's on the cusp of reaching the Nascent Soul Realm, and she'll be another leader at your side." Margret's gaze drifted onto another cluster. "As for families with political power from the Tainted Cloud Sect, House Mystshroud rules supreme."
+
+"That is Grand Elder Elysia's family, right?"
+
+"You catch on quickly." Margret nodded. "They handle the activities of the All-Seeing Eye and stand guard in front of Tartarus. Beside them are a few members of the Blightbane family."
+
+"I could guess that," Amber mumbled. "They all look like death."
+
+Margret stifled a laugh. "You don't need to worry about them. All of their Elders now preside over the Grove of Eternal Rebirth, so the ones gathered here aren't close to the Nascent Soul Realm."
+
+"What about that shady-looking group near them?" Amber asked, gesturing to a group dressed in cloaks that covered everything and shadowed their faces, except for their chins.
+
+Margret studied them for a moment before answering. "I believe they're from the Duskfang family. They're known to contract with monsters and have close ties with the Celestial Warden, Tiberius. You could almost consider them his personal guard."
+
+"Interesting," Amber muttered. "I never thought he had such a thing."
+
+Elder Margret glanced at her. "Before the rise of the Ashfallen Sect, Tiberius was one of the most influential men in the Wilderness. He was one of the only other Nascent Soul Realms out here—and the reason Vincent Nightrose never expanded operations outside of the Blood Lotus Sect."
+
+Amber slowly nodded. While considered a prodigy in the family, she was still young and had been sheltered from the politics of the Blood Lotus Sect. While she had heard some stories about the Celestial Warden, she had never stopped to consider any of them deeply. He was just one of the many ancient cultivators who kept the Wilderness's power balance in check.
+
+Now he is utterly overshadowed by the Ashfallen Sect, Amber thought as she glanced around.
+
+"If you're looking for Tiberius, he's not here," Elder Margret added.
+
+"Why not?"
+
+"Some people have to stay behind to keep the sect running." Margret shrugged. "I'm sure he'll get his time in the Eternal Realm once things have settled."
+
+"What about the Grand Elders?" Amber asked as she glanced at Stella, who had concluded her talk with Celeste and was now laughing about something with Diana.
+
+"They're staying outside," Elder Margret said. "Though in their case, it makes sense for another reason. With so many people going in, the time dilation that allowed them to reach such heights so quickly is being reduced to almost nothing. A day in there will be a day out here."
+
+Amber bit her lip, admittedly a little jealous. While time dilation didn't discount the work put in, it did make one's growth seem more explosive and mythical to those on the outside. She could only begin to imagine how much time Stella and Diana had spent surviving in there and what trials they had endured to reach such heights.
+
+"Anyway, there are a few more families worth a mention," Elder Margret said, returning her attention to the noble families standing further away. "We have the Frostveil family that hasn't shown much interest in being involved with the Ashfallen Sect. I'd be wary around them. Same with the Lightbringer family, I spoke to them once and got a bad impression."
+
+"Got it."
+
+"Oh, that's someone you will be working with in the future," Elder Margret pointed at a bald-headed man who looked like a mountain given form, unapologetically dressed in a purple silk robe embroidered with golden koi that did nothing to hide his muscles. Surrounding him was a scary-looking group of cultivators with scarred faces and loud presences. "Do you know him?"
+
+Amber chuckled. "Of course. Everyone knows and fears Mr. Choi."
+
+"Even if he doesn't reach Nascent Soul Realm during this trip, Grand Elder Diana has already decided he will be one of the Ashbound Order's leaders."
+
+"Makes sense," Amber mused. "While our Redclaw family handles public security, he lords over the underworld on behalf of the Ashfallen Sect with an iron fist."
+
+"Legend has it, Mr. Choi was the one who sold Douglas to the Ashfallen Sect. It was so Douglas could repay his debts," Elder Margret chuckled, "and now Douglas is a Grand Elder and well-renowned."
+
+"He was in debt? Wait, don't all Grand Elders get a cut of the Ashfallen Trading Company's profits?"
+
+"I believe so."
+
+Amber whistled. "From being in debt to having the money to buy a city."
+
+"That's what happens when you're loyal to Ashlock," Margret said, a hint of reverence creeping into her voice.
+
+Amber nodded in agreement.
+
+A short silence stretched between them as they both took everything in. Hundreds of powerful cultivators were present, all gathered before a massive cave entrance filled with a celestial fog. There was no enforced divide between the groups, yet they naturally formed out of respect. The highest status belonged to those who knew Stella, then the Grand Elders, and finally the Redclaw or Silverspire family.
+
+"Anyone else going in I should know about?" Amber asked, her gaze settling on Elaine's elite class. Ryker, Jasmine, Sam, and others she recognized were gathered and chatting among themselves.
+
+"Besides the Mudcloaks and new members of the Ashfallen Sect, none come immediately to mind—"
+
+"Everyone, may I have your attention."
+
+Grand Elder Elaine's Qi-empowered voice rolled over the gathering, silencing every conversation at once. Amber felt herself straighten on instinct as she turned toward the cave.
+
+Elaine was showing off her Nascent Soul Realm cultivation as she floated without the aid of a sword before the cave entrance.
+
+"Today is a very special day," Elaine continued. "Behind me lies the Eternal Realm. By the grace of the All-Seeing Eye, we have access to not just one pocket realm, but thousands of them. Each one is a small world created by a Monarch from the past or the present, with no rules on what they may contain. Monsters, treasures, inheritances, as well as cultivators from the upper layers of creation can be found in these pocket realms."
+
+Amber couldn't look away. She was utterly captivated.
+
+"Suffice to say, entering is as dangerous as it is beneficial. I have no doubt that a handful of you will not return alive." She let that statement hang in the air for a moment before continuing. "Now with that out of the way, I'll explain how this will work. The time limit to remain inside is one month. We will be providing a Mystic Realmwarp fruit to everyone, which, upon eating, will bring you back here. We will also provide a selection of other truffles, fruits, and pills to assist in your cultivation journey while inside—"
+
+A wave of murmurs spread throughout the gathered cultivators. Amber could understand why, as due to supply issues, only the Grand Elders typically got access to the raw fruits or truffles. Everyone else only got pills. You couldn't even buy the raw fruits or truffles if you wanted to.
+
+"—however, there are expectations with this investment. Diana, if you could."
+
+Diana spread her massive feathered wings and kicked off the ground to reach Elaine's side, her overwhelming presence silencing everyone once again.
+
+"Anyone who enters the Eternal Realm will be bound by a heaven-binding decree to serve the new Ashbound Order," Diana said, her Qi-empowered voice carrying the unquestionable weight of a Monarch. "With the fall of the Celestial Empire, a new force is needed to maintain order across the newly established Ashfallen Empire." Her cold gaze swept across everyone present. "It will be a curated and elite force that will benefit from generous resource allocation, pay, and will carry the option to retire every fifty years."
+
+That last part surprised Amber. A force like this would normally bind you for life, and traitors would be hunted down to the end of the realm. The reason cultivators were never let go was because of the upfront investment. Raising a single cultivator to the Star Core Realm could bankrupt a minor noble family, while a Nascent Soul Realm cultivator could emerge only from the most prestigious houses with vast wealth like the Silverspires.
+
+Despite the shocking reveal, nobody dared speak while the Archdemon spoke.
+
+"There is also one other group," Diana said, her voice taking on a chilling edge. "The Covenant."
+
+Khaos, the famed six-armed void creature in service to Ashlock, appeared in an instant from the void below Diana. A few other smaller, but no less intimidating, void creatures appeared a second later for a total of five.
+
+They hung static in the air, slowly flexing their claws.
+
+Amber felt the breath stolen from her lungs.
+
+"Tasked with eliminating the political enemies of Ashfallen and ending wars before they begin, the Covenant are elite assassins in service to the All-Seeing Eye directly," Diana explained. "This is the first and last time I will speak of them publicly like this. There is no way to volunteer to join their ranks. Those deemed elite enough from within the Ashbound Order will be offered the opportunity—but I will warn you: once you join the Covenant, there is no way out. Not even through death."
+
+She snapped her fingers.
+
+The five void monsters vanished as if they had never existed.
+
+"Now, that is out of the way," Diana smiled. "Those who still wish to join the Ashbound Order, please step forward and accept your soul-binding from Grand Elder Kaida. After that, you will be given a supply of fruits and truffles and granted entry into the Eternal Realm—"
+
+Amber didn't wait. She shamelessly rushed to the front alongside a few others. If she was only going to get a month inside, she was going to make the most of it.
+
+Her future in the Ashbound Order was looking bright.

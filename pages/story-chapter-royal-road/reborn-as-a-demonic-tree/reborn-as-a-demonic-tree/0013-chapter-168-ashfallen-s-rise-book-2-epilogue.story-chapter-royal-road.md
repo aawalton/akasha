@@ -1,0 +1,205 @@
+---
+id: bf1314d9-e1a3-5067-ad44-c514f9255480
+page-type-slug: story-chapter-royal-road
+title: "Chapter 168: Ashfallen's rise [Book 2 Epilogue]"
+slug: 0013-chapter-168-ashfallen-s-rise-book-2-epilogue
+partOf: reborn-as-a-demonic-tree
+position: 13
+ownLength: 2788
+unit: words
+ownProgress: 2788
+publishedAt: 2023-10-11
+link: "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/1371055/chapter-168-ashfallens-rise-book-2-epilogue"
+royalRoadId: "1371055"
+markedReadAt: "2026-06-29T19:01:55.782Z"
+---
+
+Ashlock and the others waited awhile, but Demetrios Skyrend never returned. The violent storm system dominated the distant horizon, and Ashlock suspected that Demetrios was giving a piece of his mind to the Voidmind family.
+
+He would go and look, but his roots didn't extend far enough west to reach Slymere yet, and his {Eye of the Tree God} also didn't reach the city.
+
+The Redclaw Grand Elder, who had his hands behind his back as he looked at the horizon, sighed in relief. His fire Qi then swirled around them to obscure his voice from others, "I must thank House Silverspire for mediating that conversation. Without your presence, I fear Demetrios would have taken Dante's side and wiped us out instead."
+
+Sebastian frowned, "It is indeed troublesome. When I agreed to sponsor the tournament for an extra percentage, I didn't expect to be dragged into a plot that may cause a civil war between the Voidmind and Skyrend families."
+
+"It's okay!" Ryker, who had remained silent for most of the day, grinned, "Big sister promised me lots of money, which means I might beat my brother and sisters for the silver core!"
+
+Ashlock almost felt like chuckling as he was reminded about the inheritance battle between the heirs of the Silverspire family.
+
+"The poor Patriarch. He took his eyes off his Blood Lotus Sect for a few years to cultivate, and when he emerges, he will find all three of the most prominent families at war. Two against one another and the last having an internal fight between the heirs," Ashlock sneered, "That's what he deserves for saving Stella as a pill furnace. In fact, the more the Blood Lotus Sect is in flames, the better. It will help camouflage our activities."
+
+"Rascal," Sebastian ruffled Ryker's hair, "Imagine your mother's face when she finds out."
+
+"Actually, she would be very proud of me!" Ryker smacked Sebastian's hand away, "She always told me that war is good for business. People need weapons and spatial rings, which we sell, and then when they all die, we can move in and buy the land for cheap and start mining for metals."
+
+Sebastian and the Grand Elder exchanged a surprised look.
+
+"Ahem... that is technically true," Sebastian nodded thoughtfully, "The Mistress is wise."
+
+"Of course she is," Ryker nodded seriously, "My mother is the smartest woman I know!"
+
+"And how many women do you know?" The Grand Elder asked in jest.
+
+Ryker replied thoughtfully, "Only my mother and sisters, and my sisters are stupid."
+
+Sebastian snorted in amusement, "Oh? What makes them stupid? They are your sisters, you know."
+
+"You and my sister told me Darklight City was a backwater place with nothing worth mentioning," Ryker said, "But I found beautiful big sisters and lots of cool things here. So, Sebastian, you are also stupid."
+
+Sebastian seemed to stumble back with a painful expression as if an arrow had been shot into his chest, "Ouch, the young master's words hurt my heart."
+
+"Good, let's head back," Ryker demanded, "I want to cultivate after seeing the adults fight. I need to become stronger."
+
+Sebastian ceased his pained act, "Grand Elder, is our presence here no longer necessary?"
+
+The Grand Elder looked at the demonic tree trunk, and when Ashlock wrote nothing, he gave Sebastian a nod, "I believe so. I will send someone to fetch you if something comes up."
+
+Sebastian slightly bowed to the Grand Elder and the demonic tree, "I look forward to our continued business relationship."
+
+Ashlock didn't want them to walk all the way back, so he created a portal for them to the White Stone Palace's courtyard. The two Silverspires departed, and the Grand Elder was also about to leave when someone unexpectedly approached them.
+
+Kane Azurecrest floated through the air with a violent gale surrounding him.
+
+The Grand Elder withdrew his fire Qi and faced the approaching teen.
+
+Ashlock searched the colosseum stands and couldn't see Celeste Starweaver anywhere. Only the Grand Elder and Kane were left in the half-destroyed colosseum covered in shattered glass, ash, and rubble.
+
+Kane touched down a few meters from the Grand Elder and offered a respectful bow, "Greetings, Grand Elder of the honorable Redclaw family."
+
+"To what do I owe the pleasure scion of House Azurecrest?" The Grand Elder replied with a slight smile.
+
+"I know I didn't win your tournament," Kane replied. He sounded exhausted, as if he hadn't slept in days, "But I wondered if there was a way I could still be hired alongside the rogues?"
+
+The Grand Elder raised his brow, "How unexpected. A scion from one of the top families asking for employment alongside rogue cultivators? Dare I ask the reason why?"
+
+Kane raised his head and looked at the Grand Elder through the gaps in his long white and crimson hair, "Could we take this conversation elsewhere? The subject matter is sensitive."
+
+The Grand Elder looked him up and down with scrutiny and nodded, "Come with me."
+
+***
+
+After the two left through the portal to the White Stone Palace, total silence overtook the colosseum. A place that had once been alive with the cheers of a thousand mortals was now dead silent.
+
+Ashlock opened a portal and slowly dragged the Voidmind Elder's corpse back to Red Vine Peak via a black vine.
+
+He also retracted his view from his Progeny and returned to his mountain because he wanted one of the girls to act as his spokesperson in the upcoming meeting between the Grand Elder and Kane Azurecrest.
+
+He hadn't spoken to the Grand Elder through {Abyssal Whispers} before, and the man didn't have a Mind Fortress pill, so Ashlock needed someone to speak for him.
+
+Stella was lying on the bench, passed out. A troubled expression was on her sleeping face as her chest peacefully rose and fell. Maple was sprawled out on her stomach and enjoying the late afternoon sun.
+
+"She must be exhausted. When did she last have a moment where she wasn't learning alchemy or causing drama?" Ashlock laughed as he left her to sleep, and his gaze drifted a few meters away where a few corpses were lined up.
+
+He closed the portal as quietly as possible to not awaken Stella, dragged the Voidmind Elder's corpse, and dumped it alongside the others.
+
+Theron's body was in bad condition, with around half missing due to the void tendrils devouring him. Meanwhile, Kassandra's corpse was in much better shape as she had died from a dagger through the heart.
+
+Ashlock was tempted to turn them into Ents or devour them for credits, but that could wait until later as he needed everyone's opinions. These were incredibly valuable corpses and weren't to be wasted.
+
+"Mhm, I feel like I am missing one... oh yeah." Ashlock realized that Roderick Terraforge was still trapped in Titus's hand prison, "I'll wait until Stella is awake to deal with that one. He can wait."
+
+Ashlock looked around the peaceful courtyard and felt a sense of relief wash over him as the reality of the situation set in.
+
+So much had occurred in just a few hours. It was hard to believe it was finally over. After months of planning and plenty of schemes, the Ashfallen sect had come out unscathed while simultaneously gaining so much.
+
+The tournament had concluded, and it was time to set his sights on bigger and better things. The Ashfallen sect was about to welcome many new alchemists, and war may break out between the Skyrend and Voidmind families. A war Ashlock planned to profit off as much as possible.
+
+But that wasn't all. A partnership had been formed with the infamous Silverspire family, and the merchants would soon come knocking to speak with Roselyn. Also, the Redclaws were now seen in higher regard by the other families, and Darklight City saw a significant influx of tourists due to the tournament.
+
+So long as the plan had worked and Demetrios Skyrend didn't turn around and blast them with heavenly lightning, things looked up for Ashlock and the sect.
+
+"Just a few more rounds in the Mystic Realm, and I should have a group of mid to late-stage Star Core cultivators," Ashlock mused, "And if I can also get in there with my {Progeny Dominion} skill, then I might even reach the Nascent Soul Realm before the Patriarch comes out of seclusion."
+
+Realizing he was getting distracted, Ashlock glanced around the mountain peak and spotted Diana relaxing under the shade of a demonic tree and embraced by the mist. She appeared much less exhausted than Stella and more just enjoying the sun.
+
+"Hey Diana," Ashlock spoke into her mind, and the woman was shocked out of her daze.
+
+"What? Where? Who?" Diana shouted aloud while glancing around while blinking in confusion.
+
+"Shhh, it's me. Stop shouting. Stella's asleep," Ashlock answered, "I need you to head over to the White Stone Palace and sit in on a conversation and act as my spokesperson."
+
+Diana massaged her temples while standing up and then sighed.
+
+"Fine, let's go," she said while popping a Mind Fortress pill.
+
+***
+
+Ashlock watched Kane and the Grand Elder sit opposite one another in the reception room of the White Stone Palace. The walls had arrays built-in to stop other cultivators from eavesdropping, but the Grand Elder also used his own Qi to secure the area.
+
+They were solid measures but not enough to stop Ashlock from listening in through a root under the floorboards. Not that the Grand Elder was in any position to have a conversation he was unaware of, but if he had no need to ask, that was for the best.
+
+Ashlock effortlessly tore through the Grand Elder's Qi and produced a portal through which a white wooden masked Diana emerged. She said nothing as she strode over, perched herself on an armchair, and glanced between the two other people in the room.
+
+Kane gave her an odd look, but the Grand Elder just waved it off, "She is a trusted person, feel free to speak your mind."
+
+Kane sighed with relief as he sank into the sofa and seemed about to pass out, "I appreciate you taking the time to listen to me."
+
+"You look haggard." The Grand Elder observed, "Do you need something? Perhaps some freshly brewed tea or revitalization pills?"
+
+"Nothing works," Kane stared at the ceiling, "I haven't slept in weeks, and all I can do is replay the events of a single night in my mind over and over."
+
+"Nocturne keeping you awake?" Diana asked.
+
+Kane seemed to jolt in his seat and stare at her, "You know?"
+
+"I have encountered them before," Diana said flatly, "It didn't end well."
+
+"I see," Kane seemed a bit taken aback, "And do you know anything about them, Grand Elder Redclaw?"
+
+"Small details have been made aware to me," The Grand Elder said, "But I will allow you to explain from the start as I am missing a lot of context."
+
+"As you wish," Kane sighed, "An order from the Patriarch had been given to my father before he went into seclusion, which sent the family into turmoil. He demanded that more airship pilots be available before the beast tide. The problem was that every abled person in the family was already working in the airship industry."
+
+"I see, and raising new talent takes a long time," The Grand Elder mused.
+
+"Exactly," Kane nodded, "So my father began to look for shortcuts, and he stumbled upon a demonic technique that allows for a rapid rise in cultivation."
+
+"Nocturnes," The Grand Elder said.
+
+Kane's expression became grim, "I watched as all of my siblings had duels over who would be sacrificed to empower the other. It was a harrowing experience to watch my elder brother Venik slaughter our sister and consume her soul for a surge in cultivation. I hid away in the servant quarters and tried to stay out of my father's sight for the duration of the sacrifices."
+
+"Venik... isn't that the one you killed, Diana?" Ashlock asked through telepathy.
+
+"That's right," Diana replied mentally.
+
+"So, how did you get here?" The Grand Elder asked Kane, "And how did you end up with a Nocturne?"
+
+"Well, you see, there was an odd number of us, so I had hoped all of my siblings would fight it out, and I would be left alone, but the head servant reported me to my father," Kane gulped, "If you don't know my father is a lecherous man which is one of the reasons he is such good friends with the Patriarch."
+
+The Redclaw Grand Elder nodded, "There are some rumors regarding that man..."
+
+"I don't care what they are. They are probably true," Kane shivered, "One of my father's habits is having children with rogue cultivators outside the family line. So when I was brought to my father's study one night, I was made to stand before a cage containing a red-haired kid who I later found out was my half brother from one of those rogues."
+
+Ashlock did not like where this story was going one bit. Why did he have to be constantly reminded that he was surrounded by savages wearing human skin?
+
+"You consumed him, didn't you." The Grand Elder said, and Kane hesitantly nodded.
+
+"It was either him or me. Father justified it by saying the boy had fire affinity and was, therefore, the lesser of us," Kane clutched his head, "The fact that man would use the affinity purity argument while standing beside one of his children in a cage made me seethe with rage."
+
+"Then what happened?" Diana asked.
+
+"I don't know," Kane began to quietly weep, "I have replayed that night so many times in my mind I don't even know what really happened anymore. But all I know is I woke up in bed with a terrible headache, a voice in my head, and the ability to cultivate fire Qi. Father found it fascinating that I had become dual affinity, so he had me try and learn alchemy as the wind element is terrible at it."
+
+Ashlock had never considered that there would be ways to become a dual affinity after birth. "I wonder if there's a way I could use my skills to help my sect members unlock new affinities?"
+
+"So that's how you ended up here." The Grand Elder hummed as he tapped his chin, "And I assume you came to us looking for a way to escape your Father?"
+
+Kane shook his head, "Not initially. I came here to prove to my father that I had some skills in alchemy so he wouldn't send me to work in the airship industry. But then I heard you guys were hiring and saw the Silverspire family was involved. They are one of the only families that could help shield me from my father."
+
+"Diana, I need time to decide if taking him on would be worth the risk." Ashlock told Diana, "Tell him we will consider his request to be hired over the next few days and for him to either wait here in the White Stone Palace or stay in the city."
+
+Diana relayed his message, and Kane gave a grateful nod.
+
+"Thank you, I would appreciate it if I could stay here." Kane requested, and at the command of the Grand Elder, he was led away by a group of maids.
+
+Although many significant threats were on the horizon, this conversation helped Ashlock refocus on things he had been putting off that needed to be resolved now that the Ashfallen sect was more out in the open and time wasn't on their side.
+
+"With the Redclaws more established now, I need them to focus on mass recruitment of cultivators, alchemists, and even mortals," Ashlock explained to Diana, "The White Stone Palace was able to hold two families and their servants in the past. There is plenty of room to be utilized here, and we can always dig down and create more space within the mountain."
+
+Diana relayed the information.
+
+"I see," The Grand Elder said, "Are those rogue alchemists also going to stay here rather than in the cavern under Red Vine Peak?"
+
+"Yes," Ashlock said, and Diana nodded. It was time to start separating the two peaks. One was for his core sect members, while the White Stone Palace would be home for everyone else.
+
+During the next few months, he planned for the Ashfallen sect to rapidly expand in both size and power. His time lurking in the shadows was coming to a close, and the Blood Lotus Sect would soon learn their folly for allowing him to take root on their soil.

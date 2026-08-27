@@ -1,0 +1,175 @@
+---
+id: 21e383d9-130f-5d29-9ea1-41be7727a8b7
+page-type-slug: story-chapter-royal-road
+title: "Chapter 546: Dark Child"
+slug: 0069-chapter-546-dark-child
+partOf: reborn-as-a-demonic-tree
+position: 69
+ownLength: 2902
+unit: words
+publishedAt: 2026-03-16
+link: "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3159337/chapter-546-dark-child"
+royalRoadId: "3159337"
+---
+
+The All-Seeing Eye was not only a wielder of desolation that brought about the ruin of creation but also seemingly a lord over the abyss.
+
+Mistress Veilshade watched from above with bated breath as something deep below Councilman Faelorian's home awakened. Something truly terrifying.
+
+The first signs that something was terribly wrong had been the abrupt dismissal of the green aura protecting the estate from the desolation, like a candle snuffed out and surrendering to the dark.
+
+Not a second later, deep fissures filled with nothing but darkness appeared around the building like a spider's web. Then, like an awakening kraken from the Worlds End Sea, a maelstrom of spiked ethereal roots as thick as buildings erupted around Faelorian's home and swiftly rose into the sky to loom over it. The fissures widened, forming a gaping hole to the abyss that yawned open, attempting to swallow the estate whole. From the hole to the abyss, tortured souls twisted into fiendish creatures made from bark, bone, and shadow crawled out and began hunting the living.
+
+Defensive formations built into the estate that drew from the World Tree's life essence and had the power to ward off Monarch Realm-level attacks flared to life, coating the building in a thick layer of verdant aura and keeping the structure somewhat together despite the crumbling world around it.
+
+Mistress Veilshade shrouded herself in shadows and moved further away as the roots erupting from the ground almost reached her position. Once safe again, she enhanced her vision with Qi. Though from the screams piercing the nightly air, she could imagine the horrors occurring below.
+
+The whole estate had become engulfed in a thick fog of black sap miasma mixed with desolation that moved through the building like a living swarm. While the building would stand for a while longer due to the defensive formations, the same couldn't be said for the living that had remained behind.
+
+She could see the flashes of techniques being unleashed by the guards trapped inside the estate through the windows as the fiends forced their way inside.
+
+An unsettling feeling washed over Mistress Veilshade, not because of the scene playing out below, but because she suddenly felt watched. It sent a shiver down her spine, and she instinctively glanced around. Why does it seem like the rest of the world has gone silent? The answer soon became obvious when she scrutinized the ruined land below and noticed that the thousands of wooden abominations in servitude to the All-Seeing Eye had ceased moving and were all... prostrating. As if preparing to welcome their god.
+
+The cultivators of Floridawn, who had been mounting a defense, fled rather than taking the opportunity to begin an offensive against the abominations. She could hardly blame them, as while the monsters seemed defenseless, their action heralded something truly worrisome.
+
+"Is he coming here?" Mistress Veilshade said, surprised to find her voice trembling ever so slightly. "Is this hole to the abyss a portal for his arrival?"
+
+As if to answer her question, a thundering explosion of spiritual pressure that nearly tore her from the sky burst from the ground and settled on the surroundings like a lead blanket. She had to strain her Monarch Realm cultivation to remain airborne as it endlessly pressed down on her.
+
+Thankfully, his spiritual pressure is that of a peak Nascent Soul Realm; otherwise, I'd have no hope but to flee. Yet the weight of his Inner World and dao insights far surpasses mine. She narrowed her eyes. Weirdly, I feel no bloodlust. Such a fierce attack would usually be driven by anger, but this feels... cold and calculating. As if he had been waiting for an opportunity to kill a Council member of the Empire, rather than this being a knee-jerk reaction to having his method of spreading power attacked.
+
+Mistress Veilshade paused her thoughts as something dawned on her.
+
+He uses roots to spread his power, crafts servants from wood, and his sap turns people into trees. I thought this might be a portal for him to step out of, yet he's nowhere to be seen. How is he able to unleash his spiritual pressure as if he's here... yet all I see are ethereal roots?
+
+Her eyes narrowed as she followed her trail of thought and came to a startling conclusion.
+
+Does that mean the All-Seeing Eye is a spirit tree?
+
+I didn't consider it before because of the implausibility that all of this could be done by a tree that I'd never heard of. But if I assume the All-Seeing Eye is a tree, everything starts to make sense.
+
+This realization changed everything.
+
+For a spirit tree to get this strong would usually take many times longer than she had been alive. It was well known that trees grew in power far more slowly than humans due to their massive Qi reserves.
+
+Either the All-Seeing Eye had been obscured behind endless layers of formations and carefully raised out in the wilderness by a devoted group of powerful cultists for thousands of years, or he somehow fell from a higher layer of creation.
+
+Whatever the case, she was sure that their foe was an incredibly powerful spirit tree, and just like the World Tree, that meant the All-Seeing Eye could be enslaved by a grand formation with no hopes of escape.
+
+Is that what the Chairman is after? Make this tree waste all his strength on fighting us, only for him to swoop in and enslave him? But that doesn't explain why the World Tree's golden sap became corrupted. Is there a chance that they aren't working together, and the All-Seeing Eye corrupted the World Tree, putting the Chairman in a dire situation?
+
+It seemed unlikely for the Chairman to be played like that.
+
+Whatever the case, whoever got to the All-Seeing Eye first, either as a friend or to enslave him, won. Looking down at the destruction below, she was hesitantly leaning toward making friends with the Monarch-eating godly tree rather than trying to fight him.
+
+But he would have to prove his capabilities to kill a Monarch first before she dared to switch sides.
+
+"After all, one does not kill a Monarch so easily," she murmured as she felt a competing wave of spiritual pressure radiate out like a spring breeze... if that breeze was filled with skin-tearing thorns and a century-long suppressed rage. "I knew that wouldn't be enough to make that old man kick the bucket."
+
+Faelorian was the leader of the Flower Accord and second in strength only to the Chairman. Practically a god among men.
+
+Likely sensing that Faelorian was resisting, a few of the massive ethereal roots struck down with a speed and force that betrayed their size, only for them to be stopped by a half-formed arm as the estate began to morph into a titanic being.
+
+Faelorian, like all Monarchs, had total control of his affinity. So naturally, his surroundings were crafted with his affinity for use at any time, including in his house. It served as more than just an abode—it was a suit of armor ready to be put on at any time.
+
+"All-Seeing Eye!" Faelorian roared, his Qi-empowered voice booming across all of Floridawn as the wooden titan rose to its full height and bathed the night in a pale green light. "You threaten me with death and watch me day and night! Do you not know who I am or where you dare spread your filth? This is Floridawn, my LAND!"
+
+Mistress Veilshade knew what followed a Monarch when they took to the battlefield—total domination.
+
+"Domain of the Thousandfold Bloom," Faelorian thundered. Reality bent to the order in a heartbeat as lifeforce surged into the surroundings, forcefully tearing away at the corruption and darkness. Flora bloomed and began to fight against the fiendish creatures, the miasma, and the endless desolation.
+
+Faelorian, encased inside the titan of wood, turned and grabbed one of the ethereal roots that had tried to crush him. He pulled and surprisingly yanked it free as if he were pulling out a weed. Miasma billowed out as he unceremoniously dropped the torn ethereal root to the ground.
+
+The very same root they had struggled to cut through moments earlier.
+
+Such was the power a Monarch could wield once they fought inside their domain.
+
+A shame, as she had wanted to see Faelorian pushed to his limits or maybe even have to waste some of his life-saving artifacts. But this attack, orchestrated by the All-Seeing Eye, while horrifying to look at, wasn't enough to take down a Monarch.
+
+Faelorian boomed with laughter as he continued to tear at the ethereal roots and stomp on the abyss. "Take that, you nosy god, always watching and lurking. This is really all you've got? Ha, I really had been driven mad to fear you—AH!"
+
+He surprisingly yelped in pain, and Mistress Veilshade could see why.
+
+The large hole to the abyss that had opened under Faelorian's house had turned into a maw that was rapidly expanding outward and devouring everything—including Faelorian's domain. Dozens of void tendrils shot out, impaling his titan's legs, followed by barbed black roots dripping with digestive fluids that snaked around the titan and began sapping lifeforce.
+
+From there, the fight got a lot messier. Faelorian used his titan as a buffer to keep the void tendrils from striking him directly, but the large target proved a nightmare to defend against the endlessly hungry abyss. While a Monarch had an unfathomable amount of Qi to draw on and an Inner World that maintained their domain, their techniques were costly because they were grand in scale. Yet, Faelorian was empowered by his domain, and so he remained on the winning side.
+
+Mistress Veilshade was confused. The void was a mysterious affinity seldom seen in the Empire.
+
+However, she knew that fighting against any Monarch in their domain was incredibly costly. Yet, the All-Seeing Eye was showing no signs of slowing down, no matter how much Faelorian fought back.
+
+Is the All-Seeing Eye's reserves truly bottomless? Mistress Veilshade wondered as the battle raged on for another half hour. Faelorian kept pace, healing his titan with lifeforce as quickly as it was attacked while trying to beat back the corruption. No, wait, the All-Seeing Eye is feeding off Faelorian. It's not that his reserves are bottomless; it's that he drains his target to supplement his own expenditure.
+
+A terrifying realization that Faelorian was likely starting to notice for himself. However, the fight was still not decided.
+
+"If I'm correct, the All-Seeing Eye doesn't possess a domain, so Faelorian should be able to shift the tide of battle eventually," Mistress Veilshade said to herself.
+
+However, as if overhearing her words and wishing to play a sick joke, the All-Seeing Eye shattered her doubts, not by unleashing a desolation domain of his own, but by overlapping reality with a pocket dimension of fire out of seemingly nowhere. One moment, the area surrounding Faelorian pulsed with vibrant life, flora blooming wildly in defiance of the abyss. The next, everything was engulfed in hellfire.
+
+The All-Seeing Eye can overlap dimensions on a whim? Mistress Veilshade was stunned into deathly silence. The realm of fire wasn't a domain—that much was clear. The fire was burning the abyss and the ethereal roots, albeit at a far slower rate than Faelorian's flora.
+
+Faelorian let out a frustrated howl of pain as his domain and armor were bathed in fire. He was being burned alive.
+
+Why doesn't he try to flee? Is it his pride in ruling this land or hatred for the All-Seeing Eye keeping him fighting? She narrowed her eyes and noticed that Faelorian was trying to flee the fire. But every time he attempted to take a step, the abyss and roots wrapped around his legs and dragged him back. Can't he use a movement technique or a teleportation artifact? Every Monarch should have one.
+
+Faelorian shed his armor, letting it fall to the ground like a crumbling mountain. Discarded by its Monarch, the lifeless husk of wood lost its sheen of lifeforce. It crashed into the abyss and was swallowed by the void. Taking the precious few seconds bought by the sacrifice, Faelorian rushed toward the border of the fire dimension. As it was merely an overlapping pocket of reality rather than a true domain, its influence on the Monarch was limited. It was clear the All-Seeing Eye had conjured it as a countermeasure against Faelorian's domain, even at his own expense.
+
+"That's a shame," Mistress Veilshade found herself muttering, shaking her head. "Faelorian is going to escape now. If the All-Seeing Eye had simply kept fighting for another day or two, Faelorian would have run out of Qi. It's not like anyone was going to come and save him."
+
+Once again, the All-Seeing Eye proved her wrong.
+
+Before Faelorian made it to the border, a rift conjured from desolation appeared, and from it stepped out a tall humanoid fire elemental. His skin was obsidian with veins of fire pulsing softly underneath. Twin suns for eyes glared at the fleeing Monarch with determination.
+
+"Who are you?!" Faelorian demanded.
+
+Without exchanging pleasantries, the newcomer pointed his finger at Faelorian. "Domain of the Infernal Sovereign."
+
+A shoddy domain expansion followed. It was slow, lacking the punch of a more seasoned Monarch. If this had been a normal situation, Faelorian would have been able to override it easily with his own domain and send this Monarch to an early grave.
+
+Yet, the hellfire dimension they found themselves in tipped the scales heavily in the fire Monarch's favor. An infernal titan formed out of swirling hellfire struck Faelorian with such force that it sent the old man tumbling back into the fiery abyss.
+
+It was starting to look desperate for the leader of the Flower Accord. The All-Seeing Eye had been oppressive enough, but now another Monarch had taken the stage, and their domain was being empowered by an overlapped pocket dimension.
+
+How is this fair? Mistress Veilshade found herself asking. I suppose Faelorian will have to admit defeat this time around and flee...
+
+"Veilshade!" Faelorian suddenly roared to the sky. "I know you're watching. Help me!"
+
+Her blood ran cold. Faelorian would never call out for help from another Monarch, unless... he really can't escape? Something must be locking him in place? A spatial lock array of some kind? She floated forward a step, only to regret it.
+
+"Do not intervene, Shadow Monarch," a voice that sounded like death itself whispered coldly from the sky.
+
+Mistress Veilshade's gaze snapped toward the shadow angel that was floating a little above her. When did he get here? It was side-eyeing her, as if daring her to make a move.
+
+"I'm a spectator," she assured the shadow angel. "If Faelorian dies, then he dies."
+
+"Oh, he will die, that's not up for debate," the shadow angel said with a dark chuckle. "One way or another, he has been marked for death by the All-Seeing Eye, and nobody has or will ever escape his judgment."
+
+"Why now?" she found herself asking.
+
+"The Covenant was going to deal with him, but he disturbed my Lord's beauty sleep," the shadow angel grinned dangerously. "A grave sin worthy of execution."
+
+The word execution wasn't something Mistress Veilshade thought could be associated with a Monarch. Even now, while Faelorian was being heavily pressured, he was far from dead. He was holding his own against the fire Monarch by keeping his domain running in a small area around him.
+
+Going back to ignoring her, the shadow angel addressed the world. "Councilman Faelorian Lysanthos, leader of the Flower Accord, the All-Seeing Eye has decreed that today will be your end," he said, his Qi-empowered voice reverberating across Floridawn for all to hear.
+
+The fire Monarch suddenly backed off, giving Faelorian time to glare at the shadow angel. "You coward!" he roared, pointing his glowing blade at the angel. "Decree this, decree that. Why doesn't the All-Seeing Eye stop watching from afar and finally show himself before me?"
+
+The shadow angel looked down at Faelorian with a sad gaze like one would give to a dying dog. "You will enjoy the All-Seeing Eye's loving embrace soon enough."
+
+"What does that mean—"
+
+"Perish," the shadow angel said, snapping his fingers.
+
+Faelorian snorted at the shadow angel and seemed about to jeer at the overly pompous statement, only for all defiance to vanish from Faelorian's face. Time slowed to a crawl as a deep wail echoed through the fabric of existence—reality itself shrieking as something unfathomable tore through it.
+
+Both Monarchs turned, eyes wide in slow motion, as their spiritual senses were overwhelmed by the sheer wrongness swelling from the distant horizon.
+
+Then they saw it.
+
+From beyond the far reaches of the wilderness, a beam of pure desolation howled forth, splitting the heavens with ease and devouring clouds in its unstoppable wake. Reality warped and bled around it. Mountains in its path were unmade, not destroyed, but erased—like they had never been.
+
+Such continent-wide destruction, unleashed in a single breath.
+
+"I knew my death was coming," Faelorian whispered, barely loud enough for anyone to hear. His gaze was filled with resignation. "The Heavens, they willed my demise to feed their dark child."
+
+Faelorian closed his eyes as the desolation beam engulfed him and the entire region with it.

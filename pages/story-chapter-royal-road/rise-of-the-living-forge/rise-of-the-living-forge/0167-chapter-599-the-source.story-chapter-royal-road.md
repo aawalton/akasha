@@ -1,0 +1,125 @@
+---
+id: e323337d-1a74-5c0c-a257-3b49293270c8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 599: The source"
+slug: 0167-chapter-599-the-source
+partOf: rise-of-the-living-forge
+position: 167
+ownLength: 1678
+unit: words
+publishedAt: 2026-05-28
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3460255/chapter-599-the-source"
+royalRoadId: "3460255"
+---
+
+“What?” Arwin whispered.
+
+His words faded into the darkness, denied even an echo. He couldn’t even bring himself to move. All he could do was stare in disbelief and confusion. Lying before him was the corpse of the Mesh. There was no doubt about it, either. This wasn’t just some random body.
+
+The complete lack of distinctive features, the fact that — even now — his eyes couldn’t manage to focus on any part of it for more than an instant… this was the Mesh. And it was most certainly not alive. The body laid on the ground, still and unmoving. There was no breath in its lungs or life in its eyes.
+
+But the Mesh couldn’t have been dead. That didn’t make any sense at all. All the world’s magic was the Mesh. If it was dead, then Arwin wouldn’t have been able to come here in the first place. There wouldn’t bet have been any magic with which to do… well, anything.
+
+But Sunsetting changed that. My magic isn’t just leeching off the Mesh anymore. Technically, it’s completely mine. So maybe I would still be able to use magic, even if the Mesh was gone. But anyone whose class hadn’t been Sunsetted would not be. And Wallace was just working a few moments ago.
+
+There’s no way the Mesh died in the span of the last few minutes, right?
+
+Arwin’s questions weren’t blessed with an answer. It was all he could do to just sit there and stare. Several long seconds passed. Cold sweat beaded against his back. He activated [Arsenal] with a thought. To his mild surprise and immense relief, Caldera materialized in his hand immediately.
+
+The Wyrm’s Revenge appeared an instant later, the massive shield’s weight comforting in the face of the absolute silence. It was so quiet that he could feel the thump of his heart. Blood pumped in his ears and needles prickled against his fingertips.
+
+And still there was nothing. No monster loomed in the darkness to try and take advantage of his confusion. Arwin was alone with the body of what had once been the Mesh.
+
+It was still at least a minute longer before he even dared move from his spot. But Arwin couldn’t just stand around and stare forever. Whatever had happened here, he wasn’t going to find the answer by just sitting and staring. He was going to have to try and do something.
+
+Arwin swallowed, trying to reign in his thoughts.
+
+What can I even do, though? Is this just some fancy illusion, made to spite me by the Guild’s Dagger? That wouldn’t actually surprise me.
+
+That, at least, gave him something to focus on. He blew out a short breath. Then he narrowed his eyes, setting his jaw as he carefully approached the body lying in the darkness. Arwin paused for a moment longer. It certainly looked quite real — and quite dead.
+
+He nudged it with his foot.
+
+Arwin instantly regretted his decision. Poking the Mesh with his toe just felt a bit rude. It might not have exactly been a paragon of good, but it hadn’t exactly been evil. Disrespecting its corpse wasn’t the nicest thing one could do. But then again, if it was dead, then that was that.
+
+It wasn’t like the dead gave much of a shit about what happened to them. They were busy being dead.
+
+Blowing out a small breath, Arwin edged a bit closer to the body. He glanced around once more. There still wasn’t anything rising up in the shadows. If this was some kind of bait, it was very, very convincing.
+
+Arwin nudged the Mesh’s corpse with Caldera. Then he flipped it over. The body rolled. Like a log. It was… convincing, for a lack of a better word. Its hand thunked against the ground, if he could even consider the vague spot where they existed in the infinite void of black as ground.
+
+The body was stiff. This was not the look of a recently made corpse. It seemed that the Mesh had been dead for quite some time. Interestingly enough, it didn’t smell. His nose couldn’t pick up on anything at all. And given how sensitive it should have been to anything magic at all, that was strange. Very, very strange.
+
+What is going on here?
+
+Arwin banished Caldera with a thought. Then he gently set a hand on the side of the Mesh’s face. It was cold. Freezing cold. Not even a hint of heat still lingered within the body. Its eyes were sunken and, though the corpse hadn’t yet started to decay, there wasn’t much else it could have possibly done to look more dead.
+
+This has been gone for a long time. How long? Weeks, maybe? More? Can bodies even decompose in whatever this darkness is? But if the Mesh died that long ago… no, that doesn’t make sense. It wasn’t all that long ago that Lillia Sunset her class, and she spoke to it directly.
+
+I don’t even know if Sunsetting would work if the Mesh itself is gone.
+
+There was a headache starting to form at the back of his head. Arwin pinched the bridge of his nose, only realizing a second too late that he was using the hands that had just been touching the dead body. He muttered a curse and hurriedly pulled his hand back.
+
+He stared at it for a second.
+
+Then he poked the Mesh again.
+
+“Hey,” Arwin said. His voice faded into the darkness, swallowed whole. That did nothing to stop him. “Hey. Wake up.”
+
+The Mesh ignored him.
+
+“If you don’t wake up, I’m going to have to do something that neither of us are going to like,” Arwin warned. He pointed his sullied finger at the Mesh. “And I do mean that in every possible sense of the word. If you’re faking for some kind of philosophical bullshit reason — or if you’re doing this because you said we wouldn’t speak again — now is the time to call the idea off.”
+
+Still, there was no response.
+
+Arwin waited a second longer. Then he slapped the Mesh across the face.
+
+There was a loud, ringing crack. The Mesh’s head barely even moved. It was like striking a… well, a corpse. Arwin stared at his hand. Then he wiped it off on the Mesh’s clothes.
+
+“Fuck,” Arwin said. “This is a load of shit, you know that?”
+
+The Mesh continued to fail to respond. Maybe he should have expected that from the start. The Mesh hadn’t exactly been that useful back when it was alive. Nothing about dying meant someone had to suddenly change their ways. Being dead didn’t make someone better or more useful than they had been when they’d still had breath in their lungs.
+
+Arwin took a step back and glanced around the darkness. He’d been pretty focused on the corpse. If something had been lurking in wait to attack him, then it should have tried by now. The fact that nothing at all had happened was starting to set him on edge.
+
+He cast his senses out as far as he could, spreading his mind through the space that should have contained the goals and desires of the Guild’s Dagger.
+
+And he found nothing.
+
+There was only the empty black void and the husk of the Mesh lying at his feet. No power, no desire, not even general want. The dagger was completely and utterly empty. It may as well not have existed at all.
+
+Arwin let his hands drop helplessly back to his sides. His jaw clenched in annoyance. This was some kind of puzzle. He was certain of it. But puzzles still had to follow rules. Arwin had just upgraded his ability to communicate better with the materials he worked with.
+
+Getting dropped in with a corpse and nothing at all to speak with was practically spitting in his face. He’d have assumed it was a personal slight if he didn’t know any better.
+
+“Is the dagger really this strong?” Arwin muttered. “Can it actually stonewall me this easily?”
+
+The frown on his features deepened. He cast his mind farther and farther into the darkness — and still, he found nothing at all. He was alone. Arwin was becoming increasingly certain of that. This wasn’t some kind of trick or a very patient weapon just hoping that he would let his guard down.
+
+There was just nothing here.
+
+Is… my ability actually working exactly like it should be?
+
+His magic couldn’t give him the ability to speak with something that was gone.
+
+A chill prickled against the back of Arwin’s spine.
+
+The daggers steal magic. But I can’t feel Mask’s magic here at all. I know we didn’t use it. So that means the magic is separate, somehow? And more importantly, could this complete and utter lack of magical presence be what causes these things to steal magic in the first place?
+
+If this dagger was genuinely nothing but a bundle of negative energy meant to attract positive magical power, that could explain some things. But those questions would all lead right back to the body at Arwin’s feet.
+
+It was definitely the Mesh.
+
+But Arwin vehemently refused to accept the possibility that the Mesh itself was truly dead. If it were, the effects would have been felt all across the world. The Mesh was definitely alive.
+
+And that meant that he couldn’t have been looking at it.
+
+Not the whole Mesh, at least.
+
+“What are you?” Arwin whispered, pulling the Mesh’s eyelids back to stare into the inky white orbs. There was no answer within them. But in some ways, that almost felt like an answer in itself.
+
+Could this be a fragment? A piece of the Mesh that died, separated from the whole?
+
+And with that thought, the chill in Arwin’s spine grew stronger.
+
+If the Guild could kill portions of the Mesh and turn them into magic-stealing weapons… could that be what’s causing the overall magic in the world to drain away?

@@ -1,0 +1,175 @@
+---
+id: 098336d7-a41e-51a6-b6cc-e0f4dae3f127
+page-type-slug: story-chapter-royal-road
+title: "524. Evaporate"
+slug: 0081-524-evaporate
+partOf: salvos
+position: 81
+ownLength: 2578
+unit: words
+publishedAt: 2023-03-24
+link: "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1147386/524-evaporate"
+royalRoadId: "1147386"
+---
+
+524. Evaporate
+
+“What is going on?”
+
+I asked, but no answer came.
+
+Above, the sky ripped open. A white tear scarred the crimson dome of the Netherworld. Black lightning thundered down like a storm— a ceaseless barrage that rained is wrath down to the unchanging terrain. The black pools of Lifeblood rapidly evaporated as the world I had known began to change.
+
+And that was when the ground shifted.
+
+I blinked a few times, processing what was happening. I heard the rumbling, even from a distance. It groaned louder than the cracking thunder. My vision was engulfed with a black light for a moment as a dark bolt of lightning struck the ground, and then I saw it.
+
+In the distance. Towards the horizon that only ever glowed red. Where the sky met the undulating hills. A tall mountain was shredded in half, cut vertically down as a crack continued creeping its way through the Netherworld.
+
+I heard the screeches in the distance. The roaring of [Hellbeasts], and the howling of [Hellhounds]. Their cacophony of shrieks resounded like a deafening chittering. Wild Demons poured down the mountainside as they all fled the cracking earth.
+
+But the tear didn’t stop. It continued to spread. Like roots expanding their reaches through the soil, the earth was shredded open. Entire valleys were shorn through as the single crack became dozens. I watched with bated breath the flight of winged Demons. They took to the skies, only to be struck down by the dark tempest above.
+
+And those that fled on land were chased by the crumbling earth. [Arachnes] and [Gadarenes] were swallowed whole by these dark pits. It wasn’t a mere earthquake— it was a worldquake.
+
+The entire Netherworld trembled as I could only gape. My wings beat slowly behind me. Exhaustedly. I had somewhat recovered thanks to my Skills, but I wasn’t ready for this. I looked on as a flood of Demons poured my way like animals fleeing a wildfire.
+
+But they were wild Demons. Not Humans, Kobolds, Beastmen, or Elves. Not animals. Not even monsters. They were just like Centinels. They cut each other down even as they fled, not moving as a single cohesive whole. [Hellwolves] leapt atop [Djinns], and [Savage Agarats] ripped through [Vampyr Bats]. A towering figure tore through them all.
+
+A Primeval Demon that stood taller than a valley. An [Archarachne] that was accompanied by tens of thousands of [Aranea]. It unleashed a beam of crimson light that shredded through the wild Demons pouring around it. I had to swerve out of the way of the attack as it reached me. It was clearly an apex predator amidst the lower-leveled Demons. And yet, it also fled from the collapsing earth.
+
+I looked on, hearing the screech of the [Archarachne] as a black lightning bolt struck it, and it stumbled. The wild Primeval Demon tripped, falling back. In that moment of weakness, it was consumed by the earth, just like everything else.
+
+I clicked my tongue before turning around. This was dangerous. I faced the other side— where the world still seemed to be barren.
+
+“I have to—”
+
+I started. And my eyes grew wide. [Angelic Premonition] flashed in my head. I saw the world darken before the lightning even fell from the sky. A brief glimpse into the future by a fraction of a moment.
+
+I dove to the side, and the dark bolt of lightning struck the bubbling sea beneath me. I cursed and looked up as I saw shadows passing over. All kinds of winged Demons flocked away from the rumbling earth. They avoided the tempest above as they shrieked and screeched and… circled me?
+
+I looked on as a group of [Savage Agarats] began to fly down my way. I eyed the wild Demons with a frown before I raised my claws and they were lit alight with iridescent color.
+
+[Savage Agarat - Lvl. 135]
+
+[Savage Agarat - Lvl. 138]
+
+…
+
+[Savage Agarat - Lvl. 146]
+
+“Why are you wild Demons so… stupid!”
+
+I yelled as I sent a blast of flames out, completely incinerating the first [Savage Agarat].
+
+They were lower-leveled than me. Very much so. And I knew I could take them on. But they didn’t worry me. I easily avoided these Archdemons even as they dove at me from all sides. I clawed through another, before kicking a third into the rest of the flock.
+
+I backed up just in time for another blast of dark lightning to miss me. This was why I was worried. I felt the intense heat of the lightning even from afar. It obliterated a large chunk of the black sea beneath me, leaving behind a sizzling trail of smoke that rose to the sky.
+
+I cursed as I created a ball of gray flames. The [Savage Agarats] charged my way, and I raised the fiery attack—
+
+Only for a loud crack to reverberate from beneath the sea, followed by hushed hissing. Once again, [Angelic Premonition] saved me. I saw it coming even before I heard. Even before I could parse what it was.
+
+A burning crimson pillar shot to the sky from below. It burst through the black sea, streaking hundreds of feet into the sky. I managed to move out of the way in time, but a splash of glowing liquid dripped against my arms. It burned the dark scales of my hands as I winced, but it wasn’t enough to kill me. It just hurt slightly.
+
+I blinked, watching as this column consumed the [Savage Agarats]. They recoiled and screeched in pain, and when the crimson curtain fell, I saw the Archdemons burning. I looked down towards the source of the hissing.
+
+And my eyes went round.
+
+“That is… lava?”
+
+It poured from the earth as the ground cracked open. The dark sea floor began to rumble, and cracks quickly shredded through the entire span of the ocean. The pool of Lifeblood rapidly evaporated as magma continued seeping out from below.
+
+“Since when does the Netherworld have—”
+
+But my questions couldn’t be answered as another column of lava shot straight up, nearly engulfing me. I wreathed myself in gray flames and created a powerful armor from the heat. More and more of these magma geysers exploded across the dark sea. But just as I backed away from these blasts, I saw a burning figure lash down at me.
+
+A [Savage Agarat] crashed into my side, snarling as it swiped its claws at my head. [Angelic Premonition] didn’t activate— probably because this threat wouldn’t have killed me. But even while on fire, the Archdemon still clamped its elongated jaw against my arm.
+
+My flaming armor gave way as I felt the edge of its sharp teeth pierce my scales. I clenched my jaw, turning my right arm into a scythe. Like that of a Centinel.
+
+“Get off of me!”
+
+I yelled, swinging up and slashing through the [Savage Agarat]’s skin. It reeled back from the attack, and I pointed as my arm returned to normal. A blast of flames shot out, engulfing the wild Demon. I heard the notification resound in my head before drawing back.
+
+Defeated [Savage Agarat - Lvl. 141]!
+
+Less experience is awarded for defeating an enemy at least 10 levels below you!
+
+“Less experience…”
+
+I shook my head. Another pair of flaming [Savage Agarats] flew at me. But I turned away from them. There was no point fighting these Archdemons. Especially when they gave no reward, and I was still tired. I zipped away from my pursuers, swerving around another explosion of lava.
+
+Pouring molten droplets showered over my back, but my flaming armor mostly protected me. I winced slightly, before shaking my head. I was fine. Even if I was directly struck by one of these burning columns, I would survive.
+
+I glanced back once at the chasing wild Archdemons. They shrieked, coated in flames that burned away at their outer flesh. I pursed my lips as they began to gain on me. Without [Angelic Wings], I couldn’t fly as fast as I normally did. But my [Angelic Wings] were still injured, and I was exhausted.
+
+I moved slower than I normally did. The wild Archdemons began to close in on me. Their snapping jaws reached the back of my feet. And I sighed.
+
+“[Divine Haste]!”
+
+I mustered up the iridescent aura from deep within. It wisped off my body as I shot forward with a trail of Divine Essence flaking behind me. In an instant, I was far ahead of the [Savage Agarats].
+
+They roared, but they couldn’t catch up with me. I soared through the sky, diving around the black lightning, and easily avoiding the lava pillars shooting into the sky.
+
+The wild Demons were left far behind. It gave me a moment to breathe. I swept my gaze over my surroundings, searching for a place to rest. But now, nowhere was safe. Behind me, an army of wild Demons fled this devastating tremor. Hundreds of thousands of them, forced to escape this cataclysm.
+
+Below me, the dark sea turned to an ocean of lava. Magma exploded from the ground, and lightning thundered down from the sky. The shadows of winged Demons painted the cracking dome overhead as I looked forward.
+
+I watched as Demons scattered for the faraway hills, only for the ground to collapse as well. I blinked, slowly for just a moment as an entire mountain collapsed. The ground tore open ahead, and more crevices rapidly began to spread throughout the Netherworld.
+
+“Seriously…?”
+
+All around me, the world seemed to collapse, creating ridges and crevices that spanned hundreds of miles each. And that wasn’t just it. My jaw dropped as I saw lava pouring out of the ground up ahead as well.
+
+It burst into the air— like small eruptions that left behind calderas, exacerbating the rumbling tremors. I spun around slowly, at a loss for where to go. There was danger everywhere. No place to escape. The entirety of the Netherworld was being reshaped.
+
+And here I was, just staring in shock.
+
+Until the ground beneath me exploded again. My gaze snapped down as [Angelic Premonition] warned me of another impending attack. This time, I sensed… mandibles?
+
+I dove down with round eyes as a giant figure burst up from the sea of lava. I narrowly avoided the sharp teeth that were aimed for where I had been. It took me a moment to comprehend what I was seeing. It entire figure was burning. Its carapace was drenched in molten rock. I stared up at its eight eyes, blinking a few times as I tried to work my jaw. A crimson sphere coalesced around its mandibles as I tried to work my jaw.
+
+“Wait, you’re—”
+
+[Archarachne - Lvl. 169]
+
+And the blast of crimson light shot towards me. I tried to fly out of the way, but I was a little too slow. The attack struck my side, burning the edge of my wings as I screamed in pain. I recoiled as the beam swept past me, ripping apart the terrain.
+
+I cursed and looked up at the [Archarachne]. It was the very same wild Primeval Demon that I had seen be consumed by the earth earlier. It must have fallen into lava, then swam through it beneath the earth, surviving the intense crimson liquid.
+
+Now, it was here. It had reached me, and it directed its fury my way. It swung one of its scythe-like limbs down at me as I barely parried the attack.
+
+“Get away from me! [Sacred Hellfire]!”
+
+I pointed, unleashing the black flames at the wild Primeval Demon. Its body was set alight… more than before. This time, with a spreading dark fire that rapidly ate away at its carapace. The [Archarachne] shrieked as I limply flew back, trying to get away.
+
+And that was when the [Savage Agarats] caught up. The first of them charged straight at me, striking me from the side. I tumbled out of the air as a second of the wild Archdemon crashed into my back, biting at my wings. I fell straight down towards the lava as I struggled to tear them both off. I was just about to fall into the sea of lava, before I kicked the first [Savage Agarat] straight down.
+
+It let out a cry as it was consumed by the liquid. It thrashed and barely flew out of the burning pool, only for a scythe-like limb to shear it straight in half. I looked up at the [Archarachne] as it shrieked. A dozen [Savage Agarats] zipped around the wild Primeval Demon as I looked on for just a moment.
+
+Then I felt a sharp pain run up my wing, and I glanced back. The second [Savage Agarat] bit into my wings with glowing teeth. And I swung back with a clawed hand. Flames wisped off my arms as I struck the Archdemon. It let go of my wings, flying back as it screeched.
+
+I barely regained my bearings, hovering right over the lava, when I saw a glint. I looked up just in time to see the [Archarachne] opening its mandibles again. A crimson sphere gathered at its mouth, and it aimed at the dozens of [Savage Agarats] surrounding it.
+
+My eyes widened, and I backed away. But before I could fly off, I heard another deafening screech. Blinking, I looked up.From above, another hulking figure descended from the sky. Dozens of tendrils shot to the ground, striking the burning carapace of the [Archarachne] as it recoiled.
+
+The crimson beam shot out, wildly missing everything. The attack tore through the lava, striking the nearby [Savage Agarats], but completely missed me. I narrowed my eyes, staring at the second Primeval Demon that entered the fray.
+
+[Chthonic Agaros - Lvl. 171]
+
+It was like a [Savage Agarat], except far larger, with countless tendrils that covered its underbelly. The [Chthonic Agaros] cried out with a guttural shriek as it assailed the [Arcarachne]. A powerful wave rippled across the sea of lava, and I flew up as my wings weakly beat behind me.
+
+“Is this… seriously the Netherworld?”
+
+I stared at the two battling Primeval Demons. Then I cast my gaze over my surroundings. No black Lifeblood remained. It had completely evaporated. And all around me, the world continued to crumble.
+
+I shook my head, taking my chance. These wild Primeval Demons were distracted, and I felt blood pouring out of my wings. I flew back, heading for land. Towards the cracking ground. I saw a ravine open up ahead of me, and more lava poured into the burning sea.
+
+Never in my entire life had I ever thought the Netherworld would be reshaped to this cascading landscape. But it happened. I didn’t know why. I couldn’t understand it.
+
+I just knew I needed to escape for now. So I flew on. I limply flitted across the sky, barely avoiding the falling lightning, before entering the ravine that was just up ahead. I stayed close to the burning lava, feeling the heat bubble up towards me, even as I entered that narrow crack. The ridge flanking me from both sides continued to rumble, and I heard the clamor of wild Demons in the distance.
+
+I looked back once towards the [Archarachne] as it was slowly torn apart by the [Chthonic Agaros]. The last vestiges of the Netherworld I had previously known were completely gone.
+
+And I flew on.

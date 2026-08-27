@@ -1,0 +1,135 @@
+---
+id: e1d3dbcc-f059-552f-8532-f1d257612bf8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 614: Snakes"
+slug: 0182-chapter-614-snakes
+partOf: rise-of-the-living-forge
+position: 182
+ownLength: 1849
+unit: words
+publishedAt: 2026-06-24
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3584200/chapter-614-snakes"
+royalRoadId: "3584200"
+---
+
+It took the Beast even longer to stop laughing than it had the first time around. Arwin and the rest of the present Menagerie members watched on. This was definitely a far better alternative to the Beast deciding that they’d failed to meet his requests and trying to destroy the entire city.
+
+Not that Rodrick didn’t have at least the semblance of a plan for that. The former paladin had been preparing for the worst from the moment the Beast had first shown himself. That didn’t mean they wanted to use them. This was, without a doubt, the best result they could have hoped for.
+
+“You,” the Beast managed, wiping tears of mirth away from his face as he pointed at Arwin. His finger moved shakily through the air until it had landed on Lillia. “And you? Seriously?”
+
+“Quite,” Lillia said. “It wouldn’t be a very funny joke, would it?”
+
+“It would be a hilarious one,” the Beast replied, managing to gather himself. He coughed, then wiped his face off with the back of a dirty silk sleeve. “But not one that I could believe. Godspit. How did this even happen? How could the Guild fail to kill both of you in a manner so bad that you not only ended up on the same side, but in the exact same place?”
+
+“That’s a long story,” Arwin replied. “The whole one, to be honest. We could probably fill a few books with it. Now certainly isn’t the time. Suffice to say someone tried to kill us before they got around to it. That didn’t work out too well, and we both somehow ended up in Milten.”
+
+“Shithole, by the way,” the Beast said. “As far as towns go, it’s one of the worst I’ve ever seen. And that’s saying a lot. I’ve seen many, many towns.”
+
+“Thank you,” Arwin said dryly.
+
+“You’re welcome,” the Beast replied. “Not to complain about your street. It’s not looking too bad. A lot of construction going on. Definitely messes with the atmosphere a little. But the finished buildings aren’t bad. If you think about it, this place is perfect. So dinky and out of the way that the Guild can’t be bothered to pay it real attention. It’s not worth their time. Having an outpost here would actively worsen their image purely by association. Only the dregs of the Kingdom would ever want to be here.”
+
+“He has a way with words,” Uriel said. “Thrilling. I’m pleased that I will have to spend any amount of time in his presence.”
+
+“You’ll be fine,” Arwin said. “I’m sure a big strong Soul Guardian such as yourself can handle it. More importantly—”
+
+“No,” the Beast said, raising a hand.
+
+Arwin blinked. “What?”
+
+“You are not revealing the fact that I am standing before the former Hero and Demon Queen and then moving on as if it was just a fun little piece of information that one shares over wine during brunch gossip.”
+
+“You know what brunch is?” Rodrick asked. For the first time in the entire meeting, he looked slightly surprised.
+
+“I’m not a savage,” the Beast replied. “I remember time before I became who I am.”
+
+Rodrick didn’t stare at him. He couldn’t. His eyes were still closed. But if his eyes had been open, he would have been staring.
+
+The Beast sighed. “I’ve also killed a few people that were taking brunch.”
+
+“Makes more sense,” Kien said.
+
+“That doesn’t mean I don’t know what it is,” the Beast snapped. “And stop trying to distract me. This is the funniest thing I’ve ever seen. The Hero and the Demon Queen are in the same guild. Imagine that. I would have joined up with you if only to see the looks on the leadership’s faces when they realize who is attacking them. Actually, I would have killed to be a fly on the wall when you two first figured it out. How did that go? Did you discover the truth midway through trying to tear each other’s throats out?”
+
+“It was pillow talk after some very intensive and graphic intercourse,” Lillia replied with a straight face.
+
+The Beast choked on his own saliva. “What? Are you — oh. You’re screwing with me. You find my curiosity amusing?”
+
+“I find that the information you’re asking for is beyond what you need to know. It’s personal,” Lillia said flatly. “We lost our brothers and sisters in that fake war, Beast. A war that you knew of and did nothing to stop. I don’t find any part of it interesting or amusing at all. I don’t mind answering your questions that are relevant to our success. But our personal lives — especially regarding what the Guild did to us all — are none of your concern.”
+
+The Beast blinked. Then, to Arwin’s slight surprise, he inclined his head.
+
+“That… is fair,” the Beast allowed. “It has been a long time since I have kept civil company. I have not cared for decorum in longer than you have been alive. There has been no need to. Those who surrounded me were not worthy of it. But I will do what I can. I… damn it. You’re going to have to forgive one more rude question. Well, more than that. I’m not a liar. But for the time being, I can restrain myself to one.”
+
+Lillia sighed. “I already know what it is, but go ahead.”
+
+“You’re together?” The Beast asked, gesturing to Arwin. “Not just allies? The Hero and the Demon Queen?”
+
+“Yes,” Lillia said wearily. “And that is the extent of any honest answer you’re getting from us about it.”
+
+The Beast cackled. “Oh, the Guild would be furious. But I’ve seen firsthand that shared hatred is one hell of a way to unite people. Absolutely brilliant. If you’d told me this before making the item, I might have thrown in with you just to watch all of this unfold.”
+
+You’re kidding me.
+
+Arwin’s eye twitched. “Seriously?”
+
+The Beast looked at him for a moment. Then his lips curled down. “No. I would imagine I still would have done everything in my power to kill you all and myself, should I have been able to. Peace wouldn’t have been on the table.  But I would have strongly considered it for a few moments.”
+
+“Lovely,” Arwin said.
+
+The Beast shrugged. “But it all worked out. That’s all that matters in the end, yes? And I have to say I’m beyond pleased with the result. How amusing. Fighting the Adventurer’s Guild alongside a Lich and — if I can be so bold as to count myself — a Revenant.”
+
+“If it helps, we also have a vampire and a witch,” Arwin said.
+
+And two ex-members of the Secret Eye along with a few more things. But no need to go spilling random secrets that don’t even have any relevance to the current situation. We’ll save those for when they’re actually relevant.
+
+“Anything else I should know?” The Beast asked.
+
+“Probably,” Arwin said. “But we don’t have all night.”
+
+“That much?” The Beast asked. He arched an eyebrow.
+
+“Yes,” Arwin replied. “But as I was saying before our conversation took a sharp dive off the edge of a cliff, I’m much more interested in what information you can give us than what we can give you. There will be time to bring you up to speed on what matters later. What I want to know is what you were about to tell us about the Hero cycle.”
+
+“Ah. Yes.” The Beast’s smile fell away. “You know that the Hero and Demon Army leaders are consistently killed and recycled every few years.”
+
+“I’d say it’s been more than a few years since we started,” Arwin said.
+
+“Your definition of few and mine are different,” the Beast replied with a wave of his hand. “It doesn’t matter. What does matter is the Hero and Demon Queen get restless. They start to figure shit out. The war stops being a the grand conquest to save their people. It becomes the corpses at their feet and the blood on their hands. They start wondering if this is really the only way to go about things. Why nothing they do seems to matter. Sound familiar?”
+
+“Painfully so,” Arwin replied.
+
+“Right,” the Beast said. “And then they start looking into things. They ask their advisors a few too many questions. Start sparing the enemies that can’t fight any longer. And that’s just about when the Guild resets things. The Hero or the Demon Queen goes down. Armor malfunction — a stray arrow, a missed spell. Then the other one vanishes a short while later. Sometimes the masses don’t even hear about it. There’s just a brief lull in the war. Nobody cares beyond the fact that they’ve gotten their much-needed relief. Maybe there’s a little party. Keep the masses satiated with a droplet of hope. And then the war is back.”
+
+“We know this part all too well,” Lillia said.
+
+The Beast nodded. “Then you should be more concerned to know that the latest Hero and Demon Queen have reached the point where they’re already starting to think, and it’s years ahead of schedule. The Guild is going to have to reset this whole thing within months.”
+
+“What? But it’s barely been any time at all,” Arwin muttered. “What changed? We were only removed this year!”
+
+“Someone’s been fiddling,” the Beast replied. A grin crossed his lips. “The Guild’s era has been teetering on the edge for years. They’re already crumbling. Someone has access to their core people and have managed to start getting messages to their puppets.”
+
+The hair on the back of Arwin’s neck stood on end.
+
+Setting Sun. They’ve gotten in contact with the new Hero and Demon Queen.
+
+“Shit,” Lillia whispered. “But what can we do? How does this affect us? I don’t take you for the compassionate type who is suggesting we rescue anyone.”
+
+“It’s not about them,” the Beast said. “And I think the Guild’s enemies know that too. See, when a Hero and Demon Queen are disposed of, new ones have to be chosen. And when new ones are chosen… the Guild Leader has to emerge. He’s the only one who can perform the ritual to anoint them.”
+
+Rodrick’s eyes snapped open.
+
+“Emerge? Do you know where?”
+
+The Beast’s smile grew cold.
+
+“I think you can take a guess,” the Beast replied. “I’ve never been there for it, but I know enough.”
+
+“The creature in the Guild’s Hole,” Arwin said.
+
+The Beast sent him a look.
+
+“Don’t,” Arwin said wearily.
+
+“You said it, not me,” the Beast said with a laugh. Then he crossed his arms behind his head. “But yes, you’re right. That’s where they summon the Hero. The Guild Leader is normally heavily protected. Most people don’t even know his identity. He never emerges from deep within the Guild’s territory… aside from when a new Hero has to be called. If you want to cut the head off the snake, there’s never going to be a better time.”

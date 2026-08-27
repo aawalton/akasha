@@ -1,0 +1,159 @@
+---
+id: 35298f76-928f-5c6a-841a-b49746e0297a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 473: Trash"
+slug: 0040-chapter-473-trash
+partOf: rise-of-the-living-forge
+position: 40
+ownLength: 2259
+unit: words
+ownProgress: 2259
+publishedAt: 2025-08-13
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2515276/chapter-473-trash"
+royalRoadId: "2515276"
+markedReadAt: "2026-06-29T19:59:44.027Z"
+---
+
+Mask dashed forward in a zig-zagging pattern, holding his dagger in a reverse grip as he advanced toward Arwin. He was much faster than he’d been a moment ago. Arwin’s eyes tracked the man’s movement, flicking across the field at a dizzying speed.
+
+Definitely fast, but good footwork as well. He’s trained. This isn’t the same situation as Hein. I don’t know if Mask is using stolen power… but whatever he’s got, he knows how to use it.
+
+Mask leapt forward, bringing his dagger streaking down toward Arwin in a streak of red light. Shadows of crimson red peeled away from his body in his wake as if the world couldn’t quite keep up with his speed.
+
+Arwin activated [Scourge]. Power ignited in his right leg as he kicked off his foot, spinning out of the way of the strike. He didn’t have anywhere near Mask’s speed, but explosive movements could mimic it.
+
+The dagger streaked through the air beside him, but Arwin didn’t wait for Mask to attack again. He shifted his momentum into Caldera. With a roar, he brought the huge hammer crashing down toward the other man.
+
+Mask vaulted out of the way. Caldera passed through the red shadow that followed the man, crashing into the ground where his feet had been with a deep crunch. The earth beneath Arwin trembled slightly.
+
+He raised the hammer again, but Mask was already moving. The dagger had already made it halfway to Arwin’s neck. He dodged back, but not fast enough. Arwin only managed to shift his position just enough to move his neck out of the way.
+
+A ringing clang echoed out as the dagger struck his shoulder plate — and bounced off harmlessly. Mask staggered a step back, his teeth gritting as vibrations traveled down his entire arm. He definitely hadn’t held back. That strike had been a full force one.
+
+The dagger, notably, also hadn’t been damaged. Even though Mask had just brought it down right on solid metal, there wasn’t even a nick in the blade.
+
+That’s magic, all right. Pretty strong too. Even a normal magic dagger might have had some trouble hitting Gehenna.
+
+Armory, were you affected by getting hit? Are you injured?
+
+No. I am not physically present here. Only my mind and magic. That dagger cannot affect me through the armor.
+
+A grin spread across Arwin’s lips even as caution built in Mask’s eyes. They’d both came to the same conclusion at the same time. Arwin’s armor wasn’t going to give out. It wasn’t weak enough to be brute forced through — which meant Mask was going to have to look for a gap so he could hit Arwin directly.
+
+“Something wrong?” Arwin asked as he stepped forward and swung Caldera. “I thought you were getting annoyed with me running away. Now you’re the one who stopped attacking.”
+
+Mask leapt over the path of the weapon, easily clearing it. A ripple of red passed through the air behind him. He launched himself off it, using the magic like a springboard to re-direct himself midair.
+
+There was no time to dodge in time. Arwin braced himself, trying to predict where the dagger would connect so he could make sure it didn’t land anywhere it could do real damage.
+
+He never got a chance to react.
+
+The Infernal Armory beat him to it.
+
+A wave of heat rolled across the back of his neck. Arwin felt his hair prickle as tendril of metal roared out over his shoulder. It was rough and black like pitted coal, bubbling with patches of molten red magma all along its length.
+
+The tendril flashed into Mask’s path. There was a flash of pitch-black fire. A resounding clang echoed out — and Mask streaked back down through the air in a red blur.
+
+He crashed into the ground with a meaty thud. Snarling in pain, Mask rolled over and thrust himself back to his feet. He batted a coil of flame off his burnt shirt and wiped a thin river of blood away from his mouth with the back of a hand.
+
+“Shit,” Mask snarled. “What…”
+
+Then his eyes went wide. He stared up at the black metal tendril coiling to loom just over Arwin. Or, more accurately, he looked at the shield that it was clutching. His dagger lowered.
+
+“What is that?” Mask breathed.
+
+He wasn’t the only one surprised. Arwin blinked. He looked up at the extention of his own armor. Then his smile started to grow even wider.
+
+No way. You can’t be serious.
+
+Clutched within the Infernal Armory’s grip was the Wyrm’s Revenge. The Armory had access to [Arsenal]. And, judging by the black flames sputtering along the surface of the shield, it had more than just access.
+
+It could actually use his bonded weapons.
+
+I need more power. At the moment, this is the extent of my abilities. I can only wield a single weapon… and not the Prism’s Reach. Making more than one tendril is still beyond me. Still, I suspect this will be enough for scum like this. Now feed me. I hunger.
+
+A part of Arwin still wondered if it had been a wise idea to port his bloodthirsty armory into a set of murderous armor… but it was a bit late to think about that now. Today, he was feeling rather inclined to give the Armory exactly what it wanted.
+
+“Betraying everyone in the empire for this little power?” Arwin asked, clicking his tongue. “What a waste.”
+
+He drew on [Scourge] and launched himself forward before Mask could respond. The guildmember snarled and leapt back, avoiding Caldera before it could crush his chest, and drove his dagger for Arwin’s armpit.
+
+The Infernal Armory swung the Wyrm’s Revenge — but not at the dagger.
+
+A loud, ringing clang echoed through the air as the armory brought the shield straight cross Mask’s face. He was launched backward through the air in a beautiful spinning arc that any acrobat would have been proud of.
+
+He landed on the ground with a crunch, his dagger spilling from his fingers and skidding across the dirt. Arwin couldn’t help but wince in sympathy. He’d felt the vibration from the force of the strike even through his armor. The Armory did not know the meaning of the word restraint.
+
+Mask drove a fist into the ground. Blood dripped from the side of his face and rolled down his chin as he drew in ragged breaths. He grabbed his dagger and staggered up to his feet, swaying as he fought to keep his balance.
+
+“How do you have this much power?” Mask demanded as he panted for breath. The whites of his eyes showed from a mixture of pain and fear. His teeth chattered as the pressure bearing down from Gehenna wore away his defenses incessantly, but still he stood. “How are you so strong? This is beyond the might of any sm—”
+
+Arwin pumped his arms full of power from [Scourge]. Then he flung Caldera.
+
+The massive hammer streaked through the air like a meteor, heading straight at Mask’s chest.
+
+The man’s eyes went wide. He dove out of the side, hitting the ground in a roll just as Caldera passed him by — and headed straight for the crowd behind him. Mask came up running. He didn’t even glance back to see the fates of the nobles unfortunate enough to be in Caldera’s path. The Infernal Armory swung the Wyrm’s Revenge at him, but this time, Mask was ready.
+
+He slipped under the strike and shot for Arwin, his eyes glinting as he sent the blade shooting up for his neck in a red streak — only to find Caldera back in Arwin’s hands and hurtling down.
+
+Disbelief only had an instant to pass through Mask’s expression before the hammer slammed into him..
+
+A loud crunch echoed out from Mask’s shoulder. He let out a scream of pain as his bones cracked and gave way beneath Caldera. The hammer didn’t even seem to care that he was in its path.
+
+Mask crumpled, his strike screeching harmlessly across Gehenna’s chestplate before the dagger spun from his grip for the second time. Mask fell to the ground in a mess of limbs, screaming and cursing in pain.
+
+Arwin kicked the dagger away from Mask before he could grab it, then drove his other foot down onto the other man’s chest to pin him down to the ground. Mask stared up at him in fury, anger burning in his eyes and pain twisting his features.
+
+“Who do you really work for?” Arwin demanded, raising his voice loud enough that nobody in the crowd could miss it. As he spoke, he flicked his left hand. A small hole opened in Gehenna’s gauntlets and a potion slid free from where it had been concealed. Arwin palmed it, snapping the top off between two fingers without taking his eyes off Mask. “Who’s your contact with the Horde? Tell me their name!”
+
+“Idiot,” Mask said through a pained laugh. “You’ll never—”
+
+Arwin swung Caldera. Masks’s let out a scream of panic and squeezed his eyes shut — but the hammer didn’t connect with his head. It slammed into the dirt just beside him. Dirt pelted the sides of Mask’s face.
+
+But, before he could open his eyes again, Arwin reached down to grab him by the hair. He upended the vial with the same move. The shimmering blue contents within it spilled across Mask’s face. It absorbed into his skin within an instant, vanishing without leaving a trace.
+
+The man sputtered in surprise. His eyes snapped open. Then they bulged. Mask let out a ragged wheeze. He grasped at his neck with his one still-functional hand. His fingers clawed against his throat.
+
+“What did you do?” Mask rasped, his voice barely more than a strangled whisper.
+
+Then his eyes rolled back in his head. His arm flopped down to his side and he fell still, the perfect image of death.
+
+Arwin hoisted the man’s body into the air before him. He didn’t have to fake the disgust in his expression.
+
+“Coward,” Arwin spat. “He killed himself.”
+
+He threw Mask to the ground in front of the horde of nobles. They all backed up, staring down at him in both interest and horror. Murmurs rolled through the crowd — but it was hard to deny Arwin’s claim.
+
+Mask wasn’t breathing.
+
+“How did you know he was working for the Horde?” one of the nobles asked, looking at Arwin nervously. “How do we know he wasn’t the one telling the truth?”
+
+“Do you really think someone this pathetic would truly be working for the Adventurer’s Guild?” Arwin asked with a scoff. “They’re the top of the line. The very best this kingdom has to offer. It doesn’t matter how good my equipment is. I’d never have been able to take out one of their operatives. The fact a mere smith was able to push him this far should be all the proof needed.”
+
+A few nods passed through the crowd. Nobles already weren’t particularly well acquainted with fighting. But the ones here were far from the prime of the crop. These nobles were the ones that had to suck up to the Blacktongues in hopes of furthering their position.
+
+To people like this, the idea of a smith somehow defeating a proper Adventurer’s Guild member was, of course, ludicrous. They already knew nothing about real power or fighting beyond what they’d witnessed in arenas. All they had was the knowledge was adventurers was meant to be strong — and crafting classes were not.
+
+Arwin strode through the crowd, who parted before him, and grabbed a cloth from a nearby table. People looked at him in confusion as he walked back over to Mask’s body, activating [Dragon’s Greed] in the process.
+
+He wasn’t surprised to find that there wasn’t a single interesting thing within Mask’s possession beyond his dagger. The man had been traveling light, but that served him just fine.
+
+Arwin knelt beside Mask. Then, without a word, he tore the man’s clothes off him. Nobles cursed and spun to cover their wives’ eyes, but Arwin paid them no mind. He stripped Mask, then draped the tablecloth over his body and shoved the body to the side.
+
+“This should be investigated. I suspect he took them off a real adventurer,” Arwin said, nodding to the clothes. “I’ll dispose of the body. It’s beneath all of you.”
+
+Not one noble protested at that. And, as Arwin slung the cloth-wrapped man over his shoulder and strode away, not one of them noticed a shadow twisting up to grab the dagger and drag it out of view.
+
+Arwin made his way right over to Esmerelda.
+
+“You,” Arwin said. “Dispose of this trash, would you?”
+
+Esmerelda smiled in response. She reached into her robes, pulling out a large leather bag. She pulled its mouth open until it was wide enough for Arwin to slide the whole body right into it. Strangely enough, when Esmerelda closed the bag again, it didn’t look even slightly larger. It was as if the body had just vanished.
+
+No trace of Mask remained.
+
+Behind Gehenna’s mask, Arwin smiled.
+
+Not one person in the party had any reason to suspect Mask still lived.
+
+After all, there was no way we could question Mask while he was still here. That’s one more part of the plan accomplished. My part here is done. It’s time to get somewhere quiet and finally get some damn answers.

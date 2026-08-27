@@ -1,0 +1,139 @@
+---
+id: 56c4796a-e537-5efa-a59a-2430f05f97f7
+page-type-slug: story-chapter-royal-road
+title: "Chapter 631: Weapon of War"
+slug: 0101-chapter-631-weapon-of-war
+partOf: rise-of-the-living-forge
+position: 101
+ownLength: 2198
+unit: words
+publishedAt: 2026-08-12
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3804604/chapter-631-weapon-of-war"
+royalRoadId: "3804604"
+---
+
+The actual process involved in creating Koyu’s new body wasn’t actually all too dissimilar from what they’d done to make Vanessa’s armor. It was the exact same idea at its base. This was just going to be a considerably bigger undertaking.
+
+Unlike a normal suit of armor, this was literally going to be Koyu’s body. That meant it needed to have more function in everything from the way its fingers worked to how information could flow through it. It couldn’t just be a weapon. Real bodies could touch. They could taste. They could live.
+
+And while Arwin wasn’t sure how much of that they could truly get with metal, he knew they could get a hell of a lot closer than most would have expected — especially with Ida’s help. Adding her runecarving to the creation process would let them get a lot more fine control over how the armor would interface with itself.
+
+The only way to get all the different functions that a body needed to truly live, they would need quite a few different pieces that could all interface with each other seamlessly. And the best way to really pull that off — in addition to ensuring they were made in unison and with the proper intent — was to add Sympathetic magic into the mix to help them communicate.
+
+Their goals for the body’s actual abilities were fairly restrained. This wasn’t, after all, a pure weapon. It would be an extension of Koyu himself. And perhaps Arwin was being naïve, but he was considerably more interested in making the body something worth living in than a weapon for war.
+
+After all, with any luck, there would come a time where Koyu could use this for more than fighting.
+
+Until then… it just had to amplify his existing abilities. He was a former Lich. A Sunsetted one. Arwin didn’t know how Koyu would grow or change in the future. But so long as they could ensure the armor could adapt and change with him, then it wouldn’t matter.
+
+That was the thought process Arwin and Wallace had used to plot the design out the previous day — and it was what the Infernal Armory had expanded upon.
+
+And so that was what they set about creating as soon as Ida arrived, having received the call for her help from the Infernal Armory just a few minutes prior.
+
+The first step of the work was bringing everyone up to date. They read over the plans with Ida and laid out exactly what her magic would have to do.
+
+And then they got started.
+
+Black tendrils extended from the walls of the Armory, connecting them all and merging their thoughts, and Arwin took lead of the song.
+
+The first step of any Soul Guardian was creating its core. It was a process that Arwin had done enough times already to have little trouble getting started. As soon as the song had synchronized and everyone was completely on the same page, he started gathering the components to make the Core.
+
+It was built around the largest gem that they’d gotten in the Auction — the Silversoul Amethyst Crystal, which Neil had bid toward the end of the auction. It was enormous, larger than Arwin’s clenched fist and perfectly glossy, almost like a faceted mirror.
+
+The gem was practically without any desire of its own, and it was more than happy to become the core for such a complex piece of armor. That was perfect for their needs. The gem would be where Koyu’s soul was housed while he was using the body. That meant it had to be big enough to contain him as well as power the rest of the armor.
+
+Arwin built the rest of the core around the gem using meticulously selected pieces. Ida inscribed runes into every single component before he worked them into place using careful blows from Caldera. The most difficult part of the Core was the final step.
+
+It was the largest Core that Arwin had ever tried creating. The amount of magical energy needed to work every single one of the huge gem’s pieces into the housing around it was immense. It would have been impossible just a few short weeks ago.
+
+But things had changed.
+
+They completed the Core just a short while later. And even ignoring the rush of magical energy that flowed into Arwin at its completion — he’d had over half of his reserves still ready to call upon. The others were similarly in good shape.
+
+So, without reason to delay, they got started on next hardest part of the challenge.
+
+The body itself.
+
+Much like the Gehenna armor, Koyu’s body would need a skeleton. They’d already figured out exactly how to create that. There was absolutely no reason to change what worked. Creating the skeleton was actually one of the easiest parts of the armor.
+
+The three of them, along with the Infernal Armory, made each individual bone that would eventually go into the body. Arwin handled the initial steps, purging each ingot of all their impurities with his Black Soul Magma before handing them to Wallace, who shaped them into their rough shape. Koyu finalized everything, ensuring each piece was the exact size, shape, and dimensions that it had to be before giving it to Ida, who engraved them with rune-work.
+
+Every single motion came naturally. The song guided their hands and kept them all focused on the final result. They moved with the experience of a team that had been working together a dozen years longer than they had — and before long, the skeleton was done.
+
+That was far from a reason to slow down. They moved right on to creating the flexible tubes that would run throughout Koyu’s new body, created from a strangely flexible metal that would function as veins to transfer fluid and matter. After all… a body needed to eat. There was no point living if you couldn’t enjoy food properly. If everything worked right, they would also function as a way to help aid Koyu’s movement and transfer stores of magical energy throughout the armor.
+
+Those took considerably longer than the skeleton. Several times, they had to completely restart a tube because it didn’t quite have the right length or ended up snapping because they’d worked it for a little too long. It was fortunate that they had materials in abundance. Even with the delays, the managed to complete the system over the course of the next few hours.
+
+Lillia came by at some point to drop sandwiches off for all of them. They barely even noticed her presence, and she was gone before she could distract anyone from their work. The armory fed all of them to avoid interrupting the process — and the flow of magical energy that filled Arwin made it clear just how much power they’d already burned through in the creation of the pieces thus far.
+
+But now the internals of the armor were complete. And with their reserves filled back up, there was nothing to stop them from continuing on to completing the final stage.
+
+They’d chosen a dull silver metal to make the external components of Koyu’s new body out of. It was flexible and light enough for nimble motion, with enough strength to avoid getting dented by anything but heavy blows. The body was plain. Save for the runes that Ida carved into each component as they continued their work, the shape of Koyu’s armor came together in the closest emulation of a normal human’s form as possible.
+
+The pauldrons didn’t emerge too high above the shoulders, nor did they have any spikes or adornments. The hands were normal, complete with segmented to allow the fingers to move in the full range of a normal limb, and the feet were similar in design.
+
+Not a single part of the armor screamed for attention. Even the gemstone that made up the Core of the Soul Guardian was to be hidden within an opening compartment within its chest.
+
+The only part that they themselves take a little more liberty with was the face. Arwin followed followed the design of a normal knight’s armor, including a slotted visor that could be lowered to cover Koyu’s features. But, below the visor, was nothing but a flat, curved plate of gray metal that Wallace dotted with tiny holes. Behind it, they attached a container full of silver metal that was liquid at room-temperature.
+
+The body seemed to come together simultaneously too fast and too slow. Arwin could feel his magical energy reserves depleting at an incredible rate. Even with their newly increased size, the sheer amount of work this project required was taxing.
+
+As soon as they finished polishing off the final external pieces, they still had to integrate everything. They had to slot the bones within the armor, run the tubing throughout, and ensure that every single connection was proper before Arwin fastened it in place with careful application of Soul Magma.
+
+It was a slow, taxing process. Even the extra power from Lillia’s food could only go so far. But there was no room to stop now. They were too deep, and all of them could feel the finish line getting closer and closer. With the song and the others supporting Arwin, the pile of components slowly shrank.
+
+More and more pieces found their home within the body. The hollow chest cavity quickly filled with tubing, with the only open place being the connectors for where the Core would go. They filled the appropriate the tube systems with liquid metal primed to carry magical energy and ensured no debris remained within the others.
+
+Wallace applied final polishing touches to the last pieces of the external armor, repairing the minor scuffs and damage that they’d taken during assembly, while Ida meticulously reviewed every last rune she’d carved along the parts to make sure none of them had been scratched.
+
+And then, as Arwin’s reserves dipped into the dangerous levels, he found nothing waiting for them but the Core. The floor of the Armory was clean. The body had been polished, checked, and checked again. Magic buzzed in the air like someone had drop kicked an angry hornet’s nest.
+
+The Mesh could feel what was coming. It recognized the power of the body that now stood before Arwin. Had there not been a gaping hole in its chest and borne a dotted panel for a face, it may well have been a random adventurer clad in very high quality gear.
+
+Arwin swallowed. The song was at its crescendo. His hopes and desires, those of everyone else in the room… everything mixed into a swirling tornado.
+
+He looked to Koyu.
+
+No words needed to be said. All of them were thinking the very same thing.
+
+There was only one person who could put the two pieces together and complete the body.
+
+Arwin held the Core out.
+
+Koyu stepped forward. He extended his hands, their translucent forms trembling as they supported the weight of the Core.
+
+A second passed.
+
+He just stood there, staring at the smooth sphere of metal and the brilliant gem at its center. Then his gaze raised to the hole in the armor’s chest. His ice blue eyes wavered, as if morning fog were drifting across them like the surface of a frosty lake.
+
+Then he put the Core into its place.
+
+It slotted in perfectly with a satisfying click.
+
+A dull hum filled the room.
+
+The doors of the Core’s housing slammed shut. Magic arced in the air. Thick rivers of golden lightning crackled, scoring along the body’s fingers and carving out from within the thin gaps between its segments. Arwin took a step back. The others did too.
+
+“Maybe we should step outside before—” Wallace stared.
+
+He didn’t get a chance to finish his sentence.
+
+A deafening roar filled the Infernal Armory, followed instants afterward by an immense wave of golden magical pressure.
+
+It slammed into Arwin, lifting him off his feet and flinging him into the wall with enough force to knock the wind from his lungs. He found himself sinking slightly into the stone — the Armory must have changed its material to keep anyone from snapping in two from the force of the impact.
+
+He dropped to the ground, landing on one knee as he raised a hand to block his star-spotted eyes. He squinted through his fingers and past the burning golden light that still filled the room. Koyu’s new body had ignited like a miniature sun.
+
+An enormous wall of power slammed into Arwin’s chest. His eyes went wide and he drew in a sharp breath. It felt like he’d been thrown into a freezing ocean, nearly choking under the immense amount of magic.
+
+And then it passed.
+
+Arwin staggered to his feet, hand pressed to his thundering heart.
+
+The song had come to an end. His mind was entirely his own once more.
+
+But he didn't need the song to know exactly what had happened. To know exactly what everyone else in the room now knew.
+
+They had succeed.
+
+Koyu’s new body was complete.

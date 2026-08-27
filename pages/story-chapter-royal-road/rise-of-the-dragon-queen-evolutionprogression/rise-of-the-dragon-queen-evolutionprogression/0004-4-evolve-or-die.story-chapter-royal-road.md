@@ -1,0 +1,205 @@
+---
+id: c7b054d2-c78e-5160-832d-7561af7456bf
+page-type-slug: story-chapter-royal-road
+title: "4 - Evolve Or Die"
+slug: 0004-4-evolve-or-die
+partOf: rise-of-the-dragon-queen-evolutionprogression
+position: 4
+ownLength: 1990
+unit: words
+publishedAt: 2025-08-30
+link: "https://www.royalroad.com/fiction/129546/rise-of-the-dragon-queen-evolutionprogression/chapter/2561074/4-evolve-or-die"
+royalRoadId: "2561074"
+---
+
+A three-headed bear was right on Stella's tail. Hindered by the weight of three eggs in her arms and from the vigor consumed by the use of her new skill, Stella felt less than optimistic about her chances of survival.
+
+At the very least she wasn't panicking. Was she scared? Certainly. But she wasn't letting fear rule all else. The sound of running water was just ahead. Crossing the river was the only way she could think of to create a gap between her and the bear.
+
+She was out of [Elemental Breath], but considered using her new skill, [Wrath Of The Ravenous].
+
+If she found and consumed even a part of a monster she defeated, maybe she would be able to fight back. Except the bear wasn't about to let her stop and look for monster parts.
+
+Maybe it will give up!
+
+Her hope was squashed upon a brief glance backwards. The three-headed bear looked like a dog with its head out of a car window. Open jawed and drooling, it pursued with joy and ferocity.
+
+Despite its size—which was well over that of any of the centipedes in terms of sheer mass—it was fast and agile.
+
+It’s catching up!
+
+She had nothing she could do as the center head bit down on her tail. It had taken a large bite, its teeth grazing the back of her dress. The swift action severed her tail completely, pain shooting up her spine as it happened.
+
+Stella was sure the rest of her would be next, but didn't wait to find out. The moment it had her tail, relieving her of some extra weight, she was in motion, surprised at how fine she felt.
+
+She didn't look back as she neared the river, the bear had been distracted, its pounding steps no longer shaking the ground.
+
+But for how much longer? She wondered.
+
+She reached the bank, but the river was wide and the center looked too deep to cross on foot, particularly for someone of her size.
+
+Her mind raced and as it did she glanced over her shoulder to ensure she still had time. The bear hadn't continued after breaking off her tail and though she could still hear its grunts and snarls, she was out of its line of sight.
+
+Maybe if I move down the river while wading through the shallows, it won't be able to track me.
+
+The water would wash away her scent from the ground, but the wind wasn't in her favor. Without giving the bear time to realize her tail wasn't enough for it, she enacted her plan.
+
+Cold water splashed across her legs and drenched her gown. Smooth, slippery rocks were her only perch beneath the shallows, the current threatening to toss her one way or the other.
+
+Stella moved with the current, letting it push her along. Even then, every movement was difficult.
+
+The sun was setting behind the trees. And the light seemed to fade like a ticking clock, retreating deeper behind the hills with each step Stella took. The second she was engulfed in darkness, the bear let out a deafening roar as if announcing its hunt.
+
+I have to put the eggs down and hope it follows my scent, I can't protect them like this.
+
+She hastily moved to the shore and set the eggs down near a thick piece of driftwood. Without a second glance, she got back into the water. She was becoming increasingly fatigued and wading through water that pulled at her clothes didn't improve things.
+
+Night vision was an ability that apparently came alongside her enhanced senses. Her distance vision took a severe blow though, making her feel especially vulnerable.
+
+She put some distance between herself and the eggs before attempting to catch her breath. She sat in the water while she did, unphased by the icy temperatures.
+
+Several minutes passed before the bear's lumbering footsteps echoed across the riverbank. The wind was getting stronger, pushing Stella's scent right into its nose. It couldn't be helped, Stella had done all she could to avoid it while managing her dwindling vigor. Now she would have to fight.
+
+Maybe I can fight it here. Hey, system, can you tell me how to activate my new skill?
+
+[Devouring any defeated enemy.]
+
+Do they have to be dead?
+
+[No, just defeated.]
+
+Unhelpful, but it does give me something to go on. So, what counts as an enemy?
+
+[Aggressive or otherwise unfriendly individuals. The user must consider them an opponent.]
+
+The bear kicked rocks as it moved up the bank. Its claws made loud scraping sounds with every step.
+
+Stella exited the river and jogged a considerable length into the forest. What she was planning was a calculated risk. Even if she managed to activate [Wrath Of The Ravenous], there was no telling how long before her vigor depleted entirely.
+
+But I have no other choice, I am completely out of options.
+
+When she reached an open spot, she knelt down and held out her arm. She focused hard on her hand, willing it to change like it had during the battle with the centipedes.
+
+Panic set in as the bear drew closer. Her heart pounded against her ribcage, the sound echoing in her ears until that was all she could hear.
+
+Why isn't it working? Did I not actually learn how to shapeshift?
+
+A twig snapping made the hair stand on the back of her neck.
+
+It doesn't matter. If I die there is no guarantee I'll get a second chance. Even if I don't have claws, I can still make myself bleed.
+
+A short time later the ground shook and erupted with hungry centipedes. Stella’s mouth looked like she'd just taken a bite of a particularly full pizza pocket. She held her right arm closed to her chest, staining her gown red.
+
+The two centipedes lunged and she shielded her face, only to open her eyes to find the centipedes' heads clanging against her armored forearm.
+
+Does it only happen when I'm afraid?
+
+[Answer: While your emotions may trigger your abilities or skills, they don’t control them. Distress can push your body to limits usually unattainable.]
+
+Like changing drastically instantaneously?
+
+The centipedes were quickly beheaded and she stuffed their parts into her mouth. She tasted nothing as she hastily devoured a few parts of the centipedes. The second she swallowed, her new skill triggered.
+
+Name: Stella Algos
+
+Stage: Queen Dragon Hatchling (60% to next evolution)
+
+Class: None
+
+Renown: 0
+
+Wealth: Meager (+0 to all stats)
+
+(C: 250 S: 0 G: 0)
+
+Stats: (0 points available)
+
+Power: 32 (27)
+
+Vigor: 25 (20)
+
+Grace: 25 (20)
+
+Intellect: 8 (8)
+
+Skills:
+
+Wrath Of The Ravenous (Grade SS) - Level 1
+
+Elemental Breath (Grade S) - Level 3
+
+Why does my intellect never improve? Stella grumbled internally.
+
+[You have bigger problems right now.]
+
+The bear had arrived without so much as a ‘hello’. It stood at the edge of the forest, sniffing the air and slobbering. Stella faced it, finally able to gaze at it for longer than a second.
+
+It was muscular and had a dark brown pelt. It had three equally terrifying heads that drooled constantly. It lumbered forward while dragging each paw as if movement took tremendous effort.
+
+Maybe this won't be that hard. Now that my [Elemental Breath] has been refreshed I should be able to—
+
+The instant the bear spotted her it gave a deafening roar. Moments later it was running toward her, as fast and agile as it had been before.
+
+A hot blast of fire interrupted its path. Stella eyed the gauge at the bottom of her vision; she needed to make this quick. The bear’s fur lit up as she blanketed it in flames. She thought that'd be the end of it, but the bear wasn't so easily overpowered.
+
+It ran at her, still determined to kill her despite literally being on fire. Stella quickly dodged backwards, avoiding its massive bite radius by a narrow margin.
+
+I don't know a way to get around those teeth! One bite and I'm a goner!
+
+She wasn't going to be able to, so she decided on ice breath instead, freezing the bear's three heads in a single blast of cold. Then she approached, planning to use her massive claws to end it once and for all. Except, the second she got close enough to do so, the ice cracked.
+
+What is wrong with this thing?! Does it have elemental resistances or something?!
+
+The bear was obviously not ordinary. It broke free from her ice, ran through her fire and then Stella was left running for her life all over again.
+
+While she was running, she realized her tail had grown back. Maybe it had been triggered by her transformation. Either way, she found it a little creepy.
+
+Running the bear around in circles wouldn't work for long, so the next plan was to head back towards the river. With her remaining breath, she could easily make herself an ice bridge.
+
+The ground shook as the bear gained on her, its pace picking up now that she was heading in a single direction. Stella could feel her vigor dwindling, the sound of the river ahead motivating her to keep going.
+
+The sight of the moonlit waters gave her hope. The construction of the bridge was swift, but just as quickly as it formed, it was torn apart by the rapids.
+
+What?
+
+Another attempt gave her the same result, squashing her plans. Her breath wasn't strong enough. She considered drowning the bear by blowing it into the deepest part of the river, but after taking another look at it she decided that wouldn't work.
+
+Again Stella was running, cornered by the river on one side and the bear on the other. To make matters worse, there was a waterfall ahead. Stella was in dire need of a new plan.
+
+Come on, think!
+
+Her legs were burning with exhaustion and the gauge for her breath skill was low again. The edge of the cliff was coming up fast.
+
+I better not die!
+
+She was directly in front of a bear who was completely focused on her. If she moved, it might've seen its impending doom.
+
+At the last second she looked down and let a gust of wind surge from her teeth, propelling her into the air. It was abrupt, but the bear reacted like a cat attempting to catch a bird. Its claws snagged the back of her dress dragging her down towards its jaws.
+
+No!
+
+The cliff edge broke apart as the bear fell, its immense speed and size causing it to go over the edge. As it fell, it dragged Stella with it, three jaws reaching to break her apart.
+
+As the moon disappeared behind the cliff, Stella hastily reached out and hooked her claws over the cliff top.
+
+Below, the bear roared—the sound of its death was a sickening crunch. Stella’s legs wheeled in the air as she used her claws to pull herself back up the cliff face.
+
+Panting and covered in sweat, she didn't realize she was injured.
+
+[Evolution to Queen Dragon Fledging is available. Do you accept?]
+
+She was unsteady, and for some reason her back burned. Had the bear managed to claw her? She thought it had only torn her dress, but in reality it hadn't been just her dress, had it?
+
+[Answer: You are fatally injured. To replenish yourself, you should evolve.]
+
+Stella reached back and howled with pain as her fingers met her deformed flesh. Below her, blood pooled so thickly she could see her reflection.
+
+I'm kinda… dizzy.
+
+[Do you accept?]
+
+Briefly, Stella considered her egg siblings. She also considered how vulnerable she would be to evolve out in the open. But those were all pointless considerations, as she suddenly lost the ability to think. Her mind was too skewed to wonder about anything else.
+
+I accept.
+
+[Commencing.]

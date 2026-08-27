@@ -1,0 +1,192 @@
+---
+id: 5a578c31-d185-573a-892d-fb1cfd544169
+page-type-slug: story-chapter-royal-road
+title: "Chapter 266: In Wait"
+partOf: rise-of-the-living-forge
+position: 8
+ownLength: 2068
+unit: words
+ownProgress: 2068
+publishedAt: 2024-08-29
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge-stubbing-to-ch555-in/chapter/1779557/chapter-266-in-wait"
+royalRoadId: "1779557"
+markedReadAt: "2026-06-29T19:58:42.899Z"
+---
+
+When night fell, the Menagerie stood in wait.
+
+Lillia had briefed everyone on the meeting she and Arwin had with Raen as they arrived back from their duties. The day had been hectic with preparation but now they were all prepared, and in more ways than one.
+
+Arwin had repaired and polished up everyone’s armor in addition to making himself three bracelets for the upcoming fight. They hadn’t been difficult, but they’d taken a little more time than they once had due to his new smithing technique. He had, however, chosen to avoid making any of them Cursed. He hadn’t tried eating a Cursed item yet, and this probably wasn’t the time to test out another new thing — he already had a new shield for that. The bracelets he made each served their own purpose.
+
+One was for power, one was for speed, and one was for defense.
+
+[Rough Band]: Rare Quality
+
+[Roughhousing]: This item is imbued with the anticipation of old metal that seeks to perform one last time. Every attack made while it is worn will do increased damage at the cost of considerable magical energy.
+
+[Fluttering Band]: Rare Quality
+
+[Light as a Feather]: The spirit of a dancing dove feather is imbued within this item. Its bearer’s movements are increased while it is worn at the cost of a continuous draw of magical energy.
+
+Chitinous Band: Rare Quality
+
+[Chitinskin]: Activating this item will turn its wearer’s body to chitin and greatly reduce their range of movement at the continuous cost of magical energy.
+
+Arwin kept all three of the bracelets hanging from his plain belt. He had no desire to wear any of them early — their benefits were largely detrimental unless he ate them because of how much energy they consumed. Eating them would give him their benefits and use the magic in the item to power the effect instead of drawing on his own reserves.
+
+He also had the Band Three, the mithril bracelet he’d made during Wallace’s test, in his other pocket. It sat there like a ten pound weight even though it couldn’t have weighed much more than an ounce.
+
+Arwin had yet to give it to Lillia. Something had been stopping him. At first, he’d thought it was his reluctance to expose her to Cursed items — but that obviously wasn’t the case. She had the new blade he’d gifted her hanging from her side like a sword rather than a kitchen knife.
+
+He’d yet to figure out what gave him pause, so it remained in his pocket. There was no need to rush it. Arwin was confident he’d determine what was giving him pause in time. Rushing something like this was indubitably a bad idea. It was better to be cautious when it came to Cursed items.
+
+“I wish I’d had a chance to look more into Raen,” Rodrick said, running a hand through his hair and blowing out a small huff of air. “I don’t know much about the Dawnseekers yet. He’s definitely who he claims to be, but they’re a Merchant Guild. Those people never deal with just one avenue. We have to be prepared.”
+
+“You’re paranoid, hon,” Anna said, nudging Rodrick’s foot with her own. “But your paranoia usually ends up being right. We’ve accounted for that, though. Don’t stress yourself into an early grave.”
+
+Anna had several coin pouches hanging from her waist that Arwin hadn’t seen before. They were each tied shut with two black drawstrings, which felt like a lot of security for money — especially when the pouches were bulging with what seemed far closer to powder than money. She didn’t mention anything about them, and nobody asked.
+
+Anna wasn’t the only one with extras. Lillia had a sealed wooden flask dangling from her left hip. It sloshed with some form of liquid, likely something that she’d brewed.
+
+Olive had a new dagger hanging from her hip and the bracer that she’d gotten from Jessen’s dungeon. Arwin had almost forgotten she had it. He glanced at the armor to refresh himself on its abilities.
+
+Sacrificial Bracer: Rare Quality
+
+[Bloodwell]: Creatures killed while this item is worn will have their energy drained into the gem in its center until it is full. This item cannot contain the energy of any creature higher than Journeyman tier.
+
+[Sacrifice]: Activating this item releases the power stored in the Bloodwell, causing it to defend the wielder from physical strikes until the power is used up. Activating [Sacrifice] will render [Bloodwell] inert until all the power within the gemstone has been spent.
+
+“Don’t forget to hide that thing,” Arwin said as he blinked the words away and nodded to Olive’s arm.
+
+She glanced down, then pulled her sleeve over her arm with her teeth to cover the metal. “Thanks. Good catch.”
+
+“Revealing your abilities to your opponents is only a wise decision after you have already killed them,” Madiv advised. The vampire sat by the counter, his chin in his palm. He, along with Esmerelda, were staying back to make sure nobody tried to do anything to the Infernal Armory or the Devil’s Den while the rest of them were gone.
+
+I hope they’ll be enough. Madiv is strong, but I haven’t seen him in a real full on fight against someone his strength. I almost wonder if we should leave extra backup for him. Esmerelda might not be enough. And, speaking of, where is —
+
+The door flew open with a bang.
+
+Everyone spun toward it as Esmerelda waddled into the building, accompanied by loud, clinking glass. She had a huge bag strapped to her back. Multicolored vials poked out of its top and shimmered like a rainbow. From the bag ran a thick leather tube the width of Arwin’s arm. It connected to a cylindrical apparatus made of black metal.
+
+The front of the object was shaped like the mouth of a tuba, just wide enough for Arwin to stick his fist into. It had two handles jutting from its bottom in a line, one of which Esmerelda held with one hand.
+
+His eyes widened.
+
+Is that —
+
+“I’m ready,” Esmerelda said, her lips pulling apart in a toothy grin. “Let’s kill some children.”
+
+“You’re staying here, to protect the street,” Madiv said.
+
+“We are not killing children,” Anna said.
+
+Esmerelda frowned. “You aren’t? I am?”
+
+“What is that?” Reya asked, pointing at the strange contraption Esmerelda held.
+
+Esmerelda grinned in response and held the object up, causing the tube to sway by her side. “An invention, dear. I call it a Gas-powered Undulating Neutralizer. It launches potions from my bag at anyone I find distasteful.”
+
+“How?” Reya asked.
+
+“Would you like a demonstration? I would be willing to sell you one for—”
+
+“Absolutely not,” Olive snapped. She glared at Reya. “You know what your dagger will do if it notices you pining after another weapon. That damn thing is like a jealous ex.”
+
+Reya cleared her throat. “Good point. Thanks for the save. I’ll pass, Esmerelda.”
+
+The old woman heaved a defeated sigh. “Of course you will.”
+
+Arwin eyed her warily. Suddenly, his fears for the street’s safety had evaporated. He was pretty sure it would be in good hands.
+
+Esmerelda noted his attention. Her eyes lit up and she reached into her pocket, pulling out a vial full of a bright red liquid and corked with a black stone that had been melted straight into the glass. She walked over to Arwin and held it out to him.
+
+“Here.”
+
+“What’s this for?” Arwin asked.
+
+“The feathers weren’t enough, were they?”
+
+“Enough for what?” Lillia asked.
+
+A bribe.
+
+“A show of my competency,” Esmerelda replied with a wry smile. “I’m applying to join the Menagerie.”
+
+“What do feathers have to with competency?” Reya asked.
+
+“How many feathers do you have?” Esmerelda asked.
+
+“Well… none, I suppose.”
+
+“And I have many. Thus, I am better than you are.”
+
+“That’s hard to argue with,” Reya muttered, glancing at Olive. She fought to keep a grin from forming on her lips. “Should I get some feathers?”
+
+“Only if they’re still attached to the birds. I’m hungry.”
+
+“Noted,” Reya said.
+
+Arwin coughed into a fist. “Thank you, Esmerelda. Is this a healing potion?”
+
+“A healing potion?” Esmerelda stared at him, aghast. “Who do you think I am? And the liquid in the vial is bright red. When has anything that vibrantly colored ever something you’d want to put in your body?”
+
+“It looked healthy.”
+
+“It’s not,” Esmerelda said flatly. “Just throw that at someone you don’t like.”
+
+“What does it do?” Lillia asked.
+
+“Not sure,” Esmerelda replied. “It’s the leftover of all the brewing I was doing today. It’ll probably rot someone’s dick off. Oh, if it does, bring it back for me. Lots of recipes need one of those, and there are never enough of them lying around on the streets.”
+
+Arwin swallowed. He very carefully slid the potion into his travel bag. There had never been anything he’d been less keen to be carrying, but it would have been rude to refuse the gift — and one never knew where a mystery potion could come in handy.
+
+Before anyone could say anything else, Rodrick tilted his head to the side. The former paladin nodded to the door, which still hung slightly askew from Esmerelda’s entrance.
+
+“He’s here.”
+
+They all turned toward it. Several seconds later, a polite knock echoed out through the tavern.
+
+“Come in,” Lillia called.
+
+The door swung open. A young man stepped inside, sandy blonde hair swept over plain features. Two plain swords hung at his sides and he had the lean build of a warrior. The man stepped inside, his gaze passing over all of them.
+
+“Raen sent me,” the man said. “My name is Yonas.”
+
+“Pleasure,” Arwin said. “You have the key?”
+
+Yonas gave him a sharp nod. “I do. I also have some extra men. Mercenaries. They’re all trained fighters, and—”
+
+“Are not needed,” Arwin finished firmly. He and Lillia had already discussed this with the rest of the Menagerie. There had been a pretty good chance that Raen would try to fit more people on his payroll into the mission. He hadn’t looked too optimistic about their chances given Arwin and Lillia’s classes, both of which Raen knew to be crafting-related.
+
+Yonas grimaced. “Are you certain? You may have armor, but this is not an easy dungeon. We haven’t cleared it yet. Neither have the Ardent Guild. I’m there to guide and back you up, but I won’t die for your mistakes. Replacing your weaker members with mercenaries is the wise decision.”
+
+And it’s also the decision that leaves us with unknown people at our backs. I don’t distrust Raen — but I don’t trust him either.
+
+“Our arrangement will not change,” Arwin said, his voice firm. “All six of us are coming.”
+
+Yonas shrugged one shoulder. “Very well. We need to move quickly. There is much ground to cover until we can get to a portal gateway. My guild has one, but we’ll need to get out of the city and avoid notice to reach it. Do you all have cloaking skills?”
+
+“No,” Olive said. “Nobody told us we needed that.”
+
+Yonas let out a sigh. “That’s fine. The mercenaries will help provide cover as a caravan. It’ll cost, though. They’re top of the line, and they aren’t cheap. Two hundred gold per head should be fine. We can leave them at the gates once we’re outside.”
+
+Arwin exchanged a glance with Lillia.
+
+Trust a merchant to try and fleece you, even when you’re working together. But if it’s a portal gate they need…
+
+“I’ve got a better idea,” Arwin said. “No mercenaries needed.”
+
+“What, do you have a portal gate hidden away somewhere in this street?” Yonas’ voice was rich with disbelief. “Because, unless you do—”
+
+“I do.”
+
+Yonas blinked. “What?”
+
+“Go get rid of the cling-ons. Then come back and let us know when you’re actually ready to proceed with things as we agreed upon.”
+
+“Are you serious?” Yonas asked. “You have a portal gate? Didn’t your guild only just get ranked? How do you have a portal?”
+
+Well, I’m pretty sure it’s a portal gate. I suppose we’re about to find out.
+
+“The Menagerie are far more than we appear,” Arwin said with a cold smile. “I’d keep note of that if I were you.”

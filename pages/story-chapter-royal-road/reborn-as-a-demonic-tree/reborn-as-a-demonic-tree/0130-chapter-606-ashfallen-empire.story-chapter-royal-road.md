@@ -1,0 +1,189 @@
+---
+id: 01299f94-d667-5e8f-ac97-2fc21acc2f37
+page-type-slug: story-chapter-royal-road
+title: "Chapter 606: Ashfallen Empire"
+slug: 0130-chapter-606-ashfallen-empire
+partOf: reborn-as-a-demonic-tree
+position: 130
+ownLength: 2561
+unit: words
+publishedAt: 2026-08-19
+link: "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3835852/chapter-606-ashfallen-empire"
+royalRoadId: "3835852"
+---
+
+Stella had never felt this exhausted, not even after the Crowned One had spent days humiliating her in his soul space. Socializing. It was her archnemesis—rivaled only by abrupt sect meetings and the people who wanted to harm Ash.
+
+Her once-quiet home was alive with activity. Apparently, her return marked the end of the war, and everyone had decided to celebrate that fact under her roof. Douglas's home-brewed spirit wine flowed freely, her living room table was buried under a small mountain of exotic snacks, and Elaine's twins ran circles around people's legs, waving wooden swords and shrieking with laughter as the adults chatted about their war stories.
+
+Stella sank deeper into the corner of her own couch, nursing a cup of spirit wine she had no intention of finishing, and let the noise wash around her.
+
+"I can't believe how colossal your true form is now," Magnus said nearby, clinking his glass with Kaida, who was in his humanoid form. A beautifully dressed Nymeria hung from his arm and smiled as her partner was praised. "Without you on the battlefield, I think we would've lost shortly after the Patriarch brought the ballroom down."
+
+Kaida smirked, exposing his shark-like teeth. "Naturally, my presence was required for our victory," he replied with all the smugness expected of a Celestial Ink Dragon. "Though I saw you putting up a valiant fight until the end, Magnus."
+
+Magnus shook his head. "If not for Diana coming in to save me at the last second, I'd have fallen within moments."
+
+"I'd have saved you," Larry's thick voice rumbled through the room, and the trio glanced toward the open window. Larry's form, even when condensed, was far too large to fit inside the packed room, so he had to stay outside with Sol.
+
+"We were all able to fight until our last breath because of your domain," Magnus agreed. "Your name as the sect guardian is well deserved."
+
+Larry huffed with what sounded like happiness at the compliment, though Stella wasn't too sure. Her hand idly stroked Maple, who was sleeping in her lap, as she glanced around, looking for something to dull her boredom.
+
+Douglas was in the corner, proudly narrating his fierce battle over Desolark City to a captivated Jasmine, who was accompanied by her parents and Amber Redclaw.
+
+A burst of childish laughter drew Stella's attention to the kitchen doorway, where Elaine was crouched and prying something small and dark out of Hazel's fist. Talon stood beside his sister, observing the predicament with the same studious interest he reserved for everything.
+
+"It's a shame Elysia couldn't make it," Magnus lamented, taking a sip from his wine. "I heard she put up a valiant fight in the caverns below the ballroom and wanted to learn of her exploits."
+
+There was a round of nods, and the conversation continued with Nymeria asking some questions. Stella's attention drifted to the one other person in the room who didn't seem to be interested in the discussions.
+
+Diana.
+
+She was sitting alone on the other couch, her gaze distant.
+
+Putting the sleepy Maple on her head, she waited until his claws gently closed around her hair to stand up and make her way through the people to sit beside her friend.
+
+"Hey," Stella said, settling down beside her. "You here?"
+
+Diana blinked back into focus. "Oh, Stella," she said, smiling. "How's the party?"
+
+"It's um—"
+
+"Hazel! Get back here!" Elaine called out, and Stella saw the little girl rush through the room and out the door, wooden sword raised for battle. Her target? One of Larry's limbs. She fearlessly struck the ashen spider's leg, and Larry tolerated it with the patience of a god watching a worm.
+
+Elaine stepped through the void after Hazel and had the feisty toddler under her arm within a single breath. Talon didn't bother to follow his sister or mother and instead chose to come and sit beside Stella.
+
+The two locked eyes, and neither said anything for a long moment.
+
+Stella turned back to Diana. "The party has been interesting, for lack of a better word... what are you up to?"
+
+"Not much," Diana said, letting out a small sigh. "Just taking over operations of the Eternal Pursuit Pavilion and the Silent Thorn group in Umbraholme. Then tasking them to track down the Monarchs that fled to the wilderness, including a few Empyrea households that fled with airships to shelter in neighboring demonic sects."
+
+"That... sounds like a lot?" Stella said, surprised that Diana was doing all of this while sitting on a couch at a party in her home.
+
+"Well, forcefully taking over an Empire and fracturing its power structure requires quite a bit of cleanup, as I'm sure you can imagine. There are still billions of mortals alive under the World Tree's canopy in need of governance," Diana said, and casually retrieved a glass of spirit wine from a tray atop a Mudcloak's head that wandered by. She took a long sip before seeming to relax a little. But only a little. "We are spread too thin, Stella."
+
+"I'm not getting involved in politics," Stella said firmly.
+
+"And you don't have to," Diana said, and gestured at the room. "Everyone gathered here is a Grand Elder, a figurehead of the now most powerful sect. Expecting anyone here to take over and govern an Empire spanning many billions of mortals and a dozen cities across the realm is foolish. The job, moving forward, for most people here is to cultivate and be powerhouses that sit at the pinnacle. Governance and enforcement of rules should be handled by those under us with our oversight."
+
+The room had gone rather quiet, with everyone listening to Diana's speech.
+
+"However, that is where the problem lies," she said, crossing her legs. "Until now, the Ashfallen Sect has prospered on the backs of us select few. This worked until now, but with the Celestial Empire's assimilation into our sect, things have gotten out of hand. The Ashfallen Sect is no longer a mere sect with a few cities. We are now the largest empire this layer of creation has likely ever seen." Her gaze swept the room. "You should all be proud of what we have accomplished."
+
+Magnus raised his glass. "A toast. To the Ashfallen Empire."
+
+Everyone raised their glasses, including Stella, and cheered, "To the Ashfallen Empire!"
+
+Once the cheers had settled down, Stella had a question.
+
+"What should we do then to solve this problem of management?"
+
+"Well," Diana swirled her glass, "we have already proven ourselves as the strongest fighting force on this layer of creation. While there are still many Monarchs at large, including the Chairman's egos, I doubt they can put up much of a fight against us. Therefore, the group under us that will enforce our rules and decree new laws doesn't need to consist of Monarchs, as we can handle enemies of that strength. They just need to be a few Nascent Soul Realms, and the rest Star Cores."
+
+"So like the Empyrea Guard?" Stella asked.
+
+"Exactly, we need to make our own Empyrea Guard," Diana nodded. "For now, the Eternal Pursuit Pavilion and Silent Thorns can restore order, but that's a temporary solution. We need to make our own force."
+
+"But the Empyrea Guard numbered in the thousands," Magnus pointed out. "Where will we get such a force?"
+
+Everyone's gaze landed back on Diana. Stella had always thought of her as competent, but now even more so. It felt like she alone held the answers and a clear vision of the future. With Ashlock asleep, Diana seemed to be the one to rely on.
+
+"There are still many corpses left over from the battle that Ashlock can turn into Ents to make up the bulk of our force, but we still need competent and loyal cultivators to command them," Diana answered easily with such a perfect solution. "We have those cultivators already here in our cities. They just haven't been given their opportunity to shine as the Ashfallen Sect's focus was on raising powerhouses until now."
+
+Elaine perked up. "My students are finally going to get their turn in the Eternal Realm?"
+
+Diana nodded. "We should send in as many as possible. The time dilation is reduced, but it doesn't matter. We only need Star Cores and a few Nascent Soul Realms to maintain order," she gestured to Amber, who was standing beside Magnus. "I expect you to be one of those who reach the Nascent Soul Realm and lead the new force."
+
+Amber blanked. "Um, yes," she frantically bowed. "I will not disappoint you, Grand Elder."
+
+"Good. We should also send Ryker in and the other Redclaw Elders, too—" She froze. "Wait a moment." Her eyes turned hazy, and everyone exchanged a glance as Diana seemed somewhere else.
+
+A smile bloomed across her lips as she blinked back into focus a moment later and turned to Stella.
+
+"You've been busy," she said cryptically with a hint of amusement.
+
+Stella tilted her head. "What do you mean?"
+
+"According to Mistress Veilshade, you have been rallying the surviving Monarchs on the canopy to launch an assault on Ashlock and Red Vine Peak," Diana chuckled. "The Mirrored One seems to be rather more foolish than I expected."
+
+"That bastard." Stella's nails dug into the couch as she ground her teeth. "He would dare use my face to harm Ash. I'll skin him alive."
+
+Diana helpfully explained the situation to everyone present while Stella seethed.
+
+"But why go after Ashlock?" Magnus asked. "Stella is already so close to perfect in so many ways as a cultivator that I'd struggle to imagine why this Mirrored One would hatch such a scheme and risk it all."
+
+Stella had an answer for that.
+
+"As Diana said, the Chairman was a fallen god. To survive, he split his soul into seven distinct egos. They function like individual people, and when working together, they could almost resemble a person."
+
+"But they have now split up," Diana added.
+
+Stella nodded. "The Crowned One was the sin of Pride, and while that meant he could command those he deemed lesser with his words, it led to an overinflated belief in his abilities and caused him to overlook the Mirrored One's betrayal." Stella paused and scowled. "The Mirrored One is the sin of Envy. It lets him take anything, even the face and cultivation of another, without having to work for it, but that likely comes with the endless desire for more. After all, there will always be someone stronger than you."
+
+Magnus frowned. "These conceptual daos sound troublesome."
+
+"Their powers are difficult to counter due to them not relying on Qi like we are used to and being so unique, but I'd say they are quite easy to deal with," Diana took a sip. "You see, they are called mortal sins for a reason, as they lead to people's downfall. Just like how scheming against the Crowned One is easy due to his arrogance, the Mirrored One can be easily baited if you dangle something he wants out in the open."
+
+"Wait, what are you suggesting?" Stella asked. The very idea of someone else wearing her face and harming Ash made her stomach churn. She thought she would never harbor the same hatred she had for the Crowned One again, but the Mirrored One had somehow become even more despicable.
+
+"Let him carry out his hopeless plan," she shrugged. "Less work for us either way. If he gathers up the remaining Monarchs and leads them to our doorstep, we can wipe them all out in one go. Though we will need to prepare carefully, as Ash is asleep and won't be around to assist us."
+
+"A fight between Monarchs over any of our cities will lead to massive devastation and loss of life," Jasmine's father pointed out.
+
+"There's also the other egos to worry about," Elaine added while bouncing a grumbling Hazel on her hip. "If the Crowned One was so strong that it took Maple to kill him while inhabiting Ao Lingxuan's body, and this Mirrored One can steal a person's entire skillset and face with a lick of blood, I can only imagine what the others are capable of."
+
+"Stella, which of them do you think we should be most worried about?" Diana asked.
+
+That was a good question.
+
+"I don't know much about the others. The Still One seems the least dangerous, as he prefers inaction and was originally the one who let me flee," Stella furrowed her brows as she tried to recall those silhouettes. "I think... the Burning One is the most dangerous. As the sin of wrath, his only goal will be to sow as much destruction as possible. There's not much we can do to manipulate someone who just wants to watch the realm burn."
+
+There was a round of agreement.
+
+"What about the Gilded One?" Diana asked.
+
+"The sin of Greed?" Stella rubbed her chin. "He was the first to speak up about the Mirrored One's betrayal. But unlike the Burning One, who desired unity for power, the Gilded One just seemed neutral about it."
+
+"Unity for power," Diana muttered. "So they are weakened when apart?"
+
+Stella nodded. "I believe so."
+
+"Regarding the Gilded One, is there a chance we could bribe them to our side?" Elaine asked. "We do have the deepest pockets in all of the ninth layer. If anyone could buy their loyalty, it would be us."
+
+"Certainly an idea," Diana agreed. "We basically control everything now. That has to be worth something, even to someone consumed by greed. The problem is, unlike the Mirrored One who has made themselves foolishly obvious, the others remain at large."
+
+"Don't worry," Stella said, narrowing her eyes. "Their overwhelming desires will expose them soon enough."
+
+Diana snorted. "That's true," she said, rising to her feet and setting her empty glass on a Mudcloak's tray. "I must apologize, but my clones are spread too thin, so my main body is needed to attend a meeting with the Empyrea nobles."
+
+"I guess the time for partying is over," Magnus said, following suit by setting down his glass.
+
+"No, you can all keep relaxing. I can handle it from here—"
+
+Everyone began setting down their glasses one by one.
+
+"How can we let you handle our mess alone?" Magnus said with a grin. "We may not be as adept as you, but there's still work to be done."
+
+"It really is endless," Douglas grumbled. "Even with the Boss asleep, the ghost of productivity haunts me wherever I go..."
+
+Elaine stopped Douglas by grabbing his arm.
+
+"Yes, dear?" he asked, looking confused.
+
+"Take Talon and Hazel with you to work," she said.
+
+"But—"
+
+"The Mudcloaks can look after them," she insisted, passing Hazel to him and smiling sweetly. "I have to get my students ready for the Eternal Realm."
+
+"Oh... okay," Douglas said, as Hazel climbed onto his shoulder.
+
+Elaine vanished into the void and was gone.
+
+Douglas stood there for a long moment, and Stella really thought his soul was going to leave his body for a moment. She felt bad, but not bad enough to offer any help.
+
+Standing up, she walked past everyone leaving and headed for her bedroom.
+
+She had an appointment with her bed and the land of dreams.

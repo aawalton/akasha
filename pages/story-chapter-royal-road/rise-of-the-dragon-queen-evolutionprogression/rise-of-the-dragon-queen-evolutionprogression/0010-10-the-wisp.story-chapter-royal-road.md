@@ -1,0 +1,187 @@
+---
+id: 7f4b982b-bd40-5686-9fee-6dc0e7106780
+page-type-slug: story-chapter-royal-road
+title: "10 - The Wisp"
+slug: 0010-10-the-wisp
+partOf: rise-of-the-dragon-queen-evolutionprogression
+position: 10
+ownLength: 1861
+unit: words
+publishedAt: 2025-09-20
+link: "https://www.royalroad.com/fiction/129546/rise-of-the-dragon-queen-evolutionprogression/chapter/2615730/10-the-wisp"
+royalRoadId: "2615730"
+---
+
+In her dreams, Stella saw the life she'd left behind. The scent of her mother making breakfast for her was a welcome memory. An unwelcome memory was of the microwave lunches she made herself after work. Fear and anxiety had ruled her life. The idea of another bill, another cheap meal, or another threat from her boss made her queasy.
+
+But all of that had left with her old life, leaving her as someone completely different, inside and out. She was strong and confident. And she could have nice clothes and live without her usual worries.
+
+But with all those grand things came the danger of a world filled with monsters. Stranger yet was that she had been born as one of them.
+
+Stella jerked awake, finding the night wasn't as dark as she remembered. The fire was out, of course, the hatchlings had decided to sleep on it again. What guided her eyes instead was a glowing blue orb only a few feet from her face.
+
+“What is that?” She whispered.
+
+[Answer: A wisp. A spirit that brings omens of death.]
+
+So, this thing is after my life?
+
+Stella’s curious gaze turned to one of hate
+
+Not happening.
+
+She drew back her fist and sent it flying into the center of the wisp, only for her arm to phase through. The strength she put into the punch sent her face-first into the soil. Above her head, the wisp was unchanged.
+
+As she peeled herself off the ground, the light moved out of reach. It guided her away from camp, moving farther and farther into the darkness. Stella wasn't keen on the idea of dying and eventually stopped following it, turning back instead.
+
+The wisp followed her, getting nearer until she turned to once swat it away.
+
+Get away from me! Creepy thing!
+
+The wisp disappeared just as she willed it to do so. Stella looked around to make sure it was well and truly gone, before marching back toward her camp.
+
+That was weird…
+
+A deep growl stopped her, alerting her to something more pressing than a wisp. Behind her, two red eyes showed through the shadows, glaring in her direction.
+
+Now what could this be? She wondered.
+
+As if in answer, the creature lit up the night, taking the shape of something clear, blue and ghostly. It reminded Stella of something, though she couldn't remember what.
+
+What had formed was a leopard, its spots as blue and ghostly as the rest of it. It barred its fangs and lunged, wasting no time in attacking.
+
+Stella dodged unconsciously, her body moving on its own similarly to how it had in the fight against the thunder boar. This time, however, she wasn't so quick that she was missed entirely. The claws of the ghostly leopard caught her thigh as it leapt past, leaving four deep cuts.
+
+That thing really hurts! Even if it looks like a ghost, it can still affect the real world.
+
+Stella ducked as a paw swiped towards her head.
+
+It reminds me of—
+
+Another paw struck low, knocking her down. She was swiftly pinned by the leopard, claws digging into her shoulders.
+
+It's a familiar!
+
+The horn she'd gotten from the body of the three-headed bear had summoned an exact ghostly copy of it when used. The leopard was similar, which initially seemed like useless information. Except that meant that it had a user.
+
+Stella released a blaze of [Elemental Breath] into the leopard's face. It released her, shaking its head wildly.
+
+While Stella got to her feet, the leopard rubbed its face against the ground to smother the flames spreading across its fur. When it lifted its head, Stella released another string of fire.
+
+I wasn't sure it would even get hurt by my fire, but I'm glad that's not the case.
+
+The leopard snarled, fleeing from her relentless flame breath. Stella smirked, halting in her attempt to burn it to death. Instead, she conserved her breath gauge and gave chase, hoping she could finish it off with her claws.
+
+Stella knew how ridiculous she must appear. As she streaked through the night in her lilac nightgown, she wondered if whoever was controlling the leopard was watching as she beat it to a pulp.
+
+The leopard showed no signs of stopping, until it reached Stella's camp. She hasn't realized they were heading in that direction, the darkness made everything look the same.
+
+The leopard, presented with three hatchling snacks, stopped to partake. It made no sense, why was a creature stopping to hunt when it itself was being chased. Unless…
+
+Maybe it has a similar ability to my [Wrath Of The Ravenous] skill. Either way, I won't let it eat me or my little dragon family!
+
+The three hatchlings that’d been sleeping together in the firepit, took to the air with loud wing flaps. They glided away, growling and releasing puffs of smoke in alarm.
+
+The leopard clawed at the air, but before it could catch one of the hatchlings, Stella dug her claws into its side.
+
+It didn't bleed after it leapt away. The holes in its side were simply an absence of part of its ghostly form now, as if glass had been broken, leaving empty spaces.
+
+From just that contact I can tell it's stronger than me in terms of muscle. It's really heavy. If I run out of breath—no, even then I can beat it. I just have to be strong, that's what I'm good at.
+
+Stella's breath served to distract the leopard as she looked for what she titled ‘Emergency Meat’. There were only two conditions to activate her [Wrath Of The Ravenous] skill. She had to defeat an enemy and then she had to eat it.
+
+All of the protein she consumed was a violent creature, one she saw as an enemy. Meaning if she just grabbed some she'd killed and stored for later…
+
+Just as the leopard put out the flames on its face, Stella swallowed a tasty piece of centipede jerky. Alongside the activation of her skill [Wrath Of The Ravenous], her passive [Strength In Numbers] was also active on account of the hatchlings presence and her intent to protect them.
+
+Name: Stella Algos
+
+Stage: Queen Dragon Fledging (10% to next evolution)
+
+Class: None
+
+Renown: 1
+
+Wealth: Peasant (+1 to all stats)
+
+(C: 75 S: 4 G: 0)
+
+Stats: (0 points available)
+
+Power: 35 (27)
+
+Vigor: 32 (23)
+
+Grace: 29 (20)
+
+Intellect: 10 (10)
+
+Skills:
+
+Wrath Of The Ravenous (Grade SS) - Level 1
+
+Elemental Breath (Grade S) - Level 5
+
+Strength In Numbers (Passive)
+
+Whoa! My stats are so high!
+
+[Answer: Each stat (excluding intellect) has been increased by 8 points. Your wealth adds 1 point, Wrath Of The Ravenous adds 5 and Strength in numbers as 2.]
+
+Awesome!
+
+The leopard, as if sensing the change to her strength, hesitated before attacking. Stella quickly transformed her hands into claws, her teeth naturally changing as well. Her eyes changed from a diamond blue to a glinting blood red.
+
+“Is your master watching? I hope so. Because then they'll learn I'm not one to be messed with!”
+
+The leopard growled but didn't move to flee or attack.
+
+I sounded pretty awesome. Maybe it'll leave alongside whoever ordered it to attack.
+
+Stella could feel the improvements on her stats reflecting in real time. She felt like she had tireless energy, like she could run circles around the forest and still have more vigor left. Her body might've appeared that of a petite dragon girl, but beneath it she was a ball of powerful muscle, aching to fight.
+
+And I need to get back to sleep. I have lessons in the morning. Better finish this quickly.
+
+She charged the familiar and blasted it with dragon fire through pointed teeth. It dodged backward as she attempted to claw its face and repeatedly avoided her there after.
+
+[Elemental breath is now level 6]
+
+The fire annoys it but it's not retreating like before. And it's not breaking apart like when I scratched it. Familiars are stronger than they look.
+
+Stella grit her teeth as another one of her paws missed its mark. Before the leopard recovered from more fire to the face, she spread her wings and began to hover in the air.
+
+Her increased stats also extended to her wing strength, making flight and maneuverability much simpler. She landed behind the leopard, taking it off guard.
+
+Before she could dig her claws into the familiar and finish it off, it disperse into smoke, gone completely. Stella tried to track the movement of the smoke, wondering if she could use it to find the wielder of the leopard. But it quickly dissolved into the breeze. She stood still as her body reverted and as her skills grew dormant.
+
+[Wrath Of The Ravenous increased to level 2.]
+
+She watched the darkness for a time before turning to the fire pit and searching for the hatchlings.
+
+“It's safe now, you guys can come back.”
+
+But is it really safe? What if they just call the familiar back?
+
+The hatchlings squirmed from their different hiding places and scurried up to her. They'd grown a lot within a little over a week.
+
+“Now you're the size of mastiff or great dane puppies,” Stella mused.
+
+Sapphire hopped into Stella's lap and curled up. She was so cute it made Stella's heart feel closer to bursting.
+
+“Don't be afraid. I won't let anyone hurt you, I promise. Even if there is someone after us…”
+
+But are they after us? Or just me?
+
+There was a possibility she was being targeted for being what this world called a ‘beastling’. It was something Stella had yet to learn enough about to even define, but she knew it was something she could apply to herself. If it wasn't that, then the culprit might know that she was a dragon queen, a superior and extremely rare species. Did they want to sell her? Kill her? Eat her?
+
+There were any number of possibilities. But either way, Stella couldn't risk abandoning the hatchlings, not until they were intimidating enough to defend themselves. They were capable of surviving, but if something truly malicious was after them, they would be defenseless.
+
+Even Fire, the only hatchling that could blow fire, could only do so for a few seconds at most. Stella gave him a few scratches under the chin.
+
+The genders of each one weren't easily confirmable, but the two red hatchlings were broader and had square heads. Sapphire, the only blue hatchling, was longer with a tendency to fly much better than the others. Even animals in the wild had sexual dimorphism, so she just assumed that dragons did as well.
+
+After cuddling the hatchlings and getting them to sleep, she stayed up for another hour to keep watch. She wanted to stay up longer, but her body didn't agree with that sentiment and she ended up sleeping against her will.
+
+Later, I'll have to find the source of that familiar.
+
+The wisp had truly been an omen and it was clear whoever was in control of the leopard was attempting to end Stella's life.

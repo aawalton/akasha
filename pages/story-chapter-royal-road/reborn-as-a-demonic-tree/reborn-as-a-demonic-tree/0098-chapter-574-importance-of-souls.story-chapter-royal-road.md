@@ -1,0 +1,179 @@
+---
+id: 8157efe5-40f3-51ac-95b1-1fabe1f3ad5d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 574: Importance of Souls"
+slug: 0098-chapter-574-importance-of-souls
+partOf: reborn-as-a-demonic-tree
+position: 98
+ownLength: 2629
+unit: words
+publishedAt: 2026-05-29
+link: "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3466416/chapter-574-importance-of-souls"
+royalRoadId: "3466416"
+---
+
+Before anything else, Stella decided to return home. She was mentally exhausted. While she had anticipated Ash having an adverse reaction to how she had gone about her ascension, nothing could have prepared her for what transpired.
+
+Yet Ash's anger couldn't compare to the deeply unsettling feeling she had experienced after reading the Crowned One's name. That brief loss of control and that feeling of being branded by another had rattled her to her core.
+
+Traversing the Aether with ease, she arrived at her front door and was about to step inside when she heard a child screaming.
+
+"Hazel, of course it tastes bad. That is not food!" Elaine's exasperated voice followed.
+
+Stella's hand, resting on the doorknob, fell to her side with a sigh. Dare I find out why so many people are here at my home? she thought after expanding her spiritual sense and detecting multiple people in the garden. Debating whether or not she should flee before someone caught sight of her, she eventually resigned herself to her fate.
+
+Following the childish screams around the side of her house, she found Elaine crouched in the grass with both hands full of toddler, trying to pry something small and dark out of Hazel's fist while Talon watched his sister's predicament with what could only be described as academic interest.
+
+Janus was also here, lounging on a bench with his feet up and eyes closed, utterly at peace despite Hazel's cries. A short distance away, a boy she didn't immediately recognize was doing low spear forms with focused, unhurried movements, the same repetition over and over, correcting himself quietly each time.
+
+As expected, nobody noticed her presence. Her Phantom Veil Amulet masked her cultivation, and her new aetherial form allowed her to move in silence. She was basically a ghost to everyone here.
+
+"Master?!" Jasmine blurted out, her head snapping in her direction from a vegetable patch at the edge of the garden.
+
+Well, except one. Stella winced. Due to their Master-Disciple link, Jasmine could detect her presence no matter what.
+
+Thanks to Jasmine, everyone glanced her way. Even Janus lazily opened one eye and smiled upon seeing her.
+
+"Hello, everyone," Stella said. "I'm back from the Eternal Realm—oof," the wind was knocked out of her as Jasmine rushed over and tackled her in a tight hug. It was rather unexpected and took Stella by surprise.
+
+"Jasmine?"
+
+"I felt your fear and pain, Master," she said, her voice muffled in her cloak. "I thought I'd never see you again."
+
+Stella snorted and patted her Disciple on the back. "You think the world would be able to rid itself of me so easily?"
+
+"No," she said adamantly. "But I was still so scared for you, I couldn't sleep at night."
+
+Stella's hand paused, and she smiled awkwardly. First, Ash had been worried for her, and now her Disciple was too? She would never admit it aloud, but it did warm her heart to know people cared about her well-being, and it made her feel all the more guilty for what she had done to herself for power.
+
+"Glad to see you're back, little sister," Janus said from the bench without bothering to get up. "I was getting bored awaiting your return."
+
+Stella narrowed her eyes at her elder brother. "You look extremely relaxed for someone staying in my house without permission."
+
+"I am extremely relaxed. Your house is very comfortable." He finally sat up and stretched, looking her over with an assessing expression. "You seem... different. Did you reach the Monarch Realm?"
+
+Stella simply nodded, not willing to get into the specifics again. "Is that your disciple?" she asked, glancing at the red-haired boy with the spear.
+
+Janus honored the change of topic. "Yes, this is Rowan. Long story short, I bought him from slavery that was forced upon him due to his family's failed gambling ventures and decided to train him as my disciple," he pushed Rowan forward. "Go on, introduce yourself."
+
+"I—It's an honor to meet my Master's esteemed younger sister and the Matriarch of the Frozen Star Sect," the boy stammered, looking genuinely terrified.
+
+"What stories have you told him?" Stella said, casting an accusing gaze at her brother. "He's quivering before me."
+
+Janus seemed amused. "Are you accusing me of making you out to be a bloodthirsty demon with fabricated stories? I'm afraid your actions and legend precede you. I promise that anyone would act like this when meeting you for the first time after hearing the stories."
+
+"My legend?" Stella tilted her head. "What nonsense are you spouting?"
+
+Janus raised a brow. "You literally have the tyrant of the Frozen Star Sect as a soulbound slave standing behind you. Stories are one thing, but seeing living proof of them makes them seem far more real."
+
+Stella glanced over her shoulder at Ao Lingxuan. He stood where he always stood, two steps back, silent as a statue, his glacial eyes fixed on nothing in particular. She had gotten used to his shadowing by now and rarely thought about him, but he was still a Monarch Realm ice dragon who had ruled over one of the most powerful sects in the wilderness, and he looked the part. The implicit weight of his presence in her service said more about her than any story could.
+
+Okay, maybe he has a point, she admitted silently.
+
+"He was a fool," she said aloud, keeping her tone dismissive. "Anyone could have beaten him in a bet like I did." The last thing she needed was her brother's disciple quivering at the sight of her. It made her feel like a monster or something.
+
+Janus laughed. Not a snort, but a full-on laugh. "Even if that were true, Stella, who out there would be brazen enough to bet their soul with a Monarch dragon and actually enforce their victory? It was said that Ao Lingxuan never lost, but that's because he ate those who bested him."
+
+Stella scowled and dismissed her brother's attempts at annoying her. She was not in the mood for his antics right now. Glancing away from the bench and Rowan, she focused on Elaine, who was standing beside the house with a calmed Hazel on her hip. She looked significantly more tired than she had the last time Stella had seen her—the kind of tired that sleep didn't fully fix.
+
+"You've been busy," Stella guessed. It seemed like a nicer way than saying, "Wow, you look exhausted."
+
+Elaine smiled weakly. "I willingly took on a few extra projects in the absence of you and Grand Elder Diana. It turns out the sect's operations grind to a halt without you two around."
+
+Stella pointed a finger at herself. "Me? Diana, I could understand. She handles a lot. But what do I do?"
+
+"More than you know," Elaine said, her voice heavy with exhaustion. "Luckily, I've completed most of the tasks in your absence, besides the Fleshfruit tree project. I've hit a wall with that one."
+
+Stella had also failed to coerce a Fleshfruit tree into growing a human body.
+
+Elaine continued, "Say, Stella, now that you have returned, could you lend me a hand on that project? Of course, that's assuming you didn't already figure it out alongside reaching the Monarch Realm?"
+
+"I've made some discoveries, but I admit it's still a work in progress," Stella replied, which seemed to bring some life back to Elaine's eyes.
+
+"Really? Then perhaps we could combine our findings and work out the final piece of the puzzle," Elaine suggested.
+
+"Sure," Stella said simply. It would be nice to take her mind off things for a few hours, and it was obvious that Elaine was desperately in need of some assistance—the look of relief on her face said everything.
+
+Elaine set Hazel on the ground beside Talon, making the toddler look like she was about to cry again. "Jasmine, could you look after Hazel and Talon while I take Stella to the Heaven-Defying Orchard and compare notes?"
+
+Jasmine uncoupled herself from Stella and nodded.
+
+"Thank you so much," Elaine sighed with relief. "Right this way, Princess."
+
+"I'll be back later as I have something to discuss with you, Janus," Stella said before moving to follow Elaine away from her house. Once they were alone, she had to ask, "Say, Elaine, what is a Heaven-Defying Orchard?"
+
+"Oh, I forgot you haven't seen it yet," Elaine chuckled. "You're going to love this."
+
+***
+
+True to Elaine's statement, Stella was in awe as they walked through the towering trees of the Heaven-Defying Orchard. Every branch was dripping with fruit, many of which she didn't recognize. Wraith-like entities floated between the trees, harvesting the ripe fruit with startling efficiency.
+
+"You should eat this one," Elaine suggested, passing her a fruit. "It's called the Caretaker fruit; it allows you to see the workings behind the Orchard, and you can even guide the trees on what to grow and infuse their fruit with your Qi or Dao knowledge."
+
+Stella idly ate the offered fruit and felt its power buzz in her mind. Sure enough, her vision took on a unique view, and she could see how Qi pulsed through the entire orchard.
+
+"This place is insane," she admitted.
+
+"Ashlock grew it within an hour," Elaine said with resignation. Stella understood her—it was hard not to compare herself to Ash and feel insignificant sometimes. From the moment he summoned Maple to this, everything he did seemed impossible.
+
+"We are drawing near," Elaine said. "Can you hear it?"
+
+She could—the methodical beating of the Fleshfruit tree hearts pounding through the forest. It got louder as they approached and entered a clearing.
+
+"Whoa, they've grown a lot since I last saw them," Stella noted. Each one had a branch notably thicker than the others, with a head-sized beating heart hanging from the end. They were dark red in color and were beating so loudly that she could feel their beat now that they were close.
+
+"They sure have," Elaine said somewhat proudly.
+
+"So, how far have you gotten?" Stella asked. "Because none of these look like bodies yet."
+
+"Further than I expected, but clearly not far enough." Elaine pursed her lips. She turned to face the trees properly and began walking slowly along the row. "No offense to your brother, but I began by confirming all of the research that he gathered in the Frozen Star Sect. While most of his conclusions were good, his theories on how the trees actually got there were absolutely baseless and were more theory than grounded facts. To put it simply, your brother is a hopeless researcher," Elaine coughed into her hand upon noticing Stella's amused expression.
+
+"No, go on," Stella insisted.
+
+"No, no, I shouldn't. Janus's baseless confidence in his writing just really frustrated me—okay, that's enough. I did manage to work backwards and confirm that what you feed the Fleshfruit tree shapes their output. When I fed them ordinary meat, the hearts stayed as hearts. Animal composition, animal structure. But when I started feeding them cultivator corpses—specifically ones with pure spirit roots that the Ashfallen City prisons helpfully provided me—the hearts began changing." She gestured at the largest heart on the third tree. "Look at the internal structure of that one."
+
+Stella infused Qi into her eyes and used the Caretaker fruit to peer beneath the singled-out heat's dark red exterior. To her surprise, she could see the beginnings of something that was no longer just a heart. Rudimentary vascular branching. The faint signs of what might eventually become a second organ. The tissue also had a quality that normal flesh didn't, namely dormant spirit roots.
+
+"It's growing a body with spirit roots," Stella mused.
+
+"It's attempting to grow a body," Elaine corrected her. "It doesn't know what a body should look like. It's extrapolating from the differing corpses it's been given, which means the results are inconsistent. Different trees are producing different structures depending on what they were fed and in what order. I can guide them to some extent with the Caretaker fruit and by feeding the tree a Bastion fruit, but the guidance is limited to what I can model from my own Qi. This means all the hearts end up structured to accept only my own affinity." She paused beside the fourth tree and looked up at its branches. "Illusion spirit roots. Every single one. No matter how I try to adjust it, the imprint defaults to what I already am. I can grow an illusion Qi-compatible heart. I just can't seem to grow a complete body no matter what I feed or tell it."
+
+Stella could feel the stress radiating off Elaine.
+
+"You've done a great job," Stella said honestly, "and I think I know where you are going wrong."
+
+Elaine glanced at her with hope-filled eyes. "You do?"
+
+Stella nodded. "You're approaching it wrong. What is a body?"
+
+"A group of organs, tissues, nerves—" Elaine replied without hesitation but paused when Stella shook her head. "No? Is that not what a body is?"
+
+"A body is a vessel for the soul first and foremost. Yes, the organs, tissues, whatever are important. But think of Magnus. He has none of those, yet he has a body. No matter what body we grow, none of them would suit his current soul's expectations. Basically, what I'm trying to say is that the soul is the blueprint for the body; without it, the tree has no guidance on what to grow."
+
+Elaine looked at the beating heart and then back at Stella. The realization seemed to be dawning on her. "I'm an idiot," she cursed under her breath. "An absolute fool. Why didn't I think about that? The body derives from the soul, not the other way around. I've been trying to force the trees to grow empty shells with no soul to guide them."
+
+"Hey, don't be hard on yourself. I only realized that after my ascension, and I didn't get so far as infusing the heart with spirit roots," Stella said, trying to reassure the exhausted Elaine. "Your idea was good, okay? Making an empty body that could take on anybody's soul would be ideal, but it's just not going to work without a soul being involved in the creation process."
+
+Even Ashlock needed fresh corpses containing a not-yet-departed soul to create his Ents. The soul was the key to everything.
+
+Elaine looked at her with a tired expression. "This may sound silly, but I just knew you would have the answer somehow. You always do."
+
+"High praise," Stella chuckled. "But I'll have to disappoint you. While knowing that souls are important is great, I have no way to manipulate them. We have sadly hit another wall."
+
+Elaine got an idea and looked up. "Patriarch, are you there?"
+
+A presence washed over them.
+
+"What is it, Elaine?" A hundred overlapping voices echoed in their minds.
+
+"Would you be able to transfer Morrigan's soul to the last Fleshfruit tree in the row?" Elaine asked.
+
+"That is within my capabilities," Ashlock confirmed. "Should I do it now?"
+
+Elaine nodded and walked excitedly over to the tree she had requested her mother's soul be moved to. That's when Stella remembered how personal this project was for Elaine—just like how she wanted to crush the Celestial Empire to save the World Tree, Elaine wanted to grow a body for her mother, who had been killed to save Elaine from having her body possessed.
+
+Stella smiled as she left Elaine and Ash to complete the Fleshfruit tree project.
+
+She had something urgent to discuss with Janus.
+
+More specifically, the story of how exactly they escaped the Celestial Empire under the noses of so many Monarchs, and if he knew anything about the Crowned One.

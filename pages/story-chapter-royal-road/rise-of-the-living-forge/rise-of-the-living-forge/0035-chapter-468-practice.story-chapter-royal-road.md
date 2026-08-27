@@ -1,0 +1,103 @@
+---
+id: 7977a812-7267-5488-8565-69a3d23d3fdc
+page-type-slug: story-chapter-royal-road
+title: "Chapter 468: Practice"
+slug: 0035-chapter-468-practice
+partOf: rise-of-the-living-forge
+position: 35
+ownLength: 1616
+unit: words
+ownProgress: 1616
+publishedAt: 2025-08-06
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2497067/chapter-468-practice"
+royalRoadId: "2497067"
+markedReadAt: "2026-06-29T19:59:34.669Z"
+---
+
+Rodrick slipped through droves of nobles at a brisk, confident speed. He didn’t walk too fast. That was a great way to look like he was doing something he shouldn’t have been. But he didn’t walk slow either — that made him look lost or in need of assistance.
+
+He fancied his pace to be a perfect one. Rodrick had, after all, spent quite a bit of time perfecting it. It had to be second nature. If he had to worry about the way he was walking while he was on a job, then there was a good chance he’d miss something important — and he couldn’t have that.
+
+Information was the most powerful weapon in the world, and it was a two way street. Every interaction could generally be characterized by an exchange between information out and information in.
+
+It was by controlling the information he gave out that he could control what he received. The concept was simple in principle. Of course, life was rarely as straightforward as any theory could ever lay it out to be.
+
+Reality was multi-dimensional. It had emotions. Deals and grudges, promises from liars and saints alike. There were so many variables that trying to account for all of them was generally considered idiotic at best. The more balls you tried to juggle, the more likely you were to drop all of them.
+
+No, real life was far more complex than any theory.
+
+But, unfortunately for Rodrick, it was still painfully easy.
+
+A well-placed word here, a foot stuck into someone’s path that sent them stumbling into a waiter bearing a tray of brimming wine glasses — and then a valiant repositioning to put himself in the way of said wine before it could stain the clothing of the pompous idiot that had been in their path.
+
+And, just like that, Rodrick found himself face to face with the man he’d come looking for.
+
+“My goodness,” Baron Vaghn said, giving clothes a thorough inspection as he fanned at his face, a droplet of sweat rolling down a cheek. The man was a bit too wide for the dress outfit he’d squeezed himself into. “I — did you just jump in front of me? Why would you do that?”
+
+The poor waiter scrambled to spew out a fountain of apologies while simultaneously trying to fruitlessly dab at Rodrick’s frilly clothing with a napkin far too small to soak up even half the wine currently dripping from him. Rodrick waved the man away.
+
+“How could I not?” Rodrick exclaimed, his voice half an octave higher than usual. “Your clothes, my good man. I would recognize them anywhere. Such quality, such craftsmanship… how could I stand back and idly allow something to happen to such wonderous things? I could not even bear the thought of pushing you out of the way. Were you to fall on the grass and be stained, I do not think I could live with myself.”
+
+The Baron looked down at his clothes again. “My — I — oh, yes. Of course. My clothes.”
+
+“Made by… Vinyette, are they not?” Rodrick asked. The waiter reached for him again and Rodrick caught his arm, plucking the tissue from it and sending him a cross look before lowering his voice. “Off with you. Now.”
+
+The waiter paled and scrambled away with another word. That was for the best. If he stuck around for much longer, the nobles here would have probably torn him to shreds… and that would have taken away the attention that Rodrick needed on himself.
+
+“Vinyette,” Baron Vaghn repeated. He sounded more confused than anything else. Then he nodded. “Yes. Yes, of course. Marvelous, are they not? But how did you recognize them so quickly?”
+
+The crowd murmured their agreement.
+
+Rodrick squeezed the wine out of his shirt, sending it splattering to the ground. Then he adjusted his frilly his frilly collars and put on as haughty an air as a man soaked through in wine could manage. “I make a point of getting to know the most important people in the room. And any man equipped with adornments made by the great Vinyette is a man worth protecting.”
+
+Baron Vaughn preened. The man drank in the attention from the crowd like he was the shirt on Rodrick’s chest absorbing wine. “Rare is it that I meet a man of such character. What is your name, good sir?”
+
+“Striggs,” Rodrick replied. “But I am nobody of any importance, I can assure you. Despite my best efforts, I am still nothing but—”
+
+“Nonsense,” Vaughn said. “It is with strong character that a man makes himself known. And your ability to recognize…”
+
+“Vinyette,” Rodrick supplied.
+
+“Vinyette’s work… it is clear you are a man of high class. Besides, you have been invited to this party by the Blacktongues. They would not have invited any rabble here.”
+
+Even with all of Rodrick’s training, it took a small force of effort to keep from laughing at that.
+
+“I have made a few friends,” Rodrick allowed. “But I promise you, I really am nothing important. I simply have a passion for… interesting pursuits. For the finer things in life, you see. That is what got me my invite.”
+
+“Pray tell more,” Vaughn said. “Whatever do you mean?”
+
+“Well, in truth, I came here because I heard the Menagerie would be present,” Rodrick said. “And, of course, to pay my respects to the up and coming young lord of the Blacktongues. But the Menagerie have a team that recently took second place in the Proving Grounds after only forming this year. That’s unheard of, and I believe it to be because of their supply chain.”
+
+“You’re here to open trade with them?” Vaughn asked, blinking in surprise. “Truly? I had heard they were present today, but I thought them to be thugs.”
+
+“Perhaps,” Rodrick said with a small nod. “But thugs with connections. That smith of theirs is no joke, and their other supply lines are connected to both the Montibeau family and the Dawnseekers. They have access to unique supplies that I have not often seen on the market… which is why I came to seek them out. I heard one of their merchants, Reya, might be here today. I have been searching for her. She’s a young woman of small stature, but with sharp eyes and a fiery attitude. Horrible negotiator, I’ve heard. Today is the day to strike. This is my opportunity to make a fortune.”
+
+Vaughn’s eyes glistened. “Is that so? But what a shame, your clothes. How can you seek her out in such a state? It would be unbecoming of you.”
+
+“It will be a great shame.” Rodrick nodded in shame. “But in order to save a work of art such as the one adorning you, it was worth it. No matter. I will seek Reya out nonetheless. Even in this state, I will attempt to…”
+
+Right on cue, Reya stepped out from the crowd. She wandered aimlessly in their direction — and right into Vaughn’s line of sight.
+
+“Nonsense. I won’t allow for such a thing. My servant — Earnst, come here! You are needed, now!” Vaughn grabbed Rodrick by the shoulders and spun him around to pull Reya out of his line of sight. “Earnst will take you to get you a new set of clothes. He’ll get you nice and fitted up so you can seek out this Reya in good state. How does that sound?”
+
+A rather weary looking man in a plain suit and with a receding hairline stepped over to join the baron.
+
+“You’re too kind,” Rodrick stammered. “Are you certain? Wherever would I change? I couldn’t possibly do it here, and I would sooner die than leave this party early. It is far too important. Even if I look like a foolish sop, I must seek my fortune.”
+
+“I am absolutely certain,” Vaughn said. He paused for a moment. Then his eyes lit up and he nodded to his servant. “Go. Now. My room in the Blacktongue estate. I have spares, and our good friend can change there. Give him one of mine. Ah, not a…”
+
+“Vinyette,” Rodrick said.
+
+“Not a Vinyette,” Vaughn said with a nod. “Something else.”
+
+“Of course, sir,” the servant said. He took Rodrick’s arm in a firm grip and pulled him away from the crowd without another word, taking the two of them right for the Blacktongue’s estate.
+
+Rodrick didn’t even have to hide the smile that crossed his lips as he heard Vaughn hustle right in Reya’s direction, desperate to take advantage of the information he’d just ‘stumbled across’ before anyone else — especially the bumbling, kind idiot that had just saved his elegant Vinyette clothing — could make his move.
+
+Good luck, Reya. The target’s headed right for you. Rinse him for everything he’s worth. I’m moving on to the next part of our task.
+
+“I must say,” the servant said, clearing his throat as they left the crowd of stuffy nobles behind. “It is rare I meet someone with such knowledge of clothing. Few are able to recognize the tailor of a piece from a simple glance. I purchased the Baron’s outfit, but even I did not know its maker. I simply placed the order. How were you able to tell it was made by this… Vinyette?”
+
+It helps when Mr. Vinyette didn’t exist until I made him up about five minutes ago. No noble could tell a true masterpiece from a gaudy mockery, but they’d never admit that someone knows more than they do.
+
+“Practice, my dear man,” Rodrick replied, flashing Earnst a toothy smile. “With enough practice, anything is easy.”

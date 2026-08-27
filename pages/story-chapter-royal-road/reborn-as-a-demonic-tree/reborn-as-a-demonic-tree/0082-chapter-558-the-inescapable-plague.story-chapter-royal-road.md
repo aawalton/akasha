@@ -1,0 +1,159 @@
+---
+id: d062d395-53a9-50c2-9a82-2a5a1a610553
+page-type-slug: story-chapter-royal-road
+title: "Chapter 558: The Inescapable Plague"
+slug: 0082-chapter-558-the-inescapable-plague
+partOf: reborn-as-a-demonic-tree
+position: 82
+ownLength: 2248
+unit: words
+publishedAt: 2026-04-13
+link: "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3269464/chapter-558-the-inescapable-plague"
+royalRoadId: "3269464"
+---
+
+In the blink of an eye, his domain, the inescapable plague, bathed the hangar in a green miasma.
+
+"Ah," Ren breathed in the toxins and let out a satisfied sigh. His body, tempered in poison since birth, had gone from merely resisting poison to embracing it upon becoming a Monarch. He practically lived and breathed poison, and it wasn't often that he got to unleash his domain and experience the true pinnacle of that feeling.
+
+The spider began to burn. Layers of its ashen body began to melt away as the many ambient toxins in the air set to work dissolving its opponent. How strange, Ren thought. My deity-slaying toxin, Lee's Last Mercy, seems the most effective against this beast. Does that mean it's a divine creature?
+
+A horrifying revelation, but one he had prepared a solution to. His poisons were only as effective as they were specialized. The stronger the foe, the more specific a poison he needed to win—well, except for his named poison, the inescapable plague that targeted the soul. It was his magnum opus and the reason he was feared throughout the Celestial Empire despite specializing in one of the lesser-feared affinities.
+
+Only the Chairman didn't fear him.
+
+Ren shook away the thoughts of the Chairman and focused on the battle. He needed to block the spider's retaliation... which never came. What is this creature doing? Was the pain of my poison so great that it's not even activating its domain to save itself?
+
+"Hey, are you just going to stand there and dissolve to death without fighting back?" Ren jeered, but his spiritual senses were heightened—he was ready to respond to the faintest of movements. Any attack at all.
+
+Yet instead of moving, the monster replied to him.
+
+"A poison that can target the soul and another that targets divinity?" the monster mused, raising one of its dripping limbs. "I don't think I can win."
+
+Ren blinked. "Huh?"
+
+Can't win? What did that even mean? Was it just going to give up?
+
+"Victory is yours," the spider said and continued to do nothing.
+
+"I... I don't understand," Ren admitted. "You won't even try to fight back?"
+
+"I will not."
+
+"Then am I free to leave?"
+
+"Be my guest," the monster said with amusement. "Though I must warn you, the moment you walk through that door, the Flagship will fall." The dreadnought-sized spider reached forward with one of its colossal limbs and placed it against the far wall of pulsing silver lines—the reverse gravity array. "So, what will you do, Grand Elder Ren?"
+
+Ren already despised fighting the All-Seeing Eye and somehow hated his subordinates even more. He narrowed his eyes. "Just destroy it and be done with it."
+
+"That's not fun."
+
+"Fun? Is this a game to you?!" Ren shouted. "You don't seem to fear death. Why? Is your Nascent Soul secured by a spiritual anchor of some kind? Are you buying time for allies to come? What's the trick here?"
+
+The spider chuckled. "It wouldn't be much of a trick if I told you now, would it?"
+
+This beast is messing with me! It knows I'm the one who's cornered and is making full use of that. Maybe it really can't beat me and is conserving its strength by not attacking? But releasing a domain would achieve that. Did it already release its domain, and I just can't see it, or is this divine creature somehow not in the Monarch Realm despite that spiritual pressure—no, it's definitely a Monarch. Then why? What's its goal? To delay me as much as possible?
+
+Ren wanted to push forward, to wipe out this monster. But he hesitated, centuries of experience screaming at him that something was terribly wrong. Because, while Monarchs stood above all other cultivators and could crush them with ease, when it came to Monarchs fighting one another, a fight could end in a single blow. It totally depended on each Monarch's domains, affinities, strengths, and weaknesses. Right now, Ren's foes would usually be howling in pain as his toxins invaded their mind, body, and soul, dissolving them from the inside out. This monster showed no such reactions. It didn't even seem to care that it was dying.
+
+Is it really dying? Am I even fighting it, or is this some decoy? Ren's mind couldn't accept the spider's reactions as real, so he started jumping to random conclusions.
+
+All the while, as he stood there dumbly, wasting Qi on upkeeping his domain, the spider kept watching him with amusement.
+
+"You're just wasting my time," Ren hissed.
+
+"That has openly been my intention from the start, yes," the spider admitted. It glanced up. "As we speak, the Flagship has been boarded by cult members of the All-Seeing Eye. Your crew is being slaughtered as you stand here like a fool with your useless poisons."
+
+Ren ground his teeth in rage. He boosted his spiritual senses, but the Flagship's size and many formations blocked him from confirming or denying its words.
+
+The spider calmly looked down and met his gaze. "As I already told you, my Master has won," it said with finality. "There never was a third option, Grand Elder Ren. All those who stand in my Master's way bend the knee or fall."
+
+"I can, no, I will kill you, even if the Flagship falls," Ren said adamantly. He would crawl back from hell if he had to—this arrogant spider had to die.
+
+"As I've already said, I'd like to see you try and kill me. Though I doubt even a god could if they wished," the spider said nonchalantly.
+
+Surely that was a lie?
+
+Ren wasn't sure, as he stood there dumbly for a second, wondering how to approach this. Usually, by now, the burning pain of his toxins would bait the foe into a melee where they would tire themselves out, waste their Qi, and ultimately succumb to his poisons.
+
+The spider just watched and waited, conserving its Qi and energy as it slowly died.
+
+"A spider likes to weave a web," the monster suddenly said, "Whether that be a physical web or a web of lies, it's all for the same result: the satisfaction of seeing the hopeless expression of trapped prey as I come over to feast."
+
+"Ah, I see now," Ren said, his expression hardening. Because the spider had been speaking so articulately, he had forgotten for a moment that he wasn't conversing with a logically thinking human, but a monster that just wanted to see cultivators suffer. "I'm sorry to disappoint, but I won't be giving you that satisfaction in your final moments."
+
+The spider laughed. "Let's see you dance then," it said and opened its maw.
+
+Finally, it's fighting back, Ren thought, and braced himself.
+
+From within, a tsunami of tiny ashen spiders poured out from another dimension, as there was no way the colossal spider could have stored so many inside its stomach. Ren was forced into the air, and within seconds, the hangar filled up with the critters. There were so many that they buried the divine spider they had come from to the point where only its spinning halo was visible.
+
+A halo that started to spin faster and faster.
+
+Ren's eyes widened as he found himself struggling to maintain flight within his own domain as a truly unfathomable spiritual pressure bore down on him. Yet he had nowhere to go. The hangar was buried under ashen spiders—even the gravity reversal array and the doorway leading out of here weren't visible.
+
+"You can't hide your dying self under a pile of weaklings," Ren said as he raised his hand and pointed at the peeking halo of silver ash. With a snap of his fingers, he infused light with his poison and bathed the squirming mass of spiders below in the tainted light. This was a method he had invented to inflict poisons upon cultivators that were too mobile, as few could dodge light. It also apparently worked well here for mass-applying a plague that quickly spread through the spiders.
+
+Over the chorus of pain-filled screams, the great spider continued to mock him in spite of its situation. "When I ascended and became a Monarch, I chose to protect over personal strength, as I believe with my Master's involvement, strength comes in numbers. Nothing, no matter how weak, will be dying today to the likes of you with me here."
+
+Ren sneered. "More empty words. Everyone knows in this world of backstabbing and betrayal that personal power stands above all else—"
+
+"How long can you fight, Grand Elder Ren? How long can you bleed until there's nothing left to give? Hours, days, years?" The spider chuckled darkly. "Fighting my Master is like trying to triumph over the very concept of inevitability. We might not kill you today or tomorrow. But we will remain relentless and unkillable. You WILL fall like everyone else, Grand Elder Ren."
+
+"Is that so?" Ren muttered as he cautiously touched down on the mass of ashen spiders at the edge of the room. He expected poisoned corpses below his feet, from which he could recycle Qi, as his domain was sucking up far more than expected when dealing with so many foes, but his feet hit solid rock.
+
+"What?" he murmured and crouched down. The spiders... they had turned into tiny ashen statues and fused together to form a solid mass. He tore one out and crushed it to dust between his fingers—but it took considerable effort. He punched down with a Qi-enfused fist and caused the entire hangar to tremble as he pulverized a few layers of ashen spiders, only to find more layers below.
+
+"I wouldn't do that if I were you," the divine monster taunted. "A few more punches like that and you will bring the Flagship down yourself."
+
+"Silence," Ren snapped. Though the spider was right, which was the worst part. Grunting in frustration, he weighed his options. The spider was still dying, according to his senses. It had just been cowardly and entombed itself in ashen spiders.
+
+I can either try to dig it out and fight the beast to the death, or leave it here and hope it can't destroy the gravity reversal array while entombed. Curse the heavens, it got me good. What a waste of time, but I had no choice. Ren looked up at the ceiling. If the monster was right and his fleet was fighting with the All-Seeing Eye's forces while he was stuck down here, then whether the Flagship fell out of the sky or not wouldn't matter.
+
+With no cultivators to power its vast formations, it was a useless hunk of metal that was doomed to fall.
+
+Empowering his fingers with poison Qi, he used them as shovels and began digging his way through the spiders toward the buried doorway, all the while the divine monster kept taunting him.
+
+"Leaving so soon, Grand Elder Ren? What a shame, I thought we were just getting acquainted."
+
+"Who would want to befriend a cowering creature like you?"
+
+The spider's light-hearted tone turned serious. "Make no mistake, Grand Elder Ren, I could devour you and disintegrate you into ash where you stand. But you are not my prey to eat."
+
+Ren snorted. "If you say so."
+
+"Your soul belongs to the All-Seeing Eye," the spider continued.
+
+Ren reached the doorway. The act of having to dig through ash like some kind of rodent had been degrading enough, and the spider's comments only infuriated him more. "You stay here and rot to death from my poisons," he sneered as he forced open the door. "My soul belongs to nobody but myself—"
+
+A wave of hellfire engulfed him.
+
+He crossed his arms to block the searing heat as he was thrown back against the ashen wall of spiders that smoldered from the blast.
+
+"Who goes there?!" Ren roared as the dust settled and he lowered his arms.
+
+There was someone, or something, standing in the hallway, staring him down.
+
+"Magnus," said a tall fire elemental with obsidian skin, veins of molten fire, and eyes that were like twin suns. All around him were charred corpses of the cultivators that had sealed the door shut, and with every step he took, the spiritually enhanced metal melted underfoot.
+
+"A fire Monarch?" Ren grimaced. In an enclosed space like this, that was one of the last affinities he wanted to face. "Are you with the All-Seeing Eye, or another party?" Ren asked. "Perhaps we could cut a deal..."
+
+"I'm here to bring your charred remains to my lord," Magnus said coldly. "Just like I did with Faelorian."
+
+Ren's eyes widened. "That fire Monarch in the report was you?"
+
+The fire elemental responded by conjuring another fireball between his fingers.
+
+Not keen to eat another one of those to the face, Ren jumped up at the last second, a column of fire erupting from the ashen hole a moment later.
+
+"Back already?" the spider jeered. Its halo of ash began spinning again, and that suffocating spiritual pressure returned.
+
+"Shut it," Ren snapped back.
+
+"You know, I'm curious," Magnus said as he floated out of the smoldering hole, fire wreathing his form and illuminating the toxin-filled room. "Who will die first? You to my flames, or will I succumb to your poison?"
+
+Before Ren could answer, Magnus raised his hands to the ceiling and summoned his domain.
+
+"Domain of the Infernal Sovereign!"
+
+The room became bathed in hellfire.

@@ -1,0 +1,283 @@
+---
+id: 4ea5486c-cdf6-51c6-b04b-c720672caef2
+page-type-slug: story-chapter-royal-road
+title: "293. Father and Daughter"
+slug: 0043-293-father-and-daughter
+partOf: salvos
+position: 43
+ownLength: 2396
+unit: words
+publishedAt: 2022-03-03
+link: "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/856916/293-father-and-daughter"
+royalRoadId: "856916"
+---
+
+293. Father and Daughter
+
+When I opened my eyes, I stood in a vast void. My feet softly touched the fractal base of the stellated dodecahedron of space that shielded me from the encroaching emptiness of the fold between planes. Objects floated in the darkness, frozen in space, unchanged from the state they’d been in before they were ripped into this place.
+
+A giant golden disk hovered above me, an accretion of matter that sent waves of scintillating light to illumine the empty room. I glanced over at the other figure who was with me.
+
+My Dad had teleported us back into his home after the Matriarch Centinel of the Bloodied Gulf challenged us. I couldn’t even see its Subspecies or its level, but judging by how even Sal reacted to it, it had to be far stronger than even an [Ancient Centinel].
+
+Level 200 or more.
+
+I glanced over at the Devil as he let out a chuckle.
+
+“That was scary, wasn’t it? Good thing I got us out of there, otherwise things wouldn’t have been pretty.”
+
+“What was that?”
+
+“Hm?”
+
+He gave me a blank look, and I crossed my arms.
+
+“That thing— what was that? My [A Hunter’s Sense] blared in my head. I would’ve died in an instant if I fought it.”
+
+“Ah.”
+
+My Dad shrugged as the space around me flickered, changing shape into a cuboid.
+
+“She’s the [Progenitor of Secely’s Centinels]. I met her once, a long time ago, back when her Species was driven out of the Endlands. She was quite cute when she was young. Now she’s a bit of a bitch though, if I’m being honest.”
+
+“And it has just been hiding underground all that time?!”
+
+I gaped at him.
+
+“And you sent me to the Bloodied Gulf knowing that it could come out at any time and kill me with the flick of its wrist?”
+
+“I mean, you had the Breastplate of Alexander.”
+
+He waved a hand off dismissively as he leapt onto a couch that appeared out of nowhere.
+
+“And the Matriarch Centinel doesn’t really come out unless one of her ‘children’ dies, which I honestly didn’t expect to happen. I fully thought you were going to be killed by that Corrupted Centinel, mind you.”
+
+My lips curled into a frown as I glared at the Devil.
+
+“So you’re saying that you were just going to watch me die to that Corrupted Centinel?”
+
+“Of course.”
+
+He cocked his head, but I continued.
+
+“Your only daughter— you weren’t going to step in and help her if she died in front of your eyes?”
+
+“Uh…”
+
+My Dad hesitated, and I thrusted a clawed finger at his face.
+
+“You’re a bad dad.”
+
+“What? I mean, come one, Salvos— you’re just kidding about being mad, right? You’ve never even had a parent before, so you can’t possibly say what’s a good or a bad dad!”
+
+“Well, I have one now.”
+
+I gave him a sidelong glance as I turned away from him.
+
+“And I can say he’s pretty bad at being one.”
+
+The Devil deflated. His shoulders went slack. I harrumphed and walked away as he tried to weakly protest.
+
+“I stepped in to save your life from the Matriarch Centinel, didn’t I? That should count for something, right?”
+
+“Nope! I would’ve been long gone if you didn’t show up and start chatting with me. That was your fault too.”
+
+I didn’t face him, even as he tried circling around me. My Dad waved his arms exasperatedly, but I ignored his arguments. Until, finally, he sighed.
+
+“Is there anything I can do to make it up to you, my daughter? Please. Your old man is very sorry for what he did. He’s a bit old and senile, you know?”
+
+I quirked a brow.
+
+“Hmm, well…”
+
+There were a lot of things I could ask for from the Devil— he was a very high-leveled individual who lived for tens of thousands of years. My eyes lit up as I raised a hand.
+
+“Could you kill Belzu for me?”
+
+Sal blinked. Then he scoffed.
+
+“Of course not! Why would I do that?”
+
+“Aw, come one, please?”
+
+I stared at him with round eyes, but he wouldn’t budge.
+
+“No means no, Salvos. First of all, I like Belzu. He’s not my son, but honestly I consider him… to be a nephew. Maybe a distant cousin’s son. And I’m not going to kill him just because you ask me to.”
+
+“But I hate him!”
+
+“So, go and kill him yourself.”
+
+The Devil wagged a finger at me.
+
+“If you really dislike someone, you should take it upon yourself to kill them. You can’t just, I don’t know, rely on others to kill them for you. It makes you lazy. And you’re not an Archdemon of Sloth, are you?”
+
+I scowled, averting my gaze.
+
+“…no.”
+
+“Exactly. You’re an Archdemon of Pride. Now puff up your chest and kill your dad’s distant cousin’s son with your own two hands.”
+
+“Ugh, fine.”
+
+I kicked the ground as the room changed once again. It was now the shape of a diamond. I stood there for a moment, grumbling as my Dad watched awkwardly from the side. He scratched the back of his head, and my eyes darted up.
+
+“But, Dad, since you’re not going to help me kill Belzu, can you at least do something else for me?”
+
+“If it’s reasonable…”
+
+I leapt at the opportunity and spun to face him.
+
+“Can you bring me to the Netherworld?”
+
+His eyes narrowed, although he didn’t reply just yet. I continued, trying to explain my intentions.
+
+“I’ve just been working to get back for the longest time but I still can’t even with [Long Range Teleportation], and since you can travel between the planes without a problem, I was thinking, why don’t you just bring me there for me?”
+
+I clapped my hands together, excited at just the thought.
+
+“I’ve been led around and around and around the Mortal Realm for years, barely making any progress. Each lead I find is always a dead end. Even now with my Class, I still don’t have a definite way back to the Netherworld. Can you help me with this, please?”
+
+Although, my Class advancement was soon. I was quite excited to hit that.
+
+For whatever reason, my Dad didn’t seem amused by my request. He made no quip, nor did he laugh at my request like I expected him to. Instead, he prodded me further.
+
+“I’d do this for you, my dearest daughter, but I only have one question: why do you want to return to the Netherworld?”
+
+This time, I was the one to cock my head.
+
+“What do you mean why would I want to return?”
+
+“Well, the Mortal Realm is a lot safer than the Netherworld. With your currently [Divine Essence of the Daeva Cambion], you can passively transform to any Species without a problem. It’s not like you have much of a reason to worry about there.”
+
+He pointed at my left arm which was still injured from the battle with the Corrupted Centinel. My flesh was torn, flaked off due to the damage I had taken when the single arm had been transformed into a pair of clawed hands. It would’ve been nice if my body could regenerate whenever I transformed between forms, but there was always residual injuries.
+
+I shuffled to the left, covering my injured arm.
+
+“It’s still dangerous for me. I’m a Demon, and most Humans hate me.”
+
+“But you have friends, don’t you?”
+
+“I do— but most of them think I’m a Human. Only my companions, a couple of Elves, Cyclopes, Kobolds, Spirits, monsters, and Rachel knows that I’m actually… me.”
+
+I weakly gestured at myself. It kind of hurt knowing that most of the people I had met weren’t actually aware that I, Salvos, was not a Human.
+
+“And is that really it? You want to go back to that empty, desolate hellscape because Humans are mostly idiots?”
+
+“Well, that’s not all…”
+
+I trailed off. My eyes closed as I remembered the first person who ever recognized me for who I was. My original companion. A Demon with crimson skin and black and yellow hair.
+
+Opening my eyes, I faced the Devil and answered his question.
+
+“I also want to find Haec. He’s someone important to me. I was separated from him when I was pulled into the Mortal Realm. I know he’s waiting for me, somewhere in the Netherworld.”
+
+I looked down at the palm of my hand, speaking softly.
+
+“I want to make sure that he’s safe.”
+
+My Dad stayed silent as I finished. He said nothing, his gaze darkened. His brows arched on his forehead, casting shadows over his face. I wasn’t sure what he was thinking; he was the Devil— an unpredictable trickster who always kept you guessing. But he was also a callous, timeless soul who was apathetic to the lives of others.
+
+I feared that I had made him upset once again. He despised it whenever I did anything that involved others. He wanted me to be as entirely selfish and self-reliant as he was, even if I was not him. I waited with bated breath for the reprimanding that was sure to come, and his mouth opened.
+
+“Aha! I knew it!”
+
+“Um, what?”
+
+I stared at my Dad, blinking slowly.
+
+“It was about a boy. Of course it was about a boy. You’re, what, eight years old?”
+
+He gesticulated wildly as he paced back and forth. I responded to him with a tinge of uncertainty in my voice.
+
+“I don’t actually know, honestly. Maybe?”
+
+“Yes, you’re not even ten years old. And here you are, thinking about boys! It’s always a boy! Don’t you know? Boys will use you and throw you away without a second thought.”
+
+“I’m pretty sure this isn’t what you think it is.”
+
+“Look—”
+
+My Dad clapped his hands together, coming to a halt.
+
+“I’m just saying, why can’t it be a girl for once? There’s nothing wrong with girls getting together! It’s completely fine! Don’t you think so?”
+
+“I don’t know if I care?”
+
+“The point is: why?”
+
+Sal met my gaze. I could tell he hadn’t really been serious beforehand, but now his expression changed. It was hard to tell— an incredibly minor shift in tone with barely any change to the look he gave me.
+
+“Why go through all these lengths for this Haec?”
+
+“Because I want to.”
+
+I replied simply.
+
+“I already gave you my reasons. It’s the same as before, Dad. I don’t want to repeat this stupid argument with you again.”
+
+His eyes flickered, and he nodded.
+
+“Fine.”
+
+I watched as he drew back, massaging his temples while speaking in an annoyed tone.
+
+“Again, Salvos, I’d love to help you, but it really doesn’t make sense for me to step in. In fact, it makes even less sense in this scenario since you’re very close to achieving your goal. You’re like ninety percent of the way there. You can’t just give up and let someone else take over when you only have ten percent of the way left to go, can you?”
+
+“I mean, it would be convenient…”
+
+I tapped a finger on my chin as the Devil shook his head.
+
+“You’re an Archdemon of Pride, remember? You can’t expect to grow stronger if you keep pushing your responsibilities onto others. Seriously, that’d be very much helpful as an Archdemon of Sloth, but not for you.”
+
+“I just want to make sure he’s fine…”
+
+I pursed my lips, and Sal rolled his eyes.
+
+“I’d do anything for you, my dearest daughter, as long as it’d benefit you. I guess this wouldn’t really hurt you other than making you overly-dependent on me… which, I’d actually love. Dote on me more. It’s cute.”
+
+He reached over to pinch my cheeks, but I slapped his hand away.
+
+“Are you really sure you want to do this? There really is no reason for you to rush your way to the Netherworld. Haec is fine. He’s quite high-leveled too. So, you really shouldn’t be worrying this much.”
+
+I was about to give him my affirmation when I paused. I found my left eyebrow raising as I peered at my Dad.
+
+“Wait, you met Haec?”
+
+“I did. He works for the Demon King or something. I don’t actually know if he’s fine or not— I barely paid attention. I was too busy watching you.”
+
+“But he’s alive, right? Haec is alive?”
+
+The Devil backed away as I inundated him with these questions. He pushed me back and nodded.
+
+“He is. I told you— he’s with the Demon King. So, unless I was talking to his walking carcass as a [Succubus] used ventriloquism to speak through him I’m pretty sure he’s alive.”
+
+My eyes widened as my Dad finished. I slid to my knees, placing a hand on my chest.
+
+“I’m so glad…”
+
+Haec was alive.
+
+My cheeks squeezed tight as I couldn’t help but smile, beaming from ear-to-ear.
+
+“He’s really alive.”
+
+I was worried I had left him to die alone in the Netherworld. If he found others to keep him safe— and if he was still alive— I knew I could delay my return for just a little longer. Still smiling, I looked up to my Dad.
+
+“Take me to Centina and the others. I need to make sure they’re safe, then… I’ll kill Belzu.”
+
+I spoke simply, and he furrowed his brows.
+
+“Wait, what happened to returning to the Netherworld?”
+
+“Haec is alive. You said it yourself. I don’t need to worry so much anymore. I’ll get back to him through my own strength, once Belzu is dead. As you said, I’m an Archdemon of Pride, right?”
+
+The Devil studied me. He ran a hand through his goatee before finally shrugging.
+
+“If you insist. I’ll bring you back to your monster friends instead. There’s no need to worry about the Matriarch Centinel. She probably went back to sleep beneath the Bloodied Gulf after we left.”
+
+And with the snap of his fingers, the world flashed. I found myself hurdling through space as his voice echoed around me.
+
+“I’ll see you next time, my beloved daughter.”
+
+When I got my bearings back, I was no longer in his home. I was back in the Mortal Realm, standing amongst monsters.

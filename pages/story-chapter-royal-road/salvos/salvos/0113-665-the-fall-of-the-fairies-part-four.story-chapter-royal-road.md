@@ -1,0 +1,151 @@
+---
+id: 910883a5-1322-53ee-bf49-ba8f8ffdf7b2
+page-type-slug: story-chapter-royal-road
+title: "665. The Fall Of the Fairies Part Four"
+slug: 0113-665-the-fall-of-the-fairies-part-four
+partOf: salvos
+position: 113
+ownLength: 1783
+unit: words
+publishedAt: 2024-03-26
+link: "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1569319/665-the-fall-of-the-fairies-part-four"
+royalRoadId: "1569319"
+---
+
+665. The Fall Of The Fairies Part Four
+
+The world collapsed. Space itself fell apart like shards of broken glass. Everything that had been created was destroyed— reality itself was ripped apart like it was never even there.
+
+This hasn’t simply been an artificial replica of a world. It wasn’t a pocket space or a magical dimension. It had been a world that was supposed to replace the Nexeus for all of Fairykind.
+
+It had been the New World. And it was gone.
+
+Or at the very least, it was disappearing.
+
+Basil looked up at the New World as nothing of it remained but collapsing pieces of realspace. His eyes were wide open, taking in this scene in both awe and horror. Centuries of work was destroyed. Just like that.
+
+Even though he had only just become an Architect— even though he hadn’t been working on the New World for long— he knew that it was a project that all of Fairykind had undertaken to complete under the orders of their Queen. And it was destroyed by her, without a second thought.
+
+But why? Basil couldn’t help but ask himself that question. Even though he knew the ostensible reason for it.
+
+It was because the Fairy Queen needed to defeat the Voidspace. And she did.
+
+Basil watched as the remains of the Voidspace dissipated. Its tendrils weakly reached out for the collapsing New World, before it was turned to nothingness.
+
+But why? Basil asked the question again. There was no reason for the Fairy Queen to have destroyed the New World. This was everything Fairykind had worked for.
+
+This was her goal. This was the reason why Basil had become an Architect. This was the reason why all of the Fairies that had died and barely survived that encounter with the Voidspace had gathered here. They were trying to fulfill their Queen’s dream.
+
+All of them. Even Lotus. Even Ivory. Every single one of the Fairies that had died had died because they had been here to complete this New World.
+
+But the Fairy Queen destroyed it all with the clap of her hands.
+
+Now, nothingness consumed the remains of the New World. A void that was neither white nor black began to cascade upon the Fairy Queen as she floated before the collapsing realspace.
+
+Behind her, her Honored Fairies appeared and bowed to her. They somehow escaped the blast unscathed. Basil wasn’t sure how.
+
+He barely comprehended how he was alive too. Somehow, him and the rest of the remaining Architects, Constructors, and other Fairies that survived had escaped the blast.
+
+Basil swept his gaze around the bubble-like barrier protecting him, and he realized it must’ve been the gravity well that the Fairy Queen put up which saved them.
+
+He should have been grateful. But all he felt was a lingering emptiness within. Like the enveloping void that consumed the last of the realspace he had created.
+
+Basil closed his eyes as he recalled the last moments he spent with Ivory. The weak smile she gave him, trying to put on a brave face. And he wished he had never become an Architect. He wished none of this happened.
+
+“The Voidspace is gone.”
+
+A booming voice spoke simply, and he slowly opened his eyes. Basil raised his head to face the speaker.
+
+Teranialiselisandranovaluxical’ah-sham the Fairy Queen herself.
+
+She turned around as the Honored Fairies surrounding her dispersed. And even amidst the void, she stood tall and faced all the fallen Fairies caught in her gravity well.
+
+“Tell me—”
+
+The Fairy Queen said as Basil felt a shiver run down his wings.
+
+“Who is responsible for this?”
+
+Hartia watched as his pocket space was destroyed from the outside. The artificial fabrics of reality he created collapsed, and Salvos laughed victoriously. Haec continued to pummel onto the outside of his world as mountains sank into pits of darkness and the sky itself shattered like broken glass.
+
+All around the [Unseelie Lord], his army of Fairies screamed and fell with the collapsing pocket space. Their existence faded away as the magic which held everything together was broken apart.
+
+“Lotus!”
+
+Hartia screamed as he turned to the apparition of the Honored Fairy. She raised her lance obediently, understanding his intentions without any words needed to be said.
+
+He needed to stop this. And the source of this destruction was the Traitor himself. Haec the former Heir of the Netherworld.
+
+Lotus began to conjure up a bolt of lightning as Hartia grinned viciously. But—
+
+“No you don’t!”
+
+Salvos shouted as she crashed into the back of the Honored Fairy. The blast of lightning shot to the side, vanishing into the falling sky. Hartia watched as both Salvos and Lotus tumbled across the remains of the pocket space as they struggled and fought desperately to defeat the other.
+
+But despite whatever swings and strikes Salvos tried to land on the Honored Fairy, the flurry of attacks were unsuccessful. And instead, Lotus tore through cloak of distortion protecting Salvos and impaled her side.
+
+Salvos yelped in pain as Hartia blinked. He realized the aura of invulnerability was finally gone. This was his chance to finally defeat her. But before he could react, he heard Haec’s voice echoing throughout the pocket space.
+
+“Salvos!”
+
+The former Heir of the Netherworld leapt into the collapsing pocket space as his body shone with a white light. He moved fast. Hartia didn’t understand it, but Haec was somehow so much stronger and faster now.
+
+Haec reached Lotus in an instant, and he raised his hands. Hartia was expecting Haec to strike Lotus from behind, but that was not what happened. Instead of attacking, Haec stretched a hand out to Salvos as he nodded.
+
+“Take my hand!”
+
+Salvos blinked for a moment, then instantly reached out and accepted the proffered palm. And Haec whispered as the white aura covering his body rippled.
+
+“[Title Skill: Synergy of Skills].”
+
+“What is that?”
+
+Hartia stared in confusion as the white aura began to spread to Salvos. The two of them shone together, and Lotus raised her lance. Her body crackled with electricity—
+
+“[Consecutive Fatal Divine Nebular Slash]!”
+
+Salvos and Haec shouted at once. And together, both Salvos and Haec lashed out with a powerful combination of fiery attacks. Their combined attack overcame Lotus, sending the Honored Fairy flying back with a silent scream.
+
+And she tumbled into the nothingness of the collapsing pocket space as Hartia could only watch.
+
+It was the first time Haec had used his brand new Title Skill. At first, when he received his new Title as the Traitor of the Demon King, he had accepted it in shame. He hasn’t been willing to even acknowledge the new Title Skills it had given him, because he had still harbored some sense of loyalty for the people he left behind, even to Regnorex.
+
+But now, he fully realized and understood how foolish he had been back then. So he embraced his new Title. He accepted the Skills it had bestowed him. And now, he used it to the full extent of its abilities.
+
+It was called [Synergy of Skills], and it was like combination casting. Except far more effective as it essentially combined two Skills together, creating a brand new Skill that was far stronger than the two of them alone. So it had a wide range of applications, especially when it came to battle.
+
+Unfortunately, he knew intuitively that to use his [Synergy of Skills], he needed to be somewhat close in abilities to whoever he was going to be using it with. That was why he couldn’t have just used it whenever he wanted. Taburas was too weak for him to work with, and Salvos was too strong.
+
+So he had sought out a way to grow even stronger in a short moment— to close the gap between him and Salvos. That was why he activated his second Grand Skill. He had drawn the power of the Third Legion using [I Shall Bear Your Burdens]. And while he wasn’t exactly as powerful as Salvos right now, even with the strength he borrowed from them, it had closed the gap just enough for them to be able to combine their Skills and launch a powerful attack against that Level 200 Fairy.
+
+Together, their attack sent her flying into the depths of the collapsing pocket space, and then she vanished along with the cascading sky. Haec panted as he clung onto Salvos, looking down into the artificial world that was falling apart all around them. Thanks to his help, he was able to destroy Hartia’s Grand Skill and save Salvos. But that hadn’t been the plan he concocted.
+
+His plan had been to use their combined Skills to tear Hartia’s [Fractal Barrier] through sheer force. But now, he could no longer use his [Synergy of Skills] for a while. And Hartia was still alive.
+
+“Get ready.”
+
+Salvos spoke up, snapping Haec back into attention. The two of them faced Hartia who was floating at the top of the shattered dome. The [Unseelie Lord]’s gaze was shadowed over as he looked over his destroyed world. All the apparitions of Fairies he had summoned were gone. All except for one—
+
+“Ivory…”
+
+Hartia whispered as he reached out for the last apparition of a Fairy in the collapsing pocket space. She flitted weakly towards him, having remained by his side the entire time. But then she, too, faded away.
+
+And then the two Demons and the lone Fairy found themselves back in the Netherworld. Haec’s feet touched solid ground once again. Salvos raised her scythe warily as Hartia slowly craned his neck to face them.
+
+“Do you really think you’ve won this battle?”
+
+The [Unseelie Lord] asked as he raised his head. His eyes glinted in the darkness cast over his face by his arched brows, and his [Fractal Barrier] began to shine again. He spread his arms wide as Haec took on a defensive stance.
+
+“We only pissed him off…”
+
+Haec said, and Salvos nodded.
+
+“Yep, we did. But we also wasted his Grand Skills.”
+
+“You wasted nothing.”
+
+Hartia spat back as he floated to the sky. He hovered over the crimson sky, and the mountains shifted. Giant boulders and small mountains floated to the sky as his voice echoed in the Netherworld, his massive shadow towering over the two Demons.
+
+“I will not stop until you are begging for mercy! I will not stop until the two of you are dead at my feet! I will not stop until I’ve served your heads on a platter to the Demon King!”
+
+And as he screamed, he unleashed everything he could down at the Enemy and the Traitor.

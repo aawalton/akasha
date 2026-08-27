@@ -1,0 +1,277 @@
+---
+id: 8908df25-eff0-5dc3-9f40-278b0239ef47
+page-type-slug: story-chapter-royal-road
+title: "5 - The Familiar Horn"
+slug: 0005-5-the-familiar-horn
+partOf: rise-of-the-dragon-queen-evolutionprogression
+position: 5
+ownLength: 2096
+unit: words
+publishedAt: 2025-09-02
+link: "https://www.royalroad.com/fiction/129546/rise-of-the-dragon-queen-evolutionprogression/chapter/2569014/5-the-familiar-horn"
+royalRoadId: "2569014"
+---
+
+Stella awoke with a killer headache. She sat up and blinked against the blinding sun.
+
+[You have defeated Three-headed Bear.]
+
+[Evolution to Queen Dragon Fledging is complete.]
+
+She looked down, running her fingers through the grass, grounding herself. She moved each muscle, starting with her toes and ending with her neck and found herself fully healed.
+
+How long was I out?
+
+[Three days.]
+
+Th-three days?! How am I not dead from dehydration?
+
+[While evolving, your body curls into itself and conserves energy and resources. You can think of it like hibernation.]
+
+It's a wonder I didn't get eaten…
+
+[Two items have dropped from your previous kill.]
+
+Stella stood, something heavy twitching on her back. For now she ignored it, walking the path of scratch marks and mud clumps to the cliff where the bear had fallen. If she jumped, she would die, and she couldn't see any obvious ways down.
+
+She could ride the waterfall like a theme park ride, but if she hit a rock on her way down after she landed, that could prove fatal too.
+
+Alright, I guess I'll have to jump.
+
+[I don't recommend that.]
+
+I can't just leave valuables lying around. And don't act like you haven't noticed my new additions.
+
+She smiled.
+
+I have wings! she announced.
+
+She spread them wide, her blue scales shimmering in the sunlight. Then, without missing a beat, she jumped off the cliff.
+
+“AAAAAAAH!”
+
+Her stomach was in knots as she tried to straighten out her wings. They were heavy and despite being big enough to carry her, she wasn't accustomed to using them. Gritting her teeth, she tried to stiffen them against the converging air.
+
+Why won't these stupid wings work?!
+
+The ground grew closer, but just before biting the dust she managed to straighten her wings properly, catching the air. She sailed a few feet, giggling all the way, before splashing into the lake beneath the waterfall.
+
+The icy water swallowed her whole, weighing her down. She clawed for freedom, but her wings weighed her down alongside all else.
+
+Breaching the surface took tremendous effort, but she did and then swiftly swam to the shore. Once she was planted on the lake shore, she coughed up a gallon of water and then shook off like a dog.
+
+Let's just call my first attempt at flying a success.
+
+[You nearly died and you never flew.]
+
+Can't you see I'm trying to be optimistic!
+
+Stella shivered pitifully for a time, crouching at the water's edge and gazing at her reflection. Much more had changed than just the addition of wings. She looked like a teenager rather than a child.
+
+Curiously, she felt her head for her horns, but they weren't much better than before her evolution.
+
+Next was her status screen.
+
+Name: Stella Algos
+
+Stage: Queen Dragon Fledging (0% to next evolution)
+
+Class: None
+
+Renown: 0
+
+Wealth: Meager (+0 to all stats)
+
+(C: 250 S: 0 G: 0)
+
+Stats: (5 points available)
+
+Power: 27
+
+Vigor: 20
+
+Grace: 20
+
+Intellect: 8
+
+Skills:
+
+Wrath Of The Ravenous (Grade SS) - Level 1
+
+Elemental Breath (Grade S) - Level 3
+
+Hm. Not much has changed. But I guess I'm still growing.
+
+She scowled.
+
+However, there has been a drastic change made to my dress. The bear's claws left openings across my back… Now I’m extra chilly.
+
+Stella realized that those cuts fit her wings perfectly, though, so it wasn't all bad.
+
+She placed her stat points into intellect and vigor, figuring that's what she needed the most of. Her intellect would only increase to 10, leaving the rest of the points for vigor.
+
+Now I should be able to run farther and fight longer. Given my last encounter, it makes sense I'd pick that strategy. I'm a genius.
+
+[You could simply train your body.]
+
+Geniuses don't need guidance from magic narrators.
+
+The bear corpse wasn't far from the lake. It was disgusting, but the items it had dropped were in good condition. Stella collected them and hastily returned to the lake shore.
+
+[Bear Pelt: A coat, blanket, or rug. Its naturally musky smell repels lesser creatures.]
+
+[Familiar Horn: Three uses. Can summon the spirit of the Three-headed bear to assist the user in combat.]
+
+This stuff is handy… The horn even has a little handle.
+
+The bear pelt was heavy and indeed musky. But it was clean and warm. It even had places to put her hands where the bear's paws were and the head fit over her like a hood.
+
+It was a bit awkward with her wings, however, so she took it off, rolled it up and tied the horn around it using the rope it had attached.
+
+Then all she had to do was get back up the cliff. She spread her wings and flapped, urging them to lift her off the ground.
+
+But flight, even for a dragon queen, wasn't so easy. Her wings were both very large and very awkward, folding against the ground with each flap. She tried again, this time holding them higher in the air. But before long, she grew tired and stopped.
+
+Her next attempt was to climb a tree and jump off, but climbing a tree was rough, especially with loot to carry. When she at last reached the top of a particularly tall tree, she spread her wings and leapt.
+
+She flapped like a maniac and was rewarded for her naivety with a sore bottom as she landed on the ground.
+
+I've had it. Aren't I special? Give me something to make things easier!
+
+[Answer: You have wings.]
+
+They don't work!
+
+[...]
+
+Fine, I'll try something else.
+
+Stella used the horn. The second she blew on it, the air turned cold and blue. Light swirled around until it formed into the familiar, three-headed bear. The thing towered before her, its eyes glowing orbs with no pupils.
+
+It looked around, ready to fight, a true warrior in the flesh.
+
+“Heyyyy, buddy…”
+
+The spirit turned to look at her, realizing the lack of a threat.
+
+“I know you're probably pretty mad and all. And I know you're supposed to help me in combat, or something, but I really need to go up that cliff.”
+
+She pointed. The bear looked and then turned back to her, disbelief evident in its expression. Stella smiled awkwardly.
+
+“You're a ghost so… Can't you float me up there?”
+
+The bear blinked a few times, still shocked. Then it crouched, making it clear she was free to get on its back. Stella thanked the spirit, put her stuff on it first, then hastily climbed up between its massive shoulder blades.
+
+I can't believe I can touch a spirit, she thought.
+
+[Answer: A summoned spirit or contracted spirit is often called a familiar and can be interacted with by their user. Spirits with enough power can also physically interact with the living world.]
+
+Stella was still in awe at the laws of her new reality and began to poke the bear in disbelief.
+
+“Wow, you're really big. Death really… um, suits you! And aren't you familiar now? That's super cool!”
+
+She patted it, knowing she was digging herself a deeper hole but too nervous to stop herself. Then the mountainous bear spirit began to stir, nearly knocking her off.
+
+“Aaaaah! Don't kill me!”
+
+When the bear stilled she realized it had just been standing up. It scowled at her over its shoulder.
+
+“Oh… Sorry. Carry on.”
+
+The spirit lumbered over to the cliff and stood on its hind legs, causing Stella to continue her pointless screeching as she clung to its fur. The bear ignored her this time as it dug its claws into the rock and began to scale the cliff side.
+
+“Wow, you can just do that?”
+
+The bear continued on in silence, moving at the pace of a sloth. Stella was shamefully glad it had died during the fall, because if it hadn't… Well, seeing a massive bear climb back up would have totally drained her of the will to live.
+
+When she could see the top of the cliff, she got too antsy and tried to pull herself up, nearly falling. The bear caught the back of her dress in its teeth. As she dangled, she swallowed thickly.
+
+What if it tries to get revenge?
+
+The spirit bear sighed loudly and then tossed her up and over the last few inches. She landed at the top, rolling a bit and getting a mouthful of grass.
+
+After recovering and getting to her feet, she did a happy spin.
+
+“I made it!”
+
+She hurried to the edge to see the bear and give it proper thanks, but it was gone. She frowned at the empty space. She shifted the bear pelt and horn under one arm and then left the cliff behind, heading upriver.
+
+So, how rare is this horn?
+
+[Extremely.]
+
+Stella bit her lip nervously.
+
+Well, I still have two more charges left…
+
+[Just be quiet.]
+
+Don't be mean to me, stupid computer!
+
+[Answer: The name you are seeking is ‘All Seeing Eye'.]
+
+***
+
+Upon arriving at the place she'd left the dragon eggs, she found it empty except for Mother's Last Breath, an item she had previously eaten half of to heal herself.
+
+At least I found my item. But the eggs are missing. Where could they have gone?
+
+Stella began by sniffing. But nothing about the scents in the air were recognizable. Even if some creature had been here, she wouldn't know what it was. Next, she walked up and down the riverbank, searching for clues. There were none.
+
+The forest was next. She walked into it from where the eggs had last been, sniffing and listening, trying to find any information.
+
+It's been three days, she thought
+
+If something did take them, it's probably long gone.
+
+Stella was near to giving up and accepting that she would never know her cute dragon family, only for something small to bite her tail.
+
+“Ouch!”
+
+She lifted her tail up to her face and found a little red dragon cub hanging from it. She reached out tentatively and pulled it off her tail. It growled and blew puffs of smoke at her as she held it up.
+
+It was the size of a wolf pup, with shiny red scales, blue eyes and a square head. It was a classic fantasy dragon, with four legs, two wings and black horns. Its head was bigger than the rest of it, making its attempts at attack look more like an aggressive bobblehead.
+
+“Where did you come from?” Stella gasped, reaching out to pet it.
+
+It bit her thumb, hard.
+
+“Ah!” She yelped, dropping it.
+
+The moment it was free, it ran for some ferns and brush.
+
+“No you don't! Come back here!”
+
+Stella easily caught it again, falling headfirst into the bushes as she did so. This scared out two more baby dragons, one blue and one red. Stella panicked, trying to grab one, only to get bitten by the one she already had.
+
+Eventually, they had all scurried into a fox den, and she was left begging them to come out.
+
+“Come out! I won't hurt you!”
+
+She sat on the ground, rubbing dirt from her cheeks as she waited near the hole. She wasn't going to leave until she convinced them she wasn't a threat.
+
+How long can they survive on their own anyway?
+
+[Dragon offspring are self-reliant the moment they hatch.]
+
+Well, that makes sense. I don't think snakes or lizards are any different.
+
+Stella glared at the hole in the ground, then leaned forward and shoved her arm inside.
+
+“I demand you come out! I am your queen!”
+
+Three mouths bit into her hand at the same time. She screamed and withdrew her arm, assessing her injuries. She was bleeding.
+
+Wait, she was bleeding.
+
+She went over to an open spot and let her hand bleed over the soil. Like clockwork, a centipede surged out right into her hand, where she proceeded to light it on fire.
+
+The scent of burning flesh worked quickly to lure the dragon pups from the fox den, their noses to the sky.
+
+“Yeah, come right over. Let's have a meal together.”
+
+After cooking the centipede and throwing out little bits, the hatchlings quickly grew fond of their new caretaker. The second they were acquainted with her, a new system screen appeared.
+
+[Strength In Numbers passive activated]
+
+[Strength In Numbers: Gain increased mana or energy while existing in a group of your own kind (3 or more). Gain stat increases when fighting alongside or defending said group.]

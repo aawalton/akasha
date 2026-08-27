@@ -1,0 +1,177 @@
+---
+id: 4cb0bf53-5ce4-524d-86a7-6e296f5a7adc
+page-type-slug: story-chapter-royal-road
+title: "Chapter 567: Dimensional Painter"
+slug: 0091-chapter-567-dimensional-painter
+partOf: reborn-as-a-demonic-tree
+position: 91
+ownLength: 2606
+unit: words
+publishedAt: 2026-05-13
+link: "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3391887/chapter-567-dimensional-painter"
+royalRoadId: "3391887"
+---
+
+As Ashlock watched Kaida utterly dominate Astralis, much to Nymeria's barely restrained glee, he felt his focus oddly waver. His Soul Forest skill didn't trigger, meaning he wasn't under a mental attack of some sort. But despite it being late afternoon, his consciousness felt heavy.
+
+"What is happening?" Ashlock murmured in confusion as his vision began to wobble at the edges. As if to answer his question, there was a strange ripping noise of tearing paper, followed by the world around him burning like parchment.
+
+"System? Is something the matter..."
+
+His words died in his mind as he was forcefully dragged into a daydream, or was it a vision? Either way, it was an out-of-body experience. One moment, he was watching the fight; the next, everything had burned away, revealing a blank world beyond. Surrounded by absolute nothingness, Ashlock felt oddly calm.
+
+"Where am I?" Ashlock said, and instead of sound echoing out into the nothingness, a single drop of ink fell from above. It did not splash; it sprawled out before him with frightening intent—his intent. Someone was using him like a brush to give this empty world color. Unable to fight it, Ashlock conceded and did as he was told.
+
+First, he painted the sun and sky, then the mountains. A river formed from curved brushstrokes, lined by flattened trees. It was a calm, peaceful landscape, perhaps struck by a natural disaster. Ashlock felt sorry for it and tried to direct the brush to 'fix' the painting's scarred land. The brush didn't listen. It had a vision to fulfill and drew a raised dragon wing instead, which he recognized.
+
+Black dragon scales with silver specks, factured and broken, no doubt belonged to Astralis.
+
+The rest of the Celestial Star dragon's body was painted into existence, his scales broken and bloody, one eye torn out. He cowered on the ground with a wing helplessly raised to block an unseen onslaught. Nymeria appeared next at the edge of the scene, watching beside Zephyrine with a curious smile as her father was finally humbled.
+
+Finally satisfied, the brush paused, and the painting was finished.
+
+Yet Ashlock felt it was lacking something.
+
+The perpetrator of Astralis' humiliation was left out.
+
+That's when Ashlock realized the one controlling the brush... was Kaida.
+
+Looking behind him, it dawned on him that this white world was multidimensional and seemed to stretch out to infinity. Floating before the two-dimensional painting was Kaida in his true form. His body was a living calligraphic storm—black strokes layered upon black strokes, edges sharp and deliberate. Tendrils of ink peeled from his form and drifted through the air like brushstrokes.
+
+"Astralis never had a chance," Ashlock concluded upon seeing Kaida like this.
+
+When people spoke of Monarchs being unbeatable by lower realm cultivators within their domains, this was what they meant. Kaida was not fighting Astralis on the same battlefield. He wasn't even sharing the same plane of existence.
+
+He was painting the battlefield to his design, and Astralis was merely ink on paper for him to draw suffering upon.
+
+[Comprehension of ink dao has increased]
+
+With the system message, Ashlock was pulled from the white dimension and returned to reality.
+
+Unlike the painting that had seemed conclusive, the one-sided battle was still ongoing. Except this time, Ashlock could see the truth behind Kaida's domain.
+
+When Kaida had first summoned his Primordial Calligraphy Domain, besides showing his real body, there wasn't much else fanfare. No overlapping of reality, summoning of a hellscape, or flooding the air with poison. It had been oddly anticlimactic. What Ashlock realized now was that the true scale of Kaida's domain was hidden, like the penciling lines beneath the paint.
+
+Yet, now that Ashlock had ink dao comprehension, he could see it.
+
+There Kaida was, floating over the battlefield with hundreds of previously invisible lines of ink sprawling out in all directions like an accursed eldritch creature, repainting the world around him to his whims.
+
+However, Ashlock could now get a better grasp on the limits of Kaida's newfound power. The reach of his domain seemed to stretch for about a mile in all directions. Should Astralis leave this area of control, Kaida likely couldn't affect him as much. That wasn't all. Kaida had made his attacks appear mighty and effortless, but that was a facade.
+
+"Still not done yet?" Kaida sneered from above. "Perhaps a light cooking will change your mind." He sent one of his scales forward, inscribed with a single ancient runic word. "Burn."
+
+As the scale made contact with Astralis's face and exploded in a plume of hellfire, the many tendrils of ink snaking through the air around Kaida got to work, repainting the scene in his image. The scales imbued with words were, in a way, pre-drawn paintings.
+
+"Not only that, Kaida's dragon form has notably decreased in size," Ashlock mused. It wasn't easy for anyone to notice in the heat of battle, given how long and thin Kaida's body was and how he kept shifting around. But he had notably less volume. The domain... it consumed his body to fuel the techniques much like Larry's did.
+
+Kaida's domain was no doubt strong, but Ashlock now wondered how he would fare against another Monarch. The matchup against Astralis was so easy because, without a domain, the dragon had no chance of beating Kaida, who was fighting from the beyond. Would Magnus really be that simple of a matchup? Or had this all been a show put on by Kaida to impress him and earn his approval?
+
+Whatever the case, Kaida had beaten Astralis to a pulp, and it hadn't even been close. This showed the immense gap between the Nascent Soul Realm and the Monarchs, as Astralis was not only a peak Nascent Soul Realm monster but also one of the strongest Primal Overlords. If Kaida had tried to fight Astralis before he visited the Eternal Realm, he likely would have been disintegrated by the falling star.
+
+Kaida canceled out his domain and reverted to his human form in an instant. Since it was crafted from a small amount of his ink, he was able to hide the weakness his body had endured from maintaining his domain and the fight. He looked as handsome and flawless as when he had first stepped through the desolation portal and asked for Nymeria's hand.
+
+Landing on Astralis's head, he strode down the barely breathing dragon's snout and lightly leaped off, landing before a clapping Nymeria.
+
+"That was quite the show," she said, beaming. "I've never seen someone beat my father like that, let alone so one-sidedly."
+
+"It was only natural, as the gap between our realms is insurmountable. Perhaps Astralis could threaten me once he ascends after all these years," Kaida said but didn't sound convinced. He held out his open hand, and Nymeria only took one look at it before promptly grasping it.
+
+"I hope you will take good care of me," Nymeria said, smiling shyly.
+
+The response was far more human than Ashlock had expected. Then again, she was only half-dragon. Following the traditional draconic courtship rituals to the letter was likely never going to come naturally to her.
+
+Kaida didn't seem to mind and just nodded, returning the smile. "I need to recover my strength after this battle. Would you care to join me in my abode?"
+
+"I'd love to," Nymeria said while blushing a little.
+
+Kaida glanced up at the sky.
+
+Ashlock took the hint and opened a portal leading to the library for the two lovebirds—no, lovedragons. They thanked him and left the spiritual spring in good spirits.
+
+"Are dragons always like this?" Ashlock asked Zephyrine.
+
+"Considering Astralis is still drawing breath, I'd say this is better than usual," Zephyrine chuckled.
+
+Ashlock looked at Astralis, who was sprawled out against the side of the mountain. Besides his cracked scales and torn-out eye, his wings were riddled with holes, and a few of his claws had been blown off by explosions.
+
+"Dare I ask, but will Astralis be humbled by this?" Ashlock asked.
+
+Zephyrine snorted. "Absolutely not. He was left in a worse state than this by Nymeria's mother. As powerful as dragons are, they are dumb, prideful lizards at the end of the day."
+
+Ashlock sighed and decided to accept it for what it was. Humans could be dumb and terrible sometimes as well, so he wasn't one to judge. If it was indeed normal for dragons to beat the fathers of their intended mates half to death, then so be it. Kaida and Nymeria were clearly happy, and Astralis had honestly had it coming.
+
+Though Ashlock still felt a little bad for the dragon. The fight had been far from fair, and he had a partial role in that, considering he was the one who gave Kaida such opportunities to power up.
+
+"I'll send a healer for him," Ashlock compromised as he called upon an Ent he hadn't used in ages—Sol. The Ent emerged from a third portal near Astralis and began bathing him in healing light by using its many arms to fish for orbs of light and press them one by one onto his scales.
+
+The healing process was going to take a long time, even with Sol's help.
+
+Just as Ashlock was debating what to do, Janus teleported back onto the mountain peak with his red-haired disciple. The boy looked young, around twelve years old, perhaps? He had a spear strapped to his back and seemed to use wind affinity like Zephyrine.
+
+"Ashlock, it's a pleasure to finally make your acquaintance. I've heard a lot about you from Stella," Janus said respectfully. "I can see now where she gets her somewhat skewed sense of reality from," he added, glancing between the portals and Sol healing Astralis.
+
+"You must be Janus, Stella's elder brother," Ashlock replied. "I suppose I should thank you for planting me and leaving Stella in my care."
+
+Janus smiled. "I see, so Stella informed you. But I must say, while I had a sliver of hope that you would become an interesting spirit tree, I never expected you to be capable of so many things in such a short time. Really, I'm the lucky one here. All I found was an interesting-looking seed, so I planted it. You're the one who protected my little sister through all this."
+
+"We look out for each other," Ashlock replied. "If not for her, I wouldn't still be alive."
+
+Janus nodded proudly. "She's a cunning one—you should have seen how she conquered the entire Frozen Star Sect in a day by playing the fool. I was on her team, and even I was tricked."
+
+Zephyrine hummed in agreement.
+
+Ashlock chuckled. "You two aren't the first and likely won't be the last. She's a headache sometimes, but there's nobody else I know who tackles problems quite as uniquely as she does. I can only begin to imagine how many people she's duped that I'm unaware of or only know a little from her stories."
+
+"Did she tell you how many credits she lost gambling before pulling Ao Lingxuan?"
+
+"No, Stella hardly ever mentions money."
+
+Janus winced. "Ah, I believe it's for the best that I stay silent then."
+
+Ashlock didn't really care for money either, so he switched topics. "This must be your disciple."
+
+"Ah, this rascal?" Janus ruffled his hair. "I call him my disciple, but really I adopted him. His family lost big in a gambling bet and were forced to hunt the monsters lurking beneath the ice for food by the Ao Lingxuan faction. It was on a whim after I won big, but I saw the kid struggling to survive and decided to buy his freedom." Janus puffed out his chest. "It's pretty much the only honorable thing I accomplished in that frozen hellhole."
+
+Ashlock had heard about Janus's gambling habits from Stella. He seemed like an all right guy from first impressions, besides that habit, just a little rough around the edges.
+
+"Speaking of that frozen hellhole, I've still not expanded my control far enough to the west to reach it. Zephyrine, is it all under control over there?"
+
+"As much as it can be," Zephyrine answered with disinterest. "With the loss of Ao Lingxuan and the primordial ice dragon's corpse, the ambient ice Qi is in sharp decline. I doubt the sect will last more than a few years. Besides, Stella didn't seem that interested in maintaining it, and we already looted the place, so I left it in some capable hands and returned here."
+
+"Ha! The Frozen Star Sect is going to fall? Good riddance," Janus said with spite. "That place did nothing but bring out the worst in people and was a gathering place for the deplorable."
+
+"I wonder where they will go after it returns to a volcanic region," Ashlock pondered aloud. "It's not like they had much going for it in the first place by the sounds of it."
+
+"I'm sure the more minor sects nearby will see an influx of new cultivators," Janus said, shrugging. A deep groan from Astralis drew the group's attention. "Is this dragon part of your sect?" Janus asked warily.
+
+"Honorary member, I suppose?" Ashlock answered after a moment of thought. "I've left Zephyrine and the Primal Overlords to mostly do as they please, but in return, I don't assist them in any way. If Astralis swore an oath of loyalty to me via a contract written by Kaida, I'd consider helping him ascend to the Monarch Realm."
+
+Janus shook his head in disbelief. "I can't believe you can utter such words so lightly. Assist with ascending to a Monarch? A heaven-bound oath that would tie down a Monarch Realm dragon? The resources and power you wield now must be unbelievable."
+
+Oh, if only he knew the extent of it. With his new Heaven-Defying Orchard, his fruit production had shot through the roof and could grant truly outrageous effects.
+
+Which gave Ashlock an idea.
+
+"Zephyrine, Janus just gave me a good idea. Could you eat this fruit for me, and then blast Astralis with your most harmful wind-based attack?" Ashlock said as he procured a fruit out of thin air and floated it to the deer.
+
+She eyed the floating fruit, which was charcoal black and gold. "I'd be happy to blast Astralis anytime, but why would I need to eat this fruit first?"
+
+"If I explain, it will ruin the surprise."
+
+Zephyrine hesitated but ultimately ate the fruit. This showed her trust in him, which he appreciated. After swallowing it, the aura around her shifted strangely. She appraised the effects the fruit was having on her body, and then her eyes widened.
+
+"This... how is this possible?"
+
+"Go on," Ashlock said, "give it a try."
+
+Zephyrine floated into the sky above Astralis. Ashlock moved Sol out of the way so the poor Star Core Realm Ent wouldn't be caught up in the following attack.
+
+The skies darkened overhead as black clouds gathered. Without holding back, a gust of piercing wind that could fissure the earth engulfed Astralis. Yet instead of his body being torn to shreds by the violent winds, his scales began to rapidly heal.
+
+She had eaten the fruit made from his cultivation skill, the {Divine Cycle of Creation and Ruin [SS]}. It temporarily made destructive attacks restorative, which turned a monster like Zephyrine, who unleashed wide-scale apocalyptic storms upon the world, into an amazing healer.
+
+Janus's jaw dropped, and Zephyrine didn't seem to believe it either.
+
+Ashlock chuckled.
+
+He couldn't wait to show off the other fruits that even Elaine had yet to see.

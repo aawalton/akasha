@@ -1,0 +1,217 @@
+---
+id: 6f11e71a-8238-5669-adf0-93bfeadfa1f4
+page-type-slug: story-chapter-royal-road
+title: "Chapter 532: Primordial Force of Absorption"
+slug: 0054-chapter-532-primordial-force-of-absorption
+partOf: reborn-as-a-demonic-tree
+position: 54
+ownLength: 2651
+unit: words
+ownProgress: 2651
+publishedAt: 2026-02-09
+link: "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3029724/chapter-532-primordial-force-of-absorption"
+royalRoadId: "3029724"
+markedReadAt: "2026-06-29T19:03:23.075Z"
+---
+
+Bob was in his greatest battle yet. His foe? One of the many tiny invaders. Despite being far shorter than him, the little monster with giant glowing blue eyes was as relentless as the rest of its kind. They wanted in, but Bob would not let them.
+
+This was Stella's sanctuary, and his big sister had entrusted him as its door. His great mission was to keep the invaders out, and with Stella gone, he was alone in this great fight.
+
+"Open!" the monster shouted, dramatically waving its hand as if using a grand technique.
+
+"No," Bob replied.
+
+"Open!" the monster said again.
+
+"No," Bob replied.
+
+"Open!"
+
+"No."
+
+"Open!"
+
+"No."
+
+"Open!"
+
+"No."
+
+"Open!"
+
+Bob wondered if he was allowed to eat the monster. Would it be as tasty as it was annoying?
+
+"Bob, I need your—"
+
+"No." Bob instinctively replied, but then realized that the voice hadn't come from the dramatic monster before him, but rather from his own mind. "Father? Is that you?"
+
+"Yes... is everything okay?" His father asked, and he suddenly felt his father's overwhelming attention on him. "Ah, what does this Mudcloak want?"
+
+So they are called Mudcloaks? Had he been told that before and forgotten? Bob wasn't sure, but he would certainly remember the name of these annoying creatures moving forward.
+
+"It wants me to move, but Stella told me to keep them out," Bob explained as best he could. "Am I allowed to eat them?"
+
+"No. I don't think that would be good for your stomach, even as the Primordial Force of Absorption."
+
+"Really?" Bob mused, looking down at the creature. While annoying, it did look quite tasty, and there were a lot of them, too.
+
+"Yeah. But don't worry, I'll have another Ent take over your job for now, as I need you for something. Are you hungry?"
+
+Was he hungry? He was always hungry.
+
+"I see that was an unnecessary question."
+
+Bob noticed the space beside the Mudcloak begin to buckle in on itself as if reality was being devoured from the beyond. He extended a tendril toward it, curious and hungry.
+
+"Don't eat the desolation rift, Bob. I need you to go through it," his father explained. "Just like when you visited your sister in the Eternal Realm."
+
+Bob remembered that glorious day, the day he awakened his sapience and was welcomed by the humans with a party and lots of food. He slowly lurched forward, peeling himself away from the doorway. The Mudcloak tried to gingerly sneak past him, but he pretended not to notice and rolled over the monster, crushing it into the stone.
+
+It would live. Probably.
+
+With his final act of revenge complete, Bob went through the portal and only nibbled a little at the edges of the desolation rift as he passed through. It didn't taste great. In fact, he had found that his father's Qi was the worst-tasting of any Qi type he had ingested thus far.
+
+He would still eat it, though.
+
+Reaching the other side, he plopped down onto lush, ethereal grass that gently brushed against him. All around were white-barked trees, and he could feel an immense source of power below him.
+
+There was also someone else here. A being shrouded in darkness that matched his height and possessed massive wings of shadow and a scythe. He knew who this was, from the knowledge his father had granted him.
+
+Thanatos, one of the three Generals.
+
+"Why is he here, too?" Bob asked curiously.
+
+"I'm not sure exactly how strong a pseudo-Monarch realm being is, so I called Thanatos off his mission from two days ago and had him patrol the western flank for this incoming ice dragon."
+
+Bob was only half-listening. He was distracted by the tasty power source below him, and as he tried to reach out to it and have a taste, he felt a threatening force push him back.
+
+"Bob, this is the flagship of the Ashfallen Sect, Moros. You are not allowed to eat any Qi from it unless I tell you, understood?"
+
+He deflated. Bob was unhappy with his father's words.
+
+"Don't look so down, I asked if you were hungry, remember? I brought you here to deal with an incoming threat, and you are free to devour their Qi."
+
+Bob perked up. That sounded like a tasty mission.
+
+"Where food?" he asked, looking around expectantly.
+
+"Go to the bow of the ship. You will see your snack fast approaching," Father explained.
+
+Bob wasn't sure where the bow of the ship was, so he just happily rolled forward while salivating at the thought of a tasty meal. Reaching the edge, he looked out and saw it.
+
+A colossal beast tore through the sky, parting the clouds and leaving trails of frozen hailstorms in its wake. As it approached, its true vastness became more apparent, which only excited Bob more.
+
+"See it? That's a primordial ice dragon."
+
+"Can I go? Can I go?"
+
+"And how do you plan to go, exactly?" Father asked, chuckling. "It's not like you can fly."
+
+This was true. Bob could, in fact, not fly, and that made him sad. Why couldn't he fly? He blamed his father, as he had made Bob without wings to fly. Thanatos had wings and was floating beside him. This wasn't fair.
+
+"Actually, now that I think about it, your idea is better."
+
+It was? Was his father acknowledging his great intelligence as a General?
+
+"I'm going to pump you full of desolation Qi, and then Thanatos will drop you on the dragon instead of testing if Moros's shields can withstand its attack. Are you ready?"
+
+"Yes, Father," Bob said, slightly upset that the Qi he was being fed wasn't tasty at all. As promised, desolation Qi flowed towards him from the large power source beneath him, and he greedily absorbed it all. His slimy body slowly took on the murky darkness of desolation.
+
+Thanatos then came to his side and silently wrapped chains of darkness around his body. Bob did his best to keep the desolation Qi inside him and avoid eating the tasty shadow chains.
+
+A bigger meal awaited him.
+
+"Perhaps swinging Bob like a wrecking ball will work," he heard Father say, but didn't listen. His entire focus was on the rapidly approaching ice dragon. His intense focus was only broken by the sudden upward tug as he was hauled into the sky by Thanatos. The General's shadow wings were spread wide, and with large flaps, they were soon airborne.
+
+He was flying!
+
+They moved further away from Moros, the flagship he was not allowed to eat, and toward the ice dragon that he could eat. That is when he began to swing, back and forth—the many shadow chains linking him to Thanatos overhead, straining in the process.
+
+"What are you doing?" he asked Thanatos.
+
+The shadow monster glanced down at him, and two hollowed eyes peered at him with hidden judgment. "By orders of the Overlord, I am to swing you into the dragon's face. If you had been listening, Bob, you would know that."
+
+"I was listening," Bob grumbled.
+
+"Though I'm not sure what the Overlord is thinking," Thanatos said. "I have more than enough strength to restrain that dragon. So why does he pick you for the job?"
+
+Clearly, Thanatos didn't understand Bob's greatness.
+
+"Because I'm the strongest," Bob replied confidently.
+
+Thanatos seemed amused. "Is that so? While I don't doubt my Overlord's judgment in picking you as one of the three Generals, that doesn't mean I acknowledge your strength as being superior to mine." He looked into the distance as Bob continued to swing. "What we face is a pseudo-Monarch realm possessing primordial ice dao. Such an entity will not be easy to take down, hence my mission against the Celestial Empire was postponed so I could assist."
+
+"I don't need your help," Bob complained.
+
+"Really?" Thanatos glanced down at him again. "Then should I cut the chains right now?"
+
+"Go for it," Bob snapped back.
+
+Thanatos seemed to contemplate his words for a moment and then shook his head. "That would go against my Overlord's wishes," he paused, and then flapped his wings to send them shooting forward. "I will drop you when the time is right, and the rest will be up to you."
+
+That didn't please Bob, so he began to radiate the desolation Qi he had been infused with to melt the chains. The massive ice dragon suddenly changed course and shot upwards toward them. Now that it was so close, Bob realized the dragon wasn't alive. It was undead, with glacier ice for flesh and scales. Its enormous maw yawned open like a frozen abyss, frost billowing out in thick plumes.
+
+Rushing to get out of the way, Thanatos severed the shadow chains and sent Bob hurtling toward the dragon's maw. The dragon twisted its open maw to be under the falling Bob, thrilling him as he quickly began to condense his body. Not because he needed to for the mountain-sized dragon that dwarfed him to gobble him in one bite, but to create a dramatic increase in his mass.
+
+Now, around a tenth of his original size but with the same immense weight that made even Thanatos struggle to pull him up, he was easily swallowed by the dragon—its maw snapping closed behind him and sealing him in darkness.
+
+However, his journey didn't stop there. The inside of the dragon resembled an icy cavern, which he plummeted through like a speeding pebble. The harsh billowing frost, recognizing him as a foreign entity, rushed to surround and freeze him. Any other being might have been overwhelmed in such a situation, but not Bob. He simply traded the desolation Qi inside his body for the surrounding primordial ice Qi.
+
+It tasted delicious. Far better than his father's desolation Qi. The icy cavern that he was still hurtling through trembled as the dragon seemed to roar and change direction, possibly toward Moros.
+
+Bob was unfazed. He continued to enjoy his buffet, and his body turned from a murky black to a transparent blue, beginning to solidify. While he unwillingly started growing in size because of how much he was eating, he didn't stop compressing his weight, and after around a full minute, he reached the back of the dragon's stomach and impacted it.
+
+A solid wall of primordial ice and bone, belonging to a pseudo-Monarch Realm dragon, shattered like a hammer taken to glass. He punched through with such immense force that the dragon's body was thrown backward with him. He ruptured through, breaking the surface and barely stopping himself from flying off by anchoring himself onto the dragon's back with icy spikes.
+
+The dragon roared in what Bob assumed was a mixture of pain and fear as it began to spiral toward the ground. It tried to reel its head back to snap at him, but he was positioned perfectly on the dragon's backside. Just above the tail, the dragon couldn't even reach him with any limbs.
+
+Unchallenged, Bob embraced his true nature as the Primordial Force of Absorption—a being of unparalleled consumption. From his shifting form, jagged tendrils of condensed mass erupted, slamming into the icy flesh around him and sending fractures racing through the glacial walls.
+
+He rose like some grotesque, mutated ice spider, limbs erupting in every direction, and began tunneling deeper into the undead dragon's frigid bone—drawn instinctively toward what he presumed to be its core.
+
+With each lurching movement across the dragon's back, he pulled in chunks of hardened ice and ancient bone, dissolving them and assimilating their essence into himself. The deeper he burrowed, the more the dragon's body resisted. But it was futile. Like a virus feeding on its host, Bob only grew stronger with every attempt to expel him.
+
+His grotesque form endlessly swelled, expanding in both size and density with every passing moment. Each of his legs became a pulverizing pylon, hammering through bone and frost alike, channeling the raw material into his ever-hungering body. He began to adapt, as if he had always been a being constructed from primordial ice Qi. His body hardened further as he began to create bone, recreated and improved upon from the dragon bone he had absorbed.
+
+That's when he noticed another presence.
+
+Thanatos had returned, unleashing volleys of shadow techniques at the spiraling undead dragon. Crescents of darkness sliced through the frost-laden aura shrouding the dragon and carved deep into the beast's unguarded flank. Perhaps deeming Thanatos an easier threat to deal with, the undead beast shifted one titanic wing to deflect the incoming assault.
+
+Bob then felt the dragon's core hum with immense power as its massive head swiveled to face Thanatos, opening its gaping maw. A second later, an unstoppable blizzard-like nova erupted from its mouth, briefly turning the world white from its intensity.
+
+Thanatos effortlessly vanished, his form dissipating into shadow.
+
+Bob was displeased by the assistance. Was Thanatos trying to steal his meal from him? He needed to double his efforts.
+
+Now motivated to do more than simply feast, he went on the offensive. A dozen more jagged tendrils erupted from his sprawling body. He lurched up and slammed them down, skewering the dragon's back and making it roar in pain. The freshly cracked bone and ice were quickly absorbed, making his body rapidly swell outward. More jagged legs shot out, further puncturing the dragon as he expanded his position.
+
+What followed was bliss. Bob continued to expand and devour, further burrowing into the dragon's body toward its core.
+
+"Brace, Bob! The dragon is going down—"
+
+His delightful feast was only interrupted by his father's panicked voice, followed by the dragon's crash landing on the ground, which he barely felt. His body, strengthened by bone and ice, was a far cry from his previously slimy consistency. All he wanted was one thing.
+
+The core.
+
+Bob relentlessly burrowed deeper, his hunger never being sated. Perhaps if he managed to taste the core, he would finally be satisfied. However, he could sense the core's Qi weakening. His body, now resembling a mile-long centipede and extending along the dragon's spine, was endlessly draining the dragon, and now he was almost at his goal.
+
+Punching into the dragon's skull, he lurched inside and finally laid eyes on it—a human-sized ice crystal suspended in the centre of the space, thrumming with borrowed life and orbited by a dozen frozen stars.
+
+Bob hungered. Like a moth to a flame, he surged towards it, his many tendrils shooting out to wrap around the glowing food source. However, what he received wasn't Qi. Instead, his mind was overwhelmed by something else entirely. The crystal contained a will, the will of a dead and angry dragon that wanted to turn the world to ice.
+
+Unable to stop himself, Bob did what he did best. He absorbed the late dragon's lingering hatred and desires, digested them, processed them, and when they tried to rear their ugly heads and commanded him, he answered.
+
+"No."
+
+To his surprise, unlike the Mudcloaks, who didn't seem to know the meaning of the word, the dragon's will conceded and faded into the back of his mind.
+
+A desolation rift tore open, and Thanatos stepped through. However, Bob could tell that his father was using the shadow being's body. He waved his hand and gathered the orbiting stars.
+
+"Souls tainted by the primordial ice Qi's will," he said, sounding saddened. He then came over and held out his hand. "Give me the core."
+
+Bob didn't want to, but if Father ordered something, he listened. Besides, he was finally satisfied. His jagged icy tendril passed the core to Thanatos's waiting hands.
+
+"Good, there's still some primordial ice Qi from the dragon left inside. Now the question is, what should I do with it?"
+
+Bob silently hoped he would set it aside for a snack later...

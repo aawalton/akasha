@@ -1,0 +1,175 @@
+---
+id: 07e29fdb-3f53-59b4-9954-3ac8386ef17b
+page-type-slug: story-chapter-royal-road
+title: "616. Cold Trail (Start of Volume 7 Part 1/Book 12)"
+slug: 0107-616-cold-trail-start-of-volume-7-part-1book-12
+partOf: salvos
+position: 107
+ownLength: 1609
+unit: words
+publishedAt: 2023-11-15
+link: "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1410003/616-cold-trail-start-of-volume-7-part-1book-12"
+royalRoadId: "1410003"
+---
+
+616. Cold Trail
+
+School… was boring!
+
+It had been over two months since Rachel started attending Mavos Academy. She had been incredibly excited to start her studies, and she had even joined a club on Demon Research! So everything was going swimmingly… right?
+
+Wrong!
+
+First of all, Rachel was starting to get bored of the things she learned in her classes. She had hoped that she’d be able to learn how to get to the Netherworld to find Salvos. But apparently, she could only take the basic space magic lectures as of right now. She was not only in the College of Aspirations, she was barely into her first year. While most upper-level courses were limited to those who were attending their last year, or those who were in the School of Aspiring Elites.
+
+This hurdle wasn’t enough to dissuade her, of course. So she had spoken with other students who were attending upper-level courses— including those who were in the School of Aspiring Elites, and she had even spoken with professors. And while most turned her away, some were kind enough to answer her prying questions.
+
+Rachel was acutely aware that she had to dance around the topic of what she wanted to ask. It was a taboo topic. Especially after the trickery of Salvos and the invasion of the Demon King.
+
+However, Rachel didn’t care about upholding a false image of herself. So she always asked her questions upfront— she phrased it bluntly, asking if there was any way she could open up a portal to the Netherworld.
+
+Now, she was a little more obtuse with her intentions for asking these questions, although she never did lie outright. Quite a few professors or students asked her about why she wanted to know this, and she just said that it was part of the Demon Research Club.
+
+Which was true. The Demon Research Club was also studying how portals to the Netherworld were opened. However, they were more interested in the rituals behind said summonings, so they could find a way to prevent or interrupt any large scale grand ritual in the future, rather than what Rachel was interested in.
+
+She didn’t care for summoning a Demon to the Mortal Realm, or stopping a Demon summoning either. What she wanted was to see Salvos again.
+
+And she was starting to realize that that was going to take a lot longer than she thought it would. Which was really quite annoying!
+
+But Rachel wasn’t going to sit around and wait for opportunities to fall into her lap. She was going to find a way to expedite this process somehow. Unfortunately…
+
+She didn’t really know where to start.
+
+—--
+
+“Here.”
+
+Rachel raised her head, hearing the ethereal voice echo just above her. She looked up from her book and saw a ball of white flames floating in the air. It carried a cup of water, and she nodded her head at it.
+
+“Thank you, Supervisor Willy.”
+
+She spoke gratefully, accepting the glass from the ball of flames. If anyone saw this scene, they’d thought the girl was mad for addressing a flaming sphere by a name, let alone a formal title. But that was because most wouldn’t realize what Willy actually was— he was a Grand Spirit.
+
+A [Will O’ Wisp], in fact. Quite high-leveled, too.
+
+He was the supervisor of the Demon Research Club, although he didn’t actually do much. He simply monitored their actions, and occasionally, he’d remind them to hydrate properly. Like right now.
+
+“Drink. Human. Fool.”
+
+He mostly spoke in single-word sentences. So for most who spoke to him, they wouldn’t be able to interpret what he was saying in the slightest. In fact, many of those who were in the Demon Research Club still barely understood what Willy said half the time.
+
+But Rachel wasn’t called the Child Wonder for nothing. She had managed to decipher what the Grand Spirit was saying every single time. So for example, right now, he was essentially telling her that she was a fool for forgetting to drink even though she was a Human.
+
+It wasn’t… the nicest thing to say. However, Rachel knew that that was how Willy showed affection.
+
+“I will be sure to remain hydrated!”
+
+Rachel exclaimed as he scoffed, his flames flickering. He flew off and left her alone in the empty room of the Demon Research Club. As he left, a blonde girl strode into the room, carrying a heavy tome under one arm.
+
+“President Valda.”
+
+Rachel immediately rose to her feet to address the blonde girl. Valda just nodded in response, hefting the heavy tome onto a nearby table.
+
+“Rachel. Of course you’d be in here even though we have no meeting today.”
+
+Valda rolled her eyes, and Rachel just scratched the back of her head. The President of the Demon Research Club stared at the book with a frown.
+
+“And what are you even reading?”
+
+It was a simple question. One that Rachel was more than happy to answer. She grinned and showed the book’s cover.
+
+“I’m reading, ‘The Story of Salvos’! It’s very well-written— you should give it a read!”
+
+Valda snorted as she leant against the heavy tome she was laid on the table.
+
+“Most of these books are nonsense, you do realize that, right? They’re written by greedy [Writers] trying to capitalize on Salvos’ fame. And many of them are written to destroy her reputation too…”
+
+Rachel shook her head, tapping a finger on the author and publisher of the novel.
+
+“Well, actually, this book was written by the Thrilling Bard himself. The Elite Ranked adventurer who actually briefly met Salvos during the war. And it’s distributed by the Mons and Riley Trading Company. So, it’s quite accurate.”
+
+The President of the Demon Research Club blinked a few times.
+
+“Wait, the Thrilling Bard wrote this? You mean the Thrilling Bard? But not just them, the Mons and Riley too… uh, who are they again?”
+
+She placed a hand on her chin, stopping herself. Rachel giggled in response.
+
+“The Mons and Riley Trading Company. Co-owned by Mons Merryster— you know, the sister of Saffron Merryster who was rooming with Salvos during her time in Mavos Academy?”
+
+Rachel waved a hand dismissively as she explained. She expected Valda to be amazed, hearing of Saffron. But Valda just furrowed her brows.
+
+“Oh.”
+
+An odd reaction. But Rachel ignored it, instead flipping through the book with stars in her eyes.
+
+“Anyway, there’s so many things I never knew about Salvos written inside here. For example, did you know that Salvos’ favorite type of food is seafood?”
+
+“Uh, why would I know that?”
+
+Valda bit her lower lip. Rachel continued excitedly.
+
+“And did you know that Salvos never actually gained the Title of the Savior of Silvergrove?”
+
+“That is… not that important—”
+
+“And did you know, Salvos actually has children?”
+
+Rachel was practically beaming from ear to ear as she raised the book. Valda opened her mouth to retort, before pausing.
+
+“Wait, Salvos has children?”
+
+“Yep!”
+
+Rachel pointed to a passage from the book. Valda narrowed her eyes, silently reading through the page, even as she mouthed the words to herself. When she reached the end, her eyes went wide.
+
+“Baby… Wyverns?
+
+“Three of them, yep!”
+
+Nodding excitedly, Rachel placed the book down. She raised her head, sighing wistfully as she stared at the crystal light hanging from the ceiling of the room.
+
+“I wonder what they’re like— I would love to meet them and have a chat with them one day!”
+
+Valda just stared at Rachel. Slowly, the President of the Demon Research Club managed to work her jaw.
+
+“But they’re not children. They’re Wyverns. At best, they’re pets.”
+
+“They’re not pets! They’re Salvos’ children! That’s what it says right here!”
+
+Rachel harrumphed, emphatically gesturing at the book. Valda rubbed her temples.
+
+“They’ll rip your head off.”
+
+“Nope.”
+
+“Nope?”
+
+Valda could barely even react to the Child Wonder. Rachel simply folded her arms and spoke simply.
+
+“Nope. That’s not going to happen. We’ll be best friends. I’m sure of it.”
+
+There was a certainty there which Valda clearly didn’t understand. And she gave up trying to understand it. Instead, she shook her head and took Rachel by the hand.
+
+“If you’re going to give me a headache, at least help me clean out the room.”
+
+“W-what…?”
+
+Rachel blinked as she was dragged towards a broom.
+
+“Wait, no—”
+
+“And remember, make sure you behave and stay within Kron’s range—”
+
+The baby Wyvern heard the voice echo from the outside hall. He looked up, peering through the crack of his bedroom door and watching as his siblings were led down the corridor. There they were— Novis and Bellum, following Centina and Kron as they began to head down from the tall down.
+
+Oriur didn’t follow them. He didn’t care for hunting low-leveled monsters to grow stronger like his siblings did. Recently, because of their restlessness, they had gained some freedoms— like the ability to roam around down below, within the premises of Mavos Academy.
+
+They were still strictly monitored, especially by Centina who watched over them like a hawk. So Oriur, who longed to venture down to the world below, decided against accompanying his siblings. Instead, he continued lying in his bed until he heard the clicking of the exit door locking.
+
+He waited there in silence, hearing the ticking of his bedside clock. Now, there was noone left up here. Uncle Willy wouldn’t be back until a few hours from now. So that gave Oriur time.
+
+Time to himself.
+
+Time to carry out his plan.
+
+Time to make his great escape from this prison.

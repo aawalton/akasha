@@ -1,0 +1,167 @@
+---
+id: 8fd7c989-9498-5a25-9ecf-c15f37c9a206
+page-type-slug: story-chapter-royal-road
+title: "Chapter 31: The Descent"
+slug: 0033-chapter-31-the-descent
+partOf: quiet-life-of-the-mute-archmage-op-archmage-academy
+position: 33
+ownLength: 2993
+unit: words
+publishedAt: 2026-07-11
+link: "https://www.royalroad.com/fiction/167476/quiet-life-of-the-mute-archmage-op-archmage-academy/chapter/3664004/chapter-31-the-descent"
+royalRoadId: "3664004"
+---
+
+The storm fell upon the world in a heavy, oppressive weight. Lightning crackled and split the night with deafening booms, each bolt illuminating the churning underbellies of the clouds that roiled across the sky above Tsayad. Rain continued to pour in relentless sheets, hammering the scorched forest floor and turning the ash into rivers of grey sludge.
+
+Down below, amidst the shattered trees and the mud-churned earth, Krovi's eyes trembled as he processed what he had just heard from Sebastian. "I finally found out?" Krovi repeated, his voice cracking before it shattered into wild, uncontrolled laughter. "I finally found out?! Hahaha!"
+
+He pressed a palm into the mud and pushed himself upright, his broken body trembling with the effort. Blood and rain mingled in the creases of his weathered face, streaking down through the rough grey of his beard. He sat there on the sodden earth, his gaze lifting to meet Sebastian's, and he found the young prince staring down at him with an expression of quiet amusement, the golden spear of judgment held loosely in his grip, its radiance pooling across the rain-soaked ground like spilled sunlight.
+
+Krovi shifted his gaze away. He tilted his head back and stared upward, staring into the churning sky as though the answers to all his questions were written across the face of the storm. The rain fell against his upturned face, streaking through the deep lines that time and hardship had carved into his skin.
+
+"Right from the start," Krovi began, his voice strangely calm now, as though the act of unraveling Sebastian's scheme had settled something deep inside him. "You had planned this all. Every step. Every moment." He paused, the muscles of his jaw working silently. "You already knew my strengths and my weaknesses. You knew that I cannot move my main body until I dispel my illusion formula."
+
+He glanced at Sebastian, his eyes carrying the weight of a man who had finally glimpsed the full shape of the cage built around him. A smile, weary and edged with something that might have been respect, crawled across his lips. "And you already knew where my main body was all along."
+
+Krovi shifted his gaze back toward the heavens, staring so intently at the clouds that he might have been searching for a giant formula inscribed across the sky. He opened his mouth and spoke, each word deliberate. "Because the [Illusion Dispelling] formula was already cast right from the start." He paused, pursing his bloodied lips tightly for a moment before a slight curl lifted the corner of his mouth. "By the use of a voiceless chant."
+
+He turned his head, fixing Sebastian with a gaze that held a flicker of that mad light, though now it seemed tempered by something approaching clarity. "Am I right, Your Majesty?" he asked, his tone colored with grim amusement.
+
+Sebastian stared at him for a long, measured moment. Then he raised his head slightly, his brow creasing as though giving the question genuine thought. A low hum escaped his throat.
+
+"Hmm. More or less," he replied.
+
+"More or less," Krovi echoed, tilting his head to one side. A short, humorless laugh escaped him. "More or less, you say?" He shook his head slowly, droplets of rain flying from the tangled grey strands of his hair. "You used your teammate's lack of knowledge about my abilities to make me believe that was all you knew. And you still pretended you hadn't noticed my presence here."
+
+His gaze drifted downward, settling on the muddy earth between his knees. The rain pooled in the impressions his body had left in the soil.
+
+"Upon arriving at this part of the forest, you had already cast the [Illusion Dispelling] formula with a voiceless chant. All the while, you used fast chanting as a decoy, making me believe you were still in the process of casting it." The curl on Krovi's lips widened, stretching into a grin that revealed bloodstained teeth. His eyes locked onto Sebastian's with a feverish intensity. "Since when could you use a voiceless chant?"
+
+He paused, then corrected himself with a wave of his hand, the gesture loose and almost drunken. "Ah—no, that came out wrong." He cleared his throat, the sound thick and wet with blood. "Since when did you enter the first step of ascension to become an Archmage?"
+
+Krovi watched Sebastian's face closely, searching for the flicker of surprise, the subtle tell that would betray a secret laid bare. But Sebastian's expression remained unreadable, his features as composed as carved marble. It was as though he had already known that Krovi would piece it all together. A small curve lifted his lips.
+
+"You already know the signs of ascension?" Sebastian asked.
+
+Krovi gave a short nod. His gaze shifted back to the sky as the crackling boom of thunder rolled across the heavens. He knew the signs well, the first stirrings that marked a mage's approach toward the level of an Archmage. The earliest sign was the ability to use a voiceless chant. At that stage, the mage began to feel the existence of mana as a living essence, though they were still far from knowing the deeper truth.
+
+Seeing Krovi's nod, Sebastian spoke. "The first signs began happening to me a few months ago. I don't really know the exact month it started, but I do know it was a few months."
+
+"Hmm," Krovi hummed in reply, his gaze still fixed on the sky. He knew, with full certainty, that he had lost the battle of hiding his true body. Sebastian already knew where his main form resided. His other illusion clones were already losing their battles against Zen and Fiona, their forms flickering and weakening with every passing moment. His carefully laid plan had been methodically turned against him.
+
+A small, resigned smile played on his lips. He also knew that the true battle was far from over. Krovi placed his hand to his lips and whistled, a silent, piercing sound that carried no audible note but resonated with intent across the entire forest. His command had already been sent.
+
+Sebastian immediately drove a kick into him, cutting the whistle short.
+
+"Hahaha! It's too late! The wyverns will be here any—" Krovi's voice died in his throat. His eyes flew wide, the pupils constricting to pinpricks. He breathed out a single, disbelieving word. "Impossible."
+
+His eyes shook violently. "Impossible! Impossible! Impossible!" he shouted, his voice cracking with desperation as he realized that the connections his lordship had placed upon the wyverns had become unresponsive. The link felt strangely severed, disconnected in a way that should have been impossible, because his lordship was about to descend and was still in full control. So why? Why was the connection unresponsive?
+
+"Sigh... it seems whatever you tried to do failed, huh?" Sebastian's voice cut through the rain.
+
+Krovi glanced at Sebastian, who had raised the golden spear, its blazing tip aimed toward the sky. A small curl lifted the corner of Sebastian's face as he muttered, "I hope you find rest."
+
+He hurled the spear into the heavens.
+
+Krovi's eyes widened as he watched the spear streak upward like a thunderbolt forged from daylight itself. It carved a brilliant path through the storm, its golden radiance briefly outshining the lightning.
+
+All across the forest, Krovi's bodies, all of them, began to dissolve. The clones locked in combat with Fiona and Zen frayed at the edges, their forms unraveling like mist scattered by a sudden wind. The clone that sat before Sebastian in the mud began to fade as well, his outline growing translucent, the rain falling through him as though he were made of smoke.
+
+Sebastian watched the dissolving figure before him. He watched Krovi's expression shift, the wide-eyed shock giving way to something slower, something heavier. Acceptance.
+
+A laugh escaped the fading clone's lips. It was a quiet sound, stripped of the madness that had colored his earlier outbursts.
+
+"Ah," Krovi said, his voice strangely calm. For a man like him, a man who had walked so long in the shadow of his own obsession, such calmness was perhaps the only fitting end. "What a life I've lived."
+
+He gave Sebastian one final glance. A wide smile cracked across his weathered face, and for a fleeting moment, he looked less like a maniac and more like a weary old man who had simply walked too far down a road he could not bring himself to leave.
+
+"I hope you find rest too," he said. "And maybe..." His voice began to fade, growing distant as his form thinned to nothing. "Maybe we might meet each other in the afterlife today."
+
+His wild laughter receded into the storm, trailing away on a final word that sent a chill skittering down Sebastian's spine.
+
+"Because you just helped me complete the summoning ritual."
+
+Sebastian's eyes flew wide. A curse tore from his lips as he felt the air around him plunge, not simply cooling, but dropping into a cold so deep and so sudden that it felt as though the very warmth of the world was being siphoned away. The temperature plummeted to a degree that had no place in the natural order of things.
+
+"Sebastian, something's wrong?" Fiona's voice called out to him, tight with worry, as both she and Zen rushed toward his position through the mud and rain.
+
+Sebastian gaze shot upward.
+
+High above, where the golden spear had come to a halt, its tip pressed against something invisible as though piercing a membrane stretched across the sky, a figure materialized. Krovi's real body flickered into view, suspended against the churning clouds. His eyes had lost all signs of life, rolled back until only the whites showed, pale and vacant as polished bone. Dark blood seeped from the wound in his chest where the spear had found its mark, trailing down his torso in thick rivulets.
+
+Slowly, the dark blood began to change. It deepened, darkening further still, until it was no longer red but black—black as the void itself, black as the space between stars where no light had ever reached.
+
+Krovi's body began to swell.
+
+The golden spear lodged in his chest was dyed black by the corruption of death, its radiance snuffed out in an instant. The weapon dissolved, its form eaten away by the spreading darkness until nothing remained but the swollen, pulsating shape of what had once been a man.
+
+Abruptly, Krovi's body split. It tore open like rotted fabric, and from its center, reality itself split along with it.
+
+Duuuum...
+
+A low, deep tremble sounded, a note that seemed to rise not from any single source but from the very root of the world. It was like the voice of a chorus, countless overlapping tones blending into a single, resonant hum that vibrated through the earth, the air, the rain, the flesh.
+
+The tremor swelled. It became a violent shudder, something that felt alive in its intensity, as though the world itself was recoiling from what was about to emerge.
+
+Sebastian's breath seized in his throat. It was as though invisible hands had closed around his neck, trapping the air in his lungs, refusing to let it go. His chest burned for release. The veins across his body bulged, tightening like chains beneath his skin, and his mind grew numb beneath the crushing weight of a suffocating presence. His thoughts screamed, shrieked, each pulse of warning like shards of broken glass dragging across the surface of his consciousness. The sensation pressed down on him from all sides, threatening to crack something fundamental open inside him. He was on the verge of madness.
+
+His hands moved of their own accord, clamping over his head as though to hold his skull together. The edges of his vision darkened, narrowing to a shrinking tunnel of blurred shapes and ghostly light. A scream clawed its way up his throat, desperate for release, but he bit it back, his teeth grinding together until his jaw ached.
+
+His gaze darted toward Fiona and Zen. They were just as affected as he was. Fiona's expression had twisted into something that looked dangerously close to breaking, and it seemed as though the injuries Zen had healed moments ago were reasserting themselves, the pain flooding back into her body all at once. She gasped for air, her knees buckling, but she caught herself at the last moment, forcing herself to remain standing. Zen's condition was no better. Her hands were pressed against her head, her stoic features contorted in an agony she could not fully suppress. She bit back her pain in silence, but the trembling of her shoulders betrayed the depth of her suffering.
+
+'I need to do something.' Sebastian struggled to hold onto the thought, wrestling it free from the chaos that had seized his mind. With an effort that felt like hauling a boulder up a mountainside, he lifted his gaze toward the sky.
+
+His eyes could not help but widen at what he saw.
+
+The fractured reality was widening. Each moment that passed, the tear stretched further, a wound in existence that bled not blood but a deeper, more absolute darkness. Beyond the rupture was nothing but pure, lifeless void, a darkness that made darkness itself lose its color. It was strangely almost white, and yet cloudy, blurry, as though the vision of any who dared to look upon it was being shielded, protected from the border of the underworld.
+
+From the border of death.
+
+And then, from within that darkness, a hand emerged.
+
+It was skeletal, enormous, its bones the color of ancient ivory stained by the earth of a thousand graves. The fingers, long and jointed with an unnatural geometry, curled around the edge of the fractured reality and pulled. A second hand followed, clamping onto the opposite side of the tear and wrenching it wider still, widening the fracture with the casual ease of someone parting a curtain.
+
+And then, almost like the sounding of a sudden death toll, a sound filled the world.
+
+A sigh.
+
+"Sigh..."
+
+The sound did not fade. It did not echo. It simply was, a resonance that saturated every particle of air, every drop of rain, every fiber of being. It was like a scar etched into existence itself, tuning the world to a new and dreadful frequency.
+
+A voice followed, vast and halting, each syllable stretching across the sky like the shadow of a passing moon.
+
+"How long has it been since I've seen this world?"
+
+The area where reality had been fractured began to lose its color. It was not a fading, but a corruption, the hues of the living world being drained and replaced by the gray stillness of death. Images began to draw themselves upon the air, shaping a vast formula like a sealed fate, like the dreadful certainty of an ending that could not be outrun.
+
+The first image to manifest was that of a single, inverted skull, shattered down its length, its forehead cracked and bleeding a darkness that was not liquid but the absence of light itself. This was the sign of unmade life, the seal of final negation.
+
+From its broken center, the remaining images drew outward, arranging themselves into twelve long, spear-like lines. Each one was sharp as a scythe's edge, tipped with a jet-black arrowhead that aimed mercilessly outward in all directions. Between these lines, smaller symbols spiraled into tiny, closed eyes that wept trails of smoke—each one a sliver of erased existence. This was the completed root: a root that spelled verdict, dissolution, absolute cessation, and the silence that follows a name unwritten.
+
+The structure, a great and unbroken circle, encapsulated the entire arrangement, sealing the inverted skull, the twelve deathly spears, and the weeping eyes into a single, terrible perfection.
+
+In the process of the formula's completion, the voice continued. Its halting tone caused a shudder to ripple through the world.
+
+"It seems I have uninvited guests."
+
+At that word, like light forgetting how to exist, the completed formula above was suddenly dyed a devouring black, not the black of night, but the black of a dead star, the color of a grave so deep that no memory escapes it. A faint halo of bruised violet flickered at its outermost edge, the only witness to its presence.
+
+"Why don't you die."
+
+In that moment, from the face of the completed emblem, a lance of pure, invisible death-energy screamed forth. It came without sound, without light, without mercy. It was aimed directly at Sebastian, Fiona, and Zen, closing the distance between its origin and its targets in less than a heartbeat, like the raining forth of a sentence, a thing of utter negation rather than matter.
+
+Sebastian's eyes trembled as the hair on his skin rose. Every instinct, every fiber of his flesh, his spirit, his name, the very memory of his presence, all of it screamed of a sudden and absolute death. His vision blurred, distorted by the proximity of an existence that should not exist.
+
+Then the world blackened.
+
+Everything turned to black as the world itself trembled with a violet shudder, the sensation of concept meeting concept, of one absolute force colliding with another.
+
+Something had blocked it.
+
+When Sebastian opened his eyes, his gaze landed on an unknown figure. A black-robed form floated in the stormy night sky, moving with the wind and the rain as though it were one with them, as though it had always been there and had simply chosen this moment to be seen. The hooded figure stood still, its right hand, which had been pointed toward the heavens, slowly retracting back to its side.
+
+The figure turned. It pivoted slowly in the air, orienting itself toward Sebastian's direction. From within the depths of the generous hood, a pair of glowing crimson eyes stared down at them like the end of all things passing judgment.
+
+Molly had arrived.

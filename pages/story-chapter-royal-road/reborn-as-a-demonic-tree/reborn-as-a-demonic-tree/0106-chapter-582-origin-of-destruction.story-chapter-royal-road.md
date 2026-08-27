@@ -1,0 +1,203 @@
+---
+id: ad9ca0bc-2acf-5bff-bea7-cc40cca0fd1c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 582: Origin of Destruction"
+slug: 0106-chapter-582-origin-of-destruction
+partOf: reborn-as-a-demonic-tree
+position: 106
+ownLength: 2882
+unit: words
+publishedAt: 2026-06-17
+link: "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3553693/chapter-582-origin-of-destruction"
+royalRoadId: "3553693"
+---
+
+"You serve the Origin of Rebirth," the outline stated after a tense silence.
+
+Diana let out a breath she didn't know she had been holding. The anger, thankfully, didn't seem aimed at her specifically. The outline seemed angered by the idea that the Origin of Rebirth was active.
+
+"Are you talking about Ashlock?" she asked hesitantly.
+
+"If he is the one capable of sending you here outside an Era of Ascension, then yes. This Ashlock is the Origin of Rebirth, or has ties to it so deep the distinction no longer matters."
+
+Diana couldn't believe it. "While I agree that his powers are reality-breaking at times, they don't match the image I have in my head of the Origin of Rebirth."
+
+"And what image is that?"
+
+"The Origin of Rebirth..." Diana trailed off as she tried to solidify the image in her mind. "I don't know, maybe a snake that keeps regrowing and refuses to die? Or a cultivator capable of reviving the dead? I just can't imagine a demonic spirit tree that devours enemies and raises a sect being such an Origin."
+
+The outline chuckled. "Spirit tree or not, to reduce the most powerful Origin to such a basic concept is laughable."
+
+Diana was surprised. "The most powerful Origin?"
+
+"Everything demands balance," the outline said, its two vague arms widening in the shape of scales. "An animal grows larger to fight off predators and hunt prey, but in turn, they require more food to survive. Humans have the intelligence to build wonders, but also the arrogance to write their own deaths. The Heavens are no different. For all their power, they cannot escape this law. A counterweight must exist." It let the gesture fall. "That counterweight is the Origin of Rebirth."
+
+"As powerful as the Heavens?" Diana said, unable to keep the skepticism from her voice. Ashlock was extraordinary, undeniably—but the Heavens' power had always seemed like a different category of thing entirely. Infinite, in the way that the weather was infinite.
+
+"Heaven itself is a structure," the outline said. "It organizes. It classifies. It seals. And like all structures, it grows rigid over time. It overreaches. Every clan it corrects, every Origin it casts down, every piece of the cosmos it labels tainted—all of it cascades downward. The weight accumulates. And when the weight becomes sufficient," the outline paused. "The Origin of Rebirth wakes to initiate a reset."
+
+"I don't think Ashlock is aware that he is the Origin of Rebirth," Diana said.
+
+"Origins rarely are. Some leave inheritances behind to reclaim their knowledge or power, but not all can. The Origin of Rebirth is an odd case because devouring the nine realms and the very Heavens themselves is its inheritance."
+
+"He does grow when he devours," Diana admitted, unease settling into her chest. "Frighteningly fast. But why does he pursue it without knowing what he is?"
+
+"He doesn't pursue the top of the nine realms because someone handed him a prophecy. He pursues it because that is his nature. Because that is what the Origin of Rebirth does—it grows upward, consumes, grows again, until it reaches the apex." The outline's voice dropped to something that resonated in Diana's chest like a bell struck underground. "And when it does, it consumes what it finds there."
+
+"The Heavens."
+
+The outline nodded. "Once the Heavens have been devoured, the cycle has been completed. The Origin of Rebirth will enter slumber until the cycle repeats, like it has many times before," the outline paused. "The Origin of Rebirth appearing shows that the cracks in Heaven's perfect structure have grown too wide, and collapse is imminent."
+
+Diana slowly nodded, but something didn't add up. "Why isn't the Origin of Rebirth labeled as an Archdemon? I mean, if its one goal is to rise up and devour the heavens, it seems like the ultimate enemy of the Heavens."
+
+"Without a force capable of usurping Heaven's authority, the other Origins would never have agreed to be contained," the outline said, its tone carrying the particular weight of exhaustion. "Those fools accepted Heaven's organization because the alternative was endless conflict—and the Origin of Rebirth was the guarantee that no one power could hold forever. Heaven permitted it, never truly believing the reset would come for them." The mist stirred with something old and bitter. "Your presence here suggests the Origin of Rebirth has grown considerably in power already. Luckily, without the cooperation of the Origin of Destruction, the Heavens and the fabric of reality will not fall just yet. Despite its flaws, it is best that the current reality can persist a while longer."
+
+"The Origin of Destruction." A terrible feeling moved through Diana's chest as she could perfectly picture a certain girl who matched that Origin's name. "Say—what does the Crestfallen bloodline mean to you?"
+
+The fog reacted before the outline did. It swirled outward in a sharp, startled motion.
+
+"You know of a Crestfallen?" the outline demanded.
+
+"Yes," Diana said hesitantly, unsure how much she should reveal as she felt the mist warriors sit overhead.
+
+"The Crestfallen lineage are descendants of the Origin of Destruction," it confirmed, and the words landed like stones into still water.
+
+Diana's slight disbelief surfaced before she could stop it. Even though Stella did come to mind, some things didn't add up. "Are you sure? Her bloodline grants her hyperfocus and access to her ancestors' knowledge. What does any of that have to do with destruction?"
+
+The outline once again deflated at her incompetence.
+
+"To successfully destroy something," it said, with the patience of something that had been explaining things to lesser beings for a very long time, "you require strength, tenacity, and precise knowledge of how it must be undone. Not all threats are obvious. Some demand patience. Others demand understanding that spans generations." A pause. "The Crestfallen bloodline is so fearsome because the knowledge of everything that has ever been successfully destroyed is preserved—catalogued, refined, made available to the next inheritor. The Origin of Destruction grows more efficient with every cycle. Every foe defeated, every structure unmade, every Heaven that has fallen—all of it lives in that library. When a Crestfallen focuses, they are not simply concentrating. They are consulting eons of accumulated understanding about how things break."
+
+The outline's voice turned grave. "It is imperative that the Origin of Destruction and the Origin of Rebirth never meet. Their goals will align without either of them intending it, and the fall of the nine realms will become inevitable."
+
+Not only have they met, but they are considered family, and their fates have been intertwined by Senior Lee, Diana thought, and then, by the pulse of anger from the outline, she remembered that not even her thoughts were safe. It could read her mind.
+
+"If the Origin of Destruction and Rebirth are working together, then the fall of the Heavens is all but written. We are all doomed to die."
+
+"But Ashlock and Stella are good—" Diana caught herself. "Somewhat good people. They aren't the catastrophe you're describing. They're not trying to end everything and leave it a lifeless husk. They just want to survive and live in safety like everyone else."
+
+That earned the outline's interest. "They can be reasoned with?"
+
+"I consider them my friends, or even my family at this point. The Heavens would be better off being ruled by them," Diana said adamantly.
+
+The fog moved in slow, contemplative circles.
+
+"If the Heavens are torn down and rebuilt by those who can be reasoned with," the outline said at last, "then perhaps the Origin of Mist need not be sealed again when the new structure forms."
+
+"I'll make sure of it," Diana said. The words came out with more certainty than she expected.
+
+A long silence. Then the vast outline shifted, the hall around them responding—the columns brightening slightly. Diana could feel she was being welcomed into the foggy, ruined halls.
+
+"Then come, child of the mist," it said. "It is time you met your ancestor. And became a true demon worthy of the blood you carry."
+
+***
+
+Stella stood among the ranks of Shadows in a meeting room shrouded in darkness. Over the last few days, she had successfully weaseled her way into the upper echelons of Mistress Veilshade's organization. Currently, she possessed the identity of one of the highest-ranked Shadows and stood quite near Mistress Veilshade.
+
+The Shadow Monarch in question presided over the room with the cold authority of a leader, her features hidden behind a mask bearing an unsettling smile. After surveying the room, she nodded, "You may begin with the most pressing report."
+
+"Reporting to Lady Darkness," a Shadow beside Stella stood and spoke up. "The Monarch Aldric Stonecrest, Patriarch of House Stonecrest in Empyrea, has been murdered. The Covenant claimed responsibility for the murder before it even took place, leaving no doubt as to the culprit."
+
+Stella smiled behind her mask of shadows.
+
+"The arrogance," a Shadow near her muttered in disgust.
+
+Or skill, Stella silently countered.
+
+"How long before the murder was it reported?" Mistress Veilshade asked.
+
+"Only a minute," the Shadow replied. "A letter written in blood appeared out of thin air before the Patriarch's eldest son, spelling out his death. Rushing to his father's closed-door cultivation abode, the dust hadn't even settled from the battle, and he reported seeing a flash of white."
+
+"Aldric Stonecrest was able to mount a defense then?" Mistress Veilshade said, sounding a little surprised. "Councilman Verath Tindrel was murdered without signs of battle, so this is a new development."
+
+The Shadow nodded in agreement. "It is as you say, Lady Darkness. This was not a clean murder like before. House Stonecrest's outer estate is partially destroyed. Its defensive runic formations had all been triggered. Furthermore, deep fissures found in the courtyard are consistent with earth Qi detonation. Aldric Stonecrest appeared to have put up a genuine fight before dying."
+
+"What of the assassin's marks on the battlefield?" Mistress Veilshade inquired, her fingers drumming on her armrest.
+
+"Besides the white flash his son reported, there's no evidence anyone was even there. No blood splatters, lingering Qi from spent techniques, or even footsteps in the dust. The assassin seems to have come and gone like a ghost."
+
+The news seemed to unsettle everyone, except Stella, of course. She was relishing their fear.
+
+"Aldric Stonecrest's body has also been reported as missing."
+
+Mistress Veilshade turned to the other reporting Shadow. "How do they know Aldric is dead then?"
+
+"His infant soul survived," the Shadow replied. "And is currently being transplanted into his son. Once the procedure is complete, we will try to get answers from Aldric. This assassin's reign of terror cannot continue."
+
+Stella winced behind her mask. That hadn't been part of the plan, no matter how diabolically poetic it was. The earth Monarch had been surprisingly tough to kill, resulting in the Monarch's son arriving before she could secure the fleeing infant soul. It was also one of the first times she had heard of the demonic soul-transferring ritual being performed.
+
+Maybe I should save the boy before the ritual is complete, Stella thought. That way, I can also secure that infant soul before it spreads information about my capabilities.
+
+"Two Monarchs down, and this time it was done in such a brazen way," Mistress Veilshade sighed. "It seems the All-Seeing Eye wants us to be painfully aware of their capabilities preceding the ball starting tomorrow night."
+
+"What do you suggest we do, Lady Darkness?" another Shadow asked. "At this rate, the Celestial Empire will fall."
+
+"Let it," she said coldly. "An Empire built upon lies and greed was bound to fall eventually. Also, the fact that the Chairman has abandoned us speaks volumes."
+
+A wave of chatter spread throughout the room.
+
+"If that is all, then this meeting is adjourned. Ensure the preparations regarding the ball are complete on time," she said, and with a click of her fingers, everyone vanished into the darkness.
+
+Everyone except Stella.
+
+"I was wondering when you would finally show yourself," Mistress Veilshade said, her tone level and calm. "Assassin."
+
+Stella slowly turned her head and looked at the Lady of Darkness head-on. "My presence doesn't seem to surprise you," she said, having chosen to remain behind on purpose to have another one-on-one meeting with the Shadow Monarch.
+
+"Death has always followed me as I tread this careful path, but I have to admit this is the closest it has gotten," she leaned forward, her fingers interlacing. "If you came to kill me, my head would be on the table the moment the meeting ended. What is it that an assassin of your caliber from the Covenant seeks from me?"
+
+"Answers," Stella said, idly spinning a dagger between her fingers.
+
+"I deal in information, so I'm happy to comply," she said, a tint of relief in her tone.
+
+"What do you know of the Crowned One?" Stella asked, not missing a beat.
+
+"Little," Mistress Veilshade admitted with a sigh of frustration. "He's a self-proclaimed ancestor of the Chairman, and from scarce eyewitness reports, he carries himself like one and has the authority to back it up. The Empyra guard listens to his every word without question, as if they had been uttered by the Chairman himself."
+
+"And his appearance?" Stella asked.
+
+"Similar to the Chairman, but also different. It is hard to describe, but we believe they are two distinct people."
+
+"What of his other ancestors?"
+
+"Other ancestors? We don't know of—" The table between them exploded into a million pieces and then blinked out of existence, startling Mistress Veilshade and leaving her exposed as she sat behind nothing.
+
+"Don't bullshit me," Stella said coldly. "What do you know of the Mirrored One? Are there others?"
+
+Mistress Veilshade remained silent for a long moment, and right as Stella was debating throwing a dagger near her face to show she was serious, she finally answered. "There are others. Seven in total."
+
+"What are their names?" Stella insisted.
+
+Mistress Veilshade didn't answer straight away. Instead, she crossed her legs and eyed Stella from behind that mask of hers. "After the Crowned One's appearance, I had my Shadows dig deeply into old archives. Each one's name was mentioned in passing before a pivotal event in the Celestial Empire's history—mostly purges."
+
+"Purges?"
+
+"Large civil wars that resulted in most Monarchs perishing, with the reigning Chairman stepping in to pick up the broken Empire and bring it into a new age, each one different from the last," she paused. "These archives were always hunted down and burned by Empyrea agents, so many details are missing. But one constant is that the Chairman always disappeared before a purge, and one of his supposed ancestors would reappear at the end of the Civil War to pick up the pieces and reforge the Empire."
+
+"Their names," Stella said, pointing her dagger at Mistress Veilshade. "What are they?"
+
+"We only know four of their names," she admitted. "The Crowned One, The Burning One, The Gilded One, and finally The Hollowed One. The Mirrored One you mentioned wasn't in any of the texts, and I can only begin to guess what their names mean."
+
+"So two are still missing," Stella said, lowering the dagger. "Next question. Where is the ball being held?"
+
+"The location hasn't been confirmed by The Crowned One yet," Mistress Veilshade admitted. "However, we believe it will be hosted in the Grand Hall below the World Tree."
+
+"Below?" Stella questioned. She hadn't thought to look there.
+
+She nodded. "Besides it being the largest and grandest of the halls in Empyrea, it is also heavily warded and safe from that desolation beam the All-Seeing Eye fired to kill Faelorian."
+
+"I see," Stella said, her jaw tightening in annoyance. Such a guarded place in enemy territory was less than ideal to stand up to her maker. "Then, my final question," she said, and Mistress Veilshade stiffened ever so slightly as Stella subtly released her bloodlust. "Will you betray this failing Empire and join the All-Seeing Eye?"
+
+Mistress Veilshade went surprisingly silent.
+
+Stella summoned a vial of Ashlock's cursed blood from her spatial ring, floated it over, and deposited it in Mistress Veilshade's lap. She stared down at the glass vial of black liquid as if it were a death sentence.
+
+"You said it yourself," Stella said as she stepped away from the wall, "upon the appearance of an Ancestor, a purge of Monarchs soon follows. While your death during such a purge wouldn't be guaranteed, I can say with certainty that if you do not drink from that vial, you will be a corpse by morning."
+
+She walked past Mistress Veilshade and paused with her back to her. She glanced over her shoulder and offered some parting words.
+
+"Drink our god's blood, and you will be welcomed under the All-Seeing Eye not as a slave, but as a treasured Monarch. You will have access to immortality, resources beyond your wildest dreams, and stand among the strongest beings this layer of creation has ever seen. But if you don't," she shook her head and let the words hang.
+
+"You have until sunrise, Monarch of Shadows," Stella said before vanishing into the aether.
+
+She had an infant soul to retrieve and an underground Grand Hall to investigate.

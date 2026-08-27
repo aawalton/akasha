@@ -1,0 +1,111 @@
+---
+id: 52059b07-37ef-5090-b673-ef3ec4890805
+page-type-slug: story-chapter-royal-road
+title: "Chapter 561: Neil"
+slug: 0128-chapter-561-neil
+partOf: rise-of-the-living-forge
+position: 128
+ownLength: 1576
+unit: words
+ownProgress: 1576
+publishedAt: 2026-02-18
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3068185/chapter-561-neil"
+royalRoadId: "3068185"
+markedReadAt: "2026-06-29T20:02:32.280Z"
+---
+
+An eagerness filled the air of the Mausoleum. The three hour break was over. Everyone had returned from lunch to find that, somehow, new plates of pastries and a cup of tea had been set out for all of the auction participants.
+
+Neil took his seat and settled in, taking a slow sip of his tea as he let his eyes trawl across the room. The doors had already shut and all the attendants had made their way to their chairs. But, he couldn’t help but notice that there were a few less people in the lower stands than there had been during the first round.
+
+Only an idiot would have chosen to skip out on the auction at this point. Even if they were completely out of anything worth money, it would have been smart to stick around and watch just to see what else the Menagerie were capable of.
+
+Someone could have argued that the missing people had been stuck outside while trying to get enough money to buy something during the auction. Neil wasn’t so certain that was the case.
+
+There weren’t any plates of food on the empty chairs.
+
+The Menagerie had known that some of the participants wouldn’t be returning.
+
+Dull murmurs around the room marked that Neil wasn’t the only one noticing the missing people. It wasn’t exactly like the Menagerie had tried to hide it. If anything, intentionally not putting plates out for the missing attendants drew even more attention to their absence.
+
+Did something happen? I…
+
+Madiv appeared on the center platform in a burst of black smoke, and the rest of Neil’s thoughts wheezed out like a snuffed candle. It really wasn’t his problem if a few people went missing. Perhaps the Menagerie had simply dealt with some threats.
+
+At no point did Neil’s mind even bother trying to register the fact that, if the Menagerie had dealt with someone, it meant a tiny crafting guild at the edge of the Empire had somehow defeated members representing some of the highest ranked guilds in the entire kingdom… while their hired guards remained posted up at the front doors of the Mausoleum, unmoving.
+
+“Welcome back to the 2nd round of our auction,” Madiv called. His voice echoed through the large auction house. And every single person within the hall, whether they were from one of the strongest guilds in the kingdom or simply someone fortunate enough to have attended the auction, fell silent.
+
+Not one person spoke over the auctioneer. Even in his completely over-the-top vampire outfit and what must have been fake fangs, every single person paid him complete attention. The man cosplaying as a monster in front of the hall of adventurers had them hanging on his every word.    At this point, Neil was pretty sure nobody would have cared even if Madiv really was a vampire.
+
+“As I mentioned before, we will be opening this round up with something special. Access to the VIP section of our auction house,” Madiv called. “The bid will start at 5,000 gold. Benefits to this include access to the third and final round of our auction in addition to an invite to our next auction and a specially cooked meal.”
+
+Neil’s mouth watered. It hardly even mattered that he’d just eaten. He was hungry… and not just for the food. There was no way he was going to let this opportunity pass Bronze Dragon by. The guild had been baffled at his requests, but it was the first time he’d ever asked for backing like this.
+
+His pleas had been enough to convince them to give him everything he wanted and more. With that, even though Bronze Dragon wasn’t anywhere close to the most powerful guild in this auction, he had every plan of making sure he won this seat.
+
+There’s only one way I realistically have a chance at this. Bronze Dragon doesn’t have enough respect behind our name to try to bully anyone out of the way. And to be honest, we don’t have the resources to win this in a proper fight either. There are far richer guilds than us here.
+
+I’m pretty sure there’s only one way I win this. And if I’m wrong… well, it will hardly matter, will it?
+
+Neil flexed his fingers. He leaned forward in his chair, watching Madiv like a hawk as he waited for the next words to come out of the auctioneer’s mouth.
+
+“The 2nd round of the auction will now begin!” Madiv called. “Go ahead and—”
+
+“10,000 gold,” Neil called, raising his sign high into the air. There was no flair or fear behind the words. They were just a number, cast out as if it held the same importance to him as ensuring his breakfast was prepared properly.
+
+Murmurs rose through the room immediately. The weight of dozens of different stares all fell right on Neil. He didn’t let his features so much as twitch. If he was being honest, spending 10,000 on quite literally nothing but the chance to spend more money was already ridiculous enough that the guild leader was probably going to rip him a new one if his plan didn’t work out.
+
+That was why he’d taken his ring off.
+
+Neil couldn’t afford distractions right now.
+
+“11,000,” a man across the room called as he raised his own sign. “I’ll be taking—”
+
+“15,000,” Neil said.
+
+The murmurs grew louder still.
+
+“There’s no way,” someone hissed from behind Neil. “Isn’t he with the Bronze Dragons? Do they really have that much gold they can afford to lose? All the VIP auction seats will do is let you bid against the real big dogs. It’s practically a waste of money unless you can back it up.”
+
+“I know they don’t,” another man said. “They aren’t that rich.”
+
+“How are they bidding that much, then?” the first snapped. “I — oh, shit. They’ve got to have secured backing during the break. I’ll bet they’ve partnered with another guild that didn’t come to the auction. They’re throwing everything they’ve got at this.”
+
+A smile tried to form on Neil’s lips. He crushed it ruthlessly. It took everything he had to keep his face straight. The smallest flicker of emotion could completely waste his efforts.
+
+It would be enough to reveal that they didn’t have any backing at all. Neil was just going to bet just about every single piece of gold they had on the hope that he’d be able to buy a single worthwhile item during the 3rd round of the auction.
+
+He had to save enough gold and items to actually barter at the 3rd level, but that would be a problem for later. Right now… the only thing he cared about was intimidating all the spectators into realizing that going up against him and whatever mysterious guild that people could hallucinate up to be supporting Bronze Dragon.
+
+A terse moment passed.
+
+Neil kept sitting there, unmoving. But nobody else was bidding. The room was awash with conversation, but not a single person had raised their sign.
+
+If Bronze Dragon did have some kind of powerful backer, then messing around with them too much would end up building animosity between their guilds. And at the end of the day… everyone in the normal section of the auction was visible.
+
+Anonymity to truly bid over something was reserved for the VIPs. Even though the chances of Bronze Dragon having actually secured some real backing this quickly were unlikely… everyone else still had to consider the possibility that they were annoying two powerful guilds rather than just one.
+
+Neil could practically hear the thunder of his own heart in his ears. His fingers were twitching despite his best attempts to keep it under control. Nobody could call his bluff. He just couldn’t afford to go any higher. He’d jacked the price up to well more than what any sane individual would have paid for it.
+
+Come on. Call the goddamn auction. You were always jumpy with it before. Don’t string me out here, Menagerie!
+
+A flicker of motion caught the corner of Neil’s eyes. A woman several rows down started to raise her auction card, the conflict clear in her features resolving as she came to a decision.
+
+Madiv’s lips pulled into a smile.
+
+“Sold!” the vampire called, clapping his hands together.
+
+“Shit!” the woman exclaimed. She let her hand drop back to the ground and groaned. “Damn it! I should have been faster. Fucking nutjob auctioneer. Who ends an auction without a countdown?”
+
+Relief slammed into Neil. His shoulders slumped and he sank back into his chair, letting his seat card lower. Hysterical laughter nearly burst free from his lips. He’d just spent a fortune on what very well might have amounted to nothing.
+
+It wasn’t anywhere near enough to bankrupt Bronze Dragon, of course. Large guilds could swing a hell of a lot of money around. But wasting 15,000 gold on literally nothing was a great way to get himself a very severe scolding from the guild leader.
+
+Neil barely even cared.
+
+He just collected himself, letting his fingers interlace as he settled back in. There would be no more bidding for him during the 2nd round of the auction.
+
+He’d already won.
+
+Now all he had to do was buy something good enough in the final round to make sure this victory wasn’t what the guild leader sent him to the grave with.

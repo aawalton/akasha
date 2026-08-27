@@ -1,0 +1,119 @@
+---
+id: 21fea9a5-7d04-5272-af9f-188efd4fc8d2
+page-type-slug: story-chapter-royal-road
+title: "Chapter 600: Deeper Troubles"
+slug: 0168-chapter-600-deeper-troubles
+partOf: rise-of-the-living-forge
+position: 168
+ownLength: 1641
+unit: words
+publishedAt: 2026-06-01
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3478272/chapter-600-deeper-troubles"
+royalRoadId: "3478272"
+---
+
+Arwin’s mouth felt clammy. Even the heat of the Soul Lava pumping through his veins couldn’t stop the chill from running down his back. The mere idea of the Guild having somehow found a way to directly attack the Mesh was somewhere between terrifying and laughable. He normally would have dismissed the thought instantly. There was just no way someone could target the Mesh itself. It wasn’t possible.
+
+But it was a bit harder to convince himself of that whilst staring at the Mesh’s very corpse. Something — somehow, some way — had killed at least some portion of the Mesh. And the only people Arwin could possibly attribute that to were either the Guild or Necrohammer.
+
+The Mesh was all but helping the Guild, though. It was completely aware of what they were doing and wasn’t taking any action to stop them. If I’m right… this could potentially be what is causing the world to slowly die. It could at least be part of the problem. And that wouldn’t be something the Mesh would just permit. Isn’t that the whole reason it’s trying to find other solutions?
+
+It made no sense. No matter how Arwin looked at it, there was just now way the Mesh would have been sitting around and just letting the Guild kill off portions of it whilst still wondering how the world was dying out. It would have been pretty easy to start connecting the dots.
+
+That meant that the Mesh either had absolutely no idea about what was going on here, Arwin’s analysis was completely wrong, or the Mesh was somehow aware of what was going on here and simply didn’t see it as a problem for some reason.
+
+He wasn’t sure which of those options made more sense.
+
+There was only one thing he could say for certain. These Guild Daggers were far more than what they’d thought. This wasn’t just some way for them to get more power and strengthen their control over the world. Of course, Arwin had already known the blades had served some greater purpose. Back when they’d interrogated Mask, he’d mentioned something about a hole that the Guild was pumping full of power from the daggers.
+
+But if literally any of the thoughts he’d just had were even slightly close to the truth… they’d drastically misunderstood just what the purpose of these weapons were. The answer might have been lying right in front of them. If he could figure out what the real purpose of the daggers were, then there was a chance they could figure out what the Guild was actually doing with them.
+
+I need to tell Wallace and Koyu about this.
+
+Arwin stepped back from the corpse. Leaving a Vision without actually defeating the material he was meeting with in a battle of wills had been impossible in the past. But this time was different. The darkness fell away the instant his mind pulled back, and he found himself standing in the Infernal Armory once more.
+
+He nearly tripped over his own feet in his surprise. It had been so easy to escape the Vision that it barely felt like anything at all had even happened. Wallace and Koyu both sent Arwin a concerned glance.
+
+“What happened?” Wallace asked. “It looks like you saw a ghost.”
+
+“More like a body,” Arwin replied, looking back down at the dagger cradled in his gauntleted hands with disbelief. He carefully laid the weapon back down and took a step back before dismissing the Gehenna armor.
+
+Why was that so easy? I don’t think it had anything to do with getting stronger. That Vision just felt wrong. Like I was paying a visit to an empty home. It doesn’t feel like there were two parties involved. The dagger was just… empty.
+
+“A body?” Koyu asked. “Of one the dagger had killed?”
+
+“The Mesh,” Arwin replied stiffly. “I saw the Mesh. Dead.”
+
+“What?” Wallace asked.
+
+“I know,” Arwin said. He shook his head. “But I know what I saw. It was the Mesh.”
+
+“How?” Wallace asked. “The Mesh can’t be dead, lad. My magic is still working just fine.”
+
+“He’s right,” Koyu agreed. “If the Mesh was dead, the world—”
+
+“Trust me,” Arwin said as he raised a hand. “I’m more than aware. But it was the Mesh. That wasn’t an illusion. I made certain. It was dead. And it’s been dead for a while. That Vision wasn’t like any of the other ones I’ve ever had. There’s normally a mental battle between me and the material I’m trying to speak with. But this time, there was nothing. It was like the dagger was dead before I even got there.”
+
+“How is that possible?” Wallace asked. He sent a wary look in the dagger’s direction. “Do you think it’s possible there was some kind of trap for people with increased sensitivity like you? Something to trick them into the wrong direction?”
+
+“I don’t,” Arwin said with a shake of his head. “I’m almost completely certain that was truly the Mesh. It’s too… distinctive looking. That isn’t something you can fake.”
+
+The other two men stared at Arwin for several long seconds. Then Wallace swallowed.
+
+“Well… you’ve actually spoken to the Mesh. So if anyone would recognize its corpse, it would be you. But I just don’t understand how this could be. The Mesh can’t be dead. There wouldn’t be a world left if it was gone. They’re one and the same.”
+
+Koyu let out a hiss that sounded suspiciously close to a number of different curses. “A fragment of the Mesh’s soul?”
+
+“You think something carved a portion out of the Mesh and then killed it?” Wallace asked in disbelief.
+
+“That was my theory as well,” Arwin said. His gaze snapped to Koyu. “Do you know of a technique like this? Something that Liches use?”
+
+“Yes,” Koyu said. “Soul Binding. Removing a piece of a being’s soul to permanently bind it to a piece of equipment. It was what Liches often used on themselves to create a phylactery — but it was utilized on enemies in order to create powerful weapons as well.”
+
+“Are you implying that Necrohammer is going around carving chunks out of the Mesh in order to create his daggers?” Wallace asked, pulling on his beard in thought.
+
+“Necrohammer should not have the ability to use this magic,” Koyu said slowly. “If he was doing it, then there is another involved. Soul Binding is Soulmancy. Everything I know of Necrohammer implies that he should just be a Necromancer.”
+
+“Is that exclusive?” Arwin asked. “Couldn’t he have learned?”
+
+“No,” Koyu said. “Soul Binding is one of the most powerful skills known to a Lich. The peak of Soulmancy. Necrohammer has not lived for long enough to achieve such a powerful ability. This power is not his. It must come from another.”
+
+“Which means the Guild might have a Lich standing with them,” Arwin said grimly. “That’s what you’re implying, right?”
+
+“It is,” Koyu said. “If you are correct and there is indeed a chunk of the Mesh trapped within this dagger, then there is no other option in my mind. The Guild has a Master Lich.”
+
+“Fuck,” Wallace breathed. “I thought they were all destroyed. Not even you made it through. No offense. But you’re not really a proper Lich anymore. More like the ghost of one.”
+
+“None taken. If I could choose to never have been a Lich, I would,” Koyu said. “But I was not comparable to what we may be dealing with. I never achieved the strength to use Soul Binding. I was not powerful enough.”
+
+Arwin blew out a slow breath. His eyes flicked back to the dagger. “So the Guild has an ancient, incredibly powerful Lich likely working with them.”
+
+“That is seemingly the case,” Koyu said. “But it does not answer one question.”
+
+“Right,” Wallace said. “Why would the Mesh ever permit this to happen? It isn’t known for interfering in small things, but if the Guild were actively waging war on it and carving chunks of magic away from the world… there’s no way it would just sit back and do nothing.”
+
+“It definitely would have told us,” Arwin muttered. “You’re correct about that. I don’t get it. The Mesh implied to me that it knew what the Guild was doing, and that it was necessary. But it never mentioned anything like this.”
+
+“Is there a chance it doesn’t know?” Wallace asked. He looked to Koyu. “Is there a way you can use this Soul Binding thing without the target knowing?”
+
+“Absolutely not,” Koyu replied with a firm shake of his head. “The agony of carving out a piece of your soul is impossible to miss. It is not something that could be done in secret. I — wait.”
+
+“What?” Wallace asked.
+
+It was a moment before the other man replied.
+
+“Technically, if your target were already dead, they would feel nothing. I had heard of Liches who transformed their fallen enemies into weapons in such a manner. It is immensely difficult to cut away the soul of a living being who is actively fighting against you. So if the Mesh were truly dead…”
+
+“Then it’s possible they could have done it,” Arwin said.
+
+“But how would there be a dead piece of the Mesh?” Wallace asked incredulously. “It’s not even like the Mesh has a physical form. There’s nothing to cut off or die.”
+
+Arwin’s head snapped around to look in Wallace’s direction. “That’s it.”
+
+“What?” Wallace asked, blinking. “What is?”
+
+“The Mesh does have a physical form,” Arwin whispered. “I’ve seen it. And so has Koyu.”
+
+“What?” Wallace asked. “What do you mean?”
+
+“Leylines,” Koyu breathed, his eyes going wide in realization. “The areas of the world where the Mesh is made manifest. The Guild has access to a Leyline.”

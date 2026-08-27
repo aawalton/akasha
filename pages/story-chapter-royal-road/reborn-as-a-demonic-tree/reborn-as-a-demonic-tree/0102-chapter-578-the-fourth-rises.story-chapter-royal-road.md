@@ -1,0 +1,213 @@
+---
+id: afc9f09c-032a-5b09-8cde-556138a16736
+page-type-slug: story-chapter-royal-road
+title: "Chapter 578: The Fourth Rises"
+slug: 0102-chapter-578-the-fourth-rises
+partOf: reborn-as-a-demonic-tree
+position: 102
+ownLength: 3156
+unit: words
+publishedAt: 2026-06-08
+link: "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3510932/chapter-578-the-fourth-rises"
+royalRoadId: "3510932"
+---
+
+Whether he wanted to eat the Monarch or turn it into an Ent, he needed to decide quickly. Just holding the Light Monarch's corpse burned Ashlock in more ways than one.
+
+Incredibly pure Light Qi poured from the corpse's decapitated neck like molten sunlight, eating through the man's robes before dripping to the floor in pooling rivers of refined brilliance so intense they seared Ashlock's spiritual gaze and threatened to extinguish the void of the Hellroot Abyss.
+
+Ashlock briefly looked away. It didn't help.
+
+Still, compared to Faelorian's death—which had nearly collapsed the Hellroot Abyss, briefly turned it into a verdant volcano, and would have drowned the entire region in enough lifeforce to turn it into a sacred land had Bob not been dragged in to contain the disaster—this was far more manageable.
+
+Which raised questions.
+
+Even after cutting Faelorian into pieces and feeding him to the abyss, his death had been reminiscent of a nuclear disaster. When a Nascent Soul Realm or lower cultivator died, their Qi simply dissipated back into reality, and their soul was shipped to the afterlife to be recycled.
+
+Monarchs, on the other hand, were walking natural disasters.
+
+Inside their souls, they had formed an Inner World and could create pocket dimensions. Such a powerful being didn't move quietly, even in death.
+
+So what made this Monarch different?
+
+Despite the burn, Ashlock tore open a rift and decided to analyze the corpse with his Evil Eye.
+
+[Your gaze now has true sight. You can see through any barrier or illusion created by Qi. Your ability to perceive the flow of Qi in your surroundings and people has also increased significantly]
+
+His vision turned blindingly white.
+
+[WARNING: Soul Forest has been triggered]
+
+"Peering into a Monarch's Soul Cosmos is enough to trigger my soul forest?" Ashlock mused with interest as his true sight and soul forest worked in tandem to gaze into the core of a sun. His consciousness buzzed loudly as he forced his way inside, and what he found amazed him.
+
+"His soul, infant soul, and Inner World... are all intact," Ashlock muttered. "Did Stella decapitate his brain from his soul so quickly that his soul didn't even register his death?"
+
+That was the only conclusion Ashlock could draw for why the Monarch's Soul Cosmos hadn't entered a stage of collapse with the death of the vessel ruling over it, though signs were starting to show. The Inner World was dimming, and the infant soul seemed ready to detach itself from the Soul Cosmos in search of a new host.
+
+"Hold on a second," Ashlock said as a realization dawned on him while watching the infant soul attempt to flee. "System, you want me to devour Monarch Realm beings. But if I have a perfectly intact Monarch's soul and their infant soul, would that count for two, or still only one? In fact, what even is an infant soul?"
+
+There was a long pause, and Ashlock thought the system wouldn't humor his inquiry. "I guess not then—" he began, only to be surprised by a wall of golden words consuming his vision.
+
+[An infant soul is a lesser reflection of the primary soul. Without undergoing assimilation, it retains a mere echo of the primary soul's memories or dao knowledge. It is, in essence, a ball of Qi awaiting the imprinting of memories and dao knowledge for a vessel transfer. The assimilation is usually deliberate, but under the threat of death or the collapse of a Soul Cosmos, the infant soul can quickly assimilate and flee in search of a new suitable vessel.
+
+The purpose of devouring nine Monarchs for your quest is to harvest both their Qi and their latent dao comprehension. As this corpse's infant soul has not undergone assimilation, it holds neither. Only devouring the primary soul will count toward quest progression]
+
+Ashlock scanned the surprisingly long system message, mentally nodding along as he went. The message confirmed that the primary purpose of infant souls was to serve as a secondary Qi reserve and generator until the time came for the cultivator to switch vessels. At that point, they would use that demonic technique Stella had found, which allowed cultivators to imprint their infant soul into an appropriate vessel—usually one of their children.
+
+"Realizing his inevitable demise, Faelorian's infant soul must have forcefully begun the assimilation process, which I then interrupted by tearing him apart, likely explaining why his death was so violent," Ashlock mused as he quietly watched the Light Monarch's Soul Cosmos, which still pulsed faintly with embers of life, unaware that its vessel was dead but growing suspicious.
+
+Ashlock felt this was a rare opportunity.
+
+If the system only deemed the primary soul worthy of devouring, that gave him an infant soul that he could do as he pleased with. If he devoured the Monarch, that left the infant soul without a vessel. Should he feed it to a Fleshfruit tree and grow a new Light Monarch?
+
+"No, that would take too long," Ashlock concluded. He needed firepower today, not months from now. Besides, he wasn't even sure the Fleshfruit trees could grow bodies yet, with Morrigan's yet to develop into a proof of concept. Since this infant soul only had echoes of the original soul's memories, would it be knowledgeable enough to guide a Fleshfruit tree in growing a body without assimilation first?
+
+Ashlock didn't think so. After all, the infant soul was just an echo.
+
+What was the next step down? An option that gave him the firepower of a Monarch but without taking months. Naturally, his attention returned to his original idea of using his SSS-grade skill, Necroflora Overlord. With it, he could turn the corpse, and more specifically, the infant soul, into an Ent.
+
+"If I could somehow separate them, then making an Ent out of the infant soul shouldn't be too hard," Ashlock decided. "This way, I get the best of both worlds. Sacrificial credits, light dao comprehension, and progress on my quest by devouring the primal soul and vessel, while also gaining a Monarch Realm light Ent to blast the Celestial Empire with."
+
+Ashlock had one person to thank for all of this, and he couldn't be prouder of his daughter. Though that still didn't excuse what she had done for said power, but that was a discussion for another time.
+
+"I'm going to bring this corpse back to my Inner World," Ashlock said, tearing open a portal. "You two stay here and protect the Hellroot Abyss. Despite my efforts to contain the leaking Light Qi, I bet they could see the radiant glow from the Celestial Empire through the blanket of desolation. Also, while Khaos has been doing a great job preventing infiltrators thus far, if they increase in number, she may be overwhelmed."
+
+"I will lend assistance to General Khaos and lay down my life if necessary," Cyphion said, bowing respectfully. Ashlock wasn't sure if it was the experience of dying and being brought back to life by Larry's domain or seeing a decapitated Monarch delivered by Stella as a mere snack, but Cyphion looked thoroughly spooked into servitude.
+
+Not that Ashlock was complaining; It would make eating him in the future easier.
+
+Returning to his Inner World with the corpse, he set it on the ground on the 'dark side' of his Inner World, far from Stella's home. He stared at the blindingly bright body leaking Light Qi for a long moment and quickly realized he had no idea how to extract the infant soul from the Soul Cosmos without causing an incident like Faelorian again. Sure, he could devour the body or try to tear them apart with his rudimentary knowledge of soul dao, but that would result in disaster.
+
+He had to be surgical about it.
+
+"System, help me separate the souls."
+
+[You possess no such abilities]
+
+Ashlock mentally scowled at the message. "Can't I use divine energy or something?"
+
+[While divine energy has boundless applications, you still have to know how to wield it]
+
+Ashlock was once again stumped and didn't have time to waste. Every passing moment, the Light Monarch's soul became more aware of its vessel's demise, and if the assimilation was triggered, he would be forced to devour the corpse and risk losing the chance to make a Monarch Ent.
+
+"Could Stella use her Aether Qi to do it? Possibly, but she is doing great work in the Celestial Empire right now. Maple did something to Ao's soul, but he's with Stella. Elaine might be able to help, but she's no expert on souls and too weak to get so close to a dead Monarch." Ashlock ran through everyone he knew until there was only one left: a powerful being he had heralded for over six thousand credits into the world and sent away just as quickly to protect himself and everyone else.
+
+His one and only [Mythical] grade summon, the Netherwood Wraith, Nyxalia. Said to inhabit the liminal space between the realms and feast on wandering souls, when he summoned the egoless creature, he hadn't been strong enough to control it. Forced to somehow bind this monster to his control or risk being devoured by one of his own, Nox had willingly implanted her infant soul into the Netherworld Wraith, turning it into a Netherwood Wraith. However, unable to resist the madness brought on by the creature's intense hunger for souls, she fled as far from Ashlock and the others.
+
+"If there was someone who could isolate a Monarch's soul, it would be a Mythical-grade being that can tear souls from still living cultivators and feast on them," Ashlock mused.
+
+While he didn't know what Nyxalia was up to right now, she was connected with Nox and had been feeding Tartarus souls that Nox twisted into shadow beings that challengers of Tartarus got to fight.
+
+"Nox," he called out through his ethereal root network. "Could you inform Nyxalia to return and meet me in my Inner World?"
+
+"Are you sure that is wise, Patriarch?" Nox replied. "Nyxalia has gotten control of herself to an extent, but her body still hungers for souls. Inviting her into your Inner World could result in dire consequences."
+
+Ashlock looked around his Inner World. His Desolation Qi infused with Desolation Law churned overhead, and his Soul Forest skill still buzzed in the back of his mind. While Nyxalia was a Mythical grade being, meaning she was at the peak of the Monarch Realm, or even in the Sovereign of Realities realm, this was still his Inner World. If there was a place he was strongest, it was in here.
+
+"I'm not the same weakling as when I summoned her," Ashlock reassured Nox. "It's time she came home."
+
+"Understood. She will be there shortly—"
+
+Nyxalia abruptly appeared beside the corpse in all her otherworldly glory.
+
+Inhumanly tall to the point it was monstrous, she appeared as a wraith-like woman with a body made of twisted roots and ghostly branches. Even through his Evil Eye's true sight, Ashlock struggled to keep her in focus. Her form shimmered between reality and somewhere else.
+
+Nyxalia looked around with translucent, glowing white eyes. Unlike Stella's, which turned an unsettling milky white with her domain, Nyxalia's seemed like swirling portals to a blank dimension.
+
+Atop her head was a crown of dark wooden antlers that radiated the chill of death as she rose into the air, giving Ashlock a better look at her ethereal body, which trailed a cape of shadowy tendrils as if she needed to stay connected to the ground, now far below her.
+
+"It's been a long time, Master," Nyxalia said, her voice like a distant whisper.
+
+"It sure has. I believe the last time we crossed paths, Stella had cut a Skyrend Elder in half, and you needed to calm her down," Ashlock said as he watched her intently. "How does it feel to be in my Inner World? Does your body hunger?"
+
+Nyxalia laughed. "It always hungers, but not for you. Desolation Qi is like poison to beings like me," she scrunched her nose. "Being in here is unpleasant, to say the least."
+
+Ashlock didn't take the backhanded insult to heart and was rather relieved to hear his affinity was poison to her. The last thing he wanted was to appear tasty to a barely restrained interdimensional being that feasted on souls.
+
+"I hope you can bear with it for a moment, as I need your assistance with something," Ashlock said, not needing to specify what. The corpse had already captured Nyxalia's attention. "I need to split the infant soul from the Monarch's Soul Cosmos without triggering its realization that it is already dead. Do you think you could extract the infant soul for me?"
+
+Nyxalia contemplated for a long moment, her shadowy tendrils cautiously slithering around the corpse. "I could," she eventually concluded. "But I've not feasted on an infant soul from a Monarch before—"
+
+"You are not to eat the infant soul or the Monarch's soul. I need both intact," Ashlock clarified. "I'm sorry, but I didn't bring you here for a meal."
+
+"In that case, this is going to be a real test of my self-restraint," Nyxalia smiled warily. "The Netherwood Wraith may seize control and devour the infant soul, or even all of it."
+
+That gave Ashlock some pause. If he lost the infant soul to this experiment, it would be dire but not the end of the world. To lose the whole thing... he would be furious. He pondered for a long moment. Could he stomach such a loss? Was it worth the risk?
+
+"Could you eat some of my fruits first?" he asked. "I have ones that could stabilize your control."
+
+"The Netherwood Wraith can only eat souls," Nyxalia patiently informed him, but she was visibly growing increasingly uncomfortable with every passing second. "A fruit would go right through me as if I were a ghost."
+
+"I see. That is unfortunate," Ashlock said and thought about it for a while longer.
+
+"Have you planned what to do with the infant soul once it is separated?" Nyxalia spoke up. "Souls, when taken out of a vessel, become highly unstable. I'd suggest having a vessel ready to implant it into before we begin. Otherwise, it might react violently with your Inner World and explode."
+
+Ashlock didn't like the sound of that. His Inner World was where he was strongest, but a Monarch's infant soul going supernova inside? Not a chance he could contain that, not after remembering the lengths he had to go to contain Faelorian's soul.
+
+"I was going to turn the infant soul into an Ent," Ashlock admitted. "But now that I think about it, could you put the infant soul into an existing Ent?"
+
+Nyxalia nodded. "If they are of the same affinity, it should be possible. Your Ents are basically soulless creatures, besides your Generals, so they won't reject an implanted one."
+
+"Then I have an idea," Ashlock said, opening a portal and calling Sol through. Currently, at the peak of the Star Core Realm, it was an Ent he would be thrilled to have in the Monarch Realm.
+
+Nyxalia nodded approvingly at Sol's presence. "Should I begin?"
+
+"Please do," Ashlock said.
+
+Nyxalia's white eyes drifted back to the corpse, her gaze piercing the brilliance like Ashlock's Evil Eye, and she peered into the Soul Cosmos, still faintly pulsing in its chest.
+
+"It will fight me," she warned.
+
+"The infant soul?"
+
+"Light law," she corrected. "Even unassimilated, even dormant, a Monarch's light will react to my intrusion. It won't have intent. It's more like—a reflex." She drifted closer to the corpse, and the shadow that trailed behind her seemed to flatten against the grass as she neared the radiance bleeding from the decapitated neck. "Like a sleeping beast that still bites when you reach into its mouth. This is going to hurt."
+
+"What will you do then?" Ashlock asked with concern.
+
+"I'll be quick."
+
+Nyxalia reached into the corpse without hesitation.
+
+Not with her hands. They never moved. Something else did—an extension of her that existed between the real and the beyond, the part of her that was the Netherwood Wraith. It slipped through the corpse's flesh as though it weren't there and found the Soul Cosmos beneath: the dimming primary soul and, orbiting it, the smaller, brighter infant soul, already straining at its anchor.
+
+She found the thread connecting them and pulled on it.
+
+Sensing the foreign entity, the dying light erupted, hitting her like a physical blow.
+
+Nyxalia's form flickered, the edges of her that were always slightly out of phase with reality snapping sharply into focus as if the light had forced her to be real for a moment, pinning her there against her nature. Her antlers cracked with a sound like splitting bark, white fire racing up the points before rupturing out like exhaust.
+
+Ashlock swiftly mobilized his divine energy around Nyxalia to contain the leak.
+
+"It burns," she seethed through her teeth, but didn't relent. Pulling harder through the pain, the infant soul was stubborn at first, then all at once with a final pull, the infant soul was free.
+
+It was a small, brilliant thing trailing light like a comet's tail, condensed from an entire Monarch's lifetime into something that looked almost fragile now that it was separated from its source.
+
+Nyxalia stood very still, arm extended, the infant soul blazing between her ghostly fingertips. Before it could explode, she pivoted and thrust it into the floating orb that served as Sol's head.
+
+[Immense influx of foreign Qi detected in the Ent designated as Sol]
+
+[Monarch Realm infant soul identified. Latent cultivator's instinct attempting to assert dominance over vessel...]
+
+The ground cracked.
+
+Light detonated outward from Sol in a silent, blinding pulse that scorched the Inner World grass in a perfect circle and radiated out. Ashlock threw his Soul Forest up like a wall to protect the rest of his Inner World from annihilation.
+
+[Foreign entity purged. Entities enslaved by the Necroflora Overlord skill cannot be seized from your control]
+
+There was a brief silence, but he could feel his system at work. Divine energy danced through the air around Sol as the Ent in question had fallen to his knees, with his ball of light glowing brightly like a sun.
+
+[Vessel insufficient to contain Monarch Realm soul energy at current cultivation stage. Evaluating options...]
+
+[Solution identified: Promote Sol to General class]
+
+[Warning: Standard promotion cost of 1,000 SC will be incurred, and divine energy reserves will be consumed. Estimated cost: significant]
+
+[Proceed?]
+
+Ashlock didn't care how much it cost. He thought it was impossible to gain more than three Generals, so when granted the opportunity for a fourth, he would take it.
+
+"Do it."
+
+[Understood. Promoting Sol to General class...]
+
+Ashlock watched in anticipation as the first Monarch Realm Ent was born from the dimming star of a slain Monarch.

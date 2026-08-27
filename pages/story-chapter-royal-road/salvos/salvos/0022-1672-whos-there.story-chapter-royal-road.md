@@ -1,0 +1,121 @@
+---
+id: bcaf44d1-dd8b-5cba-b8c8-ff839a23bec8
+page-type-slug: story-chapter-royal-road
+title: "167.2. Who's There?"
+slug: 0022-1672-whos-there
+partOf: salvos
+position: 22
+ownLength: 1339
+unit: words
+publishedAt: 2021-08-17
+link: "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/735279/1672-whos-there"
+royalRoadId: "735279"
+---
+
+167.2. Who's There?
+
+“Don’t let up! We need to hold them off until the city is fully evacuated!”
+
+Judging by the haphazard mess of the streets below, I highly doubted that that would happen anytime soon. I didn’t join Edithe as she decimated dozens upon dozens of monsters at a time.
+
+“I’m not really good at fighting from afar.”
+
+The guard captain narrowed her eyes.
+
+“I… then help your friend down below—”
+
+But Daniel cut her off.
+
+“Salvos, you can fly, can’t you?”
+
+I paused, tilting my head back.
+
+“Yes?”
+
+“I know it’s a risk, but—”
+
+“You want me to fly over them and burn them to slow their approach, don’t you?”
+
+He pursed his lips but did not deny it. I hefted my sack and leaned it against the wall.
+
+“I’ll do it. Just do your thing, alright?”
+
+“Thank you.”
+
+He ran down the steps as I took a deep breath. There was a spark. A blue glow that descended upon me. I wreathed my body in flaming armor. It almost solidified around me, protection equivalent to a Medium Grade Armor. Then I spread my arms wide, the flaming armor unfurling behind my back.
+
+It covered the wings that sprouted from my skin, burning the black blood before anyone could see it oozing off me. Or would it be red blood, since I was ‘partially mortal’? A pair of brilliant, burning wings revealed itself as heads turned to face me. I grinned, lying as I whispered.
+
+“Flaming wings.”
+
+Was that even a real Skill? I just said it so people would think I wasn’t using a Skill that only Demons had. The guard captain seemed fooled by it, at least.
+
+“That’s…”
+
+I patted Edithe on the shoulder before leaping off the walls. The guard captain stared for a moment, before snapping at the other watchers to focus on the monsters.
+
+As I soared through the air and got closer to the army of vicious, terrifying creatures, I readied myself for what was to come. I spotted the Saeves down below, already picking up rocks. The Gatho Mammoths wouldn’t be able to reach me, but the Scavenger Yetis had powerful ice magic to toss my way.
+
+And the most worrying one of all were the Mindreapers. I squinted at the figures floating far above the others, like they were somehow better than the others. And they were, in a sense. They were what enabled this army to form.
+
+I knew what to do. But first, I had to draw their attention.
+
+I quickly zipped over the front lines of the army, releasing a flaming breath into their numbers. It incinerated everything in an instant as I flew over them, mouth open, spewing powerful, magical flames. Hundreds of monsters died. They stood no chance against me. The ones behind them tried to fight back. They slung magic and projectiles my way, but I mostly managed to avoid their flurry of attacks.
+
+Some struck true. When a thousand pebbles were thrown, even I couldn’t avoid all of it. But I wasn’t an idiot. I knew what to dodge and what to ignore. The small orbs of fire would splash off my magical protection. But the lances of ice, the boulders that were hurled high up into the air, and the bolts of lightning would have actually been felt if I weren’t protected.
+
+So, I evaded those. I made sure those didn’t touch me. I managed to stave off taking any damage for the longest while… until I heard the sound magic blaring in my ears.
+
+Ground Cravers leapt up at me, screaming their unavoidable attacks. I blew them apart as fast as I could, seeing the ripple that ran over my body. My Pendant of Greater Protection managed to repel their assault. It was the only thing that stood between myself and the sound magic. It was a strong magical barrier over my body itself. However, it wouldn’t hold up against what was to come next.
+
+I looked up at the Mindreapers rapidly descending upon me. They came by the dozens, the mild effects of their mind magic quickly amplifying as they edged closer and closer. I took a deep breath as a hot feeling boiled in my chest. Then I released it with an explosive speed. A sphere of flames shot out and exploded amongst the Mindreapers. A dozen of them dead from that single blast.
+
+But more came. And the magic— the aura of protection around my body— grew weak. I unleashed one more powerful blast against the Mindreapers, before fleeing. I felt the Pendant of Greater Protection begin to fail as I sped back to the walls.
+
+“Yep. Their mind magic is as annoying as ever.”
+
+There had been a lot of close calls when I was in the Brilsum Ruins. And while I have leveled plenty and grown far more durable since then, I was still very much vulnerable to their magic. Back then, I struggled and nearly died fighting single Mindreapers. Now, one of them alone wouldn’t be a problem, but there were hundreds, all using their mind magic at the same time.
+
+“Nope. I’ll definitely die if I engage them for too long. However…”
+
+I glanced back at the army of monsters. A lot of Mindreapers had died. That didn’t break the monsters from their sleep-induced hallucinations. That much was clear from my past encounters with them. But now you could break them free with just the right push.
+
+I bared my teeth and pointed.
+
+“Kneel before your Princess!”
+
+I screamed as loud as I could. My words were carried over the first rows of monsters. All at once, hundreds of monsters were freed from their sleep. It was an effect of [Intimidation]. It wasn’t like [Zealous Call], which instantly freed them from their madness. It only freed the ones who were being led by the dead Mindreapers.
+
+They thrashed and turned against one another. Those leading the charge of the army were thrown into disarray. I didn’t get the experience for what they did, but that hardly mattered.
+
+It slowed them nonetheless.
+
+I landed back on the walls, laughing and spreading my arms wide.
+
+“That was dangerous. Especially when they all concentrated their magic on me. Good thing I’m amazing at surviving, right Edithe? That could have gone very long if I stayed out there for too long.”
+
+I glanced over at the red-haired woman— past the rows of adventurers and guards unleashing what they could at the faraway army. I was expecting them to cheer for me or shout praises for what I accomplished, but they were far too engrossed in what they were doing.
+
+I shrugged and went to pick up my sack. I paused when it wasn’t there.
+
+“Edithe, did you take my potions? Edithe?”
+
+She didn’t respond. I looked over at her, not paying any attention to me. Then my eyes widened as I looked past her, at the city walls far from where I was.
+
+“What?”
+
+The crenellations around me vanished, bubbling into a colorless gas. I spun around in a panic as a shadow loomed over me.
+
+A creature stood there. A winged being with a bulbous body. It had six legs, each bent at odd positions, crooked and wretched. It stared at me with obscenely round eyes, a crimson gaze that bore into my soul.
+
+It was… not an it. No— it was a he. And he was here. I identified him and saw nothing. But the illusions were enough to clue me in to who he was.
+
+Belzu himself appeared. He looked like an abomination of an insect, doubling me in size and height even when I was overtaken by [Demonic Essence]. And he smiled.
+
+“Ah, those wings… a [Changeling], then? Or perhaps a [Succubus] or a [Cambion]?”
+
+Shaking his head, he took a step forward. With the click of his leg, the world around me vanished, and his voice was all I could hear.
+
+“It doesn’t matter. You’re in the way.”
+
+[Hellprince - Lvl. 151]

@@ -1,0 +1,315 @@
+---
+id: b78882e3-20f0-59de-8bc6-038feaa98487
+page-type-slug: story-chapter-royal-road
+title: "40. Survivor (End of Volume 1)"
+slug: 0007-40-survivor-end-of-volume-1
+partOf: salvos
+position: 7
+ownLength: 1877
+unit: words
+publishedAt: 2021-01-22
+link: "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/618813/40-survivor-end-of-volume-1"
+royalRoadId: "618813"
+---
+
+40. Survivor
+
+Skill [Passive - Blue Flames] Learned!
+
+Experience is awarded for the learning of a Skill!
+
+Defeated [Ghastly Djinn (Destroyer) - Lvl. 68]!
+
+More experience is awarded for defeating an enemy at least 20 levels above you!
+
+More experience is awarded for defeating an enemy with the Title Destroyer!
+
+Less experience is awarded for defeating an enemy with the help of others!
+
+Experience is awarded for saving the city of Silvergrove!
+
+More experience is awarded for liberating the province of Falisfield from the Destroyer’s rampage!
+
+[Zelus Imp – Lvl. 36] -> [Zelus Imp – Lvl. 37]
+
+Gained 5 Stat Points and 3 Skill Points!
+
+[Zelus Imp – Lvl. 37] -> [Zelus Imp – Lvl. 38]
+
+Gained 5 Stat Points and 3 Skill Points!
+
+[Zelus Imp – Lvl. 38] -> [Zelus Imp – Lvl. 39]
+
+Gained 5 Stat Points and 3 Skill Points!
+
+[Zelus Imp – Lvl. 39] -> [Zelus Imp – Lvl. 40]
+
+Gained 5 Stat Points and 3 Skill Points!
+
+Salvos
+
+Species: [Lesser Demon]
+
+Subspecies: [Zelus Imp] - Lvl. 40
+
+General Skills:
+
+[Basic Mana Manipulation] - Lvl. 5
+
+[Identification] - Lvl. 4
+
+[Racial Skill: Universal Language Comprehension] - Lvl. 1
+
+[Rest] - Lvl. 2
+
+Stats:
+
+[Available Stat Points: 0]
+
+[Vitality]: 37
+
+[Strength]: 24
+
+[Endurance]: 50
+
+[Wisdom]: 57
+
+[Agility]: 76
+
+Skills:
+
+[Available Skill Points: 12]
+
+[Basic Fire Creation] - Lvl. 30 (Maxed)
+
+[Double Step] - Lvl. 10 (Maxed)
+
+[Fire Strike] - Lvl. 10 (Maxed)
+
+[Fire Blast] - Lvl. 20 (Maxed)
+
+[Flame Coat] - Lvl. 10 (Maxed)
+
+[Passive - Blue Flames] - Lvl. 1
+
+[Passive - General Tool Proficiency] - Lvl. 10 (Maxed)
+
+[Evolution Available]
+
+[Titles Available]
+
+Species Evolution:
+
+[Lesser Demon] -> [Greater Demon]
+
+Requirements for five Subspecies evolutions have been met!
+
+Subspecies Evolution:
+
+[Changeling]
+
+A [Changeling] is a Subspecies of Demon that uses deceit and trickery to fool enemies. As a natural Greater Demon, [Changelings] are rare and powerful, able to change their forms to that of other Demons as part of their natural abilities.
+
++5 to [Strength]
+
++5 to [Wisdom]
+
++5 to [Agility]
+
++3 to [Vitality]
+
++3 to [Endurance]
+
+[Fiend of Infernos]
+
+A [Fiend of Infernos] is a [Fiend] that aspires to master fire magic. Fighting with a storm of flames, a [Fiend of Infernos] has become one with fire and is thus more resilient to it.
+
++8 to [Wisdom]
+
++7 to [Endurance]
+
++1 to [Vitality]
+
++1 to [Strength]
+
++1 to [Agility]
+
+[Midday Changeling]
+
+A [Midday Changeling] is a [Changeling] that has interacted a great amount with mortals, asking many questions about their ways. Curious and adaptive, a [Midday Changeling] may not be as powerful as a [Changeling], but they are just as dangerous due to their cunning mind. They are able to change their forms to that of mortals to live amongst them, or kill them if necessary.
+
++6 to [Wisdom]
+
++3 to [Vitality]
+
++3 to [Strength]
+
++3 to [Endurance]
+
++3 to [Agility]
+
+[Succubus]
+
+A [Succubus] is a Greater Demon that tends to use wit and intelligence to solve their problems, although they typically have strong magic too. [Succubus] are only female, and can make minor adjustments to their biology as they see fit.
+
++8 to [Wisdom]
+
++5 to [Endurance]
+
++2 to [Vitality]
+
++2 to [Agility]
+
++1 to [Strength]
+
+[Valefor Hellhound]
+
+A [Valefor Hellhound] is one of the rarest forms a [Hellhound] can take. Fast above all else, a [Valefor Hellhound] uses their sharp claws to rip apart their enemies. While four legged, they are able to walk on just two if need be, however it would inhibit their speed and movement greatly.
+
++10 to [Agility]
+
++5 to [Strength]
+
++5 to [Endurance]
+
++1 to [Vitality]
+
++1 to [Wisdom]
+
+Titles for Great Feats:
+
+Requirements for two Titles have been met!
+
+Titles:
+
+(Death of the Destroyer)
+
+You have slain the one called the Destroyer in battle! You have proven yourself and succeeded where many others have failed, defeating one with a Title where you have none! Your abilities are thus made even more exceptional!
+
++5 to [Vitality]
+
++5 to [Strength]
+
++5 to [Endurance]
+
++5 to [Wisdom]
+
++5 to [Agility]
+
+(Savior of Falisfield)
+
+You have liberated Nixa’s largest province of Falisfield from a rampaging Greater Demon! You have saved the city of Silvergrove from falling, and avenged all those who have been killed in the destruction! You are a hero in the people’s eyes!
+
++3 to [Vitality]
+
++5 to [Strength]
+
++5 to [Endurance]
+
++3 to [Wisdom]
+
++3 to [Agility]
+
+Ever since I came to the Mortal Realm, I had been fruitlessly trying to find my way back to the Netherworld. I was worried about Haec— my companion. I feared that he would be lost without me. That a wild Demon would kill him now that he was alone.
+
+So I tried my hardest to return; I spoke to everyone who would speak to me, I inquired wherever I could. But none could produce an answer I wanted.
+
+It was then not unexpected now to hear that I wouldn’t be able to make it back; Edithe reassured me that there had to be another way, and Daniel promised he would continue to help me. However, as I focused on my Subspecies evolution and Titles, I knew only one thing: I was going to be stuck in the Mortal Realm for a while.
+
+There was nothing I could do about it. I was not sure how long it would take me to return to the Netherworld— to my companion. I just had to trust that Haec was capable of fending for himself. He had been considered to be special by Lucerna, after all. It only made sense that he would then be able to survive without my help.
+
+For now, I did not focus on what could possibly have happened. Instead, I reveled in the moment. Edithe, Daniel, Druma, Mistshard, and I walked out of the city gates with Lucerna’s body in tow. The surviving guards stared at the corpse, then at us.
+
+For a moment, no one spoke a word. Then, the Level 50 [Warrior] guard I saw earlier opened his mouth.
+
+“These brave adventurers have saved Silvergrove! The Destroyer is dead!”
+
+Guards, adventurers, and civilians broke out into a cheer. Some hugged each other in relief, while others jumped up in the air. Only a few collapsed to the ground, with tears streaming out of their eyes.
+
+I looked around at all the Humans. They all recognized me. They saw me, even when I had my hood up. It was such a cathartic feeling, one that curled my lips up.
+
+I glanced at these celebrating Humans. They had all been terrified of Lucerna. Mostly because he had been terrorizing them and killing their people, but also because he was a Demon. I didn’t know why, but apparently Demons weren’t liked by Humans even when they weren’t destroying everything.
+
+So I was now stranded in a place where I would be in constant danger. It was a place where even would have eventually fell even if I hadn’t intervened. Lucerna, a Greater Demon that was stronger than me. A Level 68 [Djinn] that outpaced even my leveling speed.
+
+He was strong, and yet he died here. In this Mortal Realm that I was now left in, I would have to do whatever it took to survive. I was not as strong as Lucerna. But Lucerna made foolish choices. He wanted to die.
+
+I would not do the same. I was Salvos, not Lucerna. I would make decisions that would increase my odds of survival. Being higher leveled may not guarantee survival as evinced by him, however it would increase my chances. There would never be a perfect chance of surviving, but that was the same as it had been in the Netherworld. The Mortal Realm was no different in that sense, every day was a risk in both. And just like in the Netherworld— until I returned to the Netherworld— I knew that I...
+
+Evolution Complete!
+
+[Lesser Demon] -> [Greater Demon]
+
+Subspecies [Zelus Imp] has evolved to [Midday Changeling]!
+
+Gained 10 Stat Points!
+
+[Wisdom] +6
+
+[Vitality] +3
+
+[Strength] +3
+
+[Endurance] +3
+
+[Agility] +3
+
+Gained 2 Skill Slots!
+
+Gained 3 Skill Points!
+
+General Skill [Basic Mana Manipulation - Lvl. 5] becomes [Advanced Mana Manipulation - Lvl. 1]!
+
+General Skill [Racial Skill: Mortal Form - Lvl. 1] Obtained!
+
+Skill [Basic Fire Creation - Lvl. 30] becomes [Advanced Fire Creation - Lvl. 1]!
+
+Skill [Double Step - Lvl. 10] becomes [Self Haste - Lvl. 1]!
+
+Skill [Fire Blast - Lvl. 20] becomes [Scorching Wave - Lvl. 1]!
+
+Skill [Passive - General Tool Proficiency - Lvl. 10] becomes [Passive - Weapon Mastery - Lvl. 1]!
+
+Skill [Charge of Embers] is now available.
+
+Skill [Fiery Hail] is now available.
+
+Skill [Ignition] is now available.
+
+Skill [Passive - Deadly Instincts] is now available.
+
+Title Gained!
+
+(Death of the Destroyer)
+
+[Vitality] (+5)
+
+[Strength] (+5)
+
+[Endurance] (+5)
+
+[Wisdom] (+5)
+
+[Agility] (+5)
+
+General Skill [Title Skill: Zealous Call] Obtained!
+
+I will survive!
+
+End of Volume 1.
+
+Author's Note:
+
+I hope you all enjoyed Volume 1 of Salvos. I often worry about how well I execute my climaxes, especially considering how the first major climax I had for my other story, Melas, resulted in a almost 10 0.5 stars in a few days and a drop in rankings from 300 to 600 at the time. I feel like while both Melas and Salvos are different stories with different themes and different characters, I did manage to execute Volume 1 of Salvos better than Book 1 of Melas. I'm not entirely certain whether that's true, but that's personally how I feel about it.
+
+Also, I somehow managed to maintain this 5 chaps a week schedule even with another web serial and school. Especially school. Man it's difficult. Honestly, am pretty exhausted most days, but I did it! Hopefully it keeps up.
+
+Onto the actual contents of Volume 1... well, first of all the support for the eBook version has blown me away. We haven't hit my goal just yet, but we're close! So thank you all for that.
+
+V1 has went kind of differently from how I first planned out the story back when I wrote Chapter 0. Back then, I planned for both Salvos and Haec to be isekai'd to the Mortal Realm together, and what would have happened was quite a different story, with Haec and Salvos killing Lucerna during the fight with the [Cultists]. But I decided to go a different route starting around Chapter 5-ish.
+
+As for this chapter: the [Midday Changeling] evolution is vaguely inspired by Lady Midday. That's pretty much all I have to say on it right now.
+
+Anyway, now that Volume 1 is over, I would like to ask once again for anyone who hasn't rated the story to possibly leave a rating. If you'd like to write a review or an advanced review, or if you've already written a review, I hope you'd be willing to update it and I would genuinely appreciate it as well. I am so close to reaching the seccond page of Best Rated on RR, and while there is no achievement for it, being there would genuinely blow me away since this is my second ever story. Also, it would most definitely help new people discover the story XD
+
+Thank you all for reading <3

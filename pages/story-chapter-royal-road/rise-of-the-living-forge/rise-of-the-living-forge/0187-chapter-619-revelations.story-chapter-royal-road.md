@@ -1,0 +1,111 @@
+---
+id: 5e6c10c1-d4fb-502a-8d43-2c3315e68b22
+page-type-slug: story-chapter-royal-road
+title: "Chapter 619: Revelations"
+slug: 0187-chapter-619-revelations
+partOf: rise-of-the-living-forge
+position: 187
+ownLength: 1747
+unit: words
+publishedAt: 2026-07-07
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3644817/chapter-619-revelations"
+royalRoadId: "3644817"
+---
+
+Arwin leaned against a pillar that the Infernal Armory had formed for him, his breath coming out in heavy, ragged gasps. His muscles ached more than they had in a long while. Ironically enough, his magical reserves were still doing decent. Between Koyu, Wallace, Kien, and the Armory itself, there really wasn’t a shortage of magic to work with anymore.
+
+Kien’s armor had come together flawlessly. But it had been far from an easy process. The metal had been impossibly hard. Even with all their strength and backed by magic, it had taken hours of striking it at full strength to shape it into the right position. It had even managed to resist being softened by Arwin’s Soul Magma.
+
+He probably could have liquified the metal if he’d tried hard enough, but that would have ruined it. This particular metal told him through song — in no uncertain terms — that it could not be heated over a certain point while it was being forged. It knew exactly what the optimal strategy to form it was.
+
+That strategy had just unfortunately been one of the most grueling processes that Arwin and the others had ever put themselves through to create a set of armor. But now it was done. Sitting before them, almost like a pile of scrap, was a set of tarnished bronze equipment.
+
+It was about as plain as plain could possibly get at first glance. An unadorned breastplate, save for Arwin’s maker’s mark hidden under the right pauldron. Gauntlets of several segmented pieces and with no design but the flow of the natural metal they’d been made with.
+
+The entire suit of armor looked like something that might have been found rusting in the back of some old smithy, abandoned by its maker and ravaged by time. Even the once bright ruby that was now lodged in the center of its chest was now dull and tired. But that was only true until one looked  closer.
+
+The streaks of dark color coiling within the bronze were not tarnished at all. They were like mosaics within the metal, an artwork formed entirely from the patterns of the material. What appeared to be uneven surfaces and rough patches were actually just the natural flow of the metal expressing itself. Even the ruby was deceiving. It wasn’t dull at all. Instead, a dark, murky energy swam within it. It was so thick that it filled every single part of the gem.
+
+There was nothing ragged about the armor at all.
+
+This was the true shape of the metal. Refined and raw at the same time. For these materials, there was no more pure execution of their existence. And the Mesh clearly agreed. Even though it couldn’t speak anymore, there was no mistaking the immense amount of magical energy that met Arwin from the creation of Kien’s armor.
+
+Stoneheart Bastion
+
+[Soulforged]: Forged at the hands of a Forbidden Soulmancer, the a dwarven smith, a lich, an awakened building, and a hero, Stoneheart Bastion was created to be the impenetrable wall of the Menagerie
+
+[Everlasting]: Stoneheart Bastion will regenerate any damage done to it by drawing stone from its surroundings. This ability is used at the cost of magical energy stored within its Heart.
+
+[Stone Heart]: Should the wearer of Stoneheart Bastion sustain fatal damage whilst there is energy within the core, the energy will be expended to return life to their body. This will only take effect if the Heart is full. A portion of all physical damage taken by the wearer of Stoneheart Bastion is converted from kinetic to potential energy and stored within the Heart.
+
+[Relentless]: Stoneheart Bastion will activate on its own should it sense danger, acting in the interests of its wearer until they are aware of the threat and able to take over themselves. This ability will continue so long as there is energy within the Stone Heart, even if the wearer is rendered unconscious.
+
+[Earthern Mastery]: Stoneheart Bastion can connect to the earth around its wearer, allowing them manipulation over stone in their vicinity at the cost of magical energy stored within its Heart.
+
+[Soul Armor]: Stoneheart Bastion’s status is unreadable to all but the ones who made it and its owner. It is highly resistant to all forms of magical damage.
+
+“Godspit,” Kein whispered as he stared at the armor. Even though he was every bit as tired as the rest of them, an invisible force seemed to pull him toward the armor. He’d already taken a step toward it by the time the word had left his mouth. The desire in his eyes was undeniable, even as he fought to keep himself from rushing ahead. “This…”
+
+“Quite something,” Koyu said.
+
+“That’s an understatement,” Wallace said with a tired laugh. “She’s a beauty. The Dwarven Council would kill to get their hands on this. Literally. There was a time when the common fashion was trying to downplay the rarity of a piece as much as possible, and this one might well be the nicest one of its type.”
+
+“You might as well put it on,” Arwin said. “It isn’t doing anyone any good just sitting there.”
+
+“It doesn’t even feel right,” Kien said uneasily. “Even when I was a hero, I never had armor like this.”
+
+“It is responsibility,” Koyu said. “That’s how gifts of power always work. Don’t mistake it for selflessness. Every scrap of power you earn is a scrap that is expected to be paid out in results.”
+
+“You don’t have to make it so melodramatic,” Arwin said with a small laugh. “But its yours, Kien. And you helped make it. It would be a shame to just leave something like this lying on the ground. I’d say it deserves to be worn properly.”
+
+That seemed to break Kien from his hesitation. He swallowed, then hesitantly approached the armor set, crouching beside it. The man didn’t move for a moment. He just stared at the armor, letting his gaze wander across its surface. Then he reached out to rest his hand upon the chestplate.
+
+The metal rippled. Before any of them could react, strands of dark metal snapped out from the surface of the metal, coiling around Kien’s arm and winding up toward his chest. The entire suit of armor seemed to come alive. It slithered across the ground to attach itself to him of its own accord.
+
+Within moments, Kien was completely covered by the plain armor. He looked down at his hand in surprise, then blinked behind the plain visor covering his eyes. If Arwin hadn’t known better, he might have thought Kien to be a town guard that was just down on his luck. There was almost nothing at all intimidating about the equipment.
+
+And that, more than anything, made it more threatening than most of the other weapons and armor he’d made. A weapon that nobody could recognize was a dangerous one indeed.
+
+“It fits,” Kien said, clenching his fist and opening it once more. “Really well.”
+
+“I should hope so,” Koyu said. The lich let out a dry laugh. “It was designed specifically for you. If it didn’t fit, it would have been quite embarrassing.”
+
+“How’s the weight?” Wallace asked. “That thing doesn’t look light.”
+
+“It isn’t,” Kien said. He shifted his stance from foot to foot. “But I can bear it. It feels sturdy. Very sturdy.”
+
+“It is,” Wallace said. “Pretty sure Arwin could give that thing a big ole swing with that huge hammer of his and you’d make it out largely unhurt.”
+
+“Mostly, maybe,” Koyu mused. “Though it depends how much force Arwin was putting into the attack. The armor is bound to have certain limits to what it can absorb, even with how well it pairs with Kien’s abilities.”
+
+“Let’s not test that,” Kien said with a shake of his head. “I don’t believe that I’d enjoy the experience. I am unsure what to say. Words have never been my best weapon. Now, they seem to fail me more than ever.”
+
+“Then it’s a good thing we’re not fighting,” Arwin said. “Koyu was right. There’s no need to thank us. You helped make it. And on top of that, you’re going to be using it to defend everyone. That’s more than payment enough. Just get used to it. And remember what we’ve made it for in the first place. As much as I wish that it was just a pretty upgrade… it’s a weapon with a purpose.”
+
+Kien’s eyes narrowed. Then he gave them a sharp nod. “Yes. I will not forget. The Adventurer’s Guild will be stopped. What they have done to this Kingdom is unforgivable. You can count on my strength.”
+
+“Just make sure you spend some time getting used to it,” Koyu advised. “You don’t want to properly use it for the first time in a real fight.”
+
+“Good advice,” Arwin said. “Take Olive and Reya. I’m sure they’d be thrilled to see what it can do, and I’d love to hear what Olive is capable of now that she’s Sunset her class.”
+
+Kien was silent for a second longer. Then he nodded, his gaze sharpening.
+
+“Yes. That would be apt. And with all the new dungeons cropping up, there should be no shortage of spots to test ourselves. Thank you again. All of you. I will put this armor to use... Tomorrow. After I have rested. For tonight, there is nothing I wish to do more than sleep.”
+
+Arwin laughed.
+
+“I can agree with that.” The ache in his muscles was only matched by the growing pain in his stomach. It was just about time to wrap things up for the day and retire to bed. “Let’s get back to the Den, shall we?”
+
+They all started for the door. But before they could reach it, it swung open on its own to reveal Anna.
+
+“Ah. Anna,” Wallace said, raising a hand in greeting. “You’ve got got great timing.”
+
+“No, I don’t,” Anna replied. “I’ve been waiting for an hour to make sure you were all done. I didn’t want to disturb anyone while you were working.”
+
+“Oh,” Wallace said meekly. “Ah… thank you.”
+
+Anna just nodded. “ I like the new armor, Kien.”
+
+“Thank you,” Kien said. A note of concern entered his voice. “What were you waiting for? Is something wrong?”
+
+“All of you,” Anna replied grimly. “And... For lack of a better response, yes. Rodrick has found something. It’s about the Guild.”

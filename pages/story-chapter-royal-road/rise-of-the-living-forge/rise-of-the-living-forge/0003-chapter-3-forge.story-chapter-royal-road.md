@@ -1,0 +1,144 @@
+---
+id: e9cfe857-0c81-51b2-be73-3d5a945f1e09
+page-type-slug: story-chapter-royal-road
+title: "Chapter 3: Forge"
+partOf: rise-of-the-living-forge
+position: 3
+ownLength: 1891
+unit: words
+ownProgress: 1891
+publishedAt: 2023-12-30
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge-stubbing-to-ch555-in/chapter/1459977/chapter-3-forge"
+royalRoadId: "1459977"
+markedReadAt: "2026-06-29T19:58:33.230Z"
+---
+
+The first man charged. Arwin took care to avoid getting a good look at his face. In his later years of fighting against the monster horde, he’d taken to avoiding staring into someone’s eyes as they died.
+
+At first, he’d always seen monsters as nothing more than mindless killers that sought blood because it was their nature.
+
+That wasn’t true. It was said that the eyes were the windows to the soul, and Arwin had seen everything in the eyes of those he had cut down. He had seen desperation – he had seen fruitless hope – and, inevitably, he had seen death.
+
+It was much easier to kill without looking at the eyes. Arwin leaned back, letting the thief’s dagger flash past his face, and brought his fist up. He fed a small amount of magical power into his hand, and heat surged around it as his knuckles connected with the man’s chin.
+
+There was a loud crack as the thief’s head snapped back. Fire flared around Arwin, scorching the man badly. He let out a terrified scream, but Arwin didn’t leave him to suffer long. His fist crashed back down, taking the man in the head and putting him to eternal sleep.
+
+“I already gave one of you a second chance,” Arwin said as the man crumpled at his feet. He turned to the others, who were staring in disbelief at the speed that their ally had been killed. “If you take one step closer, you will meet the same fate.”
+
+Arwin didn’t expect his words to work. Nobody had ever taken him up on them before. But, to his surprise, one of the four remaining men turned on his heel and fled. The largest of them called out a curse, but the man didn’t heed it.
+
+“He is wiser than you,” Arwin said, pointing his hot poker at them like a sword. “Last chance.”
+
+“Murderer!” the boss screamed, charging at Arwin. Lightning crackled around his body and gathered at the tip of his sword.
+
+Could you telegraph that any harder?
+
+Arwin lunged to the side, narrowly avoiding the magic. It slammed into the ground where he’d been standing with a loud crack, shattering the stone and sending up a wisp of smoke. The other two men sprinted toward Arwin as well, aiming to surround him.
+
+He didn’t plan to give them a chance. Arwin lunged, driving his hot poker for the large man’s back. To Arwin’s surprise, the thief was decent with his blade. He knocked Arwin’s attack to the side, then swung for his head.
+
+Arwin ducked the blow, then twisted out of the way as one of the other men tried to stab at him. He went to dodge an attack from the third man, but for some reason, it never came. Arwin didn’t question his luck and lunged again, this time drawing on [Scourge].
+
+The large thief made to block Arwin’s attack again, but this time, his sword rang off the hot poker like he was a child batting at a bear. His eyes only had an instant to widen before Arwin’s makeshift weapon ran him through between the eyes.
+
+Arwin ripped the poker free and spun, raising it defensively just in time to block a desperate blow. For an instant, he locked eyes with a terrified thief. Then Arwin’s poker struck again, and another corpse fell to the floor.
+
+Damn it. One more memory to add to the pile.
+
+He turned in search of the final man, then blinked. The man was right in front of him – his throat slit. Behind him stood the girl with blonde hair, a dagger clutched in her hands.
+
+She quickly dropped the blade and raised her hands into the air. “I – I was just trying to help. Please don’t kill me.”
+
+Arwin glanced back down at the dead men, then let his poker lower. “I didn’t need help.”
+
+“I could tell,” the girl said. She swallowed. “But even a master swordsman can slip on a rock.”
+
+A small grin tugged at the corner of Arwin’s lips. “You aren’t wrong, and I’m no master swordsman. I’m only twenty-five. Why did you help?”
+
+“Because you helped me. That’s how it works.”
+
+Arwin nearly laughed, but he caught himself at the last second. If that was actually how the world worked, then it would have been a far better place. If that was how the world worked, the guild wouldn’t have betrayed him after he’d given his life for them.
+
+A flicker of anger passed through Arwin’s eyes, but he wrestled himself under control. The guild’s time would come.
+
+Well, the guild or whoever it was within it that took me down. For now, the entire guild will have to be suspect until I learn more.
+
+“An old sentiment that I do not believe many mirror. What is your name?”
+
+“Reya.”
+
+“I am Arwin.” He wasn’t worried about sharing his real name – almost nobody in this world actually knew him as anything other than the Hero. His name was one of the few things that he hadn’t lost when he was summoned from earth.
+
+Reya gave him a small nod, her shoulders relaxing. Arwin wasn’t surprised – generally, people didn’t kill people that they gave their names to. Then again, there were some that always asked for the name of a worthy opponent. He wasn’t going to remind her of those, though.
+
+Kneeling beside the large thief, Arwin took the sword from his hands. To his disappointment, the sword was as plain as plain could be. There was nothing magical about it. He set it to the side and went through the rest of the men’s pockets, gathering their weapons and belongings.
+
+His efforts were not well rewarded. Aside from a small pile of daggers and two swords, all he managed to get his hands on was a meagre nine gold. When Arwin looked back up, he found Reya still standing in place.
+
+“Why are you still here?” Arwin asked. “We’re even.”
+
+Reya shifted uncomfortably as Arwin’s gaze bore into her eyes. She looked away from him, suddenly finding a pile of rotting wood fascinating. “You just killed the rest of my guild.”
+
+“Those idiots were your guild? You weren’t even in the name.”
+
+“Yes, I’m aware. There aren’t a lot of options. They seemed fine enough when I joined, but…” Reya trailed off, then shrugged. “I was wrong. I tried to leave, and you saw how that turned out in the alleyway. I’m not great at frontal confrontations. The Mesh hasn’t graced me with a Class yet, so I’m not too strong either. I didn’t have a good way to fight back when they were watching me.”
+
+“Sounds like you should learn how to use a sword.”
+
+That clearly wasn’t the answer Reya had been expecting. She winced, then gave him a small shrug. “I guess. I’m not very strong, and I don’t really love fighting. I’m much better at nicking things.”
+
+“And you are telling me this because…?”
+
+“Well, you’re moving in, right?” Reya glanced around the crumbling smithy, then cleared her throat. “I was… uh, hoping you might be recruiting.”
+
+Arwin blinked in confusion. “Recruiting? For what?”
+
+“I don’t know. Something. A gang?”
+
+A snort slipped out of Arwin’s nose. He grabbed the dead men’s bodies and dragged them over to the corner, stacking them until he could figure out what to do with the bodies. “I’m not starting a gang.”
+
+“Oh.” Reya twiddled her thumbs, but she still made no signs of leaving. Arwin glanced down at his hands. They were wet with blood. Letting out a sigh, he turned to face her. “You shouldn’t ally with people you fear.”
+
+And I don’t want to deal with anyone right now. I just want to be left alone.
+
+“It’s better than getting stabbed in the back while I’m sleeping.”
+
+“There are a bunch of empty houses on this street. Go take one of those.”
+
+“I might run into one of the other gangs,” Reya said, wincing at the glare in Awin’s eyes. “If you want me to leave, I’ll leave. I just thought it could be mutually beneficial.”
+
+“Mutually beneficial? How so?”
+
+She turned, latching onto the small branch that Arwin had unwittingly extended. “What do you need? I can do it for you. I’m not the best at fighting, but I’m great at stealing things. People tell me things too. I can get information, or I could find other gangs for you to take over. You really wiped those guys out, so I bet–”
+
+“Stop,” Arwin said, raising a hand to stave off the flood of words. He didn’t relish the idea of stealing from anyone or going around murdering all the criminals hiding in the slums of the city, but information – that was something he needed more than anything else. “You said you could get information?”
+
+“If it’s about anything or anyone in Milten, I’ll get it. I swear. Give me a test to let me join your gang. I’ll pass it.”
+
+“I’m not starting a gang,” Arwin snapped.
+
+I’m not a criminal. I do not kill needlessly – and I definitely don’t want to play politics with a bunch of idiots.
+
+“But I thought–”
+
+“I am willing to trade,” Arwin said, cutting Reya off. “And if you can bring me useful information, then I will not object to your presence so long as you remain silent when you do not need to speak. Is that acceptable?”
+
+Reya opened her mouth, then closed it again. She very pointedly crept over to her dagger and, after a quick glance at Arwin to make sure he didn’t object, picked it up and returned it to a sheathe at her side.
+
+She then, moving with the speed of a crippled sloth, inched her way over to the wall and sat down against it. The whole process took nearly a minute, and Arwin couldn’t bring himself to do anything other than watch.
+
+Is she screwing with me?
+
+“You don’t have to be that quiet,” Arwin said. “I’m not going to kill you if you sneeze. Just… don’t bother me.”
+
+Reya let out an explosive breath. “Oh, thank the Mesh. I was going to suffocate from trying to breath quietly.”
+
+Arwin shook his head and turned back to the pile of scrap on the ground. He’d figure out what to do with Reya – and the bodies – later. Right now, the most pressing matter was still his magical affliction.
+
+He could still feel the energy from the bracelet burning within him, but there was no way to tell how long it would last. At any moment, the Mesh could warn him that his energy was going to consume him again, and he wouldn’t have another guaranteed magical item to fall back on.
+
+Up until now, I’ve been running off luck. I need to take things into my own hands.
+
+And, if he wanted to do that, it meant he was going to need to get to work. All Arwin had to work with was a run-down smithy, some shitty weapons, a pittance of gold, and metal that was little better than garbage. His lips pulled back in what might have been one of the first genuine smiles he’d had in years.
+
+It was time to forge.

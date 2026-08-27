@@ -1,0 +1,205 @@
+---
+id: a3b95a73-0e6e-54d4-aa7e-90dc66dad0ff
+page-type-slug: story-chapter-royal-road
+title: "105. Heathens"
+slug: 0017-105-heathens
+partOf: salvos
+position: 17
+ownLength: 2174
+unit: words
+publishedAt: 2021-04-23
+link: "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/669779/105-heathens"
+royalRoadId: "669779"
+---
+
+105. Heathens
+
+“Kneel.”
+
+The word left my mouth as [Intimidation] took effect. It was the very first of my newly available Skills that I used; I assigned it to one of my two available Skill Slots and activated it. And the moment I did, my voice seemed to echo through the cave despite me speaking casually.
+
+The bandits standing closest to me, especially Seb, dropped to their knees. They cowered and quivered, shaking in their boots even though I hadn’t fully transformed out of my Mortal Form yet. Their eyes were glued to the ground— they were only able to hear the cracks and pops of my bones as they grew longer and my body grew taller.
+
+My clothes— Edithe’s clothes— unfortunately tore as I grew in height. Two extra arms sprouted from my sides, ripping apart the last of the dress I had been given. I would have taken it out first before changing, but Edithe’s incessant reminders stuck in my head that I should not remove my clothes in front of strangers. So, I didn’t.
+
+A pair of crooked, forward-facing horns grew out of my head as my face elongated itself; my hands turned to claws and my skin turned paler, while my hair’s bright silver took on a darker tint. The bandits— the ones beyond the small circle kneeling around me— took a step back.
+
+Their eyes were bulging out of their sockets and their mouths were hanging open. I was expecting them to flee— for this to be resolved without any bloodshed— but an angry voice called out as a woman pushed her way through the unmoving crowd of bandits.
+
+“What are you idiots doing?!”
+
+[Warrior - Lvl. 68]
+
+She paused, narrowing her eyes at me. Then she drew two short swords and pointed one my way.
+
+“That’s a fucking Demon! Don’t just stand there! Kill it!”
+
+Sighing, I watched as the first of the frozen bandits broke out of their stupor. They rushed past the kneeling Humans, brushing by them and seemingly breaking them free from my Skill too.
+
+“I tried giving you a chance. Oh well.”
+
+A grin spread across my face as the first bandit reached me. I raised one of my four arms, and a blazing fire wisped itself into existence on my claws. They were lit ablaze, each holding my fury within them.
+
+Then I swiped out— first with my top right claw. Then with my top left claw. My bottom two claws swung out at the same time, then I turned into a whirlwind of flames. A tempest of fire. A [Barrage of Cinders].
+
+The closest bandits to me were torn apart. Those who dared make the charge were sheared like paper. It was like an amplified [Fire Strike], but repeated over and over and over again.
+
+The Skill never ran out. It would not end until my mana was exhausted. However, I did not want to waste all my mana on a single Skill. Especially when the swarm of bandits was too much for me to just stand there and take on.
+
+A group of [Mages] aimed their spells towards me and loosed a flurry of powerful magic. I disengaged from the [Warriors] and the flames around my hands vanished. Instead, I covered my chest with my four arms and focused my fire there. It was so wild— so furious. It was like a raging river. But if I calmed it down, if I tried to cool down the rushing currents, it would freeze. Become solid.
+
+“[Ember Core].”
+
+A thin layer of solid fire ran through my body. It spread out, enveloping me entirely. It was like armor. But like weak leather armor. Then I concentrated on my forearms and only my forearms. It grew thicker— stronger— becoming like a powerful metal.
+
+The spells struck the flaming protection— most of the damage had been absorbed by my Skill. But even then, I could see cracks of black blood forming down my arms. I growled and looked over at the [Mages], past the charging [Warriors] and [Rogues].
+
+With [Self Haste] coursing through my body, I leapt up into the air and burst forward. A cone of flames erupted behind my back as [Flame Burst] propelled me towards the rock wall. I clung onto it, glancing down at the wave of Humans rushing after me. Then I jumped again and a second [Flame Burst] boosted me over them straight to the [Mages].
+
+I crashed straight into them as they screamed. A few tried to run, but I inhaled deeply and took up another one of my Skill Slots.
+
+[Flaming Breath].
+
+I exhaled and a cone of fire covered the bandits closest to me. It was nothing like a [Scorching Wave]! It was way better!
+
+I spun around, feeling the heat in my chest dissipate as my speed slowed. I couldn’t use the Skill again instantly, which was a downside. But I still had other Skills to use. A kusarigama came into existence on one of my hands, its chains already flying towards those that tried to flee. It wrapped around their ankles and pulled them all back at once.
+
+They were just about to reach my feet when four blades struck my back at once. That was the first direct hit I had taken during the entire fight. I stumbled forward, loosening the chains as the woman from before approached me.
+
+“You’ve done a number to me and my boys, but don’t think you can get out of this alive, Demon!”
+
+She spat and readied both her blades. I narrowed my eyes as something alerted me to her movements. I was cut four times, but she only has two blades. A prescient feeling brought me to focus on her shadows, that was when I saw how it was aimed directly at mine.
+
+The same feeling nagged at me, telling me that the bandits I had caught were escaping. [Passive - A Hunter’s Sense]? I thought for a moment before the bandit boss lashed out.
+
+She swung twice, and I evaded her attacks. Her shadow however, nicked mine and I flinched. I brought my kusarigama up between us and I let its flames burn. My shadow was now casting behind me, while hers was behind her.
+
+I grinned as she instantly backed up. Then I spun around and saw the bandits fleeing. If they escape and tell others about me—
+
+I took a step forward and paused. The bandits were cut down by magic and a sword. Edithe and Daniel stood at the cave’s entryway, weapons raised and ready to fight.
+
+The bandit boss paused for a moment, then she called out to them.
+
+“Adventurers! We need your help— there’s a Demon here, and if we don’t slay it, it’ll destroy the nearby towns!”
+
+Daniel and Edithe exchanged a glance. Then they raised their weapons.
+
+“We’re actually with her.”
+
+“Yeah…”
+
+The bandit boss blinked. And at that brief period of confusion, I managed to land a combination of [Barrage of Cinders] on her. Then I grabbed her and slammed her against the wall before the remaining bandits reached me.
+
+A [Flame Burst] carried me away from them and towards my two companions. They covered me instantly and I raised a hand.
+
+“Potions.”
+
+They handed me a red and blue potion. It was a healing and mana potion respectively. I downed the both of them as my two companions held off the group of bandits. I gasped and wiped my mouth.
+
+“Thanks! I wasn’t really hurt, but it’s still refreshing!”
+
+There were about a dozen bandits above Gold left, the rest were at Silver or below. When I first entered however, there were over a hundred of them. Now, less than 40 bandits stood before us. The highest leveled amongst them was injured.
+
+And they made the only sensible decision. A woman dropped her weapon and got on her knees.
+
+“Mercy! Please spare us!”
+
+A man followed, then another man. Half a dozen bandits instantly surrendered, and because of that, the remaining ones stood uncertainly.
+
+I frowned, taking on this sight. But then, the bandit boss moved.
+
+“Cowards!”
+
+She hobbled her way forward as her bandit group drew back. Her gaze swept through her companions, causing those who surrendered to quiver in fear. She had red in her eyes— anger which she then directed towards my companions.
+
+“You! Why are you helping a Demon?!”
+
+Daniel took a step and held out his sword.
+
+“We’re her friends. Why wouldn’t we help her?”
+
+“Humans and Demons working together? Ridiculous!”
+
+The bandit boss spat and wiped at her mouth. She shook her head, her red eyes still fixed on me.
+
+“Don’t you know anything about history? The Demons were responsible for the fall of our Human Empire!”
+
+“An empire from thousands of years ago.”
+
+Edithe raised her staff, aiming it at the other woman.
+
+“We don’t care about what other Demons did, or what they did a long time ago. This is Salvos. And she’s with us.”
+
+Narrowing her eyes, the bandit boss grabbed one of her nearby companions. The man struggled, making a confused sound before she bit into his neck. He paused, eyes wide. Before he went limp.
+
+The bandits around her took a startled step away as she grinned, blood drooling down from her mouth. Then a fiery aura engulfed her and she pointed her sword at me.
+
+“Kill the heathens! Kill the Demon! Bring them to justice!”
+
+Daniel blinked for a moment. Then he sputtered.
+
+“A Vampire? She’s a Vampire?!”
+
+Her words somehow brought the bandits to action. Even the ones who surrendered. The red aura she exuded formed a line towards the bandits who surrendered, driving them forward.
+
+The rest followed— perhaps in confusion, or perhaps because her words instilled something in them. I stared at the charging bandits.
+
+“Uh… what’s going on? Is this like with the Mindreapers?”
+
+“She’s… a Vampire. As for how she’s doing that? I don’t know. Just get ready. They seem really angry.”
+
+Edithe spoke as she sent blasts of ice out. I nodded and created four swords for each of my hands. I could manage it now that [Passive - Weapon Mastery] was maxed.
+
+The bandit wave made its way towards us— and the entire front layer vanished. Daniel’s sword shone for a moment, the air flickered, and a dozen fell. Then I sent another [Flaming Breath] out, and more were incinerated too. Edithe’s magic took out the Silvers easily, and when we were finished, all that remained was the bandit boss.
+
+The Vampire that stared my way with burning, red eyes. She lashes out, but Daniel easily deflected her swing. Her swords clattered on the ground and she glared his way.
+
+“Fool! You know this will only bring us destruction! You are so… foolish!”
+
+“What is your problem— why do you hate Demons so much?”
+
+He asked, frowning as he stepped forward. Certainly, most of the Humans I encountered treated me as a kill on sight. But they were not angry— from my encounters in Silvergrove, they simply feared for their life.
+
+“Why?”
+
+The bandit boss laughed.
+
+“Because the Demon King is at the gates. He’ll make his return. And because you aid his kind, he shall bring destruction to our countries as he did before.”
+
+I paused. I studied the mad expression on the woman— the Vampire’s face. I hadn’t noticed it earlier, but she had a pair of fangs protruding from her mouth. Or were they even there until just now?
+
+I shook my head, making a slow approach towards her. A hiss left her mouth as I shrugged off Daniel’s grasp.
+
+“Salvos, it’s dangerous—”
+
+“It’s fine.”
+
+I nodded back at him and faced the Vampire. I crossed two of my arms and looked her over.
+
+“I’m Salvos. But you’re right— I am also a Demon.”
+
+“And for that, you deserve to be destroyed.”
+
+“Even if I’m not a wild Demon or Lucerna? Even if I’m not this Demon King? Even if, instead, I’m a Princess?”
+
+The woman snarled and launched forward.
+
+“Yes!”
+
+“I see.”
+
+I created a scythe and sheared her in half. Her body fell in two pieces, the aura around her vanishing as the notifications in my mind went off.
+
+With that bandit boss dead, I spun around and excitedly made my way back to Daniel and Edithe. I paused as I saw the two staring at me. Then I remembered what I had promised Edithe the night before.
+
+“Oh, uh, sorry for not coming earlier. I got caught up in something.”
+
+Sighing, she took a step forward and chopped a hand on my face. Then she smiled.
+
+“It’s fine. I know you can take care of yourself. But I can’t lie and say I wasn’t a little bit worried.”
+
+I scratched the back of my head as my two companions shared a soft laugh of relief. I smiled too, before turning my attention to the ripped cloth hanging around my body.
+
+“Also… I kind of destroyed your dress? Sorry!”
+
+Edithe stopped laughing.

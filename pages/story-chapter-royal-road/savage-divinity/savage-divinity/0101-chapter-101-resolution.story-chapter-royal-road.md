@@ -1,0 +1,117 @@
+---
+id: 40c06074-2e65-5dc5-92fc-92f23c769888
+page-type-slug: story-chapter-royal-road
+title: "Chapter 101 - Resolution"
+slug: 0101-chapter-101-resolution
+partOf: savage-divinity
+position: 101
+ownLength: 3430
+unit: words
+publishedAt: 2016-08-01
+link: "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/84700/chapter-101-resolution"
+royalRoadId: "84700"
+---
+
+Peering down the length of my arrow, I steady my aim and hold my breath, making sure everything is in place before I fire my shot. The adorably chubby bunny plods along down the field with a series of tiny hops, its twin horns prominently on display. Saying a small prayer in my mind, I apologize to the little adorable bunny, but I am hungry and you are delicious. Die well.
+
+With a resounding twang, I loose my arrow to soar through the air in a majestic arc, landing with a dull, disappointing thud into the dirt, my quarry scampering away as quickly as it can, a streak of gray in a field of green.
+
+Damn it.
+
+“You shouldn't close your eye while shooting, you need both to judge distance properly. Don't hold your breath either, it makes you jerk up when you release. Exhale, release, then inhale.” Huu gives me some advice, things I've heard before but I keep reverting back to bad habits. It's been too long since I fired an arrow.
+
+“Sorry about that, cost us some good eating.” Rabbits are magically delicious.
+
+“No need to worry, we'll find something else.” The two of us trek forward to reclaim my arrow, our eyes peeled for more meat, hunting for our supper. Most of the Sentinels are content to eat whatever available but if you want something extra for yourself, you need to hunt it down. The smart move would be to just eat the prepared food now, at the beginning of our journey to the Bridge, but I tasted fresh, spiced food this morning inside Shen Huo, and lunch was enough to keep me away from camp fare for days to come.
+
+“You look better with the new haircut and clothes.” His awkward compliment surprises me, and I respond with a small smile, unsure of what to say. Taduk had a bunch of clothes ready for me, normal leathers that are easy to move around in, and I do feel better now that I can no longer be mistaken for a homosexual beggar child. Not exactly the image I'm trying to convey. “Thank you for coming out hunting with me, I know you're tired and still have plenty of responsibilities to attend to.”
+
+Looking over at Huu, I raise my eyebrow, questioning the odd statement. “We both know I'm a terrible hunting partner, but I need the extra food on account of overtaxing myself for weeks. The sad truth is we are most likely going to be splitting what you catch so really, I should be the one thanking you.”
+
+Looking sheepish, he doesn't bother to correct me and continues scanning the grass for movement, carefully gathering his words before he speaks. I should try that sometimes, maybe I'd get in less trouble if I did. “I called you out because I wanted to ask you for a favor.”
+
+“Name it.”
+
+“I know that the Chief Provost has burdened you with the financial responsibilities of the former soldiers, so if you need help gathering herbs or hunting beasts, I was hoping that you would bring me along.” A timid shrug follows the hurried request, his head and ears drooping down as if ashamed to ask for a job.
+
+Smacking him on the arm lightly, I smile and answer, “What kind of favor is that? I'd appreciate your help and there's no one else I'd rather have watching my back.” Not entirely true, Baatar would be better, but Huu is reliable and efficient, and even though he is 'older' than me, he puts on no airs, treating me with respect and friendship. I like him, he's easy to be around and reassuring to have at my side in a fight. “Any particular reason you need coin?” If it's important and not too expensive, I don't mind just gifting him the money now, or giving him an advance.
+
+Smiling in his simple way, he looks happier than anyone has a right to be, content and without regret. “That's another thing I wanted to ask you about, I want to buy Yosai and Yesui betrothal gifts, but I'm unsure of what. You're so worldly, I thought you might be able to give me some advice.”
+
+Uh oh. “Uh... Betrothal gifts? Is that a thing?” It's painful that he thinks I'm worldly, this poor, naive child.
+
+His surprise only lasts for a split second before rueful acceptance kicks in, his tolerance for my ignorance far higher than most. “I thought you already knew, what with gifting Yan those quins. It is tradition to prove your ability to provide for your mate, with a gift or gesture. For example, my Pa built a new house for Ma and Elia all by himself, a testament to his carpentry skills. He provided a place for Ma to return after her travels, as well as a stove for Elia to bake in.”
+
+That's actually pretty impressive, building a house, I'd have no idea where to begin with that and from the look on Huu's face, neither does he. “Um... is that why everyone thinks I gave Yan those quins? I bought Shana because she seemed so sad about losing her, and I wanted to keep the pups for myself.” Shit, I guess I should buy something for Mila, but what?
+
+“Regardless of your reasons, everyone believes it was a betrothal gift, and a grand one at that. The quins are where we got the tradition from first, and not only is her love of those animals well-known, asking her to look after your quin will have her thinking of you often. Yesui often compliments you about the gesture.” Likely also hinting to Huu that she wants her own romantic gesture, and it seems he got the message.
+
+Taking time to digest the information, we both lapse into silence once more as we continue on our hunt, walking along the treeline with an open field to our left. Huu's quin Jaga following us closely, waiting to retrieve our catch in hopes of a reward, and the absence of a second quin makes me want to sigh with regret. Unable to focus, my mind drifts while we walk, pondering over our first day of travel while I try to keep my mind off Yan. The morning was spent arranging for the families of the dismissed soldiers to be escorted to the mountains by 1,000 Sentinels under the command of Charok and Dagen, then Akanai had set an easy pace, starting late and stopping early, in no rush to reach the Bridge with our 4,000 Sentinel escort.
+
+As for the dismissed soldiers, Akanai gave them a simple choice: Swear an oath that was essentially indentured servitude, if not slavery, or leave with their families back to the mountains. She made it clear that they would be made use of regardless of their decision, with healing eventually available to them, although those who chose to leave would not become Sentinels.
+
+Every single soldier remained with Akanai, each one of them swearing their oath happily, not even bothering to discuss terms. Crazy, in my opinion, especially considering our impending clash with the Society, and I have no idea why they were so easily persuaded. As beautiful as she is, charismatic is not a word I would use to describe Akanai, but those soldiers were staring at her like she was the Mother herself, a goddess in the flesh.
+
+That same 'goddess' put me in charge of all of them, more test subjects for me to work with, although my only success so far is Ravil who is in constant, debilitating pain. Taduk and Tokta both agree that he is healing, although his progress is tortuously slow, to the point where I've debated asking Taduk if he can help Ravil along, and just chop off a finger so Ravil can practice healing that instead. It's tough getting used to pain in an area that normally doesn't have much sensation, and it hasn't improved his attitude towards me, still angry with good reason.
+
+After taking the time to think it over, I understand Akanai's reasoning about my punishment, although I don't 100% agree with it. At the very least, my punishment shows that she has plans for me, working to improve me in various ways. I exposed everyone I love to a potential catastrophe, and while I had good intentions, it was arrogance that kept me from asking for help, a simple thing that would have avoided much hardship. The ditch digging and running, that is to keep me humble and in line, teaching me to obey orders without driving me away, which is what a lashing would have done. I am not a slave and I will not tolerate the lash, not again. I'm actually quite thankful that she recognized that, because I really do want to be a Sentinel.
+
+As for the gold... that hurts me, but not too badly. I love money and earning it just to pay someone else is just sad, although it shouldn't be too difficult. My original 7.5 gold per month has now blossomed into 33.5 gold, but with what I have on hand I can afford to pay for almost three months of salary, giving me a nice little buffer while I earn more. All I need are ingredients and I can make more medicine, and with Huu watching my back, I can go deeper into the mountains and take more risks than I would with Lin following me around. Who knows, maybe we get lucky and find something valuable again.
+
+Paying the wages actually makes me feel a little better about my fuck up, as I still feel guilty about Bulat and the others being forced to take the oaths. Even though all the other soldiers took the oaths willingly, they at least were given the choice, which makes a world of difference. Ravil and the others were forced into it, although the others seem okay with their current situation, that might change once they also succeed at healing and have to suffer like Ravil does. At least I can pay them a fair wage and tell myself they are being fairly treated. 'No, I'm a good slave owner, I take care of my lackeys, it's only quasi-slavery'.
+
+I try not to dwell on it too much.
+
+The worst part of my punishment is the leadership position. While I was kind of happy to be in charge of 15 soldiers, being in charge of four times that number is daunting. Just remembering 67 names is difficult enough, but I also need to make sure they settle in and integrate with the Sentinels, which I have no idea how to do. I've barely integrated with the Sentinels, so what does she expect me to do, arrange for trust fall exercises or something? Play a resounding game of darts, with friendship as the prize? Besides, being a leader makes me a target and a scapegoat for any mishaps that occur, a stress I don't need in my life, which leaves me with only one option.
+
+I need to appear as incompetent as possible.
+
+If I can do that without causing too much harm, maybe Akanai will just shrug and think 'not everyone can lead' which would be perfect. I'd rather be a follower, with fewer responsibilities and decisions. I can't fuck up too badly, I just need to appear inept and ineffectual as a leader, so she will give up on me and find a different project to work on, leaving me to be a simple soldier/medic. Flattering as her decision is, I feel like it has less to do with who I am and more to do with the fact that I am betrothed to her daughter. Everyone wants what's best for their kids, and Akanai is just trying to help her daughter's husband succeed. It's kind of sweet, but not something I want, but there's no way I can just tell her that, not now.
+
+A burst of motion catches us off guard and we raise our bows in unison as a small herd of deer burst out of the treeline, running across the open field at a breakneck pace, their prancing gait making them seem as though their hooves barely touch the ground. My eyes narrow in focus before I remember Huu's advice, opening them both wide and staring at my target.
+
+Exhale.
+
+Release.
+
+Hold breath and hope.
+
+My arrow soars through the air only half a second behind Huu's first arrow, his second arrow following closely after, Huu finding the mark with both his shots, while mine sinks deep into a deer's neck as well. Whooping in joy, I punch the air, smiling until my face hurts. “Three big deer, we're going to be eating well tonight! There's just something about catching your own meals that makes it taste better, I don't know what it is.”
+
+“That would be the sweet flavor of victory and hard-work my friend.” Clapping me on the back, he heads out with me to collect our spoils, Jaga following along obediently. “Good shot”
+
+“Thank you, but it's nothing compared to you, two arrows, two deer, if you want to do better than that then you're going to need a bigger arrow.” Looking back in the direction the deer came from, I wonder out loud, “What were those deer running from anyways?”
+
+Huu begins to answer, but a blur of motion causes me to react, time contracting as I shove Huu aside and dive awkwardly to the other, a golden brown streak of fur crashing through the space we only just occupied. Landing hard in a controlled slide, it skids across the grass and dirt, spinning to meet us in a graceful manner with a piercing yowl that sends a shiver down my spine. Crouched and ready to pounce, it continues to make sounds of warning, like rumbling from deep in the earth while its yellow eyes glare at us, daring us to make a move.
+
+A wildcat the size of a pony, its enormous fangs and dagger-like claws are prominently displayed only a few meters away from us, the three of us deadlocked with Huu and I too terrified to move and the cat too wary to pounce, unsure how we had avoided its killing lunge. Only a single second of time from when it first arrived to now, and it feels as if it had been an eternity in the happening. Standing before the angry creature, I lick my lips slowly while Huu lays prone to my right, his bow at his side, unable to regain his balance, not expecting to be pushed. As he slowly raises his bow, the cat's back arches and its tail violently thrashes from side to side, the warning growl rising in a crescendo and pitch, quieting back down to a warning rumble when he lowers his hand again.
+
+Smart cat. Good kitty. Just stay where you are.
+
+My right hand on Peace, I ready myself to draw in an instant, not wanting to make any unnecessary movements, the tense atmosphere raising my blood pressure to unreasonable heights, my brain processing each sensation with surprising clarity, the cool path of a single bead of sweat, making its way down my neck, the musky scent of rotten meat, emanating from the cat's mouth, the taste of blood from where I bit the side of my mouth. My heart beats a single time, the thumping echoing in my ears and the silence that follows is almost deafening, an emptiness that yearns to be filled.
+
+I sense the pounce before anything else, no clue about its intentions besides a gut feeling, and I explode into motion, taking a single step diagonally, forward and to the right. The cat's outstretched paws lead the way as it pounces towards Huu like a bolt of lightning, its mouth opened wide and ready to kill, the primal creature choosing to attack what it deemed was an easy kill. Peace reverberates as it cuts through the air, chiming from the vibrations left in its wake, biting deep into the wildcats shoulder as it passes by. With every ounce of strength I can muster, I follow through with the strike, the impact exploding with power as I push forward, the yowl turning into a shrieking wail as its body sails to the right of its intended target, swatted away mid-air to crash into the dirt only centimeters from Huu.
+
+My heart beats a second time before time resumes its normal course, a hammering chorus as it threatens to leap out of my chest, the world closing in around me as I pant for breath. Huu rolls away from the frenzied clawing of the wildcat and leaps to his feet, loosing arrow after arrow from point-blank range, firing without thinking as it tries to get up to strike again, continuing long after the creature stops moving, its corpse pincushioned by a half-dozen arrows, Huu still reaching for more. The world is silent except for my heavy panting and the twang of Huu's bowstring as he continues to fire away, too shocked to do anything else until his arrows run out. Peace is still held horizontally in my grip, blood dripping from the blade, Huu's bow still pointed at the corpse while his other hand sits inside his quiver, both of us taking the time to contemplate just how close we came to dying while staring at the almost pitiful remains of our would-be killer.
+
+There's no way I can last a year without almost dying, not unless I really decide to become a hermit.
+
+“Well then, I think we learned something today.” Huu turns towards my voice with a blank expression on his face, and I can't help but stare at his wolf ears. “Cats really fucking hate you.”
+
+His slack-jawed face stares at me while I stare at his ears, the silver-furred tufts slightly bent, making him look like a friendly dog and not wolf, and I can't help but chuckle at the thought. Cats and dogs. After a few seconds, the both of us begin roaring in laughter, giddy as the unspent adrenaline makes it way through our system, happy to be alive.
+
+Still chuckling beneath my breath, I unpack my kit and start treating a few small lacerations on Huu's arm, the fly by pounce managing to nick him. “That was incredible Rain, you moved so quickly I barely even realized what was going on until the cat landed beside me. You saved my life twice in as many seconds, and here I was talking about watching your back, when you're the one who is watching mine.” He lets out a self-depreciating chuckle as he shakes his head. “I should have noticed the cat, it isn't normal for deer to be running full tilt like that.”
+
+“Hey, I know you have my back and I have yours. No need to keep score and nothing to worry about, we're both still in one piece.” His arm bandaged, we grab a few sturdy branches and begin lashing the animals to them in preparation to carry them back to camp, letting them bleed out while we travel. It may attract more predators that way, but there's too much meat for Jaga to carry. I need to buy a new quin soon, this is getting ridiculous. I wonder if the wagon quins are cheaper, they aren't trained to fight but most of my squad is riding them anyways, because there just aren't enough battle-trained quins available. I'm fucking terrible fighting on quinback anyways, it's easier to fight on foot.
+
+Our kills secured, we steadily march back to camp, Huu leading the way while we carry four large carcasses between us, over 1000kg in weight in total. Salivating at the thought of deer steaks and grimacing at the thought of cat stew, I walk in silence, our first day of travel at an end.
+
+I don't know what we're going to do when we reach the Bridge, but I'm going to try to enjoy the time we have until then.
+
+I have a feeling that once shit goes down, there won't be many good times to be had for a while.
+
+A rustle in the bushes causes us to drop the carcasses, our weapons drawn in an instant, both of us on high alert. A trio of fearsome creatures burst out from the undergrowth, mewling ferociously as they claw the air, my unmanly squeal ringing out through the forest.
+
+“Kitties!”
+
+Chapter Meme

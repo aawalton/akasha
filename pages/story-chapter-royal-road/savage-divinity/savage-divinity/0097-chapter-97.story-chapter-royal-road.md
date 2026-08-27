@@ -1,0 +1,137 @@
+---
+id: 7e81c424-3552-5289-ab83-c73c89b0ef4f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 97"
+slug: 0097-chapter-97
+partOf: savage-divinity
+position: 97
+ownLength: 3819
+unit: words
+publishedAt: 2016-07-22
+link: "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/82994/chapter-97"
+royalRoadId: "82994"
+---
+
+The tension is palpable as I wait for Mila to speak, the look on her face physically painful to me, a mixture of disbelief and betrayal, as if I had just confessed to murdering children or some equally unspeakable crime. Standing at her side as always, Li Song looks eager and animated for a change, something I would be delighted by, except for the fact that she seems to be enthused at the chance to spill my blood. The hunger in her eyes sends a slight chill down my spine, her demeanor announcing aggression while she anxiously clutches at her saber.
+
+Keeping an eye on the blood-crazy Song, I try my best to reason with Mila while fighting the urge to back away. You don't retreat from a predator and that is exactly what Song appears to be at the moment, poised for action and ready to explode into violence. “Look, I don't see what the big deal is, I just want to help a few injured soldiers, it's nothing serious.” Mila's expression darkens, her temper visibly flaring as her eyes narrow in annoyance, a crimson tint developing in her cheeks and the audible sound of her teeth grinding making me flinch. Should have kept my mouth shut and denied everything. Stupid.
+
+Turning to the soldiers, Mila draws herself up to her full, dainty height and speaks in a commanding tone. “Soldiers, I will ask that you stay where you are while I speak to Rain in private. Song, please keep an eye on them, and feel free to maim anyone who attempts to leave.” Cringing as her hand reaches out towards me, I follow along unwillingly with Mila's steely grip dragging me away from the soldiers, my heels leaving a small trail of upturned dirt in my wake. Trying to free myself without struggling too much, I wonder in horror at just what sort of adorable monster I've been betrothed to. She's always been stronger than me, beating me in every spar we've ever had without breaking a sweat, but for the first time I've been given a glimpse at her true, prodigious strength, and the realization that she can snap me like a twig sends my stomach into somersaults. Even after all my improvements, I'm barely more than an ant to her.
+
+Abandoning all thoughts of ever trying to push her down, I bluster without thinking, hoping to calm her down. “Uh, look, I know you're angry but do you really think it was necessary to threaten those guys? They're soldiers and while they're good people, I can't imagine that they take threats very well. Maybe we should stick around, just in case there's a misunderstanding or something, you know how Song can be at times. She might actually maim someone.” Plus, I'd like for there to be witnesses, the vibe Mila's giving off is very different from her normal, playfully smug attitude.
+
+Thankfully, we don't go far, just out of sight around a small bend. Stopping in her tracks, Mila forcibly swings me about to face her, subjecting me to the full might of her fearsome glare, her voice lowered to an angry hiss as she asks, “What is the matter with you? You bull-headed, mulish ass, of all the arrogant things you have done, this is the worst. Why would you disobey Mama like this? If word were to spread about your actions, Mama would have no choice but to punish you, and do so harshly!”
+
+Feeling more than a little resentful at her accusations, I answer without thinking. “It's my discovery, why can't I teach anyone I want?” That sounded childish even to me. “Think of all the good it could do, if normal people were able to take care of their injuries easily. Those soldiers over there had all but given up on life just because of a disability, and I have the means to help them. What else should I have done?”
+
+“Ugh, you're an idiot, Rain, a well-meaning idiot, but still an idiot in the end. It doesn't matter what the order was about, you disobeyed a direct order from your commanding officer, in the field, during a time of martial law! That is a capital offense Rain, and if anyone finds out, Mama would lose face by letting you go without reprimand. It would be good enough for you to avoid execution, you dog-shit bird-brain.”
+
+The stark realization of what I've actually done sinks in, and it shows in my face, Mila's expression turning to one of pity and compassion as she silently waits for me to finish processing my thoughts. Taking a deep breath, I express my feelings on the matter at hand in an eloquent, yet succinct manner. “Well fuck.”
+
+“You know, sometimes, with how smart you like to act, it's easy for everyone to forget just how much of a blockhead you really are. What were you even thinking? You can't even teach Tokta how to use your method, why would you try to teach those random soldiers?”
+
+“They aren't random.” Not entirely, at least, I mean they invited me to drink with them, that means we're sort of friends, right? The two of us settle into the grass and she listens patiently as I tell her about the encounter with the cook and why I made my decision. “I couldn't just leave them alone, knowing I could help them, it isn't right how they're treated. I even thought it all through carefully, my method of healing is less technical than what Tokta is used to, so I figured he was having trouble because he was over thinking things. Maybe with a few blank slates, It would be easier to guide them through the process.”
+
+With a weak smile, she leans into me while shaking her head. “Only you could conclude that too much knowledge is a bad thing. I don't know why you are so upset about their treatment, Mama already offered to take care of them after they are discharged.”
+
+“They have their pride, and while it's admirable that Akanai offered to look after them, a life spent at the mercy of another doesn't exactly inspire optimism.”
+
+Her dainty snort brings a small smile to my face despite my current situation. “You really think that's something Mama would do, give charity to useless cripples? She would see them healed and put to work to pay off their debt, the Saint's Tribulation mountains are a hazardous place to live and Mama will always have use for trained soldiers.”
+
+A sinking pit develops where my stomach used to be, all of my righteous indignation draining away into it and leaving me cold and scared. “What? Bulat said that Akanai offered to help them, but I was under the impression that was more of a goodwill sort of thing, food and shelter. They were all adamant about not accepting 'table scraps' or begging, they didn't say anything about healing.”
+
+“That's because Mama didn't announce that she was offering healing, if she did, those soldiers who have their own resources would simply take advantage, since Mama doesn't like having warriors swear oaths of obedience. 'A Sentinel fighting to defend his home is worth five slaves fighting under duress', and 'an oath-bound warrior is little better than a leashed hound', she's always saying things like that.”
+
+Feeling foolish, I brood over the fact that I disobeyed Akanai for nothing, unable to even look at Mila. “Well, then what's the big fuss about me telling people?” God, even I think I sound whiny, but panic is starting to settle in. I don't even have a good reason for my defiance.
+
+“Oh, Rain... A simplified method of regeneration would be heavily coveted by every faction and powerful individual in the Empire. Even if you released the information for free, they would still hunt you down to learn what you are hiding, because no one in their right mind would believe you were so altruistic. Or stupid.” She leans against me, resting her head on my shoulder, a comforting presence in my current predicament. “You mean well and have a big heart, but there is a proverb: the greatest harm comes from good intentions coupled with lack of understanding.”
+
+The blood drains from my face as I consider her words, the thought having never occurred to me. I had envisioned that telling everyone about my discovery would be met with celebration and good cheer, rewards from the Emperor or whoever, with everyone happy and in good cheer about the advance in medical treatment.
+
+I hate this fucking world.
+
+Mentally kicking myself, I resign myself to fate and ask, “So what do I do now?”
+
+My question earns me a small sigh as she settles back down, her arms wrapped around her knees. “That's a good question, but I don't have an answer that you'll like... You should go to Mama, tell her everything, and grovel for forgiveness.”
+
+A panicked laugh escapes from my lips, tinged with a hint of desperation. “When I made my decision to teach those soldiers, I said to myself that it was easier to beg for forgiveness than to ask for permission. Doesn't seem so easy anymore.”
+
+My observation earns me more scorn, her look filled with pity once again. “That's dumb, if you had asked for permission, the worst that could have happened was Mama saying no.”
+
+Taking a moment to imagine the worst in my current situation, I quietly ask, “Any other options?”
+
+Pausing for a moment, she considers her words carefully before speaking again. “We could silence all the soldiers and remove all traces of your wrongdoing. We should probably do that regardless, Mama will be relieved that you took care of your own mistakes, maybe even proud.”
+
+Once again I am reminded of the stark differences in mindset between myself and the people native to this world, sweet little Mila suggesting murder as a matter of course. “You weren't kidding when you said I wouldn't like your suggestions.”
+
+Her freckled face grimaces in a sour look, unhappy at my criticism, and I remind myself to be nicer to her. She's the only person on my side at the moment. “You have a better one?”
+
+“Well.. Couldn't I just ask the soldiers to take an oath to never speak about it?”
+
+Shaking her head, Mila answers in her teaching voice. “Oaths are not so simple, Rain. They need to be carefully worded and taken freely, with very little room for error. If they swear to not divulge your secret, they still might be overheard while chatting to one another or simply break their oath, selling the secret at the cost of their life. No oath short of complete obedience would be enough for Mama, not with something this dangerous, assuming those soldiers even agree to it. You have nothing to offer them Rain, so why would they swear obedience to you?”
+
+There goes that plan. Deciding to risk it, I go for broke, trying out my excuse. “But they don't even know anything specific, I only said that I might be able to teach them how to heal their injuries and that it was easier than they would expect.”
+
+“That's just semantics, you already made the decision to disobey and I can't lie or hide things from Mama, she'll figure it out, she always does.”
+
+Her plaintive whine makes me feel terrible about this, my heart aching in pity for the poor girl. It must have been difficult growing up as Akanai's daughter. “You don't need to lie, just... delay speaking to her until I do, so I can ask for permission. If she says yes, then no harm has been done.”
+
+She pauses for a moment, thinking over my proposal while I wait on the edge of my seat. “Absolutely not.” Her words cause me to slump in place, defeated by her unwavering demeanor. “It's a terrible idea, Mama will just refuse and then, when you actually confess, get angry that you tried to cover it up. Just listen to me Rain, go confess and accept your punishment, you were ignorant of how serious it was, but you cannot delay anymore. It will be worse if you try to hide it.”
+
+The certainty with which she says it leaves no room for debate, and I have no choice but to surrender to her logic. While I imagine the unforeseen consequences of my actions, my body begins to quiver in place, while Mila pats me on the back, trying to comfort me. Letting out a long sigh, I lean over to Mila, resting my head against hers.
+
+Brushing myself off as I stand, I hold my hand out to help Mila up, struggling to lift her deceptively heavy frame. “Well, we should go back and make sure Li Song hasn't mutilated anyone in our absence.” My statement earns me a tiny giggle, but I wasn't entirely joking. I really am concerned about those guys, more than I am for myself.
+
+Things won't be that bad for me, I'm Akanai's grand-Disciple, betrothed to her daughter, and the only one capable of utilizing panacea. She won't have me executed or whipped, that would just be too extreme.
+
+…
+
+Shit, I might be getting whipped.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+“Let me see if I have this right.” Setting aside her stack of reports, Akanai steepled her fingers together, giving Rain her full attention as she watched him quiver before her. Normally, his cowardice would have annoyed her, but in this particular instance he was right to fear for his safety. “Against my direct order, you exposed the existence of your invaluable healing technique to a group of unknown, irresponsible drunkard cripples, in an effort to impart to them said healing technique without remuneration, a technique you have been unable to teach Tokta, the most talented healer under my command. Did I miss anything?”
+
+Withering away with each word, Rain shuffled his feet weakly before her, staring down at the floor of her tent, trying to appear as apologetic and contrite as possible. “Um... Well no, but you framed it rather harshly.” She sat silently, trying to control her breathing, fighting the urge to lift him onto her table for a belting. A spoiled, arrogant child, that is what he was, always believing himself to be in the right, doing as he pleased without a care for the consequences.
+
+Sensing her displeasure, he spoke up once again, trying to excuse his behavior. “I didn't think about the consequences, only that I wanted to help them. I'm very sorry, but it isn't as bad as it seems, I didn't actually tell them that I have an.. erm … invaluable healing technique, just that I might be able to teach them to heal themselves, without all the book learning that they expected.”
+
+It was not enough that the Central Province reinforcements were all led by Society adherents, but now the boy sought to give other factions a reason to be hostile to the People. “Boy.” The word came out through gritted teeth. “Just the last part of the sentence you spoke, if repeated in educated ears, would be enough to put every person living within the Saint's Tribulation mountains at risk. Warriors from every faction would flock to us, interrogating anyone they find about your healing technique, stopping at nothing to either learn your technique or ensure that no one else is able to.”
+
+His face spoke volumes as her words sunk into his thick skull, his breath coming in panicked gasps, seeming so pitiful that she almost moved around her desk to support him, worried that he would faint where he stood. His amber eyes grew wide and unfocused as he finally fully understood just how serious a matter this had become, he knees wobbling as he struggled beneath the weight of his actions. It did not last long, the boy nothing if not resilient, regaining his poise after a few moments, conscience-stricken and remorseful. Swallowing hard, he asked in a quiet, defeated tone, “So what do we do now?”
+
+“WE will do nothing!” Swallowing her rage as best she could, she threw her wooden table-spoon at him, the utensil bouncing off his chest and landing upon the floor. “Since you seem to have too much free time, you will go dig a new latrine, of regulation size, using only that spoon. Should anyone ask what you are doing, you will respond 'I am digging a latrine with a spoon because I cannot be trusted with anything more dangerous'. I expect you to repeat that exact phrase at the top of your voice to every single person that asks. Any time that you are not sleeping, eating or working with Tokta, you will be digging. Understood?”
+
+“Uh, yes Lieutenant General Chief Provost Sir.”
+
+“I'm not sure you do understand, because you are still standing here, and not Out. There. Digging.” After stammering out a farewell, Rain rushed out of her tent in a panic, before quickly returning for the spoon. If the boy were not so loved by the pup she may have done worse, although she had no idea what. Perhaps a little humiliation would humble the boy and cause him to think twice before defying her again until she could come up with a suitable punishment for him.
+
+The nerve on that one, willfully defying her orders without blinking, only coming to her for help once he realized his mistake. A good thing the boy had come without trying to hide his errors, else she would have washed her hands of him completely, throwing him out of the Sentinels and her life. Letting out a long sigh of frustration, Akanai took a moment to compose herself, organizing her reports while she let her anger fade. It was difficult to find ways to discipline the boy without resorting to or threatening violence, something the pup insisted that she avoid while citing his past as a slave, but she sometimes dreamed of throttling the arrogant child, if only to relieve her frustrations.
+
+Her desk arranged nicely, she picked up a report to peruse and Sent for Mila to bring in the first of Rain's misfits, a soldier who hobbled into her tent on a pair of crude crutches, his leg removed below the knee. Bulat, 23 years old, a soldier for seven and still a private without ranking, an … impressive feat that showed he was capable (or lucky) enough to survive, yet not competent enough to promote, not even to private first class. Allowing him to take a seat, she kept him waiting while she pretended to read the report, leaving the man to sweat before her. Able to smell the alcohol on his breath from across the desk, she noticed his disorderly appearance and covert glances at her bosom, her eyelid twitching at the sight. It was no wonder Rain liked the man, so far, they were almost the same person.
+
+Inwardly grimacing, she put her report down and steepled her fingers once again. “I understand that you attended lessons given by Rain.” Bulat being so similar to Rain was not to his advantage. Having one insubordinate drunken lech was already causing her so much headache, she loathed the idea of adding another to her command.
+
+“Aye indeed, just the one lesson, the little hero was kindly teaching Old Bulat and his friends how to heal, yer Lieutenant General'ship.” His brow and collar was quickly soaking through with sweat, the man's nervousness threatening to overcome him. “I told him that Old Bulat don't know much, with no good book learnings, but the little hero insisted on trying.”
+
+“What did he teach you?” Carefully keeping her expression neutral, she listened as the young man stammered out the day's lesson, a simple matter of inner examination, something every child learned to do at 8 years old in the village. She listened carefully, asking him more questions about his life, a child of the slums, working to support his mother, an admirable goal. It was a travesty how the poor were treated inside the cities, but there was little anyone could do, not even little Hai had enough coin to fix all his problems. A simple matter of too many people living behind the walls, but at the very least, they could survive there without much threat, unlike the harsh life outside the walls.
+
+After a half-hour of questioning, she decided that either the man truly knew nothing about Rain's discovery or he was a masterful liar and actor. Coming to the crux of the matter, she spoke bluntly, without hiding her intentions. “The loss of your leg ensures that you will be dismissed from the army, and I am considering offering you a place among my Sentinels.” She watched the rapid flicker of emotions cross through his eyes, confusion followed by optimism and immediately quashed by cynical skepticism. A pragmatist, this one grew up fighting for scraps of food and affection, he would not believe an offer that was too advantageous to him.
+
+Quickly deciding on her course of action from that tiny glance into his eyes, she smiled and went with her gut. “The boy disclosed a secret that was not his to tell, so I must choose between having you swear an oath to join my Sentinels, or cutting your throat and feeding you to the river.”
+
+She studied his reaction as he went stock still for a heartbeat, before a look of amazement crossed his face. “So the little hero isn't bragging, he really can teach Old Bulat how to heal?”
+
+“If you do not believe him, why join him for the lesson?”
+
+He shrugged his large shoulders, scratching at his scraggly beard, looking every bit the oaf. “Old Bulat got nothin' better to do. So, what sort of pay are we looking at here? What would be my duties? What's the living situation? I'd like to bring me old Ma out to live with me, with me sisters both married out, ain't no one to care for her but Old Bulat.”
+
+Incredulous, Akanai blurted out, “I offer you a choice between service and death, and you want to ask about benefits?”
+
+Shrugging once again, he simply stated, “If I die in the field, me Ma gets the blood money, enough to keep her for years if she's careful.”
+
+Resisting the urge to throttle him, she reluctantly began negotiating with Bulat, hoping that the other six would be more easily managed. It was difficult to threaten a man unconcerned about death, and Bulat seemed as fearless as any. Perhaps he would be well worth the effort, an unpolished piece of jade, but she judged it highly unlikely, even hoping that Bulat would remain mediocre.
+
+She simply did not have it in her to deal with a second talented troublemaker.
+
+Chapter Meme

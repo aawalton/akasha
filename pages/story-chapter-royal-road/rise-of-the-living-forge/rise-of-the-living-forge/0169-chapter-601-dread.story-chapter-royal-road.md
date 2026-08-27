@@ -1,0 +1,137 @@
+---
+id: 4709a738-5a8d-5833-ba13-1f9600b396b2
+page-type-slug: story-chapter-royal-road
+title: "Chapter 601: Dread"
+slug: 0169-chapter-601-dread
+partOf: rise-of-the-living-forge
+position: 169
+ownLength: 2075
+unit: words
+publishedAt: 2026-06-02
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3483280/chapter-601-dread"
+royalRoadId: "3483280"
+---
+
+“A Leyline?” Wallace asked, his eyes going wide. He looked from Arwin to Koyu. “You think the Guild is transforming a literal Leyline into magical weapons?”
+
+“It adds up, doesn’t it?” Arwin asked. “What else could possibly explain the situation we’ve got on our hands right now? There’s a piece of the Mesh in that dagger, and it’s dead. How could something like that ever come into being? The only answer is a Leyline… unless you know another way in which the Mesh is manifested?”
+
+Wallace was silent for several long seconds. Then the dwarf shook his head. “I don’t. But this is raw magic we’re talking about. Concentrated power at a level that would melt away most minds in a span of instants. Even a powerful smith would be beyond hard-pressed to craft with it. I can’t begin to imagine how the Guild — those mouth-breathing morons — would not only manage to carve away a piece of a Leyline, but then also kill it.”
+
+“And they would have to do it without the Mesh noticing,” Koyu observed quietly. He crossed his pale blue arms behind his back, but his features were carved with thoughts. “It is not so easy to fool an entity like that. Magic runs through every part of this world. Slipping something under its nose — especially something so significant — would be deeply difficult.”
+
+Wallace looked back to the dagger. He tugged on his beard furiously, as if he were testing the strength of the hairs holding it to his chin. Then he blew out a sharp breath. “This is a lot of guessing. More than I’m a fan of doing. Leaves too many openings for a fault. But if we assume the Guild somehow did manage to carve a piece of a Leyline out, kill it, and forge it into a dagger, all without the Mesh noticing anything at all… that would indeed explain why these daggers are capable of stealing magic.”
+
+“And it could explain why the world is dying,” Arwin said. He felt more certain of his words the more he spoke. “It all makes sense. What if these daggers aren’t the extent of it? What if there are other weapons like these? Bigger ones? Stronger ones? If they’re taking pieces of the power latent to the world away, that magic is never re-entering the cycle. It’s just sitting. Dormant. And who knows how much of it they’ve stolen?”
+
+“If you’re right, you do realize what you’re implying, right?” Wallace asked grimly. “It would mean the Guild has a stash of weapons far, far more powerful than these daggers. And presumably quite a few of them. The Mesh itself is taking action because of what you are now implying to be the Guild’s direct movements, Arwin. Can you even imagine the scale of what we’re dealing with if you’re right?”
+
+That took the wind out of Arwin’s sails. His face paled. “Shit.”
+
+“Shit,” Koyu agreed. “But I would not go so far as to determine this is our problem. Wallace was right. We should limit how many assumptions we make. It is through incorrectly based theories that the easiest answers are missed. Before we do anything else, the most pressing matter is to verify the nature of the dagger.”
+
+“How?” Wallace asked. He nodded to the dagger. “What can we even do with that? I can’t un-forge something. I don’t reckon the two of you are any different. If there really is a piece of a Leyline somewhere within it, we’ll have to tear that thing apart searching for it. There’s a good chance we lose it. Magical weapons don’t tend to withstand people tinkering with them”
+
+Arwin’s lips pursed. The room fell silent for several long seconds as everyone thought. Then a ripple of red smoke passed through the air.
+
+“There are other methods that can be used,” it said, and the flicker of surprise that passed across Wallace and Koyu’s features made it clear they could all hear it. “Smithing is not the only path for such things.”
+
+“Esmerelda!” Arwin exclaimed. “She might be able to melt the dagger down or something with her magic!”
+
+Koyu and Wallace exchanged a glance.
+
+“As good a bet as any,” Wallace said. “If there’s anyone that knows powerful magical weapons, it’s probably her. Besides, if Arwin’s vision didn’t work to figure out more details about the dagger, this seems like our best bet.”
+
+“It won’t hurt to ask,” Koyu agreed. “At the very least, we should bring her here and see her thoughts. Esmerelda is old. And, while I rotted away on this street, she still wandered the world. There may be some insight she has that even I cannot offer.”
+
+***
+
+“Mad,” Esmerelda said. “You’re all mad.”
+
+It had been pretty easy to find her. She’d come quite quickly when Arwin had given her a brief rundown of the situation, then sat and listened as Arwin had filled her in on what the three of them had spoken about until they’d come to get her.
+
+“That is not very productive,” Koyu said.
+
+“I never claimed to be,” Esmerelda replied. She thrust a finger at the dagger. “But you honestly think that the Guild has managed to steal away a sliver of a Leyline and pound it into a chunk of metal? Do you have any idea how much magical power runs through Leylines?”
+
+“Yes,” Koyu said. “I have been in one.”
+
+“You’re a Lich,” Esmerelda said. She turned to Arwin. “And you’re… you. But the dwarf should know better.”
+
+“It is just a theory,” Wallace said. He crossed his arms in front of his chest. “And one that seems somewhat sound. We do not know what the Guild is capable of. They have been around for a very long time. I cannot account for every possibility.”
+
+“The power of a Leyline is enough to melt away even powerful Adventurers,” Esmerelda said flatly. “If someone had somehow managed to condense even a drop of its power into a weapon, that weapon would put out energy like there was no tomorrow. Placing it into something that seems as mundane as these daggers… it would be like dropping a baby into an active volcano.”
+
+“What’s that even meant to mean?” Wallace asked. “Analogies are meant to make things clearer. I don’t know what would happen if—”
+
+“It would probably explode,” Esmerelda said.
+
+“I don’t think that’s what would happen,” Arwin said.
+
+Esmerelda sent him a flat look out of the corners of her eyes. “Well, I’m saying it would. There’s absolutely no way you could condense a fucking Leyline into a shitty little dagger and then hide its magical signature to such an extent. Even the most powerful Devils I have put out more aura than this thing. Necrohammer certainly used some old, powerful magic to create this… but it can’t be a piece of a Leyline. We’d know. The whole room would probably be glowing gold.”
+
+“Just humor us,” Arwin said. “No matter what the case may be, we need to know what this dagger is made out of. That’s the only way to figure anything out for sure. And I don’t think anyone has a better chance of doing that than you. My Vision failed.”
+
+Esmerelda pursed her lips. She was silent for a second. Then she shrugged one shoulder. “I could probably melt it apart, starting with the weakest of the magical materials and working my way up in hopes of isolating something. But it’s going to damage the dagger beyond repair. You’ll be throwing away the only one we’ve got.”
+
+“It’s not throwing anything away if we get useful information out of it,” Koyu said. “We should do it.”
+
+“Should we get the others?” Wallace asked. “In case one of us misses something important?”
+
+Esmerelda scoffed. “Trust me. I won’t. I know what I’m doing. Whatever materials this evil little chunk of shit has in it, I’ll find them. I expect you’ll find that the magic was never in the materials, though. It’s in the enchantment. That’s how weapons like this are. And if that’s the case… you won’t find anything at all. It’ll just be gone, and nobody will be able to get it back or see what the magic once was.”
+
+“It’s your call,” Wallace said, looking to Arwin.
+
+“I know what the Vision showed me,” Arwin said. He nodded firmly. “Take it apart, Esmerelda.”
+
+Esmerelda shrugged. Then she snapped her fingers. “A cauldron, dear. Please. And a  big one. I don’t work with small bowls.”
+
+The ground rippled. Obsidian rose up, melting together into the shape of a wide cauldron. A satisfied grin splayed across Esmerelda’s lips and she reached into a pocket, pulling out a small vial of clear liquid. She removed the glass stopper and upended it over the cauldron.
+
+The contents of the vial spilled out. And then they kept coming, liquid pouring for far longer than it had any right to from such a tiny vessel. It continued until the cauldron had been filled well over halfway. Only then did Esmerelda carefully right the vial and return the glass stopper to it before slipping it back into a pocket.
+
+“What?” Wallace muttered, mostly to himself. “What kind of enchantment is that? An endless mug, but for potions? I’ve never seen—”
+
+“In goes the dagger,” Esmerelda said firmly. “This acid isn’t going to stick around forever. Then be quiet and keep your eyes on the bowl. If there’s any truly powerful magical material in this thing in this thing, then it’ll make itself clear pretty soon. And if there’s a bit of a Leyline in it… well, you’ll know.”
+
+They all nodded. Then Arwin gingerly picked the dagger up. He carefully brought it over the bowl, then glanced at Esmerelda.
+
+“Tell me when.”
+
+The old woman’s eyes narrowed in concentration. She let out a slow breath, then gripped the sides of the cauldron. Coils of green magic wound out across the metal to weave into the acid, making it bubble.
+
+“Now,” Esmerelda said. “Just get ready for a boring waste of a perfectly good lead.”
+
+Arwin dropped the dagger into the cauldron.
+
+It landed without so much as a splash, immediately sinking into the clear liquid and falling all the way down to the bottom of the obsidian cauldron. Tiny bubbles beaded up on its surface, hissing furiously as they rose up to the liquid’s surface.
+
+Then the dagger started to dissolve.
+
+It wasn’t a slow process. Huge chunks of it disintegrated, falling away so quickly that Arwin barely even had a chance to realize what was happening before less than a quarter of the weapon remained. It only took seconds for it to almost entirely vanish.
+
+Then final chunk of the dagger melted away. But, instead of fading to nothing, it left behind a tiny chunk of what almost looked like coal. It was pitch black and no larger than the fingernail on Arwin’ pinky.
+
+Arwin’s skin prickled.
+
+Esmerelda’s brow furrowed. “What—”
+
+The world flashed white. A wave of magical energy slammed into Arwin, picking him off his feet and launching him across the Armory. He slammed into the wall with a loud crash, dropping to the ground with a pained wheeze.
+
+His instincts took over. Arwin rolled over and threw himself back to his feet, staggering as he rose, the world still spinning around him. The others had been thrown in every odd direction and laid all across the room, stunned.
+
+Esmerelda’s cauldron had cracked down the middle. There was no trace of the acid that had been within it, but a thick cloud of pitch-black smoke twisted in the air where it had been.
+
+Everyone else slowly rose back to their feet, staring in disbelief as the smoke slowly dissipated.
+
+There were several long seconds of silence.
+
+“What the fuck was that?” Wallace asked.
+
+“It seems that I must apologize,” Esmerelda said, wiping some soot from her face and blinking heavily. “It seems that I was dead wrong. That magic… it was immense. My power should have suppressed it entirely. I’ve contained Legendary items with this spell without so much as a hitch. There’s only one thing that could have generated so much force with such a tiny chunk.”
+
+“A piece of a Leyline,” Arwin said grimly.
+
+“I’m afraid so,” Esmerelda agreed. And, for once, there was no sarcasm in her voice.
+
+There was only dread.

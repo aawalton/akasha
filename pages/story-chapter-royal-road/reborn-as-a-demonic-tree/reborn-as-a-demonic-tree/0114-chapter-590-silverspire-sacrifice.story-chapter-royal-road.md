@@ -1,0 +1,179 @@
+---
+id: 89b505ae-8f69-572a-8cdb-6bf5a681b79c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 590: Silverspire Sacrifice"
+slug: 0114-chapter-590-silverspire-sacrifice
+partOf: reborn-as-a-demonic-tree
+position: 114
+ownLength: 2654
+unit: words
+publishedAt: 2026-07-13
+link: "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3672633/chapter-590-silverspire-sacrifice"
+royalRoadId: "3672633"
+---
+
+Argentum, Silverspire Peak.
+
+Ryker Silverspire had been home for just over a month, and every day of it had been a headache.
+
+Despite his close aide Sebastian being the one to inherit the Silver Core from his father after his successful ascension to the Golden Core Realm, many duties were still passed onto him as the next head of the family.
+
+Namely, dealing with house politics, which his father should really be overseeing, but since he was responsible for most of it after killing his father's first wife, Zenovia, here Ryker was.
+
+Across the table, Valessia glared at him with the particular hatred only a sister whose mother you'd personally killed could manage. He understood it. He didn't much care, but he understood it.
+
+"What is it you wished to speak about, sister?" he said, keeping a straight face.
+
+Valessia didn't answer immediately. She sat with her spine straight and her hands folded in her lap, the picture of composure that her mother had drilled into her since she could walk. The resemblance to Zenovia was uncomfortable. Same silver-white hair, same icy blue eyes, same permanent expression of disdain.
+
+What could she possibly want? She has openly hated me since I inherited the Silver Core. People who hate you don't request private meetings unless they've run out of other options.
+
+"The Lunarsteel branch is being absorbed," Valessia said at last. Her voice was steady, but Ryker could tell she was nervous. "Our Elders have begun pledging their service directly to Father since there's no Matriarch to answer to. Within a year, the branch won't exist as a separate entity. It'll just be folds of the main family."
+
+Ryker waited. She clicked her tongue.
+
+"I want you to designate me as acting head of the Lunarsteel branch until I'm old enough to formally claim the title."
+
+"You want me," Ryker said slowly, as if not believing what he was hearing, "to give your mother's branch to you? Why not ask Father for this?"
+
+"I—"
+
+"Let me guess, you already did, and he said no," Ryker said, which was answered with silence, which filled Ryker with relief. Sebastian had briefed him before this meeting on what Valessia likely wanted and how to respond. People knew he was young and wanted to take advantage of his inexperience to use him. Day and night, since arriving here, Sebastian and his mother had drilled him on how to navigate the family politics. He hadn't had a moment to think about cultivating.
+
+Ryker sighed and leaned back in his chair. "Sister, you have to understand that Zenovia was ruthless. As the first wife, she had time to consolidate power, which she used to bully the other wives, my mother included."
+
+He failed to mention that Zenovia had gone so far as to chain his mother before a demonic sword and sell out the family and the Ashfallen Sect to the Celestial Empire enforcers.
+
+Ryker continued with a dismissive tone. "It's no wonder Father has no desire to pass on the key to her power base to you."
+
+Valessia erupted. "It's my birthright, Ryker! I was to inherit it from her. Before you took her from me!"
+
+Ryker glared at her. "You know precisely why your foolish mother was struck down by my sword," he said sternly, hating how juvenile his voice sounded. "But to answer your question, Father has no reason to hand over the Elders who were once loyal to Zenovia if they are willingly pledging themselves to him."
+
+"You have more authority in this family than Father does," Valessia said, her jaw tight. "Everyone knows it. Your closeness with the slaughter princess makes him defer to you on anything that matters. If you asked him, he would agree."
+
+Ryker pinched the bridge of his nose. "I came back here to keep the peace, not to leverage the Princess against my own father and act like a tyrant. Yes, he would likely fold to my demands, but he is still the current head of this family, and I have no intention of undermining him over a matter he has already decided—"
+
+"You're also disgustingly rich," she said, interrupting him. "Money is all that people respect around here, and you own a sizable share of the Ashfallen Trading Company. I bet you could buy Father at this point."
+
+"Are you done?"
+
+She wasn't, judging by her expression. But before she could continue stating her pointless case, a wave of bloodlust so thick it stole Ryker's breath rolled through the room. He was on his feet before he'd consciously decided to move—the stream of silver orbiting him condensed into a shield.
+
+Valessia had mirrored him. She stood pressed against the opposite wall beside the door, multiple defensive artifacts blazing to life across her body in overlapping layers.
+
+There was a tense moment as they stared at each other.
+
+"That wasn't you?" she asked, her eyes wide with fear.
+
+"No," Ryker said, lowering his shield. "This discussion will have to resume at a later date. Stand aside."
+
+Valessia didn't offer any resistance. She collapsed beside a nearby wall, her face pale. Ryker passed her by and headed for the meeting hall, where he assumed his father and the relevant Elders would be rushing to see what had happened.
+
+The entire palace was in shock, with the intense bloodlust blanketing the land seemingly affecting the cultivators more than the mortal servants working the halls. Arriving in the meeting hall, everyone was gathered as expected.
+
+His father, Cassian Von Silverspire, was the first to notice his arrival. He struck a striking figure among all the gathered Elders and wives, with strands of gold for hair, an imposing stature, and sharp eyes. Compared to Ryker, who was limited by his age and stature, his father had always easily commanded the respect of those around him. Sebastian was also there, his close aide having reached the upper stages of the Silver Core with ease after inheriting his father's Silver Core.
+
+Yet as he entered the room, he felt all of the attention land on him.
+
+"Ryker, my boy, what is happening?" His father asked. His voice carried through the meeting hall with the weight of a Golden Core cultivator. While he couldn't stand up to the Monarchs in the Ashfallen Sect, he was equivalent in strength to some of the Grand Elders, making him the strongest in the room.
+
+"My apologies, Father, I thought you may know."
+
+"Well, I have an idea," Cassian Von Silverspire said, gesturing to a large window in the room that faced Red Vine Peak. While Ryker couldn't see Ashlock from this distance, he could certainly feel his presence weighing down on the horizon like a looming disaster.
+
+"Has something happened to the Ashfallen Sect?" Ryker asked, panic creeping into his tone. He wasn't a fool—the moment his relationship with the Princess fell apart, his siblings would eat him alive. They were also the source of his admittedly vast wealth, which he used to fund his cultivation and expand the number of Elders and subordinates who answered to his mother.
+
+"It is likely," Cassian Von Silverspire frowned. "What's odd is that none of our communication attempts with the Ashfallen Sect are going through. It's as if there's nobody there to answer us."
+
+Ryker didn't like the sound of that. He rushed to bring out his own communication jade and messaged Stella. He stood there, patiently awaiting a response for a long moment, while he felt the gazes of everyone in the room.
+
+Nothing.
+
+"What about the ethereal root network?" he asked his father.
+
+"I've sent a group of Elders, but the network is flooded with desolation Qi and bloodlust. It would take a Monarch to brave those tunnels right now."
+
+"Then we should go and investigate. I'll take the fastest airship," Ryker said, seeing an opportunity to finally return to the Ashfallen Sect and escape his family politics.
+
+"Good thinking, my son." Cassian turned to one of his trusted Elders. "Elder Brennan, escort Ryker and let nothing befall him."
+
+The silent meaning was clear. If something happened to Ryker, this Elder was done for. The silver-haired Elder clasped his hands and bowed deeply. "I will see to it that nothing harms our most prized heir," he said respectfully before straightening up and leading him toward the exit.
+
+Bells began to ring in the distance, giving Ryker pause. He thought he had misheard for a moment, only for the bells to grow louder and closer to the palace. Dread set in as they could only mean one thing.
+
+Argentum was under attack.
+
+Everyone's gaze shifted to the smaller window facing south, where the bells had originated.
+
+Celestial Empire airships hung at the edge of Argentum's walls, parting a wall of smoke. Beneath them, the farmlands were ablaze. Fire continued to fall in sheets from the airships, blanketing the fields—the same fields Ryker had passed over on his way home, where mortals worked the soil from morning till night.
+
+Cassian Von Silverspire was the first to move in a room full of people standing frozen. He was already at the door before most had registered what they were seeing, his voice cutting through the ringing bells like a blade.
+
+"Everyone Silver Core Realm and above, with me. The rest should board the airships and take to the skies—we need to stop the advance of those airships past the wall." He stopped at the threshold and looked back, his gaze moving across his wives with the practiced efficiency of a man allocating resources. It landed on Vespera. "Lead the evacuations through your routes."
+
+No further explanation was needed. As Matriarch of the Silvernight branch and the head of the Ghost Edge assassin group, his second wife, Vespera, had a network of shadow paths threading through Argentum that the Celestial Empire didn't know about.
+
+"And me?" Selene asked. She stood apart from the others, her eyes already distant in a way Ryker recognized as her consulting the threads of fate.
+
+"The cannons and city defenses. You have the best read on what's coming." Cassian's gaze moved one last time. "Lyriana."
+
+His mother straightened slightly at the mention of her name.
+
+Unlike Selene's foresight or Vespera's shadow network, Lyriana's gifts were in artifact crafting—a painstaking, costly endeavor that Ryker helped fund and that had brought about great profit. Though it served no value in the opening minutes of a battle. Cassian seemed to realize this in an instant.
+
+"Keep yourself safe." Then he was gone, the Elders streaming after him into the corridor.
+
+The absence of a task seemed to wound Ryker's mother's pride, and her expression showed it. She had spent years building herself into something indispensable, and in the moment it mattered, she'd been told to stand aside.
+
+"Mother," Ryker said hurriedly. "This won't be an easy fight. Your artifacts will be invaluable. Get all of them out of storage and bring them to the front lines, okay?"
+
+She meekly nodded.
+
+Ryker had no time to offer her anything more. He turned and followed his father out into the sky above the palace. Cassian hovered without the need for a sword, his commanding presence at the forefront of the dozen Elders flying on swords in his stead.
+
+"Grand Elder, it's hopeless!" Elder Brennan called out, his voice cracking under the weight of what he could see. "That fleet outnumbers us ten to one, and their ships are twice the size of ours. Each one likely has at least one Nascent Soul Realm cultivator operating it! I can't believe it... Argentum is doomed to fall."
+
+Cassian Von Silverspire turned, and the Elder immediately became silent. Ryker had rarely seen his father angry. He raised his hand and slapped the silver-haired Elder, almost knocking him off his sword.
+
+"Do you think I'm blind, Elder Brennan?" Cassian said, his voice effortlessly carrying over the ringing bells. "I can see that we are outnumbered, but what do you want me to do about it? Turn and flee?" He pointed down at the palace built atop the mountain. "This mountain was carved out until it was hollow by the hands of Argentum's mortals to fuel my cultivation. In return, I've promised over the centuries to protect them from the monsters, and as far as I'm concerned," he pointed to the airships, "the people who firebomb our farmers are the true monsters. We will not flee in the face of danger. We will stand our ground, fight to the death, and hope the Ashfallen Sect can avenge us. Do I make myself clear?"
+
+He floated closer to the Elder, who was holding his jaw.
+
+"Or should I kill you myself?"
+
+"No—sorry," the Elder spluttered. "You're right. We should fight."
+
+"Good," Cassian said, patting the Elder on his shoulder, his expression softening. "Though you are right, Elder Brennan. Our chances of victory are nonexistent. There is only one way forward."
+
+"You can't be suggesting..." Elder Brennan's aged eyes widened.
+
+There was an uncomfortable pause, but everyone knew what he was suggesting. Even Ryker had heard about it before—when a house was pushed to the brim, there was nothing left to do but go supernova.
+
+"Of course, we will try our best," Cassian retracted his hand and glanced over the gathered Elders. "But if those ships make it over the wall, millions will die, and they will continue onto Darklight City and the Ashfallen Sect. It is our job to stop them here."
+
+"Why would you die for them? This is the Ashfallen Sect's fault," another Elder said, earning him a glare from Ryker and Sebastian.
+
+"No," Cassian said, holding Sebastian back with an arm. "I would have been killed by Vincent Nightrose the moment he learned of my successful ascension if not for the Ashfallen Sect killing him," Cassian said, glancing toward Red Vine Peak. "I owe Ashlock my life. Besides, this isn't the first time the Celestial Empire has shown up unannounced on our lands. Luckily, the Princess came and drove them out, but we appear to be on our own this time. Ryker."
+
+"Yes, Father?"
+
+"Like your mother, your job is to survive," he glanced his way with a rare, warm expression among cultivators dulled by the whispers of metal affinity. He pulled him in for an embrace, and he didn't resist. "It takes talent to befriend the Ashfallen Sect, and you are nothing short of a prodigy," he whispered. "I'm proud to call you my son."
+
+That was the first time his father had ever said he was proud of him.
+
+"Father?" Ryker looked up and met his eyes. "Why are you talking like you're leaving?"
+
+"There's not a hint of greed in your eyes like your siblings," he said with a smile. "I was right to name you the next family head. Sebastian, don't let anything happen to him." He floated away and rallied the other Elders to his side. "Come on, you old fossils. It's time to show the monsters of the Empire what the Silverspire family is capable of!"
+
+Like a golden sun, he fearlessly rocketed toward the airships with streaks of silver in his wake as the Elders followed to their likely deaths.
+
+Ryker tried to follow, but Sebastian blocked him, as expected.
+
+"Young Master, you can't dishonor their sacrifice," he said seriously. "Without you, the Silverspire family has no future."
+
+"Sebastian," he said, a single tear rolling down the side of his cheek. "My father won't die, will he? The Ashfallen Sect will come and save us."
+
+"Going supernova is only a last resort. Your father will fight to the death in hopes that the Ashfallen Sect will come," Sebastian frowned. "But it appears they are fighting their own battles that we likely can't even fathom. It's our job to do what we must in their absence."
+
+"Big Sister," Ryker muttered, holding the communication jade so tightly his knuckles turned white. "Where are you?"

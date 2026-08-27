@@ -1,0 +1,235 @@
+---
+id: 912f6949-5a8a-550c-bafd-d97e4d345ac5
+page-type-slug: story-chapter-royal-road
+title: "8 - I have shoes!"
+slug: 0008-8-i-have-shoes
+partOf: rise-of-the-dragon-queen-evolutionprogression
+position: 8
+ownLength: 2318
+unit: words
+publishedAt: 2025-09-13
+link: "https://www.royalroad.com/fiction/129546/rise-of-the-dragon-queen-evolutionprogression/chapter/2598063/8-i-have-shoes"
+royalRoadId: "2598063"
+---
+
+Stella stood at the edge of the forest she called home. In front of her was the town she’d been observing from afar. Watching the inhabitants had been a daily occurrence for her, giving her hope that her life in the wild was finite.
+
+But now, witnessing it first hand, she could scarcely believe it was real.
+
+Wide cobblestone pathways moved like streams between buildings both big and small. The town looked welcoming and blended into the forest and meadows that surrounded it, with structures made from stone or dark pine.
+
+It was bustling and full of people, all wearing anything from rags to colorful silks. If Stella still had her tail, it would've thumped with excitement.
+
+Well, it's about time I move.
+
+Stella ran her pale hands across her new dress. It was silky smooth. The upper-arms were white and frilly, while the rest was crimson, without any frill to speak of.
+
+The bottom of the dress reached her knees and from there to her feet she was bare.
+
+In her hands, a white sack from her old dress, filled with her funds and loot. It was a confusing sight, a girl that might've been a young noble, if it weren't for her lack of shoes and strange sack the size of a pumpkin. How was a girl her size even meant to carry such a comedically large sack?
+
+Her blue hair had been pulled into well-combed pigtails, and only added to her mystery.
+
+I guess the first thing I should do is get a pair of shoes!
+
+Stella could understand the words of those around her. She guessed it was due to some automatic translation via her system. This extended to written language as well, allowing her to use signs for direction.
+
+Along the way, she got distracted by beautiful flowers tucked into pots or rows, bordering both homes and businesses. She also visited a large fountain where the townsfolk gathered water, and surprisingly, it was crystal clear.
+
+I guess all the water around here is clean, just like in the forest. I wonder if they use magic to keep it that way.
+
+It took a great effort to stop her overflowing emotions from causing her body to revert to its usual state. Horses, donkeys, and even wingless ground dragons pulled carts and carriages, baffling Stella further into a state of ecstatic bliss.
+
+In-between bumbling and gawking, she managed to find a store to her liking. Through the window, she spotted a lineup of shoes. Their prices ranged from one to two silver, but Stella hadn't the faintest idea of what the equivalent was in coppers.
+
+Before she could go inside and ask, the sound of the coin against tin drew her attention.
+
+“Coin? Coin for an old woman?”
+
+Between the shop and the porch of a neighboring tavern, a elderly woman dressed in a cloak, held out a tin mug.
+
+At an earlier time Stella would’ve paid less attention. But, after facing deadly beasts and surviving off nuts and berries, she knew that this world, however fantastical, was cruel. It wasn't just a game or something out of a light novel.
+
+Her reality had only been traded in for a new one. But new didn't mean better, even if by some miracle she had ended up a powerful dragon queen.
+
+What if this had been me instead? If I had been born without powers, I think it might've been.
+
+She approached the old woman, setting down her large sack and working to get it open.
+
+“My, what a nice girl. Are you here to help this old lady?”
+
+Stella was shocked to find the woman's face as hideous as it was. Terribly scarred and framing milky white eyes, she looked like a witch out of a fairytale.
+
+“Of course. I wouldn't like it if I saw my grandma on the street. Especially if no one wanted to help her. I can't give much yet, but I can donate a little.”
+
+“That is so kind of you, even a copper would help.”
+
+Stella rummaged through her belongings until she found the pouch of copper. Once opened, she was faced with the scarcity of her funds.
+
+The lady definitely needs this money more than I do. I will try to return when I have more and give her that as well.
+
+Stella wanted her new world to be a kind and safe one. As she dropped ten copper into the tin cup, she promised herself she would create that world within her lifetime.
+
+500 years or more? Bah! It'll be easy to become the ruler of this land in that time. But before all that, I'll have to get mega powerful!
+
+“I'll give you more soon, I promise.”
+
+The woman had moved without making a sound. Suddenly, she wrapped her arms around Stella and gave her an extremely tight hug.
+
+“Wow—You are super strong for an old lady!” Stella puffed as the air was squeezed out of her.
+
+“I will never forget your sacrifice on this blessed day. May the gods give you their blessing. Or I suppose it's more fitting to say, may you give them yours.”
+
+The old woman released Stella and swept her cloak before hurrying away. The alley between the tavern and the shop was long and eerie, but the elderly beggar braved it without hesitation.
+
+Stella was too stunned to call out and by the time she'd recovered, the woman had made it to the end of the alley and turned a corner.
+
+That was weird… But I guess, she probably has enough to buy something now…
+
+Stella packed up her things and as she did, someone's leg slammed into her shoulder.
+
+“Oh, sorry there little—”
+
+The man had clearly been day drinking and had wobbled down the steps of the tavern without a care for where he was going. The sudden rush of pain and contact, had triggered Stella's survival instincts.
+
+The face she presented to the drunken stranger was an angry snarl. Mid-apology, the man cried out in alarm and then quickly dashed into a crowd of passersby.
+
+No one really looked, but if they had, they'd find nothing but a strange looking girl with a shocked look on her face.
+
+I have to be careful… If I reveal myself to someone more convincing, I might end up hung up in one of these shops. Keep your cool Stella, you aren't in the woods anymore.
+
+She hastily collected her things and entered the shop. It was quiet, but her entry caused a bell on the door to ring. When no one appeared at the front desk, Stella took to looking through the shoes on display in the window. After eyeing the pair she wanted, she began to explore.
+
+The rest of the shop was full of hats, dresses, shawls and more. It was all feminine clothing, reminding Stella of something between the Victorian and Regency era.
+
+These look so much better than modern clothes!
+
+“Can I help you?”
+
+Stella nearly jumped out of her skin when the store clerk spoke. The person who'd appeared was a young woman with dark skin, long black hair and striking violet eyes.
+
+“If you've come to gawk, be on your way,” she snapped
+
+Stella was taken aback by the hostility, but continued as if it hadn't happened.
+
+“I'm here to buy some shoes, those ones to be exact.”
+
+“Two silver.”
+
+Stella approached the counter, setting down her bag and taking her coin pouch from it.
+
+“Will this be enough?”
+
+The store clerk looked at Stella like she was staring at an alien.
+
+“Are you not from around here?”
+
+“Erm, not really.”
+
+Actually, I'm not even from this world.
+
+The woman sighed and reached her hand into the pouch, taking out two hundred copper coins and setting them on the table.
+
+“This amount is equivalent to the required silver. If you would like to count it yourself, then be my guest. I will return with the shoes.”
+
+Stella watched the woman disappear down a hallway, her long gown dragging behind her. When she was gone, Stella turned her gaze to the coppers on the table.
+
+System, little help here?
+
+[Answer: Two hundred copper is indeed worth two silver. Though whether the items in question are worth two silver, is debatable.]
+
+I think they're nice shoes! Do you disagree?
+
+[These shoes are impractical for your current circumstances.]
+
+Sure, maybe their a little too classy for the forest but I—
+
+“Here you go, try them on if you'd wish, but once you leave the store no replacements will be issued.”
+
+Stella thanked the clerk and slid on her new shoes. They were black with a slightly raised heel. They were comfortable and while they were a little big, Stella knew she would grow into them.
+
+After a gush of thanks, she left the shop in her new shoes, one step closer to looking like a regular girl.
+
+But these shoes are so nice that I'm scared to ruin them… Maybe I should get some lesser ones, but I only have 40 copper left.
+
+Before she could do so, she felt her body begin to revert. The strain that shapeshifting caused was suddenly apparent as sweat and redness coated her face.
+
+Stella hurriedly moved to find a place to hide, deciding to rush into the nearby tavern and ask for directions to a bathroom. Luckily, they had one, and once given the key, she was able to go inside and lock herself within.
+
+I didn't realize how exhausted I was. Probably because I was having such a great time.
+
+She sank to the floor for a time and then stood with renewed vigor. She didn't know how long her human form would last after using it for so long and decided it was best to leave town for the day.
+
+Before exiting the bathroom, she wondered how it smelled so normal and how in the world this place has plumbing. In medieval times they just dumped their waste in rivers or pits, but she'd seen nothing like that.
+
+She found the lantern near the toilet had some kind of writing on the bottom. This language was one she could not read.
+
+System, what is this?
+
+[Answer: A rune, a method of enchantment. Only the caster can decipher if.]
+
+Whoa! I bet it makes the candle last forever or even makes this bathroom smell good no matter what!
+
+A knock jerked her from her excitement.
+
+“Hurry up! I have to go!”
+
+“Coming!”
+
+***
+
+Michael Fritz was having a no good, very bad day. Nothing at his stand would sell, not even his family's stellar produce. He was so through with the whole thing he nearly fell asleep on the job.
+
+A flash of blue and red caught his eye as he dozed off, waking up instantly. What looked to be a gangly child, was stuffing her face with candied apples and the like as she wandered in the market place.
+
+She was well dressed and somehow, despite her petite nature, was holding a comedically large and round sack in one hand and her deserts in the other.
+
+She looks like she might have some money. With that blue hair she must be a foreigner… Or more likely, a foreigner's daughter. Maybe I can sell her some of my herbal remedies.
+
+Michael had taken but a step away from his stand when the fist of an angry man hit its center.
+
+“Hey! Little man with glasses!”
+
+Michael blinked up at the towering, muscular gentleman. They were a customer he’d served a few days ago, but this time they looked a bit different, like they were missing something.
+
+“That ointment you gave me did let me grow a full beard! But it also made me bald! I want my money back!”
+
+The angry meathead began to shake the stand, knocking down baskets of apples and jars full of herbs.
+
+Michael cried out in alarm and grabbed his stand to keep it grounded, only to be lifted and jostled along with it.
+
+“Please! Stop!”
+
+The man slammed the stand back to the ground, breaking it in two.
+
+“Give me a refund you puny wizard!”
+
+Michael fixed his crooked glasses and ran his hands nervously through his messy hair.
+
+“I told you, I'm not a wizard, I'm an alchemist, and if you'd not broken my things I would have refunded you appropriately. But now I would never be caught dead giving you even a single copper!”
+
+The man, twice the size of Michael and with a beard to match, reached over the crumbled remains of his belongings and grabbed his shirt collar.
+
+“Say that again? I didn't think I heard you.”
+
+Michael's collar grew tighter and suddenly, he was struggling to breath. As he was lifted upwards, his eyes darted around in a silent plea to get others to help him.
+
+But the barbarian that had him was clearly not someone anyone else was prepared to handle either. And who was Michael to them anyway? A useless wannabe alchemist. Nothing of consequence.
+
+“Hey!” A voice rang out, cutting through the ring that had started to fill Michael's ears.
+
+“Leave that guy alone, right now!”
+
+Michael was dropped to the ground, knocking the air from his lungs. As he curled up on the ground, a mighty chuckle shook the air.
+
+“A puny little girl. And what will you do if I don't?”
+
+“You know exactly how this ends.”
+
+“Want to find out?”
+
+Michael lifted his head to peek over the hill of wood chips that previously made up his stand. What he saw was the blue-haired girl facing off against a man the size of an orc.
+
+I can't move…Urgh! I'm in so much pain, but I have to do something. I can't let that girl get hurt because of me.
+
+But what could Michael do when he was too weak to even stand.

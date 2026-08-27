@@ -1,0 +1,95 @@
+---
+id: 623fc661-9fd6-5c81-9d9b-15058f5d8d71
+page-type-slug: story-chapter-royal-road
+title: "Chapter 590: Resonant"
+slug: 0158-chapter-590-resonant
+partOf: rise-of-the-living-forge
+position: 158
+ownLength: 1657
+unit: words
+publishedAt: 2026-05-13
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3390740/chapter-590-resonant"
+royalRoadId: "3390740"
+---
+
+Arwin’s eyes opened. Not that opening them really did him much good. The magical darkness in Lillia’s room made it somewhat of a symbolic gesture. New power churned within his body, still settling down within his flesh. He could feel the magic pumping through his veins.
+
+Several seconds went by in silence. Arwin simply took them in, waiting as the newfound power settled down within himself. Only once his heartbeat had slowed and his body felt right again did he allow himself to summon forth his status with a thought, glancing through it to look at how his ability had changed from the new magic he’d pumped it full of.
+
+[World Resonant] – Your connection with the latent power of the world has advanced beyond the ability to hear mere whispers. The truths and desires of most magical materials lay themselves bare to you. The world itself has acknowledged you as part of itself, allowing for complete communication with all but the most ornery materials. Your magical synchronization with all substances while crafting will increase exponentially while working with amiable parties.
+
+A smile spread across Arwin’s lips as he finished reading over the skill. This was exactly what he’d been hoping for. It was just what he needed to improve the ease and potential of quite literally everything he worked on from here on out. Hell, this was even better than what he’d been hoping for. The change wasn’t insignificant at all.
+
+Complete communication sounded far, far easier than just picking up on desires and vague goals. The difference was almost certainly going to be bordering on astronomical. Arwin resisted the urge to shake his head in disbelief. That would have risked disturbing Lillia while she might have still been meditating herself.
+
+But even still — Sunsetting was absolutely ridiculous. He’d known that for some time, but every time he got to apply the benefits of it, that fact was solidified even firmer within his mind. Being able to select the ability he wanted to upgrade and choose exactly what he wanted the change to be… that was a huge boon.
+
+It cost an enormous amount of magical power to pull this off, though. This wasn’t a feat I can just keep repeating at random. Fortunately, I’ve got a lot of powerful items left to make. Those should keep me more than shored up on power for quite some time.
+
+Arwin’s eyes flicked up to the top of his status. With all the power he’d just internalized, his level definitely would have changed by at least a little. Then his eyes went wide.
+
+Name: Arwin Tyrr
+
+Class: Living Forge (Unique)(Tier: Expert 5)
+
+Specialization: Forbidden Soulmancy
+
+“Gods,” Arwin whispered, unable to contain himself. He’d jumped all the way from Adept 9 to Expert 5. That probably shouldn’t have been so much of a surprise. The amount of power he’d needed to use to improve Stonesinger to such a degree was absolutely nothing to laugh at.
+
+He’d definitely improved at this speed before. Back during his early days of being the hero, he’d jumped quite a few levels in very short periods of time. But after he’d learned just how valuable Achievements and Titles were, doing it almost felt like sacrilege.
+
+It took Arwin a moment to remind himself that this wasn’t actually happening all at once. He’d been storing up magical energy that he’d gotten from every single thing he’d created since his last level-up and then capped it off by creating a single, enormously powerful set.
+
+On top of that, he couldn’t even get Titles or Achievements anymore. Not from the Mesh, at least. He was theoretically more than capable of creating similar things himself. After all, the Mesh had permitted him to completely control his advancement. There was nothing that said he couldn’t just straight up create new abilities. So long as he had enough magical power to pull it off, pretty much anything he wanted was well within his reach.
+
+Expert 5, huh? What a weird feeling. In name, I was far more powerful as the hero. But I’m pretty sure that I’m actually catching up to how powerful I once was at a rapid speed.. If I add in the Infernal Armory, I’m pretty sure I could give my former self at least a challenge. And if I had the whole of the Menagerie at my back…
+
+I think we’d have a damn good chance of beating the man I used to be. No. More than that. We’d do it without a doubt. Maybe that’s not so much of an accomplishment. That man was crippled by the people that should have been his allies.
+
+But it shows we’re getting closer. A lot closer. After I finish making real sets of armor for the rest of the Menagerie, not to mention the other projects I’ve still got on my plate… well, the Guild is going to have to count their days. The people orchestrating everything are definitely stronger than I used to be. But they couldn’t have been stronger by too great a degree. If they were, there wouldn’t have been a need for all the subterfuge.
+
+Lillia shifted on the bed beside Arwin. He glanced in her direction — still entirely unable to see.
+
+“You finished?” Lillia asked. “Did it go well? And please tell me you didn’t somehow make yourself into some kind of creepy lava golem in a way that I haven’t managed to spot yet.”
+
+“Don’t worry.” Arwin’s laughter was swallowed by the darkness surrounding them. “I had that very same thought and made sure to avoid it. I decided to make one of my abilities stronger this time around. It turned out pretty damn well. The next piece of equipment I make should be pretty enlightening.”
+
+Lillia squeezed his hand. “Well done. I’m looking forward to that. How far did your power advance you? There was so much more than I was expecting. I’ve made it all the way to Expert 4. Can you believe that?”
+
+Arwin grinned. “Expert 5.”
+
+“Oh, come on,” Lillia said through a laugh. “Seriously? One higher than me? That’s ridiculous. You did this on purpose, didn’t you?”
+
+“Hey. Don’t blame me,” Arwin said, raising his hands defensively before himself. “It wasn’t intentional. But what did you spend all that magic on? Did you also go with an ability?”
+
+“No.” Lillia cleared her throat sheepishly. “I changed my body again. There were a few more things that I wanted to improve. I’m pretty sure things turned out how I wanted them to, though. It might be a bit of a new look.”
+
+“A new look?” Arwin reached out, finding her shoulder in the dark. “What did you change? This is so annoying. I can’t see anything.”
+
+Lillia took his hand and raised it upward toward her head. Then she set it down on something hard. Arwin’s eyes widened. It was a horn. A huge one. He moved his hand to the side, finding another horn emerging from the other side of Lillia’s skull.
+
+“Holy shit,” Arwin said.
+
+“Are they bad?” Lillia asked. “Don’t worry. I can retract them. I can still wear the armor we made with no trouble at all.”
+
+The horn vanished beneath Arwin’s hand.
+
+“I definitely wouldn’t say bad,” Arwin said, shaking off his surprise. “If anything, they certainly suit what I think a random person would expect from somebody pretending to be the Demon Queen. I don’t need to see them to know they’re intimidating. Probably badass too. I was just surprised. I think we both know pretty well that the Menagerie are, as a principle, fans of horns. But what did you make them for? I assume you have a reason.”
+
+“They’re conduits,” Lillia replied. She sounded slightly relieved that Arwin had no problem with the horns. “For my magic. I’ve been thinking about ways to be more effective outside of the Devil’s Den. I’m pretty limited in power when I’m not there because of my class. This should be one of those ways.”
+
+“And it was powerful enough to jump you all the way up to Expert 4?” Arwin tilted his head to the side. “Just what are they capable of?”
+
+“Amplifying my magic by a pretty significant amount,” Lillia replied. “I obviously don’t know exactly how much yet. I’ll have to actually test it out. But now that I’ve got an ability that lets me teleport back to the Devil’s Den at will, I should have more than enough opportunity to do just that. I was thinking we could try doing a dungeon sometime soon. There have been a lot of new ones coming up around Milton, so it shouldn’t be hard to find.”
+
+Why do I get the feeling she’s still downplaying just how much the horns can do? If they gave her pretty much as much power as the advancement I made to Stonesinger, then those things have to be ridiculously strong. She might have literally doubled the power of her magic.
+
+“A dungeon would be nice,” Arwin said. “It would give the Infernal Armory a chance to get out and stretch a bit, and I’m still thinking about how to make the dagger Koyu requested. A little change in pace could go a long way in making sure I don’t stagnate and get stuck just working in circles.”
+
+“Perfect. We’ll let the rest of the Menagerie know and set something up tomorrow,” Lillia said. There was a short pause. Then she cleared her throat. “Are you tired?”
+
+“Not particularly,” Arwin admitted. “Getting a huge injection of magical energy certainly has a way of waking someone up a bit.”
+
+Lillia’s hand tightened around Arwin’s. And, even though he couldn’t see her face in the darkness, he knew instinctively that she was smiling.
+
+“Good,” Lillia said, her breath tickling his neck as she leaned closer and pressed her side to his. “That’s just what I wanted to hear.”

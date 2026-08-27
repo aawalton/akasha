@@ -1,0 +1,185 @@
+---
+id: 2098068f-2ea4-5d64-b27e-40299e37bda2
+page-type-slug: story-chapter-royal-road
+title: "Chapter 24: Tension"
+slug: 0026-chapter-24-tension
+partOf: quiet-life-of-the-mute-archmage-op-archmage-academy
+position: 26
+ownLength: 2506
+unit: words
+publishedAt: 2026-06-17
+link: "https://www.royalroad.com/fiction/167476/quiet-life-of-the-mute-archmage-op-archmage-academy/chapter/3554157/chapter-24-tension"
+royalRoadId: "3554157"
+---
+
+Molly’s eyes scanned the contents, her lips curling slightly as she read the words written neatly across the page:
+
+✧ ⋆ ✦ GRENDEL ACADEMY OF HEROES ✦ ⋆ ✧
+
+“Knowledge Illuminates the Shadow”──────────────────────OFFICIAL ACCEPTANCE LETTER──────────────────────
+
+Dear Molly Valto,
+
+We are pleased to inform you that your application to enroll at theGrendel Academy has been accepted.
+
+Please note: upon your arrival at the Academy, you will berequired to take the enrollment test. Full acceptance and dormitory assignment are contingent upon successfullypassing this test.
+
+Details will be provided at the Hall on the day of your arrival.
+
+We eagerly await your first step through our doors.
+
+With brightest regards,
+
+(Signed)Archmagister E. Vellum
+
+Office of Admissions──────────────────────
+
+Molly’s thumb traced the edge of the parchment, the curl on her lips widening the longer she reread the words. Her thoughts drifted back to the last thing Jen had said to her: ‘I’ve prepared everything for you already. The letters I’ve been sending were to a family I trust, one who will ensure you enter the academy without anyone discovering what you truly possess.’
+
+A quiet warmth settled in her chest as the memory surfaced. Jen’s careful plans had begun taking shape, piece by piece, and it seemed the family she had mentioned had already set the enrollment into motion. The proof of it now rested between Molly’s fingers.
+
+She lifted her gaze to Ren, who wore a knowing expression, the corner of his mouth already tugging upward as if he had been watching her reaction unfold. “Surprised?” he said.
+
+Molly nodded, raising her right hand where she clutched the admission letter.
+
+~ I didn’t know you enrolled also?
+
+The tiny black particles swirled and reformed in the air between them. Ren let out a short chuckle when he read the words. “Well, I didn’t know either. Fiona was the one who applied for me at Grendel.”
+
+Molly’s eyes widened, her brows lifting.
+
+~ Really?
+
+Ren nodded, his eyes crinkling with a mixture of amusement and lingering disbelief. “Even Mom was surprised when my enrollment letter arrived at our house along with yours.”
+
+A faint, almost imperceptible flicker of surprise crossed Molly’s face. So Jen had already informed Jasmine about her enrollment. That thought alone eased something small and tight inside her chest.
+
+~ Where’s Miss Jasmine?
+
+A slight crease formed on Ren’s brow as he remembered. “Well… she left soon after dropping off the admission letter.”
+
+~ What about Fiona?
+
+“She’s inside.” Ren gestured toward the storage room with a tilt of his head. “She’s locking up since we’re about to head home. We were waiting for you to get back.”
+
+Molly nodded, her eyes drifting toward the bread storage room just as Fiona stepped out. A frown sat heavy on the young lady's face, her gaze strangely distant, the rigid set of her shoulders speaking of a tension she hadn’t yet managed to hide.
+
+The moment Fiona noticed Molly, a brief flicker of relief softened her features. “Molly, you’re back?” she said.
+
+Molly dipped her head in a short bow of greeting, and Fiona answered with a dismissive wave of her hand, quick and distracted. Then she clasped her fingers together, the strain in her body easing by a fraction. “Alright.” Her hands retreated to her sides, and her eyes swept the room once, scanning around as if confirming everything stood in its proper place. Satisfied, her gaze returned to the two children, and the ghost of a smile touched her lips.
+
+“Why don’t we get going now?”
+
+*****
+
+Night descended slowly over Sigsug, unfurling across the sky like ink bleeding through cloth. The vast, unbroken canvas of deep indigo stretched endlessly overhead. Low on the horizon, the moon hung heavy, its magical glow spilling silver light across the land and carving soft shadows. The stars flickered like hushed whispers, as though something restless stirred beneath the quiet surface, poised like a blade waiting to be unsheathed.
+
+Inside the cottage perched atop the hill, the warmth of the dining area did little to chase away the unease that had settled thick in the air. Molly and Ren sat at the dining chairs, their bodies angled toward each other, but their eyes followed Fiona as she paced back and forth across the floor. Her boots tapped an uneven rhythm, and though her face remained composed, the tension radiating from her frame betrayed every attempt to appear calm.
+
+“Fiona, is something wrong?” Ren asked, his voice measured, careful, though the worry behind his words pressed through.
+
+At the sound of his voice, realization bloomed across Fiona’s features, and she pulled herself to a halt. “Ah.” The breath escaped her almost silently. She turned to Ren with an expression that tried too hard to reassure. “Nothing,” she said, tilting her head just slightly. “Just a bit nervous.”
+
+Molly shifted in her chair, the fabric of her robe rustling against the wood. Her brow furrowed, and the black orb above her shoulder flickered, projecting her thoughts.
+
+~ But your whole exterior says otherwise.
+
+The words hung in the air. Molly stared directly into Fiona’s eyes, catching the subtle tightness that still lingered around them.
+
+~ You can tell us if you want. Maybe we might be able to help.
+
+Fiona stared at both children for a long moment, her expression guarded, unreadable. Then something sad flickered across her face, there and gone in an instant. Perhaps she might have confided in them if they were older, if they had already graduated from the academy and worn the insignia of a hero organization. But fate had not been so patient.
+
+A sigh slipped from her lips. They were still children, small and unhardened, with the academy gates not yet crossed.
+
+Fiona lifted her hand in a dismissive wave. “Don’t worry. It’s nothing much,” she said again, her voice a fraction steadier this time.
+
+Neither Ren nor Molly believed her. Their gazes remained fixed on her, unblinking.
+
+Not noticing their persistent stares, Fiona resumed her pacing, though now with deliberate restraint. After a few more minutes, she crossed to the cottage door and pulled it open, peering out into the night. The cool air rushed in. She scanned the path leading up the hill, her eyes searching the darkness. Upon finding no one approaching, another sigh escaped her, this one heavier than the last.
+
+She glanced over her shoulder at Ren. “Did Mom tell you where she was going?”
+
+Ren shook his head, his tousled red hair catching the light. “She didn’t. She only told me she’d be back in an hour.”
+
+Fiona’s hand rose to her hair, fingers raking through the strands in a gesture that bordered on frustrated. She muttered something under her breath, words too low and too quick for either of them to catch.
+
+Molly’s expression brightened, a spark of understanding igniting behind her eyes. She shifted in her chair, the motion drawing Fiona’s attention. The black particles swirled and gathered, forming new words.
+
+~ You can leave us here if you want. Don’t worry about us. We’re safe here, and I also have a feeling Miss Jasmine will be back soon.
+
+Fiona’s face dulled slightly as she read the message. “But…” She started, her mouth opening to protest.
+
+Molly cut her off with a steady look, the grin that tugged at her lips carrying quiet reassurance.
+
+~ We’ll be alright. I promise.
+
+Fiona’s gaze moved between them. Molly gave a short, firm nod and flashed a wider grin. Ren, beside her, nodded along, his expression equally resolute.
+
+A small curl lifted the corner of Fiona’s mouth. “Thanks,” she said. Straightening, she opened the door fully and paused at the threshold, glancing back for one brief moment. “Take care of yourselves and don't come outside no matter what, alright?” Then she slipped out, the door clicking shut behind her with a calm finality.
+
+Molly and Ren blinked in unison, stunned by the speed of her departure. It seemed they truly had been the only thing anchoring her in place. Their gazes drifted toward each other, and when their eyes met, they shrugged in perfect, unplanned synchrony.
+
+“I wonder what made her that tense,” Ren murmured, his attention drifting back to the door. A worried expression crossed his face. “I just hope she’ll be alright.”
+
+Molly followed his gaze to the door, staring at the door for a long moment. A quiet sigh escaped her, and the thought surfaced unbidden. I just hope too…
+
+*****
+
+Minutes slipped by inside the quiet cottage. Molly and Ren exchanged a handful of words, their voices soft and drowsy, until eventually sleep crept over them where they sat. Molly’s eyes fluttered open some time later, her head lifting from the table’s surface. She blinked away the haze of her short rest and looked over to find Ren still sleeping peacefully in the chair beside her, his breathing slow and even. A small curl lifted her lips at the sight. She sat up carefully, rolling her shoulders and stretching her arms above her head, a quiet yawn escaping her.
+
+Her gaze moved on instinct, scanning the cottage for any sign of Jasmine’s return. The front door remained shut. The other rooms stood still and silent. A frown surfaced on her face, deepening the longer she stared at the entrance. Worry crept into her expression, as her thoughts circled around whether Jasmine was alright.
+
+No. She lifted both hands and tapped her cheeks, shaking the dark thoughts away. Jasmine is alright. She forced the declaration inward.
+
+Her eyes drifted from the door, landing on the direction of her own room, then shifting farther to the side where another door stood opened.
+
+Jen’s room.
+
+A determined expression settled over her features. It was time to check the diary.
+
+Molly rose from her chair with slow, deliberate movements, careful not to disturb Ren’s slumber. Her soft footsteps carried her across the floor, the boards barely creaking beneath her weight. She approached closer until she drew near the open doorway of Jen’s room. There, her steps faltered. Her gaze slipped past the threshold and landed on the bed, where a large book with a dull red cover rested atop a blanket.
+
+Molly’s expression dulled. She lingered in the doorway for a moment longer than she intended, hesitation coiling around her ankles. But after a steadying breath, she shook the sadness away with a small bob of her head and stepped inside. The door swung wider on its hinges, and the breath that left her carried something heavy with it, something that had been lodged in her chest for weeks.
+
+Ever since that day, Molly had done everything she could to avoid entering this room. Whenever she looked inside, the memory returned with brutal clarity.
+
+Her gaze drifted to the edge of the bed. She remembered exactly how Jen had sat there, her face pale, her hand pressed over her mouth as a violent cough wracked her body. She remembered the blood seeping between Jen’s fingers, dripping in thin rivulets down her wrist. She remembered everything as if it had happened only yesterday.
+
+Molly’s body began to tremble as she walked closer to the bed, her breath hitching like she couldn’t quite draw enough air. Still, she moved forward, step by step, until her gaze found the diary once more.
+
+When she reached the bedside, she stretched out a trembling hand and lifted the book from the blanket. The image of Jen surfaced unbidden: the way she always smiled, the way her lush blue eyes narrowed in concentration while she wrote inside these very pages.
+
+Molly cradled the diary against her chest, hugging it close. She stood there for a quiet moment, letting her eyes roam the room. Moonlight spilled through the window, bathing the space in a pale, luminous glow. Glistening tears slipped down her cheeks, but a silent laugh escaped her lips, soft and fragile. She bent at the waist, offering the room a deep bow, as if bidding a quiet farewell to the one who had lived within these walls.
+
+She stepped out, pulling the door shut with a gentle click. Her breath steadied, and she used one hand to wipe the tears from her eyes. A smile formed on her face, small but true, and a flicker of joy welled up in her heart. After all these weeks, she had finally done it.
+
+She had retrieved the diary.
+
+And now it was time to read it.
+
+Molly made her way back to the dining area and sat down with care, still mindful of Ren’s sleeping form. When she settled into her chair, her gaze dropped to the diary Jen had left behind. She stared at it for a long moment, a smile lingering on her lips, eagerness curling in her stomach.
+
+Without wasting another second, she opened the diary, ready to see what Jen had written. But her eyes widened in surprise, and confusion soon overtook her expression. She turned the page. Then another. Then another still. Nothing.
+
+The diary was blank. Every page lay empty.
+
+Molly rose from her chair without thinking, the confusion sharpening into something frantic. How? How was it possible? The diary had been filled with writing; she had seen Jen penning in it countless times. How could there be nothing inside? How—
+
+“Ooh.” A breath of realization slipped from her lips as the pieces clicked together. She flipped the book toward the end, scanning the pages with her calculation, and found no trace of the bloodied handprints that should have been there.
+
+Jen had imbued a formula into the book, one that could only be activated once a certain condition was met. And Molly knew exactly what that condition was.
+
+She hurried into the kitchen, her movements quick and purposeful. From a drawer she retrieved a small knife, and with steady hands, she pressed the blade against the tip of her pinky finger. A sharp sting lanced through her, and she winced, but she endured it. She set the knife aside and rushed back to the dining table. Opening the diary to the front page, she smeared a thin line of blood across the parchment.
+
+A silent giggle bubbled up from her throat as she watched a faint glow emanate from the book. A warm wind stirred, swirling around her alone, wrapping her in an embrace that felt deliberate and tender. Molly’s expression softened. She closed her eyes and lingered in the sensation a little longer before opening them again. Words began to write themselves across the front page, letters unfurling from nothing, the ink gleaming as it settled into the parchment. The diary had been written all along, simply waiting to reveal itself to the right touch, just as Molly had suspected.
+
+Her eyes dropped to the contents, eager to read the words that had waited so long for her.
+
+But then her gaze snapped toward the entrance.
+
+The door swung open, and a figure collapsed onto the floor.
+
+Her breath caught in her throat. Her eyes shook at what she saw.
+
+Jasmine.

@@ -1,0 +1,181 @@
+---
+id: 24bf7e5c-7fbc-55f7-8da8-9e5997cbd1a5
+page-type-slug: story-chapter-royal-road
+title: "Chapter 583: Duty"
+slug: 0107-chapter-583-duty
+partOf: reborn-as-a-demonic-tree
+position: 107
+ownLength: 2612
+unit: words
+publishedAt: 2026-06-19
+link: "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3562991/chapter-583-duty"
+royalRoadId: "3562991"
+---
+
+Knowing of your duty and experiencing the fulfillment of that duty were two very different things.
+
+As the eldest son of the Stonecrest Patriarch, Caelan had lived well. Boundless resources from the day he could eat and private tutelage from the family's best Elders. From birth, he was treated as the clear favorite among his siblings.
+
+There was a dark reason for that, and he had always known it. He wasn't being given all these resources because he was the eldest or because of his boundless talent. To the Stronecrest family, he was a chicken being fattened up for slaughter.
+
+And now, the time had come for him to fulfill his duty—to be his father's new vessel. Monarchs aged slowly enough that most people forgot they aged at all, but time was a merciless mistress even to the strongest. Spirit roots degraded, the deep scars of failed breakthroughs accumulated, and finally, the flesh withered.
+
+The day his father would need a new body had been a distant fear since Caelan had been alive—something almost theoretical, like a forming storm on a distant horizon.
+
+That storm had arrived three hundred years early.
+
+The iron clamps bit into his wrists as he strained against them. The vast stone disk beneath his back was cold enough to seep through his robes. Above him, suspended between five pillars of amber earth Qi that the Elders had spent the last hour raising, his father's infant soul drifted in slow orbit. Despite looking so small and dim, it carried the weight of a mountain range compressed into the size of a fist.
+
+At three hundred and two years old, at the upper stages of the Nascent Soul Realm, Caelan was the only offspring with spirit roots deep enough to survive the transfer long enough for it to complete.
+
+What persisted afterward would call itself Aldric Stonecrest.
+
+It would not call itself Caelan—he would die in the process as his soul was used to fuel the ritual and restore his father's strength.
+
+"Please." His voice came out as a desperate whisper. "Anyone but me. I can't leave my wife and children behind. They're three and five years old."
+
+"Silence, Caelan."
+
+Elder Maro did not look up from the rune he was tracing. He was the man who had guided Caelan through his first breakthrough and had sat with him through three straight days of meditation failure with the patience of a mountain. Yet now his voice held the coldness of a stranger.
+
+"You will fulfill your duty to House Stonecrest."
+
+Caelan stared at the back of the old man's head. He had always thought that if this moment ever came to fruition, the people around him, whom he had spent hundreds of years calling family, would at least look sorry. That there would be something in their faces beyond this uncaring coldness.
+
+If anything, their focus was more on the infant soul floating overhead than on him, who was chained like an animal and being prepared for death.
+
+Caelan refused to die like this. He had worked himself to the bone to try to overturn his fate by surpassing his father. It was how his father had surpassed his grandfather, and he had hoped to do the same. If only he had more time.
+
+"I'm one stage from the Monarch Realm," he said, his voice echoing in the cave to an audience of silence. "Give me time. A century at most. I could surpass my old man and bring the Stonecrest family into a golden age."
+
+A chuckle echoed back.
+
+"A noble house without a reigning Monarch is a carcass waiting to be picked clean." Elder Maro moved to the next rune point, and amber light bloomed from the floor in his wake. His tone hadn't changed. That was somehow the worst part. "In the decade it takes you to reach the Monarch Realm, and the millennia it would take to match your father's depth of dao comprehension, we will all be dead. Including your dear wife and children." A brief pause. "Trust me, they will appreciate your sacrifice."
+
+"Like hell they will," Caelan hissed. The restraints groaned as he pulled against them with everything he had. Earth Qi flooded his limbs, and for a moment, the enchanted iron actually bent—then Elder Maro glanced at him, and the runes along the disk's edge flared, and the pressure that came down on Caelan's cultivation was like a mountain sitting on his chest.
+
+He stopped pulling as the air was crushed out of him.
+
+"That damned Covenant," Caelan wheezed. "This is their doing. All of it."
+
+"Just lie still," Elder Maro said, taking his place along the outer ring of the formation. The other four elders moved into position around the disk, completing the pentagon without a word between them. They had rehearsed this. Perhaps for decades. "Your rage will only feed your heart demons and make the transition more painful."
+
+Caelan laughed. It came out wrong—too high, too sharp. It was the laugh of a man who had lost it.
+
+"Pain," he muttered coldly. "You want to warn me about pain when my soul is about to be devoured?"
+
+Elder Maro did not look up from the runic point he was activating.
+
+"Let me tell you what true pain is. While my brothers hunted monsters for sport, took in many wives, and spent their endless allowances on spirit wine," Caelan grimaced, "I cultivated. While my sisters mingled with the other nobles, enjoying delicacies from Floridawn, I cultivated. Three hundred years, Elder Maro, I never missed a day. No shortcuts. No diversions. Body constitution training that left me bedridden for months. Closed-door sessions so long I forgot what sunlight felt like." He pulled against the restraints, rage rising in his chest. "I drove myself to the edge of madness consulting the Dao. There was nothing I wouldn't do. No length too far, no cost too high, because I believed—I actually believed—that if I was strong enough, if I closed the gap with my father, I could make it so this moment never came to fruition."
+
+He stopped. His chest was heaving from the rant.
+
+Above him, the infant soul drifted in its slow orbit, uncaring for the sacrifice he had made.
+
+"I believed I could defy fate," he said quietly. "Now here I am, one stage away from becoming a Monarch, only for my world to crumble to dust."
+
+"Aldric thanks you for it," Elder Maro said simply, despite the infant soul's indifference. "Your diligence produced a vessel that will preserve everything your father built. House Stonecrest will endure because you fulfilled your duty."
+
+The silence that followed was very long. The words Elder Maro had said struck Caelan so deeply that he thought he was going to go mad.
+
+"How," Caelan said at last. He turned his head and looked at the old man—at the aged, earthy face he had known since childhood, the face that had celebrated every breakthrough with him, that had sat across from him through a thousand lessons. "How do you say something like that and mean it?"
+
+Elder Maro finally looked at him. "Because, young master," he said dryly, "while you saw me as a beloved teacher and dear friend, I was only humoring you on orders from the Patriarch. I was told to raise you as a replacement, so I did. While this fateful day came early, this moment was always going to come to pass." He paused, his hardened gaze softening only slightly. "While I've always respected your valiant effort and drive," he glanced up at the floating infant soul, "you were never going to surpass Aldric, which is partly why you were chosen."
+
+"What?" Caelan muttered in disbelief.
+
+"Your father surpassed your grandfather and slayed him in combat for the role of Patriarch and to be freed from his fate as a vessel," Elder Maro said with indifference. "He didn't wish for the same to happen to him, so he sired many children, and from the lot, you alone had the drive and potential to be a great vessel while lacking the talent to truly catch up to him."
+
+"What?" Caelan said. "So I never had a chance?"
+
+Elder Maro nodded. "Had you reached the Monarch Realm, your father likely would have had you killed. If he had truly wanted a strong heir, he would have picked your sister, for she is far more talented than you. But instead, he married her off to expand the Stonecrest family's political influence."
+
+Caelan slowly turned his head and looked up at Aldric's infant soul floating overhead, impatiently awaiting the ritual to begin so it could claim his body for itself.
+
+Tears formed at the corners of his eyes. "Father, you coward," he cursed through clenched teeth. This tyrant was so scared his children would one day surpass him that he had gone so far as to marry off his sister.
+
+"Caelan, this was your fate from the start," Elder Maro said calmly, his voice sounding so distant. "Now prepare to welcome your father's soul. The ritual will now begin."
+
+The formation hummed to life. The five elders bowed their heads in unison. Amber light climbed the walls. They began to chant in low murmurs, and Caelan felt the ground tremble beneath him.
+
+This was it. The end.
+
+His father's infant soul began to descend.
+
+Slowly at first—then tendrils of dense earth Qi shot downward like roots seeking ground, and the first one found him. Then the second. The burning from the impacts was not hot like fire. It felt like something was trying to hollow him out from the inside to make room for something larger.
+
+"I thought the Covenant and the All-Seeing Eye had denied me my future, but they only showed me the truth!" Caelan hissed through the pain. "My future never belonged to me, Father, did it? It is you who brought me into this accursed world to serve your own selfish desires. I curse you and the Celestial Empire. You are all the true villains of this world!"
+
+He screwed his eyes shut as the pain became unbearable. In the darkness, the smiles of his wife and daughter appeared. Would they even know what had happened to him? His daughter would be left without a father, but her grandfather would be there, happily wearing his skin.
+
+It was too horrific to think about.
+
+"Well said," a calm, feminine voice caressed his ears.
+
+"Who are you!" Elder Maro's startled voice echoed through the chamber. "Step away from the ritual. Now."
+
+Caelan opened his eyes.
+
+A girl shrouded in shadows leaned over him, idly holding his father's infant soul between two fingers. While her cloak of shadows mostly hid her, he caught a glimpse of her face. Blonde hair, pale eyes, the color of something between pink and white, and an indifferent composure that didn't match her divine beauty. She looked down at him, the shadows moving to shroud her expression. "I'll take it from here," she said.
+
+"Are you one of Veilshade's Shadows?" Maro was moving now, his voice shifting from shock toward fury. "What right do you have to interfere with Stonecrest family affairs?"
+
+The woman didn't care for Elder Maro. She brought the infant soul closer, turned it once, examining it with the unhurried focus of someone appraising a rare stone at a market stall. Then she closed her fist around it, and it was gone.
+
+A Monarch Realm's infant soul, the hope of the Stonecrest family, was snuffed out like a candle flame.
+
+The formation sputtered. The amber light faltered across the walls.
+
+"What did you just do!" Elder Maro roared. All five of the Elders present in the room charged toward the girl with utter disregard for their lives. With Aldric's infant soul gone, the fate of the Stonecrest family was all but sealed if they couldn't retrieve it somehow.
+
+"I just came to finish a job, that is all," the shadowed woman said casually and glanced in Elder Maro's direction. "I'm also a firm believer in defying fate." She stepped toward the surge of rock and walked through it, arriving behind a shocked Elder Maro.
+
+Caelan watched in silent disbelief as the shadowed woman grabbed the back of Elder Maro's neck and tore his head off with ease. His teacher for hundreds of years, his father's closest confidante, and the man who had sentenced him to soul death seconds ago.
+
+Dead.
+
+The other four Elders lasted just as long—their heads exploding with a wet crunch as daggers shot through them.
+
+Caelan strained against his restraints to watch them die. He didn't want to miss a moment.
+
+A strange power radiated out of the woman a second later, making everything pause in mid-air as if time had stopped. The headless bodies, the blood, the daggers, what was left of their heads—everything.
+
+She clicked her fingers, and it all vanished in a flash of white.
+
+That's when the realization of who this woman was came to him.
+
+"It was you," Caelan said, his voice weak. "You're the one who killed my father."
+
+The woman turned to look at him. "Do you resent me for it?"
+
+Caelan's brain took a moment to process the absurdity of what she had just suggested, and once he did, he laughed. "Resent you for it? The only thing I resent is my own foolishness for thinking I could catch up to my father and live a happy life."
+
+"There's nothing foolish about what you did," the woman said, a hint of nostalgia in her voice. "Family is a complicated thing, and you rose to the challenge. Sometimes, we just need a helping hand to overcome the fate others have written for us."
+
+The enchanted iron clamps clicked open, freeing Caelan from their restraint. He sat up and rubbed his wrists.
+
+She turned, as if preparing to leave.
+
+"Wait," he called out. Surprisingly, the shadowed woman paused, and he hesitated. "What is your name?"
+
+The woman appraised him for a long moment before answering.
+
+"Attend the ball, and maybe you will find out."
+
+With that, she was gone like a ghost.
+
+Caelan was left alone in an empty chamber. The faint smell of blood hung in the air, despite there being no traces of the gruesome battle that had taken place.
+
+"I'm really alive," he said, his voice shaking. With the Elders dead and his father's infant soul taken, he was one of the most powerful people left in his House and the only worthy heir.
+
+In a single act, the shadowed woman had changed the course of his life.
+
+"She must want something from me," he mused, rising from the disk. He wasn't foolish enough to think she saved him out of charity. She had cleared his path and given him a future. "I need to deal with this quickly."
+
+He was about to leave when he noticed a porcelain pill bottle that hadn't been there earlier. Picking it up, he popped the cork and was amazed by the intense smell of the pills. Having taken many cultivation pills in his life, these were on a whole different level. He didn't even need to eat one to know that just one of them would be incredibly valuable.
+
+Yet, the woman had left these for him without a word.
+
+"I must attend that ball," he said adamantly, storing the pills away. He had a lifetime of debt to repay, and it would begin with him taking control of the Stroncrest family and devoting himself to the shadow woman and the All-Seeing Eye, which she served.
+
+For he was truly the most magnanimous of beings.

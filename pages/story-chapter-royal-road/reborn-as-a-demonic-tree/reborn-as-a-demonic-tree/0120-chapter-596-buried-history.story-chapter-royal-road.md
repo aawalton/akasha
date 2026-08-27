@@ -1,0 +1,173 @@
+---
+id: b8419185-b2b7-5c02-93ed-bf8aed61ae3c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 596: Buried History"
+slug: 0120-chapter-596-buried-history
+partOf: reborn-as-a-demonic-tree
+position: 120
+ownLength: 2457
+unit: words
+publishedAt: 2026-07-27
+link: "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3734173/chapter-596-buried-history"
+royalRoadId: "3734173"
+---
+
+Despite her confidence in matching Zephyrine's speed, Diana had been humbled within minutes and now rode shamefully on the mythical deer's back.
+
+"You overexerted yourself saving that city," Zephyrine said, a thread of condescension in her voice.
+
+"I know." Diana tightened her grip on the deer's fur. "I overestimated how much Qi I'd recover from recalling my domain and devouring Evaline's heart demon."
+
+"Why didn't you consume Aurelian's, too?"
+
+"His heart demon was stronger than Evaline's, but he's better served assisting Douglas and the Radiant Dawn in defending Desolark City."
+
+Zephyrine glanced back, stormlit eyes narrowing. The world blurred past them, the immense speed not seeming to faze the deer in the slightest. "I don't understand your obsession with protecting mortals."
+
+"Morals aside," Diana said, "Ashlock is a dark god. He draws much of his power from his worshipers. If those cities fall, he doesn't just lose millions of supporters to the Empire's firebombs. The survivors' faith in him will waver, further weakening him. He has a reputation to uphold, and those mortals put their trust in him."
+
+Zephyrine grew quiet and looked forward. After a long silence, she broke it. "The Crowned One captured Stella. Isn't saving her your top priority?"
+
+Diana's jaw clenched. "Do you think she isn't?"
+
+"Then why—"
+
+"Because I know Stella and how strong she is. While I don't know about this Crowned One, Jasmine has assured me that Stella is alive, and that's all I need to know to trust that she will make it through this." Diana looked to the horizon. "If there is anyone who could get herself captured by a powerful Monarch and turn the tables on them, it's her."
+
+"She's just an unruly child," Zephyrine shot back. "Monarch realm or not, she doesn't possess what it takes to defy the Crowned One."
+
+"Stella is hardly a child anymore." Diana scoffed. "She has the bloodlust to make century-old cultivators tremble, and she strives for power like nobody else I've met. What makes you so certain she can't stand up to him?"
+
+"Because the Crowned One isn't a person." Zephyrine paused, searching for the word. "He's a concept. An ego given power. You can't beat him with raw strength alone."
+
+Diana leaned closer. "What do you mean?"
+
+"I don't know all the details, as most of it is buried history. But the Chairman was allegedly once a god tasked by the heavens not to oversee the World Tree, but to contain her. To suppress the World Tree from ever initiating the Era of Ascension." Zephyrine snorted. "Yet, he was still human. Greedy for power and growing tired of his role, the Chairman went against Heaven's wishes and assisted in initiating the Era of Ascension."
+
+"Then what happened?" Diana asked.
+
+"He flew too close to the sun, as they say. His greed, his lust for strength, his pride at thinking himself able to defy the heavens were answered with their unrestrained wrath. The moment he ascended, he was stripped of his divinity and was destroyed, his soul scattered to the wind."
+
+"How is he still here then? Did the Chairman not reincarnate?"
+
+"That part of history is even muddier, as the wrath of the heavens destroyed much of what the Celestial Empire was back then, and he didn't want his past known. But to escape the cycle of reincarnation and hide from the Heavens, he somehow split himself into seven parts, each embodying the epitome of a human sin. Working in turns, they control the Celestial Empire under the guise of being Ancestors."
+
+"Seven sins? Which one is the Crowned One?"
+
+"The sin of Pride," Zephyrine hissed. "The most dangerous of them all. I'd wanted to attack the Empire while the Still One was in power—he represents sloth. With the Crowned One taking charge, our chances of freeing the World Tree are significantly lower. Even with Ashlock and the Ashfallen Sect's help."
+
+Diana chewed over this information. "If he were a god who could force the Era of Ascension, he must have been at the peak of the Monarch Realm in the past. Is he still that strong?"
+
+"I don't believe so." Zephyrine shook her head, antlers cutting the air. "But the egos don't use conventional Qi like us."
+
+"Demonic Qi?"
+
+"No. It's almost unheard of, but it's possible to progress your understanding of a dao—or even an emotion—to the point of turning it into something like Qi. The most common example, while still extremely rare, is sword dao becoming sword Qi."
+
+"Sword Qi? How would that even work?" Diana mumbled, trying to imagine literal swords passing through her spirit roots.
+
+"They all vary." Zephyrine patiently explained as her conjured storm roared around them, further increasing their speed. "For sword Qi, it would let you turn anything into a sword. Even your gaze could become piercing enough to cut a man in two. Paired with another affinity, these conceptual Qis become truly fearsome."
+
+Diana blinked. That sounded horrifying.
+
+"So the Crowned One doesn't use a Qi type such as light or nature, but rather a conceptual dao?"
+
+Zephyrine nodded. "His conceptual dao is the essence of pride. It gives him immense power over those he deems himself superior to, to the extent that he can command others with mere words, and the troublesome thing for us is that he is the strongest cultivator on this layer of creation."
+
+"We need to inform Ashlock and the others about all of this," Diana said, biting her lip. She was starting to see why Zephyrine was in such a hurry to go and save Stella. If this Crowned One could control others with words, then maybe she was right. Stella might not stand a chance against such a foe.
+
+"But if the heavens could strike down someone that powerful," Diana said slowly, "then why don't they strip Ashlock of his divinity and do the same to him?"
+
+"Either they have tried, and Ashlock was able to survive in spite of their efforts," she turned and met Diana's gaze, "or the heavens are allowing him to succeed."
+
+Diana frowned, thoughts drifting back to her inheritance. Ashlock was the Origin of Rebirth. Stella, a descendant of the Origin of Destruction. Together, the Origin of the Mist seemed certain the heavens would fall.
+
+Then why wouldn't the heavens do everything they can to strike them down? Diana wondered. Unless... the heavens want to be torn down.
+
+An unsettling weight settled into her bones as they crested a vast mountain range. On the horizon, the World Tree rose to meet the sky. Diana was in awe. It was the first time she had laid eyes on Stella's mother.
+
+Until now, she had thought Ashlock was the most impressive spirit tree, but she now had to give the crown to another. The World Tree was simply on another level. A canopy so vast it was the horizon, blotting it out with ethereal golden leaves that reflected beams of moonlight dancing across the wilderness for thousands of miles.
+
+It was so impossibly beautiful she almost forgot to question what it was.
+
+Squinting past the shining gold and beams of light, she saw the branches holding up that golden mass. Light beige in color, they were smooth unlike Ashlock's gnarled branches, and were so impossibly thick that her mind kept trying to render them as mountain ridges floating sideways in the sky—hundreds of miles across. A single one was wider than the entirety of Red Vine Peak's range.
+
+Her gaze kept descending, following those branches inward, until at last she found the trunk.
+
+A pillar.
+
+A pillar that didn't rise so much as defy the heavens themselves—a column of bark stacked like scales the size of mountains, climbing and climbing until distance turned it ghostly.
+
+Zephyrine stopped dead.
+
+The sudden halt nearly threw Diana from her back.
+
+"Why did you stop?"
+
+Zephyrine didn't answer. Her stormlit gaze was locked on the horizon, unblinking, for an uncomfortably long moment.
+
+"Impossible." Her voice was barely audible. "The World Tree is tilting."
+
+"Tilting?" Diana squinted at the immense silhouette, its canopy seeming to hold up the horizon itself, and her eyes widened as she realized it was true. The World Tree was leaning to the right. "I, um, take it that's a bad sign."
+
+"A very bad sign," Zephyrine confirmed. Storm Qi crackled between her antlers, forcing Diana to lean backward, and then they shot forward. Diana had felt Zephyrine's urgency to reach the Celestial Empire before, but now it was full-blown panic.
+
+The wall of wind Zephyrine had previously erected to keep Diana on her back was waning, leaving Diana to expend Qi to avoid her clone, crafted from condensed mist, from dissipating. In doing so, she found herself more in tune with her surroundings and immediately felt Ashlock's blanketing presence.
+
+We are still so far away, yet I can feel his wrath from here, Diana mused as she looked down at the blurring landscape and realized those weren't mountain ranges below her—they were the World Tree's roots. As they drew closer, Diana began to sense waves of differing power coming from the Celestial Empire. They were faint, but still rippled through Zephyrine's storm.
+
+"What are those from? Monarchs?"
+
+"Multiple Monarchs," Zephyrine said, a tense edge to her tone. "No wonder Geb said that Ashlock's Qi was being strained. There must be dozens of Monarchs going all out to get this kind of interference."
+
+Diana grimaced.
+
+Maybe Zephyrine was right for not going all out like I did back there. I'm not sure I can summon my domain again so quickly, and without it, I don't know how useful I will be in such a battle.
+
+As they drew closer to the World Tree, its lean became more apparent.
+
+The stars overhead vanished under streaks of moonlight as they eventually passed under the edges of the canopy and over what Diana assumed was Floridawn. When reviewing Ashlock's plans for overtaking the Celestial Empire weeks ago, she had noted the city of Floridawn, which sat at the World Tree's base, as the first thing to conquer.
+
+And conquered it was. Demonic trees covered a vast section of it, but in the middle was a gaping wound in the earth. It was oozing with corruption, and a large area around it was blackened ground.
+
+Her gaze traveled past it to the World Tree's base, where the reason for the tilt finally revealed itself. The ground there was ruptured and uneven, and massive black roots snaked up between the World Tree's own, climbing her trunk like ivy on a pillar. Diana couldn't see the roots' source. A swirling dome of silver ash had swallowed it whole.
+
+Compared to the vastness of the World Tree's trunk, the dome looked insignificant, but it was anything but. It seemed to contain a large section of Empyrea, the capital of the Celestial Empire. The edges of immense floating islands that supported cities jutted out of the dome like splinters, but what really drew her focus wasn't how impressively big Larry had made his domain—it was what lurked beneath. The dome shifted and bulged like maggots under one's skin, trying to break free.
+
+Whatever was happening in there, it wasn't going to be pretty.
+
+Diana suddenly felt a terrible foreboding, not from the dome of ash, not from the canopy, or even Floridawn. Confused, she glanced around trying to find the source and then realized it wasn't coming from her clone.
+
+With a blink, she was looking through the eyes of her real body that was leaving Red Vine Peak and heading toward Desolark City to meet up with Douglas and the Radiant Dawn. While all her bodies and clones could operate independently, her consciousness still had a focus. Perhaps that would change with time as she got more used to splitting her attention, but for now, this was the best she could do.
+
+Her real body came to a stop as she traced the feeling behind her. In the distance on the northern horizon, she could see the illusion shrouding Red Vine Peak fading as Ashlock's dormant crown of branches began to rise. Having witnessed this phenomenon before, she knew what was going to happen.
+
+"He's going to fire," Diana realized. She snapped back to her clone in time to feel her wings catch the air sharply.
+
+"Zephyrine, we need to get higher!" she shouted over the roaring wind. "Ashlock is likely about to fire upon the Celestial Empire."
+
+"We don't have time to waste," Zephyrine insisted. "The battle is happening within that dome of ash, and Stella needs our help."
+
+Diana leaned forward and seized the deer by the ear. "It's you who'll need help if you're caught in that beam. Climb into the clouds, or I leave you to your fate."
+
+Zephyrine turned to glare at her, and Diana defiantly held her gaze. "Fine," Zephyrine huffed, sharp and angry, and swerved upward. Floating islands supporting cities that belonged to Empyra rushed past them, and as they ascended the World Tree's trunk, Diana couldn't help but feel like an insect. The scale of the World Tree was just that ridiculous.
+
+A few moments later, as they weren't even halfway up the World Tree's trunk, they both felt it a second before it split the heavens.
+
+Ashlock's desolation beam tore through reality—fueled by the faith his worshipers invested in him, the beam of destruction didn't strike Larry's domain as Diana had anticipated. Instead, it slowly traced an arc into the ground around Floridawn, eating away at the earth rather than burning it.
+
+Two things stood out to Diana as she stared at the destruction in awe. First, how silent everything was. Second, how the beam was not technically black, as that would suggest the presence of color. It was colorless. Not pale, not transparent—it was the color you would imagine if you tried to picture what nothing looked like. Diana's eyes refused to settle on it.
+
+"What is he aiming at?" Diana wondered, not sensing any Monarchs in the area.
+
+"He's destroying the formations restraining my mother," Zephyrine said quietly. Her gaze had fixed on the beam's path, and there was something almost reverent in her voice. "He really is honoring his word. He's freeing the World Tree."
+
+"Of course he is," Diana said with a smile as she watched Floridawn get torn up, "he would never go against his word, even if Stella hadn't gotten kidnapped—"
+
+"Diana."
+
+Ashlock suddenly called out to her, his hundred overlapping voices echoing in her mind. It held an edge she had never heard before, instantly making her hair stand on end.
+
+"What's wrong?" Zephyrine asked, noticing she had gone stiff.
+
+Ashlock was speaking to her, but this wasn't the Ashlock she remembered.

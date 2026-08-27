@@ -1,0 +1,201 @@
+---
+id: a4787dba-e65c-5b6d-857e-a528c25563f6
+page-type-slug: story-chapter-royal-road
+title: "Chapter 599: Stormglass"
+slug: 0123-chapter-599-stormglass
+partOf: reborn-as-a-demonic-tree
+position: 123
+ownLength: 2365
+unit: words
+publishedAt: 2026-08-03
+link: "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3765004/chapter-599-stormglass"
+royalRoadId: "3765004"
+---
+
+Fueled by the fountain of lifeforce contained in the Cosmic Monarch's corpse, Ashlock's Hungering Maw unfurled outward like a yawning portal to the void.
+
+With the Hellroot Abyss as its epicenter, he watched dozens of void tendrils and vines lurch from the abyss with frightening speed, lunging a hundred meters into the air at every enemy Monarch he had marked or who carried his cursed blood.
+
+Startled, many were forced into retreat while pointlessly unloading techniques into the Hungering Maw.
+
+Ashlock didn't expect any Monarchs to fall prey to his Hungering Maw directly, but it did force them back, buying him and his allies a precious moment to discuss.
+
+"So? Any leads on Stella or the Crowned One's whereabouts?" Ashlock asked, a tinge of hope in his tone.
+
+"No," Maple snarled and seemed agitated. "Our search was futile."
+
+"It wasn't totally futile. We can now confirm where Stella isn't," Nyxalia added, hiding her arm behind her back. She had suffered a spiritual burn from killing the Cosmic Monarch in such a brazen fashion. Ashlock would let her feast on the corpse if he didn't need it more. "Maple confirmed she isn't being kept in the void, and I checked the liminal dimensions. Since she isn't there, and she can't escape through the aether, that only leaves one option."
+
+"Which is?" Ashlock asked impatiently. His Hungering Maw was only going to buy them seconds before the Celestial Empire Monarchs figured out it was only an empowered version of his Abyssal Maw from before and couldn't threaten their lives.
+
+"A soul space," Nyxalia answered.
+
+"Like an Inner World?" Ashlock double-checked.
+
+Nyxalia nodded in confirmation. "They can come in different forms, but there is one constant. A soul space cannot exist without an anchor, which in most cases is someone's soul. Presumably, the Crowned One is the anchor, so if we find him, we can force our way into his soul space."
+
+"But the Crowned One is nowhere to be found, right?" Ashlock grumbled.
+
+Nyxalia nodded again, putting them back at square one.
+
+"If I were the Crowned One, where would I go..."
+
+Ashlock fell into contemplation.
+
+"Zephyrine told me that the Chairman and the Crowned One aren't separate people, but rather parts of a whole. If the Crowned One is the Chairman's pride given form, then I doubt the Crowned One will flee. Pride is known as the most deadly of the seven sins for a reason. So, even though in this situation, it would make perfect sense to flee as far from my reach as possible, someone blinded by pride could never run."
+
+This was the Crowned One's home, his Empire.
+
+"While he might not care for its cities, people, or even the cultivators loyal to him, he won't consider the possibility that it could all be taken from him by someone inferior. The question is, where would someone like that hide..." Ashlock paused as he realized who he was talking about.
+
+The Crowned One wasn't someone to cower away in a cultivation abode deep underground. The people invading the Celestial Empire were inferior to him in his eyes. They weren't even worth acknowledging.
+
+That left one place unturned, and possibly the most obvious one.
+
+"I know where he is," Ashlock said. "I was cut off from the World Tree's Qi supply, and the restrictions around her have only tightened since. I thought the formations were being empowered to keep me out. They weren't. It's him. He's inside the World Tree's Inner World and trying to keep us out while he completes his overtaking of Stella."
+
+The ultimate show of power. The throne of the ninth layer of creation. It was the World Tree's inner sanctum.
+
+Anger rippled through the group.
+
+Nyxalia's eyes narrowed. "Cowering inside the World Tree. That would make sense."
+
+"Can you get in?" Ashlock asked Nyxalia and Maple.
+
+She shook her head. "If tearing that Cosmic Monarch's soul out was like reaching into a fire, the World Tree's soul is like leaping into a star. I'd die within seconds." A pause. "What we need is a key. A way in."
+
+Maple nodded sharply in agreement, with nothing else to add.
+
+"How could we get a key to the World Tree's soul?" Ashlock muttered. "If the Crowned One could get inside, then there must be an opening somewhere. We just need to find it or someone who knows the way—"
+
+"Grand Elder Ren is dead," Larry's deep voice reverberated through the ashen dome, cutting their discussion short.
+
+"Dead?" Ashlock asked. "Did they destroy his ashen statue?"
+
+"Yes, and Thal'korr is soon to follow," Larry replied.
+
+"Wait here and defend the Hellroot Abyss. A portal will open shortly," Ashlock told Nyxalia and Maple, already moving through the earth via his roots.
+
+He passed through many caverns created after the collapse of the ballroom by the domains competing for domination. There were far more than there had been earlier, and he briefly checked on Elysia, Mistress Veilshade, and Cyphion, who were all locked in mortal combat with a Monarch or two from the Celestial Empire.
+
+Possibly realizing the weakness of Larry's domain, the Celestial Empire seemed to be using its numerical advantage to force isolated battles. This way, if someone marked by Larry died and became a statue, the statue could be destroyed, sealing their death.
+
+Ashlock found the cavern where remnants of Grand Elder Ren could be felt. The walls were slick with poison, with many corpses that looked like they had been dunked in acid littering the ground. In the center of the room, standing upon a pile of crushed ash and facing down Thal'korr, was the leader of the Stratospire League from the ball. He was a giant of a man, decked out in the Stratospire League's signature Stormglass armor and sporting an imposing bald head and a missing eye.
+
+Evidence of the fight with Grand Elder Ren had left its mark on him. The left side of his face was chemically burned to a blistering red that was oozing corrupted pus. He didn't seem bothered. If the bloodstained grin was anything to go by, he seemed thrilled.
+
+Ashlock looked around but couldn't find any remnants of Grand Elder Ren's soul. Had it already been destroyed, or had it returned to his Grove of Eternal Rebirth?
+
+"Thal'korr, it would seem we have a visitor," the man said, "It would be a shame for our fun to be interrupted, don't you think?"
+
+"Korrath Vaelstorm, you're picking the wrong side," Thal'korr insisted, his strange voice echoing from his golden beetle helmet. He held out an open palm. "Join the Dark God and us. The Empire, it's over under his wrath."
+
+"I don't care for the Empire, all I care for is the thrill of battle," Korrath said, his grin somehow widening. He pointed his javelin crackling with power at a badly wounded Thal'korr before Ashlock got a chance to take hold of the situation. "Stormglass Severance!"
+
+An explosion of static consumed the room, and they were both gone.
+
+Just like that, in the blink of an eye. It reminded him of Stella all over again.
+
+"What just happened?" Ashlock asked Larry as he swiftly tore open a portal in the room linking with his Hellroot Abyss. That had clearly been a domain, but it hadn't expanded outward to take control of an area like most others.
+
+"I believe he did the same thing to Grand Elder Ren to finish him off, but I didn't see it myself," Larry explained, and Ashlock realized his guardian beast was in another cavern fighting a different Monarch.
+
+Nyxalia, with Maple floating at her side, came through the desolation rift, and they both surveyed the room.
+
+"Soul poison," Nyxalia said, keeping well away from the walls and corpses as if they were cursed. "Nasty stuff, especially to me."
+
+"Where did they go?" Ashlock asked them.
+
+"A mirror dimension," Nyxalia replied with ease, her eyes glowing with power. "I can see their battle from here."
+
+Ashlock followed her gaze by using the Gaze of the Tree God, and he saw it too. Nestled in another dimension was an arena constructed in the liminal space from shards of glass.
+
+"Can you enter it?"
+
+"I could, but I'd have to shatter my way through, and that wouldn't break the mirror dimension. It would just grant me entry," Nyxalia explained. "I'd likely get further injured in the process when fighting Korrath."
+
+For as terrifying as Nyxalia was, her existence didn't utterly break the fundamental rules of reality. While she could tear souls out of the living, it came at a cost, evident by her damaged antlers and burned arm. After all, the Netherworld Wraith race, of which she is an evolved version, hunted lost souls, not cultivators.
+
+"Maple?" Ashlock asked.
+
+"Worldwalkers are barred from heaven's woven reality," Maple reminded him. "I'm only here due to our pact, but my power is heavily restricted."
+
+"Thal'korr lost," Nyxalia said without emotion, the outcome Ashlock had also just witnessed. It hadn't even been close—Korrath was a monster of a man with speed reminiscent of lightning and the durability of an earth cultivator.
+
+Reality seemed to shatter in the cavern as Korrath Vaelstorm reappeared with a suit of lifeless golden armor at his feet. Notably, Thal'korr hadn't turned to ash. The reason was made clear as Korrath held up a tiny ashen spider between his fingers.
+
+"I've figured your trick out," he said with a smirk and crushed the spider to dust. Yet, Ashlock's focus was on a piece of stormglass in his other hand. Through his Gaze of the Tree God, he could see Thal'korr's soul trapped inside.
+
+Without having to ask, Nyxalia and Maple were already moving. Nyxalia arrived first, fading into existence before Korrath and reaching for the stormglass gem in his hand. He retaliated by stepping backward and swinging his javelin to cut her in two. Nyxalia allowed her burned arm to eat the strike, creating an opening.
+
+Maple took the opportunity. He appeared out of the void, and his form briefly turned nightmarish. Tendrils from his face latched onto Korrath's arm, and before Korrath could shrug him off, Maple tore the man's arm off with such force that his stormglass armor shattered along with it.
+
+The confident grin he had worn from the beginning, which had been earned after slaying two Monarchs by himself, was wiped clean.
+
+For the first time, Korrath showed fear in the face of Maple and Nyxalia.
+
+"What are you two?" he said, stumbling back and waving his javelin.
+
+"Your death," Nyxalia replied as she phased through his javelin strike and reached through the wound left behind, and grabbed Korrath's soul. Though his infant soul was missing from his Soul Cosmos.
+
+Korrath shuddered as Nyxalia tried to pull his soul free.
+
+Ashlock used Gaze of the Tree God and located his infant soul a moment before Nyxalia. Korrath's infant soul wasn't in his body—it was in his armor. Before he could warn her, it was too late.
+
+"This isn't over," Korrath roared as his broken armor detonated with such cataclysmic force that it briefly shattered reality, and a force pulled him through the breach. Nyxalia was thrown back, screeching as she was impaled by shards of stormglass.
+
+Korrath was gone.
+
+All that remained of him was his arm, still clutching a shard of glass, holding Thal'korr's soul.
+
+"Get back to the Hellroot Abyss!" Ashlock yelled as the cavern collapsed around them. While neither of them would die from a cave-in, Maple helped Nyxalia through the portal, and they returned to the surface.
+
+"Nyxalia, eat the soul in the stormglass," he insisted.
+
+"No, I shouldn't," she replied. "You need it more than I do."
+
+She wasn't exactly wrong. Not only was Ashlock's soul teetering on the brink of collapse, but he needed it to progress his quest to reach the Monarch Realm.
+
+Yet, he needed Nyxalia in peak condition.
+
+"Take it," Ashlock insisted again, using telekinesis to pry it from Korrath's hand and pass it to Nyxalia. She reached out to take it until a body fell from the sky and crashed beside them with a wet thud.
+
+"Special delivery," Diana said, landing beside the corpse as an Archdemon of demonic mist. "One Wind Monarch, nice and fresh."
+
+Ashlock's hungry tendrils were coiling around the corpse before he had considered what to do with it.
+
+"How did you kill her?" Ashlock asked. They had been busy in the caverns, so he had missed the fight.
+
+"I engaged her in melee after exhausting her domain and, with the help of Kaida, managed to hold her in place for a second. It's your void lightning that finished her off, right through the head," Diana frowned. "But her infant soul escaped in a burst of wind from her body."
+
+[You have successfully devoured the Cosmic Monarch Aldebrar Solvenne and his infant soul]
+
+[+1856 SC]
+
+[Monarch Realm ascension requirements:
+
+Possess an Inner World: 1/1
+
+Comprehend Desolation Law: 100%
+
+Devour the souls of nine Monarch Realm beings: 5/9]
+
+A sudden notification popped up in his vision.
+
+He was getting close. If he devoured the Wind Monarch and Thal'korr's soul, he would be at seven out of nine.
+
+"Diana, could you go and find some Empyrea enforcers, ideally Nascent Soul Realm ones, to feed Nyxalia?" Ashlock asked. "She's injured, but I need to eat these corpses."
+
+"Make a portal to Geb, and I'm sure that Douglas will be able to provide you with heaps of corpses," Diana assured him. "Evaline and Aurelian have been busy."
+
+"Evaline and Aurelian? Who are they?" Ashlock asked. There were so many people within the Ashfallen Sect that it was impossible to remember everyone, but these two sounded important.
+
+Diana chuckled. "Monarchs who made deals with an Archdemon."
+
+That greatly stirred Ashlock's curiosity.
+
+Finally confident enough to leave the Hellroot Abyss unsupervised for a minute, Ashlock's view blurred as he headed north to check on Geb.
+
+When he arrived, he found himself witnessing the finale of a realm-shaking airship battle, and at the center of it all was Geb, layered in shields, being commanded by Douglas, an army of Mudcloaks, and... Diana?
+
+How was she in two places at once?

@@ -1,0 +1,211 @@
+---
+id: fe31b2cc-e5f1-56f3-9373-e28929705f34
+page-type-slug: story-chapter-royal-road
+title: "Chapter 470: Break"
+slug: 0037-chapter-470-break
+partOf: rise-of-the-living-forge
+position: 37
+ownLength: 2604
+unit: words
+ownProgress: 2604
+publishedAt: 2025-08-08
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2502418/chapter-470-break"
+royalRoadId: "2502418"
+markedReadAt: "2026-06-29T19:59:38.525Z"
+---
+
+“Don’t say that,” Thane said tersely, sending a glance over his shoulder before looking back to Vanessa and making sure his gaze didn’t drop anywhere below her chin. “And especially not in that tone.”
+
+“What tone?” Vanessa asked. She spotted a waiter walking by and strode over to him, grabbing several glasses of wine from his tray and making her way back over to Thane without even missing a beat. Then she arched an eyebrow.
+
+“That tone,” Thane said.
+
+Vanessa threw one of her glasses of wine back into her mouth like it was a shot. She swallowed the entire thing in one gulp, then set the glass gingerly on the table before pounding back the second and third ones in rapid succession.
+
+She plucked a napkin from the table and dabbed at her lips like a dainty countess — except there wasn’t a single drop of wine on them. That would have involved wasting it, and something told Thane that Vanessa wasn’t the type to let that happen.
+
+“I have no idea what you’re talking about,” Vanessa said. “I’m just acting normal. Do you have a problem with me?”
+
+“What? No. I didn’t—”
+
+“Oh, man.” Vanessa blew a stray strand of hair away from her face. “This is rough. You’ve got none of it, buddy.”
+
+“None of what?” Thane asked, his brow furrowing.
+
+“Pizazz,” Vanessa said. “You walk around like your pants are empty, kid.”
+
+Thane stared at Vanessa. She was speaking, but the words didn’t make any sense. It was like she was using an entirely different language. And that, more than anything, irked him. Thane had spet a lot of time studying language. Enough that he should have been able to at least recognize what it was she was communicating in.
+
+“What are you talking about?” Thane asked. “I’m completely lost.”
+
+“Rule number 1. Never let on that you’re confused,” Vanessa said. “Just confuse the other person more.”
+
+“That doesn’t seem very conducive to learning.”
+
+“Who said anything about learning?” Vanessa scratched at her midriff. “This is about face, little noble. Face is the game you all play. You should definitely know it better than me. Doesn’t it flow through that blue blood of yours?”
+
+“No,” Thane said. “I’ve never been good at it. I just stay out of the way.”
+
+“Could have guessed that bit myself,” Vanessa muttered. She shook her head. “But at least that makes it easy. What you’re missing is exposure.”
+
+“I think you’re exposed enough,” Thane grumbled, the words slipping out from his mouth before he could say anything. His cheeks went bright red.
+
+To his surprise, Vanessa burst out into laughter.
+
+“So you do have a little bit of a backbone. That’ll make this even easier still. I was worried we’d have to try and build one. And I don’t exactly have much time to work with. Your friends only hired me for the duration of this party. So we’re going to have to get to this quickly. Quick, choose someone.”
+
+“What?” Thane asked. “For what?”
+
+“That’s a surprise.”
+
+“I don’t like that kind of surprise.” Thane’s eyes narrowed. “What are you going to do? We just need to stay out of the way and avoid anyone coming our way. I’m good at that.”
+
+“Too bad.” Vanessa’s hands clamped down on Thane’s shoulders like an iron vice. “See, you’re my ticket to having fun. And my job is to babysit you. That means I can’t wander off. If you hide, my day gets wasted. So you’re staying right over here. Now, choose someone — or they’ll choose for you. People are already looking.”
+
+“That’s because you’re manhandling me,” Thane snapped.
+
+“I can’t manhandle you. I’m a woman. Or couldn’t you tell?” Vanessa arched an eyebrow and flashed him a grin as his cheeks went red again. “Now are you going to choose someone, or am I?”
+
+Thane’s eyes flicked over the crowd even as his stomach twisted in uneasy anticipation. Whatever Vanessa was planning, he got the feeling it wasn’t going to be enjoyable. But, in the end, he just needed to make sure his research was safe. He couldn’t afford anything happening to it.
+
+“The thin one. Over there,” Thane said. “He’s with the—”
+
+“Don’t care,” Vanessa said as she shifted to snatch another two glasses of wine from a nearby waiter. “Really, knowledge isn’t always a boon. Haven’t you ever heard that ignorance is bliss? Just tell me his name.”
+
+“Jean,” Thane said. “But why—”
+
+“So I know who to insult,” Vanessa replied. She downed one of the wine glasses, then looped her arm around Thane’s shoulders and dragged him in the direction of the thin noble he’d indicated.
+
+“Wait,” Thane started, but it was too late. Everyone in the area already saw them moving, and the few eyes that hadn’t already been trying to dissect him and figure out the best way to curry favor from his brother were now affixed squarely on him and Vanessa.
+
+Even though here weren’t as many people here as there had been during the duel, there were still more than enough to be a nightmare.
+
+“Sorry,” Vanessa said under her breath as they advanced. Her firm grip kept Thane from slipping out no matter how hard he tried. “But I had one other job as well, Thane. You’re not my primary objective.”
+
+“And what is that?” Thane asked desperately, but he was getting the feeling that he already knew the answer by the look in Vanessa’s eyes and the sloshing wine glass in her free hand. The fact it had survived this long while in drinking distance meant she had other plans for it.
+
+Vanessa came to a stop directly in front of Jean. That, unfortunately, meant that Thane did exactly the same thing.
+
+The thin noble made no move to hide his disdain as he gave them both a once-over. His lip curled and he cocked his head to the side.
+
+“What do you want? And better yet, what is someone like you even doing here?”
+
+“I—” Thane started.
+
+“What was that?” Vanessa asked. “You have a problem with me?”
+
+“Look at yourself,” Jean said with a scoff. He gestured vaguely in Vanessa’s direction. “Disgusting. It’s one thing to invite someone of your profession to an event like this. But to invite such a low class one… unacceptable. If you had even a shred of respect for yourself, you’d leave at once and—”
+
+“My profession?” Vanessa leaned forward. “And what would that be?”
+
+“You know as well as I do. There’s no point trying to hide it,” Jean said with a laugh. He nodded to Thane. “Looks like the younger Blacktongue was so desperate for companionship that he invited a woman of the night to stand by his side during the day.”
+
+“A woman of the night,” Vanessa repeated. She leaned down so their faces were an inch away from each other. “You calling me something? Then have the guts to use the real word, you little prick. What exactly is it that you think I am?”
+
+“You can talk all you want, but anyone can tell what you are,” Jean said coldly. “All they need is a single look at the way you dress. You’re a whore.”
+
+“There we go,” Vanessa said. “And I’m sure you wish I was. Unfortunately, even if you had enough money or the looks to get me into bed, I’d snap you in half like a twig. And I might say, your eyes haven’t left my chest once since we’ve started talking. You ever see a woman your daddy didn’t pay to talk to you?”
+
+Someone in the crowd behind Jean snickered. It was a small laugh, one from more surprise than anything else, but Jean heard it. His ears went bright red and his eyes thinned in anger.
+
+“Watch your words. You’re talking to—”
+
+“Did I hit a nerve?” Vanessa asked with a wide grin. “I’m sorry. I must be a little drunk. Of course, anyone would have to be. Dealing with you idiots for more than a few minutes while sober… that sounds like torture. So why don’t you tell me why you were staring me down so I can go back to downing your shitty wine and pretending you aren’t here?”
+
+“What are you talking about? You came to me,” Jean said.
+
+“Only because you were trying to burn a hole through my chest armor with your eyes,” Vanessa said with a smirk. “Or was your gaze directed at Thane? He doesn’t frequent brothels, so you might have to look elsewhere.”
+
+“What? It absolutely wasn’t,” Jean spat in disgust.
+
+“Then you were looking at me,” Vanessa said. She arched an eyebrow. “So… why? You like the look of this… what did you call me? Woman of the night?”
+
+“If you don’t want to be stared at, you shouldn’t wear clothing like that,” Jean snapped.
+
+He was definitely staring at me, not Vanessa. She’s just managed to twist things around to the point where admitting he was looking at me would be more embarrassing than her. She’s crass… but that’s actually an impressive manipulation of the conversation.
+
+“I don’t mind the looks,” Vanessa said. “It’s who they come from that I have trouble with. If you’re going to stare, you might as well have the money to back it up. You couldn’t afford me.”
+
+“Are you kidding?” Jean let out a scoff. “Someone’s inflated your ego. You can’t cost more than ten gold.”
+
+“You want to take me?” Vanessa thrust her chest forward. “For ten gold? Is that a joke?”
+
+Jean’s eyes flicked to Thane. Then a grin spread across his lips. “So you are for sale. You really should have gone with one that stuck to her arms a bit better, Thane. Nothing’s more embarrassing than getting your own escort bought out from under you. Twenty gold, but we’re going here and now. Then you can go right back and join Thane once I’m done with you.”
+
+“You’re disgusting,” Thane snapped.
+
+Vanessa held her glass of wine out to Thane.
+
+“Hold this,” Vanessa said, her eyes never leaving Jean. “Twenty gold. And we go at it. Have ourselves a good time. I’m sure we can find somewhere suitable so that I can ply my trade.”
+
+Thane mutely took the glass. It was a move more out of instinct than any desire to actually hold anything. He had absolutely no idea what Vanessa was doing, but his ears felt like they were on fire.
+
+Why is she making me do this? It’s humiliating.
+
+“There’s no way,” someone from the crowd snickered. “She’s making him hold her drink while she’s at it.”
+
+“Done,” Jean said instantly, not even bothering to hide his leer. “There are some rooms in the Blacktongue manor that should be—”
+
+“Oh, there’s no need for that,” Vanessa said with a sultry smile. “We can do it here and now.”
+
+Jean’s eyes widened. “You’re mad. You want to get naked in the middle of a party? While everyone watches? You really are low.”
+
+Vanessa took a step closer to Jean. “I said I would ply my trade. Who said anything about getting naked.”
+
+“What else were you thinking? I wanted a massage?” Jean scoffed. “Come on. You’re paid for, woman. Unless you’re planning to back out of your word, that means you’ll be doing exactly what you promised to.”
+
+“Oh, I fully plan to give you what you paid for,” Vanessa said. Her lips pulled back, and the sultry smile evaporated as something savage took its place. “I said I would ply my trade. And don’t get me wrong — there’s nothin’ wrong with the world’s oldest profession. But when did I ever say I was a woman of the night?”
+
+“What are you—”
+
+Vanessa’s knee shot up.
+
+It slammed into Jean’s stomach with a painful sounding thud. She hadn’t held back in the slightest.
+
+He doubled over with a pained cry, only for Vanessa to grab him by the hair. Before anyone could react, her knee shot up again. It connected with his nose, which let out a loud crack. Blood splattered across the ground.
+
+But Vanessa didn’t let him go. She lifted Jean into the air by the hair. He let out a mixture of a strangled sob and a moan.
+
+Then Vanessa dropped him. In the same motion, her foot whistled up. It shot right between his legs and connected with a loud, sickening crunch. The blow carried enough force to launch Jean right back up into the air.
+
+He fell back to the ground in a crumple of limbs and agonized sobs.
+
+“Sumbubbyy! Hebp!” Jean begged, his voice nasally from his broken nose.
+
+The nobles in the crowd all backed up. Not one of them moved to interfere.
+
+“Help? From what? You paid me to do this, you idiot,” Vanessa said with a laugh. “I have to say, I’ve never had someone pay me money to beat the life out of them, but every day’s a gift.”
+
+“What are you talking about?” a noble from the crowd demanded. “You just assaulted him!”
+
+“Damn right I did,” Vanessa said. She drove another violent kick into Jean’s stomach. He rolled across the ground, completely unable to defend himself. Vanessa stalked after him and drove her foot down into his back, pinning him to the ground. “I’m a Thug. My job is beating the life out of people, monsters, and whatever object my client points me toward. Bring a truthteller or any potion you want me to take. I haven’t said a single lie. All I’ve done is fulfill my contractual obligation.”
+
+Vanessa flicked her hand through the air, summoning the Mesh forth. She manifested her class information in the air before herself, her lips pulled into a crooked grin.
+
+A stunned silence hung in the air.
+
+“Shit,” one of the nobles said. “Thane had her dress like a prostitute to bait him into taking her on.”
+
+What is happening? I didn’t do anything!
+
+Vanessa turned back to Thane. She flashed him a genuine grin as she plucked the wine from his hands, then turned back to Jean. Vanessa crouched beside him, then upended the glass over his head.
+
+Then she stuck her hand into his pocket and pulled out a coin purse. She counted out twenty gold, pocketed them, then stuffed the purse back into his pocket.
+
+“There we go,” Vanessa said, brushing her hands off. “Job done. As paid for. Unless you’d like a little more?”
+
+Jean didn’t respond. Thane wasn’t entirely sure he was still conscious.
+
+“Any more takers? I can go all night if you catch my drift.” Vanessa waggled her eyebrows.
+
+Nobody said so much as a word. They barely even breathed.
+
+“Damn,” Vanessa said. Then she shrugged, grabbing Thane by the wrist and pulling him away. She didn’t seem to care about the mixture of awed and horrified stares that burned into their backs.
+
+“What was that?” Thane whispered.
+
+“My other job,” Vanessa replied with a grin. “I was told to have some fun. And hey, now they think you’re some genius manipulator that forces his staff to air their bits out so they can bait people into a fight. Evil, huh?”
+
+“I’d never do that!”
+
+“You should work on that,” Vanessa advised. “And give it a try sometime. It’s freeing. There’s nothing quite like a cold breeze along — er, shit. Too young. Keep looking the other direction, kid. Now, let’s go find some more victims, shall we? Word spreads fast, and I want to break a few more idiots over my knee before it’s too late.”

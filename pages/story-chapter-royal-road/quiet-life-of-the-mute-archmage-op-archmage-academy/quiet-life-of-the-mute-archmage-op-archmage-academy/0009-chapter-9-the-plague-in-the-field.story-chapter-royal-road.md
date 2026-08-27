@@ -1,0 +1,209 @@
+---
+id: 862fe68b-85cb-58bd-b59b-da927dc1aa8a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 9: The Plague In The Field"
+slug: 0009-chapter-9-the-plague-in-the-field
+partOf: quiet-life-of-the-mute-archmage-op-archmage-academy
+position: 9
+ownLength: 3001
+unit: words
+publishedAt: 2026-05-15
+link: "https://www.royalroad.com/fiction/167476/quiet-life-of-the-mute-archmage-op-archmage-academy/chapter/3398186/chapter-9-the-plague-in-the-field"
+royalRoadId: "3398186"
+---
+
+Ren stared almost absentmindedly at the open plagued field, watching as the wind swept through the purplish-brown grasses as if caressing them. He observed it all in silence. Before the blight, a year ago, this field had been one of his favorite places to visit.
+
+He remembered vividly how he used to play among the beautiful green blades, watching marvelous creatures come to reside in this same stretch of land.
+
+His deep green eyes settled on a spot where blighted crops sprawled across the soil. A sigh escaped him when he saw how infected they were, their color a sickly deep purple.
+
+He had even started a little farm of his own in that very place. He remembered how happy he had been, back then.
+
+A sad expression crossed his features. "Now everything is basically useless," he muttered to himself. He knew everything had been useless since the day the blight spread unnoticeably across the whole of Sigsug. The elders had constantly been hiring healing mages to do something about it. Even his father, one of the elders, wasn't home because of this very issue.
+
+A deep sigh escaped him as his gaze drifted back to being distant.
+
+In the end, it was all still for nothing. The plague remained, dwelling in this once beautiful place without anyone being able to stop it.
+
+He even held a strong notion that not even a legendary archmage could solve this blight.
+
+Just as a mournful look nearly crossed his features, a frown overlapped it instead. Ren glanced to his side, noticing a figure walking toward him.
+
+His eyes couldn't help but twitch. He knew who it was.
+
+Molly.
+
+Upon noticing his gaze, Molly gave a brief wave, her grin as radiant as always.
+
+Ren watched her for a moment. A subtle curve touched his lips before he returned her wave with a brief one of his own. His attention shifted back to the field as his thoughts wandered to the first impression he'd had of the girl standing beside him now.
+
+That first impression had been normal, nothing special, just like any other meeting when a customer brought their child along to his mother's bakery. The only thing slightly off-putting about their initial encounter was when he had tried to greet her as he always did with customers while he was in his mother's shop. She had given him a short wave, not even looking at him, her eyes fixed on the pictures hung along the bakery's entrance passageway.
+
+At first, he had thought she intentionally ignored him and didn't want to bother talking. But after getting to know her a little throughout these years of barely seeing her around, he had come to understand she was mute and wasn't aloof at all. She wasn't even remotely aloof. He could verify she was one of the most liveliest people he had ever seen.
+
+The only reason she had acted that way at first was simply how she was when she saw beautiful things. She tended to admire them while forgetting what or who was around her. He had even noticed her mother holding her hand sometimes so she wouldn't get lost marveling at every wonderful thing she saw.
+
+With another sigh, Ren glanced at Molly, and his eyes landed on the woven basket crooked on her right elbow like a handbag. A hint of amusement flickered over his features as he noticed the complete ingredients for 'Rose Porridge' inside.
+
+"Are you celebrating something?" he asked, giving her a short glance.
+
+Molly nodded vigorously as she walked closer to the wooden fence bordering the open field.
+
+A smirk of amusement crossed Ren's face. "You even bought a heart-shaped bread with it." His brow rose. "Let me guess... it's a family bond celebration. Am I right?"
+
+Molly's expression brightened as she gave a short nod. The black orb drifted out from within her robe and hovered at eye level.
+
+The orb shuddered for a moment before dissolving into tiny particles. The particles swirled in the air, shaping themselves with each motion until they formed a sentence:
+
+~ You're very much correct. How did you know?
+
+At those words, Ren puffed his chest with pride. "Why wouldn't I know? It's basically a common tradition for families to celebrate on the date the family was created. That's what we call an anniversary." After that, he glanced at Molly.
+
+"I assume today is the anniversary of your family?" he asked with intrigue.
+
+Molly shook her head, indicating a no. The tiny black particles shuddered again, rearranging into a new sentence:
+
+~ Not really. Our anniversary is supposed to be four months from now. I don't know why my mom wants to celebrate it this early.
+
+Ren frowned as he read the words. "That's strange. Wouldn't it be merrier if it's celebrated on the actual day?" he mumbled to himself, thinking it over. He looked at Molly again. "You really don't have any idea?" he probed.
+
+Molly shrugged. The tiny black particles shuddered again, rearranging into another sentence:
+
+~ I don't. But I'm fully certain she has a reason for it. She always has a reason for everything. So I didn't bother to probe her further.
+
+Ren gave a brief nod, then slowly his lips curled up. "If it were me, I would definitely probe further." He gave Molly a thumbs up, a mischievous glint surfacing on his face. "I don't give up that easily."
+
+Molly giggled at his words and the way he delivered them with such a roguish expression. Ren laughed soon after. The sound of their laughter echoed in the space between them, carried faintly by the wind through the blighted field.
+
+Not long after, their laughter receded as Ren leaned against the wooden fence bordering the open field. His gaze returned to the plagued land, watching the wind blow through the purplish-brown grasses as if caressing them. He watched in silence for a moment, the earlier melancholy look overtaking his countenance again. He opened his mouth.
+
+"Do you think an Archmage can remove this plague?"
+
+*******
+
+Molly stiffened slightly upon hearing Ren's question. She glanced at the figure of the boy with tousled red hair and deep green eyes staring absently at the field, a doleful cast to his face.
+
+Molly's mien saddened, almost mirroring his own. Her gaze finally drifted to the open plagued field, watching the same purplish-brown grasses being caressed by the wind. Her attention moved to the soil, which had been dyed a sickly deep purple, infected by the same blight.
+
+She wondered if she could remove this plague herself. Then, almost subconsciously, she shook her head. No, it wasn't easy to remove a plague like this. Her eyes settled calmly on the grass, but this time she was not simply watching it. She was observing the symbols that surrounded the whole field, noticing how blackened they were, how decayed the mana around the field had become, and how it was slowly spreading like a corruption.
+
+She remembered Jen explaining to her that healing magic, however advanced, could not work against a plague caused by the decaying of mana, the very essence, the very source of what created the healing magic formula in the first place. It would be impossible for the spell to heal the land, as most healing magic focused on the physical form rather than the metaphysical, or rather, the very structure of what made the cause at effect.
+
+A deep sigh escaped Molly's lips as she understood this was beyond what a normal mage could accomplish. The corners of her mouth lifted. She also fully knew that the kind woman who had taken her in as her child wasn't just any mage, and wouldn't simply leave her homeland like this. Molly fully understood that Jen was working on something to solve this issue, and everything would soon return to its normal beauty.
+
+Molly turned to look at Ren, who upon noticing her motion, glanced at her.
+
+He watched as the tiny black particles, which had already returned to their spherical shape, shuddered once more and dissolved, reshaping themselves until they framed her reply:
+
+~ I fully believe so. In fact, I'm sure that in a few months, after winter, all the plague will be removed and forgotten, returning the land back to its beauty.
+
+Ren read the words. A grin slowly surfaced on his face, making him turn away while making a face. "I don't know why you're always so positive," he said. Unable to contain his cheer any longer, he added, "But... it's kind of nice."
+
+Just as he said that, he noticed Molly's hand insistently tapping his shoulder. He glanced at her, his eyes observing as she pointed into the air with a worried look. A frown crossed his features as his gaze shifted to the direction she was pointing toward.
+
+His eyes widened when he noticed an injured flying ginger rhino beetle come crashing down, not too far from where they stood.
+
+His gaze darted toward Molly, who gave him a firm nod. He nodded as well, and both of them rushed to where the ginger rhino beetle had fallen.
+
+Molly knelt beside the ginger rhino beetle's form. Its wings buzzed weakly, sending gusts of wind mixed with a ginger scent swirling around them.
+
+"Be careful," Ren said worriedly, staring at the ginger rhino beetle, which stood half the height of both him and Molly, being one of the largest relatives of the beetle species.
+
+Molly gave a short nod. She briefly glanced at Ren, who knelt beside her, his attention not leaving the ginger rhino beetle. A frown soon surfaced on his face as he studied the weakened creature. "It isn't even physically injured," he observed seriously, thinking deeply. "Is... is it poisoned?"
+
+Molly nodded grimly, her eyes watching as purple symbols surrounded the ginger rhino beetle's polished black carapace.
+
+Molly instantly recognized what this was. Mana poisoning, just like the cat she had healed earlier that morning.
+
+The tiny black particles, which had already returned to their spherical shape, shuddered, dissolved, and reshaped themselves until they formed her reply:
+
+~ It's mana poisoning in its late stage.
+
+Ren's visage became grim. "Mana poisoning," he repeated, glancing at the ginger rhino beetle, which weakly scraped its long sweeping curved horn against the ground as it struggled to stand. His expression saddened when he noticed the tiny black-seed eyes of the beetle, holding nothing but a gradually dimming, pained expression.
+
+He glanced at Molly. "Does that mean this ginger rhino beetle won't make it?"
+
+Molly shook her head in reply. The black particles reshaped themselves into another sentence:
+
+~ It would. I can help it. Earlier this morning, I healed a cat with the same symptom.
+
+She glanced at him, a cheerful beam lighting her face as the tiny particles reshaped themselves again:
+
+~ So I can heal this beetle too.
+
+Ren's lips curled upwards as he read her words. "That's great," he replied, returning his gaze to the ginger rhino beetle. His attention shifted as he watched Molly extend her left hand toward the carapace of the rhino beetle. With a voiceless utterance, something happened.
+
+Ren watched as an image of a cross began to take form. Almost instantly, other smaller crosses materialized around it, and a large circle soon encapsulated the entire arrangement. Then, as if by illusion, the completed formula was suddenly dyed a vivid, glowing green.
+
+A fond look appeared on his face as he watched the green glow intensify. Soon, faint motes of emerald light drifted out from the completed symbol, landing softly upon the beetle's carapace and dissolving into it upon contact.
+
+After a few seconds more, the formula dissolved into nothing. Silence was once again restored. Both Molly and Ren watched in silence as the ginger rhino beetle shifted slightly, then for the first time after much struggling, stood up.
+
+Ren let out a short exhale of relief as he watched the beetle shake the dirt off its carapace, buzzing its wings as if testing its weight. After that, the creature walked to Molly and paused. A soft hiss escaped it, a breath from the earth, and it tilted its horn down, not in threat, but in a bow, a thankful bow.
+
+Molly beamed at the creature as she stepped closer to the ginger rhino beetle and patted its carapace. The beetle vibrated with a happy buzz as Molly withdrew her hand.
+
+Then, with a brittle click, the wings parted and a low thrumming buzz sounded, followed by the scent of ginger filling the air.
+
+Molly waved as she watched the ginger rhino beetle rise and veer into the sky like a clumsy spirit. A few moments later, it was gone into the expanse from which it had come.
+
+A sigh escaped Ren, making Molly turn to him. She saw a warm look of approval directed at her. "You're going to be a great mage someday."
+
+Molly mirrored his demeanor. The tiny black particles, which had already returned to their spherical shape, shuddered once more and dissolved, reshaping themselves until they framed her heartfelt reply:
+
+~ And you're going to be a great sword mage one day.
+
+Her countenance was soft as she projected her thought.
+
+Ren chuckled with pride.
+
+Molly giggled briefly in return, her gaze shifting to the direction of the mountain looming closer ahead. A fond, gentle smile played on her lips as she knew it was time for her to return.
+
+With a short wave, she bid Ren farewell.
+
+Ren returned her wave with a quiet grin. "See you soon."
+
+Molly nodded and turned away, continuing her journey to the mountain once again.
+
+*******
+
+Molly exhaled slowly. A happy, contented look rested on her lips as she replayed everything that had happened in just one day of venturing out alone. Her eyes lifted upward, tracing the slope to where a simple cottage rested against the magical afternoon light. Her expression broadened as she imagined how she would explain to Jen that she had solved everything by herself.
+
+A giggle escaped her as she quickened her ascent to the top of the mountain, drawing in calm and steady breaths. The faint scent of something resembling vanilla drifted into her nostrils before she released it gently. Her crimson eyes drifted back to the cottage, now visible in the near distance.
+
+The plague had been unable to fully damage this side of Sigsug, as Jen had been steadily controlling the mana in the air, allowing its recycling so some of the greens at the top of the hill would remain preserved.
+
+Jen had explained that this was only a temporary measure, dependent on the mage's mental capacity and tolerance. Not everyone could freely recycle the mana in the air while doing other things, as it required very high concentration and often full focus. That was the reason she hadn't expanded it to the whole village. Doing so would only recycle some areas while leaving others blighted, and not only that, it would also cause her to expend more of her mental energy, which she didn't want to do while she was searching for a permanent cure for the blight.
+
+Molly's demeanor became warm when she reached the entrance. She pushed open the door enthusiastically, the wood swinging inward with a creak at her touch.
+
+The joy on her lips almost widened as she entered, but before she could take another step inside, she paused. A frown appeared on her face as her gaze landed on the dining table where Jen had been writing something earlier this morning. It was empty. Her frown deepened as she walked closer, her crimson eyes falling on the book Jen had been writing in.
+
+Molly's eyes couldn't help but widen when she noticed a fresh, bloodied handprint on the white sheet of the book.
+
+Just then, she heard a crashing sound deeper inside the cottage.
+
+Her legs moved before her thoughts could follow as she bolted toward the source of the noise.
+
+Within seconds, she was nearing Jen's room. Before even reaching it fully, Molly's hand pushed the door open, and her eyes widened impossibly. Her right hand, still holding onto the woven basket, fell weakly at her side, the ingredients scattering across the doorway as she stared at the sight before her.
+
+Jen was sitting on the bed, her face pale. Her hand covered her mouth as she hacked out a violent cough, blood dripping down from the sides of her fingers while she coughed. After the fit receded, she withdrew her hand weakly to her side. Her lush blue eyes stared distantly for a moment before widening slightly when she noticed Molly at the doorway.
+
+"Molly... you're back." A frail, reassuring look graced Jen's lips as she spoke, staring at the little girl who stood frozen at the door.
+
+Upon hearing her name, Molly moved slightly, her legs losing strength as she almost fell. She held herself and rushed forward, nearly tumbling several times until she finally reached Jen. She knelt instantly where she was, grabbing Jen's bloodied hand and checking if she was truly seeing what was before her. Her breath became uneven as she struggled to grasp what was happening.
+
+"Oo... wahii..." she fumbled on her words, instantly forgetting she was mute as she stared at Jen, wanting desperately to say something, her crimson eyes already growing watery.
+
+A melancholy, tender look touched Jen's features as she lifted Molly's chin. The girl was already slowly sobbing.
+
+"Don't cry, my dear Molly..." she whispered. "It was meant to be."
+
+Molly began shaking her head. A groan, almost a scream, escaped her throat as she shook her head, already knowing what Jen wanted to say but not wanting to hear it, not wanting it to be the truth.
+
+But Jen said it anyway. "My time has come."
+
+"It's time for me to bid farewell to this world."
+
+Molly instantly broke down into ugly tears as Jen embraced her tightly.

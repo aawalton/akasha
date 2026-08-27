@@ -1,0 +1,126 @@
+---
+id: 9be5e9fe-fdb2-5096-b736-0b2fb7adc63d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 589: The Mesh and the Armory"
+partOf: rise-of-the-living-forge
+position: 157
+ownLength: 2315
+unit: words
+publishedAt: 2026-05-12
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3386546/chapter-589-the-mesh-and-the-armory"
+royalRoadId: "3386546"
+---
+
+When Arwin and Lillia got back to their room after eating, taking a bath and cleaning up for the night, it was pretty clear to both of them that there was one thing on their minds that wasn’t going to sit around and wait until the morning. That was helped by the fact that night had only just fallen. There were going to be few better times to use the magical energy they’d gotten for creating Lillia’s armor. There was no point just sitting on it, after all.
+
+Arwin’s eyes closed as soon as he sat down on the bed in the pitch black room. The darkness didn’t last long. His mind slipped deep into the depths of his consciousness and a great sea of endless white took the place of the world. It was, as it had been before, completely empty.
+
+It felt a little odd. Even though this looked exactly like the place he’d once spoken with the Mesh, there was nobody here other than him. The silence almost felt loud.
+
+Arwin stood there for a few seconds. He just looked out into the infinite expanse of white space and watched. The lingering pain in his stomach had faded after eating Lillia’s cooking, but he no longer knew how long it would be until it returned.
+
+Will it be tomorrow? Will it be after the next major piece of equipment I make?
+
+The answers weren’t there. Something told him that not even the Mesh knew the answer to his question. If it did, then it wouldn’t have needed to give him the Maw in the first place. Ironically enough, the only reason he was here, as a part of the Menagerie, was because of the burden of the Maw. It was because the world was slowly ending itself and desperately looking for a way out.
+
+There was some sense of irony to the whole situation. Arwin was comfortable saying that nearly every good thing that had ever happened to him could have been put solely on the shoulders of the world’s advancing demise. Had things not been the way they were, he never would have met Lillia. Never would have started the Menagerie or joined up with all the good people within it.
+
+Then again, thousands upon thousands of people wouldn’t be dead. I suppose there’s a damn good chance I never would have been summoned to this world in the first place.
+
+And Arwin wasn’t really sure how he was meant to feel about that. Taking any amount of solace in the horrible things that had to grind on to continue existence felt wrong. But no matter the cause, he refused to not be grateful for the good things in his life. It wasn’t under his control how they had come about. All that mattered is that they had.
+
+…right?
+
+Unsurprisingly, the void didn’t change its response. The only thing in the white void was the power twisting in the magical ground stretching out infinitely beneath Arwin. Maybe someone a bit closer to enlightenment might have found some deeper meaning in that.
+
+To Arwin, it was just empty.
+
+But sometimes a little bit of silence and emptiness wasn’t such a bad thing. They certainly helped one think.
+
+A small smile spread across Arwin’s face. Then he knelt on the ground and pressed his hands to the white nothingness beneath him. Power lurked within it. But, before he could draw the power properly into himself, he needed to figure out exactly what it was he wanted to change.
+
+Such was the benefit and curse of Sunsetting a class.
+
+Should I upgrade an ability? Or just keep modifying my body to make it more powerful? I really don’t think I can go wrong with either of those options so long as I don’t advance my body so far in some weird direction that I’m no longer human. I don’t want to transform myself into some kind of lava golem or end up melting anyone unfortunate enough to get too close to me.
+
+For the first time since he had subsetted his class, Arwin summoned his full status forth to read over all of his abilities.
+
+Name: Arwin Tyrr
+
+Class: Living Forge (Unique)(Tier: Adept 9)
+
+Specialization: Forbidden Soulmancy
+
+Skills:
+
+[Awaken] (Passive) – All items forged by your hand have the potential to take on a trait, determined by your desires and the components utilized in the item’s creation. Materials with a higher chance to awaken will fight with you to exert their influence on the piece they are being made into.
+
+[Forbidden][Volcanic Presence] – Passion burns within you with such intensity that it becomes manifest. You are guided by your deep relationship with the soul lava that has molded your soul and your personal path of Dwarven Smithing. You may draw out your soul, empowering your forge and turning it to Soul Lava. Increasing the amount of magical energy you use to form the Soul Lava will increase its intensity and the amount that is manifested. Your Soul Lava can pull all the traits from a magical item and allow you to transfer them onto other items without pre-existing magic. It will consume all materials given sufficient time. This ability can also manifest Soul Flame. You are resistant to all heat created by this ability.
+
+[Arsenal] – You live and die on your equipment, so you might as well make it part of yourself. Bind yourself to [10] pieces of equipment, summoning and dismissing it at will. The number of equipment you can bind to scales with your Tier, up to a total of 10. Unbinding a piece of Equipment will make this skill inactive for 1 day. You may temporarily bind yourself to 1 extra piece of equipment after holding it for an amount of time scaling with the difference between your current Tier and the Tier of the item’s holder. Breaking this bond will not deactivate [Arsenal].
+
+[Dragon’s Greed] – Your hunger for magical power has begun to manifest itself in the physical world. Extend your senses to search the area around you for magical items at the cost of significant magical energy. The range of this effect scales with the amount of magical energy used. At the cost of extra magical energy, the focus of this ability can be targeted to a specific type of magical item or material. It can also detect hidden magical items worn by others.
+
+[Unleash] – A master of cursed items never fights alone. Meld your power with that of an item bearing a soul, allowing it to temporarily manifest itself. The effects and duration of this ability depend on the strength of the targeted item. Stronger items will require increased amounts of magical energy to maintain their bond, and this ability is ineffective on items whose requirements exceed the magical energy you can supply.
+
+[CURSED][Soul Guardian]: Draw upon the connection between yourself and the Infernal Armory, temporarily melding your spirits into one and inserting them into an object capable of containing them. The Soul Guardian’s strength is magnified by your own and is strengthened by any materials within the Infernal Armory. For this ability to function, a Soul Guardian must be crafted. The Soul Guardian is powered by [Soul Flame], and a portion of the damage it takes is transferred onto you.
+
+[Shroud of the Harbinger](../../../../rise-of-the-living-forge/royal-road/rise-of-the-living-forge/chapters/Passive) – Loosen the restraints binding your soul, allowing it to partially meld with the Awakened weapons in your possession and strengthen yourself within any Visions. This ability can be activated, allowing the full potential of your soul to burst free in a wave of magical pressure around you. The direction and intensity of the pressure can be controlled by applying extra magical energy to this ability. Magical entities impacted by this pressure react in a way dependent on the difference between their strength and that of the source of this ability.
+
+Titles:
+
+[Indomitable Bulwark] – You have withstood a blow that would have leveled a city. Damage from all attacks is reduced by half and your mental fortitude is greatly increased, granting resistance against all types of magical coercion and mental effects.
+
+[The Hungering Maw] – An enormous burst of energy has permanently infused you with magic, but not without cost. You must consume objects or items with Magical Energy equivalent to your current Magical Power every week to survive. Consuming an item temporarily grants you some of its properties. The Hungering Maw’s palate has advanced and it has a significant chance to ignore detrimental effects of items that it has eaten. Its senses have spread to other portions of your being, currently allowing you to smell magical energy and quality within items.
+
+[Stonesinger] – You crafted an Awoken item with a magical component that was beyond your comprehension, and your efforts have attuned you to the whispers of the world. If you listen close enough, you can speak with magical materials – though they may not wish to reply.
+
+[Inevitable End] – Awarded for killing an overloading monster a full Tier above you from a location where it could do nothing but wait for death. Try not to make it a habit. Perceptive opponents will be able to pick up the promise of death that seems to find those who place themselves in your way.
+
+[Couple of Crafters] - Linking your intent with your partner enough times has established a connection between you so long as your goals remain aligned. The dissonance between you and your partner’s intent has been permanently reduced.
+
+[Harbinger of the Forsaken] –You reached out to the deepest reaches of your soul and welcomed the shadow that lurked within the light. That might not have been a good idea. You can now sense and forge the emotion contained within some materials — whether you want to or not. In addition, Cursed items you craft are shrouded from all but the strongest of gazes.
+
+[Questgiver] – Your zeal to aid your allies has manifested raw power from mere desire. You may grant a challenging task to an individual at the cost of magical energy. Upon its completion, they will receive rewards directly correlating to the difficulty of the task.
+
+It took Arwin a while to read back over everything. He was familiar with all of his abilities, but actually reviewing them helped him consider which of them might have been most deserving of an upgrade. As tempting as the notion of advancing his body again was… he wasn’t actually sure what he would change that could net him an advancement on the scale of his previous one.
+
+Turning my blood to Soul Magma and strengthening myself went quite a ways. But I can’t repeat that. I could probably double down, but I don’t want to neglect the rest of my abilities just for that. I should at least find out what Sunsetting can do when I focus on my magic.
+
+Arwin read over all the options. There were more than a few good ones. But when he thought back to what he’d used the most — to what he felt would be the most beneficial change he could have possibly tried to make — there was one ability that stuck out above all the others in utility.
+
+[Stonesinger].
+
+The ability to communicate with the materials he worked with was, without a doubt, the most influential power he had over the results of what he made. And the more he could work with every component of the song that was crafting a powerful magical item, the easier it would be to reach higher heights.
+
+That had proven itself just a short while ago. Even with just Lillia and the Armory, they’d been able to create something just as good as what he’d done with two master crafters backing him up. If he could improve the synchronization between himself and the materials even more…
+
+Well, it would have been stupid not to try.
+
+Arwin smiled. His decision was made. He let out a slow breath. Then he reached out to the immense magic swirling beneath him and drew it into his body.
+
+***
+
+Across the street, tongues of red mist coiled around the fingers of an obsidian hand.
+
+The Infernal Armory stood silent. Its forge was dark and its rooms quiet and empty. But there was something there that hadn’t been before. Something that had changed.
+
+Power.
+
+Latent power, imbued into its very walls. The sheer amount of magical energy that had been used to create Midnight Dream had been such that a fair portion of it remained, locked within the Armory’s rooms. But that wasn’t it. This was more than just a few little scraps of lingering power.
+
+The closer the Armory looked, the more it realized that this power wasn’t going to dissipate. The magic was dormant. Stable. But more than that.
+
+It already had an owner.
+
+“Is such a thing possible?” The Armory murmured. Its words received no response.
+
+But it didn’t need one.
+
+The armory extended a hand. Golden magic coiled up from the ground to pool in its palm in a glistening pool. Its ruddy red eyes peered down into the depths of the raw magic. Then the golden power sank into its palm. The Armory’s obsidian body went as stiff as the rock making it up.
+
+A faint tremor rolled through the building’s walls. Power danced through the furrows running through the ground and a flash of light filled the room. Coils of golden energy flowed up from the walls and poured into the dark body standing alone within the room. The light faded away as quickly as it had come. All the magic drained away into the obsidian until no trace of its presence remained.
+
+Deep within its glowing red eyes, a shimmer of the Mesh danced. Then it was gone, and the night was silent once more.
+
+The Armory smiled.

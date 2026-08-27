@@ -1,0 +1,101 @@
+---
+id: f17d2998-79f7-5919-8251-187bf90510f3
+page-type-slug: story-chapter-royal-road
+title: "Chapter 612: Miscalculation"
+slug: 0180-chapter-612-miscalculation
+partOf: rise-of-the-living-forge
+position: 180
+ownLength: 1519
+unit: words
+publishedAt: 2026-06-22
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3574841/chapter-612-miscalculation"
+royalRoadId: "3574841"
+---
+
+The Beast watched as the cold metal slid down his wrist before falling into place firmly against his skin. The intricate carvings covering the metal seemed to swallow up the light that dared grow near it. There was no denying that the piece was beautiful.
+
+It was also a trap.
+
+The Beast was nearly certain. But if it was… it didn’t make sense for the Menagerie to have come up with an entire story about how it wouldn’t do what he’d asked them to do. Perhaps they’d been simply hoping to throw him off.
+
+He stared at the bracelet.
+
+“It’s not doing anything,” he said. “This is just a piece of metal.”
+
+“Well, it’s not done yet,” the smith said. “Crafting an item this powerful specifically for someone when they aren’t even present for its creation… well, we couldn’t take the risk given how tight the tolerances will be. This is about ninety percent of the way there. We took it as far as we could without you being physically present.”
+
+The Beast’s eyes narrowed. “What is left to be done? If you tell me that this will take years—”
+
+“You’re a paranoid one, aren’t you?” The smith asked. He shook his head. “It’ll be done today. Just be glad we managed to make it this far without needing you to be present. Normally, this process would take far longer. All that’s left is for you to smear a drop of your blood across the bracelet. It’s waiting to connect. It will draw a sizable amount of energy as well. Don’t resist. That’s what will begin the active connection. Just keep in mind… the moment it starts — you can’t allow it to end.”
+
+The Beast’s lips thinned. He hadn’t been born yesterday. Any item that needed blood to work tended to be cursed. But even if it had been, it would hardly matter. If the Menagerie managed to kill him with some ancient curse they’d dug up, that wouldn’t be all that different from granting his request in another way.
+
+Release was release.
+
+He dug his fingernail into his palm. Cutting himself wasn’t a simple task. His entire body was both magically and physically resistant to damage — but when an enhanced nail met enhanced flesh, with enough effort, he could just barely cut himself.
+
+It took nearly thirty seconds for him to push his nail deep enough to draw blood. The Menagerie all watched on. Tension hung in the air like thick dust. The Beast gingerly raised the droplet he’d drawn forth with his free hand, then nudged it against the cold metal of the bracelet against his wrist.
+
+And then he waited.
+
+A second slipped by.
+
+Something prickled against his mind. A dull magical presence, so faint that it was barely even noticeable. Then the bracelet on his wrist started to warm. A shimmer of dim yellow energy danced through the intricate carvings covering the band to illuminate it from within. Then it started to hum.
+
+The golem’s bracelet joined in. Both items trembled against their owners wrists. The Beast raised his hand, watching it curiously. He could definitely feel a pull on his magical energy, now. It was faint. Like a tiny faucet trying to drain an ocean. The mere idea of expunging his curse in this manner was almost laughable. It would take a million years before—
+
+There was a sharp tug on the Beast’s heart. His eyes widened. He stumbled, catching himself on a table as a tremor of pain raced through his entire body. What felt like a freezing cold spike drove into his chest. Nearly ten percent of his reserves evaporated in an instant.
+
+His bracelet let out a keening buzz. It rattled against him with enough force to rattle his entire arm. Then it abruptly went still. The magic lighting it from within faded, though it remained at a faint golden shimmer deep within the band.
+
+The Beast didn’t dare move for several seconds. He remained locked in place, his hand braced against the table, as he sent his mind inward. He didn’t even care if the Menagerie tried to attack him while he was distracted. It wouldn’t change anything.
+
+His current reserves had dropped, but that meant nothing if the curse hadn’t been weakened. Draining a little bit of his magical energy wouldn’t help at all. The Beast reached out, letting his mind brush across the magic that made him up. What he found didn’t please him.
+
+It was the same. His curse was untouched. Power was steadily flowing out of him and into the band, but at a rate so small that it hardly mattered.
+
+I should have known. Nothing more than a toy. This isn’t even an inconvenience.
+
+His lips started to thin.
+
+Then he froze.
+
+At the very edge of his soul, so far that he’d almost not even bothered checking, something was off. The impenetrable, ever-growing mass of the Revenant curse was frayed. It was like something had taken the tiniest bite out of it. Faint threads of magic spooled away, flowing freely rather than binding him down.
+
+There was a hole.
+
+It was indeed small. So small that it wasn’t changing anything. Not today. Not tomorrow. But in a week… in a month… if it continued to grow…
+
+Dizziness would have gripped the Beast’s mind if he were capable of such a thing. His fingers dug into the table, driving into the wood like it were nothing more than butter. A violent ringing beat against his ears as his eyes unfocused and refocused, trying to find purchase on the smith.
+
+It… works?
+
+“The effect won’t be too significant yet,” the smith said. “You might have to wait a little for it to really begin. My goal was to slowly eat away at the bindings while leaving the souls trapped within you undamaged. That’s not a very simple task. It’ll be slow. Probably a few years at the absolute minimum. But you should be able to see it working. If you can’t, I could make another bracelet that’s more aggressive… but it won’t be pleasant.”
+
+The Beast couldn’t even muster up an answer. He couldn’t do anything but stare at the swaying wood before him. It was impossible. He’d taken Koyu’s offer purely out of desperation. The chances that some tiny crafting guild could accomplish a way to unmake a curse created by a Lich from the Great War were so small that they may as well have been zero.
+
+But his curse was faltering. Even if it was only the smallest amount, for the first time in the Beast’s existence, there was a crack in the impenetrable armor. He’d already lived for far too many years. A few extra wouldn’t matter. Not if it meant that this all came to an end.
+
+“It will also try to prevent you from drawing anyone else in,” the smith added. “Whenever you kill anyone, you should feel the bracelet activate more intensely as it tries to prevent your curse from growing. Just don’t kill too many people at once. Really, avoid it entirely if you can. Every soul you add to the mix will make the curse take longer to unmake.”
+
+Is that even possible?
+
+“It… is functional. Who are you?” The Beast finally managed. “How did you create this?”
+
+“Given that you’re going to be in the area a little more often than I’m sure any of us like, I suppose you can call me Arwin,” the man replied. “And it was a right pain. Wasted weeks. But I suppose we figured out a few things along the way. So it’s not a complete waste. Just a pain.”
+
+How can someone speak so casually about an item capable of defeating Lich magic? They were masters of Soulmancy. The only one who could ever possibly stand against them would be another Lich. And not just any Lich. Koyu wasn’t capable of ending my curse. He doesn’t know Soulmancy. So how would a mere human have found a way around what I have struggled with for all these years? How could there be another…
+
+The Beast’s eyes widened. Realization finally slammed into him. There wasn’t another solution. The bracelet on his wrist had linked directly to his souls. It was eating away at the curse rather than at magic in general. That wasn’t something that a normal magical item could accomplish.
+
+There was only one way to directly target a soul.
+
+Arwin was a Soulmancer.
+
+The Beast stared in silence for several long seconds. The idea of a human having mastered Soulmancy without first becoming a Lich had never crossed his mind. Perhaps they could have unlocked a few of its secrets. But to make an item like this would have required far more than just a middling understanding.
+
+Even with Koyu advising him… Arwin would have needed a level of knowledge over Soulmancy at least approaching what the Liches of the Great War did.
+
+A smile slowly crawled across the Beast’s lips. Then he started to laugh.
+
+It seems the Guild has finally made a major miscalculation.

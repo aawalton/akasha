@@ -1,0 +1,285 @@
+---
+id: 04df1d1a-6103-548b-8de9-37b4602dcbb2
+page-type-slug: story-chapter-royal-road
+title: "Chapter 13 – Lonely Voyage."
+slug: 0014-chapter-13-lonely-voyage
+partOf: rock-falls-everyone-dies
+position: 14
+ownLength: 2012
+unit: words
+ownProgress: 2012
+publishedAt: 2023-01-26
+link: "https://www.royalroad.com/fiction/55418/rock-falls-everyone-dies/chapter/1097810/chapter-13-lonely-voyage"
+royalRoadId: "1097810"
+markedReadAt: "2026-06-29T22:50:42.970Z"
+---
+
+Far, far from home—a lonely traveler sped on through the infinite expanse of the universe.
+
+It traveled amidst glittering stars, under the steady shine of the sun, and inside the infinite expanse of emptiness.
+
+It also traveled… alone.
+
+Only now did the rock truly understand what that meant.
+
+It was a solitary thing, used to spending eons calmly resting in place, letting the world pass on. But. There had always been something.
+
+In the narrow crevice between two boulders, the rock had watched the rabbits frolic, evading hunters and foraging for the scarce offerings of autumn.
+
+In the deeps of the dungeon, it had watched as little spiders crawled about, spinning their webs in a myriad of infinite patterns, a fragile tapestry upon the dark ceiling.
+
+Even before it had truly known consciousness, when it had just been a normal rock, it had in some way watched the clouds roll by above, and the eagles dance among the winds.
+
+Always, there had been something. Life.
+
+But now, it only had a silent congregation of gravel and stone following it, mindlessly attracted along by a skill, a [Meteor Shower]. But it was not life.
+
+However, the rock did not despair, nor did it get depressed. Because… it had never truly understood life. Why did the spiders spin those webs, when they were always reduced to dust in a matter of months? Why did the rabbit frolick and produce offspring, when they too would all pass in a short few years?
+
+They did not truly grow. A short burst of life, before inevitably succumbing to the tyranny of time.
+
+The rock did not care for time, so it knew itself to be superior. It had traveled a long time by now. Was the wizard who had cast it out here already dead, reduced to dust?
+
+That was why it carried no hostility, no ill will. Why worry about revenge or such when one could just wait their enemies out?
+
+A lesson many other immortal [Cultivators] could have learned much from.
+
+But the rock did not know that, so it focused on its one true traveling companion. Because… were you ever really alone in this world?
+
+Quest:
+
+Current Altitude: 179 500 123 222m
+
+The rock never closed the screen anymore, it just let it stay there, steadily ticking up and up, a reminder of home, a constant companion.
+
+And a promise of return.
+
+Why worry about loneliness or time, when you could instead focus on numbers?
+
+Then, the numbers finally crossed a threshold, and the rock focused, instantly shedding off all semblances of hibernation.
+
+Because it would soon arrive at its next destination.
+
+Seeing the map of the solar system with [Kin of Stone], the rock had plotted a simple course: Go where there were the most appropriately sized rocks, so that it could collect an army worthy of its return.
+
+It had plotted out a course towards the great belt of rocks it had seen outline, somewhere in the midpoint of the solar system.
+
+But… it had run into a problem.
+
+Current Velocity: 5 511.7 m/s
+
+The rocky field which had seemed so grand on its mental map… was actually really sparse.
+
+The distances between each rock were vast, and most annoyingly of all, the stone could not just speed through them all, dragging them along into its wake.
+
+No, it had to slow down, slow enough to pause for a moment at each stone, where it could then grab them along to its [Meteor Shower].
+
+And the kicker? There was no more eternal grip of gravity pulling the rock down here, so slowing down actually took time. The same amount of time speeding up took, really.
+
+No longer was it a rock-et. No the stone’s racing flight had turned into a crawl.
+
+But still, this newest spot… it might just prove more fortuitous than the others.
+
+Because—as the rock gradually slowed down and looked over the large planetoid it had arrived at, it noticed something. The planetoid, just a fancy term for a big stone really, was not alone—it had orbiters.
+
+The stone was large, much larger than the rock itself—but that no longer bothered the stone like it had used to. As a level 7 [Cultivator] it could sense the relative powers of beings much better, and it knew the barren stone in front of it carried no spark.
+
+But… it was a bit too large for the rock to take along as it was. So, without any further hesitation, the rock promptly put its [Energy Shift] thrusters on, activated its [Diamond Skin], and crashed into the larger rock as fast as it could.
+
+Collide activated!
+
+[Unnamed] Dealt 332.1 * 133653.3 / 4  = 11 096 565.2 dmg to <Entity 021xz1122>
+
+New Velocity for [Unnamed]: 4723.1 m/s
+
+The planetoid shattered into bits, crumbling into smaller chunks, and that was normal. But what confused the rock was…
+
+The orbiters. They did not instantly start orbiting the rock, it would have to use [Meteor Shower] for that.
+
+But… why was that?
+
+Why did the bigger rock attract orbiters around it, and the smaller stone did not?
+
+As our hero pondered this new quandary, it felt itself being on the verge of a new breakthrough. Something resonated in its domain, a concept it could almost grasp for. It was close—so close to understanding.
+
+It had made the correct deduction before, that fundamentally, the difference between it and a planet was just a matter of scale, but it had not yet realized the full implications of that.
+
+But now it was close, peering over yet another cliff, stuck between boulders, but wishing to tumble down. What awaited below?
+
+The rock focused on its [Cultivator] domain. What was this new domain anyway? It had acquired the thing, some sort of boundary or sense that extended to a far distance from it, but it had not yet gotten much use out of the thing.
+
+But—if the domain did one thing—it made the rock’s senses sharper. Or no, sharp was the wrong word. Let us go with... harder. Our rock was more of the round type, not exactly sharp.
+
+Anyways, moving on.
+
+As it focused on the minute movements of the rocks around it, deactivating its [Meteor Shower] skill, the stone finally realized something fundamental. It had been wrong. It had been thought that only the bigger rock had attracted orbiters, but that had been a misconception.
+
+Again—it was all just a matter of… scale.
+
+Because as it looked at the swarm of rocks around it, really looked, with the accuracy of its Qi tendrils, gradually spreading into the domain, the rock found gravity everywhere.
+
+Every little floating rock had some influence, affecting those around it. They all pulled at each other, rocks, gravel, orbiters all, in a dizzying dance that traced impossibly complex patterns over the canvas of stars.
+
+Yes—gravity was everywhere, and in everything.
+
+As the rock focused on its Qi, and reached out with it, filling its domain with energy, it could almost sense an impossibly vast canvas stretching out below it—the invisible power of gravity.
+
+Even now, here in the emptiest of space, the rock still stood on a hill.
+
+But… the rock was also the hill itself, influencing every other thing around it. Still in a small way due to its yet meager size.
+
+But… if it reached out with its Qi, tapping into that canvas…
+
+Level up!
+
+1/1 Philosophical breakthrough!
+
+You have reached Cultivator Level 8!
+
+You are now in the [Astral Domain] Realm.
+
+Stats up!
+
+Energy Level (E) = 10 000 MW
+
+Core Heat (T): 4000K
+
+Domain size (d): 100.0 km
+
+Progress to next realm = Breakthrough needed
+
+New Ability Gained!
+
+Gravity Launcher
+
+Manipulate gravity with your Qi, launching an object towards a desired location.
+
+The stone did not even look at the new screens or try its new ability—it needed none of it. It was focused only on its extending tendrils of Qi, and the canvas of gravity below it.
+
+And it began painting.
+
+Long, powerful streaks, forming three concentric rings around it, slightly offset from each other by small angle.
+
+And gradually—inevitably—the swarm of meteors, rocks and gravel around it, the [Meteor Shower] itself, started gathering into those three rings. Organizing, spinning.
+
+At first slowly, like a nervous dancer attempting their first ballet. But the confidence grew, and so did the speed, and the momentum. Onward and onward the rocks spun, forming a dizzying dance around our hero who sat at their very center, focused in serene meditation.
+
+Current Velocity: 0 m/s
+
+The rock itself had no speed at all, but that didn’t bother it anymore. Because all around itself, it could look and see speed. Velocity. Flight.
+
+A dance.
+
+And then—finally—it reached for the new skill it had received. [Gravity Launcher].
+
+It selected one of the larger rocks in its outermost ring, and activated the skill.
+
+Gravity Launcher activated!
+
+Launched <1502kg object> at speed 70 m/s
+
+And feeling at the ever-present canvas of gravity, it could sense the rumbles of strength in that shot, as the selected meteor careened off into the distance at great speed. The rock felt satisfied at its new skill, a potent weapon indeed.
+
+It rather liked that.
+
+Who was more fit to cast the first stone than another rock? Rocks knew not of sin.
+
+And so—the rock was just about ready to head off towards the next point on its voyage—when it sensed something… strange.
+
+It was part of its [Kin of Stone] skill, and even its domain, now with an increased range to it. It sensed... a thing. Something of metal was approaching it, and not just flying at the whims of gravity—but by its own power.
+
+The rock instantly grew focused, accelerating towards the object, all three rings of weapons increasing in rotation speed. It got closer to the thing, and eventually sensed it at the very edge of its domain. A being of metal, shaped like a sphere, with a jet of fire coming out of the back and little flashing lights at its front.
+
+But—there was something very wrong with it. It was instinctive to the rock, it knew.
+
+The thing had no levels. It was more like the meteor it had just destroyed—but despite not having any levels… there was a spark within it. Something guiding it along. Intelligence.
+
+Science. The power of physics and reasoning, applied to create a vessel capable of braving outer space, and capable of sensing oddities there. Oddities… like a rock that played with the very canvas of gravity.
+
+But the rock knew the thing was wrong. It did not belong here—in this solar system of levels.
+
+Instinctively, a classification applied to the thing inside the rock’s mind.
+
+<INVADER>
+
+Gravity Launcher activated!
+
+Launched <1103kg object> at speed 92 m/s
+
+The thing tried to evade the projectile, but the rock focused on its domain, painting a valley of gravity for its projectile to travel along, inevitably following the thing.
+
+It could not escape. There was an impact, but... no experience. Still, the thing was destroyed, crushed by a projectile as soon as the rock had decided to destroy it. Instinctive.
+
+But the rock knew—if there was one—a little scouting drone like this…
+
+There would be more.
+
+So the rock cast out its senses, looking for any oddities, and felt some vague feeling, almost like excitement, but not quite. The rock wasn’t quite there yet. It did not truly feel.
+
+But still—when it sensed the larger vessels of metal entering the solar system—it began accelerating towards them.
+
+Quest:
+
+Current Altitude: 182 300 122 111m
+
+Full Status:
+
+[Unnamed]
+
+Title(s): Line-Ender, Patient Ambusher, Bane of Demons, Grandmaster of Closed Door Cultivation
+
+🗿
+
+HP: 89/89
+
+Mana: 0/0
+
+Level: 10
+
+Experience: 0/5000
+
+Class: Meteorite
+
+Sub-class: Cultivator 8
+
+Race: Gneiss Stone
+
+Gold: 100%
+
+STATS
+
+Diameter (d): 4.61m
+
+Mass (m): 133653.3kg
+
+Energy Level (E): 10 000 MW
+
+Core Temp (T): 4000K
+
+Domain size (d) = 10.0km
+
+ABILITIES
+
+Collide
+
+Steer
+
+Energy Shift
+
+Pivot Point
+
+Pivot Point: Orbital Slingshot
+
+Just a Rock
+
+Meditate
+
+Diamond Skin
+
+Stolen Cultivation
+
+Meteor Shower
+
+Kin of Stone
+
+Gravity Launcher

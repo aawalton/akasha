@@ -1,0 +1,137 @@
+---
+id: 5d629b74-7fab-5c70-9ac7-5493710031b4
+page-type-slug: story-chapter-royal-road
+title: "663. The Fall Of The Fairies Part Two"
+slug: 0111-663-the-fall-of-the-fairies-part-two
+partOf: salvos
+position: 111
+ownLength: 1770
+unit: words
+publishedAt: 2024-03-24
+link: "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1567033/663-the-fall-of-the-fairies-part-two"
+royalRoadId: "1567033"
+---
+
+663. The Fall Of The Fairies Part Two
+
+[-̸͙̍̀͠-̴̛̠͊̀͝-̵̪̱̼͑-̶̰͎͙̉̆͝ Voidspace - Lvl. -̸͙̍̀͠-̴̛̠͊̀͝-̵̪̱̼͑-̶̰͎͙̉̆͝ ].
+
+Basil stared at it. He couldn’t comprehend what he saw. It was massive. It distorted the world as far as he could see, and he couldn’t break his gaze from it. At first, he thought it was because he was still caught in shock. He thought he couldn’t look away from it out of fear.
+
+But then he realized that there was a strong gravitational pull that was drawing him towards it— a powerful force that even he couldn’t escape. He screamed, and his voice was lost amongst the cries of his fellow Fairies. A deafening chittering echoed out. It made him recoil in pain. He felt like tearing his ears out of his head.
+
+In fact, he would have done just as much, if not for the explosion that resounded out a moment later. Basil blinked as he was broken out of his maddening stupor. Raising his head, he saw a glowing figure float alone right before the distortion in space. A singular entity that was standing up to this mass of pure destruction. The only entity in the New World that could even stand up to this… thing.
+
+There she was. Standing tall, a shining lance in her hand.
+
+Honored Lotus. An Honored Fairy. One of the Fairy Queen’s personal guards. A Supreme Spirit capable— one of only a few in existence.
+
+She stood tall as her body crackled with a golden light. It was the only light that could escape the pull of the Voidspace. She shouted something, before unleashing a streak of golden lightning into the distortion.
+
+The chittering ceased for a moment. But it quickly returned as an overwhelmingly numb sensation overcame Basil. He couldn’t even think. He could hardly process anything at all— blankly watching as Lotus continued to assail the Voidspace with her lightning.
+
+As their battle raged on, hundreds of Fairies— whether they were Builders or Constructors or Architects or others— were sucked into the edge of the distortion, their bodies being ripped apart until they were unrecognizable strands of tangled flesh. Lotus saw this and gritted her teeth.
+
+Nothing she threw at the Voidspace could stop it. Not her bolts of lightning, not her thunderstorms, and not her slashes. She flew back as she finally realized something else needed to be done. As she did, Basil’s gaze swung to face a familiar figure.
+
+His eyes widened when he saw her. His closest friend. A Nature Fairy who should not have been here— not in the New World.
+
+Ivory spun and turned as she was sucked up towards the distortion in space. Unlike Basil, who was somewhat slowed by his protective space magic, she wasn’t able to fight back in any way, floating helplessly to her death.
+
+Basil regained some semblance of his senses when he saw her. He wanted to move— he needed to act. But he couldn’t. Even if he wanted to, he was in capable of even fluttering his wings. Tears streamed down his cheeks as he stared at her figure, hurling straight to her demise.
+
+And then he heard the echoing voice.
+
+“[Become Lightning, My Being].”
+
+Lotus spoke as her body flickered, then seemed to melted away. She began to shine brightly like a star as she aimed her lance at the canvas of distortion.
+
+“And— [Suffer in a Solar Storm].”
+
+Two Grand Skills. Back to back. Instantly, a blinding light engulfed the Voidspace. An intense heat radiated from the light, before tens of thousands of bolts of electricity flashed out, constantly assailing the distortion with each passing moment.
+
+Everything that got even close to the unfurling storm of electricity was instantly obliterated. Even the nearby Fairies. Hundreds of them vanished in an instant as they floated up towards the distortion. But did it matter? They would have perished by the Voidspace, even if they hadn’t been killed by the Supreme Spirit’s second Grand Skill.
+
+Lotus seemed to think it mattered. She bowed her head as her body flickered— turning entirely into electricity.
+
+“I am sorry.”
+
+Her voice came out a whisper. She was the only one unaffected by the destructive touch of her second Grand Skill. Whether that was a result of her first Grand Skill, or because she was immune to it, Basil didn’t know.
+
+All he knew was that her body flashed, and she shot forward, becoming one with the solar storm. Even amidst the bright lights constantly attacking the distortion, her body shone brighter for all to see. She seemed to cut through the veil of obfuscation, leaving behind a trail of lightning as the Voidspace recoiled.
+
+There was a loud screech. And Basil blinked, seemingly regaining partial control over his body. He looked up with round eyes as Lotus desperately continued to tear through the Voidspace.
+
+And then he looked back down. He saw the other Architects that were present. They had also regained partial control over themselves. Quickly, they tried to reorient themselves and created a web of space to catch the other Fairies.
+
+Basil realized what they were doing, then he turned towards the only figure that mattered to him here. He looked towards Ivory as she was hovering right at the edge of the solar storm, looking at him wide-eyed.
+
+“No!”
+
+He shouted as he stretched a hand out, creating a rope of space to catch her. She didn’t say a word as he clung onto her from afar. He pulled, and for a moment, he thought he could rip her free from the force of the Voidspace.
+
+“Ivory! Please, hang on!”
+
+He called out, pulling her an inch closer to him. But she couldn’t respond. All she could do was look on in fear as she dangled right before her demise. And then—
+
+The solar storm ended. Basil froze as he felt his body seize up. The moment of reprieve ended. Once again, a strong gravitational pull seemed to suck him towards the distortion. He tried his best to resist it. And he managed to fight back against it. If for just a moment.
+
+But then he saw the flash of light. Lotus reappeared before the Voidspace as her body of electricity was missing large chunks. She panted, then steadied herself, before raising her lance.
+
+She aimed at the heart of the Voidspace as she closed her eyes.
+
+“Let this be enough.”
+
+Her voice was the only thing that was audible over the cacophonous chittering of the Voidspace. And then she hurled her lance as it melted into lightning.
+
+“[Lightspeed Lance].”
+
+It was another Grand Skill. Her most powerful Grand Skill. An attack that surely would have even harmed the Fairy Queen. It shot forward like a pillar of light, reaching the Voidspace in an instant.
+
+But then something seemed to shift inside the distortion. The blurred space shifted back, and something emerged from within. It was a tendril made of colors. Something that didn’t seem like it should have existed. But it caught the lance before the attack could strike its core.
+
+And Lotus paused, jaws hanging agape in horror.
+
+“No…”
+
+She whispered as everything seemed to freeze around her. But maybe that was only how Basil perceived it, because he realized that his only hope to defeat this thing wasn’t going to win.
+
+And the tendril shot out, aiming for Lotus. She tried to dive out of the way. Perhaps she could have evaded it prior to her current state. But as she was, she was injured and tired. She was too slow. The tendril caught her, and her body was ripped apart before she could even scream.
+
+Her remains were sucked into the Voidspace as it let out a deafening screech. The already-overpowering gravitational force of the distortion grew even stronger. Basil grimaced as he felt himself being pulled even faster into the obfuscated space.
+
+And then he felt the rope of space he created strain. He blinked, looking up with round eyes at Ivory. She drifted even closer to the edge of the distortion.
+
+More and more Fairies were pulled into the Voidspace, instantly being atomized. And Ivory looked back at Basil with tears streaming down her eyes. Somehow, she managed to muster up the strength to speak.
+
+“Goodbye, Basil.”
+
+She gave him a reassuring smile, before reaching the edge of the horizon of the distortion. And then she, too, was completely vanishing before his eyes.
+
+Just like that, the light of his life faded away. And Basil’s mind broke. He felt like his heart had shattered. The world around him almost ceased to exist. He didn’t even hear the other Fairies screaming for their lives before they were consumed by the Voidspace.
+
+He simply floated there, accepting his death. Was it his fault? Was he the one who was responsible for this? Ostensibly so. His space magic hadn’t been powerful enough to form the realspace necessary to reinforce the walls of the New World. It was his failures as an Architect that caused this.
+
+…but, was that even right?
+
+Hadn’t there been plenty of such ‘accidents’ before?
+
+Basil had heard of such incidents, and he had already been warned of the dangers of being an Architect, which was why there were a plethora of safety measures in place, including the presence of an Honored Fairy. So it couldn’t have been his fault.
+
+It must have been a fault in the blueprints of the Fairy Queen. It had to be a flaw in her understanding of space magic. This couldn’t have been Basil’s failure, but her failure!
+
+That was right.
+
+It was her fault, not his.
+
+He convinced himself of this fact as he accepted his demise. He didn’t even fight back any longer. He let himself be taken away by the Voidspace as it grew larger and more powerful. But right before he could drift over the horizon of his death, there was a flash of light.
+
+A voice resounded all throughout the New World, drowning out even the chittering of the Voidspace.
+
+“[Bind: Nebula].”
+
+A veil of vibrant colors descended upon the Voidspace, holding it in place. All at once, Basil was released from the pull of the distortion. All the other Fairies that were present were let go, dropping to the ground.
+
+Basil crashed into the ground, before blinking a few times. He looked up in confusion as he tried to comprehend what was going on. Then he saw the tall figure. A Fairy stood there, larger than life. The only Fairy that could dwarf even Regnorex the Demon King in height.
+
+It was Teranialiselisandranovaluxical’ah-sham the Fairy Queen.

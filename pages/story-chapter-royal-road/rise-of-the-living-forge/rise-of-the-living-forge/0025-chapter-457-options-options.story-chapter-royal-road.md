@@ -1,0 +1,118 @@
+---
+id: fd309975-4f4f-5638-a8bf-42adffb99e8c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 457: Options, options"
+partOf: rise-of-the-living-forge
+position: 25
+ownLength: 1594
+unit: words
+ownProgress: 1594
+publishedAt: 2025-07-17
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2443060/chapter-457-options-options"
+royalRoadId: "2443060"
+markedReadAt: "2026-06-29T19:59:15.690Z"
+---
+
+“You have a class?” Arwin exclaimed, so surprised that he couldn’t keep the words from slipping free from his mouth.
+
+Wallace and Koyu sent him confused looks.
+
+“You spend a bit too much magic on the armor, Arwin?” Wallace asked with a frown. “Maybe you should sit down. I’d damn well hope I have a class. Otherwise, I’ve been talking out my ass for the past few dozen years.”
+
+“Not you,” Arwin said. “The Armory.”
+
+“Wallace is right. Take a breather. The Armory can’t have a class,” Koyu said with a shake of his head. “It’s a building.”
+
+A pillar of red mist twisted into being beside them. An invisible form shifted through it as the Armory made itself manifest.
+
+“But it seems that is not the case,” the Infernal Armory said. “I am no mere building. I would thank you not to refer to me as such.”
+
+“You’re telling me you have a class?” Wallace tugged at his beard. “From what? Making the armor?”
+
+“So it seems.” Mist twisted in what Arwin suspected to be either delight or excitement. "There is power within me that I have never felt before. Magic. Not power borrowed from anyone, nor drawn from materials fed to me, but power of my own.”
+
+“What kind of class is it?” Koyu inquired. “This is… foreign. Even to me. I’ve never heard of a crafted object growing powerful enough to gain a Class of its own. Even the most powerful artifacts aren’t capable of such things.”
+
+A thought struck Arwin. His eyes narrowed.
+
+Hold on. There’s no way, is there?
+
+“The Living Forge,” Arwin said. “That’s your class, isn’t it?”
+
+There was a moment of silence.
+
+“No,” the Infernal Armory said. “That isn’t it.”
+
+“Oh,” Arwin said. The wind fell from his sails and he sheepishly cleared his throat. “I kind of thought the Mesh was having a laugh at our expense by giving you — oh, never mind. It did feel appropriate.”
+
+“It does,” Wallace admitted. A grin played across his lips as he let out a chuckle. “Seems suitable. Would be hilarious if the build — er, if the Infernal Armory managed to get a Thief class. Could you imagine a whole arsed forge tryna’ sneak up on you in the street?”
+
+“That would be quite the sight,” Koyu said. “So what is the name of this class you obtained?”
+
+“The Infernal Armory,” the armory replied.
+
+“Your Class name is… your name?” Arwin asked. He tilted his head to the side. “Really? I can’t tell if the Mesh is trying to be smart or lazy. What abilities do you have? Did you get any?”
+
+“I did,” the armory confirmed. “But much of them are what I was already capable of doing. Controlling aspects of what resides within my walls. But that isn’t all. It seems many of my abilities are tied—”
+
+“To the armor,” Arwin finished, his eyes going wide in realization. “That’s it. The Armory got a class because it has a body.”
+
+“Fascinating,” Wallace said. “What are the other abilities? Anything useful?”
+
+“There are some interesting ones,” the armory said noncommittally. “There is one that seems promising. It allows me to create a temporary forge at the location of my new body when I have sufficient materials. It will allow me to continue my work, even when Arwin has decided to leave Milten for yet another inexplicable reason.”
+
+That’s… pretty sweet, actually.
+
+“A portable forge,” Wallace breathed in delight. “I’ll be damned. Do you have any idea what some of the other Dwarven Smiths would pay for something like that? They’ve been trying to find a way to port their whole setups out of their volcano-holes for years.”
+
+The armory let out a dissatisfied scoff. “They hold no interest to me. I wish to rest and investigate my class further.”
+
+Then the red mist parted, billowing into clouds that broke against the ceiling of the room before fading away.
+
+Arwin, Koyu, and Wallace were left alone within the inside of the Infernal Armory. No trace of the pumping lava or scraps of metal that they had gone through while creating the Gehenna armor remained.
+
+Even the armor itself was gone, stored within [Arsenal].
+
+Someone could have walked into the building at this very second and, if not for the exhaustion dragging down every one of the three’s features, thought that they’d been doing absolutely nothing since they’d stepped into the smithy that morning.
+
+“Sure cleans up well,” Wallace said. He scratched at his beard. “Can’t tell if I like it or not. The mess kind of makes me feel like I did something, you know? Right up until I have to toss it all out. Then it’s a royal pain in the ass.”
+
+“It saves me a lot of time and feeds the armory,” Arwin said with a shrug. “And time is one thing I can never get enough of. I’d rather be spending it with Lillia and the rest of the Menagerie than sitting around sweeping metal.”
+
+“Fair enough,” Wallace said. He paused. “Especially if we get some of Lillia’s—”
+
+“Finest. Yes, we’ve heard it,” Koyu said. He adjusted his ragged clothes. “On with it, then. I’ve never participated in the creation of something that I’ve actually been excited to see someone’s reaction for. It is a foreign feeling to me, but I would very much like to see what the rest of the Menagerie thinks of Gehenna.”
+
+“Then we’ll get right to it in a moment,” Arwin said. “I want to take a look at my new ability offers. Feel free to go ahead if you want.”
+
+“We can wait,” Wallace said with a wave of his hand. “If anything, I’m curious to see what you’re going to get at this point. Your class is such an odd mishmash of different things that the Mesh must get a headache trying to come up with something to offer you.”
+
+Koyu nodded in agreement, and Arwin saw no reason to waste a second longer. A part of him was surprised the Mesh had waited this long. He normally didn’t find it was particularly willing to wait for him, but he certainly wasn’t about to complain. Arwin eagerly turned his attention to the last of the glowing messages hanging in the air before him.
+
+Alright. Let’s see what there is to choose from this time around.
+
+You may select one of the following skills.
+
+[UPGRADED][Metal Wraith] – Increase the bond granted by [Arsenal] to all items within it, allowing you to swap locations with any bound item . The amount of time needed for [Metal Wraith] to activate and magical energy consumed scales on the distance between yourself and the item. Repeated activations of [Metal Wraith] in a short amount of time will require greater amounts of magical energy.
+
+[UPGRADED][Eyes of Scouring Flame]: Bring [Soul Fire] to your eyes, imbuing them with power to grant you the ability to see the magical effects and structures within materials. Peering deeply enough into a material while this effect is active will trigger a Vision.
+
+[UPGRADED][Shroud of the Harbinger](../../../../rise-of-the-living-forge/royal-road/rise-of-the-living-forge/chapters/Passive) – Loosen the restraints binding your soul, allowing it to partially meld with the Awakened weapons in your possession and strengthen yourself within any Visions. This ability can be activated, allowing the full potential of your soul to burst free in in a wave of magical pressure around you. The direction and intensity of the pressure can be controlled by applying extra magical energy to this ability. Magical entities impacted by this pressure react in a way dependent on the difference between their strength and that of the source of this ability.
+
+[UPGRADED][Soul Spike] – Empower your next strike to inject your soul into its target and strike directly at their own soul. Damage done in this manner takes significantly longer to heal on both the physical and soul level. Repeated applications of this ability can cause permanent damage to both you and your target’s soul. Striking a magical material with [Soul Spike] will weaken its resistance against your desires.
+
+For a few moments after Arwin finished reading, he could do nothing but stare in mute analysis. These abilities were some of the longest ones he’d gotten — and not one of them was weak.
+
+Shit. The Mesh is really shelling out now, isn’t it? This class is incredible. When I was the Hero, the abilities I was getting in Adept Tier were completely worthless. That must be the difference between just getting rushed through the levels by the Adventurer’s Guild practically feeding me kills and actually earning and learning myself.
+
+I’m pretty sure that I’m already more than a tier stronger than I was back when I was the Hero at an equivalent rank… and these abilities have the potential to make that gulf even wider.
+
+Arwin forced himself to reign his thoughts back in. He couldn’t get too excited and end up choosing the wrong ability on accident. All of them were good options, but he had to select the best one.
+
+And some of them… some of them concerned him a bit. These weren’t just powerful. They had the potential to be devastating.
+
+Koyu and Wallace watched on with interest as Arwin stood there, brow furrowed and arms crossed. His fingers drummed as he read over the literal walls of shimmering gold text floating before him.
+
+I need to look at more than just the surface. Some of these seem like they’ll have a lot more application than what’s immediately obvious.
+
+So which one do I go with?

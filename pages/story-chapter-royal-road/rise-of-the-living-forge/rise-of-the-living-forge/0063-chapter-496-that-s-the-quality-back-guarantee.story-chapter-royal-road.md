@@ -1,0 +1,177 @@
+---
+id: 4522ccb4-01ea-5d5e-b4eb-c215cc026c45
+page-type-slug: story-chapter-royal-road
+title: "Chapter 496: That's the Quality Back Guarantee"
+slug: 0063-chapter-496-that-s-the-quality-back-guarantee
+partOf: rise-of-the-living-forge
+position: 63
+ownLength: 2062
+unit: words
+ownProgress: 2062
+publishedAt: 2025-10-07
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2658517/chapter-496-thats-the-quality-back-guarantee"
+royalRoadId: "2658517"
+markedReadAt: "2026-06-29T20:00:27.121Z"
+---
+
+Leon’s breath came in ragged, desperate gasps. His back pressed to the stone wall behind him, slick with sweat and blood, and exhaustion pulled at his fingers to coax the sword from their limp grip.
+
+Jagged gouges and burn marks covered his armor. Many of them were old, patched up from other dungeons, but the vast majority were new — and they were racking up. The fact that his armor was still in one piece was a miracle. But even miracles could only last so long.
+
+Leon dodged to the side, narrowly avoiding the jagged claws of a goblin. He drove his shoulder into the monster’s chest, too tired to even muster up a cry, and brought his knee up into its face.
+
+The blow connected with a loud crack. It sent the goblin’s head snapping back in a spray of blood, and Leon forced his exhausted limbs into motion once more. He planted his sword in the goblin’s chest, driving the blade in up to the hilt.
+
+A rush of relief twisted through his weary limbs as magical energy wove its way into his being. But it wasn’t enough. It wasn’t anywhere near enough. His breathing was still ragged, his exhaustion still weighed on his shoulders like two millstones.
+
+Another goblin caught him on the side. Its claws raked through the armor, screeching against the hardened metal. One of them slipped through a gouge, slicing into his chest and tearing a snarl of pain from Leon’s lips.
+
+He twisted his body, driving an elbow into the goblin’s skull and sending it reeling to the side. An axe whistled through the air and slammed into the monster with a wet crunch, splitting it in two and continuing down into the floor, where it came to a stop with a loud clang.
+
+“Thanks,” Leon rasped.
+
+Ted just grunted. The other man didn’t have the energy for words. His armor wasn’t in much better shape — and there were a lot of damned goblins left. Far, far too many goblins. They’d overestimated themselves.
+
+A Journeyman dungeon was still too much to handle for the Jumping Tigers. They’d just been too excited. With all the new people coming to Milten, the magical density of the area had been higher. New dungeons had been forming close to the city, and they’d been eager to be early. To claim some of the new rewards for themselves. If they’d just waited a few more weeks, if they’d just been a little more prepared —
+
+It no longer mattered.
+
+There must have been a dozen goblins between them and survival, and that wasn’t to mention the Shaman standing at the back of the horde, blocking the only exit of the room and the only way to safety.
+
+The wretched creature waved its staff, sending a wave of shimmering energy rolling out over the monsters around it. Every single one of the fallen goblins twitched. Then they jerked upright, puppets pulled by strings.
+
+There was no light behind their eyes, but there didn’t need to be. Leon’s jaw clenched tighter still.
+
+“Again,” Leon snarled. “How many damn times can it do that?”
+
+The horde of monsters jerked toward them, leaping for the kill.
+
+A crack rolled through the cave, followed instants later by a wave of white light. It slammed into the goblins and threw them back like a dozen dolls, scattering the green monsters across the room to crash into the walls.
+
+Sickly purple light swirled to life around the goblin shaman an instant before the white light could connect with it. The wave shattered into harmless fragments that fell to the ground like falling snow.
+
+“Shit,” Ajax, leader of the Jumping Tigers, wheezed. He leaned heavily against the gnarled wooden staff, his face weathered by exhaustion. His robes were torn to shreds and his body was matted with blood — only some of which belonged to him. “I need a potion. Healing. Now!”
+
+“We’re out,” Ted replied, coughing as he fought to lift his axe once again.
+
+The goblins twitched. The shaman waved its staff and the monsters jerked back to their feet, just as ready to fight as they had been at the beginning of this nightmare. This fight was ludicrous. The goblins didn’t seem to have any limit to their abilities.
+
+Anger swirled in Leon. He tried to draw on it, to channel it into strength, but it was futile. He just didn’t have anything left to draw on. And, worse, he knew all to well that this fight was anything but diffiuclt.
+
+If they’d brought someone with ranged physical attacks, the shaman would have been simple work. If he or Ted had been strong enough to clear the way to the shaman for long enough to attack it, they’d have already won.
+
+There was nothing unfair about the fight.
+
+They were just too weak.
+
+“What about magical aids?” Ajax asked desperately. “Come on! What happened to our damn resources? I’m out of everything! I don’t think I’ve got another spell left in me!”
+
+“We’ve got nothing,” Leon said. The back hit his wall and he nearly lost his footing on the slick ground. A bitter smile twisted across his lips.
+
+Life could change so quickly.
+
+Just twenty minutes ago, he’d been so certain that the Journeyman dungeon was as good as dealt with. He’d been so confident that they’d be able to take it down with just the three of them and pocket the very sizable rewards that they’d harvested.
+
+Everything had been going great. Once they got out of the dungeon, they’d have been able to make enough money to pay off the last of their debts. To get some new armor made. To strengthen and come back stronger than ever.
+
+Now they weren’t going to make it long enough to get another sip of water.
+
+“How are we out?” Ajax demanded. “We had money! I knew we shouldn’t have wasted it on—”
+
+“We exceeded the potion budget. The money we spent was from personal coffers,” Ted said. He wiped his mouth with the back of a hand. A goblin leapt at him and he kicked it away, sending the monster crashing into one of its brethren. “Nobody to blame, Ajax. We planned it out. We just didn’t plan it right. How could we have known?”
+
+The mage looked away. He swallowed. Then his grip on his staff went slack. The gnarled wood fell to the ground with a clatter and the thin man raised his hands before him in a weak fighting stance.
+
+“It’s been good,” Ajax said. “I’m sorry I didn’t prepare better. I’ve failed as your team leader.”
+
+Ted let his axe drop as well. He didn’t have the strength to lift it again. His hands were the only weapons left to him, and Leon was in the exact same position.
+
+“One final charge?” Leon suggested, well aware there was no way they’d make it. The goblins would tear them to shreds well before they got halfway to the shaman — but he’d be damned if he died fighting here.
+
+“Better than the alternative,” Ted growled.
+
+“Did that stupid thing even work?” Ajax asked, sending a quick glance at Ted.
+
+“No,” Ted said with a sharp bark of laughter. “I mean, we’ve got a few minutes left, but I think we all knew it wouldn’t. It just sounded too good to be true. I couldn’t resist.”
+
+Leon’s lips twitched into the faintest of smiles. “Well, you were always the most optimistic one of us. Until the other side, brothers.”
+
+“Make sure to choke ‘em as you go down,” Ted said. “Never let it be said that the Jumping Tigers gave up. Until the end!”
+
+Leon let out a scream. It was more ragged terror than anything else, but Ted and Ajax’s voices joined into the mix. The three of them charged. It was a sad, stumbling lope more than anything that could generate any true fear.
+
+But it was better than standing still.
+
+They slammed into the wall of goblins. White hot lines of pain seared into Leon’s side as claws dug into his sides and screeched against his armor. He felt his fist meet flesh. His forehead slammed down into a green skull. Hot, rank breath and blood splattered all around him. Most of it was his own.
+
+He barely even noticed. There was nothing left in his body but adrenaline, and that too was nearly spent. He screamed, his voice so raw that nothing came out but a jagged hiss, and he fought with every last scrap of energy that remained within him.
+
+His balled fists fell upon a goblin’s skull. It crumpled to the ground. His shoulder caught the mouth of another. Its teeth dug into his armor, but he barely even noticed.
+
+Leon just fought.
+
+He fought as he waited to die.
+
+But, for some reason, he didn’t.
+
+The goblins didn’t overwhelm him. They fell beneath his fists… and they didn’t get back up. But he didn’t have time to be confused. His body was moving on its own, his fists rising and falling incessantly.
+
+He stumbled free of the mess, armor tattered and bloody straps of flesh hanging free of his body —
+
+And not a single goblin rose to meet him.
+
+Leon blinked.
+
+The shaman laid on the ground before him, a pool of blood forming around its corpse, a dagger lodged in the back of its skull.
+
+It was dead.
+
+Above it stood a young woman, a leather bag slung over her shoulder and blood splattered across her face.
+
+He blinked.
+
+Am I hallucinating?
+
+Ted stumbled up behind Leon, Ajax leaning heavily against his side. The two of them stared at the woman, disbelief etched into their bloodied faces. They were clearly seeing the same thing that Leon was.
+
+“Hey! Sorry for interfering,” the girl said, slinging the bag off her shoulder and holding it out. “But, uh, it didn’t look like you were going to clear this room in time for the guarantee, and I don’t want to get scolded on my first delivery.”
+
+The Jumping Tigers stared at the woman.
+
+Then, from somewhere within the blood splattered haze, Leon’s brain kicked back into motion.
+
+He knew who this was.
+
+“You,” Leon said, his eyes going wide. “Aren’t you that woman that was with Ifrit back at the market? Reya?”
+
+“Oh! Yeah!” Reya nodded. “I remember you! You might want to buy some new armor. That stuff doesn’t look too good. Please take the food, though. I’m not counting conversation as a delay in delivery.”
+
+Ted mutely reached out, taking the bag from Reya. He stared down at it. “I… what?”
+
+“What do you mean, what?” Reya asked. “It didn’t get banged up, did it?”
+
+“No,” Ted muttered. “No. It didn’t.”
+
+“And I made it within the time limit. Less than thirty minutes,” Reya said. “So… that’s that. Eat it fast. It’ll get worse if it’s cold.”
+
+They all stared at her.
+
+“Is there something on my face?” Reya asked.
+
+“Yes,” Leon said. “Blood.”
+
+“Oh,” Reya said. She wiped her face with the back of her sleeve. “Sorry about stealing your kill. Uh… part of the contract. Thirty minute delivery times take some sacrifices, you know. So… yeah. Enjoy.”
+
+Then she stepped backward, her form turning translucent as she passed right through the doorway without even opening it.
+
+Leon looked down at the corpse of the shaman on the ground between the three of them. Then he looked back at his guildmates.
+
+Ted spat blood onto the floor. Then he reached into the bag and pulled out a chicken leg. And, even through the rancid scent of viscera lingering in the air and the blood slicking Leon’s nostrils, it smelled delicious.
+
+Then Ted sat down on top of the corpse of a goblin and tore into it, biting into the meat and swallowing it without even chewing. Juice dribbled down his chin to mingle with the blood covering his face. He didn’t even seem to notice. Ted reached into the bag with his other hand to pull out another drumstick.
+
+Wordlessly, Leon and Ajax sat down beside him. There was nothing left to be said. Nothing that could be said. Against all possibilities, they were somehow alive.
+
+There was only one option left to them now.
+
+The Jumping Tigers just ate their delivery.

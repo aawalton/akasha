@@ -1,0 +1,231 @@
+---
+id: 0b321407-5ef9-54e4-a2f0-b353ea79c3f9
+page-type-slug: story-chapter-royal-road
+title: "Chapter 552: House Virelios"
+slug: 0075-chapter-552-house-virelios
+partOf: reborn-as-a-demonic-tree
+position: 75
+ownLength: 2727
+unit: words
+publishedAt: 2026-03-30
+link: "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3211826/chapter-552-house-virelios"
+royalRoadId: "3211826"
+---
+
+"Councilman Faelorian Lysanthos of the Flower Accord is dead."
+
+The announcement rang through the hall like a funeral bell and was followed by a pin-drop silence, despite the thousands in attendance, many of whom were from the hundred noble families of Empyrea.
+
+"He was slain in battle by a dark god going by the name of the All-Seeing Eye."
+
+Having already sensed the Monarch's death and observing the subsequent fallout via clairvoyance, the Chairman remained stone-faced. Instead, his attention swept across the hall. Monarchs rarely died, much less on home soil and to an outside force in such a swift and brutal way. He wanted to see how the noble families would react to this news—that there was an enemy out there capable of killing Faelorian, who was second only to him in strength.
+
+I can smell their fear, the Chairman thought. Things are proceeding better than I could have ever imagined. In an era of peace, respect for the Monarchs wanes, but when a suitable foe appears, our might is brought back into the spotlight.
+
+Unaware of his upbeat thoughts, the announcer, a few steps away, continued in a grave tone. "Devoured by the void, Faelorian Lysanthos's soul and body were not recoverable. In his stead, Cyphion was set to inherit the Flower Accord, but he is suspected of colluding with the enemy."
+
+A few gasps spread throughout the room.
+
+Clearing his throat, the announcer finished with possibly the most shocking news of all.
+
+"Esteemed cultivators of Empyrea, I regret to inform you that... Floridawn has fallen."
+
+An eruption of voices spread through the room.
+
+The Chairman basked in the chaos for a moment, despite the announcer casting him glances that begged for help. He refused to react until the nobles begged him to.
+
+It didn't take long.
+
+A smile tugged at his lips when a man he knew all too well ascended onto the stage with purposeful steps and respectfully kneeled.
+
+"Droskan of House Virelios, raise your head," the Chairman said calmly, silencing the room in an instant.
+
+While all noble families in Empyrea were supposed to be of equal rank, that didn't mean their strength was. House Virelios was one such noble house that stood above all others. With a long history and their territory spanning across multiple floating islands above Empyrea, they wielded immense influence.
+
+"My Lord," he said, his voice deep, commanding respect from the room. All eyes fell on his back, yet he held their attention with practiced ease. Raising his head as ordered, he met the Chairman's gaze. "As the strongest and undisputed ruler of the Celestial Empire and its surrounding lands, my house and many others were wondering if you have any intentions of retaking Floridawn?"
+
+No care for Faelorian or the All-Seeing Eye? As expected, all these nobles care about is whether Floridawn exists as a buffer between them and the threats of the outside world, like the beast tide.
+
+The Chairman appraised Droskan with an amused expression tugging at his lips. Leaning ever so slightly forward, he answered Droskan with a question instead. "What do you think, Droskan? Should I retake it?"
+
+It was a loaded question.
+
+Yet Droskan answered with practiced ease, "I lack the expertise and foresight that you possess, my Lord. Therefore, I cannot provide a satisfactory answer. What would you do, my Lord?"
+
+"Those who cannot think for themselves," the Chairman mused aloud, his voice smooth yet cold, "have no right to request action from those who can. Don't you agree, Droskan of House Virelios?"
+
+"As always, the Chairman is eternally wise," Droskan bowed deeply. He knew how to play the role of a loyal dog to an art form. The Chairman pondered for a moment, and an idea came to mind.
+
+"Why don't you rule Floridawn?"
+
+"Pardon, my Lord?" Droskan said, feigning ignorance. He had heard perfectly well the first time.
+
+"You heard me, old man," the Chairman said as he rose slowly from his shining white throne, carved from a single piece of celestial stone rumored to be salvaged from the corpse of a fallen star. "House Virelios has served me well over the years. Since you seem so interested in the future of Floridawn, I'll let you dictate its fate."
+
+"My Lord—"
+
+"Save Floridawn, and the empty seat on the Council is yours," the Chairman said and then surveyed the rest of the room. "If not you, I'm sure another great noble house would be open to the offer."
+
+As expected, there were no takers. Floridawn was overrun with beasts and had served as the grave for a Monarch. Trying to retake the city would be a costly endeavor for little gain.
+
+I've been looking for an opportunity to reduce House Virelios's might for a while. The Chairman smirked, "Don't you dare disappoint me, Droskan. I expect great things from you and House Virelios."
+
+"I live to serve," Droskan said, cupping his hands and bowing slightly in respect.
+
+The Chairman nodded in satisfaction and left the room before anyone could press him further. Once he was safely beyond prying eyes, he summoned his trusted advisor.
+
+"Veyra."
+
+An ethereal beauty materialized at his side. "Yes, Chairman?"
+
+"I will be gone for a long time."
+
+"Why—"
+
+"That is none of your concern," he cut in. "While I'm away, send airships bearing the insignia of Umbraholme to attack the Blood Lotus Sect—no, I suppose it is called the Ashfallen Sect now. I want you to keep going until you successfully antagonize the All-Seeing Eye."
+
+Veyra's expression tightened with worry. "My Lord, if I may… I don't think that is wise. From everything we've gathered, the All-Seeing Eye is unbelievably powerful. A diplomatic approach may be far more—"
+
+He raised a finger, silencing her.
+
+"Veyra, how long have you served me?"
+
+"Many centuries, my Lord."
+
+"What is my favorite food?"
+
+She blinked. "I… do not know."
+
+"What is my name?"
+
+Veyra hesitated. "Your name? I believe it is… um… the Chairman?"
+
+"What is my affinity?"
+
+"It's…"
+
+"And my cultivation level?"
+
+"Around the seventh?" she guessed.
+
+He nodded lightly. "A reasonable guess. But you don't know for certain, do you?"
+
+Veyra's patience thinned. "What are you implying, my lord?"
+
+He chuckled as he stepped past her. "You are my closest advisor, yet you do not know my name, my affinity, my strength, or even my favorite food. I have ruled the Celestial Empire longer than you have drawn breath, and I've seen the rise and fall of many Monarchs. Yet, you believe you are in a position to advise me on what I should or should not do?"
+
+She was stunned into silence.
+
+He waved a hand dismissively. "Just do as I say."
+
+Veyra stared into his back with an expression of wounded pride as he left.
+
+Perfect, the Chairman thought as he vanished. Everything is now in place.
+
+***
+
+Ashlock was left in peace after seeing Stella, Diana, and Kaida off into the Eternal Realm. Ao had also followed Stella inside for her protection, as they hadn't tested the range limit on the damage transfer.
+
+"I need to figure out an appropriate punishment for her for doing something so reckless," he grumbled. There was a lot he could let slide, but betting her soul was a step too far in his book. While she had won this time, her reckless pride and self-confidence were going to blow up in her face one day.
+
+However, there was a reason he let Stella act the way she did.
+
+"Those who tread the safe road in life will falter in the face of adversity," Ashlock muttered an old phrase he knew. "Or in more blunt terms, her recklessness is her strength. Nobody else in the sect can achieve the feats she does, such as bluffing higher powers so effortlessly or even thinking to bait a Monarch Realm dragon into a rigged bet and still winning. Her unpredictability is what sets her apart from her peers like Diana, so scolding her or forcing her to change her very nature would hold her back."
+
+And in a world of cultivation, where strength was law, the best defense was always going to be having a good offense.
+
+"She's also no longer a kid anymore, and while she's bound to listen to me to an extent, telling her off hasn't worked well in the past." Ashlock sighed. "Maybe I'll leave her parenting up to her mother. Yeah, that seems like a good idea."
+
+Satisfied with that questionable solution to the matter, his focus shifted to the pending system notification he had been ignoring until now.
+
+[Comprehension of Mystic Dao has increased]
+
+Now that he finally possessed Mystic Dao, he had an idea.
+
+"I should upgrade the illusions around Red Vine Peak with the threat of the Celestial Empire and their spies."
+
+He left his Inner World and used his Gaze of the Tree God skill to look on from above. Currently, besides the wall of swirling mist encircling the mountain peak between his offspring, there wasn't much else shielding the peak from outsiders besides his presence and canopy.
+
+Gathered on his mountain peak were the sect members who had been on Moros and farming monster corpses from the beast tide.
+
+"Elder Margret," he addressed the Redclaw Elder, "I need you to go and gather some members of the Mystshroud family and bring them here."
+
+"As you wish," Elder Margret said, hopping on her sword and shooting off toward Ashfallen City.
+
+"Elaine," he said next, making the woman perk up. "I need your help."
+
+"Sure!" she replied enthusiastically. "What can I do?"
+
+"I need you to upgrade the old spatial illusion arrays to incorporate Mystic dao. I'll be using Mystic Qi from the Mystshroud family to solidify the old illusions into mythical barriers that will prevent long-range scrying."
+
+"I—er, wouldn't Stella or Kaida be better suited for that?" Elaine replied, deflating slightly. "I have some array knowledge, but it pales in comparison to theirs."
+
+"They are both in the Mystic Realm," Ashlock admitted. "So you will have to do it. Oh, I also need someone to research the Fleshfruit trees and someone to deal with the bones of Ilyzathar that Astralis should still be dumping somewhere. Oh, and where is Bob? Did I leave him in the Celestial Empire?"
+
+Elaine was looking understandably overwhelmed by his demands. She was usually in charge of education and occasionally got involved in sect matters when they were short-handed or when she had some insight to offer. But most of the jobs he had just listed were typically handled by Stella and Diana.
+
+"Maybe we should postpone these projects until they get back," Ashlock suggested, already feeling the void left behind in the sect's leadership. Besides, Elaine already had a lot on her plate with raising her twins and educating the sect's elites.
+
+"No, I—I can do it!" Elaine said adamantly. "Leave it to me."
+
+Ashlock wanted to tell her it was fine, but he saw the fire of determination in her eyes, so he reluctantly let her at it. He wasn't unaware that Elaine had always felt a little left behind and decided that this would be a good opportunity for her. Furthermore, these were all projects that weren't that pressing, nor would they considerably harm the sect if they failed.
+
+"Perhaps she will even find a way to have the Fleshfruit trees grow bodies before Stella does," he mused. It wasn't an impossibility, considering Stella would be dedicating a lot of time to cultivating while in the Eternal Realm, over research. He could also help her since he was a tree that possessed Nature Law after absorbing Faelorian's soul.
+
+"Where is this Fleshfruit tree?" Elaine asked, glancing around.
+
+"I put them in my Inner World for now," Ashlock said and opened a portal leading to them. "Do you want to check on them while we wait for the Mystshroud family to arrive?"
+
+Elaine nodded. "Sure. There's no point in wasting any time when there's so much to do."
+
+Ashlock liked her enthusiasm; it was almost contagious. He tore open a rift to his Inner World, and she stepped through. On a grassy plain near Stella's house—but far enough away to not be a bother—a dozen fleshfruit trees stood in a neat, methodical line, planted by Stella on her way to the Eternal Realm.
+
+With black bark like demonic trees, the Fleshfruit tree was notably larger than the demonic trees it descended from, with thick, leafless branches bearing dark red hearts the size of a human head that hung like fruit. As if sensing Elaine's approach, the hearts began to beat in anticipation, causing them to leak blood that seemed to reek.
+
+Elaine swallowed hard at the sight. "Creepy," she muttered, then wrinkled her nose. "And they smell like raw meat."
+
+"That's how they attract prey out in the frozen lands," Ashlock explained. "The sound and scent from the hearts lure in large birds and mammals. But the meat is extremely poisonous—just like a demonic tree's berries. Once the prey eats the heart, they pass out, and the tree slowly dissolves their bodies. The cold temperatures keep the meat from rotting, preventing other creatures from interfering."
+
+"Ah, so this is what Stella journeyed to the Frozen Star Sect for?" Elaine nodded as she circled one of the trees, her focus fixated on the giant beating heart. "What is your goal with these exactly?"
+
+"To have them grow human bodies."
+
+Elaine raised a brow. "That seems ambitious."
+
+"Ambitious, but necessary. Most high-ranking cultivators raise families for many reasons, one of them being the need for a compatible body for their Nascent Soul to take over once their soul grows too old or they die in battle," Ashlock paused. "A fact you know too well, considering that was Morrigan's plan with you. I'm hoping these Fleshfruit trees provide a solution to that problem and will give me an immortal army of cultivators, considering I control my own afterlife."
+
+"You also wanted to use these to grow my mother a new body, right?"
+
+"Indeed," Ashlock said. "So in a way, you're conducting this research for your mother too."
+
+Elaine balled her fist. "I'll do my best."
+
+"Great. I'll assist you too, so don't worry—" Ashlock was cut off as the bell connected to his trunk was rung. "One moment," he said as he was called back to the mountain peak where he found Tiberius waiting for him.
+
+"Celestial Warden, this is unexpected. What is the occasion for your visit?"
+
+"I sent a report to Diana but received no response, so I came to give it to you in person," Tiberius replied.
+
+"A report?"
+
+"Yes," Tiberius said, his tone serious. "Diana has been mobilizing the Ashfallen Trading Companies' funds quite aggressively recently."
+
+This was news to Ashlock, and he had a sinking feeling. "On what?"
+
+"You weren't aware?" Tiberius said, raising a brow. "She has been making extensive use of the Pavilion's vast coverage to hire anyone willing to keep watch over your expanding borders, track down spies, and has purchased more information on the noble houses and various forces within the Celestial Empire than anyone in history." He chuckled. "Dare I say, she has effectively bought the wilderness branch of the Eternal Pursuit Pavilion at this point for the Ashfallen Sect's personal use."
+
+Ashlock was in disbelief. Since when had Diana been this crafty? Here he was trying to get the Covenant off the ground; meanwhile, Diana had basically bought one for him. Why hadn't he thought of that in the first place, and why hadn't Diana told him?
+
+"Since when was this a thing?" he asked.
+
+"Around a week?" Tiberius said after pondering a moment. "Definitely before you went and killed Faelorian."
+
+Ashlock wasn't surprised that the man was aware of what had transpired in the Celestial Empire, and if Tiberius had some feelings regarding it, he didn't show them.
+
+"I see," Ashlock muttered. "And what was the report?"
+
+"Oh yes," Tiberius got back to business. "It's quite urgent, hence I came here myself to ensure you heard it. There's a fleet of airships heading here from the Celestial Empire bearing the insignia of Umbraholme."
+
+That didn't sound good... or did it?
+
+"Coming to me, heh?" Ashlock looked over at a bloodstained Moros docked just off the mountain. "I think I should give them a warm welcome."

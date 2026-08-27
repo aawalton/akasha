@@ -1,0 +1,141 @@
+---
+id: e4bf41d1-9618-533e-a461-4a5453519c13
+page-type-slug: story-chapter-royal-road
+title: "Chapter 514: A Silent Admirer"
+slug: 0036-chapter-514-a-silent-admirer
+partOf: reborn-as-a-demonic-tree
+position: 36
+ownLength: 3028
+unit: words
+ownProgress: 3028
+publishedAt: 2025-12-17
+link: "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/2856874/chapter-514-a-silent-admirer"
+royalRoadId: "2856874"
+markedReadAt: "2026-06-29T19:02:44.814Z"
+---
+
+Ashlock had been enjoying a relatively peaceful morning when a rather frustrated Elaine landed on Red Vine Peak. Little Talon was clinging to her back like a koala, looking around sleepily with his void-black eyes. Hazel was missing, likely off at work with her dad or playing with Jasmine somewhere out in the fields.
+
+Elaine came to a pause before the empty bench, with her arms crossed. Clearing her throat, she proceeded to demand in the most respectful tone she could muster, "Patriarch, I need to speak with the Princess."
+
+Ashlock sighed. "She's not here, Elaine."
+
+"But you do know where she is, no? I've come by a few times, and she's always missing. I find it hard to believe she wouldn't have come here at least once."
+
+"Believe it or not, I don't have a way to track Stella's whereabouts, and the Phantom Veil Amulet makes it so that if she wants to stay hidden, nobody can find her," Ashlock lied. By asking Quill, he could locate her through her Soul Anchor, but he didn't plan to disclose that to protect his daughter from Elaine's wrath. "Only Jasmine, with her link to Stella, might be able to point you in the general direction she is hiding."
+
+"I already tried asking Jasmine, and she wasn't much help. She just said Stella should be somewhere near Red Vine Peak." Elaine paused. "What about Maple?" She looked around for the squirrel.
+
+"I believe Maple is peacefully sleeping on Stella's head."
+
+"Ugh. What about Larry?"
+
+"He's busy shepherding the Beast Tide toward the Celestial Empire. Why do you want to meet Stella so badly? I could try passing along a message to her."
+
+"You know perfectly well why I need to speak with her!" Elaine said, rolling her eyes. "She traumatized all of the elites! Every time her name is so much as mentioned in passing, they all freeze up and start to tremble. Some have begun skipping lectures to furiously train non-stop in Tartarus, while those that remain sit there like lifeless husks as if the meaning of life has been stripped from them. Did you know she threatened to execute one of them if they failed a basically impossible task?"
+
+"I did," Ashlock admitted.
+
+"And you didn't stop her?!" Elaine said in disbelief.
+
+"Stella promised me she wouldn't follow through with the execution even if they did fail. She only said that to increase the stakes and make it feel more real. Besides, they managed to win."
+
+Elaine tilted her head. "Why did she make the challenge borderline impossible then? It's almost like she wanted the satisfaction of pretending to execute one of them."
+
+"To be fair, she weakened herself considerably," Ashlock reasoned, but Elaine didn't seem to buy it. "At the end of the day, it's the elites' fault for being too weak."
+
+"The elites' fault? This is Stella we are talking about—a Nascent Soul Realm cultivator nearing the Monarch Realm now. Would her pride allow her to be that weak to lose to a bunch of Star Core and Soul Fire Realms? From what I've gathered, she only lost after three weeks of relentless attacks because of a carefully coordinated strike by Jasmine, Ryker, and Sam. The others in the class didn't stand a chance. She just wanted to bully the elites to fuel her ego."
+
+"Perhaps they are undeserving of the elite title then?" Ashlock suggested and quickly added, "While they have all shown promise and dedication to learning, at the end of the day, strength is all that matters. The main hurdle the elites had to face was confronting the bloodlust radiating from Stella and keeping their eyes on the goal despite the long weeks spent stuck in the forest. While I don't always agree with Stella's methods, what she threw together turned into an intense and necessary training exercise."
+
+Elaine sighed with frustration and plopped down on Stella's bench. Prying Talon off her back and bringing the sleepy toddler to sit in her lap, she looked down at the floor with a mixed expression. "I just... don't want them to suffer, you know? Until I had Talon and Hazel, I treated those elites almost like my own children. I get that the Ashfallen Sect needs strong cultivators to protect these lands we call home, but why them? Can't they live peacefully?"
+
+"Then who has to suffer and fight endlessly so they can live freely? Me? The Grand Elders of this sect like you? Sure, that can work for now. But what happens when cultivating, even with the help of the Eternal Realm, takes months or years? The sect will always need to be raising new powerhouses as we expand throughout the 9th layer of creation and eventually upwards toward the heavens."
+
+"Yeah, I guess you're right," Elaine sighed again and leaned back. Her gaze was half-focused on his canopy as she seemed to calm down a bit. "We are already stretched thin as is with only a few cities, especially Douglas. He could really use a helper or two besides the Mudcloaks."
+
+Ashlock agreed. "I've been thinking of letting Sam use his medallion to enter the Eternal Realm soon for that very reason, as there will be a lot of rebuilding to do in the aftermath of the battle with the Celestial Empire. I'm just waiting for the Redclaw Grand Elder and Elysia to exit, with the hopes that one of them might reach the Monarch Realm."
+
+"Oh," Elaine blinked, "I was wondering where those two had gone. More specifically, the Redclaw Grand Elder, as I speak with him sometimes after lectures."
+
+"What about Elysia?"
+
+"Elysia is... nice? A little, um, too unhinged for me personally." Elaine glanced down and ruffled Talon's hair as the toddler was getting restless. "Sorry for coming here so upset. I know Stella and you mean well and want the best for everyone, including the elites. I just feel so bad for them and wanted Stella to come and apologize or perhaps explain why she made them go through that."
+
+"It's fine," Ashlock chuckled. "I'll pass that along to Stella. Anyway, how is learning new techniques going? You're in the Nascent Soul Realm now, so you must have access to some interesting things."
+
+Elaine smirked. "I do certainly have a few new tricks up my sleeve, though I don't know when I'll get a chance to use them. Speaking of, how's the war progressing? Has it even started? Sometimes I get so absorbed in the peaceful life here that I forget that you're often fighting a battle somewhere distant to keep us safe."
+
+"It's progressing smoothly. My cursed sap has reached the World Tree, so the Celestial Empire's Council should be freaking out around now. My roots have also reached a city I believe to be called Floridawn, and I'm spreading my desolation Qi at a far lower intensity than I did when fighting off the Beast Tide, so it's quite manageable despite how impressively massive Floridawn seems to be."
+
+Elaine paused her hand on Talon's head. "You're using desolation Qi on the mortals of the Celestial Empire, too? Are they dying from it?"
+
+"Not if they run, but those that remain within the area of my desolation Qi for an extended period will wither to dust," Ashlock paused, realizing how little he felt about effectively admitting to the mass murder of mostly innocent people. "Unfortunately, I need to do this. While my target is the higher-ups and the cultivators who have benefited from the torture of the World Tree, I need the citizens of the Empire to put pressure on the Council and cause chaos. It's in this chaos that your mother's assassin Covenant will thrive, and I will be able to dismantle the Celestial Empire one person at a time."
+
+Elaine contemplated for a while. "Even if you don't kill them all, the cities will be brought to ruin, right?"
+
+"Another necessary action, as the grand formation that is enslaving the World Tree's soul is deeply embedded throughout the entire Celestial Empire and all its cities." Ashlock sighed. "For the World Tree, Stella's mother, to finally be free, the Celestial Empire, as the world has known it for thousands of years, must crumble to dust. From the ashes, we can rebuild a new Empire under our rule. It's another reason I sent Elysia into the Eternal Realm, I'll need her to have the strength to unite the fractured Celestial Empire under the banner of the All-Seeing Eye."
+
+Elaine nodded. Scooping up Talon in her arms, she stood up. "I can hardly picture what is going on over there," she mused, looking at the sun cresting the horizon, "but I trust you to do what is right either way. Besides, it's not like the citizens of the Celestial Empire are all so innocent. They have benefited greatly from the World Tree's suffering and enjoyed lives of bliss compared to us out here in the wilderness, who were left to fend against the beasts." She turned and smiled at him, "I'm sure it's fine for them to experience a taste of our suffering for a few months."
+
+"That's certainly one way to look at it," Ashlock replied. "Are you heading out now?"
+
+Elaine nodded. "I have a class starting soon and need to put this one to bed. He was up all night trying to cultivate and is now so sleepy that it's like hauling around a bag of limp potatoes."
+
+"You certainly have your work cut out for you. Have you considered hiring someone to help you take care of Talon? I mean, as a Grand Elder, you're given a share of the Ashfallen Trading Company's profits—"
+
+"Nah, I have no desire to load the responsibility of motherhood onto someone else," Elaine said adamantly. Ashlock appraised her and wondered if Elaine had become more assertive after her time in the Eternal Realm? Or perhaps it was because she was a mother now? "I want to raise him myself, and I find it fun, if quite tiring. Besides, due to his cultivation, he is growing up faster than a normal child and should start speaking soon. Right, little guy?" She said, pinching his nose and making the slothful toddler briefly wake up.
+
+"What a lucky kid he is to have a mother like you," Ashlock said.
+
+"Right? I'm the best mom," Elaine said, grinning as she raised Talon up onto her shoulders. After making sure he wouldn't fall, she floated up into the air and waved toward his trunk. "Sorry to bother you on this crisp morning. I'll be heading off now."
+
+"Bye Elaine, and feel free to stop by anytime," Ashlock said and watched her leave. Now alone, he looked around the empty mountain peak. This was another reason he wanted the elites to be adequately trained for all tasks. The Ashfallen Sect's Grand Elders were already super busy, so he couldn't imagine how much the workload would increase once they overtook the Celestial Empire, which made the population of all his cities combined look like a countryside town. From the little bit of Floridawn he had seen the night before, it had to contain billions of people.
+
+More impressive than that was the fact that this city was all under the World Tree's vast canopy, which made him feel like a shrub on a mountainside in comparison.
+
+"Alright, the morning is still young. I should be productive," Ashlock said and internally debated which tasks he wanted to tackle first. While nothing explicitly required his attention so early in the morning, he had nothing better to do now that his precious sleeping time was over. "Maybe I should assign my third General?"
+
+He was already pretty dead set on turning Geb into his third and final General but had decided to wait a while in case another Ent would be a better choice after seeing the Celestial Empire.
+
+After all, it wasn't like he was in a hurry. His roots, while able to venture forth at a rate that would make a usual tree dizzy, it was hardly fast considering how much land he had to cover. He had barely scratched the border of Floridawn and had just about been able to see the World Tree's trunk in the distance.
+
+"I should check on my progress," he muttered and looked toward the south. His vision blurred as he crossed a vast swath of land. He couldn't even estimate how far away the Celestial Empire was as rivers, forests, mountain ranges, and even giant lakes passed below him. The world was an expansive place, and it was astonishing to him that so much of his life was centered on one singular mountain peak. But he liked it that way—Red Vine Peak was his home.
+
+Despite the speed at which he was traveling, it was impossible to miss the outer roots of the World Tree that occasionally crested the surface and looked more like mountain ranges of gnarled wood than exposed roots belonging to a distant tree. Entire ecosystems of flora and monsters flourished around the World Tree's roots as the land was bathed in an endless supply of Qi.
+
+Once the World Tree's roots became less of an occasional appearance and began to separate the land into massive valleys, her incomprehensible canopy came into view. At first, it appeared to be some kind of strange weather formation, consisting of sparkling gold clouds. The morning sunlight refracted off this floating mass of gold in dazzling brilliance, sending millions of beams of sunlight dancing across the landscape and the endless city of Floridawn beneath it.
+
+It was only as Ashlock reached the border of Floridawn and looked up that the illusion was broken by the light beige-colored branches, hundreds of miles thick, holding up the golden mass of leaves. Following the branches, he could vaguely see the World Tree's trunk in the distance like a grand pillar defiantly piercing the heavens.
+
+"I hate how small this makes me feel, and I'm not even that short," Ashlock grumbled. Despite this not being the first time he had laid eyes on the World Tree, he was still in awe. He understood why the people here revered her as a god, even though he was the one with the Divine Fragment.
+
+Ashlock then focused on the city below him—or what was left of it. Besides the World Tree's titanic roots that sprawled throughout the city, everything else had withered or was in the process of decay. While it was a somewhat sad sight, he knew that with his knowledge of the harmony dao, he could regrow everything far more vibrantly than it had been in a short time. His goal had been to force the millions of mortals who lived here to rush inwards and cause a scene.
+
+"Let's see if I was successful. I'm sure a cultivator or two has become aware of the situation by now," Ashlock mused. While the area directly below him was devastated, in the grand scheme of things, it was a minor blip to Floridawn that spread to the horizon. Moving deeper into the city with his Eye of the Tree God, he could see the vibrant part of the city in the distance. Zooming over to it, he came to an abrupt stop.
+
+There was an unmistakable presence of someone incredibly powerful demanding his attention. By the sheer gravity of their presence, it was clear that they were a cultivator attuned to a spatial affinity. It didn't take Ashlock long to find them among the sea of people. On a random, unassuming street, a young man wearing a simple white robe was looking directly at him.
+
+Beside him was a man who looked like a contestant on a forest survival show and a black-robed cultivator. The two flanking the likely Monarch Realm cultivator were in the Star Core Realm, and to Ashlock's spiritual senses, their tiny souls felt like mere moons orbiting a black hole.
+
+The white-robed man said something to the person beside him, his voice obscured by layers of Qi. Both of them looked suddenly shocked and terrified, with the black-robed one attempting to jump into the sky toward a floating sword, only for something Ashlock hadn't expected to occur.
+
+With a click of his fingers, the area around the white-robed man convulsed like a wobble in reality, tearing apart everyone in his vicinity—including the black-robed man attempting to escape and thousands of mortals nearby. A sea of blood splattered the walls of the nearby houses and pooled at the white-robed man's feet.
+
+The only survivor was the bushy-faced man at the white-robed man's side, who looked so stunned that he couldn't even speak a word.
+
+Ashlock had no clue what to make of the scene before him. That was until the layers of Qi surrounding the area opened up to invite him in, and the culprit of the massacre smiled at him.
+
+"Greetings, All-Seeing Eye. It's been a while," he said and gestured casually to the blood-caked street before him. "You might not know me, but I've been interested in you for quite some time. Please, I'd love to have a chat."
+
+Ashlock had no idea who this man was or how he came to know of his godly persona. Deeply curious, he had Anubis step out of a nearby shadow before the cultivator.
+
+"How do you know that name?" Ashlock demanded, letting his voice, which sounded like a hundred different ones overlapping all at once, echo through the now-empty street.
+
+"The Silverspire family told me about you when I visited," the man said plainly, completely unperturbed by Anubis's presence or Ashlock's way of talking.
+
+Ashlock suddenly connected the dots. "You're the one who stole and imprisoned my demonic sword, aren't you?"
+
+The man nodded. "Guilty as charged," he bowed dramatically, "I do hope you will forgive me for that little incident. The name is Councilman Cyphion of the Flower Accord. It's a pleasure to finally make your acquaintance." He rose and smiled widely. "After all, I'm a big fan."
+
+Ashlock paused. This man was a Councilman of the Flower Accord, and his... fan?

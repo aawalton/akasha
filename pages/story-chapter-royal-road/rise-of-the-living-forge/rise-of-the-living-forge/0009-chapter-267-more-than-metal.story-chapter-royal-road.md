@@ -1,0 +1,140 @@
+---
+id: 0a64dc94-c999-5584-aacc-c846ab44c648
+page-type-slug: story-chapter-royal-road
+title: "Chapter 267: More than metal"
+partOf: rise-of-the-living-forge
+position: 9
+ownLength: 1876
+unit: words
+ownProgress: 1876
+publishedAt: 2024-09-03
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge-stubbing-to-ch555-in/chapter/1786683/chapter-267-more-than-metal"
+royalRoadId: "1786683"
+markedReadAt: "2026-06-29T19:58:44.810Z"
+---
+
+Arwin headed into the Infernal Armory with Yonas and the rest of the Menagerie — Madiv and Esmerelda notwithstanding. Technically speaking, the only member of the guild that wasn’t there was Madiv. Esmerelda had decided herself that she was joining. Nobody had approved it yet.
+
+That’s a problem to deal with later. I could definitely use the advice on Cursed items… but she’s going to have to tone down the mildly evil vibes.
+
+Arwin led them through the armory’s main room and into the workshop at the back. It was dormant, the lines that covered the floor and slithered up the walls silent in their sleep. The ground was suspiciously spotless for a blacksmith. It seemed that the Armory had cleaned up after Arwin once he’d left.
+
+Convenient.
+
+“We will have to move quickly. The mercenaries are standing by, but they will only wait for a few minutes before leaving,” Yonas warned. “If this does not work, we will need their help. The Dawnseekers have put too much into this plan to risk failure. We must ensure the Ardent Guild falls.”
+
+“We want to get this dealt with just as badly as you do,” Arwin said, approaching the maw in the center of the room and placing his hand against the cold stone. “You have the key?”
+
+“Yes,” Yonas replied. “I would not be here if I did not have the key. It is the portal that we lack.”
+
+“Patience,” Arwin said. “You’re a jumpy one, aren’t you?”
+
+Yonas’ brow scrunched in irritation as Arwin turned away from him and placed both of his hands on the maw. Before he could respond, a gentle rumble rolled through the ground beneath them. His eyes widened and jerked around the room as a dull creaking noise echoed through the stone.
+
+“Arwin,” the wind whispered, its voice slithering past his head as red mist swirled up from through the stones. “Again? Do you think I am an infinite source of power?”
+
+“Lillia, the building needs some fuel. It’s low on energy.”
+
+“I’m on it,” Lillia said, reaching into her pocket and pulling out a round loaf of bread the size of her palm. She tossed it like a ball as she walked up to join him. “Open up, big guy.”
+
+Stone trembled. The maw snapped open, the pointed protrusions running along its circumference flexing like the teeth of a venus fly trap. A shimmer of energy pulsed down the black veins running throughout the room as the Infernal Armory woke itself up.
+
+“Godspit,” Yonas muttered, his gaze darting around. “What is going on? Are you speaking to the building? Is it alive?”
+
+Lillia glanced at Yonas out of the corners of her eyes. “What are you, an idiot? Why would a building be alive? It’s just enchanted and needs energy to run. If you think this thing is anything more than a bunch of stones with a bit of magic powering them, then I’ll let you pay fifty gold to touch a real demon tail.”
+
+“Really?” Yonas asked, tilting his head to the side.
+
+“No,” Lillia replied. She tossed the loaf into the maw. “You can’t touch it. It’s fragile.”
+
+Mist swirled around Arwin, but nobody else so much as noticed its presence. He made sure to pay no heed to it. Lillia was already doing a great job of making sure Yonas didn’t start thinking too much. He didn’t want to go undermining her efforts or making the man think he was insane.
+
+He summoned a ball of [Soul Flame] to his palm and held it out over the building’s maw. Arwin poured power into it until the fire burned a brilliant blue. The stone rumbled as it curled up, the points around the maw reaching for the flame, pursing like the bud of a flower about to blossom.
+
+Arwin gave the armory his Soul Flame and took a step back, leaving the fire burning upon the maw. Energy pulsed in the Infernal Armory’s veins. The maw opened up, pulling at the blue flame.
+
+It sputtered and turned a pitch black. The air hummed with energy and the fire grew, reaching out for itself. Magic pulsed down veins and lit the room with its intensity. Within moments, a bed of sickly night-colored fire coated its surface. The flames sputtered and rose into the air, forming into the form of a plain door.
+
+Yonas’ mouth dropped open in disbelief. He stared up at the magical doorway, then blinked heavily and rubbed at the bridge of his nose. The door did not disappear. It remained in place, trapped within the smoldering flames.
+
+“This isn’t easy to keep up. Are you just going to sit around, or are you going to use the key?” Arwin asked tersely.
+
+The Dawnseeker blinked, then shook his head furiously. He reached into a pocket and pulled free a bronze key studded with a blue gemstone. He looked from Arwin to the doorway. “I — yes. I’m ready. How do I—”
+
+“Just stick it in the hole,” Olive deadpanned. “I hope you don’t have a wife.”
+
+“Be nice, Olive,” Reya said. “I wouldn’t normally go sticking things in a burning door either. Being too adventurous is dangerous. There are times when it’s better to just play it safe.”
+
+“That’s rich, coming from you.”
+
+“I was trying to be inspirational.”
+
+“How many guilds are left in Milten that don’t hate you?”
+
+Reya opened her mouth.
+
+“This one doesn’t count,” Olive added.
+
+Reya closed her mouth.
+
+Yonas cleared his throat. He looked from Reya and Olive to the molten portal, then held the key out to Arwin. “Here. You do it. I’ve never used this form of portal before. It would be bad if the key was damaged, so it’s better that we play it safe.”
+
+Arwin took the key with a wry smile. Red smoke twisted down his arm and ran over to the crackling black flames. A faint force pushed against Arwin’s back, driving him forward. The Armory was getting impatient with him. It probably wasn’t too happy about wasting energy while they were waiting around.
+
+He lifted the key and slid it into the hole in the door. It was a strange sensation for fire to put up physical resistance, but a faint click echoed out from the flame as Arwin twisted the key. The door swung open.
+
+Fire poured out from its entrance, licking past Arwin’s face and dissipating into heat in the air around him as it swung open. Arwin squinted as a powerful, hot wave of wind rolled past his face. A moment later, the temperature in the Infernal Armory slipped back to normal as the portal stabilized.
+
+Beyond the black flame was a room paved with dull, red stone. Light flickered in it, both pouring in from the Infernal Armory and from dim yellow torches that hung from walls, poking out between brown vines that trailed down from the ceiling. The faint smell of brimstone and salt wafted free of the portal.
+
+“That’s it,” Yonas muttered. “Impressive. A portal. And it will last long enough for us to clear the dungeon?”
+
+That’s a good question, actually.
+
+“How long are you expecting this is going to take?” Arwin asked, feeling like they really should have covered this earlier.
+
+“That will heavily depend on your abilities,” Yonas replied, not even bothering to hide his skepticism. “If you prove capable enough to clear the first room, then I will be able to make a better guess — and we don’t know how powerful the boss is. I would expect that a group of experienced adventurers at my level could clear it in less than four hours. It depends how long we would have to wait and recuperate after each room.”
+
+Mist twisted around Arwin, and displeasure prickled against his mind.
+
+“Four hours,” the Armory whispered to him. “No longer. Return before then. I will be displeased if I have to keep this power running any longer than that. It would be an enormous waste of resources.”
+
+Waste? Does that imply the Armory is doing something with the resources when I’m not using them myself?
+
+Arwin couldn’t exactly ask with Yonas present. His eyes narrowed slightly and he let out a huff. “Four hours will be fine. It’ll hold that long.”
+
+“Are you certain?” Yonas asked.
+
+“You’re wasting time,” Arwin said, hoisting himself up onto the maw and reaching down.
+
+Lillia accepted his hand and he pulled her up to stand beside him. She stepped through the portal and glanced around the room beyond before turning back to them and giving them a thumbs-up.
+
+“Safe,” Lillia said.
+
+“Of course it’s safe. What psychopath would use a key that led directly into a populated room? We aren’t amateurs,” Yonas said. “Our guild has standards.”
+
+“Great,” Arwin replied, snapping his fingers impatiently. “Then let’s see them in action. Up we go.”
+
+Yonas accepted Arwin’s hand and let the larger man pull him up to stand on the maw. He pulled his arms closer to his body to avoid touching any of the flaming parts of the portal as he stepped through it and into the dungeon beyond. Oddly enough, he looked more comfortable in the dungeon itself than he had in the smithy.
+
+Arwin helped the rest of the Menagerie through the portal one by one until they’d all stepped foot into the dungeon. He paused for a moment at the edge of the portal. Arwin didn’t say anything, but he sent a pointed look at the askew backroom door.
+
+We need to make sure nobody manages to find their way into the armory while we’re in the dungeon. Getting ambushed while we leave would be bad.
+
+The Infernal Armory picked up on Arwin’s thoughts. The door closed, locking itself with a click. It was out of sight of the portal, so Yonas couldn’t have seen it happen even if he’d been watching.
+
+Arwin inclined his head slightly, then turned and stepped through the portal to join the others.
+
+“Everyone ready?” Arwin asked.
+
+He received a round of nods in response.
+
+“We’ve got the dungeon scouted out already,” Yonas provided. “I’m not going to put myself at the front of the fight until I see what you lot are capable of, but I’ll guide you. Just remember you chose to not bring the mercenaries, not me. That call was on you.”
+
+“I’m sure we’ll learn to forgive ourselves for that eventually,” Arwin said dryly. He reached out to [Arsenal]. Every piece of armor other than his gauntlets slammed down in place around him. Verdant Inferno took form in his right hand and his shield materialized in his left.
+
+Yonas’ eyes widened. He took a step back. “What kind of smith ability is that?”
+
+“Being a smith is more than hitting a piece of metal,” Arwin replied, thunking Verdant Inferno down on his shoulder with a clang. “Sometimes, you have to hit monsters as well. Rodrick, you’ve been leading the dungeon runs recently. Care to take over? I don’t want to trod on what works.”
+
+“With pleasure,” Rodrick said, a smile crawling across his face. He cracked his neck and drew his sword. “Come on, Menagerie. We’ve got 4 hours and a record to beat. Let’s move out.”

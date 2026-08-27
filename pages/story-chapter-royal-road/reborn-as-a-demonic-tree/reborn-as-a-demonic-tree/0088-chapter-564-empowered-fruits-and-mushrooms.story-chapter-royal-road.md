@@ -1,0 +1,251 @@
+---
+id: 483d71a5-9d75-522e-92c8-ec0e8e3cf271
+page-type-slug: story-chapter-royal-road
+title: "Chapter 564: Empowered Fruits and Mushrooms"
+slug: 0088-chapter-564-empowered-fruits-and-mushrooms
+partOf: reborn-as-a-demonic-tree
+position: 88
+ownLength: 2412
+unit: words
+publishedAt: 2026-04-27
+link: "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3326153/chapter-564-empowered-fruits-and-mushrooms"
+royalRoadId: "3326153"
+---
+
+"The Poison Monarch, Grand Elder Ren, has returned from battle... defeated," a Shadow reported.
+
+Mistress Veilshade glanced up in surprise from her black tulip garden that was shrouded in darkness. "Where is he now?"
+
+"Grand Elder Ren has been spotted returning to the Celestial Empire."
+
+"Alone?"
+
+The Shadow nodded. "Alone."
+
+"What happened to his fleet, or the Radiant Dawn?" Veilshade questioned, already suspecting the seemingly impossible answer.
+
+"Long-range scrying techniques detected marks of a grand battle over the wilderness. Nearby Shadows investigated the area, finding only a few wrecks among the charred trees."
+
+"Only a few?" Mistress Veilshade questioned. If such a massive fleet were to fall, the battle's fallout would create an apocalyptic scene.
+
+"The Radiant Dawn Flagship and a few of the airships that accompanied it are surprisingly unaccounted for. Tracing their Qi signatures leads to a dead end in the air."
+
+"Then the ships were moved through a portal," Mistress Veilshade mused as she looked down at the black tulip that was quivering for her touch. She caressed it while lost in thought. How could a fleet of that size, led by a Flagship captained by a Monarch as powerful as Grand Elder Ren, fall into enemy hands in a single afternoon?
+
+"How many losses did the All-Seeing Eye suffer from the battle?" she asked the patiently awaiting Shadow.
+
+"None." The Shadow paused, as if not believing his own words. "I triple-checked the area myself. Either they cleaned the site up already, or they really suffered no casualties."
+
+"Why did they let Grand Elder Ren flee then if it was such an overwhelming victory?"
+
+"We believe he may have switched sides."
+
+"That's quite the conclusion. Explain," Mistress Veilshade insisted. Faelorian had fallen, and Cyphion had strangely devoted himself to the All-Seeing Eye. While many Monarchs resided under the World Tree's vast canopy and were aligned with the Celestial Empire's interests, that would all change once the truth regarding the poisoned golden sap supply became known. Had Grand Elder Ren become aware of this and deliberately allowed the fleet to be defeated?
+
+"He was seen meeting with Cyphion and the unidentified Third-Eye Monarch. While brief, the meeting concluded with him fleeing toward Empyrea, where he has gone into hiding."
+
+"Hiding? I assume from the Chairman, considering he came back defeated?"
+
+The Shadow surprisingly shook his head. "Actually, upon Grand Elder Ren's return and the Chairman not demanding an explanation exposed something rather troublesome, the Chairman... has gone missing."
+
+"Gone missing?" Mistress Veilshade's tone turned to ice. "The Chairman can't simply go missing. What happened to the Shadows tracking his whereabouts?"
+
+"They were all abruptly killed this morning—their corpses were left in his meeting room."
+
+That shocked Mistress Veilshade, as they had been some of her best Shadows. After all, middle-of-the-pack Shadows would never be able to track the Chairman without detection.
+
+"The Chairman hasn't gone missing," Mistress Veilshade insisted. "He's withdrawn into the dark to watch and manipulate from the shadows. But why now, of all times?"
+
+Mistress Veilshade crossed her arms and began to work the problem backward.
+
+By vanishing, he removes the Celestial Empire's figurehead, leaving a void at the very top. The nobles of Empyrea will fracture upon learning of this, each rushing to pledge themselves to a different Council member. Meanwhile, the many Monarchs will sense weakness and move swiftly to secure their own position. Some may even be so brazen as to aim for the open spot at the top left in the Chairman's wake.
+
+Her eyes narrowed as the pieces fell into place.
+
+"He wants chaos," she murmured. "Or worse… he wants the All-Seeing Eye to win."
+
+Just as the realization settled over her, another Shadow emerged from the darkness.
+
+"Reporting. The All-Seeing Eye's presence has been reported in Floridawn, and the Third-Eye Monarch is making a speech to the people."
+
+"Inform the Shadows to meet me there," Mistress Veilshade said and quickly poured shadow Qi into the black tulip at her feet. It yawned open, exposing an impossibly dark interior that she stepped into. The tulip swallowed her, and moments later, she emerged at the World Tree's base, at the edge of Floridawn. The giant tulip disappeared into the wind, and as instructed, three high-ranking Shadows were awaiting her arrival.
+
+"Talk to me," she said as they shifted through the darkness toward the monster-infested border.
+
+"While the Third-Eye is giving a speech, we are detecting an immense inflow of Qi into the area around Faelorian's old estate."
+
+"Desolation Qi?"
+
+"No," another Shadow replied. "It's... something else entirely."
+
+That concerned Mistress Veilshade. Dual-affinity cultivators existed, though Monarch-level ones were rare, and gods possessing multiple affinities were unheard of. Did that mean there was someone else with the All-Seeing Eye's capabilities working with them, or was the dark god simply that powerful? Either way, it was bad news. The Celestial Empire was already struggling to hold off the All-Seeing Eye's desolation as it was without this upset.
+
+"I suppose I'll have to check it out myself," Mistress Veilshade concluded and rushed forward. "You three are dismissed. Keep watch from afar and document anything that catches your interest."
+
+They all nodded and dispersed, leaving Mistress Veilshade soaring over the beast tide toward the accursed abyss that had swallowed Faelorian's estate. As per the reports, the Third-Eye was floating above the abyss and infusing her voice with Qi to address the surroundings.
+
+"...and that is why the All-Seeing Eye will reward your patience and resilience with a home filled with life!" She finished her speech and spread her arms. The strange sensation that had been building beneath the surface that Mistress Veilshade could now feel surged to a breaking point—then burst outward.
+
+"What the..." she could only stare, caught between horror and awe. It was as though time itself had begun to flow in reverse. The desolation Qi that had poisoned the land did not simply fade; it changed. It deepened, thickened, transforming into something older and far more fundamental.
+
+It no longer felt like Qi. It was something primordial.
+
+An ancient force swept across the scarred earth—not as a storm, nor as fire, but as a silent correction. It did not command the same attention as the techniques of cultivators. It was not loud or over the top. It simply manifested as if it were a decree imposed upon reality itself.
+
+Where the land had been trampled, where corruption had leeched vitality from soil and stone alike, something deeper now stirred. The wounds left on the earth did not merely vanish; they were accepted and incorporated. The ground shimmered faintly with life force, as though the world had exhaled after holding its breath for too long.
+
+"Is this... harmony?" Mistress Veilshade muttered in disbelief.
+
+Harmony was not destruction. Nor was it creation. It was the primordial law that prevented one from consuming the other. The silent principle that ensured fire did not devour the seas, that the land did not choke the heavens, that death countered eternity. It was not a Dao meant to be grasped by mortals or even gods.
+
+Yet here it was, being casually wielded by the All-Seeing Eye to give back to the conquered people of Floridawn. She looked around and confirmed it wasn't being invoked through ritual or artifact, but guided with deliberate intent. It was like watching a master architect at work.
+
+Cracked stone fused seamlessly. Blighted soil darkened and turned fertile. The lingering stench of decay on her spiritual senses dissolved into the crisp fragrance of rain-kissed earth. Where gray nothingness had stretched in lifeless desolation, verdant green now unfurled in rolling waves. Grass sprouted in carpets. Vines slithered over holes in buildings, not in conquest, but in gentle reclamation. Saplings rose, leaves trembling as though awakening from a long nightmare.
+
+The millions gathered in the ruined streets fell silent.
+
+They watched as flowers bloomed in real time, petals unfolding beneath the sunlight piercing the canopy. They watched broken walls knit themselves together beneath creeping ivy. They watched the land remember what it was meant to be.
+
+Over the course of an hour, the devastation surrounding Faelorian's old estate vanished—not concealed, but corrected. The scars of war were not buried; they were harmonized into the greater whole, as though the world had accepted them and moved on.
+
+Mistress Veilshade's throat tightened. "He's not just a dark god," she whispered to nobody but herself. "He's a creator."
+
+To destroy reality was simple. Many could shatter mountains or drain oceans without a care in the world as they pursued power and conquest. But to restore balance? To take responsibility for ruin and answer it with renewal—this was something else entirely.
+
+It was... beautiful.
+
+Mistress Veilshade looked at her hand as something stirred inside her that she hadn't felt for a long time: the feeling of hope. For too long, she had been caught up in the political game of the Celestial Empire and in an endless pursuit of power. Yet this display tore away the darkness and showed her the world's natural beauty once again.
+
+"This flora was here before," she muttered, clenching her fist, "but I didn't realize how beautiful the simple flowers and green grass were until they were stripped away."
+
+As if overhearing her thoughts, the Third-Eye Monarch addressed the people once more. "People of Floridawn, the All-Seeing Eye is here to cleanse the Celestial Empire, and for the process to go smoothly, the rotten land and its leaders must first be brought to ruin to make way for the new. We want to help and nurture you, to lift you up and help you all defy the heavens. Join us, become cultivators, and enjoy life under his scrutinizing but fair gaze."
+
+The Third-Eye Monarch then turned to look in the direction of Mistress Veilshade, but she was already gone. Flying toward Emyrea while wreathed in shadows, she had someone she needed to speak with.
+
+Grand Elder Ren.
+
+***
+
+Ashlock found Harmony Dao surprisingly intuitive to use, as he could direct its intent by infusing it with Nature Law. It wasn't even that Qi-intensive of a process, as it made use of the ambient Daos present, mainly desolation, as fuel for the change.
+
+A week had passed since that little stunt, which had gone down rather well with the masses.
+
+Idletree Daily Sign-In System
+
+Day: 3743
+
+Daily Credit: 8
+
+Sacrifice Credit: 8640
+
+[Sign in?]
+
+"Let's see, that stunt grew a thousand credits into over eight thousand credits," Ashlock mused. "It seems the growth from my display of power has slowed down, so it's finally time to spend. I have enough to upgrade any skill or mutation below the SSS grade."
+
+He had been waiting patiently all week for this.
+
+"System, bring up my full status screen."
+
+[Demonic Demi-Divine Tree (Age: 10)]
+
+[Nascent Soul Realm: 9th Stage]
+
+[Soul Type: Nine Moons (Desolation)]
+
+[Mutations…]
+
+{Crown of the Withered Sovereign [S]}
+
+{Cursed Blood of the Demon Tree [S]}
+
+{Evil Eye [A]}
+
+[Summons...]
+
+{Netherwood Wraith: Nyxalia [Mythical]}
+
+{Harbinger of the Eternal Ash: Larry [SS]}
+
+{Celestial Ink Dragon: Kaida [A]}
+
+[Soul Weapons…]
+
+{The Sword of New Beginnings [?]}
+
+[Skills…]
+
+{Skyborne Bastion [SSS]}
+
+{Necroflora Overlord [SSS]}
+
+{Divine Cycle of Creation and Ruin [SS]}
+
+{Eternal Realm [SS]}
+
+{Hellroot Abyss [SS]}
+
+{Progeny Dominion [S]}
+
+{Dimensional Overlap [S]}
+
+{Nocturnal Genesis [S]}
+
+{Ethereal Roots [S]}
+
+{Voidstorm Aegis [S]}
+
+{Dao Fruit Production [S]}
+
+{Abyssal Maw [S]}
+
+{Soul Forest [S]}
+
+{Gaze of the Tree God [S]}
+
+{Abyssal Whispers [A]}
+
+{Magic Mushroom Production [A]}
+
+{Language of the Eldertree [A]}
+
+{Fire Qi Barrier [A]}
+
+{Blooming Root Flower Production [B]}
+
+{Superior Poison Resistance [C]}
+
+There were almost too many options to choose from. Last time, Ashlock had upgraded his Cursed Sap to S grade and did a random draw for the SS-grade Hellroot Abyss skill.
+
+"Back then, I upgraded my Cursed Sap to further my infiltration into the Celestial Empire's golden sap supply and got rather lucky with the unlocking of the Hellroot Abyss skill. However, the fight against Faelorian and Ren taught me that even if I upgrade my combat skills, I can't fight a Monarch by myself. I need to uplift my allies, especially the ones that are Monarchs."
+
+Two skills that he had hardly touched in ages stood out to him. First, {Magic Mushroom Production [A]}, which was responsible for letting him grow the spirit root, skin improvement, and heart demon-expelling truffle. Secondly, there was the {Dao Fruit Production [S]} skill, which let him grow fruits such as the Mystic Realmwarp fruit or the Void Protection fruit.
+
+"Let's upgrade Magic Mushroom Production first," Ashlock instructed his system.
+
+[Sign in successful, 1105 credits consumed…]
+
+[Upgraded {Magic Mushroom Production [A]} -> {Mycelium Network [S]}]
+
+[{Mycelium Network [S]} More than just a production skill, a vast network of Mycelium now sprawls between you and your offspring. This allows for the quick exchange of resources and information between all connected trees. Fungi with miraculous effects can now be grown anywhere within the network, and their production rate and capabilities are greatly improved. You can also grow fungi that have offensive capabilities, such as poisonous spores, which can be managed and grown by your offspring]
+
+"That... is not how I expected that skill to upgrade at all," Ashlock mused. "Did a production skill just become offensive? Now I'm even more curious about what upgrading Dao Fruit Production will entail."
+
+[Sign in successful, 6209 credits consumed…]
+
+[Upgraded {Dao Fruit Production [S]} -> {Heaven-Defying Orchard [SS]}]
+
+[{Heaven-Defying Orchard [SS]} Bless a section of land to spawn a Heaven-Defying Orchard. The fruits grown on the trees in this sentient Orchard overseen by spirits can be infused with dao insights, Qi, and even knowledge. These fruits can also hold altered versions of your skills up to SSS grade]
+
+"Wait, SSS grade?" Ashlock was surprised. That meant he could infuse every skill, including {Skyborne Bastion [SSS]} and {Necroflora Overlord [SSS]} into fruits."
+
+Opening the new shiny menu, he was met with a message.
+
+[Please designate a Heaven-Defying Orchard to begin production]
+
+Ashlock pondered where to place it and then had an idea. "What if I placed it inside my Inner World and had it include the planted Fleshfruit trees? Perhaps the skill can tap into their potential and help Elaine with her research?"
+
+Entering his Inner World, he found the Fleshfruit trees unattended. "Elaine is likely busy with her kids or something," Ashlock thought as he mentally selected the area.
+
+[Place a Heaven-Defying Orchard here?]
+
+"Yes," Ashlock said and watched a spiritual Orchard deserving of the SS-grade come to life.

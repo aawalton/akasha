@@ -1,0 +1,125 @@
+---
+id: 1fe4e7e5-fc19-551d-ad64-eaa3377a2b5c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 596: Alternative Measures"
+slug: 0164-chapter-596-alternative-measures
+partOf: rise-of-the-living-forge
+position: 164
+ownLength: 1753
+unit: words
+publishedAt: 2026-05-25
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3444110/chapter-596-alternative-measures"
+royalRoadId: "3444110"
+---
+
+“We have a problem,” Koyu said.
+
+Wallace grunted in response.
+
+The two of them sat in obsidian chairs on either side of the anvil in the center of the Infernal Armory. Materials scattered the ground around them in what would have seemed to be a mess to anyone other than the two of them and the Armory itself.
+
+They’d run through a dozen different theories over the past few hours. Each of them had been carved out from the sea of potential ones as a path that held even the faintest chance of success. And, thus far, not a single one of them had had even a scrap of potential.
+
+“Do you really not know how these Revenants were destroyed back during the war?” Wallace asked, massaging his brow. “Maybe we just have to hunt down another Lich. At this point, I figure the Menagerie could pull it off. And if you managed to make it this long…”
+
+“I am certain that another Lich exists somewhere, in some form,” Koyu said. “And I am aware of the direction of the method that they would use. That is not the issue. I simply refuse to let us fall to such a degree. We will not rely on Soulmancy of that type.”
+
+“But—”
+
+“I will not permit it!” Koyu snarled, driving a hand down into the side of his chair with enough force to crack the stone. “You do not know the horrors which you suggest, Wallace. You do not know the wretched power which you seek to rely on. So much as a single usage is enough to corrupt the wielder’s soul.”
+
+“Shit,” Wallace said, raising his hands before him. “Fine. Fine. I get it. No Soulmancy. But doesn’t Arwin—”
+
+“His magic is different,” Koyu said, shaking his head. “He uses something between Soulmancy and a healing art. As you know, it lets him communicate with his materials. But he does not force. That makes his magic a vastly safer and respectable art. In most circumstances, it will also allow him to create items of far more strength. But in this circumstance alone… his is inferior.”
+
+“Why?” Wallace asked. “Because our other options aren’t looking too great so far, Koyu. We’re going to need to figure something out. We don’t have forever. I’m familiar with the basics, but what exactly is it about normal Soulmancy that would allow it to kill a Revenant when Arwin’s magic can’t?”
+
+Koyu blew out a heavy sigh and sank down lower in his chair. “I am quite aware. The difference is in the nature of the magic itself. Arwin does not force his materials to bend to his will. He aids them to become what they desire to be. He can obviously request and suggest options, but it is fundamentally a collaborative power. But true Soulmancy… the power that Lichs bore during the Great War, that was the opposite. Their will was the only thing that mattered.”
+
+“Right,” Wallace said. “But the Beast wants to die. He came to us literally asking to be killed. So wouldn’t he be more than happy to let Arwin Soulmancy him back to the grave?”
+
+“No. Because he cannot. That is the curse of the Revenant,” Koyu said with a grim shake of his head. “Do you think any Revenant wanted to exist? They are dozens — in the best of cases — of souls sewn forcibly together, growing only larger and more agonized with every life they claim. Not a single one of them wished to exist. The power that sustains them is the Lich’s Soulmancy itself.”
+
+Wallace’s lips thinned as he caught on to what Koyu was saying. “And that power isn’t going to be too amiable to getting undone.”
+
+“It will not be. We will not be able to sing our way to victory with a Revenant. It will not accept freedom unless we drive it through its heart.”
+
+“Except stabbing them is useless.”
+
+“Except stabbing them is useless,” Koyu agreed with a nod. “And forcing Arwin to use his magic in the manner of a Lich would be far, far worse. Imagine what would happen if a man of his power and potential were to head down the path of a true Lich.”
+
+“He wouldn’t—”
+
+“He would have already taken the first step if he were to do this,” Koyu said. He leaned forward, his gaze boring into the smith’s. “It is not a matter of character. Can you slaughter an innocent and still remain blameless?”
+
+“Your point is made,” Wallace said. He grabbed a chunk of ruby-red metal off the ground and rubbed his thumb against it pensively as he thought. “Not that I would ask Arwin to do something like that in the first place. But it is leaving us in a bit of a problematic situation. It doesn’t seem like any weapon can actually kill a Revenant other than Soulmancy.”
+
+“Thus far,” Koyu corrected. “I am certain there must be another way. We simply have not found it yet.”
+
+“Yeah,” Wallace said. “But finding it is the hard part, isn’t it? The Beast is literally going to let us stab him. That’s the easy bit.”
+
+“I am trying to be motivational,” Koyu said. He let out a harrumph. “It clearly wasn’t worth the effort.”
+
+“We’re both old assholes,” Wallace said with a bark of laughter. “We don’t need to be motivational. We just need to find answers. I’m sure we’ve just missed something. There has to be a way to kill a Revenant without Soulmancy. Let’s just go back over it.”
+
+Koyu didn’t argue. He just leaned forward, translucent fingers drumming against his thigh. “A Revenant is woven of souls and bound to a physical form. There is no separation between the soul and flesh. They are completely intertwined. They can be undone with Soulmancy, by forcibly tearing them apart in the same manner in which they were made.”
+
+Wallace tapped his foot on the ground. “Flesh and soul are one… Hypothetically, if a Revenant got enough souls…”
+
+“It could explode,” Koyu allowed. He let out a grim laugh. “But do we really want to go down that route? It might somehow be even worse than the Soulmancy.”
+
+“Just brainstorming,” Wallace said. “Stop shooting down all my ideas and try offering up a few of your own. We’re not getting anywhere if you keep being a stick in the mud.”
+
+“Right. My apologies,” Koyu said. His hands clenched into fists. “Yes. Hypothetically speaking, overwhelming a Revenant with sufficient amounts of souls would eventually cause the magic holding it together to burst. That would kill it. But the death count would be astronomical.”
+
+“Could we somehow replace the souls with magic?” Wallace asked. “What if we injected the Beast with so much magical energy that he just… popped?”
+
+Koyu tilted his head to the side. “An interesting proposition. But I think you underestimate the weight of a soul. There are few things of more magical power than a soul. It is the very essence of a living being. Even though the Beast has doubtlessly killed a great number of beings in his existence, the amount of magic we would need to replicate all the other souls would be enormous. I don’t think we could manage it. Especially not in the time we have.”
+
+“But it would hypothetically work?”
+
+It was a moment before Koyu responded. Then, slowly, he nodded.
+
+“Yes. It could.”
+
+“So magic and souls are interchangeable for the purposes of what we’re doing,” Wallace said. He stroked his beard, then looked back over to Koyu. “Yes?”
+
+“They may be,” Koyu said. His voice grew distant.
+
+Both of them fell silent.
+
+Then, nearly in unison, he and Wallace looked at each other.
+
+“What about the opposite?” Wallace asked. “If we were to take the magic away? Not with Soulmancy, but through another means?”
+
+“The Guild’s magic-stealing daggers,” Koyu muttered. “Yes. I don’t know how I didn’t think of that earlier. They could target the bindings holding the Revenant together. I — no, damn it.”
+
+“What?” Wallace exclaimed. “Don’t say that, damn it. You just had an excited reaction. Going ‘damn it’ right after that is just rude. You have to at least tell me what we got right before we figure out what went wrong.”
+
+A faint smile pulled across Koyu’s features. “The dagger may indeed be able to unravel a Revenant. Destroying the magic holding it together would almost certainly work.”
+
+“But?” Wallace arched an eyebrow. “There’s a but coming.”
+
+“But,” Koyu continued, inclining his head. “I do not know how such a weapon would react to drawing in so much magical power all at once. It would be magnitudes greater than the powers of some random adventurer. Even a strong one.”
+
+Wallace’s brow creased. “It could explode.”
+
+“It could more than explode. There’s a chance it would take out half a block,” Koyu said. “Or it could hold. I’m unsure. But there’s one more thing. If we were to dispatch the Revenant with a weapon like that, it could end up tearing apart all the souls that make it up. Thousands of existences, shredded into nothingness.”
+
+“Hasn’t that already happened to them?”
+
+“No,” Koyu said. “Pained though they are, they still persist.”
+
+“You want to save them,” Wallace said. It wasn’t a question. “Is that even possible?”
+
+Koyu didn’t reply for a second longer. Then, slowly, he nodded.
+
+“It may be. I have an idea. If the dagger were to slowly draw the power out of the Beast, modified to specifically only target Soulmancy, it might undo the bindings and free those woven within them. It would take time, but we could set the Revenant free piece by piece.”
+
+Wallace’s eyes lit up. “He would just unravel. But I don’t think the Guild’s daggers do that right now. They’re just meant to steal all the power that they can.”
+
+“They are. But that does not mean their nature cannot be changed,” Koyu replied. A spark of excitement passed through his features. “Lillia should still have one of the daggers from Mask. We will need to disassemble it to determine how it was created.”
+
+“Then we can work backwards and make a new dagger that can free the Revenant without tearing apart all the souls inside it,” Wallace concluded with a huge grin. “Brilliant. Do we really have time to make something like that? It won’t be easy.”
+
+A small smile passed over Koyu’s own lips. “There is only one way to find out.”

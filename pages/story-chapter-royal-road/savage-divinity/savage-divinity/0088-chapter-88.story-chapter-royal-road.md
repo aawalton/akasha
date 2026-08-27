@@ -1,0 +1,115 @@
+---
+id: 22b43da8-c442-518f-9907-33906d3a60a6
+page-type-slug: story-chapter-royal-road
+title: "Chapter 88"
+slug: 0088-chapter-88
+partOf: savage-divinity
+position: 88
+ownLength: 3781
+unit: words
+publishedAt: 2016-06-30
+link: "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/79062/chapter-88"
+royalRoadId: "79062"
+---
+
+Leading her Sentinels, Alsantset rode through the shadowy forest as she continued her hunt for the Defiled, the sunlight only barely piercing through the canopy, illuminating enough so they could do without torches. Seven days she had hunted for the Defiled, and if all went well with Lieutenant General Du Min Gyu exiting the camp, then today would be her last day of this abhorrent work. Yesterday should have been her last, but this morning the old General had been fast asleep with no signs of waking to leave, and Akanai had ordered them out, unable to continue delaying, each passing day seeing the Defiled further away from them, frantically fleeing from pursuit.
+
+Were it not for the soldiers Akanai likely would have moved camp by now, but unable to send them away unprotected and without enough Sentinels to escort them, there was little choice but to spend hours riding back to where they last searched, a futile effort that saw the Sentinels fall further and further behind their quarry. The Defiled had scattered, leaderless and without direction, splintering into factions and feuding among themselves. More than once, Alsantset had stumbled across piles of dead Defiled, their bodies hacked apart by their companions and pieces carried away to be used as rations as they escaped to the west and south. Some had slipped north into the mountains and their deaths were all but confirmed, no longer of any concern to the Sentinels.
+
+Having Tokta in joint command was an enormous help to her, as she was still young and many of the older Sentinels were too prideful, disinclined to take orders from a 'whelp' as they put it. Were it not for Tokta following her lead without question despite his seniority over her, she would have had to crack some skulls to establish the pecking order. It was strange, Tokta had been a Sentinel for almost four decades and commanded tremendous respect due to his skills in healing and in combat, yet he cared little for glory, content to simply work as second in command to Akanai, even ceding command to herself.
+
+She chatted with him as they rode, almost half a kilometer apart from one another, speaking cordially through Sendings. “Your little brother learns quickly, he's almost able to recite the book I gave him from memory.” His 'voice' sounded the same as always, even when transmitted through his chi, a curious thing. Sound transmitted through the air, but Sendings were a matter of pure chi, so why did everyone's voice remain the same? “Really gave me a start, waking me with his screams like he did. I hadn't expected him to succeed so quickly, it takes most students months of trial and error to direct their chi properly, even talented little Mila cannot do such a thing.”
+
+Alsantset swelled with pride at the words, happy at her brother's progress, although she had been unable to speak to him this morning as he slept in, exhausted from his ordeal. “He is a clever young man and has been hard at work the past few days. You should not be surprised so easily.”
+
+“Hard work can only explain half of it. You know as well as I do that control over chi is the most difficult process to learn. Quantity of chi will come with time and martial skill will come with practice, but there are some supreme warriors who are never able to exert a significant amount of conscious control over their own chi, only relying upon Insights, Awakenings, or instincts. How was I to know the boy would succeed on his first try?”
+
+She smiled to herself at his defensive attitude, knowing it stemmed from his guilt at allowing Rain to suffer so terribly, blaming himself for not paying more attention. “Everyone goes through that pain at some point when learning to regenerate and there is little you could have done to prevent it. If you recall, I myself failed sixteen times before finally able to regrow a finger.”
+
+“Bah, that is because you lack talent. Your husband was more capable in that regard, he lost a whole foot and he only failed a handful of times if I recall correctly.”
+
+Her mood soured a little at the reminder, her heart aching as she thought of her beloved husband and precious babies. Ever since their adoption, she had never been separated from her family and it was beginning to take its toll upon her. She even missed Suret, this replacement quin nowhere near as affectionate, and Rain was almost never present now, the two of them only able to meet for breakfast and supper each day, except he had slept through today's breakfast, resting after his ordeal. Somehow guessing her ill-temper, Tokta Sent her another message, filled with levity. “At the very least, some good has come from my mistake: Rain will no long be so eager to proceed and finally give me some peace. I swear, the questions the boy asks sometimes fill me with worry. Did you hear, he asked me about growing extra limbs, treating his body as a lump of clay with which to amuse himself with.”
+
+Laughing quietly to herself, she shook her head. “If you think this will dissuade him, you are sorely mistaken.”
+
+“The pain of failure is nothing to sneeze at, girl. I would wager that the boy at least shows some hesitation with regards to continuing, and I would not blame him. A few days for him to study and prepare might do him good.”
+
+“I would wager you any amount that come evening, you will find Rain waiting for you, ready to try once again. He is nothing if not persistent.”
+
+A long pause followed, possibly conversing with his scouts but more likely thinking things over. “No bet. The boy is too unpredictable, nothing like he appears. Did I ever tell you the first time I saw him? A scared little child, standing before the Chief Provost....”
+
+The morning wore on and they soon arrived at their new staging point, the Sentinel's all well-practiced by now, splitting into five man squads and riding about in a long circuit, searching for signs of the Defiled. Tanaraq led the way and Alsantset followed, her mind focused on the task at hand. The trails were easy to follow, the lumbering Garo's leaving plenty evidence of their passing, and soon Tanaraq held her hand to still their group. Unlimbering her bow, Alsantset notched an arrow as she split her squad, encircling the Defiled that camped ahead, the sounds of their movement clear as day to her.
+
+At her signal, her squad burst out of the trees and fired upon the Defiled, a half-dozen warriors falling to their arrows. A small group, she fired twice more before all signs of resistance ended, the warriors and their fearsome mounts exhausted from almost a week of fleeing through hostile territory, an easy victory. There was no glory here, no pride to be had, these Defiled were long since defeated, too worthless to even be reborn as a Demon.
+
+The Defiled only had time to gather into a circle before dying, their bodies laying in a neat clump and Alsantset approached to burn the bodies, unwilling to leave them to stain the land. A flash of movement caused her to reach for her dagger, but she froze in place upon seeing the cause. Five tiny, Defiled children, perhaps eight years old at most, crawled out from the pile of dead, and her heart bleed at the sight, wanting to do nothing more than open her arms and carry them away, knowing that to do so would sentence them to a fate worse than death, to be tortured for the entertainment of the Empire's soldiers.
+
+The order to kill caught in her throat as she watched the tiny children stare at the dead, their little faces contorting into rage and hatred as they reached for their parent's weapons, unable to wrench them free from the death grips, and she thought of her own babies, of how they would fare if she were to fall in battle, how they would react to standing over her corpse, the thought almost bringing her to her knees.
+
+She told herself that they were Defiled, corrupted by the touch of the Father. Despite their age, they were capable of survival and would grow to become fully fledged warriors, possibly even Demons. Killing them here was a mercy, and not letting them die slowly of starvation or exposure, as it was her duty to hunt them all down. Every last Defiled, Akanai had stressed.
+
+But still she stood, frozen in indecision. Kill them, or let them go free?
+
+The world around her rippled as the flesh of one of the children began to undulate as if its body were nothing more than fluid and skin. Ripping a weapon from the grasp of a corpse, it turned to face her, its eyes twin pools of darkness as it deformed and shifted, Alsantset resisting the urge to weep while reaching for her spear.
+
+This was why the children could not be spared, and she thanked the Mother, the decision made for her as she drove her weapon forward to impale the child-turned Demon.
+
+There would be time to cry later. For now, she had bloody work to do.
+
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+Du Min Gyu lay quietly on his back as he rested upon his bed, idling away the time as he tried to come up with a practical excuse to remain in the camp. He had announced on the first day that he would leave after the funeral was over, but after seeing the young girl on the verge of Awakening he wanted to stay and see how she fared. It was a rare thing to come across someone in such a state, and despite his advanced years it was possible for him to have his own Insights from watching her. Even Kai had never Awakened, nor had any of his other Disciples or students. It was maddening that Akanai would not help the girl, a waste of a young talent, and he had tossed and turned for hours trying to understand why she would do such a thing.
+
+Finally unable to stay in bed any longer, he silently summoned Kyung to prepare a bath so as to buy more time. After a long soak and meticulous grooming, Min Gyu had stalled for as long as he could, even going as far as putting on his dress uniform, an ornately patterned black robe with red trim, complete with a wide sash and ridiculous hairpiece that hung a small curtain of beads in front of his face. If he were to leave, then he would leave them with the impression of dignity and gravitas, how a civilized soldier behaved.
+
+Feeling only slightly ridiculous, he stepped out of the tent, doing his best to look imposing as he slowly strode forward, Akanai ready and waiting for him at their table. Seating himself, he instructed his guards to break camp slowly and sipped leisurely at his cup of tea. Damn, who had boiled this tea? It had waited here for him and he had drunk without thinking, but the taste was foreign to him. A smirk from Akanai answered his question and he cursed himself for availing himself to her hospitality. It had been so close, he had managed thus far to avoid accepting anything from her, but this tiny sip of tea had ruined it all. At least it was delicious, a fragrant aroma and a sweet, refreshing taste that quickly dried on his tongue, he could tell it was of high quality, the thickness denoting its age. “Delicious tea.” There was no helping it, he had helped himself to the drink and it would be impolite to simply remain silent.
+
+“Cassia. The forests here are thick with it, it has a calm, soothing effect. I see that your man receives some for your journey north.” She drank her tea as well, her tone polite but not inviting, which suited him just fine as they both lapsed into silence once more. His breakfast arrived, and he ate slowly as the morning wore on, delaying the inevitable. It was impossible to simply stay in the camp but at least she had made no mention of his dallying, allowing him to leave at his own pace.
+
+As he sluggishly marched down the hill away from the camp, he felt a slight pull in the wind, a disruptive flow of air nearby, and he smiled to himself as he changed course, heading towards the source of the disruption while Akanai and his little aide followed him. Moving through the dense trees and into a clearing, he found that his instincts had been correct: the little deer girl was sitting in quiet meditation, her quin curled up beside her, once again struggling to Awaken and accept the Mother's Blessing. Quietly signaling for his chair, he sat facing the girl, waiting patiently for her to succeed or fail, unsure of which to hope for. He was no longer in Akanai's camp, his words had been upheld.
+
+The short jaunt down the hill had set his hip aflame and he packed his pipe once again, smoking leisurely as he watched. Akanai's daughter began playing chess with the slave, and with nothing else to do, he kept an eye on the game as it progressed now that they were playing in his line of sight. After only a few moves, his temper began to flare, and unable to help himself, he opened his mouth to speak. “The slave will never learn if you play like that. Bring the board here.”
+
+After a few quiet looks between mother and daughter, the slave placed the board on his table and stood at attention before him, declining her master's offer of a chair. Idiotic. Resetting the pieces, he gestured for her to begin, and took her king in four moves. They played thrice more, and each time he won in less than a handful of moves, the slave learning too slowly from her own mistakes. “Foolish slave, I don't recall you being so dim-witted. The game is about control and denial, you cannot make so many inefficient moves. Your opening move, how does that aid you in the following turns? Why move the same piece twice, when you could instead free up your more powerful pieces?”
+
+He received no answer, but did not expect one, letting her think through her moves as he promptly won game after game, taking time to elaborate on certain stratagems as he played, and after half an hour, the slave was able to hold out for 10 to 15 moves, a marked improvement. Giving Akanai's daughter a look, he scolded her lightly. “Letting the game drag on for no reason gives her the illusion that she has made no mistakes. That is no way to learn. Failure gives her the opportunity to try again more rationally.” The girl snorted and crossed her arms, and he could sense the dialogue between mother and child, likely unflattering to him.
+
+The sound of his guards apprehending someone made him look away from the game, and his guards soon dragged in the struggling, one-armed Rain. His eyes narrowed at the sight of him, this foul-mouthed braggart that had so antagonized Kai, but he quickly sighed and had his guards release the boy, returning to his game of chess. With windblown hair and ragged clothes, the boy would have looked pitiful even in a city alongside the beggars, there was little point in holding a grudge. Children would speak out of turn, and a savage child could not be expected to be well mannered.
+
+Akanai spoke to the boy, and he listened, affecting an attitude of indifference. “You are well, boy? I heard of your progress from Tokta, your sister is worried for you.”
+
+“I'm fine, thanks. Arm hurts, feels like it's being chewed on by an acid spewing lizard, but other than that, I'm 100%... minus the arm. So.. .92%? I dunno.” The little timid boy kept glancing over, his head down and shoulders slouching, as if trying to hide in his own shadow. Pitiful, this was the child who had upset Kai so badly that he dared to risk antagonizing the Society? Foolish disciple.
+
+“Are you well enough for the Forms? It has been some time since we last trained together, I look forward to gauging your progress.”
+
+Oh? Was the boy Akanai's disciple? Stealthily watching them as he continued to play chess, the boy's Forms impressed him, moving as if unhindered by his missing arm with a grace and poise rarely seen in one so young, his beautifully crafted sword moving in deadly arcs as Akanai looked on and corrected a few of his movements. Difficult as it was to admit, he was more skilled than Kai had been at his age, more skilled than any young talent he had ever met, but in the end, it was only demonstrating the Forms. Warriors who focused solely on the Forms were quickly overshadowed by others who spent the time and dedication learning to manipulate their chi. The little deer girl would surpass him in a year if she were not already stronger than him, the half-beasts usually only surpassed by humans later in life.
+
+He studied the boy's movements for a moment, Prancing Stride combined with Rising Steps, while his arms struck out savagely, Darting Fang and Uplifts the Sequoia, four Forms at once, all working in harmony. Power and grace, the boy moved and reset, trying it again and again, adjusting his movements each time, learning through trial and error. Two steps, stab, twist and gouge, and he would stop, shaking his head at some problem, before trying again, all while Akanai watched silently, offering no guidance for his problem. A chance to show his superiority at last.
+
+Smiling to himself, he strode forward and took charge. “Hmph. Feel honored boy, for I will explain for you what it is that you have yet to grasp.” The boy jumped aside at his voice, his eyes wide as he backed away and Min Gyu smiled wolfishly at him, holding his attention. Shedding his outer robes and allowing Kyung to catch them, he stretched his arms and knees before he began. “Observe.” Moving slowly, he performed a half-dozen variations of the first two movements while lecturing him. “The strength comes from the footwork, rather than the final attack. Toe-heel, slide and step, four parts to the movement, and after each part you can feint or attack. There is no need to limit yourself to attacking after the full movement, or even using the same attack each time. You could perform Swiping the Rushes, or step back with Gliding Wing, or move into an even closer position with Balance on Windy Leaf. Those are just a few options, there are endless variations to this subset of movements. There is no 'correct' combination as you seem to be searching for, rather they all have their place.”
+
+Throwing a smug smile at Akanai's impassive expression, he saw the understanding in the boy's face and basked in the immense satisfaction that came from having guided a young talent. Straightening up, he arched his back, eyes shut in a grimace as he worked out the knots in his spine. Lamenting in silence at how age was the one enemy he could not defeat, he slowly shuffled back to his chair, content over his minor victory over Akanai, packing his pipe once again to ease the aches.
+
+Ordering his guards to begin cooking a lavish lunch, he chuckled to himself at his devious plan. He was outside of Akanai's camp, he had given instruction to her disciple, and now, he would have her eat at his table, playing the gracious host in contrast to her inhospitable demeanor this past seven days, shaming her actions with his superiority. While he laughed silently, the boy continued to practice under Akanai's watch, but she stopped him only after half an hour, citing the need to rest. With all his other flaws, the boy lacked stamina as well. Shameful. “Your progress is barely passable, but this is all for today. I heard that Tokta had to cut a tumor the size of a fist from you, it must have been unpleasant. Do you intend to return to your healing tonight?"
+
+“Absolutely. The sooner I finish regenerating my arm, the happier I'll be, the pain is worse than I expected, but I'll manage.”
+
+Hearing their conversation, Min Gyu could not help but stare in disbelief, his mind racing to decide if he had heard wrong or misinterpreted their conversation. “Boy, you are not having your arm regenerated, but actually learning on your own?” At the boy's affirmation, his mind began to spin as he worked through the implications. Talented, far too talented, for Akanai to have so many prodigies in her care was simply the Mother showing favor! The daughter, the deer girl, the boy, and even the slave now, each of them were tremendously talented, and who knew how many others Akanai had hidden away? It was no wonder she could be so indifferent to the deer girls plight. It was simply unacceptable, that hateful woman could eat the loss of a single one without shedding a tear.
+
+Unable to contain his indignation, he marched himself to the deer girl, rudely interrupting her mediation without a second thought. “Your name?”
+
+Blinking as she came out of her trance, the deer girl looked forlorn and upset, stuttering over her words. Stomping his foot into the grass, he left a small indent and snarled, “Are you daft, girl? I asked for your name!” The wind fluttered up around him, raising grass and dirt in his anger.
+
+“Lieutenant General, this one's name is Adujan.” Startled, yet still able to show deference, she replied in the manner of a soldier. Good.
+
+Throwing away all propriety, he announced his intentions for all to hear. “As you already know, I am Lieutenant General Du Min Gyu. Should you wish to become my student, then kneel before me, kowtow thrice, pledge obedience, and I shall raise you into a warrior without peer.” He stood proudly, his arms behind his back, head held high, waiting to hear her gratefully accept his tutelage, along with the torrent of anger and indignation from Akanai, then envy of the other children.
+
+And he waited.
+
+And waited.
+
+...
+
+How long was this damn brat going to make him wait?
+
+Chapter Meme

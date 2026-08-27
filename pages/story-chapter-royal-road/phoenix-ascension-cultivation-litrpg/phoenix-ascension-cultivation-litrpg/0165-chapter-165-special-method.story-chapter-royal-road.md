@@ -1,0 +1,263 @@
+---
+id: db9a6991-a78c-5c80-9a4f-af00a4e6cda1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 165: Special Method"
+slug: 0165-chapter-165-special-method
+partOf: phoenix-ascension-cultivation-litrpg
+position: 165
+ownLength: 2278
+unit: words
+publishedAt: 2026-08-20
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3838163/chapter-165-special-method"
+royalRoadId: "3838163"
+---
+
+“Damned Jade Emperor bitch, what the fuck?!” I couldn’t help but scream, garnering the attention of enough people to make it awkward.
+
+The elder kept her smile, ignoring the countless stares directed at us, which quickly went back to ignoring us.
+
+“Oh dear, why such a reaction?”
+
+“You keep popping up behind me like a damned ghost! Leave me alone already.”
+
+“Oh, I am no ghost, not yet at least. Just someone very interested in you. My apologies if I made you uncomfortable.”
+
+What do you mean not yet? Did she feel my Ghost Qi Cultivation technique? But I’ve been suppressing it this whole time.
+
+Doubts arose in my mind as I looked at her. She softly turned her head toward a restaurant. “Should we discuss things in a more reserved place?”
+
+At that point, I couldn’t hold back my curiosity. Nodding, I allowed Elder Su to lead the way, and we entered the restaurant. The staff bowed to her, and we went straight toward the top floor, where there were only two rooms, both private and sealed with many formations.
+
+She gestured for me to sit down, and I did, and she followed suit. Now sitting across from each other, the elder’s smile had not disappeared from her lips, and it was rather… eerie.
+
+“Let’s cut to the chase,” I said without bothering with any pretense or any polite words. I was not into those sorts of games.
+
+“I like a woman who knows what she wants.” Elder Su said while reading the menu. “But we aren’t in a hurry. Let’s savour this moment.”
+
+“I have to fight in the tournament tomorrow,w and I’d rather not spend my entire evening talking with a stranger.”
+
+“I see.” Her smile faded a little.
+
+“Please understand and get straight to the point.”
+
+Elder Su rolled her eyes. “Youth these days…” Then her expression turned neutral, and a chilly aura filled the room. It was familiar, as it was the Yin energy of someone who practiced a Ghost technique.
+
+That was nice and all, but what did it have to do with me?
+
+“I see. And what do you need from me?”
+
+“I sense that you too use a similar technique, though I understand why you would want to hide it.”
+
+Besides the fact that it makes me look like a ghost?
+
+“Interesting. I haven’t sensed it from you.”
+
+“Well, of course, that’s only natural considering our cultivation levels are so far apart. You suppressing it is far from enough to hide from… me…”
+
+As she was talking, I’d realised that I wasn’t actually using Perfect Disguise on the Ghost Qi Technique. What a silly mistake.
+
+When I’d put the technique under the skill’s jurisdiction, the woman, Elder Su, stopped talking.
+
+“I wasn’t aware I wasn’t hiding it properly. This should do better, I hope.”
+
+“Y-Yes…” That was all she could say. What was there to say, after all? I’d just spat right into her mouth while she was talking.
+
+Anyway, not that I cared. She was the one who wanted something from me…
+
+Yet another one that wanted me to do them a favor. Was this ever going to end, or would I get stuck in a favor-granting cycle?
+
+Not that Meng Mao’s favors were that bad; I did profit a lot, after all.
+
+However, I barely knew this woman. I would much prefer it if she didn’t bother me while I was trying to enjoy the visit.
+
+Not to mention the fact that I had a tournament the next day.
+
+“ Well, since you also use a similar technique to mine, I was thinking we could strike up a deal. I can tell you more about a secret place in the Four Corner Sword Realm, and in exchange I want you to bring me something from within. I only want one thing, and it is very valuable. Everything else you find is yours to keep.”
+
+I squinted, regarding Elder Su with suspicion. Some things were too good to be true, and I had a feeling she was definitely scamming me.
+
+“Don’t look at me like that.” She chuckled nervously. “I have both of our interests in mind. As you well know, these sorts of techniques are frowned upon. Right now I have reached a bottleneck and cannot advance any further, much to my dismay. However, with the thing I would like to ask you to get for me, I will be able to finally break through and advance past the Core Formation stage.
+
+“And not only will you get plenty of benefits from this exchange, as my position within the sect would increase, but anything else you find inside that place of the Four Corner Sword Realm is yours to keep. I’ll have you know, very few people know about the deeper secrets inside that place. The things in there will also help you.”
+
+I couldn’t help but raise an eyebrow. How could there be such a thing as a free meal? So many benefits… my ass!
+
+Although I was curious… A secret place within a secret realm… That was a little funny.
+
+“So you want me to do the dirty work for you?”
+
+“Aw, don’t put it like that. It’s just a simple exchange. I only want you to bring me something within the realm,m and in exchange for a lot of benefits, ts no less.”
+
+“Do you think I was born yesterday? I would much rather appreciate it if you were honest with me.” I sneered, but stopped talking as a waitress gave us a drink and a menu.
+
+“I will return in ten minutes.” She said simply, then left.
+
+I wasn’t sure what sort of drink she’d given us, but it was pink. It did look a little appetizing, but I’ve had bad experiences with pink stuff before.
+
+Elder Su nodded and took a sip. “You’re right. Since I can’t join the realm anymore, I can only delegate this task to someone else. The truth is, I only have the location of the place within the realm, and no further information about it. I did buy it from a credible source, but they mentioned that they couldn’t enter because of a cultivation technique restriction.
+
+“They described the entrance as extremely thick with Yin Qi, and after doing some research on the Four Corner Sword Realm, I’d found out a big secret.
+
+“The sword belonged to a ghost cultivator.”
+
+“Fuck off.” I almost spat in my drink. “How could ghost cultivators reach such a high level? You’re talking realms above the Nascent Soul here!”
+
+Her eyes narrowed, but the smile on her face didn’t fade. “You’re right. But just because someone follows the path of the Ghost doesn’t mean that they cannot reach higher cultivation levels. All one needs to know is how to suppress and use the transformation to their advantage.”
+
+I took in her words. Now that I’d thought about it, she didn’t show any signs of being a ghost despite using such a cultivation technique. I had yet to find a way to modify the technique I used.
+
+Sadly, it was still the only cultivation technique I could remember. If it weren’t for Meng Mao’s sons, I would have been stuck using it.
+
+However, I did have two opposing techniques now. My original intent was to cleanse my body of the Ghost Qi Technique, but if there was a way to use both at the same time…
+
+Well, cultivating both Yin and Yang wasn’t exactly recommended, but it was doable.
+
+The Yin of the Ghost and the Yang of the lightning… Interesting.
+
+Suddenly I wanted to hear out what this woman had to say.
+
+I smiled and took a sip of the drink.
+
+It tasted awful.
+
+◈◈◈
+
+Elder Su finally left me alone after we’d struck a deal.
+
+Much to my surprise, System gave me a quest.
+
+[Quest]
+
+[Bring Elder Su the item she wants.]
+
+[Reward: Unknown]
+
+I had to accept it, of course, but that didn’t mean I appreciated System giving me extra rewards for things I wanted to do either way!
+
+No matter.
+
+Elder Su told me more about the secret realm. The one thing she knew for sure was that the first level would always be open. That was the only place where I could enter the secret place and snag whatever it is she wants me to get.
+
+She didn’t go into detail, but told me that I would know once I saw it.
+
+Very helpful, woman.
+
+The method to reach the secret area was to keep walking north. Just… go north.
+
+I… was a little flabbergasted, but then again, nothing much could surprise me anymore.
+
+At the same time, I felt like I’d gotten cheated. I had one in eight chances to find the secret area myself… That was;alie, the chances were much smaller.
+
+However, it seemed a little absurd, didn’t it?
+
+With that, she also told me how she suppressed her own ghost transformation. It turned out that the method was very simple, though very valuable.
+
+Although it was also a little stupid.
+
+Use the Yin energy you gathered when cultivating to create a mirror image of yourself in your dantian.
+
+All the ghost-like attributes would go to it, while you kept all the cultivation benefits.
+
+The downside was that you couldn’t get rid of it, as it was directly tied to your strength.
+
+That wasn’t even the worst of it, actually.
+
+If it got too strong and gained sentience, then you had to be on the constant lookout for a surprise attack.
+
+Like having an assassin after you, and knowing he is after you, but not being able to do anything about it.
+
+If the ghost image got too strong, then it would be able to take over your body and… live as yourself?
+
+I could not help but wonder how that would work. I’d seen many things in my past life, and ghost possessions were never good.
+
+However, I hadn’t heard of anyone actually succeeding.
+
+And I’d lived for a long time.
+
+Maybe the laws were different in this place, given that there was a system.
+
+I just found it hard to believe that anyone could survive with such absurd amounts of Yin Qi in their dantian.
+
+But the benefits would be… amazing. If one didn’t die, of course.
+
+I would need to practice with the technique Elder Su talked about.
+
+And of course, her cultivation technique was to be kept a secret. Many people believed that she was using an ice technique, given the similarities.
+
+Why anyone sane would want to cultivate using a ghost technique wasn’t my business, though.
+
+Well, it was now, since I wanted to do it.
+
+With that information stored away in my brain, I left Elder Su alone, uninterested in the food the restaurant had to offer.
+
+Since I’d accepted the quest, I couldn’t fulfill her request.
+
+Which was fine, since it would benefit me as well. In fact, it’d already benefited me a lot.
+
+Sadly, since she’d taken up so much of my time, I had no choice but to leave the pagoda. A lot of time had passed, and I wanted to rest a little.
+
+Reluctantly, I went back to my lodging and saw the young boy servant waiting for me. He bowed when I entered, and I felt a little bad for making him wait.
+
+“Have you been here this whole time?” I checked.
+
+“Yes, Mistress.”
+
+“Don’t call me that.” I frowned upon hearing that. It sounded wrong.
+
+“Er- what should I call you then?”
+
+“Miss is fine.”
+
+“Yes, Miss.”
+
+I sighed and slumped on the bed. I had a sudden appetite for fruit. My day had been pretty sour, especially after I’d gone into the pagoda.
+
+A little something sweet should make me feel better.
+
+“Can you go fetch me some fruit?”
+
+“Of course. What sort of fruit?”
+
+“Anything is fine.”
+
+“Yes, Miss.”
+
+The young boy left, and I waited a minute to make sure he was gone.
+
+Then I sat cross-legged and started, for the first time in a while, practicing the Ghost Qi Technique.
+
+I had to try that woman’s method out at least once, didn’t I?
+
+Reciting the mantra in my head, I managed to get some Yin Qi into my meridians.
+
+It’d been a while since I had it course through me, and it was really chilly.
+
+Thankfully, I had two sources of yang to keep me warm.
+
+Instead of absorbing all of the Yin, though, I separated them into energy and Qi. Taking in the Qi for myself, it sadly dissipated into thin air. I really couldn’t absorb any more Qi no matter how much I wanted to.
+
+However, the Yin Energy that entered my dantian collected at the top of the lake, not that far away from Mother’s egg.
+
+There, it began harnessing and remained as a small sphere of energy. It did nothing else, of course.
+
+Still, it was pretty easy, and so far there were no negative effects.
+
+Happy, I stopped cultivating for the moment and waited for the boy to return.
+
+He came back soon with an entire basketful of spirit fruit.
+
+That was a little more than I’d asked him.
+
+Maybe it was just common courtesy in the Reaper Sect to offer expensive snacks to the guests.
+
+Nevertheless, I grabbed something that my identification skill told me was called ‘Purple Apple Fruit, ’ which was hilarious.
+
+I bit into it, and what I got in return was… A very bitter taste.
+
+Ptiu.
+
+I spat it out, but unintentionally hit the young boy in the face.
+
+He cowered, shivering and almost dropping the fruit basket.
+
+“I’m sorry!”

@@ -1,0 +1,137 @@
+---
+id: 5aecf665-799d-5681-90a5-1177556e1733
+page-type-slug: story-chapter-royal-road
+title: "Chapter 75"
+slug: 0075-chapter-75
+partOf: savage-divinity
+position: 75
+ownLength: 3655
+unit: words
+publishedAt: 2016-06-01
+link: "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/73621/chapter-75"
+royalRoadId: "73621"
+---
+
+The all too familiar barking of my dog greets me as I open the door, and a few seconds later he bolts out, yipping and crying in happiness. Kneeling down, I let him run circles around me, jumping into my arms for a second, only to realize he's too excited to stay still as he struggles out of my embrace, only to repeat it all, his tail wagging so furiously that his furry butt sways back and forth.
+
+“Hey boy, you missed me didn't you? I missed you too.” Tears of joy are in my eyes at the sight of him, black-furred and floppy-eared, large eyes looking up at me in happiness, his muzzle whitened with age, he still acts like a puppy. His head bumps into my chest and nuzzles there, relishing in the vigorous head scratching that I deliver, pawing at me as if to check that I'm really here. “Who's a good boy, yea -”
+
+I freeze mid sentence, my mind blank.
+
+What's my dog's name?
+
+…
+
+Waking lazily in my comfortable bed, I snuggle deeper into the warm blankets, wiggling slowly as I stretch my lower back in a slow, lazy manner. Yawning lightly, I turn to my side, placing my arm around my wife, feeling her smooth skin beneath the covers. Caressing her gently, I kiss her bare shoulder lightly, enjoying the simple contact with her before our busy day truly begins. Reacting to my touch, Lin snuggles back into me, her long, black hair brushing against the side of my face, languidly blinking her eyes as she smiles, speaking softly. “Morning Hubby.”
+
+“Good morning, wife.” Nestling in my embrace, Lin closes her eyes once more, not yet fully awake. My sweet wife is not a morning person, too fond of lazing away in bed with me, and if I let her, we would be here all day. We have orders to fill, pills to make and herbs to pick, but a few more minutes can't hurt. We have a good life together, safe and simple. My eyes close as I take in her scent, a flowery smell of spring, my arms tightening around her delicate waist, holding her close to me. Her hips begin to press into me, drowsily enticing me in her sweet, innocent way. My passion mounting, I begin kissing her neck and ear, my hands wandering about her body as we lay intertwined together.
+
+Turning to face me, she kisses me deeply, pushing me on my back as she climbs atop me. After a long, passionate kiss, she sits back, smiling at me, and I stare lovingly at Mila's cute, freckled face and silky, red hair, her panda ears twitching as she straddles me, smiling in her adorably shy, seductive manner. “Pervert. Always the same, first thing in the morning.”
+
+Sitting up, I kiss her once more, enjoying the weight of her pressed up against me. After a moment, I flip her onto her back, delighting in her laugh as her long, shapely legs wrap around my waist. “It's your fault for being so damn beautiful, love.”
+
+“Hmph. That's fucking rich, coming from someone who thought I was a man.” Yan's teasing grin looks up at me as I stare down at her, my arms pinning hers lightly to the bed. She's never let that go, teasing me endlessly about it despite years of marriage. Biting her shoulder lightly, she squeals lightly beneath me, her body rubbing against me, playing at being the helpless victim. My excitement mounting, I tear off her sleeping garments, revealing her full, luscious body beneath, savoring the sight of her large, perfect breasts and firm, toned bony.
+
+“Are you just going to look, or will you take action at some point? Some of us are not so young anymore.” Akanai gives me a wry grin, her hips moving suggestively, her body perfect in every way. How did I ever get so lucky?
+
+…
+
+The smell of coffee invades my nostrils and I take a careful sip from my cup, hot, sweet, milky, instant coffee, just the way I like it. I can't decide if I enjoy coffee with milk, or milk flavored coffee. It's just one of those myths about growing up that I've come to realize aren't real. I thought there would be this zen moment where I would realize that I'm an adult, with responsibilities, and all of a sudden all I would want to do is play board games and drink black coffee, gushing over politics and recent events. Instead, all I've gotten is older, still laughing at fart jokes and playing video games, going clubbing and drinking, despite almost being 30 years old.
+
+Ah yes, morning introspection with coffee, how I've missed you. Curled up on my chair, reading mildly entertaining things on my computer, before the morning rush to get to work, doing what I love. Holding my mug in both hands, the warm sensation fills me with a happiness I haven't felt in years. God, I never thought I would miss going to work. Why haven't I been going to work lately?
+
+“More coffee?” Mila comes by with a tray of breakfast and another cup, placing it in front of me.
+
+Once all the food is safely out of her hands, my arm snakes around her waist and I pull her into my lap. “You treat me too well, love.” After a long, passionate kiss, I eat my breakfast with enthusiasm, while Mila hums beneath her breath, a familiar tune, but I can't quite place the name of it. What is it called? It's a ballad, from a popular artist, that was in a popular movie. Maybe I should just ask her.
+
+...
+
+“Rain, come, the children asking for you. Come and take care of your little brats.” Yan walks over and dumps two squirming kids into my arms, a wry smile upon her face. She talks a big game, but she loves the kids even more than I do, doting on them, spoiling them to no end. A boy and a girl, both with amber eyes just like mine and horns just like their mother's, they are my babies and I love them more than anything in the world. Laughing wildly as we run, I bring them out to the lake, taking them to swim and splash in the water, while the quins swim around us, playing fetch and acting adorable. Zabu floats by on his back, little quin pups snuggled against his chest, a picture perfect scene of serenity amongst the chaos of play.
+
+“This is pathetic.” Another me stands in front of me, and somehow I'm no longer in the moment, but rather outside looking in, standing with … myself. “Your dreams are so mundane and meager. You are a coward even in your fantasies. Family and children, this is the sum of your ambitions?” Despite sharing the same face, my doppelganger brings out feelings of anger and hatred in me. Immediately upon looking at him, I want him dead and gone. He does not belong here.
+
+Taking a deep breath, I calm myself, turning back to my beautiful family. Who cares about him, I have everything I need here.
+
+Song leans on my shoulder and my arm wraps around her waist. We had a rough start, but we were meant for one another, two people brought together through mutual experiences. I can talk to her about things that I've never spoken of to anyone. I just want her to be happy, happy wife, happy life. Dad used to always say that, and Mom would always reply with the same question: 'If that's the case, then why are you so happy? You have another wife I don't know about?'. Then we would all laugh and smile, together, as a family.
+
+I miss them so much.
+
+…
+
+“What's the matter Daddy?” My beautiful, bunny-eared child looks up at me, her arms raised for a hug. Clutching her to my chest, I let my tears fall freely as I hold her in my arms.
+
+“Nothing is wrong sweetie, Daddy is just so happy to see you.” Kissing her on the brow, I begin singing for her as she nestles in my arms, my cheeks rubbing against her soft, furry ears. She has her mother's ears, and my eyes, a beautiful, sweet child. Lin joins us, singing along with me, and we sit together, one happy family.
+
+“Fool. You are wasting our time here, risking everything for pathetic lies.” Again, I stand in the void, alone with myself. The jackass is back, his scornful amber eyes upon me as he smirks at me. God, do I always look like such an asshole? No wonder I keep getting into arguments with strangers. “They aren't real. How can you not see that? Most of theses people don't even have faces, this hallucination is pitifully weak.”
+
+“I KNOW!” The words erupt from my throat, and the stranger looks up at me from the ground, my hand clamped about his face and throat as I choke him. His amber eyes watch in a panic, pleading wordlessly with me as his scrawny hands claw at my arms, but he is weak, and I am strong. “SHUT your fucking mouth! You think I need you to tell me that? I know, and I don't FUCKING need you ruining everything.” His face turns deep red, then purple, his struggling beginning to intensify as he flails his feet at me, struggling for life. “I don't care if it isn't real, I'm happy here. I deserve to be happy! So FUCK off and die. Please.” I squeeze harder, and his face deforms as my fingers dig into his flesh. Smashing him against the ground, I continue until he is nothing but a lifeless pulp.
+
+My chest heaves as the anger flows out of me, leaving me empty once again. Turning back to the dream, I watch countless visions of myself living lives that are perfect in every way, yet each is different. I try to immerse myself in one of them, any one, but my heart is no longer in it, the illusion shattered, the veil lifted. I just watch as time passes, living a thousand lives and then living a thousand more, all in what feels like the blink of an eye. I become a warrior, a healer, a politician, a teacher. I have wives and children, grandchildren and pets, surrounding myself with love and affection. I defeat my enemies, overcome my hardships, earning the respect and adoration of all, and watching it all just feels so empty.
+
+I see now that they are merely dreams, self-serving, incoherent, almost masturbatory situations, sad imitations of true happiness. I knew there was something wrong, knew it was all too good to be true, but I wanted it to be real so badly. No more struggling, no more pain and suffering, no more fear and worry, just... happiness. The loss of peace and serenity causes my chest to feel as if a hand was clutching my organs, crushing me from the inside. I pray and wish that things were different, that life was different, but it isn't.
+
+This is my life.
+
+“Do not do that again, it was extremely unpleasant.” My other self returns, looking petulant, a child who has been scolded, only somewhat repentant, but more hesitant than before. “You do not need this dream. You risk your life for these empty promises, when you could simply reach out and grasp this in reality.”
+
+Shaking my head at him, I wave dismissively. “You don't get it, asshole. Sure, I can find a wife, have some kids, do whatever I want, but at the end of the day, the world is still shit, full of things and people trying to kill me all the time.” My eyes close as I try to remember the feeling of safety, of not having to worry. “I'm exhausted from being angry all the time, from always being vigilant, from almost dying multiple times a day. I just want to rest and relax, a small break from the hell that is my life. Is that too much to ask for?”
+
+“You can rest when we are dead, brother.” Ugh. I fucking hate this guy. Frowning at him, I study my doppelganger. I can't stand the sight of him, and after thinking on it, I might know why. He stands there, back straight, head held high, his tone smug and superior, words spoken slowly and clearly, blunt and without care, pointing out my flaws and shortcomings. He's just so damn confident, it makes me want to tear his throat out. Why can't I be like that?
+
+Halfheartedly waving him away, I go back to watching my dreams. “Stop talking to me and leave me alone. Only crazy people talk to themselves.”
+
+“Well, we aren't exactly sane, now are we? Is that us petting a rabbit? Damn it, have a little pride in yourself. We are warriors! At least dream of an orgy or something.” He appears in front of me, blocking my view with hands held up in submission, calm and in control despite the fact that I could crush him like a bug. I hate that fucking face. It doesn't belong to me, it belongs to Rain, and it irks me that I wear the same one. I can't remember what I used to look like no matter how hard I try. “I just want to talk, to understand what we are doing here.” Reaching out, I rip the skin from his face, peeling it off like a rubber mask, exposing the flesh and bone beneath, almost cartoonish in its appearance. A useless gesture, as he continues to stand there, unperturbed. Rolling his eyes in a ghoulish manner, he shrugs. “If it makes you feel better, we can talk like this. My appearance does not matter.”
+
+My stomach curls at the sight, like looking at an anatomical model, the muscles and veins in the face still wet and throbbing. Throwing the skin mask at him, it adheres to his face and once again he is whole. “Fine, talk. What do you want?”
+
+He pouts as he touches his face and begins to pace, looking every bit like a tiger within a cage, powerful strides almost shaking the ground. “You have complete control in here, it is unfathomable. How are you so strong, yet still so weak out in the world? You waste your time in these worthless dreams, while every moment that passes brings us closer to death in reality. You could throw aside the Demon's attack in a heartbeat, but you persist within it, and it vexes me.”
+
+“Yeah, no, that Demon kicked my ass. One hit K.O. Pretty sure this is just a weird, lucid dream.”
+
+“You worthless fool.” I never knew I could look so conceited, like a little brat who thinks he knows everything. I'm starting to understand why everyone I meet seems to despise me. It's my face, so bitchy and proud. “You cannot hear the voice of the ancestors because you reject them. Open yourself to your anger, your rage, your hatred, and their strength will be yours. This dream IS the Demon's attack.”
+
+Sighing deeply, I crouch down and lay my forehead against my knees. Great. As if talking to myself wasn't bad enough, I'm talking to a version of me that is bat-shit crazy. “So, you talk to dead people. Great. Go away now.”
+
+With a thought, he begins to disassemble, pixels breaking away to pieces, fading as he disappears into the void. “No, stop! You need to wake up! We must survive!”
+
+“Yeah, okay, bye bye now.” Waving at his fading form until nothing remains, I return to watching the dreams, trying to immerse myself within them once again. I'd almost forgotten what it feels like to be carefree and content, forgotten my life before this one, but the small glimpses of what I had was enough to let me know what I was missing. No more training until I am so exhausted that I can finally sleep, no constantly checking for hidden dangers, no worrying whether a stranger wants to murder me because of an off-hand comment. Just a quiet, peaceful existence with my family, both old and new.
+
+Why can't I just stay here forever?
+
+A memory jumps out from among the others, calling to me and I focus, drawing myself into the illusion, living within it and not watching. Success. I'm sitting on a familiar, beat up couch, the dog curled up beside me, the two of us watching a screen, flicking through different scenes without really paying attention. The emotions flood into me, and I feel despondent, discouraged by the lack of replies, jobless due to 'corporate restructuring'. With no other options available to me, I've moved back in with my parents, unable to afford living on my own anymore, a failure. No girlfriend, no home, no job, I live a  worthless existence. The channels flick by, my eyes unfocused as I seek distraction from my problems. Not exactly the feel good memory I was going for.
+
+My parents walk in, moving me aside so they can sit on the couch with me. “You've been sitting around for a few days now.” There is no accusation in my dad's voice, just a plain statement of fact. I shrug in answer, watching some mindless people chatter about mindless things on-screen.
+
+My mom reaches for the remote and turns off the screen. “Look at us, Rayne.” I turn towards them while avoiding looking at their faces, knowing that if I do I will see no details. I don't need to see them, I just want to hear their voices, feel what it was like with them. “All you're doing is hiding, and that solves nothing.”
+
+I want to tell them everything that has happened, that I miss them and love them, but the words freeze in my throat, with predetermined ones falling out. “What else am I supposed to do? I worked hard, piled up debt so I could go to school, worked hard at my job so that I could earn a living, and what do I have to show for it? Nothing, except for more debt. Ten years of hard work, and here I am, 30 years old, living with my parents. It's fucking humiliating.”
+
+My mom is unphased by my tantrum, her hand reaching out to hold mine, squeezing with reassurance. “I understand, you're angry, and that's fine, but you can't let it control all of your actions. It's time to move past it. There are things in this world that you cannot control, but you can't let that stop you from living your life. If all you do is worry about what might happen, then you might as well just give up.” Her tone softens, and she takes me into a warm embrace. “But you are not a quitter. I know this, because you are our son, and you will always have us to fall back on. We love you, Rayne.”
+
+My dad pulls the both of us into a hug, chuckling. “Don't worry son, I like having you around. It just means that I don't have to mow the lawn anymore.” The scene fades away as we laugh together, and I stand in the void alone while tears stream down my face.
+
+Question asked and answered.
+
+Despite knowing they can't hear me, I say the words that I wish I could have told them. “Mom, Dad, I'm sorry I couldn't say goodbye. Take good care of my dog, please. Thank you for everything. I love you.”
+
+After what feels like an eternity, I finally stop crying and sit down, thinking over my Mom's words. My head feels clearer than it has in weeks, a fog lifted from my mind. I don't know if that was a real memory, or if it was just a dream, something I subconsciously know, but I needed to hear.
+
+Get past my anger and stop hiding.
+
+Don't worry about things I can't control and just live my life.
+
+Most importantly, I have people who love me, family and friends that I can rely on.
+
+New rules to live by, one step at a time.
+
+With one last, wistful look at the myriad of dreams, I close my eyes and will them away. I feel them shatter and crumble around me as the world falls apart, and when my eyes open once again, I am staring up into the starry night sky, as I lay upon a field of dirt, blood, and corpses, my body shivering in agony from broken bones and overtaxed muscles.
+
+I immediately regret this decision. The real world sucks.
+
+Struggling up while choking down my screams of pain, I sit, exhausted and overwhelmed. I should have stayed asleep. Maybe it's not too late and I can still go back if I just concentrate.
+
+A crash of steels sounds beside me, and I open my eyes in time to watch a giant, bone-white creature crash to the ground only a few meters away, sliding in the red mud. The Demon Formerly Known As Vivek looks somewhat battered, its bony protrusions on its back broken and snapped, several gouges in the previously smooth frame of its new body. The wide, flat face looks up at me with black eyes staring in fury as I stare back, too afraid to even blink. Akanai enters my peripheral vision, close by with her weapon held limply, looking tired and drained, her strength spent. The Demon struggles to its feet and grabs a nearby corpse, devouring it whole, grinding it to paste within its mouth, the wounds on its body healing before my eyes, a pearly, lustrous sheen emitting from its bone-like frame, growing and repairing before my eyes.
+
+Tch.
+
+Fuck my life.

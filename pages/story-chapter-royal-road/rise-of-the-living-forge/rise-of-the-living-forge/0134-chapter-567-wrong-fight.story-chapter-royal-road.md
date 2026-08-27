@@ -1,0 +1,159 @@
+---
+id: 145a1007-a989-5d01-8ea4-b1d2cfd413de
+page-type-slug: story-chapter-royal-road
+title: "Chapter 567: Wrong Fight"
+slug: 0134-chapter-567-wrong-fight
+partOf: rise-of-the-living-forge
+position: 134
+ownLength: 1817
+unit: words
+publishedAt: 2026-03-03
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3112067/chapter-567-wrong-fight"
+royalRoadId: "3112067"
+---
+
+Rodrick’s eyes went wide.
+
+He lurched back, instincts screaming a warning an instant before the ragged man appeared directly before him. The only thing that saved Rodrick was his preemptive dodge. A  leg blurred through the air where his head had been, whistling with the force of its passing. A second blow came followed it so fast that there was no time to even think about dodging.
+
+The world blurred around Rodrick. He hurtled to the side, smashing through a building making up a wall of the alley with a loud crash. Pain exploded through his arm. He rolled over and forced himself upright, gritting his teeth.
+
+His armor was cracked. Blood trickled down from his arm where his defenses had shattered beneath the force of the single strike and dug into his own skin.
+
+Disbelief swirled in his stomach. That had been a normal blow. There hadn’t been any magic or ability supporting it. The ragged man was just so unbelievably strong that he’d been able to crack armor that Arwin had made in one strike.
+
+Magic energy trickled out of Rodrick as the armor started to repair itself. He kept himself ready to dodge, his senses honed for the slightest indication of a follow-up attack, but none came. There was nothing but dust and debris.
+
+Rodrick edged forward. He stepped back out of the building and onto the street, where the ragged man stood idly, watching him with a mildly interested expression.
+
+“You survived,” the man said.
+
+“You don’t have to sound so impressed about it,” Rodrick said. “It’s insulting.”
+
+“Didn’t mean to be,” the other man replied with a one-shouldered shrug. “That just doesn’t normally happen. Your armor is impressive. Most things don’t usually survive a hit from me. What else can it do?”
+
+What kind of monster did the Guild bring here? I’ve never heard anything about this guy. Not even in the Secret Eye’s records.
+
+“Thank you,” Rodrick said. “Unfortunately, this is it. The armor is spent. It doesn’t do anything else.”
+
+“Oh. That’s a little disappointing,” the ragged man said. “Well, you survived one blow. That’s not too bad at all. What was your name again?”
+
+“I never said.”
+
+“Most don’t get the chance. The Guildsmen call me the Beast,” the ragged man replied with a weary shake of his head. “Horrible name. You should choose one for yourself before some fool does it for you. Well, you should have. It’s a bit too late, now.”
+
+Then the Beast was gone.
+
+Rodrick dropped to the ground and rolled. At the same time, he activated the Chameleon’s Shadow’s ability, vanishing from sight.
+
+Stone shattered as the Beast’s foot slammed down on the spot where he’d been moments before. The ragged man paused, tilting his head to the side as he looked at the spot where Rodrick should have been.
+
+“You liar,” the Beast said. “That wasn’t all your armor could do at all.”
+
+Rodrick’s hand tightened around the hilt of his sword. Power flowed out from him and into the blade. Normally, that would have made it glow a brilliant yellow. But he wasn’t the only thing that was invisible.
+
+His weapons were just as concealed by his armor as he was. That included the magical glow that his abilities put off. Perhaps that was a bit unfair. Invisibility was already a rather annoying ability. Being able to use magic without even the slightest indication of its activation was straight up ridiculous.
+
+But Rodrick had never been particularly interested in a fair fight.
+
+He flicked his sword for the Beast’s neck. It cut through the air soundlessly, a practiced motion that he’d done thousands upon thousands of times before.
+
+The Beast’s head snapped to the side. Rodrick’s blow passed straight through the air, catching nothing but the wind in its path.
+
+Another warning trilled in the back of Rodrick’s mind. He darted back, watching his footwork carefully to avoid making too much noise and revealing his location. Invisibility didn’t mean intangibility — and something told him that the Beast’s hearing was probably pretty keen.
+
+But the Beast didn’t attack. He just stood there, his head tilted to the side, for a long moment. The unease in Rodrick’s stomach intensified. There was something deeply wrong about his opponent — and his senses were very, very rarely wrong.
+
+“You didn’t follow up on that attack,” the Beast said. “That was smart. You would have died if you did. You’re good at reading people, aren’t you?”
+
+Rodrick didn’t respond. He wasn’t that stupid. Giving his position away was the worst—
+
+The Beast turned to looked right at him.
+
+It wasn’t a guess. Rodrick could see it in the other man’s eyes. He could tell from the faint smile pulling at the corners of the Beast’s lips. Even though Rodrick was invisible, the Beast knew exactly where he was standing.
+
+“Shit,” Rodrick said. “What are you?”
+
+“Good question,” the Beast replied. “Maybe I’ll figure it out someday.”
+
+A knee slammed into Rodrick’s side. He was flying before he’d even realized that the Beast had moved. His back struck stone. Rock shattered, falling with him to the ground in piles of rubble before his thoughts could even catch back up with his body.
+
+More cracks carved through the Chameleon’s Shadow and his ribs alike. Stars danced before his eyes and blood dripped down his side. Rodrick gritted his teeth. He rose to his feet, ignoring the world spinning around him, his eyes refusing to leave his opponent.
+
+Heavy impacts weren’t anything that he hadn’t trained for before.
+
+But the Beast, on the other hand, was.
+
+I think I’m starting to see why the Guild gave him his name.
+
+Once again, the ragged man had made absolutely no move to press his advantage. He just stood in place, watching Rodrick with a curious expression plastered across his dirty features.
+
+Shit. I can’t read his movements at all. It’s like he’s not even thinking. And he’s so damn fast that I can’t react to them either. The only way I can even dodge is if I somehow guess where he’s going to attack and move before he’s even struck.
+
+“You’re stronger than anyone in this area was supposed to be,” the Beast said. “Most people don’t survive two blows from me. Or is it your armor?”
+
+“It’s the armor,” Rodrick said.
+
+“You know what?” the Beast asked. “I don’t believe you. I think you’re a liar.”
+
+“Then you would be correct,” Rodrick said.
+
+Then he went invisible again.
+
+A flicker of disappointment crossed over the Beast’s features.
+
+Then he vanished.
+
+Rodrick activated the Chameleon’s Shadow once more. But, this time, he called on the armor’s other power. His body itself shifted. He grew shorter, stouter, until the invisible being that stood where the Beast had last seen him wasn’t a human at all.
+
+A fist whistled through the air where Rodrick’s head had been — and the fist of a newly formed dwarf drove straight up into the Beast’s crotch. The other man’s eyes widened. He took a stumbling step back as a flicker of pain crossed his features.
+
+“You can shapeshift?” the Beast wheezed. “How—”
+
+Rodrick was shifting again, his form now more than doubling in size. His knee flew up, the heavy, looming bulk of an orc taking the place of a dwarf by the time the powerful blow connected with the other man’s side.
+
+The Beast’s eyes only had an instant to widen before he was torn off his feet. He flew back, bouncing across the ground before slamming into the far wall of the alley — not that there was much left of it at this point but rubble and large chunks of debris.
+
+Rock shifted and collapsed all around him. It buried the dirty man in a small tomb, a cloud of dust wafting out around him. There was a moment of silence.
+
+Then the Beast’s hand burst up from beneath the rocks. He extracted himself with no more effort than that of a man getting out of bed on a casual morning, his eyes affixed on Rodrick.
+
+“Now that’s new,” the Beast said. A droplet of blood rolled down from his nose. He wiped it away with the back of his hand. “I haven’t seen that before. Can’t remember the last time someone got the jump on me either. Tell me your name. I want to remember it.”
+
+Rodrick’s lips thinned. Even though he’d landed a good blow on the Beast, it looked like he’d barely managed to hurt the man. That strike should have been enough to do a hell of a lot more than just a drawing single drop of blood.
+
+Damn. I’m not optimized for fighting anymore. But even if I was… I don’t fancy my chances. I’m just straight up outmatched.
+
+Rodrick paused for a moment. Then his lips twitched up into a faint smile.
+
+But that’s fine. I don’t need to be optimized for fighting.
+
+It’s not my role.
+
+He let his invisibility fade away.
+
+“Rodrick.”
+
+The Beast tilted his head to the side. His eyes narrowed. “That… was true. You were being honest. That’s a bit of a surprise. I figured you’d lie again.”
+
+He read me? That quickly? He couldn’t tell if I was bullshitting him or not just a few moments ago. I don’t think that was just a lucky guess.
+
+“I did consider lying, yes,” Rodrick said. He squinted through the ringing in his skull. It wasn’t getting any quieter. He’d gotten rung badly. “But I decided not to bother.”
+
+“Why?” the Beast asked.
+
+Rodrick sat down on a large chunk of debris, letting his legs stretch out before him. “Because I’m done here.”
+
+“You’re giving up?” the Beast asked. He frowned. “That’s disappointing.”
+
+“No,” Rodrick said, blowing out a slow breath and looking up at the clouds twisting through the sky above. “I’m just tapping out. This wasn’t my fight.”
+
+A shadow passed overhead, alighting easily on the ground before Rodrick. There was a faint, wooden thud as the haft of a weapon drove down into the ground like it was the halberd held by some king’s guard.
+
+But this was no halberd.
+
+“It’s mine,” Kien said, pointing his broom at the Beast. “And I’m afraid that, on the behalf of the Menagerie, I’m going to have to ask you to leave.”
+
+The Beast tilted his head to the side. An eager light lit behind his eyes. He didn’t look even slightly confused about the fact that Kien’s chosen weapon was a cleaning instrument. “And when I refuse?”
+
+“You’re leaving one way or another. Either you walk yourself out of here on your own two legs and find something better to do with your time…” Kien lowered into a fighting stance. “Or your body leaves in a wheelbarrow and we waste a little gold covering the costs of filling up one more ditch.”

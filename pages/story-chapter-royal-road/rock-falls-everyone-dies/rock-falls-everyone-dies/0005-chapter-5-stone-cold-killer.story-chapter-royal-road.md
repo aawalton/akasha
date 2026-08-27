@@ -1,0 +1,219 @@
+---
+id: 080f988b-60ee-59ee-a007-b5e6b239a48d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 5 – Stone Cold Killer"
+slug: 0005-chapter-5-stone-cold-killer
+partOf: rock-falls-everyone-dies
+position: 5
+ownLength: 1320
+unit: words
+ownProgress: 1320
+publishedAt: 2023-01-22
+link: "https://www.royalroad.com/fiction/55418/rock-falls-everyone-dies/chapter/1094419/chapter-5-stone-cold-killer"
+royalRoadId: "1094419"
+markedReadAt: "2026-06-29T22:50:24.186Z"
+---
+
+This was no silent ambush. The rock rushed down the mountain, almost 40 kilograms at an ever faster pace, right at a goblin. A goblin who saw the rock, ducked down behind a ledge to cover and thought he was safe.
+
+Wrong.
+
+The rock almost flew right over the goblin’s head, that was how fast it was moving. But then, right after it jumped the cliff and hovered over the goblin…
+
+It braked, midair.
+
+Movement turned to heat, but only horizontal movement. The rock kept all the rest of the movement, and shifted direction straight downwards, only heating up a tiny bit.
+
+The goblin only saw the approaching shadow.
+
+Splat.
+
+Collide activated!
+
+[Unnamed] Dealt 20.3 * 38.2 / 4 = 193 dmg to [Goblin Buddy Bubba]
+
+New Velocity for [Unnamed]: 2m/s
+
+And the rock continued forward, rolling over the fresh goblin corpse. Once more accelerating. It made a realization.
+
+If it continually braked, then continued rolling, then braked again, it would gradually heat up. And energy would be stored.
+
+Energy which could be converted back to motion, if used fast enough. The skill had a cooldown, and the heat did tend to dissipate, especially if there was a lot of it.
+
+The rock slowed its pace significantly and started heating up. But still kept creeping forward, ever on the prowl for more prey.
+
+It saw a scouting party of 5 goblins marching up the mountain, and finally stopped completely, turning all remaining movement into heat. It heated up, still only a hundred-or-so degrees above 0C.
+
+And the scouting party, they just saw a curiously hot-seeming rock, just standing still right there, on the mountainside.
+
+They had seen it stop.
+
+And, well… A rock standing still on the mountainside was an amusing thing for a goblin. They could kick it down, and watch how it bounced down, hopefully crushing some unlucky human’s skull. They walked closer. The rock took aim.
+
+And released.
+
+Energy Shift activated!
+
+Converting [Thermal Energy] to [Kinetic Energy]!
+
+Using Maximum allowed ΔT! (Dependant on level)
+
+Δ20K = Δ20 m/s
+
+New velocity for [Unnamed]: 20 m/s
+
+Remaining stored Temperature: 98K
+
+Like a viper, it pounced at the first goblin, their leader—a high-level [Druid] carrying a sagely staff. It aimed straight for the head.
+
+Title Activated!
+
+Patient Ambusher Activated!
+
+Calculating bonus...
+
+10%!
+
+Collide activated!
+
+[Unnamed] Dealt 17.5 * 38.2 / 4 * 1.1  = 184 dmg to [Goblin Druid Dudda]
+
+New Velocity for [Unnamed]: 2m/s
+
+The other goblins stood stunned, in shock at the sudden horror of a head bursting like a ripe melon. They just stared, stared at the rock that was again just standing still right there.
+
+It had not used all its heat. Not nearly. It was waiting for the cooldown to tick... slowly...
+
+Now!
+
+Again it pounced forward, a viper in rock-form and crushed a head, but this time, the 3 remaining goblins ran, scattering in every direction. The rock chased.
+
+The first goblin ran to the right and the rock chased, bounding down the rocky mountainside’s craggy edge. In his terror, the goblin tripped on small rock and fell down. The larger rock saluted its comrade for the assist, then moved on for the finisher.
+
+The other two goblins—one of them was headed up.
+
+That really made the rock pause, it had only ever really gone down. Could it even go up on its own?
+
+Half-heartedly, it used some energy to launch itself up the slope. The maximum its level allowed.
+
+It went up a good distance, but not nearly enough to reach the goblin, then started tumbling back down. It fell below its launch point before the cooldown on the skill came back. And the rock made a realization: There were limitations in this method: energy was being lost constantly. It could only adjust how it floated along the stream of gravity, not truly swim against it.
+
+Reluctantly, it let the smarter goblin escape, and turned its attention back down. Down, down down, it was always down, wasn’t it?
+
+Could it ever go up?
+
+Once it reached the bottom of the mountain, the end of gravity’s tide—what could it even do then? Be trapped down there forever?
+
+As it was now—it would never be able to reach the mountaintop again. Was that a worthy fate for it? No.
+
+But still—there were few options currently. It saw the goblin running downward in a mad panic, and almost sighing, went on the obligatory chase. But its heart was no longer in it—it didn’t hurry.
+
+Why should it hurry on its quest down the mountain, when that quest might just signal its final doom?
+
+And so, the rock made a halfhearted effort at the chase. If the goblin started slowing, the rock would let itself quicken the pace a bit, and then it would again loiter about, circle around a bit, search for anything interesting.
+
+Searching for an answer. Energy—the key was energy. Right now, its only source of new energy was gravity itself, a rather harsh and unbending mistress, one that would only let it go down. But it remembered the coals, the fire, the heat.
+
+Could it light such a boiling heat inside itself too? And where did all these queer creatures find the energy to tumble against gravity, madly dashing up the mountain?
+
+The rock almost started respecting the goblins, who so bravely spat in the face of gravity, and braved its highest reaches. Where was that little goblin going anyway?
+
+The rock made a realization—the goblin was not running in a mad panic anymore. It knew where it was going. Would it lead to a place with… more goblins?
+
+It grew excited. Who knew that prolonging the chase out of existential despair could have such benefits? Where was the goblin going? What would the rock find?
+
+All philosophical troubles faded from the rock’s mind, as that first spark of adventure was lit anew. Like a tiny pebble discovering the world again, it shone with heat from excessive braking and headed down.
+
+And finally… the goblin reached its destination. A hole opening down, inside the mountain. Not natural stone—something built up carefully. It crept close, and felt a shift in the air. Something different, something new.
+
+Something it recognized with its new senses.
+
+Energy.
+
+It could sense these things now, so it could feel something. Something absolutely brimming with energy, which leaked out and emanated in the air all around. Coming from… down that little hole? What was making all that energy?
+
+For a moment, it peered away from the hole, looking at the endless slope without eyes. It could continue downwards… and pursue its main quest. Even a futile one. Or…
+
+It could take on a side quest.
+
+And so, the rock made its decision. How long would a sidequest take, anyways? It would not get distracted.
+
+Down, deeper in the hole, at the bottom of the pit, a goblin was breathing a sigh of relief, finally having shaken off the terrifying rock. He had not spotted it for five minutes, but still he felt jitters.
+
+Suddenly—he sensed a shadow from up above and—
+
+Splat.
+
+Collide activated!
+
+[Unnamed] Dealt 25.2 * 38.2 / 4  = 241 dmg to [Goblin Dungeon Mobster Mab]
+
+New Velocity for [Unnamed]: 0m/s
+
+Level up!
+
+113 / 100 xp
+
+Discarding overflow xp
+
+You have reached level 5!
+
+Stats up!
+
+Mass (m): 38.2kg -> 128.8kg
+
+Diameter (d): 0.30m -> 0.46m
+
+HP: 5 -> 8
+
+New Ability Gained!
+
+Pivot Point
+
+Set a pivot point within 2m (adjusts with size) and pivot around it, conserving energy in the movement.
+
+And so.. the rock dropped down into the dungeon. Things were about to get rocky.
+
+Quest:
+
+Current Altitude: 5 421m
+
+Full Status:
+
+[Unnamed]
+
+Title(s): Line-Ender, Patient Ambusher, Bane of Demons
+
+🗿
+
+HP: 5/5
+
+Mana: 0/0
+
+Level: 5
+
+Experience: 0/150
+
+Class: Rolling Stone
+
+Sub-class: None
+
+Race: Gneiss Stone
+
+Gold: 0
+
+STATS
+
+Diameter (d): 0.46m
+
+Mass (m): 128.8kg
+
+ABILITIES
+
+Collide
+
+Steer
+
+Energy Shift
+
+Pivot Point

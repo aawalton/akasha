@@ -1,0 +1,309 @@
+---
+id: 85283c57-39d8-59f0-abfc-75cf328d4e9d
+page-type-slug: story-chapter-royal-road
+title: "241. Nightsveil Part 1"
+slug: 0031-241-nightsveil-part-1
+partOf: salvos
+position: 31
+ownLength: 2240
+unit: words
+publishedAt: 2021-12-07
+link: "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/802088/241-nightsveil-part-1"
+royalRoadId: "802088"
+---
+
+241. Nightsveil Part 1
+
+Salvos (Liberator of the Plaguelands)
+
+Species: [Archdemon of Pride]
+
+Subspecies: [Daeva Cambion] - Lvl. 109
+
+Class: [Worldly Mystic of the Nexeus] - Lvl. 49
+
+General Skills:
+
+[Advanced Mana Manipulation] - Lvl. 8
+
+[Identification] - Lvl. 6
+
+[Racial Skill: Universal Language Comprehension] - Lvl. 1
+
+[Racial Skill: Demonic Essence] - Lvl. 4
+
+[Racial Skill: Partial Mortality] - Lvl. 6
+
+[Rest] - Lvl. 5
+
+[Lesser Enhanced Wisdom] - Lvl. 6
+
+[Title Skill: General Curse Resistance] - Lvl. 2
+
+[Title Skill: Recall Skill] - Lvl. 1
+
+Stats:
+
+[Available Stat Points: 0]
+
+[Vitality]: 136 (+25)
+
+[Strength]: 112 (+25)
+
+[Endurance]: 125 (+25)
+
+[Wisdom]: 210 (+25) (+10)
+
+[Agility]: 268 (+25)
+
+Skills:
+
+[Available Skill Points: 1]
+
+[Barrage of Cinders] - Lvl. 20 (Maxed)
+
+[Demon’s Mark] - Lvl. 5
+
+[Haste] - Lvl. 10
+
+[Intimidation] - Lvl. 10 (Maxed)
+
+[Faux Limbs] - Lvl. 1
+
+[Nebular Construct] - Lvl. 6
+
+[Radiant Slash] - Lvl. 15 (Maxed)
+
+[Salvo of Vanity] - Lvl. 5
+
+[The Primordial Spark] - Lvl. 15
+
+[Wings of the Netherworld] - Lvl. 5
+
+[Passive - A Hunter’s Sense] - Lvl. 10 (Maxed)
+
+[Passive - Blue Flames] - Lvl. 20 (Maxed)
+
+[Passive - Weapon Mastery] - Lvl. 20 (Maxed)
+
+[Unused Skill Slot] x1
+
+Secondary Skills:
+
+[Available Secondary Skill Points: 4]
+
+[Mystical Projection] - Lvl 7
+
+[Object Levitation] - Lvl 1
+
+[Planar Navigation] - Lvl. 5
+
+[Scatter Shift] - Lvl. 5
+
+[Temporal Distortion] - Lvl 20 (Maxed)
+
+What was there to do? My companion asked for my help. She begged me to save her father and brother— face the harrowing Primeval Demon in Nightsveil.
+
+I couldn’t beat Belzu. I lost to him once before. My other companions couldn’t aid me, and the Devil wasn’t here either. Headmaster Clayton Skyshredder would ignore my pleas. I was alone.
+
+Yet, I flew out of Mavos Academy. I held Saffron in my arms as I soared over the tallest towers, bursting above the voluminous clouds. They dotted the sky like cotton balls floating in a sea of a dark azure, and I swam in it like a fish heading straight to a shark’s Lair.
+
+It was foolish, but I couldn’t not do it. My companion asked this of me. Saffron would’ve gone and died if I didn’t accompany her. For her family. For the people she loved.
+
+So, I brought her to a city under siege. The Capital of Nixa. The country where my journey in the Mortal Realm began. Once more, I was heading to a Demon far stronger than me. An evolution above me. One who had beaten me before.
+
+Perhaps it would end like last time around— I could defeat him, just like I had beaten Lucerna. It was even a similar scenario, right? A powerful Demon was rampaging throughout Nixa. My companion and I raced to face him as he destroyed a city.
+
+Except, there were a few differences. Key distinctions that defined how the battle would go. For one, Belzu had an army of a hundred thousand terrible monsters with him, while Lucerna was on his own. For another, I had no reason to fight Belzu, while I thought I needed to defeat Lucerna to get back. And furthermore…
+
+Lucerna wanted to die. Belzu did not.
+
+So, when I entered the burning city, I did not do so to face Belzu. I’d simply save Saffron’s father and brother as I promised before flying off.
+
+Not only did I lack any reason to fight him, I also would probably lose to him. And that was not to mention the last reason: my other companions weren’t here.
+
+Daniel and Edithe weren’t with me. There was no Mistshard or Druma to support me. I was with Saffron, and she wouldn’t be able to do anything to Belzu. Maybe one day, when I was reunited with my two Human companions, I’d challenge Belzu again. But not now.
+
+“So, this is the Deathfall Dungeon?”
+
+Daniel Song bent over and peered into the abyss below. A deep ravine that scarred the earth— a mark left on the world by the Immortal King Alexander during the final battle of the first Kobold invasion. During his duel against Prophet Zoszam.
+
+He was here for one ostensible reason: to destroy the Harrowed Vindicators. The assassin group that threatened the life of him and his friends. However, that goal of his was starting to change after an encounter with their Harrowed Inquisitor. The young man had seen through their disguise— he saw the face beneath the mask of one of the assassins, and he recognized those features anywhere.
+
+They had to be Demons. Either that, or a grotesquely ugly Human. Regardless, while he was still driven to stop the Harrowed Vindicators, he was also driven by curiosity. By some stupid thing in him which screamed to do the right thing.
+
+“This is the Dungeon, yes. And if Ivan is to be believed, also our hideout.”
+
+Amanda peered over his shoulder. She was an assassin who tried to kill him— he defeated her and took her prisoner for this task. Now, she accompanied him to the base of the Harrowed Vindicators.
+
+Nodding, Daniel took a step back.
+
+“Alright, it’s time to—”
+
+He paused. Amanda stared at him.
+
+“What?”
+
+He raised a brow. She gestured at the pit.
+
+“Well, go ahead. The rest of the Harrowed Vindicators are probably waiting down there.”
+
+Daniel watched her as she drew back.
+
+“What? That was your goal, wasn’t it? Go ahead, Sir [Hero]. I’m just going to—”
+
+Amanda spun around, beginning to walk off. Daniel stopped her and grabbed her by the shoulders.
+
+“You’re coming with me.”
+
+“Fuck.”
+
+She groaned, shoulders sagging.
+
+“Do I really have to?”
+
+“Yes.”
+
+“But I do not consent. This is basically ra—”
+
+“Shut. Up.”
+
+He glared at her. Finally, Amanda shrugged.
+
+“It’s not like I have a choice. If I try to run away, you’ll probably kill me. If I actually escape, the Harrowed Vindicators will probably kill me. If I go with you, some Demon will probably kill me. So, I die anyway. Just stick close to me so we at least stand a chance of getting out of this alive.”
+
+She raised a hand, muttering a few Skills.
+
+“[Vow of Silence]. [Shadowed Veil].”
+
+“What were those?”
+
+Daniel narrowed his eyes. Amanda started down the steep rock surface— it was night, and even though the moon was high in the sky, she almost vanished from his sight. He hurried after her before she could completely sink into the shadows.
+
+“Stealth Skills, obviously.”
+
+She scoffed as she climbed down just ahead of Daniel. They reached the bottom of the crevice soon enough, sticking close to the shadows, wreathed in ribbons of darkness. He spotted figures moving up ahead— there was a cave entrance with a single torchlight illuminating it. Minecart tracks led in and out of it, creating an intricate network of rails.
+
+“Someone’s there.”
+
+Daniel squinted, and Amanda hissed.
+
+“I can see that, you idiot. Keep your voice down.”
+
+“Oh, I thought they wouldn’t be able to hear us.”
+
+“Why are you still— look,  some people have Skills that can negate other Skills. Now practice what you preach and shut up.”
+
+He gritted his teeth, but remained quiet. The two crept closer to the entrance of the cave. Daniel knew he was going in the right direction when he heard a sound in his head.
+
+Now entering [Dungeon: Deathfall]!
+
+They were within ten feet of the figure standing in the darkness when Amanda halted. Her eyes widened when she caught a glimpse of the man. No— not a man. A woman? Or sort of a woman. She looked like a woman, but Daniel instantly knew what she was:
+
+A Demon.
+
+Well, that didn't disqualify her from being a woman. Apparently, Demons had genders too. Salvos was a woman, even though she was a Demon. And Daniel couldn’t lie and say she wasn’t a good looking woman— except for when she was transformed into that six-armed form.
+
+However, this Demon barely even looked Human. She was slightly Humanoid with a feminine build, but her face was more like that of a Kobold with sharp teeth that belonged to a carnivore. And instead of a pair of arms at her side, she had scythe-like limbs that could tear Daniel’s head off with a single slice. Her skin was red— almost chitin-like, illumined by the peeking moon above.
+
+[Azazia - Lvl. 73]
+
+“That’s…”
+
+Amanda stared at it, wide-eyed. Daniel glanced over at her, making a shushing motion. She glanced over at him, gritting her teeth. She bit back a retort and turned back to the Demon.
+
+“That’s really a Demon. You were actually telling the truth.”
+
+“I was.”
+
+He nodded as he eyed the Demon warily. She didn’t move. She simply stood there, bored and leaning against the rock wall.
+
+“Can we sneak past her?”
+
+“Well, considering that she hasn’t attacked us yet— the answer is maybe.”
+
+“Can we or can we not?”
+
+Daniel glared at her, and she rolled her eyes.
+
+“Why do you have to be such a hardass?”
+
+“Because you literally tried to kill me.”
+
+“Oh, right. Forgot about that. That was pretty funny, wasn’t it?”
+
+He clenched a fist as Amanda chuckled to herself.
+
+“But yes— we can. Just follow me and don’t accidentally bump into her.”
+
+Nodding, Daniel followed the assassin as she snuck past the Demon. He watched the Demon’s every movement, afraid that she’d suddenly lash out and attack them. However, she didn’t move.
+
+Once they were a few corridors past her, Daniel breathed a sigh in relief.
+
+“Thank—”
+
+Before he could finish, footsteps echoed down the cavern hallway. Amanda’s eyes flickered and she grabbed him, pulling him against the wall.
+
+“Someone’s coming.”
+
+She whispered. He shut his mouth tightly, grabbing his Primordial Longsword. There were some lamps— dim magical artifacts that lit up the mineshaft. And they cast long shadows against the crowd of figures that approached them from up ahead. Guttural voices spoke and reverberated in the cavern.
+
+“Yes, Lacris is dead. He was killed by the traitor.”
+
+“I arrive in this wretched plane, and this is the first news I hear? Hmph.”
+
+Daniel raised a brow. Traitor? What were they talking about?
+
+They figures came closer as they continued their conversation. One of them had a voice that clicked at the end of every sentence, and another seemed to drag out the letter ‘s’ when it was at the end of the word.
+
+“So, Belzu killed him. And now the Iron Champions Company is gone. Unfortunate.”
+
+“What will we do now? This is a setback.”
+
+“A minor one in the grand scheme of things. The Iron Champions had served their purpose— the Humans no longer have the Sword of Alexander.”
+
+“But Belzu has it.”
+
+“And he shall die with it. Our King shall deal with him when the time comes. It matters not if he accomplishes his goal. When his kingdom comes and our King steps foot on this plane, Belzu will be crushed like the insignificant bug that he is.”
+
+The figures turned down the hallway, and Daniel tensed. But they didn’t see him. A group of Demons walked and talked casually. One of them had blue skin and a pair of horns on his face. He looked almost familiar to Daniel, but Daniel was certain he never met a Demon like that before.
+
+Each of them had collars like every other summoned Demon. Yet, by the sounds of it, some of them were newly summoned. Daniel narrowed his eyes.
+
+Does that mean there’s a summoning circle here?
+
+The Demons passed, and Daniel felt the tension gripping his body release. He slumped over, placing a hand on his chest. He turned to Amanda—
+
+And she collapsed to her knees. She melted into a pool of sweat, staring at where the Demons went. Her jaw gaped as she worked her mouth.
+
+“T-those— they were—”
+
+“Archdemons. Every single one of them.”
+
+“H-how…?”
+
+Amanda turned to Daniel. She gripped him by the shoulder.
+
+“What the fuck are we doing here? Are you insane? We will die. We need to leave. Now!”
+
+“No.”
+
+Daniel shook his head. He looked down where the Demons came from— and he thought of their conversation. It was clear. All of these Demons were summoned, and some had been here for a long while. But some of them were newly-summoned. Daniel was certain of that. And the fact that they were here, while there weren’t any Humans...
+
+“We’re going to go further in.”
+
+“What? What’s wrong with you? Just because you’re a [Hero] doesn’t mean you’ll be able to take on all those Demons yourself. We literally fled a group of Demons lower-leveled than them just a few days ago!”
+
+Amanda stared at him, gesticulating wildly. Then she paused. She took a step back, blinking.
+
+“You… you’re not still thinking of killing them all, are you? Are you an idiot? Are you—”
+
+“I’m not.”
+
+Daniel shook his head. He took in a deep breath as he faced Amanda.
+
+“I am not stupid enough to think that I’d be able to beat them all in a fight. I came here with that intention, but I realize now that it’s not a possibility.”
+
+He took a step forward as Amanda watched his back.
+
+“Now, I’m going to figure out what’s going on here. And maybe, if I can, find proof of it. Sabotage it. Do whatever I can to ensure that this whole operation is set back.”

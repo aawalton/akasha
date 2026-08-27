@@ -1,0 +1,161 @@
+---
+id: acbef4fc-08d6-593e-8b78-e3fcdbe9a87e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 529: Frozen Vault"
+slug: 0051-chapter-529-frozen-vault
+partOf: reborn-as-a-demonic-tree
+position: 51
+ownLength: 2673
+unit: words
+ownProgress: 2673
+publishedAt: 2026-01-23
+link: "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/2972277/chapter-529-frozen-vault"
+royalRoadId: "2972277"
+markedReadAt: "2026-06-29T19:03:16.875Z"
+---
+
+"Is this Ao Lingxuan's vault?" Stella asked the corpse-like Grand Elder beside her as they stood before a massive obsidian ice door in the basement of the dragon's palace. It softly glowed from the many protective formations embedded in the door and the surrounding walls.
+
+"Yes," Grand Elder Hanxu said. Apparently, this man led the loyalist faction of Ao Lingxuan, so his cold tone was expected, considering Stella had just shown up and enslaved his Patriarch.
+
+"Yes, what?" Janus said to the man while standing at Stella's side. "You're talking to the new Matriarch of the Frozen Star Sect and should refer to her as such."
+
+Grand Elder Hanxu just glared at Janus in response.
+
+"It's fine, Janus. Grand Elder Hanxu just opened the door for me," Stella said impatiently, side-eyeing the man.
+
+"I can't," he said, shaking his head. "Only its rightful owner, Ao Lingxuan, can open it."
+
+Stella raised a brow. "Is that so? Has anyone ever tried to open it besides Ao Lingxuan?"
+
+Grand Elder Hanxu snorted. "Of course not. Who would be foolish enough to invade the deepest level of a Monarch Realm dragon's palace only to fail breaking through the impenetrable walls of ice?"
+
+"I thought that might be the case," Stella said with amusement as she traced the door with her finger.
+
+"What are you implying, girl?" Grand Elder Hanxu said spitefully, narrowing his eyes.
+
+Stella ignored the man's tone—for now—and humored him. "I've had this feeling since arriving, but the Frozen Star Sect is used to being uncontested, right?"
+
+Grand Elder Hanxu appraised her. "I'm not following."
+
+"The way the Elders reacted to an outsider making trouble was far too rash, as if they didn't know how to handle problems originating from outsiders. Actually, it almost seemed like they were trying to bait each other into dying more than trying to deal with me."
+
+Grand Elder Hanxu wheezed, which Stella took to be the old man's attempt at a laugh. "Well, that's natural. Who would travel so far across unfavorable terrain with an invitation for passage through the harrowing mist just to make trouble for our sect? The only people who come here are those who wish to gamble or do business with Ao Lingxuan."
+
+Janus nodded in agreement. "That's true. I even debated trying to crack this vault open a few times myself after learning of its existence, but decided against it. I mean, what if Ao Lingxuan found out? It would take me days to escape this icy hell, and all of it is under that dragon's dominion. I'd be dead before I even set foot outside the volcano."
+
+Stella withdrew her hand from the wall and tapped her chin. "I see, it's all starting to make more sense. The only conflict the members of this sect experience must be between each other."
+
+Grand Elder Hanxu slowly nodded. "I suppose so."
+
+"What about monsters?"
+
+Grand Elder Hanxu furrowed his brows. "Monsters? There are some down in the chasms below the volcano and a few roaming the icy plains, but if one were to remain inside the volcano, they could go their whole lives without laying eyes on a monster, besides Ao Lingxuan, of course. His presence also wards off the beast tide that ravages the rest of the wilderness. Though I still don't know what your point is."
+
+Stella glanced back at the ice door and traced her finger along it again with a frown. "My point is that the sect feels rather primitive in all aspects, likely due to the lack of outside threats. For example, these formations are amateur at best, and this ice is far from impenetrable. What actually makes this vault impenetrable is that the fear of Ao Lingxuan within the sect is so high that nobody dares even consider robbing him. I'd expect to see these formations on the vault of a small noble family, not on a vault belonging to the Patriarch of the second, or I suppose now the third strongest sect." She pushed her palm against the door and pulsed aether Qi into the underlying formation. There was a click, and the door slightly opened with a pressurized hiss. "As you can see, it's not going to stop someone who knows what they are doing."
+
+Grand Elder Hanxu looked panicked. "You—you broke into the impenetrable vault!"
+
+Stella rolled her eyes. "And who exactly told you it was impenetrable, dare I ask?"
+
+Grand Elder Hanxu frowned in deep contemplation. "It was Ao Lingxuan," he eventually admitted.
+
+"If Ao Lingxuan told you the sky was red, I bet you would probably believe it. No wonder everyone in the Frozen Star Sect is so short-sighted," Stella sighed, pushing the massive dragon-sized door open with surprising ease. Peeking her head inside, she was immediately blasted with bone-biting cold and blinded. Not by anything malicious, unless you could call piles of jewels and weapons sparking with every color imaginable all at once a trap.
+
+"Ugh, so bright," Stella winced, covering her eyes with her arm as she stepped inside. It was a massive cavern made of crystal-clear ice, yet somehow filled to the brim with riches. And she meant that literally. There were mountains of coins, gems, random weapons, and more. It was a real dragon hoard.
+
+Janus and even Grand Elder Hanxu were totally captivated by the sight.
+
+Stella wasn't impressed.
+
+"I was hoping for more," she grumbled, taking a few steps in and peering around.
+
+"More?!" Janus said, looking at her with pure disbelief. "There have to be millions of Yinxi Coins' worth of jewels and weapons in here, yet you expected more?"
+
+"Yeah? I was hoping for more than the usual shiny things you can get anywhere else. Perhaps a dragon egg, rare pill ingredients, or a book of ancient ice techniques," Stella said, frowning as she kicked a nearby pile of gems in disappointment.
+
+"Oh yeah, you're rich, rich. I forgot the prospect of a few million Yinxi Coins' worth of stuff wouldn't impress you."
+
+"Wait. Hold on, you're onto something," Stella paused. "This mountain of gold, gems, and weapons shouldn't impress a dragon that controls a sect either. I mean, what use is any of this to a dragon besides to gamble with?"
+
+Janus snorted. "I think this would impress anyone except you, Stella."
+
+"No—remember, Ao Lingxuan is a Monarch Realm cultivator. One of the few strongest beings on this layer of creation. What is a mountain of gold and random human-made weapons to a being of that strength? He should have cared more for rare cultivation resources and artifacts like I do," Stella's eyes widened. "All of this is just to blind poor fools like you from the real treasure."
+
+Janus winced at the comment and muttered under his breath, "It's not like it's your money to begin with..."
+
+"Jealous are we now?" Stella laughed as she moved deeper into the cavern. "Because it most definitely is my money. I'll have you know, I was one of the Ashfallen Trading Companies' founding members and made the original batch of pills that are now mass-produced. Back then, our only goal was to help this Ryker kid from the Silverspire family win a bet against his siblings for the right to an inheritance. Just because I have no active role in the organization anymore doesn't mean I'm not entitled to what it produces."
+
+Nostalgia filled Stella as she recalled those days. It hadn't even been a year ago when Douglas had tried to convince her that their prisoner, Elaine, should be brought into the sect. Sometimes the sect's humble beginnings slipped her mind, given the colossal entity it had become, with hundreds of cultivators now in the sect and millions of mortals under its umbrella.
+
+"I guess that's fair," Janus shrugged. "Not like I can complain. Having a rich sister is awesome," he said, grinning and giving her a thumbs-up.
+
+Stella huffed and ignored her dumb older brother. The dragon was trying to hide something with all this overly shiny wealth, and she was determined to find out what.
+
+"Speaking of, do you plan to get your Yinxi Coins back from the Elders?" Janus asked, coming to her side.
+
+"What makes you think I can get them back?"
+
+Janus squinted at her. "Still playing the fool, are we? Don't think you can ever pull the wool over my eyes again after that stunt you just pulled. Nobody, and I mean nobody, has ever beaten Ao Lingxuan. Yet you dismantled his game in front of everyone with such ease."
+
+Stella gave him a playful smile and didn't say anything.
+
+Janus squinted at her for a second and then came to a horrifying realization. "You just don't care about the Yinxi Coins you lost, do you?"
+
+"Not really," Stella said honestly. "Even if they all refused to gamble with me after seeing what I did to Ao Lingxuan, I could beat the Yinxi Coins out of them or even demand them back as their new Matriarch. But why bother? As you said, these riches before me more than make up for what I lost getting them, and yeah, even then, I don't really care for the loss. I hardly need money for anything anyway. Consider it an investment for buying their goodwill or something."
+
+Janus snorted. "Goodwill? From that lot? Yeah, no. Maybe you can win over the volcano cultists with money, but the loyalists? Not a chance. I mean, look at Frosty Grandpa over there." He gestured with his chin at Grand Elder Hanxu. "His hate-filled gaze could kill you right now."
+
+"Don't worry about him and help me search," Stella said, floating into the air above the mountains of gold and jewels. Janus joined her and surveyed the area below.
+
+"What are we looking for exactly?"
+
+"Anything that might expose the true treasure," Stella said as she opened her arms, letting her presence wash over the room like a tide. With a graceful wave of her hand, an entire layer of gold and jewels peeled away from the mountain and rose into the air. The cavern's freezing temperature had coated each piece in a thin layer of frost, causing them to cling together and significantly increasing their weight. Even for Stella, the strain proved too much. The mass slipped from her telekinetic grasp and crashed down, triggering a thunderous golden landslide. As the last coin settled, her eyes narrowed. "Why is the central mountain so much taller than the others?" she murmured. "Actually… the rest are all roughly the same height."
+
+"That is rather strange," Janus admitted. "Perhaps there's something under all of this."
+
+"I agree. Help me out, would you?" Stella asked as she floated down toward the largest of the mounds and, with a hand gesture, tore open multiple rifts to the aether that orbited her. "Throw as much stuff in the rifts as you can."
+
+"Why?" Janus asked as he took the other side of the large mountain.
+
+"Because the sheer volume of stuff here would quickly overwhelm all the storage space in my spatial rings, and the cavern is already filled to the brim, there is no choice but to temporarily dump it into the aether," Stella explained as she got to work.
+
+"You can get this stuff back later... right?" Janus asked hesitantly.
+
+"Probably," Stella said. She had stored things in the aether before, Guppy being one such example. But there was no guarantee that she wouldn't lose track of the loot, considering the sheer volume of it.
+
+Janus shrugged. "I guess you can do whatever you want with it. It's now the great hoard of the Matriarch after all."
+
+Over the next ten or so minutes, Stella and Janus worked tirelessly to telekinetically claw at the mountain and dump it all into the aether rifts. However, Stella quickly noticed that as they did so, the room somehow grew even colder. If not for the thick layer of aether Qi creating a barrier against the frost Qi in the air, she might have gotten frostbite or even died. "Somehow this is worse than when I was face-to-face with Ao Lingxuan," she mused while peeling away another layer, then paused as she sensed something. Crouching down, she carefully removed the frosted clumps of coins and jewels until she saw... ivory. A bone of some kind? As she kept going, more was revealed until she was face-to-face with an enormous eye socket—one large enough for a person to stand in.
+
+"Uh, Janus. I finally found something that isn't shiny."
+
+"Really? What is it?" Janus asked, floating over the considerably shorter mountain to her side. He was wreathed in multiple barriers of spatial Qi, making the air around him shimmer. "Oh wow—is that a dragon's head?!"
+
+"Yeah, I think so," Stella agreed. She tried to touch it to check but swiftly reeled back her finger. From a single touch, ice Qi had crystallized the aether Qi she had been protecting her hand with. She looked at her finger in disbelief. "A giant dragon skull emitting ice Qi that can eat through 7th-stage Nascent Soul Realm Qi in an instant? Ilyzathar is the only dead dragon that I know of capable of such a thing." Stella floated backward with a frown. "Didn't you say the Qi coming from Ilyzathar was depleting, and that's why the volcano cult formed a few decades ago?"
+
+"I did," Janus said, nodding. "Why?"
+
+"Well, I think it's clear now that what we are floating above isn't a mere treasure hoard but actually the grave of Ilyzathar. Her head, and possibly more, lie under all this gold and jewels."
+
+Janus narrowed his eyes. "I think you might be right. Actually, one, two, three... ten. There are ten smaller mountains, and dragons typically have ten claws just like humans."
+
+"Yeah," Stella agreed. "I bet each of the smaller mountains is one of Ilyzathar's claws, meaning we are floating above the head of her corpse, sleeping on her claws. I assume the rest of the body must go deeper into the volcano."
+
+Janus whistled. "So all along, Ao Lingxuan was hiding his mother's corpse down here. But what's with burying it in gold? Some kind of dragon burial ritual?"
+
+"I think it goes deeper than that," Stella mused, rubbing her chin as she stared into the dragon's empty eye. "I'm starting to think the sudden decline of ice Qi in and around the sect wasn't natural but planned. From the moment you described the factions within the sect to me, I found it strange that Ao Lingxuan allowed a cult that opposed him to exist under him. I mean, think about it, he's a prideful dragon and the absolute ruler of this place. So why can Grand Elders who openly oppose, like Vokar, walk around freely?"
+
+Janus crossed his arms in thought. "That's a good point. I always just assumed it was because the cult had grown too influential too quickly, and Ao Lingxuan was too busy cultivating to bother dealing with them personally. But you're right, the Ao Lingxuan I know would just crush them easily and freeze their corpses for all eternity for daring to defy him." He glanced at her. "What do you think happened? I can already see your mind working it out."
+
+"I'm missing a lot of facts," Stella admitted with a sigh, "so it's hard to piece everything together. But did Ao Lingxuan have an advisor of sorts?"
+
+"Sure he did. Frozen Grandpa over there was his first port of call for any problem and for advice on how to do everything..." Janus trailed off as he looked at the entrance.
+
+Stella followed his gaze and noticed something was off. Namely, the absence of a certain someone.
+
+"Where did Grand Elder Hanxu go?" Janus asked.
+
+Stella didn't have an answer to that. One moment, the Grand Elder had been there; the next, he had vanished.
+
+"I don't like the implications of this," Stella said, flying toward the entrance. "Let's regroup with Zeph and Jasmine before something bad happens."

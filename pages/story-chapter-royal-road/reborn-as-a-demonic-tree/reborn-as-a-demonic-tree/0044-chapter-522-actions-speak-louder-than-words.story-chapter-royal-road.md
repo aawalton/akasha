@@ -1,0 +1,177 @@
+---
+id: 2161057f-d92d-5d73-ae12-8aa1f1050e0e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 522: Actions Speak Louder Than Words"
+slug: 0044-chapter-522-actions-speak-louder-than-words
+partOf: reborn-as-a-demonic-tree
+position: 44
+ownLength: 2897
+unit: words
+ownProgress: 2897
+publishedAt: 2026-01-07
+link: "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/2921131/chapter-522-actions-speak-louder-than-words"
+royalRoadId: "2921131"
+markedReadAt: "2026-06-29T19:03:01.558Z"
+---
+
+Ashlock was looking down at an unassuming mountain. To both the trained and untrained eye, there was absolutely nothing special about it. Just a plain old gray rocky mountain of average height, no snow, and surrounded by a regular forest. There was absolutely no reason for anyone to be out here, as there was nothing but endless forest for a hundred miles, yet someone was. A disheveled-looking man, with whom Ashlock was somewhat acquainted, was standing on a slightly flat part of the mountaintop, looking around, confused.
+
+Ashlock said as he had Anubis step out of the nearby shadows, "You're in the right place, Thane."
+
+The man yelped in understandable surprise at the sudden voice and spun around. At the sight of Anubis, the nature cultivator took a few cautious steps back.
+
+"You're... you're..." he stammered.
+
+"The All-Seeing Eye?"
+
+"Yes!"
+
+"Wrong," Ashlock said, making Anubis shake his head. "This lich is just a mouthpiece, a herald of my words, if you will. What are you doing here, Thane?" Ashlock asked but already knew the answer, as he had been listening to their conversation earlier. Councilman Cyphion had left Thane alive to use him as a scout for the meeting location. Cyphion had even gone so far as to tether his Qi to Thane, meaning he could crush his soul from any distance, anytime.
+
+"I'm here on Councilman Cyphion's orders—"
+
+"Wrong again," Ashlock said firmly, his Qi-empowered words echoing across the mountain peak. "Councilman Cyphion gave you an artifact to create long-range portals and asked you to scout out the area. I noted your presence here yesterday, yet you have not placed the artifact, nor have you done much recon. You're waiting for someone or something, are you not?"
+
+Thane stood there, unmoving and seemingly unable to form a response.
+
+Ashlock didn't mind and went about his purpose for being here. To plant the totem pole the Mudcloaks had made to mark the unassuming meeting point, which would hopefully become the grave of a Monarch Realm. Anubis pulled the large black totem pole topped with a decorative eye out of a rift and, like a flag, planted it into the stone. The ground cracked as the totem was secured.
+
+"Find salvation in the All-Seeing Eye, for only he is truly fair to all. That is what a voice whispered to me as I left Floridawn," Thane muttered, clenching his fists. "While cast into exile, I was happy to leave my life in Floridawn's inner city behind. The politics, backstabbing, and depravity of it all had worn on me. I found my reason to live again out there in the wilderness—until the desolation brought my life to dust and forced me back into a world I thought I had left behind. Now I'm back to being a slave to Cyphion, a twisted man to whom you promised the rule of Floridawn. Tell me, what about that is being fair to all? You empower the strong and trample on the weak? What about my life? The millions of citizens who are suffering because of you?"
+
+Ashlock had Anubis stare at Thane, the shadow lich's golden flame eyes flickering with interest.
+
+"Am I not right?" Thane pressed on, gritting his teeth.
+
+"You're ignoring the first part of that statement and focusing on the second," Ashlock explained. "Salvation is given to those who devote themselves to the All-Seeing Eye. I'm only fair to those who have faith in me."
+
+"So you give Cyphion everything he wants just because he claims to be a fan of yours?" Thane said, his face twisting as if he had eaten something rotten.
+
+"No. Just like how Cyphion falsely claims to be my fan to curry my favor, I offer him fake promises to fulfill my goals. Why are you focusing so much on what I say? Actions speak louder than words, do they not?" He gestured at Thane. "Cyphion called you an old friend but treated you like a disposable stranger. Meanwhile, you promised to fulfill Cyphion's wishes and that you wouldn't betray him, yet ideas on how to free yourself from him have been the only thing on your mind since leaving Floridawn."
+
+Thane fell into contemplation, and Ashlock allowed the silence to stretch between them. He hadn't expected to have a conversation partner during this errand run, and the man was clearly distressed. While he was no saint, he didn't mind extending a branch to save those who were willing to take it.
+
+"I... just want to live," Thane eventually said. "Is that too much to ask for?"
+
+Ashlock sighed. That was such a selfish view of the world.
+
+"You want to live? So does everyone, but survival isn't owed to you or anyone in this world. Not even to the heavens themselves. You have to know when to bow and when to fight. Now I ask you, Thane, which side will you pick? Who will you bow to?" He offered Anubis's bone-white bamboo hand and leaned forward. "Would you care to join me?"
+
+Thane stared at the hand for a long time. "I can't."
+
+Ashlock was curious, as that hadn't been the answer he expected. Here, standing before him, was a man who should have nothing to lose. Thane was practically a slave with an expiration date. The moment he completed his task of laying down the artifact for Cyphion, he was dead—and he knew that. So why would he deny an outstretched hand?
+
+"I can break the Qi tether on you and hide you away from Cyphion," Ashlock said. "I can save you."
+
+Thane snorted as if it were the most ridiculous thing he had ever heard. "Save me? As you said, actions speak louder than words, and you've already thrown me into hell. I wouldn't call pulling me out the act of a gracious god I'd want to devote myself to."
+
+"Interesting," Ashlock retracted the offered hand. "What is your plan then? Roll over and die to Cyphion?"
+
+"No. I want to retake control of my life and bow to nobody."
+
+"That sounds more like a dream than a plan," Ashlock said, starting to wonder if this bushy-bearded cultivator before him had spent too long out in the wilderness by himself. He didn't have the heart to kill the guy, even after he denied his help. Right now, he was more curious than anything. How could this weak cultivator, caught in a feud between powerhouses by a twist of fate, weasel his way out alive?
+
+"I think I have a way," he said mysteriously. "All I need is for you to truthfully answer one question for me, and I can set my plans into motion."
+
+"Oh?" Ashlock had been quite bored as of late, with nothing much to do besides overseeing the gradual destruction of Floridawn from above. Never had he expected to find such entertainment by interacting with one of the residents of the land he was hellbent on destroying. "I'm curious now. What is your question?"
+
+"Do you swear to answer truthfully?"
+
+Ashlock paused. Obviously, he could always lie or just kill Thane if the question or answer was something he couldn't honor. But there was something he had wanted to try for a while.
+
+"I swear on the name of the All-Seeing Eye that I will answer truthfully."
+
+A gamble, but one he felt he could take. He was curious to see if it would net him any extra divine energy for honoring whatever he swore on.
+
+"Now ask your question, Thane."
+
+Thane gathered his thoughts and then asked his question in a determined voice.
+
+"Imagine two rivers flow from you. One returns to fill your cup, the other waters every field but leaves your cup dry. When both rivers run dry, which do you save first—the one that feeds you, or the one that feeds the world?"
+
+"A riddle," Ashlock mused to himself. "Not what I was expecting, but interesting nonetheless. Is he trying to discern my true nature? I swore to answer truthfully, so what comes to mind?"
+
+He thought for a moment and then had an answer. "The riddle presents two obvious answers. If I choose the river that feeds me, that suggests I'm self-serving. But if I choose the river that feeds the world, I am selfless and act for others. However, to answer truthfully, I'd do neither of these. Since both rivers lead through me, they are ultimately the same river, so I would take what I need and distribute the rest to the fields."
+
+Thane seemed unnerved by his answer.
+
+"Do you have any more questions?"
+
+"No," Thane shook his head. "That answered everything I needed to know."
+
+"Do I still seem like a devil to you?"
+
+"Yes," Thane answered with certainty.
+
+That confused Ashlock. Hadn't he given a good answer to make this man trust him?
+
+"I see. Then if you won't side with me, what will you do now?"
+
+"As I said, I'm going to retake control of my life and bow to nobody. Your answer has given me everything I need to do so."
+
+Ashlock didn't know what to make of this. He had been prepared to answer questions about his true plans concerning this meeting spot or his goals in life. What he got instead was a riddle to possibly discern his nature, and that had been enough for Thane to see a way forward. It was truly perplexing.
+
+"Thane, I wish you the best of luck, and I'm curious to see your fate," Ashlock said, and had Anubis sink into the shadows. "I will open a portal for you back to the Celestial Empire. Feel free to use it or head back on your own."
+
+As a tearing open portal distracted Thane for a moment, Ashlock had Anubis sink into the man's shadow. He planned to watch with great interest as everything unfolded.
+
+***
+
+Thane didn't bother completing any recon, nor did he set down the artifact. Instead, he took the offered portal and headed back to the Celestial Empire. He was deposited on the border of Floridawn, with the desolation-riddled land stretching into the distance. Below him, weak monsters trudged almost lifelessly across the ruined land and were being blasted by techniques originating from a line of cultivators standing upon swords.
+
+A tense breath he didn't know he had been holding exhaled out of his lungs. That had been the first, and hopefully last time he spoke directly with a god—mouthpiece or not. It had been terrifying, and even in those inhuman eyes of the lich, he could tell that the being known as the All-Seeing Eye saw him as nothing but a bug that could be used for entertainment.
+
+Thankfully, he had made it out alive by seeming interesting enough, and the river riddle had answered many of his questions. Since he was caught between two godlike beings waging a war that would likely end the Celestial Empire as he knew it, he obviously had no hopes of fighting with his own strength. But he had spent many years skillfully navigating the noble circles and had learned an absolute truth: age and absolute power did not result in wisdom. In fact, he sometimes found it to result in the opposite. Wisdom was defined as the ability to apply knowledge and experience with good judgment and insight to make sound decisions. He had seen many occasions where entire noble houses fell over childish disagreements, and he had even caught thousand-year-old immortals acting on gossip they heard from their servants.
+
+People were stupid creatures, old and powerful or not. Councilman Cyphion wasn't infallible, and neither was the All-Seeing Eye. A fact both of them knew about each other, yet they tried to play each other all the same. Cyphion was a power-hungry and insecure bastard, while the All-Seeing Eye... well, that was a whole other jar of worms.
+
+Thane surveyed the misery and destruction below. The All-Seeing Eye had promised to answer truthfully to his riddle, and the given answer suggested that the god acted in a way that put themselves at the center of the universe. They weren't just selfish or selfless; they went a step beyond that to a level of delusion he had never seen before.
+
+Their answer had also confirmed their goal and purpose in attacking the Celestial Empire. If the All-Seeing Eye had answered that he would replenish his own river first, then that meant he deemed the Celestial Empire as a place he wanted control over, whether that be for the World Tree, the people, or anything else. Most Councilmen of the Celestial Empire would have answered as such, and these self-serving people were the easiest to deal with.
+
+If the All-Seeing Eye had instead answered that he would replenish the river that fed the crops first, it meant he was acting for other people. That would have been tricky, as Thane would then have to theorize who and what the goals of the people above the All-Seeing Eye could be.
+
+However, the All-Seeing Eye had acknowledged those two answers and even derived the meaning behind the question, yet he had given a third answer—one that terrified him.
+
+The All-Seeing Eye acted in a self-righteous way, and by the seemingly aimless destruction below, it all but confirmed his theory: the god simply wanted the Celestial Empire to burn to ash. Whatever logic or reason the god thought justified this mass destruction didn't matter. Now that Thane understood the All-Seeing Eye's personality, he could examine the god's actions and extrapolate his goals.
+
+After all, as the All-Seeing Eye said, actions speak louder than words.
+
+"Cyphion is nothing but a disposable pawn to the All-Seeing Eye, he confirmed that much himself to me just now," Thane muttered as he shot forward toward the still-standing part of the city in the distance. "The All-Seeing Eye doesn't want to talk with Cyphion or any of the Council at all. He wants to kill every last one of them."
+
+That unassuming mountain was going to become a grave of Monarchs in the future.
+
+After a while of traveling, he had calmed himself down and managed to arrive at Cyphion's residence. The grand palace, perched high above the city on the World Tree's root, was second only to Councilman Faelorian Lysanthos' estate in size and grandeur.
+
+The resident Monarch, perhaps sensing his arrival, came out of the main building and greeted him in a lush garden surrounded by sculptures, many of which Thane had crafted before the exile.
+
+"You're back earlier than expected," Cyphion said, frowning. "And I see you didn't place the artifact like I asked you to. What is the meaning of this, old friend? Are you betraying me?"
+
+"No, quite the opposite," Thane said, his fate weighing on his next few words. If he understood Cyphion like he hoped he did, he would fall for it.
+
+"Well, go on," Cyphion said.
+
+"I checked out the meeting area. There is a black totem with an eye on it, marking the location atop an unassuming mountain."
+
+"So what?"
+
+"From afar, I watched the totem being placed by the All-Seeing Eye himself through a rift. I don't know what godly technique the All-Seeing Eye used, but that totem contains a great power—almost like a bomb. It would no doubt be strong enough to kill one or maybe multiple Monarch Realms in one go. Yet, through a complex runic array that my stupid self couldn't comprehend, the true nature of the totem was perfectly hidden by the next day. I dared not place the artifact in case the All-Seeing Eye noticed it and fled back here as quickly as I could to inform you."
+
+That was it. The fabricated lie Thane had come up with to keep himself alive. Without needing to say it out loud, he had planted the seed of an idea in Cyphion's mind, just like those gossiping maids would do. A bomb that could kill multiple Monarchs, and Cyphion had been previously encouraged to bring other people to the mountain.
+
+Cyphion was still unable to leave Floridawn. He would need someone to continue acting on his behalf and to place the teleportation artifact... someone who seemed loyal and was aware of the situation.
+
+Thane was naturally the only choice, and he was also betting on the fact that the All-Seeing Eye planned to kill Cyphion no matter what. So, if everything went to plan, all of the Council would be wiped out, and he could live out his days in peace under the All-Seeing Eye, who, as a self-centered god, wouldn't bother with him.
+
+It was a perfect plan. All he needed was for Cyphion to bite.
+
+Cyphion leaned back in his garden chair, a deep frown etched on his face, but Thane could see the scheme coming together in the Monarch's mind. A tense silence stretched between them until Cyphion finally made up his mind.
+
+"Go and contact Faelorian Lysanthos for me. There is something I wish to discuss urgently with him."
+
+You really are a fool, Thane thought, but on the outside, he bowed respectfully. "As you wish, old friend, I will be back shortly." He bowed again and left.
+
+A smile never left his face.
+
+The All-Seeing Eye had asked what he wanted, and he had lied.
+
+What he truly wanted above all else, deep down in his heart, was revenge.

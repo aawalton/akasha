@@ -1,0 +1,105 @@
+---
+id: d3463d85-ee7c-595b-a902-5856e5771091
+page-type-slug: story-chapter-royal-road
+title: "Chapter 8: Grand Elder’s Declaration"
+slug: 0009-chapter-8-grand-elder-s-declaration
+partOf: reborn-as-a-demonic-tree
+position: 9
+ownLength: 1610
+unit: words
+ownProgress: 1610
+publishedAt: 2023-01-07
+link: "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/1081560/chapter-8-grand-elders-declaration"
+royalRoadId: "1081560"
+markedReadAt: "2026-06-29T19:01:47.653Z"
+---
+
+"Is this a demonic tree spirit?"
+
+Ashlock held his breath.
+
+If resisting Stella's Qi was like warding off a tsunami with a shovel, then the Grand Elders Qi was like throwing a pebble at a star—his death was inevitable if the Grand Elder deemed it so.
+
+Ashlock attempted to appear as harmless as possible. "I am a harmless humble tree mister. Please don't kill me." Obviously, the man couldn't hear his pitiful plea, but it was worth a try.
+
+"I believe so, Elder." Stella curtly replied as she rocked on her heels. "Isn't it amazing?"
+
+The Grand Elder sagely nodded his head as he inspected the demonic tree.
+
+"Indeed, for such a young demonic tree to cultivate to the 6th layer of the Qi realm? That's almost as fast as you, Stella, and it shouldn't even have a cultivation technique!" The Grand Elder opened his eyes and removed his hand from Ashlock's trunk with a smile tugging at his lips.
+
+"Oh, Elder, speaking of cultivation techniques..." Stella scratched the back of her neck as if embarrassed to admit something. "I tried looking in the sect library and couldn't find any cultivation technique that seemed applicable to a tree. Do we have any?"
+
+The Grand Elder shook his head. "Sadly, we do not. Tree spirits are barely sentient and, therefore, can't comprehend a cultivation technique. After thousands of years, some form soul cores and gain higher intelligence, but their biology is so far from us it's hard to convince one to try and cultivate like us." The Grand Elder picked up the golden fruit he had placed on the bench and twirled it in his hand. "This tree is a great find... but I fear if the Ravenbornes learn of its existence, they will storm in here unannounced and make a scene. These fruits alone would save them thousands of spirit stones a year in cultivation pills for their juniors."
+
+Stella walked up and patted Ashlock, "But Grand Elder, this tree is very intelligent. Unless I praised it or asked nicely, it wouldn't give me fruit. I think it might be a narcissist like the Patriarch—"
+
+"Hush child, do not speak ill of the Patriarch." The Grand Elder lightly smacked Stella on the head, causing her to whimper. "But you claim this tree has some level of intelligence?" The man stroked his chin and looked at the leaves rustling in the summer breeze with a distant look.
+
+No matter what the Grand Elder said, Ashlock planned to play dumb. Cultivator worlds were ruthless, and backstabbing was common. Keeping your true strength and trump cards close to your chest was the first rule of surviving in such a dog-eat-dog world.
+
+The Grand Elder positioned his hand below a fruit. "Drop." A few seconds passed by with nothing happening. "Is this really how you discovered the tree spirit was sentient?"
+
+Stella scratched her cheek. "That is correct, Elder. Perhaps ask the tree nicely?"
+
+The Grand Elder grumbled, "Please, o mighty tree spirit bestow upon me a divine fruit...." A breeze went by, and the happy chirping of the birds accompanied the awkward silence. "Maybe it's asleep." The Grand Elder resolutely declared, withdrew his hand, and assumed a whimsical stance.
+
+Stella tactically decided to remain silent for the Grand Elders' dignity and to avoid drawing any more attention to the tree. She knew in her heart that the tree spirit was there. Not only did it drop her fruits, it even gifted her earrings, and the most beautiful piece of wood Stella had ever seen, which she had turned into daggers—both of which were carefully hidden away. She was not strong enough yet to protect such rare treasures.
+
+"Alright, child, I will be on my way to report back to the disciplinary committee." The man winked as he left. "I saw nothing of interest."
+
+"Thank you, Elder, for your infinite kindness." Stella bowed, and the man waved her off.
+
+"No need to thank me... Oh, before I go, one last thing. As the Mistress and sole heir of Red Vine peak, you are hereby promoted to Grand Elder."
+
+Stella's mouth gaped open. "B-but Elder! I am only thirteen and in the 2nd layer of the Soul Fire Realm! How can I possibly bear the responsibilities of a Grand Elder."
+
+The Grand Elder shrugged, "Order of the Patriarch. You have five years before you must pass the Grand Elder test. If you fail... Red Vine peak will be handed over to House Ravenborne. That is the agreement the Elders reached this morning."
+
+Stella was stumped, and The Grand Elder cared little for her inner turmoil as he turned his back to her and started channeling Qi, causing the surrounding air to vibrate and groan as he began to tear reality apart with his two hands. Finally, the white flames that shrouded his body created a wormhole, a crack in existence, and without a hint of hesitation, the Grand Elder stepped through, and with a pop, he was gone.
+
+Stella collapsed to her knees and just stared at the spot the Grand Elder once stood with vacant eyes, her arms hung by her sides and her shoulders slumped. Then, after a while, she picked herself up and, with a huff, collapsed onto the bench under Ashlock's shade.
+
+"Tree... it's impossible, Red Vine peak will be taken from me." A tear threatened to spill from her eye, but she brushed it off with the sleeve of her black robe.
+
+"I tried so darn hard, Tree—everyone in my family was slaughtered in the last beast tide, and only me and my Father remained. If my grandparents and sister hadn't sacrificed themselves for the Patriarch, that bastard would be dead."
+
+Stella held back a sniffle as her arms dangled off the side of the bench. "And what does my family get for their sacrifice? The right to fight for our position among the other families. I could tell my Father was suffering; he was never the most talented at cultivation, and his foundation was already weak... So I begged him not to push for the Star Core realm—"
+
+Stella never finished the sentence and instead opted to watch Ashlock's red leaves gently sway in the wind.
+
+The weather was perfect, and the chorus of summer helped lighten Stella's mood... somewhat.
+
+"Those bastards want to kill me! What kind of thirteen-year-old is expected to strive for the Star Core realm? My Father was over a hundred when he attempted to ascend and form his inner Star Core, and he died trying."
+
+Her hands balled into fists at her side. "Tree, you may not know of the horrors out there in the wilderness, but the spirit beasts outnumber us cultivators a thousand to one. So when there is a beast tide, if the sect doesn't have a Monarch realm cultivator, the only option is abandoning the sect and migrating to new lands. If I can't become a Grand Elder by age eighteen, I will be cast out of the sect and be left to die out there..."
+
+Ashlock tactically sniped Stella's head by dropping fruit.
+
+"Ow!" Stella rubbed her head and scowled at the tree.
+
+"What was that for?" She picked up the golden apple and sensed the thick Qi, and her stomach rumbled from the delicious scent. Taking a bite, her eyes went wide, and she spoke with her mouth full, "Mhm! So good! Thank you." She ignored the tears streaming down her face and relished the delicious fruit.
+
+That was the fruit Ashlock had poured a lot of Qi into six months ago.
+
+"Sigh... this is quite the conundrum." Ashlock had felt firsthand the difference between Stella's Qi and the Grand Elders.
+
+If he guessed correctly, the Grand Elder was in the elusive Star Core realm, one major realm above Stella. "I can't imagine Stella could obtain that amount of power in just five short years... hell, I went from the 1st to the 6th layer of the Qi Realm in that time... Stella would need to obtain 7 layers in a higher realm in the same timeframe."
+
+"Tree, thank you for the snack. I feel much better now."
+
+Stella patted his bark with red eyes and tear-stained cheeks. "It may be impossible, but miracles can always come to those who try."
+
+Stella then marched directly toward the training courtyard and spent the next few hours smashing the ever-living shit out of the training dummies. Finally, as the sun dipped below the horizon, Stella collapsed in exhaustion.
+
+Seeing Stella work so hard inspired the slothful tree to finally do something useful. "I can sleep during the winter, but while summer persists, I best use my time... no more pointless sleeping... Maybe." The horrors of the {Hibernate} skill made him almost terrified of closing his eyes. What if he got trapped in that state of mind again?
+
+Ashlock decided to run away from sleep by distracting himself, and his first call to action was to utilize his new skill {Deep Roots}.
+
+First, Qi that he had collected throughout the day surged toward his roots like a cascading waterfall, and he felt them wiggle with power.
+
+Next, his roots began to expand like little fingers, seeping into every nook or crack in the rock. Then as the roots weaseled their way in, the Qi caused the root to rapidly expand, causing the rock to fracture and crack more, allowing the roots to delve even deeper.
+
+It was a horrifically slow, Qi-intensive, and mind-numbing process. Luckily his roots helped hold the rock together, so there was little chance of the mountain collapsing.
+
+"Heh. Soon the entire mountain will be one big tree."

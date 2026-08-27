@@ -1,0 +1,139 @@
+---
+id: 0945fe2a-4fe9-5437-bbf6-e56725b6d8c1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 553: Threats of a new kind"
+slug: 0119-chapter-553-threats-of-a-new-kind
+partOf: rise-of-the-living-forge
+position: 119
+ownLength: 1878
+unit: words
+ownProgress: 1878
+publishedAt: 2026-02-04
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3012072/chapter-553-threats-of-a-new-kind"
+royalRoadId: "3012072"
+markedReadAt: "2026-06-29T20:02:14.753Z"
+---
+
+Everyone from the Menagerie steadily congregated in the Devil’s Den over the course of the day. They all wanted to check in on Vix and make sure that the procedure had gone well. It was a lot more attention than she was used to. There were several moments where Vix had very clearly wanted to slip away.
+
+Unfortunately for her, Anna was being very strict — and attentive — about making sure Vix didn’t go using any magical power that she wasn’t permitted to. And at the moment, that was all of it.
+
+Vix’s only saving grace was the fact that there were still random adventurers in the Devil’s Den. Even though Lillia’s darkness afforded them all a fair bit of privacy, too much fuss couldn’t be concealed. That kept her stream of visitors from lingering around her for too long.
+
+The only ones that refused to leave her side were Anna and Art — but nobody was about to go and tell either of them to get a move on.
+
+It wasn’t long before evening arrived and night followed after it. The crowd in the common room of the Devil’s Den steadily trickled down to nobody more than the Menagerie as everyone either left or retired to their rooms, where Lillia’s shadows would keep them from overhearing anything they weren’t meant to hear.
+
+Only when the only ones that remained in the common room of the Den were the Menagerie and their allies did anyone finally dare speak fully openly.
+
+“What are the details? You have to fill us in,” Reya said eagerly. “What abilities does Vix have now? Can she show us? And does this mean Art is good as well? Who gets to Sunset their class next? There’s no chance of getting elongated like Koyu, is there? Because I’m happy with my height. I don’t want to be taller.”
+
+“I’m the same as I was,” Art said. He glanced down at his lame leg and shook his head. “But I need no modifications right now. I am satisfied as things are. My issue is not a pressing one. Not like Vix’s was.”
+
+“And nobody is getting involuntarily elongated,” Arwin added.
+
+“I chose this,” Koyu said. He now loomed over every other member of the Menagerie, the tallest by several heads unless Uriel counted as one of their members. “It was the most convenient way to achieve the power I needed.”
+
+“And that isn’t an insignificant amount at that rate,” Rodrick observed. “You’re much stronger than you used to be.”
+
+“Nothing meaningful has changed,” Koyu replied with a shake of his head. “And Arwin still owes me a body. I will be waiting for when he has perfected his technique to properly contain my form.”
+
+“That might be some time,” Arwin warned. “Vix’s heart was just about the most I think I’m possibly capable of right now. It pushed all the limits we had.”
+
+“And the strength you earned in return for its creation should push you closer still to where we must all strive for,” Koyu said. “The pursuit of power is not a race with a victory line. There is only ever the next step.”
+
+“That, at least, is true enough,” Anna said. She didn’t sound nearly as excited about the prospect as Koyu did. “But right now, all that matters is that Vix is doing well. Everything has been stable. It looks like the core is properly assimilating with her body.”
+
+“When will she be able to use magic?” Art asked. He reached down to take a plate of food from an imp offering it to him, then set it on the table between himself and Vix. “Is there a chance the core gets rejected later?”
+
+“It’s unlikely,” Arwin said. An imp set a plate down before him as well, piled high with huge chunks of delicious-smelling honeyed meat. “I know that isn’t what we want to hear. Absolutes are better. But I don’t want to gamble with Vix’s life. We’ll take things slow and careful until we’re certain everything is safe.”
+
+“Is there ever going to be a safe?” Ida asked from the far end of the table. She swallowed nervously as everyone glanced in her direction. “I mean… with the council. Dorne will be furious about what happened.”
+
+“Dorne is going to have bigger probems.”
+
+Ida nearly leapt from her seat as Lillia stepped from the shadows behind her bearing two plates in her hands. The dwarf wasn’t the only one surprised. Arwin nearly jumped as well. He hadn’t noticed her presence at all. She’d somehow become just as hard to spot as Eleven.
+
+Lillia set a plate of food down before Ida, then swept past her to take her seat beside Arwin.
+
+“I’ve already begun arrangements for that,” Rodrick said with a nod. “Lillia is right. Dorne will be… occupied. I don’t think we’ll have any more trouble from the dwarves before the auction. It’s during the auction that I’m a little more concerned about.”
+
+“I may be tempting the gods, but what idiot would possibly try anything to attack the Menagerie now, of all times?” Reya asked. “Even fools have their limits. And I know fools well. I love — uh, loved — robbing people.”
+
+The corner of Arwin’s mouth twitched in amusement.
+
+That’s reassuring.
+
+“Not us,” Kien said. He wiped his mouth with his napkin, having somehow already polished off his entire meal, then set the cloth down and interlaced his fingers as his gaze sharpened. “The primary targets during an auction are the buyers. And if someone gets robbed on Menagerie soil…”
+
+“Our reputation will be ruined,” Thane concluded. “It won’t matter what kind of stuff we’re selling if everyone thinks its unsafe. And the Dwarven Council’s backing isn’t going to stop people from trying to rob random people off property. It’s technically not their — or our — problem. That just isn’t how people will see it.”
+
+“We can’t possibly be expected to protect everyone the whole time they’re in Milten,” Olive said through a mouthful of food. “That would be impossible.”
+
+“No need to protect everyone. All we have to do is make sure the street is completely safe. And that’s something I’m more than confident you’re all capable of.” Raen crossed his arms in front of his chest. “I have complete faith in your abilities.”
+
+His powerful statement was made a bit weaker by the fact that his head was currently rested in Monica’s lap while the orc combed his hair, but Arwin appreciated the sentiment nonetheless.
+
+“We could pay some guards,” Melissa offered from beside them. “To lighten the load.”
+
+“Normal guards won’t do anything.” Rodrick shook his head. “The ones weak enough to be dissuaded by such threats will never even try their hand. Realistically, the best option is a demonstration of power. Once the first axe falls on the neck of an opportunistic thief, the rest will scatter.”
+
+“You’re saying we have to get someone killed on purpose?” Reya asked. “That’s dark.”
+
+“No,” Rodrick said. The corners of his lips pulled into a cold smile. “Not that I have an issue with defending ourselves or our reputation.”
+
+“That I can believe,” Ida muttered. “I’ve seen it firsthand.”
+
+“All we have to do is make sure people believe we’re willing to kill anyone that gets in our way,” Rodrick said with a small shrug. “We’ve pulled the trick before. It’s somewhat similar to what we did with Twelve. People will believe the easiest thing they see. If someone gets executed for thievery… well, the copycats are less likely to follow. I suspect we’ll still have trouble from the real powerhouses that we draw, but that can’t be avoided. Not entirely. I have some things I’m preparing for that. But they aren’t worth discussing. Such matters will likely have to be handled largely reactively.”
+
+“We’re gonna make a fake thief and kill them?” Reya asked. “That sounds fun. I’m in. Can I be the thief? As long as you don’t actually kill me.”
+
+“That was my plan,” Rodrick said. “We’ll talk soon. I need to finish a few other preparations — starting with making sure Dorne doesn’t try his hand messing with us at any point in the near future. Everyone should just keep preparing for the auction as they have been.”
+
+“How exactly are you planning to deal with Dorne?” Arwin asked. “He’s probably the one that sent his soldiers for Art’s team, right?”
+
+“He definitely was,” Art confirmed. “Rodrick described the armor. It’s the same group.”
+
+“And he’s not a weak dwarf. Attacking him could cause a lot of trouble. If the rest of the Council found out, even though he started it, they would still turn against the Menagerie. Dwarves protect their own interests,” Ida said uncomfortably. “Dealing with him is dangerous.”
+
+“It’s all handled,” Rodrick said simply. “Don’t concern yourselves about it. There’s more than one way to ensure a powerful enemy stays out of the way. The Council will never learn about what he will never share.”
+
+“Never share? Like he’s embarrassed or something?” Olive asked. She leaned forward. “Come on. You have to tell us now. What did you find? Did you dig something up on him?”
+
+“You don’t want to know,” Rodrick said.
+
+“I think we do,” Reya said, exchanging a glance with Olive. “Come on. Tell us. If this is big enough to keep someone like that silent, it’s got to be hilarious.”
+
+Rodrick was silent for a few moments.
+
+Then he shook his head. “Let it suffice to say that Dorne has a bastard. One that he’s taken great lengths to hide — and to keep hidden. It seems the boy has been working to start a clothing shop, but Dorne has been sabotaging his efforts to avoid too much attention on the boy or a disgraceful stain on his own name. Normal clothes aren’t a lucrative business when compared with blood money. Dorne’s warriors knew, though. An agent in my network was in a position to confirm the boy’s location. That was all I needed.”
+
+“You’re threatening his son?” Lillia asked.
+
+The corners of Rodrick’s lips twitched.
+
+“Not exactly.”
+
+***
+
+“Letter, Lord Dorne. For you.”
+
+Dorne glanced up from his meal and to the attendant standing in his doorway. A flicker of irritation cut through his thoughts. He’d still yet to hear back from his soldiers. It was getting late in the day. Much later than it should have been.
+
+“Give it here,” Dorne snapped.
+
+The attendant hurried over, handing Dorne a slip of paper before beating a hasty retreat down the hall. Dorne listened to the door click shut behind him, his lips still thin in displeasure. Then his gaze drifted down to the folded letter.
+
+The front of it bore his name and nothing else.
+
+“What is this sop?” Dorne muttered.
+
+He flipped the open with his thumb.
+
+Then his eyes widened.
+
+The slip of paper fluttered down from his suddenly numb to land on the table before him. It contained nothing more than two lines written in blood-red ink.
+
+We know where he is.
+
+The next time you challenge us, we will be investing in his clothing business. Good luck keeping anything hidden when half the kingdom knows his name.

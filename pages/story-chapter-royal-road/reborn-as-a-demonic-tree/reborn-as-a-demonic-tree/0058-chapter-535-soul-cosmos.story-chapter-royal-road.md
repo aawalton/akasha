@@ -1,0 +1,173 @@
+---
+id: ad23c825-d625-56cf-ba75-860cc333cefe
+page-type-slug: story-chapter-royal-road
+title: "Chapter 535: Soul Cosmos"
+slug: 0058-chapter-535-soul-cosmos
+partOf: reborn-as-a-demonic-tree
+position: 58
+ownLength: 3030
+unit: words
+ownProgress: 3030
+publishedAt: 2026-02-16
+link: "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3060525/chapter-535-soul-cosmos"
+royalRoadId: "3060525"
+markedReadAt: "2026-06-29T19:03:31.457Z"
+---
+
+After invading Magnus's mind with Abyssal Whispers and welcoming him back, Ashlock felt the horrific coldness of the primordial ice that had seeped deeply into his entire being fade into the background while in the presence of the man—who had not only become a Monarch of flame—but had seemingly shed his mortal body and become fire itself.
+
+Now towering at a height of two and a half meters, which would make Magnus dwarf most other cultivators, he appeared far different from the calm-faced warlord he had entered the Eternal Realm as.
+
+Magnus's skin now gleamed like volcanic obsidian, polished to a mirror-like sheen and etched with glowing fissures that offered a glimpse of the molten magma pulsing below the surface. Each movement Magnus made as he strode out of the Eternal Realm's fog like a fire elemental seemed to release enough heat to make the surrounding air shimmer. His eyes were no longer human. They had become twin suns, radiant orbs of regal golden-orange flame that illuminated everything they looked upon.
+
+Staring into them, Ashlock felt as though he were peering into trapped stars.
+
+While Magnus's fiery gaze enveloped him, Ashlock felt the whispers of the fire dao at the back of his mind. After a few moments, the echoes of Magnus's insights were imprinted onto him.
+
+[Comprehension of fire and volcanic dao has increased]
+
+Ashlock glanced at his other system window that was ever-present in the corner of his consciousness.
+
+[Monarch Realm ascension requirements:
+
+Possess an Inner World: 1/1
+
+Comprehend Desolation Law: 84%
+
+Devour the souls of nine Monarch Realm beings: 0/9]
+
+Ashlock felt the echo of fire dao knowledge sear itself into his mind. The process was so effortless that he wasn't surprised it only boosted his comprehension of Desolation Law by 4%. He already had a solid foundation in fire dao, thanks to the thousands of his offspring cultivating fire Qi, unlike ice dao, which he had known nothing about before. Besides, gaining fire dao through an echo could never compare to comprehending the dao himself.
+
+Lastly, it was fire dao with some volcanic dao mixed in. Neither of those could compare to the comprehension of Primordial Ice Law.
+
+"I'll probably reach 100% comprehension in Desolation Law before I finish the task of devouring the souls of nine Monarch Realm beings anyway, so I'm not that concerned about the progress," Ashlock mused. Right now, killing nine Monarchs was the most significant bottleneck he faced in reaching the Monarch Realm for himself.
+
+He had considered the idea of invading the Eternal Realm and hunting for Monarchs to fulfill the requirement, but that idea was considerably risky.
+
+Monarchs weren't going to be easy to kill, even here on the ninth layer of creation, where he could utilize his entire strength within his root range and provide his full support to his summons and Monarch Sect members.
+
+If he were to go hunting for Monarchs in the Eternal Realm, he would be severely limited in the assistance he could provide, not to mention his presence in the Eternal Realm would slow down the time dilation, meaning the progress of anyone inside would be relatively slower. For example, if he were to try to assist the hunt via Moros, the only one of his Bastions that had the chance to survive a hit from a Monarch, it would count for at least three people—his soul shard and the two Bastion Cores. If the Eternal Realm also counted the other spirit trees on the flagship as distinct entities, then Moros would count for nearly thirty people, nullifying the Eternal Realm's time dilation altogether.
+
+Besides, he wanted to slaughter and feast on the blood of every last one of the Celestial Empire Monarchs that rose to power by enslaving and torturing Stella's mother and a fellow spirit tree. In his opinion, the Councilmen of the Celestial Empire were the true monsters and needed to be culled for the realm to see peace.
+
+Of course, perhaps from their perspective, he was the villain for bringing Floridawn to ruin, and he was certain the mortals caught in this war were less than pleased with him.
+
+But again, as far as he was concerned, the citizens of the Celestial Empire were far from innocent. They had also benefited from the World Tree's suffering, turning her body into their home like parasites and enjoying pleasant lives while the rest had to suffer the beast tides out in the wilderness. It's not like the Celestial Empire could claim ignorance, as the Eternal Pursuit Pavilion had branches throughout the wilderness, allowing the Celestial Empire to trade for resources without ever having to set foot out of their monster-free lands.
+
+"They deserve everything I'm doing to them, those bastards—"
+
+"Ashlock," Magnus Redclaw's voice cut through his brewing hatred. "You're letting the fire's rage get to your head," he said calmly while gesturing to the sky of his Inner World.
+
+"What?" Ashlock grumbled, annoyed that his thoughts were interrupted.
+
+However, as he looked up, he was greeted by a raging inferno in the sky, dyeing his Inner World a dark red hue. Alongside the echo of Magnus's dao insights, there had been a rush of fire Qi, which he hadn't acknowledged until now. As his Qi reserves were topped up after spending two days sleeping under the nine moons, it had nowhere to reasonably go, so it had gathered in the skies of his Inner World.
+
+While Ashlock could have held it there as beautifully pure fire Qi or converted it into desolation Qi to store in his own reserves, he instead swiftly redistributed the fire Qi through his ethereal root network to his many offspring who cultivated fire affinity. Since he was already on the border of ascension to the Monarch Realm, he had no need to gather so much excess Qi besides to fuel the war efforts. But such pure fire Qi? His offspring could make better use of that than he could.
+
+Magnus watched on in apparent disbelief as the raging inferno, which looked like it could swallow a world, was effortlessly torn apart by invisible forces and dispelled.
+
+Almost instantly, Ashlock felt his rage subside. No doubt about it, the sudden surge of Monarch Realm fire Qi, paired with dao insights, had overwhelmed him.
+
+"You never cease to amaze me," Magnus said as the nine moons became visible once more. "Your Inner World is also far more impressive than mine."
+
+"Thank you, though I should have suspected something was off when I suddenly got angry over nothing. I appreciate you bringing me back to my senses there." Ever since his human soul was transformed into that of a spirit tree, he rarely experienced strong emotions such as rage.
+
+Magnus nodded contemplatively. "I can hardly blame you. Of the four primary elemental Qi types, fire is the most dangerous to allow into one's soul unchecked."
+
+He flexed his hand, which radiated shimmering heat. "A part of me is now wondering if the heavens turned me into this volcanic being because I progressed too hastily, and my body of flesh and blood could no longer contain the fire's wrath. I've never felt so... calm before. All my life, I've had the rage of fire whispering in my ear, begging for me to lose control and unleash its wrath. In becoming a Monarch, I've finally tamed the fire that once controlled me."
+
+Magnus then went on to explain how the heavens recreated his body and destroyed a pocket realm in the process. He wanted answers for why the heavens had done such a thing to him.
+
+Ashlock pondered his explanation for a long while before providing an answer.
+
+"As far as I know, the Redclaw family doesn't seem to possess any special bloodline, which has been consistent thus far with family lines that extend throughout the layers of creation, such as the Crestfallen or Ravenborne families. Also, before specializing in volcanic dao, you focused on fire, which is one of the most common affinities. Therefore, the likelihood that you are descended from an ancient family is unlikely," Ashlock paused. "Though... I wouldn't rule the possibility out, as Vincent Nightrose seemed to only collect families with bloodlines, and he had a much better way to sniff them out than I."
+
+Magnus crossed his arms, and his sleeve fell, revealing his vascular arms glowing from the magma. "I don't believe we have a bloodline, as we were reluctantly welcomed into the Blood Lotus sect to fight their wars rather than being sought out."
+
+"To fight their wars?"
+
+"Yeah, in the distant past, the beast tides were less ferocious and didn't span across entire leylines, meaning there was more time to settle down and mine all of the resources nearby." Magnus chuckled, "This led to many border disputes between sects and pointless wars."
+
+Ashlock mused to himself, "That was likely in the era before Zephyrine took control of the beast tides." It was also true that he hadn't seen any sects engage in sect wars since he had arrived. Instead, all wars had occurred within the Blood Lotus Sect between the different noble families.
+
+Unaware of his thoughts, the Monarch continued recalling the past with a frown. "Now that I look back, most of us wasted more Qi fighting over the spirit stone mines than we gained in compensation from the spirit stones we won control over. The vast majority of the resources won went into Vincent Nightrose's formations and to fuel his own cultivation. But at the time, that was justified, as the only reason the Blood Lotus Sect wasn't invaded was due to his famed strength." Magnus sighed deeply, shaking his head. "Looking back, it all seems so pointless. I barely ever saw any of the resources I waged my life for, hence I was stuck in the early stages of the Star Core Realm until this year."
+
+"Was that common practice? To give all resources to the sect leader?"
+
+"Of course! Without a strong Patriarch, there is no sect. Out here in the wilderness, there's no way to survive without cowering under the shade of a titan."
+
+"Is that why the Redclaw Family joined the Blood Lotus Sect?"
+
+"Yeah." Magnus nodded. "We used to be part of the Ironwood Sect that lay to the west of here. It was a small sect, just a hundred or so cultivators lording over a single city of mortals. Our sect leader was in the sixth stage of the Star Core Realm, which was considered strong, but nothing compared to a powerhouse like Vincent Nightrose."
+
+"What happened?"
+
+"War," Magnus shrugged. "The Stormclaw Sect arrived at our gates with a large force and were let in by an Ironwood noble family with whom they had colluded. The battle lasted a single night, and we fled by morning. I was young back then, and it's been so long that the memories are honestly quite hazy."
+
+"What happened to this Ironwood Sect? Do you know?"
+
+"They still exist, as far as I'm aware. Though in what state, I have no idea."
+
+"Interesting."
+
+A contemplative silence settled between them. Ashlock decided to bring the topic back to Magnus's ascension while feeling oddly closer to the man than before, now that he knew this history.
+
+"Magnus, I believe in the theory that the pocket realm you absorbed was some kind of inheritance realm. The only other explanation I can see is that the heavens themselves wanted to grant you a new body and simply needed to devour the pocket realm to fuel your change."
+
+Either way, absorbing pocket realms definitely wasn't a listed feature of the Eternal Realm. Not that he would outright tell Magnus that.
+
+"I see," Magnus said, sighing to himself. "I suppose we will have a better idea once more members of the sect ascend to the Monarch Realm, as ridiculous as this sounds to say out loud." He glanced behind himself at the Eternal Realm fog. "Who are you planning to send in next after myself and Elysia?"
+
+Ashlock pondered for a moment. "Mhm, I'll probably wait until Elysia is out, but if Stella returns before she is done, then I'll likely send Stella and Diana in again so they can both reach the Monarch Realm. That way, I'll be up to eight Monarchs I can rely on. Though there's still a small problem."
+
+"Which is?" Magnus asked, raising a brow.
+
+"You, Elysia, Stella, and Diana will all be fresh Monarchs, who will likely struggle to win one-on-one against a Council member of the Celestial Empire. They are all ancient monsters who have been in the Monarch Realm for a long time and likely have much better mastery over their domains," Ashlock explained. "However, I believe Nyxalia, Larry, Zephyrine, and Maple, if I can get him to act, will all be able to hold their own."
+
+Magnus rubbed his chin in contemplation. "This is a good point. I haven't even used my domain yet, so I'm not even sure of my own capabilities. However, I'd like to point out that even though the Monarchs of the Celestial Empire have access to the World Tree's golden sap, I'd argue that the Monarchs of the Ashfallen Sect should all be able to punch above their weight with some practice due to the amazing resources you have provided us."
+
+"Really?" Ashlock asked, not convinced of that claim.
+
+"Without a doubt," Magnus nodded confidently. "While anyone able to reach the Monarch Realm in the Celestial Empire is no doubt a generational talent in not only cultivation but also in navigating politics and business to fuel their rise while staying alive, they will still have flaws—heart demons and imperfect spirit roots. They will also be willing to backstab each other, and some might even want to see the fall of the Celestial Empire. Never count out the human element in war. Sometimes a single cultivator's greed can lead to the downfall of an entire sect or even an Empire. But this is something the Ashfallen Sect is far less likely to suffer from, in my opinion, given your leadership."
+
+Ashlock was both flattered and feeling a little more optimistic after Magnus's speech, as he raised some good points. It was true that while he had fewer Monarchs than the Celestial Empire and many were weaker, he still had many advantages.
+
+"Those are all good points, Magnus," Ashlock said, "and I have a proposition if you aren't too exhausted after your ascension."
+
+"Oh?" Magnus said, sounding intrigued.
+
+"I've got a very durable General that I've also wanted to test the capabilities of, and he would give you a perfect target to practice using your domain on."
+
+Magnus looked down at himself. "Besides needing some new clothes, my Inner World, Star Core, and Nascent Soul all seem filled with Qi."
+
+Ashlock realized that, as Magnus was the first cultivator to experience a normal ascension, besides absorbing a pocket realm, he would be the best example of what a normal Monarch's soul should look like. Obviously, none of his summons or his soul space was a good example.
+
+"Would you mind if I take a look at your soul?" Ashlock asked.
+
+Magnus nodded. "With pleasure."
+
+Ashlock's Evil Eye manifested in the sky above, and he peered down at Magnus.
+
+First of all, he confirmed that Magnus was very much no longer human. While appearing humanoid, his body lacked any organs. He also didn't really have spirit roots anymore, as his entire body was made of fire, and while Magnus claimed to be calm, Ashlock felt a little concerned about having him inside his Inner World now that he'd seen just how much raging fire Qi was trapped within him.
+
+Getting past Magnus's body, or 'vessel' as higher-being cultivators like Senior Lee would call it, he peered into his soul space. Much like Ashlock, it was a non-physical spiritual space that housed one's soul.
+
+Inside, he found a small Inner World—a volcanic planet that reminded him of Mars. Its surface was a sea of flame, with volcanoes that looked ready to erupt at a moment's notice. His attention was naturally drawn to a massive volcano that dominated half of the planet's surface and seemed to be the source of the Inner World's ego. Apart from a few broken moons that orbited the Inner World, two blinding suns hung above the massive volcano and scorched the planet's surface.
+
+They were Magnus's souls. The brightest and oldest of the two was his Star Core, while the other, a slightly smaller and younger one, was his recently formed Nascent Soul. While both could technically be referred to as Star Cores or Nascent Souls, Ashlock could see that they were ever so slightly different, so he decided to differentiate the two.
+
+"Things are getting complicated now," Ashlock mused. It had once been simple enough to refer to a cultivator's Star Core or Nascent Soul, but with the addition of an Inner World—and in Magnus's case, even tiny moons—he needed a term for the entire system, since every part contributed to a cultivator's strength. The Inner World was the physical manifestation of a Monarch's immense dao comprehension and allowed them to manifest a domain, while the Star Core and Nascent Soul supplied the Qi that powered their techniques.
+
+While pondering the name, a system message popped up over Magnus's soul space.
+
+[Magnus Redclaw's Soul Cosmos]
+
+"So it already has a name. Interesting," Ashlock mused. After inspecting it for a while longer, he was very curious about how much firepower Magnus could unleash now, seeing how violent his Inner World seemed to be compared to his.
+
+"Your Soul Cosmos seems to be in good order," he said, casually slipping that terminology in as if he always knew it. "Let's go see what you can do against my General."
+
+Ashlock tore open a desolation rift and quickly went westward toward where he had left Bob two days ago to set the rift's anchor point.
+
+He expected to find Bob quietly guarding the massive dragon corpse, perhaps even sneakily biting off a few pieces. What he hadn't expected was that upon his arrival, he found Bob engaged in battle.
+
+With another dragon.

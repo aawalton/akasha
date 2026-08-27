@@ -1,0 +1,275 @@
+---
+id: 09ff1f18-eff7-549a-9434-7d8cf660e68e
+page-type-slug: story-chapter-royal-road
+title: "724. Not A Lot Of Options (Start Of Book 14)"
+slug: 0131-724-not-a-lot-of-options-start-of-book-14
+partOf: salvos
+position: 131
+ownLength: 1600
+unit: words
+publishedAt: 2025-04-05
+link: "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/2175477/724-not-a-lot-of-options-start-of-book-14"
+royalRoadId: "2175477"
+---
+
+724. Not A Lot Of Options
+
+Ever since I returned to the Netherworld, a lot of events had transpired. It wasn’t a long time— at least, compared to the time I spent back in the Mortal Realm. However, it felt like a lot more time had passed than actually did. Because of the amount of things I had done since I gotten back.
+
+The amount of trouble I had gotten myself into, to be specific.
+
+First of all, I discovered my dad’s kingdom— a Dungeon that led deeper down into the bottom layers of the Netherworld. There, I found the end of the world. The infinite wall of corruption that was slowly eating its way through all of the Nexeus.
+
+And that was not all. I had also discovered the cause of the end of the world. My dad— the Devil— was partially to blame. But in reality, it was because he had been tricked by someone he thought was his mentor.
+
+That was not all that happened since I returned to the Netherworld. Finally, after so long, I reunited with Haec— my first companion. It was a touching reunion. I had truly missed him. Even if we both had changed drastically since we last saw each other, I was still happy I could be with him again.
+
+Although, our reunion was cut short because of the Deathsquad Hunters hunting him down, before we were forced to escape the wrath of the Beast. Which was the strongest being in all of the Nexeus.
+
+Or so my dad said.
+
+And now, after all those events that I’d been through, I didn’t slow down. I didn’t bring Haec back to the Mortal Realm.
+
+Because… I was in the middle of starting a revolt against the Demon King.
+
+Well, to call it a mere revolt was a bit of an understatement. It was more like a full-on rebellion. Maybe even calling it a civil war was appropriate.
+
+After all, not only had we already recruited a large number of the Demon King’s Legions that were stationed at the Expanse, we also had converted quite a few of Regnorex’s top generals to our cause.
+
+For example, Hartia the Ruler of the Border was now on our side. He was the reason why this rebellion was even possible in the first place, because he could remove the collars that were keeping everyone obedient.
+
+And now, we had also recruited Manos the Executioner— the leader of the Deathsquad Hunters— to our side. Another high-leveled Deathsquad Hunter, Sicar, came along too.
+
+Although, we didn’t even need to do much to recruit either of them to our side. Even still, it was great to have more allies. Or so I thought.
+
+Unfortunately, it seemed that not everyone thought bringing in the leader of the Deathsquad Hunters to our camp was a good idea.
+
+I watched from the side as a crowd gathered around Haec, Manos, and Sicar, protesting the presence of the two high-leveled Deathsquad Hunters. Meanwhile, the rest of the gathered free legions looked like they were debating fleeing or attacking right at that moment.
+
+But I ignored this scene. I knew that Manos posed no real threat to us. And since Haec was the leader of this rebellion, it was up to him to convince everyone that Manos was truly on our side.
+
+Especially since I had better things to do right now.
+
+I closed my eyes as I focused on the words lingering in the back of my mind. I had already distributed all my Stat Points between [Wisdom] and [Agility], while maxing out [Cluster Time Dilation] with my Secondary Skill Points. For the rest of my Skill Points and Secondary Skill Points, I distributed them between my Skills and Secondary Skills that I felt would be most useful for the upcoming battles.
+
+And now, there were only two things I needed to do. The first was to resolve this notification blaring in my mind.
+
+[Titles Available]
+
+“Alright, let’s see what’s this about…”
+
+I whispered as I pulled up the list of Titles that were available for me. I ignored all the previous Titles I had already rejected.
+
+Titles:
+
+(Faeslayer—
+
+You have accomplished—
+
+“Nope. I already didn’t want you.”
+
+(-̴̛̠͊̀͝-̵̪̱̼͑-̶̰͎͙̉̆͝-̸͙̍̀͠-̴̛̠͊̀͝-̵̪̱̼͑-̶̰͎͙̉̆͝  S̶̛̼̗̅ė̶̺̜͕ntǐ̶̬nĕ̷̪ͅͅl̵̨̦̗͗̔̃—
+
+-̴̛̠͊̀͝-̵̪̱̼͑-̶̰͎͙̉̆͝-̸͙̍̀͠-̴̛̠͊̀͝-—
+
+“And I definitely don’t want you.”
+
+I rolled my eyes, before ignoring the prompt. Right now, I wanted to see what brand new Title I got for killing Jofis. Even if I technically didn’t kill him. I still leveled up a lot from that battle. And it was one of the toughest battles I had ever partaken in thus far.
+
+So I truly hoped that whatever Title was waiting for me was going to be good.
+
+And it was.
+
+(Immortalslayer)
+
+You have slain an immortal being! Very few entities in all of the Nexeus have reached the precipice of immortality throughout history, and you have managed to completely circumvent the unkillable nature of one such immortal! As such, you have earned the rare Title of a slayer of immortals!
+
++50 [Vitality]
+
++50 [Strength]
+
++50 [Endurance]
+
++50 [Wisdom]
+
++50 [Agility]
+
+Bonuses:
+
+*You have a 10% higher chance of permanently killing an immortal with a lethal blow!
+
+*You get to keep your current Titles and all their Bonuses and Skills.
+
+“Huh.”
+
+I blinked a few times as I took in the brand new Title that was offered to me. It was the only Title that was being offered. And yet, it was… very good.
+
+I was surprised. Especially by the bonus it offered. So not only was I more effective against killing immortal beings like Jofis now, I would also be able to keep all my current Titles.
+
+It was just like the bonus offered by The Devil’s Daughter.
+
+I couldn’t help but grin at the prospect of not just getting stronger, but being able to kill an immortal easier. Although… I was surprised Jofis was considered an immortal.
+
+I always thought dying became harder at Level 200 and above. But Jofis was not at that level when we fought, even if he had once been a Primordial Demon. Which meant that he somehow still retained his immortality he had when he was at above Level 200, despite de-leveling and devolving back to a Primeval Demon.
+
+That’s interesting to know, I thought to myself as I tapped a finger on my chin. No wonder he was so difficult to kill.
+
+It was not like I had much of a choice right now— I didn’t have to deliberate much. So I just accepted the Title that was being offered to me.
+
+Title Gained!
+
+(Immortalslayer)
+
++50 to [Vitality]
+
++50 to [Strength]
+
++50 to [Endurance]
+
++50 to [Wisdom]
+
++50 to [Agility]
+
+Bonuses:
+
+*You have a 10% higher chance of permanently killing an immortal with a lethal blow!
+
+*You get to keep your current Title and all its Bonuses and Skills.
+
+General Skill [Title Skill: Rapid Disengage] Obtained!
+
+“Alright, now that that’s settled, there’s only one thing left for me to do.”
+
+I spoke as I dusted my hands off. Focusing inwardly, I took in my Status. There was something I had— two things I could distribute, actually.
+
+Salvos (The Enemy of the Demon King) (The Devil’s Daughter) (Immortalslayer)
+
+Species: [Primeval Demon of Pride]
+
+Secondary Species: [Lesser God]
+
+Subspecies: [Angelic Devil Princess] - Lvl. 174
+
+Class: [C-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝rr-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝pt-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝d Appr-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝nt-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝c-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝] - Lvl. 158
+
+General Skills:
+
+[Advanced Mana Manipulation] - Lvl. 10 (Maxed)
+
+[Corruption Mastery] - Lvl. 1
+
+[Identification] - Lvl. 6
+
+[Racial Skill: True Divinity] - Lvl. 1 (Maxed)
+
+[Racial Skill: Universal Language Comprehension] - Lvl. 2
+
+[Rest] - Lvl. 5
+
+[Wisdom of the Old Gods] - Lvl. 5
+
+[Title Skill: Demonic Essence Resistance] - Lvl. 1
+
+[Title Skill: General Status Effect Resistance] - Lvl. 1
+
+[Title Skill: Invoke Wrath] - Lvl. 1
+
+[Title Skill: Influence Wild Demons] - Lvl. 1
+
+[Title Skill: Rapid Disengage] - Lvl. 1
+
+[Title Skill: The Devil’s Grace] - Lvl. 1
+
+[Racial Skill: Divine Essence of the Angelic Devil Princess] - Lvl. 1
+
+Stats:
+
+[Available Stat Points: 0]
+
+[Vitality]: 330 (+150) (+10) (+50) (+100)
+
+[Strength]: 330 (+10) (+10) (+50) (+100)
+
+[Endurance]: 330 (+10) (+10) (+50) (+3) (+100)
+
+[Wisdom]: 500 (+40) (+10) (+50) (+50) (+100)
+
+[Agility]: 545 (+10) (+10) (+50) (+5) (+100)
+
+Skills:
+
+[Available Skill Points: 6]
+
+[Angel’s Wings] - Lvl. 20
+
+[Barrage of Cinders] - Lvl. 20 (Maxed)
+
+[Divine Demon’s Mark] - Lvl. 20 (Maxed)
+
+[Divine Haste] - Lvl. 20 (Maxed)
+
+[Intimidation] - Lvl. 10 (Maxed)
+
+[Faux Limbs] - Lvl. 25 (Maxed)
+
+[Divine Nebular Construct] - Lvl. 25 (Maxed)
+
+[Divine Strike] - Lvl. 20 (Maxed)
+
+[Divine Radiant Slash] - Lvl. 15 (Maxed)
+
+[Sacred Hellfire] - Lvl. 18
+
+[Salvo of Vanity] - Lvl. 25 (Maxed)
+
+[The Call of Armageddon] - Lvl. 15
+
+[The Holy Flames] - Lvl. 20 (Maxed)
+
+[Passive - Angelic Premonition] - Lvl. 15
+
+[Passive - Weapon Mastery] - Lvl. 20 (Maxed)
+
+[Available Grand Skill Points: 2]
+
+[Claw of Corruption] - Lvl. 2
+
+[My Flame Shall Burn Until Eternity Ends] - Lvl. 3 (Maxed)
+
+[Unused Skill Slot] x2
+
+Secondary Skills:
+
+[Available Secondary Skill Points: 0]
+
+[Corrupted Draconic Fury] - Lvl. 1
+
+[Cluster Time Dilation] - Lvl. 15 (Maxed)
+
+[Greater Teleportation] - Lvl. 20 (Maxed)
+
+[Manifestation of the Old Gods] - Lvl. 10 (Maxed)
+
+[Prison Of Isolation] - Lvl. 17
+
+[Riftwalk] - Lvl. 2
+
+[Truth Divination] - Lvl. 10 (Maxed)
+
+[Worldbreak] - Lvl. 6
+
+[Passive - Corrupted Dragon Scales] - Lvl. 1
+
+[Passive - Corrupted Regeneration] - Lvl.1
+
+[Passive - Master of Material Manipulation] - Lvl. 15 (Maxed)
+
+[The World of My Mind] - Lvl. 1
+
+[Unused Skill Slot] x1
+
+“My Grand Skill Points.”
+
+I whispered as I grinned.
+
+“Now, what should I spend them on?”

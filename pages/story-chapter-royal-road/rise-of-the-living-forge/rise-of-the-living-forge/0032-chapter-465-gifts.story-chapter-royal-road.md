@@ -1,0 +1,171 @@
+---
+id: b5ba505b-5a07-50b8-b252-e3a8c1a3b298
+page-type-slug: story-chapter-royal-road
+title: "Chapter 465: Gifts"
+slug: 0032-chapter-465-gifts
+partOf: rise-of-the-living-forge
+position: 32
+ownLength: 2164
+unit: words
+ownProgress: 2164
+publishedAt: 2025-08-01
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2484286/chapter-465-gifts"
+royalRoadId: "2484286"
+markedReadAt: "2026-06-29T19:59:28.929Z"
+---
+
+Thane found himself standing in the courtyard before his mind could even finish processing everything that had happened. He stood at the far end of a large dueling circle, a patch of well-worn sand scuffed from years of use.
+
+And at the other end stood Drake. Glistening black armor adorned his entire body, studded with beautiful silver trimming and adornments. He bore a polished sword of matching obsidian, a red ruby embedded in the center of its pommel.
+
+It had only taken Thane a single look to tell that he was completely and utterly outmatched. That was the one thing his class was good at, after all. Giving information.
+
+Drake’s armor was enchanted to reflect all manners of physical blows. It was reinforced to resist damage and could absorb a fair amount of magical energy before shattering. None of the magical effects were particularly powerful compared to what he’d seen the Menagerie wearing. Thane was pretty sure one strong monster from an Expert Ranked dungeon would have been enough to exhaust the defenses in Drake’s armor… but there was no monster here.
+
+There was only Thane.
+
+And Drake had far more than just defense. His sword was magical as well. The ruby within it stored blood from the damage it dealt, allowing the blade to send magical waves of blood magic carving out with every strike.
+
+As if that wasn’t enough, the sword was also magically strengthened and would never need to be sharpened until its power ran out. The entire setup probably cost tens of thousands of gold if not hundreds.
+
+Great. The only thing I can do is tell just how screwed I am. What do I even have to work with?
+
+Thane hadn’t come completely unburdened to the party, but he had come entirely unprepared. The only thing he had on him was his backpack full of research and research materials and the two items he’d gotten from Esmerelda.
+
+A butter knife that’ll cut through my own hand if I try to cut anything but butter with it and the hilt of an ancient old sword that should be preserved and studied, not fought with. And even if I wanted to fight with it… what the hell could it do? It doesn’t have any special properties. My class would have shown me if it did. This is just a historical artifact. I’m not going to ruin it for something like this. I’d rather get stabbed myself than let that happen.
+
+“We should make sure this is a proper duel,” Drake said, his voice cutting through the excited chatter. It wasn’t every day that a good duel went down, after all. “We’ll each need a second. Would anyone be interested in serving as my—”
+
+Drake didn’t get to finish before a dozen nobles all voiced their interest. His lips twisted into a smirk.
+
+A note of annoyance shot through Thane. It wasn’t like anyone was actually that interested in supporting Drake. Being a second wasn’t that much of a commitment at all when there was absolutely no chance their services would be needed. There was no fight set up here. Just a slaughter.
+
+“Well, I’d love to pick all of you, but I can’t,” Drake said. He dragged the moment out for a moment longer before pointing at one of the younger nobles in the crowd. “Cen, would you do me the honor? House Silver Herring has always been close with Blacktongue. I would be greatly at peace to have you at my side.”
+
+“With pleasure,” the noble rumbled, stepping forward to stand behind Thane. Cen was a head taller than Drake and half as attractive. He bore ill fitting armor and a large sword on his side that had never seen a single battle. His heavyset form would probably have more use as a large doorstopper than a warrior — but it hardly mattered.
+
+This was all just theatre.
+
+“And you?” Drake asked, turning to Thane and not even bothering to hide the amusement in his eyes. “Who will be your second?”
+
+Every single hand in the crowd fell.
+
+It was, after all, Drake’s birthday. Nobody was going to take any side other than his. That went doubly true when Drake was the one who was in line to lead the Blacktongues. Making an enemy of him here was an incredibly poor decision that no merchant in their right mind would—
+
+A small murmur passed through the crowd as a man stepped out from within it. He was… plain. There was no other word to describe him.
+
+The man had brown hair and brown eyes, standing at the most average height he possibly could have been. He was neither muscular nor thin. Really, there was absolutely nothing remarkable about him in the slightest. Even his clothes were plain. They were just fancy enough to fit into the crowd without being nice enough to ever be worth noticing. He walked with a rather unhurried gait until he came to a stop at the edge of the ring beside Thane.
+
+He… actually volunteered? To help me? Who is this?
+
+“I would,” the man said, his voice just as uninteresting as the rest of him. “There can be no duel without a proper second. Someone must do it.”
+
+“Very true!” Drake exclaimed. “And who are you, my good man?”
+
+“You can call me Mask,” the man replied. There was a slight note of amusement in his voice. “On account of how many have suggested I wear one so they have something to remember me by.”
+
+A chuckle rolled through the crowd.
+
+“Mask, then,” Drake said. He made no move to hide the barbs in his words. “You seem suitable for Thane. Then—”
+
+“Hold, now,” Mask said. His head tilted to the side. “I think it right to make sure the good boy has a weapon, no? Or do you expect him to fight you by beating you over the head with his bag?”
+
+“Of course not,” Drake said with a wave. “Please, feel free.”
+
+Mask smiled. And, from within his clothes, he procured a blade. It wasn’t quite lengthy enough to be a sword, but it was twice the length of a normal dagger. The weapon resembled its master quite well. It was unadorned and without flourish.
+
+“This should do you well, I’d say,” Mask said, holding the blade out to Thane.
+
+I don’t know what good some random dagger is going to…
+
+Thane’s thoughts ground to a halt. His brow furrowed. Something about the weapon was… wrong. Information roiled within him as his class fought to identify it. There was magic within the blade.
+
+This was no mere piece of metal.
+
+A knowing smile crossed Mask’s face and he leaned in, lowering his voice to a whisper. “You do want to win, don’t you? I can help you with that, Thane.”
+
+“What family did you say you were with again?” Thane asked, keeping his words measured.
+
+“None,” Mask replied. “I am of something greater. Aren’t you fed up with these games? With being second fiddle? I can give you the power you’re looking for, Thane. It will be a displeasurable process… but you and I, we know what it means to be weak. We are the ones that understand just how important the price we pay for power is.”
+
+Thane stared at the offered dagger.
+
+“You waiting for something?” Drake asked. “Come on, Thane. You’re lucky someone actually volunteered before you had to go begging scullery maids. Be a man and take the dagger so we can get this on with.”
+
+Mask arched an eyebrow. “Are you going to let him talk to you like that, Thane? He’s worthless. A little figurehead puppet who never had to risk anything. Your parents dote on him and only remember you exist when they need something. Why don’t you take something for yourself for a change?”
+
+Thane swallowed. He could feel his class twisting within him, but he still couldn’t identify the dagger. Whatever magic was within it… it was powerful. Really powerful. Possibly almost on the tier of what Ifrit could make.
+
+“Take it already!” someone within the crowd yelled. “We don’t have all day!”
+
+“Oh,” Mask said. His lips pulled into a smile. “I almost forgot. Happy birthday, Thane. Even if I am a day early.”
+
+Thane froze.
+
+For a moment, the world seemed to freeze in place.
+
+Someone actually knew.
+
+“You can make something of yourself. Here and now.” Mask said, his whisper brushing across Thane’s ear. “There are only two heirs to the Blacktongue family… and mistakes happen in duels. If you’re all that’s left — then all that is Drake’s becomes yours. And was it ever really his to begin with? What did he do to earn it?”
+
+And, within Thane, something shifted.
+
+“You aren’t a noble, you said? Then who are you?” Thane asked.
+
+“I’m what you want to be,” Mask replied simply. “I am of the Adventurer’s Guild. I know what you are, Thane. An adventurer. A wolf trapped in a sea of sheep that seek to crush the breath from its lungs. Cut them away. Or do you want to stay a pushover forever?”
+
+Mask flipped the dagger around so it was hilt-first. He held it out, a knowing look in his eyes.
+
+Thane looked down at it. Then he looked back to Mask.
+
+“No thanks.”
+
+Mask blinked. “What?”
+
+“I’m not a pushover,” Thane said. He raised his voice. “Keep your dagger. I don’t want you as a second.”
+
+Drake let out a bark of disbelieving laughter. “You can’t be serious. What are you doing, Thane? Is he not good enough for you? Do you really think you’re in a position to be picky? People are getting impatient, and I am among their number. I have a party to get back to. If you don’t make a choice now, then you’re going to have to do this without a second.”
+
+“I’d rather no second than this one,” Thane said. “You can leave, Mask. You don’t know me at all.”
+
+The plain man’s expression didn’t so much as shift. He simply shrugged, spinning the blade around once more before returning it to his clothing.
+
+“It’s your choice, Thane. The option remains open, and the day is long. When you change your mind, I’ll be waiting. Just find me.”
+
+With that, Mask slipped back into the crowd and vanished from sight.
+
+“That was dumb,” Drake said. Then he shrugged. “But it’s your call. Unless you took my offer about the scullery maids seriously. I’m sure at least one of them might be willing to back you, but they better get over here fast.”
+
+“That’s fine,” Thane said, clenching his teeth. “I think I’m good as I am.”
+
+“Up to you,” Drake said. “In that case—”
+
+A bang like rolling thunder echoed through the field before Drake could finish his sentence. It was followed by a shockwave of air that blew Thane’s hair back, even with the crowd standing in its path. Everyone staggered. Many of the nobles lost their balance and fell to the ground. The crowds’ eyes turned toward the source of the detonation as one.
+
+“Whoops,” an old woman’s voice came from an old arms shed near the back of the field. “Sorry about that. Was trying to make a firework for the kid’s birthday, but I think I made a bomb instead.”
+
+Thane’s breath caught in his throat.
+
+Is that…
+
+Out from behind shed stepped Esmerelda. A bag of potions clinked against her back as she waved smoke away from her face, coughing. And out from behind her emerged five more people.
+
+Thane’s stomach leapt into his throat.
+
+It was the Menagerie. Some of them, at least. He didn’t recognize an oddly armored woman walking alongside them, but the others were unmistakable.
+
+They’d actually come.
+
+“Oh, shit,” someone whispered. “Is that Ifrit? The Menagerie actually came?”
+
+Esmerelda waved more of the smoke away from her face. Her eyebrows had been singed black. The crowd parted before her and the Menagerie as they made their way toward the dueling field. Esmerelda squinted. “Where’s the birthday boy?”
+
+Drake let out a burst of laughter. “Would you look at that? I didn’t think you’d actually show up. I’m honored that you would come here for my—”
+
+Esmerelda’s eyes snapped to him. “Shut your greasy little mouth, brat. Who are you?”
+
+Drake’s amusement vanished in an instant. “What? I—”
+
+“We aren’t here for you,” Lillia said in disgust. Her words cut the sentence right out of Drake’s lips, leaving him sputtering like a fish out of water. “We’re here to deliver our best wishes to Thane for his birthday.”
+
+“I hope we aren’t interrupting anything too important.” Ifrit stepped forward, pulling an oilcloth wrapped bundle out from beneath his arm. The smith’s eyes glinted in a mixture of anticipation and amusement, laden down by an undercurrent of cold anger. He held the bundle out to Thane. “We brought you some gifts.”

@@ -1,0 +1,195 @@
+---
+id: 05c98ecd-402c-5234-83cb-c4902539a2ea
+page-type-slug: story-chapter-royal-road
+title: "Chapter 555: The Radiant Dawn"
+slug: 0079-chapter-555-the-radiant-dawn
+partOf: reborn-as-a-demonic-tree
+position: 79
+ownLength: 2388
+unit: words
+publishedAt: 2026-04-06
+link: "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3240304/chapter-555-the-radiant-dawn"
+royalRoadId: "3240304"
+---
+
+Imperial Flagship, the Radiant Dawn.
+
+"Elder Hao's ship, the Titan's Judgement, has been successfully destroyed."
+
+The announcement rang through the Radiant Dawn's control room and was met with grim, hardened expressions.
+
+"Grand Elder Ren, your orders?"
+
+Ren remained silent, eyes fixed on the distant streak of fire as his good friend's ship plummeted into the wilderness below. In all his centuries of command, he had never been forced to fire upon an airship from his own fleet—much less one captained by a man he had fought beside for centuries.
+
+"Grand Elder Ren?"
+
+"What?" Ren snapped, turning toward one of the formation commanders—Elder Tang. Due to the Radiant Dawn's sheer scale, dozens of commanders were required to keep its vast systems running in harmony.
+
+"Your orders, my lord," Elder Tang repeated, strain evident in his voice. As a formation commander, his responsibility was to ensure the arrays that sustained the Flagship functioned smoothly and that Qi reserves were managed correctly. If the Radiant Dawn ran dry, the entire fleet would fall from the sky.
+
+Snapping back to reality, Grand Elder Ren addressed the room. "Status report. Are any other dreadnoughts under attack?"
+
+"All Elders are reporting no signs of attack besides ambient desolation eating away at their shields."
+
+"A hit-and-run tactic then. Not an ideal strategy to combat, considering we are still a few hours from reaching our target," Grand Elder Ren grimaced. "For now, have Elder Shui move her airship, the Silent Glacier, to the vanguard. Our front is exposed."
+
+"Understood," someone said, immediately relaying the command.
+
+Grand Elder Ren folded his arms and side-eyed Elder Lu, who managed the cannons. "Do we still have no enemies to point our cannons at?"
+
+"No, my lord," Elder Lu replied, glancing up at the horizon. "So far, the only enemies sighted were a soul weapon that seemed capable of piercing shields and a shadow angel claiming to be a General in the All-Seeing Eye's army that slaughtered everyone on board and spread a black miasma that turned people into trees. Both have been listed as near Monarch Realm level threats."
+
+"We got neither of them in the attack?" Grand Elder Ren said in surprise.
+
+A silence followed.
+
+"Well?" he pressed.
+
+"No, my lord." Elder Lu's expression hardened. "Both the sword and the shadow angel escaped in time. I believe they knew we were about to fire."
+
+Grand Elder Ren clasped his hands behind his back and began pacing the length of the control room. "This situation is… profoundly abnormal," he said, voicing his thoughts. "Ordinarily, we would be exchanging fire with an opposing fleet. Even when facing hit-and-run tactics, the enemy requires a staging ground. Yet here, there is none. They appear through rifts and vanish the same way." He stopped at the window, surveying the armada beyond. "At this rate, our shields will fail before we reach our target. Until the enemy reveals themselves, resisting the desolation must take priority."
+
+"Regarding that, my lord," Elder Tang said, "we've tested multiple shield affinities. None show meaningful improvement. The All-Seeing Eye's comprehension of the Daos appears unfathomably broad."
+
+"So that's what sets us apart from a god. Which affinities have performed best?" Ren asked.
+
+"Wind and metal," Elder Tang replied. "I've reassigned wind cultivators from the sails to bolster the dreadnoughts."
+
+"But that will slow us down," Grand Elder Ren muttered, tapping his chin. "Though, is that perhaps his plan? If the All-Seeing Eye possesses such profound knowledge of many Daos, wind has historically been one of the easiest to grasp. His lack of understanding of Wind Dao is suspicious. How many metal cultivators do we have onboard?"
+
+"Barely a dozen. Far less than we have wind cultivators," Elder Tang grumbled. "Their Qi also moves less efficiently through formations, resulting in a lot of waste when they are involved. Their reserves will bottom out faster than our wind cultivators."
+
+Grand Elder Ren frowned. Just how far ahead was the All-Seeing Eye plotting?
+
+It seems the Chairman has underestimated the All-Seeing Eye's capabilities, Ren mused while surveying his fleet with a calculating gaze. While it looked impressive due to the sheer number of airships present, they were all older models from a bygone era. Their formations were tired and outdated, and a few of the dreadnoughts guarding the flanks had even been set for decommission. The Chairman's personal Flagship, the World Ender, was still safely docked back in Empyrea. The Radiant Dawn looked like an ancient relic in comparison.
+
+"Elder Tang," Ren said quietly, "be honest. How long will our shields hold?"
+
+"At this rate?" Tang scoffed. "Hours, at best. We'll be exposed by the time we arrive."
+
+Ren didn't look away from the window. "Should we turn back?"
+
+The question settled over the room like a suffocating weight.
+
+"Elder Tang."
+
+"That decision… is not mine to make," Tang said carefully.
+
+Not willing to be the sacrificial lamb, eh? Well played, old man. Well played.
+
+Grand Elder Ren sighed. It was clear now that the Chairman had sent this fleet of tired airships to gauge the All-Seeing Eye's capabilities, so if he were to abandon the mission, only death would await him. He had been set up.
+
+Did the Chairman know I was planning on betraying the Empyrea Guard for the nobles, or does he simply think so little of me and the others on this mission?
+
+Whatever the case, they were left with no choice—a fact everyone in the room knew.
+
+"No matter. We keep moving forward," Ren said sternly for all to hear. "Elder Tang, don't bother with boosting the shields. Put everything into speed. We must reach the All-Seeing Eye or die trying. Do I make myself clear?"
+
+Elder Tang nodded.
+
+"Good." Grand Elder Ren surveyed the rest of the room—nobody dared to object. "We will reach the All-Seeing Eye by sundown. Enjoy it, because this very well may be the last sunset many of you ever see."
+
+***
+
+Ashlock withdrew his awareness from the Flagship's control room.
+
+"Well, that's surprising," he muttered. "Here I was, panicking, only to find out that they are more concerned than I am. Their assessment of my Dao comprehension is especially amusing. I simply lack wind cultivators to send into the Eternal Realm, yet they've convinced themselves I'm some grand strategist."
+
+While Grand Elder Ren seemed prone to jumping to conclusions, Ashlock was cautious regarding him. He hid it rather well, but Ashlock was sure that the man was a Monarch. Of what affinity or level, he had yet to confirm. But he was no doubt going to be the most difficult to defeat, as he was also aboard a highly defended and armed flagship that was on the move.
+
+While killing him wasn't going to be impossible, his options were limited—especially with the flagships' shields still raised.
+
+Zooming out, Ashlock analyzed the fleet from above once more.
+
+A ship that looked like a giant floating hunk of ice in the shape of an aircraft carrier slowly moved into position before the Flagship. Ashlock could have unleashed a desolation beam while the Flagship remained briefly exposed but chose patience instead. If their shields were failing anyway, waiting would only improve his odds of landing a devastating hit. He might also need the beam to defeat Ren.
+
+The fleet picked up speed and passed over the fiery wreck of the dreadnought that they had blasted out of the sky. "A shame, really. I was moments away from seizing control of the dreadnought by turning it into a Bastion. I had planned to turn Elder Hao into a tree to make it possible. Though I never would have thought they would waste so much Qi blasting one of their own ships out of the sky. Overall, a massive win for me."
+
+Either way, a once-imposing fleet now looked somewhat beatable.
+
+Yet there was still a lot of work to do. The fleet was fast approaching, and his offspring were in danger.
+
+"System, can you upgrade my fire resistance skill?"
+
+[Sign in successful, 705 credits consumed…]
+
+[Upgraded {Fire Qi Protection [B]} → {Fire Qi Barrier [A]}]
+
+[{Fire Qi Barrier [A]} At the cost of Qi, create a barrier of fire that feeds on any nearby flames to strengthen itself]
+
+"Nice, just what I need. System, activate the Fire Qi Barrier skill on all of my offspring in the path of the Celestial Empire fleet and infuse it with my Primordial Ice Law comprehension to further empower it."
+
+A pulse of power radiated out from his trunk and flooded into the wilderness. All of the demonic trees in the path of the enemy fleet suddenly became shrouded in a wall of fire that greedily devoured the alchemic flames dropped by the airships.
+
+"Oh, that's unfortunate for them," Ashlock chuckled as one flanking dreadnought's fire-aspected shields began feeding the inferno below. The flames intensified, appearing like an apocalyptic forest fire and forcing the ship upward—out of the Flagship's tight formation.
+
+"To think my next target would make itself so vulnerable," Ashlock mused and considered his options to take it out. "I could repeat the same method as before, which was advantageous as it wouldn't give the enemy any more information on my capabilities. But this is also a rare opportunity to farm some divine energy by striking fear into the hearts of a thousand war-waging cultivators."
+
+A chance that was hard to let up. If there was one thing he loved to do in this life, it was terrify the life out of those from the Celestial Empire.
+
+Switching his view back to Red Vine Peak, he found Tiberius and the others still waiting. He had forgotten about them. Sensing his return, they all looked up expectantly at him.
+
+"I don't really have time to explain as I'm in the middle of actively fighting the Celestial Empire's fleet," Ashlock said, "but as you said, Tiberius, there is a Flagship, and many dreadnought-class airships."
+
+Tiberius's eyes widened, and a look of horror flashed across his expression. "The reports were true—we face a true Celestial Empire fleet. We are doomed."
+
+"I've already destroyed one dreadnought and have a plan to take down another," Ashlock explained as he had Moros undock from his mountain and rise into the sky.
+
+"I don't know how you managed that," Tiberius said, tracking Moros's ascent, "but surely you don't believe that floating rock with trees can face an entire fleet and a Flagship?"
+
+"Perhaps not all by itself," Ashlock admitted. "But I promise you that by the end of today, the name Moros will be feared by the survivors."
+
+"Survivors? You're really going to try and fight them?" Tiberius seemed equal parts horrified and skeptical.
+
+"Do I have any other option? You can come and watch if you wish," Ashlock offered.
+
+Tiberius shook his head. "As much as I'd like to, my face is known among the Elders of the Celestial Empire. If I'm seen aboard one of the enemy ships, even as a spectator, my position as a Celestial Warden will be stripped."
+
+"Suit yourself," Ashlock said and began tearing open a massive portal.
+
+"Do you need my assistance?" Larry offered as he descended from Ashlock's canopy.
+
+"Not yet," Ashlock assured his guardian. "You are my trump card. I'll need you to melt the Flagships shields to make way for my desolation beam and to fight Grand Elder Ren—"
+
+"They sent Grand Elder Ren?!" Tiberius blurted out.
+
+Ashlock glanced at the Celestial Warden. "You know him?"
+
+"Know him?" Tiberius scoffed. "I was trained by him. He's my mentor."
+
+"Oh..." Ashlock said, feeling awkward. "You understand I have to kill him, right?"
+
+Tiberius looked hesitant. "I—"
+
+Ashlock unleashed the full weight of his Inner World onto Tiberius's head and had Khaos emerge from the void behind him, placing a void-coated claw to his neck. "Celestial Warden, pick your side carefully here. Even Nox can't save your head from rolling and your souls being harvested if you even think about crossing me. Understand?"
+
+Tiberius gulped. "The bond between master and disciple is sacred. I—I can't just sit here, knowing he's falling into your trap! Please, let me talk to him. That will save you the trouble of having to defeat a Monarch."
+
+"I can't let you do that," Ashlock said. In truth, he wanted Ren to come to his doorstep. From the way they were talking in the Flagship's control room, it sounded like he didn't have a choice but to keep advancing. It was hard to force a Monarch into a losing fight, and he needed to devour eight more Monarchs to ascend. This simply wasn't a chance he could let go. "I'm sorry, Tiberius. I really am, but Ren will die by sundown, and the wilderness will serve as his grave."
+
+Larry floated down and positioned himself between Tiberius and Ashlock—his body of silver ash shimmered with divine authority, and his ashen crown slowly rotated.
+
+Tiberius's gaze shifted between those surrounding him before finally deflating. "Can I at least say goodbye?" he asked sincerely. "You can bind me in chains if you have to, but at least let me see the final moments of the man who raised me into the Celestial Warden."
+
+Ashlock debated for a moment before giving in. "Fine. But not yet—I have a few more dreadnoughts to sink before going after the big one."
+
+"I understand," Tiberius said, looking genuinely upset.
+
+"Tiberius."
+
+The Celestial Warden slowly looked up. "Yes?"
+
+"Remember, when I'm involved, death is hardly the end. You will see your mentor again."
+
+An enormous rift tore open the sky, and Moros flared to life as Ashlock inserted a fragment of his soul into Erebus. He would need to rely on the void affinity cannons to punch through the fire dreadnought's shields.
+
+Tiberius nodded and then looked back to the ground.
+
+"Keep watch over him and make sure he doesn't do anything stupid," he told Larry. "Khaos, you're with me. I'm going to need you to take out the dreadnought in a swift fashion."
+
+Grand Elder Ren had wanted an airship to shoot at, so Ashlock would show him one that broke all the laws of reality. A ship that wielded the void and aether to traverse instantly, silently, and with enough firepower to obliterate a dreadnought from the sky.
+
+Moros was coming.
+
+And the Celestial Empire wasn't ready.

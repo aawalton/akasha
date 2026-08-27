@@ -1,0 +1,167 @@
+---
+id: 6fe30191-6f99-5a85-9fbf-245d2497a5c8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 460: Company benefits"
+slug: 0028-chapter-460-company-benefits
+partOf: rise-of-the-living-forge
+position: 28
+ownLength: 2011
+unit: words
+ownProgress: 2011
+publishedAt: 2025-07-23
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2459842/chapter-460-company-benefits"
+royalRoadId: "2459842"
+markedReadAt: "2026-06-29T19:59:21.496Z"
+---
+
+Arwin tried not to look too bored as he examined the woman standing in the street across from him. There was a small crowd of adventurers around them, not to mention all the people peering through the open door of the Devil’s Den to try and get a look at the fight.
+
+Vanessa was going to get seriously embarrassed if he looked too bored while he defeated her. Arwin really didn’t want that on his consciousness. The woman, despite having broken into the Devil’s Den, and interrupted his dinner seemed fine enough.
+
+There was a fine but very distinct line between abrasive and asshole. Some people just didn’t have the slightest bit of social decorum about them. Sure, Vanessa might have come here to attack him, but that was becoming such a common occurrence that it hardly felt like that big of a deal. At least she’d been pretty straight forward about it.
+
+“Right,” Arwin said, fighting back a yawn. “I’m here. What was it you wanted, again? Is this just a fight to first blood? Or are you trying to kill me?”
+
+“I already said I wasn’t an assassin,” Vanessa said, affronted. She drew the long sword from her back and readied it before herself with both hands. “I’m just here to give you a good thumping.”
+
+“Right,” Arwin said. “First blood? Or a little farther?”
+
+“Tap out,” Vanessa said. “I think that should work. I have to say, you’re way more reasonable than my normal targets. You’re making this really easy for me. Have you considered being a target more often? Maybe pissing off a few more people?”
+
+“Working on it,” Arwin replied. He rolled his neck and rubbed at a kink in his shoulder with one hand. Out of the corner of his eye, he spotted a form sitting on the top of a roof. He almost did a double take before he realized it was Rodrick.
+
+Anna stood beside him, a small crossbow in her hands. She had the weapon readied but not raised. They both gave him a slight nod.
+
+Looks like they’ve been aware of Vanessa’s approach for a while. Guess she’s not too big of a threat if they didn’t act before she got here. Not really a surprise, but good to know.
+
+“Great,” Vanessa said. Her gaze flicked to Arwin’s arms. “Say, what are you doing after this?”
+
+“I’m good. I have a girlfriend already.”
+
+“Ah. Nevermind,” Vanessa said with a disappointed click of her tongue. “I’ll stick with one, then. Momma always did say I was too hungry for my own good. Well then. Shall we?”
+
+“Go ahead,” Arwin said with a nod. “You can attack first. I’ll wait here.”
+
+“You sure?” Vanessa’s brow furrowed. “You know, being a smith and all. Seems a bit cheap for me to attack before you do. Only right to let you take the first move.”
+
+“Aren’t you literally here to assault me because someone paid you to do just that? Why would you care who goes first?”
+
+“Nobody said thugs have to be unreasonable,” Vanessa said. “I’m getting the job done either way.”
+
+Somehow, I highly doubt that.
+
+“I’m a bit tired from work today,” Arwin said. “You can have the first move.”
+
+“Tired? Should I come back tomorrow?” Vanessa asked with a frown. “It seems like a right insult to do this if you’re not in proper shape—”
+
+“Oh, just attack me already,” Arwin said, unsure if he was more amused or exasperated. “I have a dinner to get back to.”
+
+“Fine, fine. I’ll make sure to avoid your face, then. Wouldn’t want to stop you from eating,” Vanessa said. She shifted her stance, lowering her center of mass as her eyes thinned. She pressed a hand to the ground and raised her sword to point its tip at Arwin’s chest.
+
+Hm. How should I do this? I don’t want to kill her on accident. Using Caldera would be overkill. That armor of hers is so patchy that any good blow would pulp her organs like the inside of one of Lillia’s pies.
+
+I don’t think I want to reveal Gehenna here either. That’s a surprise I’m saving for the party. Oh, speaking of which, I’ve got to figure out what kind of gifts we should bring. Would be pretty rude to show up without one. Don’t want to step on any toes unintentionally. I’ll be stepping on enough of them on purpose, after all.
+
+***
+
+Vanessa had thumped a number of people in her time. She tended to consider herself an expert in the sport. There were a lot of ways to thump someone. Some were a hell of a lot more enjoyable than others.
+
+A few of those methods always ended with blood staining her clothes, which was always a massive pain to clean. A few others ended up with her in someone’s bed. Sometimes they ended in both.
+
+But she’d never had a target like this.
+
+Vanessa had seen people run. She’d seen them fight or hide or try to bribe her— the lattermost of which she was particularly preferential to. But this was the first time she’d ever gotten a target that was bored.
+
+Ifrit was a smith. And yet he didn’t even seem to care in the slightest about her readying to attack him. His eyes were distant, thoughts clearly in some other place. It was as if she wasn’t even there.
+
+Bit hurtful, really. I’m a peak Adept Tier Thug. Even if nobody knows who I am in this small town, he should at least be a little worried about getting his noggin rung. Heck, I don’t even want to do this. They’re all so much more polite than my normal targets.
+
+But a job was a job. Vanessa took great pleasure in a lot of the words used to describe her — and unreliable was not one of those words.
+
+She did not give up on tasks before they were accomplished. Ifrit had a thumping with his name on it. She’d just have to make sure to direct it to the parts of his body he didn’t need too much for eating or smithing. That was the least she could do.
+
+Vanessa drew on the magic within herself.
+
+Then she activated [Bloodied Overdrive].
+
+Red filled her vision. All the sound abruptly snuffed out, swallowed by the thundering drum of the blood in her ears. Her skin heated and her grip on her sword tightened as every one of her senses heightened. She could feel the wind against every individual hair on her head and arms, smell the warm bread and delicious meat within the Devil’s Den behind her.
+
+Her lips pulled back into the snarl of a wolf —
+
+And then she saw Ifrit.
+
+Not with her eyes, but with the deepest, most primal senses she could bring to bear.
+
+Gone was the bored, uninterested man.
+
+In his place was a devil.
+
+A sickly purple-black aura roiled around the man like a raging flame. Hazy armor flickered within the dancing fire. Its presence was so intense that it felt like a searing brand stamped right into her eyes.
+
+But that wasn’t all. There were other presences within the flame. The hazy eyes of a Wyrm seemed to watch her from Arwin’s left. To his right, the weight of a mountain pressed down on her shoulders — and a deep, insatiable hunger lurked behind it all like a coiled snake.
+
+This was no smith.
+
+Vanessa’s mouth went dry as cotton. A deep, bone-chilling dread sawing through her like the blade in her hands had turned against her.
+
+She shifted one foot forward.
+
+Then she stopped. Her heart slammed in her chest. She could hear her blood pumping harder still in her ears. Goosebumps gathered along her back and trailed up toward her neck.
+
+Never before had she hesitated during a job. But this fear was not natural. Her body rebelled against her mind. The mere idea of taking another step forward felt like it was no more possible than driving her own blade into her neck.
+
+What is this? What’s happening?
+
+Vanessa tried to swallow, but she was denied even that. Every single fiber of her being was simultaneously locked onto the presence before her and desperately trying to flee in the opposite direction.
+
+The more she thought about trying to attack Ifrit, the more the feeling intensified. It was like she was staring into the face of death itself.
+
+Some distant part of her mind noted that this had to be some manner of magical effect. There was nothing natural about her terror. But that part was small and distant, its words nothing but a baby’s blanket used in futile attempt to block out a storm.
+
+I don’t give up midway through a job. That’s not the role of the Shining Shields. I was hired to be a thug, and that’s what I’ll damn do.
+
+She raised a trembling foot. Then, slowly, ponderously, she inched it forward. It was like trying to fight against the very weight of the world. She could barely even hear her own thoughts anymore. There was nothing but a wordless scream to run.
+
+But Vanessa defied it.
+
+She raised her other foot and took another step.
+
+And then another. And another.
+
+An illusion would not stop her. No matter what kind of tricks Ifrit had at his disposal, he was still a smith.
+
+Her heart strained under the pressure bearing down on her body. The only thought that kept her going was the knowledge that this would all fall away. As soon as she got close enough, Ifrit’s magic would falter. Illusions never held up when their target got close enough.
+
+You think fear will stop me? I’m too damn stupid to get scared by an illusion! You should have used it on someone smarter!
+
+Vanessa took one more step.
+
+And then she stopped.
+
+The rest of the world was no more. There was only Ifrit standing before her, the black aura curling up from him assaulting every one of her senses and sending a warning scream through her mind.
+
+She spun her sword around in her hands as she let out a scream of her own, swinging the flat of the blade as hard as she could for Ifrit’s chest.
+
+There was a flash of something dark. The twisting energy around Ifrit warped to her senses as something emerged within it. Vanessa’s sword struck him with a resounding clang — a clang, not a thunk — and bounced out of her hands. The blade skittered across the ground behind her before sliding to a stop against the wall of the Devil’s Den.
+
+Ifrit stood before her, completely unharmed. Whatever had changed in his armor was gone. He stood, unmoved, uninterested.
+
+Vanessa stared at him, disbelief pounding in her skull as a horrifying realization etched itself into her mind.
+
+This was no illusion.
+
+Ifrit’s face, shrouded by the aura enveloping him, filled her sight as the world swayed around her. The fear intensified further still until it drummed out any remaining thoughts.
+
+Vanessa couldn’t beat this. She couldn’t even hurt him. Nobody else’s senses could pick the truth up. They weren’t sharp enough.
+
+But Vanessa — she knew.
+
+Ifrit was a monster in human flesh, hiding in broad daylight and pretending to be a smith. And she had been set up. This job was impossible. She’d been sent here to die. Any remaining thoughts of a fight evaporated like rain in a desert.
+
+And, in that moment, the world snapped back to normal. The aura enveloping Ifrit vanished, and all that remained before her was a smith.
+
+“Was that it?” Ifrit asked, his brow furrowing. “Really?”
+
+Vanessa didn’t get a chance to respond. The abrupt release of pressure was too much. All the fear that had been plaguing her mind vanishing so quickly left a vacuum that no thought remained to fill.
+
+“I’m gonna need to use a sick day.” Vanessa swayed, then pitched back, unconscious well before she hit the ground.

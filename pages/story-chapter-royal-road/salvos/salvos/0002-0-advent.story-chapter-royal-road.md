@@ -1,0 +1,55 @@
+---
+id: 78d0b884-91b7-5cef-8e07-903ee16add0b
+page-type-slug: story-chapter-royal-road
+title: "0. Advent"
+slug: 0002-0-advent
+partOf: salvos
+position: 2
+ownLength: 585
+unit: words
+publishedAt: 2020-11-06
+link: "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/580224/0-advent"
+royalRoadId: "580224"
+---
+
+Preface
+
+Hello! I'd just like to quickly preface this by saying that while the Portal Fantasy/Isekai tag is there, this story is only technically a Portal Fantasy (notice how there is no Reincarnation tag). In fact, I'd say it's a Portal Fantasy with a double technicality. A Portal Fantasy**, if you will.
+
+Nevertheless, I do hope you check it out. And if you didn't know, this is my first time writing a LitRPG, and my second ever story. It's inspired by the first Web Novel I read, Kumo Desu Ga, Nani Ka?, as well as others I really liked like Apotheosis of a Demon, The Wandering Inn, and Azarinth Healer.
+
+This story is very slow paced at the start, but I assure you, it does progress! I hope you read it at least until it gets going! Anyway, that's enough rambling from me, I hope you enjoy it!
+
+0. Advent
+
+“The cycle of Advent has begun.”
+
+Regnorex spoke into the nether; the Demon King turned his fiendish gaze toward the swirling sable clouds forming in the distance. His servants waited reverently for his next words, clinging onto each one as though their life depended on it.
+
+“Genesis shall come, but only Desolation awaits them.”
+
+He withdrew from his high balcony, returning to the grand throne that was carved in resemblance to the mortal kings he had once met and envied. Now, he laughed at the lavish wants of such short-sighted men, content with only the luxuries of life.
+
+“The Devil will play his tricks on the fools, and the Beast shall once again feast upon the weak that invade its lands. All will be destruction. All will be death. They will learn quickly that there is only hell.”
+
+The first of the black raindrops fell from the sky, the precipitation wetting the barren lands with life, yet corrupting the pure, white surface into a dark ooze.
+
+Settling onto his throne, Regnorex finally addressed his servants gathered before him: the Archdemons, the Greater Demons, and even the Lesser Demons. They were all below his station. Of course they were. To them, he was their master. To them, he was their god.
+
+“There shall be chaos. There shall be death. But there shall be survivors.”
+
+The Demons stirred at his speech— one which he had delivered a thousand times before. Yet, they treated it with the same awe and fear they did when they first heard it.
+
+The black torrent was now violently raging on, almost as if prefiguring what was to come. The Demon King ignored it, focusing only on what had to be done. The room darkened as the storm swept over the Netherworld, yet Regnorex’s eyes still lit ablaze in the color of the bloodied sky above.
+
+“Find the survivors, bring them to my demesne, for all who obeys my will shall be rewarded.”
+
+And they did. The Demons scoured the lands, searching, finding all those who survived. It was not a kindness— those who survived were the only ones who were worthy. The only ones who were special among the masses born from the Genesis.
+
+No one would escape: they would either live under the Demon King’s rule, or die under the harsh landscape of the Netherworld.
+
+No one.
+
+As the Genesis came to an end and the final stage of Advent began, the dark clouds above faded away; the pools of black slowly receded into nothing. And out from the last of these pools, a survivor came into existence.
+
+Salvos was born.

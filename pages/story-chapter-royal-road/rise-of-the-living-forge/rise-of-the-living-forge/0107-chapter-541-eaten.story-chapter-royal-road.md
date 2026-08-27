@@ -1,0 +1,171 @@
+---
+id: a0ad21b2-207e-5a53-9937-a3164d145186
+page-type-slug: story-chapter-royal-road
+title: "Chapter 541: Eaten"
+slug: 0107-chapter-541-eaten
+partOf: rise-of-the-living-forge
+position: 107
+ownLength: 1812
+unit: words
+ownProgress: 1812
+publishedAt: 2026-01-12
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2935873/chapter-541-eaten"
+royalRoadId: "2935873"
+markedReadAt: "2026-06-29T20:01:51.345Z"
+---
+
+Loud cracks echoed through the Auction House around Arwin. He staggered as huge cracks split through the ground, racing across the stone faster than his eyes could follow them. It took everything he had to keep his balance in the face of the immense tremors shaking the earth under his feet.
+
+What the hell is happening?
+
+Arwin grabbed Lillia and Olive, pulling both of them closer to him as the magical magma pumping through his veins started to heat.
+
+Debris rained down from the ceiling as the tremors intensified. They were so strong that Arwin didn’t even dare try to walk. A single step was liable to send him plummeting into the growing chasms forming in the ground.
+
+“Stay near!” Arwin yelled over the growing din.
+
+“What’s happening?” Olive yelled back. “Is this normal?”
+
+“No!” Arwin replied. “It—”
+
+The world snapped to a stop. Arwin nearly tripped a second time as the violent shaking abruptly vanished. In an instant, the groaning stone of the Auction House ceased all motion as one. A few tiny pebbles of debris rained down around them.
+
+And then there was silence.
+
+A moment passed. But, before any of them could muster up any words, a tongue of sickly green smoke coiled up from one of the many cracks riddling the ground. It was thick and heady, so dense that Arwin could barely even see through it.
+
+More smoke followed suit. They streamed upward, slithering through the cracks in the ceiling and rising out of view. A chilly breeze rolled through the room.
+
+The hair on Arwin’s arms stood on end. His eyes narrowed. Magic hung in the air. He could literally taste it on his lips, an electric current building in intensity all around them.
+
+More smoke continued to rise from within the earth. The sickly green energy pumped up from the ground relentlessly. It showed no signs of stopping. For that matter, more and more of it came with every passing second.
+
+“We should probably get out of here,” Olive said.
+
+Arwin nodded. “You’re right. Move. We’ll figure out what happened later.”
+
+He summoned the Wyrm’s Revenge to one hand as he herded the two of them toward the exit. Arwin kept his guard up as they made their way back through the tunnel. Thoughts spun through his head, but he repressed them, keeping his focus razor-sharp.
+
+The cracks continued into the hall. Curiously enough, there was no sign of any actual fallen debris. All the damage to the auction house somehow hadn’t managed to dislodge a single piece of stone.
+
+Is that a testament to Ridley’s work, or is there something else going on? It doesn’t matter. We have to get to safety first. Everything else can come later.
+
+A growing sense of confusion built in Arwin as the three of them made their way out from the passage and into the open-topped main section of the Auction House. Then he paused. The others did too.
+
+“What?” Olive muttered. “That doesn’t make any sense at all.”
+
+Arwin had to agree.
+
+Not a single one of the seats had been impacted by the cracks. The damage riddling the Auction House stretched through the stone in every direction, but it had avoided the pathways between the seats and the seats themselves entirely.
+
+Instead, it wound along the walls and made its way toward the center of the building where the auctioneer’s platform sat in a spiraling pattern, only traveling over the paths where no people would tread.
+
+The green smoke rising up through the cracks had formed into a cloud just about halfway up toward the ceiling. It had formed into a ring that blocked off view of the upper VIP booths entirely… but, if one had been in any of the booths, Arwin was pretty sure they’d have had no trouble at all seeing anyone standing on the auctioneer’s platform.
+
+“This damage doesn’t feel very random,” Lillia said, her brow furrowing.
+
+“There isn’t any debris here either,” Arwin said. He looked around to confirm it. He was right. Just like the hall, there wasn’t a single scrap of rock that had fallen out of place. The only actual damage that could get in the way of a passerby was back in the Heart Room and the hall leading up to it.
+
+It was in places where no customer would ever be. For that matter… the damage actually looked pretty cool. There wasn’t another way to properly put it. The jagged cracks were asthetically pleasing. It was like an artist’s fictional rendition of a monster’s lair rather than the real thing.
+
+Arwin’s eyes narrowed.
+
+“You can’t be serious,” Lillia said. “You don’t think…”
+
+“It was intentional,” Arwin finished. “It must have been. I’m far from an expert on collapsing buildings, but this definitely isn’t the way they fall down. Nothing broke. Nothing at all. There are just cracks.”
+
+“You’re telling me the building felt it wasn’t edgy enough?” Olive asked in disbelief. “You think it did this to itself?”
+
+Arwin squinted at the green smoke. For a moment, he could have sworn he saw the beginnings of a face with it. Then the features were gone and he found nothing but thick green mist waiting for him.
+
+“Yes,” Arwin said, blowing out a slow breath. “I do. But only Madiv is going to be able to tell for certain. The building is bound to him, not us.”
+
+“But you made it,” Olive said. “It’s yours.”
+
+“Do you own a child you give birth to?”
+
+Olive blinked. Then her nose scrunched. “I guess not. But that’s kind of a weird anology. Are you implying you’re a mother?”
+
+Arwin sighed. “You know what? Never mind. Let’s just head out. I don’t think we have to be worried, though. I was pretty sure that everything worked correctly. Nothing seemed like it went wrong. The building is just dramatic.”
+
+“They can do that?” Olive asked.
+
+Arwin and Lillia exchanged a glance.
+
+“Yes,” they said in unison.
+
+A faint ripple passed through the stone at their feet. Instead of knocking them off balance, it lifted the three up and ferried them several feet toward the exit before dropping them back down on firm ground harmlessly.
+
+Olive’s eyes widened. She looked down at her feet, then back to Arwin.
+
+“Holy shit. Did it just tell us to get lost?”
+
+“Pretty much, yes,” Arwin said. “I would imagine it wants Madiv. There may be something it wants to prepare. I have no idea, to be honest. But this isn’t exactly the first time a building I’ve awakened has kicked me out.”
+
+“Is it dangerous?” Lillia asked as, after one last glance over their shoulders, they started for the open-doored entrance. “I don’t want to feed Madiv to a bloodthirsty auction house.”
+
+“No. It shouldn’t be,” Arwin said. He paused for a moment. “I’m pretty sure it’s safe.”
+
+“Not very convincing,” Lillia observed.
+
+“The complete lack of any damage to important structure makes me think it should be fine. It kept itself habitable for people,” Arwin replied. “That makes me think it plans to carry out its purpose as normal. It just wants Madiv… I guess.”
+
+“That really isn’t convincing at all,” Olive said.
+
+The three of them walked through the doors and back out onto the street, where a fair number of people were all staring in their direction. Even as thin as the crowd was this late into the night, the awakening of the Mausoleum clearly hadn’t gone unnoticed.
+
+Arwin suppressed a grimace. There were going to be far too many rumors cycling through Milten by this time tomorrow. Even if he wanted to head them off early, it was far too late. That was certainly one way to make sure word of the newly completed Auction House spread.
+
+“We’re going to need a sign,” Lillia said as she looked back at the entrance of the building.
+
+Arwin followed her gaze. He couldn’t help but notice that the doors were completely undamaged, as was the stone around them. They’d still be able to work perfectly. That solidified his theory even further.
+
+The building was literally just giving itself a dramatic makeover, huh?
+
+“What now?” Olive asked. “A lot of people saw that. We’re going to have company soon. More than we already do.”
+
+“We find Madiv,” Arwin replied. He paused for a moment. The back of his neck was prickling as if someone were staring at him. His gaze moved to the shadows near the edge of the street. “Though I don’t think we’ll have to look far. It seems someone beat us to it.”
+
+Madiv stepped out of the darkness, his suit as pristine as ever.
+
+“You called?” Madiv asked.
+
+“How long were you waiting there?” Olive asked.
+
+“About an hour and a half,” Madiv admitted sheepishly. “My leg is quite cramped. Rodrick told me that my presence would be needed. What happened in there?”
+
+“Your building was a bit temperamental,” Arwin said.
+
+Madiv blinked. “My building?”
+
+“Yes,” Arwin replied. He gestured over his shoulder. “You’re going to be the auctioneer, aren’t you? We already discussed it. Lillia and I just finished the awakening process. It’s fully ready for you now.”
+
+“I understood that part,” Madiv said stiffly. The vampire shifted from foot to foot. “But I may have misheard you. You said the building belongs to me?”
+
+“Of course. You’ll be in control of it. Just like Lillia’s Den,” Arwin said with a frown. “Is there a problem?”
+
+“No. No, of course not,” Madiv said. He swallowed. “I just didn’t expect so much. It is a far greater gift than I was prepared for. Thank you, Arwin. You have given me more than I have earned. You and the Mistress will not be disappointed.”
+
+“Oh,” Arwin said, somewhat lamely. “Well, ah, enjoy?”
+
+Lillia shot him a flat look.
+
+Arwin shrugged helplessly back. He had been about as prepared for heartfelt gratitude as Madiv had been for getting a new building signed under his name.
+
+“It’s called The Mausoleum,” Olive said. “Because… you know.”
+
+“The Mausoleum,” Madiv repeated. A smile stretched across his lips. “A good name indeed. Well chosen.”
+
+“You might want to go familiarize yourself with it,” Arwin said. “The building will be able to speak with you. At least, it should. Let us know how it goes.”
+
+Madiv gave him a sharp nod. “I will do as you say, and with greate haste. A building of my own. A lair. Yes. I quite like the sound of that.”
+
+Excitement glinting in his eyes, the vampire strode into the Mausoleum without another word.
+
+The massive doors slammed shut behind him with an ominous bang.
+
+A second of silence passed.
+
+“Madiv isn’t going to get eaten, right?” Olive asked hesitantly.
+
+“He should be fine,” Arwin said. He sent one last look at the closed doors. Then he cleared his throat. “Probably.”

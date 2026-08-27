@@ -1,0 +1,167 @@
+---
+id: c2cfdcfc-15b1-52b5-931c-d317875750f9
+page-type-slug: story-chapter-royal-road
+title: "Chapter 547: Fed to the Abyss"
+slug: 0070-chapter-547-fed-to-the-abyss
+partOf: reborn-as-a-demonic-tree
+position: 70
+ownLength: 2631
+unit: words
+publishedAt: 2026-03-18
+link: "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3166762/chapter-547-fed-to-the-abyss"
+royalRoadId: "3166762"
+---
+
+Ashlock had put his all into the attack.
+
+Yet, as the desolation beam finally ceased after draining his personal Qi reserves dry, causing his Inner World to fracture from the strain and for the sky above Red Vine Peak to turn a dark gray, Faelorian still lived.
+
+Even as the world around him had succumbed to ruin and what was once the most vibrant section of Floridawn now resembled a desolate hell, the Monarch remained. Just like how a dead tree could stand for years after death, Faelorian hadn't moved an inch from where he had been struck by Ashlock's Crown of the Withered Sovereign.
+
+Though it was clear to anyone that his body had been reduced to a withered husk, that was nothing but a prison to the dying soul stored within.
+
+Ashlock was honestly in awe. Even now, lifeforce seeped into the soil at Faelorian's feet, and a small field of flowers bloomed around the dying Monarch, which promptly caught alight from the ambient hellfire of Magnus's domain that was reforming after being blasted.
+
+"Should I finish him?" Magnus Redclaw asked as he floated overhead with the reforming infernal titan looming behind him. His domain was suppressing Faelorian, alongside Ashlock's Cursed Blood that ate away at the Monarch's soul.
+
+Ashlock was about to agree when he noticed the amount of nature Qi flooding into the surroundings was starting to overwhelm Magnus's empowered domain. This wasn't mere ambient Qi leaking from a dying Monarch anymore—this was an attack.
+
+Faelorian smiled wickedly, his lips cracking and bleeding as he did so.
+
+"There's no way I'm leaving what's left of Floridawn to Cyphion and that accursed Chairman," Faelorian rasped, his eyes filled with malice. "I will return myself to nature and lord over this place from the afterlife."
+
+"He's going supernova," the Shadow Monarch, whose name was apparently Veilshade, said, confirming what Ashlock was seeing through his Gaze of the Tree God skill. There was no time to waste. If Faelorian completed the explosion, forget Floridawn; the World Tree was at risk of being hit.
+
+Not to mention, Ashlock really wanted to devour that soul. Not just for his quest to reach the Monarch Realm, but also to recover all the Qi he spent blasting the guy with a desolation beam. Truly, he couldn't think of anything more infuriating right now than watching all his hard work end in a supernova that was likely to wipe out billions of mortals.
+
+So he gave the command.
+
+"Khaos, finish him."
+
+"Yes, my Lord," the void whispered back.
+
+In an instant, a monstrous figure emerged soundlessly from a slit in the void behind Faelorian. The Monarch didn't notice the three-meter-tall void assassin until she was already looming over him—six arms spread wide, each ending in claws as thick as a man's forearm. She lifted all six limbs, poised for a clean, glorious kill, then brought them down in a crossing X. The remnants of Faelorian's life-saving artifacts that had failed against the desolation beam flared to life once more, buying him a precious heartbeat. Just long enough for him to peer over his shoulder and come face to face with death.
+
+Khaos wasn't a Monarch like Faelorian, but she was a 9th-stage Nascent Soul Realm void monster. The life-saving artifacts didn't stand a chance as her claws reaped through the shields.
+
+"The Covenant...?" Faelorian managed to rasp, his eyes wide as Khaos dismembered and beheaded the withered Monarch in one brutal strike.
+
+Lifeforce and nature Qi—thick as verdant lava—spilled from his wounds, and reality itself wailed at the death of a Monarch. If Ashlock didn't act fast, the entire region would be drowned in so much lifeforce that it would turn into a sacred land that even his desolation might never be able to reclaim. So, before the pieces of the Monarch's body could even hit the ground, Ashlock seized them with telekinesis and flung them into his Hellroot Abyss, where his hungry Abyssal Maw waited. From the blackness, void tendrils and thorned vines surged forth, coiling around each fragment and dragging them into the abyss to be devoured.
+
+Yet even in death, the Monarch continued to cause problems. His soul, which was going supernova, flooded the Hellroot Abyss with lifeforce and nature Qi so pure that his desolation was useless in breaking it down.
+
+[The Hellroot Abyss is collapsing,] his system unhelpfully informed him of the obvious.
+
+"Yes, I can see that!" Ashlock quickly swapped his view to an area to the north, deep in the beast tide. Having spent most of his credits recently on draws, he had anticipated a need for a fast influx of sacrificial credits to fuel his skill while battling with a Monarch. So, he had left Moros floating over a section of the beast tide and entrusted a few of his sect members, such as Diana, Elaine, and the other Redclaw Elders, to slaughter as many monsters as possible and feed them to Erebus, who he had under Progeny Dominion.
+
+"Diana, I need more food," he said as he saw a pile of corpses on Moros being devoured. "Double, no triple the amount. Call others if you need to."
+
+Diana didn't question why or say it was impossible. She simply nodded and spread her wings, vanishing in a cloud of demonic mist into the monster horde below.
+
+Ashlock felt lucky to have such competent allies as he returned to Floridawn. "System, feed all the sacrificial credits you can into the Abyssal Maw to keep it going. I'll pull on my offspring to bolster my Qi reserves—" he paused as he saw nature Qi bubbling out of his Hellroot Abyss as if it were a volcano about to explode. "What the hell?"
+
+The impossible scene reminded him once again just how utterly absurd a Monarch truly was. When other cultivators died, their Qi simply dissipated into the air and rejoined reality. But Monarchs? Even in death and after being cut into pieces, Faelorian's leftover Qi was like nuclear waste that served as a threat significant enough for him to call in all the help he could think of.
+
+"Pumping more sacrificial credits into my void skills isn't going to work. Within that lifeless husk is enough nature Qi to create an entire pocket dimension, and that's not even including his Inner World. There has to be a better way? Something I can do...."
+
+That's when he remembered he wasn't alone. He had a sect of specialists who covered areas he lacked. "I know the perfect being for the job." His vision blurred as he moved across his vast domain and arrived far to the west this time, in a dense snowstorm. There, he found General Bob and Astralis working together to take the primordial ice dragon apart and ferry it piece by piece to Red Vine Peak, as he had instructed.
+
+"Bob, I need your help containing a Monarch," he said, causing both of them to perk up.
+
+"A Monarch?" Astralis said, eyes widening. "Have you finally launched your attack on the Celestial Empire?"
+
+"I have. One Monarch is already dead, but his corpse is causing me issues," Ashlock explained as he tore open a clear spatial portal for Bob, as he didn't do as well with desolation ones due to his nature. Through the clear portal with a slight purple hue, the pair got a good view of what lay beyond—specifically, Ashlock's Hellroot Abyss bathed in Magnus's hellfire domain and the late Monarch's nature Qi trying to cause a Celestial Empire-ending explosion.
+
+Astralis looked at the scene with interest. "I've never seen what the aftermath of a battle with a Monarch looks like, and now I've been enlightened. You've brought hell to the 9th layer." He snorted. "There's no way I'd willingly step through into whatever that mess is, especially with the other Celestial Empire Monarchs no doubt aware of what's happening," he patted Bob on the back with his massive wing. "Have fun."
+
+Despite Astralis's sarcastic remark, Bob was practically salivating at the scene.
+
+"Hungry," he said, lurching forward. The ice cracked beneath his immense weight as he rushed toward the portal and barreled through.
+
+Switching back to his view over Floridawn, Ashlock had to admit it was a rather shocking sight seeing a mile-long ice centipede drop from a portal in the sky and engulf the Hellroot Abyss in its maw.
+
+"Bob, just devour the Qi that's bubbling over. My Hungering Maw will handle the rest," he instructed.
+
+His General was too busy feasting to respond but listened and didn't try to burrow into the abyss to munch on Faelorian.
+
+Ashlock zoomed out and watched from afar. His desolation beam had been focused on Faelorian, but it had also taken out the entire noble district. Nothing remained of the buildings that had once surrounded Faelorian's residence, nor the people who had been in them.
+
+"Luckily, this area wasn't very population dense, so there should be minimal mortal casualties," Ashlock mused as he took in the ridiculousness of it all. It was hard to imagine that just a few years ago, he couldn't even kill the birds perched in his canopy, stealing his fruit. Now? He was capable of... this.
+
+He could have Monarchs executed in such a swift and brutal fashion that this layer of creation had likely never seen before.
+
+Councilman Cyphion suddenly appeared in a flash of spatial Qi beside Thanatos. As expected, the other Monarch of Floridawn had escaped his desolation beam unscathed. Ashlock doubted he would ever kill the Spatial Monarch unless he managed to infect him with his Cursed Blood and spatially lock him in place.
+
+Cyphion simply gave Thanatos and Mistress Veilshade a nod. They returned the gesture, and the trio resumed watching the scene. In fact, everyone, including the very heavens, watched in total silence as Faelorian, who had ruled over The Flower Accord, Floridawn, billions of mortals, and served as a Councilman for the Celestial Empire, was fed to the abyss and buried under a giant ice centipede that was quickly turning into a floral creature resembling the nature the Monarch had wielded.
+
+It wasn't until an hour later that a system message appeared, followed by many more.
+
+[You have successfully devoured the Nature Monarch Faelorian Lysanthos]
+
+[+1500 SC]
+
+[Monarch Realm ascension requirements:
+
+Possess an Inner World: 1/1
+
+Comprehend Desolation Law: 84%
+
+Devour the souls of nine Monarch Realm beings: 1/9]
+
+"Over a thousand sacrificial credits for a single kill?" Ashlock was in disbelief. Considering he was on the border of reaching the Monarch Realm himself, he had expected much less. "I guess that really does show that the difference between a Nascent Soul Realm cultivator and a Monarch is significant enough for it to reward me so generously."
+
+It was both motivating and a little depressing to see that he now only had one of the nine Monarch souls he needed to absorb for his ascension.
+
+"Wait, system, why hasn't my comprehension of Desolation Law increased yet?" he asked. After devouring Ilyzathar, he had received primordial ice law comprehension, so shouldn't the same apply to Faelorian?
+
+[It is pending. Do you wish to activate {Nocturnal Genesis [S]} for a day to complete the assimilation of Nature Law?]
+
+Ashlock squinted at the system message. Last time, he had so happily said yes, only to be tortured for so long that he had asked what year it was when he woke up from his supposed two-day nap.
+
+"Is it going to be like last time?" he asked but received no response. He would take that as a yes. The idea of subjecting himself to such torture was unfathomable, but he had seen how his lack of nature dao comprehension had held him back in the fight against Faelorian. If he had possessed Nature Law before firing the beam, then he was certain that Faelorian wouldn't have survived the hit.
+
+"Hold on," Ashlock sighed. "I need to clean up here before going into slumber."
+
+He then inhabited Thanatos and used him as a mouthpiece.
+
+Both of the Monarchs seemed to feel his presence instantly, as Thanatos graciously turned to Councilman Cyphion, his hollow eyes flickering with a golden flame in the darkness. "As promised, I gift Floridawn to you, Councilman Cyphion—or at least what's left of it. You are to convert all mortals to worshiping me, the All-Seeing Eye, as soon as possible. Do this for me, and more rewards may lurk on the horizon."
+
+"Thank you," Councilman Cyphion said and respectfully bowed.
+
+Ashlock had said that openly, hoping to earn a reaction from the other Monarch. Yet, she had a perfect poker face as Cyphion's betrayal of the Celestial Empire and Faelorian was expected. Thanatos turned to the strange woman called Veilshade and said, "If you wish to discuss anything, you know where to find me."
+
+With that said, Ashlock had everyone retreat. He left nothing behind except his badly damaged Hellroot Abyss and lingering presence.
+
+"You did well, Magnus Redclaw," Ashlock said once they were back on Red Vine Peak.
+
+"Thank you, my Lord," Magnus said, bowing deeply. "Though I have to admit that without the assistance of the hellfire pocket dimension you summoned, I would not have stood a chance in Faelorian's presence. His mastery over his domain was far superior to mine."
+
+Magnus wasn't attempting to be humble—he was outlining a military weakness.
+
+"While that is true, Magnus, I don't possess a domain, and I didn't have enough tools to keep him from escaping," Ashlock said. "Having a Monarch on my side when facing another Monarch is a requirement. I'll be relying on you in the future when we strike again."
+
+Magnus straightened up and nodded resolutely. "I will do whatever I can to help burn the Celestial Empire and its corrupted Monarchs to ash. However, do you have an idea when you will attack them again?"
+
+"Not for a few days at least... I need to consolidate my gains from this battle and recover. My Inner World is near collapse, and my Qi reserves have yet to recover to optimal levels."
+
+"I understand," Magnus said, seeming to sigh with relief.
+
+"You should take a good rest too, Magnus," Ashlock said, sensing his Grand Elder's exhaustion. Sometimes he wondered if he worked his sect members a little too hard...
+
+"Thank you," he bowed again and left.
+
+Before going into slumber, Ashlock sought out Larry. The guardian spider of the Ashfallen Sect had been busy seapherding and snacking on the beast tide, making sure as many monsters as possible were funneled toward the side of Floridawn that Ashlock had been assaulting.
+
+"Larry, I need you to return to Red Vine Peak and defend me while I sleep. There's a decent chance that the Celestial Empire might launch a counterattack on me while I'm weakened and slumbering."
+
+"As Master wishes," the cataclysmic storm of silver ash that was vaguely spider-shaped stopped looming over the beast tide and condensed to a more suitable size. Floating through the portal that Ashlock conjured, Larry was back on Red Vine Peak.
+
+Nestling into his canopy like he used to do, Ashlock now felt far safer.
+
+"If Stella returns while I'm asleep, tell her I should be out for a day at most," he told Larry before glancing back at the pending system message in the corner of his vision.
+
+[Activate {Nocturnal Genesis [S]} for a day to complete assimilation of Nature Law?]
+
+"Yes, do it," Ashlock said, regretting it almost instantly as the world faded away and he was sucked into another torturous nightmare of Dao comprehension.
+
+Unable to escape its clutches once started, he failed to wake up when a Monarch came to visit him on Red Vine Peak. One who really wanted to speak with him as soon as possible.

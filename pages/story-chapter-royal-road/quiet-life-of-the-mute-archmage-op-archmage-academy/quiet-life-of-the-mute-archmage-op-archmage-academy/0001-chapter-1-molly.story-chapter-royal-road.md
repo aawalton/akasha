@@ -1,0 +1,239 @@
+---
+id: 6b07c911-ace1-5b68-9c74-104d4ede4867
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1: Molly"
+slug: 0001-chapter-1-molly
+partOf: quiet-life-of-the-mute-archmage-op-archmage-academy
+position: 1
+ownLength: 3398
+unit: words
+publishedAt: 2026-05-13
+link: "https://www.royalroad.com/fiction/167476/quiet-life-of-the-mute-archmage-op-archmage-academy/chapter/3388901/chapter-1-molly"
+royalRoadId: "3388901"
+---
+
+A little girl, not more than eight years old, ran through an empty street, her hand clutched tightly around the loaf of bread she held as if it were her lifeline. Her crimson eyes darted behind her, searching for whatever it was she was fleeing from.
+
+Her strides shortened as she passed through a more secluded area, the kind of place richer folk usually called the slums. Her chest rose and fell with the effort of her flight; her breath came in ragged gasps of pure exhaustion.
+
+She stumbled, losing her footing for a heartbeat, but instantly picked up her pace and kept running.
+
+With another sharp turn, she pivoted, darting into a more hidden corner, almost near the sewer's edge.
+
+Still heaving, she peeked out from behind the wall. She rubbed at the dark circles beneath her eyes and glanced back along the path she had come from. Seeing nothing in pursuit, a deep sigh of relief escaped her, and she slumped powerlessly against the hard ground.
+
+Her stomach sang its familiar, aching song, reminding her sharply of her predicament. She did not wait any longer. She began to eat the bread greedily, careful not to let a single crumb slip through her fingers. She could not afford to waste even a morsel of such precious food.
+
+Before she was halfway through the loaf, something fell just a few meters away from her, making her jolt in shock.
+
+It was a young boy, perhaps twelve years of age. He seemed more bone than human, so terribly thin was he. She herself was skinny, of course, so the sight was not entirely foreign. What made her want to flee, however, was the way the boy crawled toward her weakly, using every last bit of strength he could muster to drag himself closer while forcing words from his mouth. "...Food... Please."
+
+At that single word, the little girl scrambled instantly to her feet, clutching the half loaf of bread tightly against her chest while shaking her head in defense. "A...ase..nuU." She tried to force out the words. She knew she could not truly speak, just to make her clear rejection known.
+
+But a faint frown crept onto her face when she noticed the boy did not reply. He did not even lift his head again. He simply lay there.
+
+Hesitantly, she stepped closer to him, then gave him a quick tap before retreating backward just as fast.
+
+She paused again, tilting her head to the side to get a better view of his face. She noticed his expression was entirely blank, his eyes only partially open, staring distantly, almost... lifeless.
+
+Her frown deepened as she decided to approach the prone body once more. Once close enough, she leaned down and poked his back. There was no response. She poked his neck. Still nothing.
+
+She glanced at her remaining bread, then back at the boy, then at the bread again. A sigh slipped past her lips. She shifted the loaf into her left hand, and using her right arm and all the strength in her small body, she managed to roll him over so his back was against the ground.
+
+She placed her head upon the boy's chest, checking for any sign of a heartbeat. She did not truly understand what she was doing, but she did not care. She had seen a group of adults perform this same act on others who had suddenly collapsed.
+
+She leaned in closer, studying his pale face, his onyx-black hair, and his dried lips, which looked as though they had not tasted food in days, perhaps a week or more. She did not know the details. All she knew was that the rest of her bread was no longer meant for her.
+
+She needed to help him.
+
+She hurried over to a corner that was covered by a pile of rag clothes. She unfolded the cloth and retrieved a wooden cup filled a little more than halfway with water. A small, private grin touched her lips. She had filled this cup with fresh rainwater just the night before, saving it for herself to drink. A pang of regret still lingered, though. She should have stayed out in the rain a little longer so the cup would be full, at least enough to be shared between two people.
+
+She took only a small sip from the cup before padding her way back to the young boy who lay almost lifeless on the floor.
+
+She leaned forward and tried to open his mouth, but his teeth were clenched tight. She sighed, setting the cup down beside her along with the remaining half loaf of bread. Using both of her hands, she pried his jaw open, unclenching his teeth with a soft groan of effort.
+
+She bit back another complaint before sighing in relief as his mouth finally parted.
+
+She proceeded to give the unconscious boy water first, pouring it gently into his mouth. She paused afterward, waiting for a response, any response at all.
+
+And she received one. The boy's throat moved slowly at first, and then he began to drink greedily, only to cough harshly as the liquid went down the wrong way.
+
+The little girl patted his chest, a smirk of pride spreading across her face. She had managed to bring him back to consciousness.
+
+The boy's hazel eyes, still unable to focus clearly, stared weakly at the face hovering above him. He felt a few light, consecutive slaps upon his cheek, and moments later, something soft and soaked was placed into his mouth.
+
+His eyes widened with realization. The girl was feeding him bread, bread softened by the water. His mouth began to devour the morsel like an animal starved for far too long.
+
+The little girl watched all of this, a small lopsided curl on her face as she continued to soak pieces of the loaf and feed them to him until the bread was completely finished. After that, she waited a few more minutes until the young boy could sit up weakly. She handed him the cup with the remaining water, which he accepted with gratitude and drank down entirely.
+
+Once he was done, he gave the cup back to her. She took it and immediately walked back to the corner, hiding it once again beneath the rag clothes.
+
+She returned to where the boy sat, but found herself frowning and halting in her steps. He was staring at her blankly.
+
+She leaned in and waved a hand in front of his face before he finally snapped out of his daze.
+
+"S-sorry!" he said, his face turning red with embarrassment as he bowed his head repeatedly. "Thank you for saving me." He concluded, slowly straightening his posture.
+
+The little girl simply stared at him for a few moments before shaking her head and sitting down nearby.
+
+Minutes passed, and neither of them spoke a word, save for the occasional glances she cast toward the boy, who always seemed distant, lost somewhere inside his own thoughts.
+
+When he finally noticed her watching him, he smiled weakly and cleared his throat. "Nice to meet you. I'm Roland." He extended his hand for a handshake. "What's yours?"
+
+The young girl raised a brow at the sight of his outstretched hand. She stared at it for a moment before finally shaking it and responding to his question with a simple shrug.
+
+After retracting his hand and seeing his inquiry answered only by that gesture, Roland could not help but frown. "You don't know your name?"
+
+She shook her head to indicate no.
+
+Seeing her answer without speaking, his frown deepened, confusion etched across his features. "You... don't want to talk?"
+
+She shook her head again. Then she lifted a finger, pointed it at her mouth, and opened it as if trying to speak. After the attempt, she shook her head once more.
+
+Roland placed a hand on his chin, deep in thought. His expression soon brightened with understanding. He turned to her. "You can't talk?"
+
+She nodded eagerly, her face lighting up.
+
+Seeing the confirmation, a worried look settled on his face. "You live here alone?"
+
+She nodded.
+
+His frown grew. "For how long?"
+
+She considered the question for a moment, then shrugged.
+
+"Then..." Roland's voice trailed off as he examined the place where they currently sat. This secluded corner was far too close to the sewer. The foul stench of stagnant water reached their noses, and the chill, damp air was alive with mosquitoes and all manner of crawling insects.
+
+He turned back to her. "How are you surviving here?"
+
+The little girl stiffened slightly at that word. She had never really considered it. She did not care to. All she knew was that after the lady who had once looked after her passed away, she had been on the streets for as long as she could remember, constantly struggling for something to eat just to see the next sunrise. So she had not stopped to ponder how she managed to keep living.
+
+She glanced at Roland and offered another shrug. There was no special trick to her survival.
+
+Roland opened his mouth, clearly wanting to ask more questions, but he decided against it and closed his lips again.
+
+After that, they sat in silence, neither one saying anything. The little girl giggled softly to herself, blowing at the white symbols that floated in the air around her. Roland, however, watched her with a raised brow, wondering what it was she kept blowing at, for he could see nothing at all. Eventually, he dismissed the thought, and sleep claimed him out of sheer exhaustion.
+
+The little girl continued to play with the symbols until her eyes widened. She perked up instantly, the cool, earthy scent of rain entering her nose, followed by the faint pitter-patter of droplets striking the ground.
+
+It was already raining.
+
+Her expression brightened at the thought of the water she could collect. She bolted upright and ran to the corner covered in rags, retrieving the wooden cup from its hiding spot.
+
+Her eyes briefly glanced at the sleeping Roland for a moment before her gaze returned to her destination.
+
+She peeked out from the edge of the wall, scanning the slum's empty street. Seeing no one around, she walked out into the center of the rain and lifted her wooden cup toward the sky, letting the raindrops fall into it.
+
+Abruptly, a rough cough escaped her. She used her free hand to cover her mouth until the spasm subsided.
+
+When it stopped, she pulled her hand away and could not help but frown. A strong, metallic taste of iron lingered in her mouth. Her eyes fell upon the hand she had used to cover her lips, and she saw a red liquid smeared across her palm.
+
+Her frown deepened for a moment as she stared at the blood, but she soon ignored it and returned her focus to collecting the water.
+
+"Hey, look. It's the mute girl."
+
+A mischievous boy's voice sounded from behind her, making her blood run cold in an instant. Her eyes darted backward to see three young boys, all clearly older than her, laughing maliciously as they walked toward her.
+
+She took a subconscious step back, her grip tightening around the wooden cup. She gritted her teeth and glared at them.
+
+One of the boys, the oldest and clearly the tallest, stared at her with amused brown eyes. "We told you to give us the bread you got, but you decided to ignore us. And when I tried to collect it from you nicely, you bit my arm." He smiled, a simmering fury barely hidden beneath his expression. "Now it's time to return the favor."
+
+"Yeah, boss. Let's show her she can't mess with us," one of the other boys added, his grin so wide it revealed his brown-stained teeth.
+
+The little girl stared at them for a tense moment, then glanced down at her already drenched body. Her gaze settled on the wooden cup she held so tightly, the water inside it now nearly halfway to the brim.
+
+She gritted her teeth. A low growl rumbled in her throat as she lifted her hand and, with all the strength she could summon, hurled the wooden cup directly at them.
+
+And then she ran. She ran with all her might.
+
+"Get her!" the eldest boy barked, and the other two obeyed instantly, sprinting after her.
+
+The little girl did not look back. She raced through the street, her bare feet making wet splatting sounds with every step. She pivoted to the side, darting into a corner even more secluded than the slum area she called home. The voices of her pursuers grew closer.
+
+She clenched her jaw and increased her pace, her eyes focused on the escape route ahead. If she could just pass through there, she would reach the main street. Once there, she could find a place to hide until evening, and those older boys would never find her.
+
+Her expression brightened faintly as she swept the wet strands of hair away from her forehead, clearing her vision.
+
+"Got you!"
+
+With that sudden shout, a hand clamped down on her shoulder, but it slid off easily due to her soaked skin.
+
+She groaned and yanked herself free of the next grasping hand. Using every last ounce of strength, she sprinted forward. A few frantic heartbeats later, she burst out of the corner and reached the main street.
+
+But the moment her feet touched the open road, before she could feel even the smallest hint of relief, she lost her balance on the slick, wet stones. She slipped and fell hard, her head striking the edge of a gutter slab with a sickening crack. Her vision immediately went dark.
+
+And she lost consciousness.
+
+******
+
+A pained groan escaped the young girl as she slowly opened her eyes. Her vision was blurry and hazy, and the first thing she could faintly make out was what appeared to be the wooden roof of a carriage.
+
+A woman's voice drifted to her ears, faint and soothing. She tried to turn her head to see the speaker's face, but a calm hand rested gently upon her forehead. "Don't worry, little girl. Everything will be all right."
+
+Following those words, a slender, fair hand hovered just a short distance away from her, and she heard a soft mutter. "[Advanced Heal]."
+
+The utterance carried a distinct, sacred tone. At the sound, the little girl watched as the rough white symbols she had seen for as long as she could remember began to move. The symbols floated around the slender hand, shuddering and then beginning to take shape.
+
+The first symbol formed the image of a cross, surrounded by many smaller crosses. The next symbol to take shape was a large circle that encapsulated the entire arrangement. Then, like an illusion, the completed emblem was suddenly dyed a vivid green, creating a perfect and pleasing visual for the eye.
+
+Her heart skipped a beat as she watched the green glow intensify. Soon, faint motes of emerald light flowed out from the completed symbol, landing softly upon her skin and dissolving into it upon contact.
+
+The little girl's eyes widened with recognition. She had heard of someone using something akin to this before; she had heard some of the other children in the slums whispering about it.
+
+It was magic. Real magic.
+
+And it was the first time she had ever witnessed it up close. She had always been curious about magic. How could she not be? For the things that gathered just before the spell appeared were the very white symbols she constantly saw floating around her.
+
+"Are you feeling any better, little one?" The woman's soothing voice pulled her from her thoughts. She immediately sat upright, her crimson eyes turning to see the person who had spoken.
+
+It was a woman who appeared to be in her mid-forties or early fifties, judging by her features. Her hair was completely white, like that of someone who had lived a very long time. Her lush blue eyes held a deep warmth as she looked at the little girl.
+
+"No need to be alarmed. I mean no harm," she said with a gentle chuckle.
+
+The elderly woman leaned forward a little. "I am Jen Valtoria. Would you mind telling me your name?"
+
+The little girl stared at the white-haired woman for a long moment, confused by this sudden turn of events. But at the very least, it seemed she was no longer being chased.
+
+Her crimson gaze locked with Jen's lush blue eyes. She shook her head.
+
+A slight crease appeared on Jen's face as she tried to understand. "You... do not wish to tell me?"
+
+"A..ayyoo..vu." The little girl fumbled, waving her hand and shaking her head before pointing at herself and then shaking her head again. She tried her very best to make this nice lady understand what she was attempting to convey.
+
+Jen watched calmly as the child demonstrated. The moment she heard the girl's strained attempt at speech, she understood that the child was mute, but she let no expression betray her thoughts. She simply observed quietly while the young girl struggled to communicate.
+
+When it finally seemed the message was getting through, Jen's expression brightened. "Ah." She snapped her fingers in realization, but a frown soon followed as she pieced the meaning together. She glanced back at the girl. "...You do not have a name?"
+
+The little girl's face lit up, and she nodded vigorously.
+
+Jen processed the revelation, a flicker of sadness passing over her features. She quickly masked it with a warm expression and asked another question. "What about a family member, a loved one, or friends? Do you have any?"
+
+The little girl shook her head without a moment's hesitation.
+
+Jen stared at the child, the sorrow threatening to show on her face once more. This little girl before her was living all alone, unable to speak, with no friends or family, merely surviving in the slums. She was fortunate to have found her alive. Had she been even a moment later, heaven only knows what might have become of the girl.
+
+Jen's original intention had been to heal the child and return her to her family. But seeing how things truly stood, it was clear some plans were about to shift.
+
+She leaned closer to the young girl. "Would you like to come with me?" She added gently, "If you accept, you will be traveling quite a lot." She raised a brow, a small upward curve playing at the corner of her lips. "Would you like that?"
+
+The little girl stared at Jen with wide eyes, an expression of pure awe plain on her face. Almost instantly, she nodded with great enthusiasm, a brilliant grin spreading across her lips.
+
+Jen gave a short nod of satisfaction, but then paused briefly as she recalled something. "A name." She turned back to the child. "Would you like me to give you a name?"
+
+The little girl thought about it deeply, then she nodded.
+
+Jen smiled. "All right, then." She considered carefully what name might suit the little girl before her.
+
+Then her expression brightened. Her lush blue eyes met the child's crimson ones. "Would you like the name Molly? Molly Valtoria?"
+
+"Oow." The little girl let out a thoughtful sound. Molly. This was the first time anyone had ever tried to give her a name. Molly... it was a good name.
+
+The girl turned to Jen. She nodded eagerly, a radiant smile appearing on her face.
+
+Jen's smile mirrored the child's own. "All right then, Molly. We are going to have a wonderful time together."
+
+As she spoke, the newly named Molly found her smile growing even wider. She did not know precisely why she felt so happy. Was it the warmth she was feeling? Was it the way this kind lady smiled at her? Or was it simply the knowledge that her entire life had been strangely, wonderfully altered in the span of a single day? She did not know, nor did she care to figure it out. All she could think of in that moment was one simple truth.
+
+She, the mute, nameless girl from the slums, had just been given a name.
+
+Molly.

@@ -1,0 +1,315 @@
+---
+id: 4ba1952a-9ca7-5935-8705-6f30e172f6e0
+page-type-slug: story-chapter-royal-road
+title: "Chapter 4 – Rock Hard; Hot and Steamy"
+slug: 0004-chapter-4-rock-hard-hot-and-steamy
+partOf: rock-falls-everyone-dies
+position: 4
+ownLength: 1819
+unit: words
+ownProgress: 1819
+publishedAt: 2023-01-22
+link: "https://www.royalroad.com/fiction/55418/rock-falls-everyone-dies/chapter/1094374/chapter-4-rock-hard-hot-and-steamy"
+royalRoadId: "1094374"
+markedReadAt: "2026-06-29T22:50:22.084Z"
+---
+
+The rock—it was a tiny pebble no longer—was not being thrown at enemies. Neither was it being dropped on enemies. Or even rolled…
+
+Wasn’t that the whole point of being a [Rolling Stone]?
+
+No, instead the rock was sweating. Well, not actually sweating, but it was growing hot, then being cooled by a spray of water in periodic intervals. That was close enough, right?
+
+Yes—it had gotten stuck again.
+
+The stone had been ready to lay down its arms and retire once more from a great career of adventure—even if its quest was yet to be completed. But... there was just one issue.
+
+This was no comforting rest. The rock was being tortured.
+
+It lay in a heap of its kin, the largest rock of all, centerpiece of the display. Above a stove constantly stoked with fresh firewood, which kept the rocks heating up.
+
+Until a spray of water cooled them again.
+
+The rock cursed the inventor of this infernal torture device, which some may have recognized to be a sauna. The [Ranger] had stripped down from his gear, and now stood there, skin white and furless, exposing himself indecently before the rock.
+
+Of course, it didn’t care about that, per se.
+
+If anything, the dangling bits shifting about before it were a fresh point of interest, something for the stone to discreetly observe. Some twisted kin of its? For two small pebbles sat hanging down behind the trunk. Were they trapped too, in torture as hellish as the rock's?
+
+It swore to free them, for this stone was a true hero. And so… the rock began to plot. How could it escape this fiendish situation, and exact vengeance on its captor?
+
+It began experimenting.
+
+The [Velocity] vector was a flat zero, and the stone was wedged tightly between its kin, so escaping through [Steer] seemed doomed to fail. One plan out.
+
+The only plan, if it had still been the humble pebble of before, capable of only slightly changing course. But it was a grown stone now, level 3. A mighty warrior, truly.
+
+With a new skill.
+
+New Ability Gained!
+
+Energy Shift
+
+Change energy from one form into another.
+
+Now, what exactly did this mean? It was a curious skill, with many new variables unfamiliar to the rock. But… it smelled of potential. Or would have, if the rock could have smelled.
+
+With the methodical mind of a boulder, it began to experiment. Because… the stone was being heated up. And cooled. And whenever that shift happened, it had a faint sense of it. A shift in energy.
+
+Energy of an unfamiliar sort—so far it only understood the relation of mass and velocity. Kinetic energy, the one most easy for a rock to grasp. For these were cyclic mountains, where the changes of heat happened slowly.
+
+The weather did not shift in a matter of days, it took seasons for temperatures to truly move around. So the rock had never before noticed the true difference between hot and cold, before being trapped inside this chamber of horrors.
+
+It tapped at that energy with a sense and shifted a small, tiny portion into its new skill.
+
+Then it used [Shift Energy].
+
+Energy Shift activated!
+
+Converting [Thermal Energy] to [Kinetic Energy]
+
+Δ0.001k -> 1.4 m/s
+
+New Velocity for [Unnamed]: 1.4 m/s
+
+The rock shifted in place, just a hint, and then settled back.
+
+The [Ranger] looked up, then dismissed the change as a quirk—a cracking of rocks at the heat of a stove. He felt slight regret that he may have to find some new proper stones in the future.
+
+But meanwhile… a rock was waiting. Because that had been... absurdly powerful. Just one small, absolutely minuscule drop in temperature, and it had managed to increase it's velocity by such an amount...
+
+Clearly, this was perfectly balanced.
+
+So, the rock waited a few more moments, warming up. More energy was obviously better, and it finally had a reliable storage of sorts.
+
+So it waited, measuring the increase in energy throughout its body, feeling a growing anticipation. The [Ranger] was strong, a merciless killer who had taken down a horde of goblins on his own. But the stone had methods of its own too.
+
+The man reached for the ladle held within a bucket, then took it out, a measure of water within. He readied for a throw.
+
+The stone used [Energy Shift], measuring an amount of energy it considered appropriate, thrusting it down like the tiniest dip into ice.
+
+Energy Shift activated!
+
+Converting [Thermal Energy] to [Kinetic Energy]
+
+Δ1k -> 44.7 m/s
+
+New Velocity for [Unnamed]: 44.7m/s
+
+It blasted out of the stove, scattering other hot stones around the room, aiming right at its trapped brethren. The [Ranger] had no time to dodge.
+
+Titles Activated!
+
+Line-Ender Activated!
+
+Patient Ambusher Activated!
+
+Calculating combined bonus...
+
+50%!
+
+Collide activated!
+
+[Unnamed] Dealt 11.3 * 44.7 / 4 * 1.5 = 189 dmg to [Ranger Tom]
+
+CRITICAL HIT! WEAK SPOT TARGETED!
+
+DAMAGE DOUBLED!
+
+New Velocity for [Unnamed]: 0m/s
+
+The man crumpled down with a whimper, his nether regions reduced to nothing, and the rock realized it had crushed the captive pebbles too. A kinslayer! But no title came of it, so the rock figured it was alright.
+
+Then the experience came. Or tried to—but the rock held off, just for a moment.
+
+It wanted to enjoy the outdoors.
+
+So, it heaped over a generous helping of temperature for the skill, deciding to test out how fast it could really go. Because it really was quite hot, a bit too hot even.
+
+Energy Shift activated!
+
+Converting [Thermal Energy] to [Kinetic Energy]
+
+Δ500k -> 1000 m/s
+
+New Velocity for [Unnamed]: 1000 m/s
+
+AND THE ROCK STARTED MOVING VERY VERY VERY FAST INDEED AND—
+
+It stopped suddenly, before it even moved one meter, held in place by an ever-present force, which finally detected that something was very very wrong indeed here.
+
+ERROR_ABILITY_ABUSE_DETECTED: SAFEGUARDS ACTIVATED
+
+Skill: [Energy Shift] has gone over safety limit for <velocity>
+
+Searching for solution...
+
+A cooling presence enveloped the rock.
+
+The rock sat still, waiting in place patiently for the system to resolve the problem. It just sat there... waiting.
+
+And the <System> grew nervous. Because it had already searched for three days, but the rock didn't tire of watching it. Usually, people gave up after a few minutes, letting it sneakily adjust things behind their backs.
+
+But this rock... watched.
+
+And the <System> panicked, quickly adjusting matters in the fastest way it could.
+
+ERROR: SOLUTION FOUND
+
+Adjusting <Physics> for entity <Unnamed>...
+
+Complete!
+
+Applying limitations...
+
+Complete!
+
+Obfuscating logic...
+
+Complete!
+
+The rock felt some immaterial force around it change and shift about, like getting into new clothes for the first time.
+
+Patch Applied!
+
+Please continue on with your <Quest>
+
+Curious, the rock decided to test out its newly modified skill. How would it work now? It still had [Energy Shift], it could feel it. Carefully, it reached out for the skill.
+
+Energy Shift activated!
+
+Converting [Thermal Energy] to [Kinetic Energy]!
+
+Using Maximum allowed ΔT! (Dependant on level)
+
+User is not allowed to use ΔT for below 273.15K
+
+Δ1K = Δ1 m/s
+
+New velocity for [Unnamed]: 20 m/s
+
+The rock jaunted forward a hint, accelerating. But this new solution... it almost felt lazy. A lot less broken in some ways. But it might just work well enough for what it had in mind...
+
+So it didn't bother calling for customer support. Nobody would have answered, probably.
+
+The rock waited patiently in place, as the heat in the room gradually warmed it back up—not as hot as it had been before, just a fraction. But enough.
+
+Energy Shift activated!
+
+Converting [Thermal Energy] to [Kinetic Energy]
+
+Δ2K = Δ2 m/s
+
+New Velocity for [Unnamed]: 2 m/s
+
+It launched itself towards the exposed fireplace, and fell within the burning embers. Heat enveloped it, but this time—the rock welcomed it all, for heat was energy. It waited, heating up more and more, gaining a higher level of energy than it had ever felt within itself before.
+
+So it waited, heating up until it glowed orange, then, finally satisfied with its bounty, it released it a proper, more restrained amount. It aimed up, at the room’s one tiny window—just wide enough to fit it through.
+
+Energy Shift activated!
+
+Converting [Thermal Energy] to [Kinetic Energy]
+
+Δ12K = Δ12 m/s
+
+New Velocity for [Unnamed]: 12 m/s
+
+It flew through the sauna, then smashed into the window, easily blasting it apart.
+
+And once more, got to the great outdoors, and started rolling down the mountain.
+
+Level up!
+
+100 / 70 xp
+
+Discarding overflow xp
+
+You have reached level 4!
+
+Stats up!
+
+Mass (m): 11.3kg -> 38.2kg
+
+Diameter (d): 0.20m -> 0.30m
+
+HP: 3 -> 5
+
+And it grew once more, swelling in size and mass more than it ever had before, and once more rolled through the great outdoors.
+
+But things were different.
+
+As its pace accelerated, greater and greater, the rock felt the cooler air around it, already making its gathered heat fade, and it made a realization. If it could shift energy from heat to motion...
+
+Could it not also do it the other way around?
+
+Curious, the rock took a look at its current velocity, as it bounded down the mountain at a growing speed.
+
+Current Velocity (V): 22.7m/s
+
+What if it just... changed all of it to heat.
+
+Energy Shift activated!
+
+Converting [Kinetic Energy] to [Thermal Energy]!
+
+Δ12 m/s = Δ12 K
+
+New Temperature for [Unnamed]: 816.7K
+
+The rock’s pace halted to a stop, the skill acting as a brake, naturally heating it up in the process. Then it began accelerating downwards again, inevitably dragged down by gravity. But the rock was elated.
+
+It now had a steer, and a brake. Energy was the key.
+
+The rock saw it had everything it really needed to navigate now, but it had also learned the heights of Mt. Tai. In these mountains, there were great enemies. Ones that could slaughter goblin hordes with ease. It would not always have the opportunity of ambush. If it wanted to make its way down safely…
+
+It needed more power.
+
+And as it had learned… levels were power. And the rock could level by hitting things in the head really hard. Or the balls lower down from the head—whichever was easier really.
+
+As it plotted and planned it spotted a flash of green ducking to cover. Not grass, not this high up. A goblin—perhaps several.
+
+The rock remembered how the last time it met goblins it had been just a projectile, an unwilling participant in a war. No more. It [Steered].
+
+It was time for a warpath of its own choosing.
+
+Quest:
+
+Current Altitude: 6 511m
+
+Full Status:
+
+[Unnamed]
+
+Title(s): Line-Ender, Patient Ambusher, Bane of Demons
+
+🗿
+
+HP: 5/5
+
+Mana: 0/0
+
+Level: 4
+
+Experience: 0/100
+
+Class: Rolling Stone
+
+Sub-class: None
+
+Race: Gneiss Stone
+
+Gold: 0
+
+STATS
+
+Diameter (d): 0.30m
+
+Mass (m): 38.2kg
+
+ABILITIES
+
+Collide
+
+Steer
+
+Energy Shift

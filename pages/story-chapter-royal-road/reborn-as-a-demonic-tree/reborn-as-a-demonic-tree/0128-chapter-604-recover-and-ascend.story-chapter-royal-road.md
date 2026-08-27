@@ -1,0 +1,245 @@
+---
+id: 2e0ac214-6df6-5060-afc6-6fc6c47f3250
+page-type-slug: story-chapter-royal-road
+title: "Chapter 604: Recover and Ascend"
+slug: 0128-chapter-604-recover-and-ascend
+partOf: reborn-as-a-demonic-tree
+position: 128
+ownLength: 2709
+unit: words
+publishedAt: 2026-08-14
+link: "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3814642/chapter-604-recover-and-ascend"
+royalRoadId: "3814642"
+---
+
+Stella returned to a silent home.
+
+Signs of life were everywhere—a couch overturned, Jasmine's clothes strewn haphazardly across the floor, a half-eaten dinner abandoned on the table. Everything carried the feeling of people who had left in a hurry and hadn't looked back.
+
+Must have been Ash's anger that drove them out, Stella mused. She could see the fractured sky through the window. From the cracks, divine energy bled like tears and fed into oppressive storms of desolation Qi that still raged overhead. She could only imagine how it must have felt in here before she was saved and Ash calmed down.
+
+Refocusing on her surroundings, Stella moved through the room, aether Qi expanding outward like a slow breath, taking hold of everything at once. Objects rose, drifted, and settled into place in a quiet whirlwind around her. By the time she reached the hallway, the room was righted.
+
+She wandered into her bedroom. "Just how I left it," she muttered.
+
+Unlike the living room, she liked the chaos in here. A click of her fingers stripped away her bloodstained clothes and deposited them into her newly functioning spatial rings. She was reaching for a fresh set when she stopped before the mirror.
+
+It had been looted from another cultivator's spatial ring in the past. It was about the height of a person, made of polished silver and lined with tasteful gems. She didn't typically spend much time inspecting herself as a habit, but she did so now, if only to take stock of the damage.
+
+Her body, at least, had been spared the worst of it. Thanks to Ao Lingxuan absorbing the brunt of the Crowned One’s torture, her skin remained unblemished—no scarring, no burns, none of the deep bruising she had half-expected. She ran a finger across her stomach. She was muscular but lean, the kind of build that came naturally from years of fighting for survival. Well proportioned everywhere that mattered, though not curvy enough to grab attention like Diana.
+
+Her hair was a different story. It was now a matted, bloodstained mess, half-stuck to the side of her neck. She peeled it free with mild distaste and let her aether Qi unsnarl it by patiently coaxing the strands apart until it hung just past her collarbone.
+
+That's better.
+
+Unfortunately, with the hair out of the way, it exposed her mess of a face.
+
+Her left eye was still bloodshot, and her nose had been broken—she could tell by the faint crookedness of it and the dull throb that sharpened whenever she breathed too deeply.
+
+She pulled down her busted lip and leaned in closer. Something felt off. It wasn't her bloodstained teeth, bloody left eye, or busted nose. She studied her face for a moment and felt a pit in her stomach because all she saw in the mirror was the Mirrored One staring back at her.
+
+Stella Crestfallen, you should change your name and face because everything you once represented is now mine.
+
+The Mirrored One's words replayed in her mind, making her scowl.
+
+"I'll skin my own face off that bastard myself," she hissed through clenched teeth.
+
+"I see your ruthlessness hasn't changed one bit," came a soft voice from the doorway.
+
+Startled, Stella glanced over her shoulder and saw Diana standing in the doorway.
+
+Her scowl didn't lessen. "At least knock."
+
+Diana shrugged. "You left the door open, so I took that as an invitation. Besides, it's nothing I haven't seen before."
+
+Stella rolled her eyes. "I wasn't expecting visitors," she said and clicked her fingers. A brand-new cult robe manifested from her spatial ring, covering her body from Diana's wandering gaze.
+
+Diana chuckled and began moving into the room as if it were her own. A trail of demonic mist drifted lazily in her wake, hazing the edges of her folded wings. "The great Princess of the Ashfallen Sect, whose rescue attempts ended an Empire and caused the death of millions, wasn't expecting any visitors?" Diana looked her up and down and smirked. "You look awful. Did the Crowned One beat you up?"
+
+Stella raised a brow. "Said the person evaporating and making my room smell like demonic sweat."
+
+They stared at each other for a beat before both broke into laughter.
+
+"You big idiot," Diana said, pulling her into a hug that Stella didn't resist. "I thought we were going to lose you for a while."
+
+"Your lack of faith in me is noted," Stella said dryly.
+
+"For a while," Diana repeated with emphasis. "Ashlock would have invaded the depths of hell or set the heavens ablaze to get you back. Even the afterlife wouldn't have been safe."
+
+"Then what were you worried about?" Stella said, patting her back.
+
+"That Ashlock would send me to do it," Diana chuckled. She pulled back, smiling wide enough that her fangs peeked out. "Not that I wouldn't have, because I know you would do the same for me. Right?"
+
+"Right..." Stella said, slowly nodding.
+
+Diana put an arm around her shoulders and turned them to face the mirror.
+
+"Look at us, Stella," she said, her grey eyes softening a touch. "Look how far we've come."
+
+Stella took it in. Diana was almost a half a head taller than her now, with her folded feather wings thrice her size, further adding to her imposing silhouette. She would tower over any mortal now with ease. Two finger-length black horns curved up from her forehead, poking through her long black hair, tinted blue that cascaded over her shoulders and down her back. The hand resting on Stella's shoulder ended in claws that looked sharp enough to serve as daggers. Everything about her screamed dangerous.
+
+But Stella couldn't see her that way, as she could still see traces of the timid Diana she had met all those years ago lurking underneath her lethal figure.
+
+"I don't like that look in your eyes," Diana muttered. "And not because they are bloodied."
+
+Stella snorted. "No matter how fearsome you become, you will always be Diana to me."
+
+"Aww—"
+
+"Don't pat my head," Stella said, thwarting her attempts. "You somehow outgrew me, so now I look like a little sister beside you. It's humiliating."
+
+"I mean... I am older than you by a few years," Diana offered. "Though it gets confusing with the Eternal Realm factored in."
+
+Stella nodded. "I'm imprisoned for a few days, and you come back a Monarch looking like this." She gestured at her vaguely. "What even are you now?"
+
+Diana straightened, chin lifting. "You're in the presence of an Archdemon of the Immortal Mist. Inheritor of the Ravena Clan and Grand Elder of the Ashfallen Sect."
+
+"Whoa," Stella said flatly, looking her up and down.
+
+Diana deflated slightly and uncoupled her arm from Stella's shoulder. "At least pretend to be impressed," she muttered, moving over to the room's window.
+
+"Don't sulk, I promise I'm very impressed," Stella said with a smile tugging at her lips. "Diana the Archdemon. How fearsome!" She paused. "Are you leaving?"
+
+"No," Diana said, unlocking and swinging open the window. "Just letting Sol in to heal you because you look and sound ridiculous with a busted nose."
+
+"What do you mean let him—" The words died as an arm the width of a tree trunk reached through the window, cradling an orb of soothing golden light roughly the size of a person's head. Stella crouched and peered outside, following the arm upward until she caught a glimpse of a body that dwarfed her entire house. She straightened slowly. "Since when is Sol that big?"
+
+Diana seemed to enjoy her confusion. "You know how it is with the Ashfallen Sect. Look away for a moment, and someone has gotten stronger. Or a little taller."
+
+"A little?" Stella stared back out the window. "Sol used to be tall. Not taller than my house tall."
+
+"He just grew a bit," Diana said, patting Sol's arm. "Oh, and his light packs quite the punch now that he's in the Monarch Realm."
+
+Stella blinked. "Ash can create Monarch Realm Ents now?" Her voice dropped to a whisper. "I worked hard for this. That's not fair."
+
+"Right?!" Diana whispered back, loud enough that she clearly feared Sol might overhear. "What use are we if he can just make an army of Monarchs?"
+
+"Wait." Stella grabbed Diana's hand where it rested on Sol's arm. "Isn't this a good thing? If they replace us, we let them attend the meetings in our stead, and Ash can handle the rest."
+
+Diana gave her a flat look. "We can't leave everything to Ashlock. What if he gets compromised or a powerful foe knocks him out? Someone has to be there to protect him." She glanced at Sol. "Besides, as good as the Ents are, the ones below the Generals don't have the wits to run a sect the size of the Ashfallen Sect. We still have a use." She paused. "Okay—I still have a use—"
+
+"Hey!"
+
+"What? I'm being honest. The sect wouldn't run half as smoothly without me," Diana said with a small, satisfied tilt of her chin. Then she went still and her gaze became distant.
+
+"Diana?" Stella waved a hand in front of her face. "You in there?"
+
+She blinked back into focus. "It seems Ao Lingxuan didn't have a Monarch soul left to devour after all, and Ashlock needs one more for his ascension." Her eyes slid to Stella. "Apparently, you have one?"
+
+"I do," Stella nodded. Though she couldn't feel Ash's presence anywhere, how had Diana been informed of that?
+
+"Can you fetch it for me?" Diana asked with a kind smile.
+
+"Sure." Stella reached into the Aether and drew out the corpse and infant soul of Bendrik Vayne, Patriarch of House Vayne—a fire Monarch whose azure flames she'd bested in single combat at the start of the ball, before she'd been dragged into that prison.
+
+She moved to hand it over—but Diana gestured past her, toward the doorway.
+
+"You can give it to me," Diana said. Her voice was strangely coming from behind.
+
+Stella turned. A second Diana was forming in the doorway from swirling mist, identical down to the last detail, save that she was hazier at the edges.
+
+Stella's gaze bounced between the two. "What the—"
+
+"My clone," the original Diana said helpfully. "She'll carry it to Ashlock."
+
+Stella stood there, stunned as she was relieved of the corpse and infant soul. The clone dragged the corpse elsewhere, and soon Stella was once again alone with the original Diana.
+
+"That was weird."
+
+"But impressive, right?" Diana said with a knowing smirk. "It's written all over your busted face."
+
+Stella glared at Diana and grabbed the orb of light. "You have some explaining to do, but after I can breathe out of my nose," she said before dunking her head into the light, and was surprised at how quickly it flooded her body.
+
+There was an audible crack as the bones in her nose fused and straightened, the bruises on her cheeks softened, and blood drained out of her eye and vanished.
+
+Stella licked the blood off her teeth and grinned at Diana. "Fixed?"
+
+Diana nodded in approval. "You look way bett—"
+
+"Master!" Jasmine's yell echoed from the hallway. Stella didn't even get a chance to react as Jasmine barreled into the room and leaped onto her back. There was more movement behind them, and Stella could hear Elaine walking through the living room with Hazel and Talon.
+
+"Looks like everyone's come to greet you," Diana said with amusement.
+
+Stella groaned. "I really just wanted to rest..."
+
+***
+
+Red Vine Peak was ablaze with golden light. The Crowned One's soul, ripped free from Ao Lingxuan, was flaring angrily against Ashlock's attempts to devour him. Waves of resistance radiated out and were easily dispersed to his offspring through his Soul Forest skill.
+
+"Your reign is over," Ashlock said as he patiently watched his Abyssal Maw tighten around the soul. "I will bleed you dry of everything you have to fuel my ascension and achieve what you could not."
+
+That seemed to enrage the Crowned One even more, which only made absorbing him easier.
+
+"I retrieved the other soul you requested from Stella," Diana's clone said as she emerged from an opening near his trunk that led to his Inner World. She dumped the corpse containing a Monarch Realm soul into the greedily awaiting mass of void tendrils and vines.
+
+"Thank you, Diana," Ashlock said. "How is she?"
+
+"Sol's healing her right now, and she seems in good spirits, all things considered." She glanced to the side. "What about Ao Lingxuan?"
+
+"The Crowned One's soul devoured what little was left of him," Ashlock said with a sigh. "I'm raising his corpse as an Ent. Did you manage to ask Stella more about Janus, the World Tree, and the whereabouts of the other sins?"
+
+"I will soon. She's talking with Jasmine and the others right now," Diana said. "The poor girl needs a rest."
+
+"No rush," Ashlock assured her. "Just whenever you can get around to it. I don't like the idea of the other sins out there unaccounted for, especially if any of them are close to the Crowned One in strength."
+
+Diana nodded. "I agree, though I'm sure Stella will happily go out and kill them herself once she's recovered."
+
+Ashlock didn't like the idea of her going out so soon, especially not after what happened last time.
+
+[You have successfully devoured the Fire Monarch Bendrik Vayne and his infant soul]
+
+[+1410 SC]
+
+[Monarch Realm ascension requirements:
+
+Possess an Inner World: 1/1
+
+Comprehend Desolation Law: 100%
+
+Devour the souls of nine Monarch Realm beings: 8/9]
+
+"That was fast," he muttered, and then realized why when he looked at how ferocious his Abyssal Maw was compared to usual. The sheer power being drawn from the Crowned One's soul to feed it was absurd.
+
+One more was all he needed to finally step into the realm of the Monarchs.
+
+He waited patiently, and it wasn't until the sun began to set that the golden light was snuffed out and Red Vine Peak went eerily silent.
+
+[You have successfully devoured the Crowned One—fragmented ego of a fallen god and the conceptual embodiment of the sin of Pride]
+
+[+3200 SC]
+
+[Monarch Realm ascension requirements: Devour the souls of nine Monarch Realm beings: 9/9]
+
+[Quest has been completed]
+
+"Over three thousand," Ashlock murmured, almost reverent. "He really was a monster. What about his Dao knowledge? Will I get that too?"
+
+[The conceptual dao of Pride will be assimilated into the formation of your Monarch Realm Domain]
+
+Ashlock stared at that system message.
+
+It was finally time.
+
+"Can I begin my ascension now?" he asked his system, almost giddy. After all, he had finally fulfilled all the requirements.
+
+[Yes, but it is ill-advised. You have devoured nine Monarch souls in rapid succession alongside five unassimilated Laws and a conceptual dao. Your Inner World remains fractured from sustained Qi expenditure, and your foundations are damaged. Forcing ascension in this state would cause soul death before your Monarch Domain can form]
+
+Ashlock glared at the message. "Then what should I do?"
+
+[A dormancy period is recommended to assimilate the consumed Laws, repair the Inner World, and fortify your foundations. After this period, you can safely attempt the ascension. Should you succeed and form your Monarch Realm Domain, initiating the Era of Ascension will be possible]
+
+[Recommended Hibernation: one month]
+
+Just a month? After how long he had fought for it, a mere month felt like a cherry on top.
+
+"Diana," Ashlock said to the clone. "I'm going to be asleep for a month to recover. Don't let Stella do anything stupid while I'm gone, and take care of the sect. I'll leave the Eternal Realm open for anyone's use duirng this time."
+
+"You got it," Diana said, bowing toward him.
+
+Confident that the sect was in good hands, he returned to his system.
+
+"Let's do it," he said, already regretting his words as he knew the month ahead was not going to be restful in the slightest.
+
+[Hibernation begun. Remaining time: 29 days, 23 hours]
+
+His consciousness faded, and the dreaded dreams for each Law he had been putting off flooded his mind.

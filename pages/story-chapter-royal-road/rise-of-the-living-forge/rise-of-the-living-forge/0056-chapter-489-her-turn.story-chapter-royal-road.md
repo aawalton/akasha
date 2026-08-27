@@ -1,0 +1,139 @@
+---
+id: 5f187ccf-16d0-5aa5-9c61-26705297643b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 489: Her Turn"
+slug: 0056-chapter-489-her-turn
+partOf: rise-of-the-living-forge
+position: 56
+ownLength: 1669
+unit: words
+ownProgress: 1669
+publishedAt: 2025-09-23
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2622926/chapter-489-her-turn"
+royalRoadId: "2622926"
+markedReadAt: "2026-06-29T20:00:13.580Z"
+---
+
+“Wait,” Two said suddenly, holding a hand up before Eleven could move to open a path back to the Devil’s Den. “Before you go. There’s one thing.”
+
+Arwin tilted his head to the side. His body still felt a little odd to him. It was a curious sensation, to simultaneously feel like he was walking around in someone else’s body and yet also be absolutely confident that he had never been more himself.
+
+“What is it?”
+
+“Don’t tell Lillia about the truth behind Sunsetting. Not until she’s done it herself,” Two said. “Expectations can cause trouble with the process. It’s better to go into it entirely blind.”
+
+“Do you think there’s a chance it won’t be as smooth for her as it was for me?” Arwin asked, hesitating slightly as a frown crossed his lips. “We’re in the same situation, aren’t we?”
+
+It was a moment before Two responded.
+
+“Not entirely,” Two said. “I don’t know if anyone is in the same situation as you, Arwin. You were a Hero. That means you weren’t from this planet at all. Such a thing on its own would be sufficient to potentially change things. There are a great many variables to Sunsetting. Even the slightest shift can be enough to cause immense differences. That is why it is vital to approach this cautiously.”
+
+“Yeah,” Arwin said. He certainly wasn’t going to argue with Two about that. Even though Setting Sun had been taking big steps to redeem their trustworthiness in his eyes, the one thing he had absolutely no plans of ever taking unnecessary risks with was the lives of anyone within the Menagerie. That went doubly so for Lillia. “I’m still warning her of the danger, though. I’ll avoid specifics.”
+
+“That is wise.” Two nodded. “And one more thing. I am certain there are others within your guild that you wish to Sunset. They will not be like you and Lillia. It is vital that they understand this.”
+
+“I’ll make sure they do. There are—”
+
+“You don’t understand,” Two said. “You and Lillia — you have been through this already. The others in your guild have not. They will be required to follow the exact same preparations as all in our guild do. That is not some simple training. It is weeks if they are naturally gifted. Months, if not more, if they are not.”
+
+“Don’t underestimate my guild,” Arwin said. “They will succeed.”
+
+“Of which I have no doubt,” Two said. “But you will choose one of them. Only one. I cannot safely train more than that. Most of the people we Sunset are far more experienced than your team. They will remain here until they have either finished their preparations and Sunsetted… or they have failed.”
+
+Arwin studied Two for a moment. The other man’s handsome features were dead serious. But, if Two had been expecting Arwin to be mad at the delay, then he was about to be sorely disappointed.
+
+“Only a fool would protest someone’s caution when safety is on the line,” Arwin said. “I maintain that the Menagerie will surprise you — but I’m not going to demand that you put the people I care about in danger. I will choose one.”
+
+Two inclined his head, then glanced in Eleven’s direction. At some point during their conversation, she had melted to the ground and curled into a ball, crossing her arms beneath her head and using one of Two’s feet as a pillow. The look on his face made it clear that this was not the first time it had happened.
+
+“Eleven,” Two said. “Take him.”
+
+The woman shifted. One eye poked out from beneath her bed of long, messy hair. She glared up at him.
+
+“Eleven,” she mocked, stretching her arms out — still laying down — and letting out a long yawn. “Take him. Eleven. Go ferry people around again. Eleven. Wake up. Eleven. Go spy on someone so we make sure the world doesn’t end. Eleven. Go do more work.”
+
+“Those… are rather reasonable requests,” Two observed. “It is your job, woman. We pay you. Well.”
+
+“Pah,” Eleven grumbled. “But you know what you don’t pay me with? Sleep.”
+
+“I’ll get your bed ready for you if you head out now,” Two offered, crouching down so he could grab her beneath the arms. She hung like a limp bedsheet in his hand as he hoisted her up along with himself and plopped her down feet-first.
+
+Eleven slumped over. Two caught her before she could drop right back to the ground. He glared at her.
+
+“Stop that. Did you forget you broke your nose the last time you did this?”
+
+“It got me out of work for a day.”
+
+“That was only because Three was out on a job,” Two said. He brushed Eleven’s hair away from her face and tucked it behind her ear to keep it from flopping back in front of her eyes again. “Come on. I’ll warm your pillow in the volcano so it’s nice and toasty for you.”
+
+Eleven’s eyes lit up. “Done.”
+
+She spun back to Arwin, grabbing him by the arm. “We’re heading back to kidnap your girlfriend. You ready?”
+
+“I don’t know if kidnapping is the word I would—”
+
+The rest of Arwin’s sentence was lost in a whirl of crackling gray as a portal formed beneath their feet, swallowing them whole.
+
+Arwin barely even had a moment to process what had happened before he slammed down in the Devil’s Den, a word still halfway formed on his lips. He stumbled, his eyes going wide in surprise.
+
+Eleven had formed a portal in mere instants. But when she’d taken him out of the Devil’s Den just a short while ago, it had taken her several seconds to create one. It didn’t look like she’d had any special aid to make it easier the second time around.
+
+Holy shit. That means she’s literally capable of nearly instantly forming portals across what must be pretty massive distances without even blinking, and the only thing holding her back is the fact that she’s painfully lazy. Just how powerful is Eleven?
+
+Reya, who sat at the table across from them, started. She blinked in surprise, nearly losing her grip on a bread roll she’d been snacking on.
+
+Eleven’s eyes flicked over Arwin’s shoulder. He turned just as the door to the kitchen swung open and Lillia strode out of it, her eyes locking onto Arwin instantly. Even though she’d definitely been able to sense his return from the instant he’d set foot on the grounds of the tavern, a look of relief passed through her eyes.
+
+“You’re back!” Lillia exclaimed. “Are you okay? Did it work?”
+
+“It worked,” Arwin said. There were a dozen more things that he wanted to say. He said none of them. Two’s warning still rung in his head, and so he settled for the simplest answer he could give. “I Sunset my class. It’s possible to do it again.”
+
+“And?” Lillia asked eagerly. “Is it—”
+
+“Everything and more,” Arwin said. He took her by the shoulders. “I can’t even begin to describe it. The only way to really understand is to do it yourself. I’ve learned more than I can say right now.”
+
+“And Setting Sun?” Lillia asked, not even caring that Eleven was standing right next to them.
+
+“They… aren’t our enemies,” Arwin said. “That’s all I can say for certain. But they’re on the same side that we are. They want to stop the Guild.”
+
+“Weren’t you meant to warn her that there could be some big risks?” Eleven asked, her portal still buzzing on the ground beside her. “There are risks that come with Sunsetting. The difficulty is immense.”
+
+“It is based off willpower,” Arwin said. “Is it not?”
+
+“Well… largely,” Eleven admitted. “But—”
+
+“Then Lillia will have absolutely no trouble,” Arwin said simply. “Even if the challenge is a thousand times what I faced. She’ll be able to Sunset her class. There’s just no doubt in my mind about it, so any warning would be worthless. I wouldn’t believe the words coming out of my own mouth.”
+
+Lillia’s cheeks reddened. “What, did Sunsetting your class somehow turn you into a flirt?”
+
+Arwin’s own face heated and he coughed into a fist. “I’m just a bit loopy. Ignore me.”
+
+“Oh, no. Keep going. I don’t think I asked you to stop, did I?” Lillia sent him a sly smile.
+
+“Bleh,” Eleven said. “Stop that. It’s making me feel lonely and disgusted at the same time, and the only thing I want to be feeling at all is the sweet, loving embrace of my toasted pillow. Get your purple ass into the portal.”
+
+Lillia arched an eyebrow.
+
+Eleven cleared her throat. She blushed and averted her gaze. “Sorry. I’m just excited about my pillow.”
+
+“Hold on,” Arwin said. He glanced at Reya. “I need to figure out who the other—”
+
+“Do it after her,” Eleven said. “I can’t hold this portal forever. This Tavern doesn’t like me breaking into it. Makes things difficult.”
+
+“I’ll let everyone know.” Reya gave Arwin a thumbs-up and stuffed the last of her bread roll into her mouth, swallowing it in one bite. “Anything we should do?”
+
+“Thanks, Reya.” Arwin gave her an appreciative nod. “Could you have everyone gather here in the evening? We’ll all need to have a talk.”
+
+“On it.” Reya gave him a sharp salute.
+
+“Purple ass is going into the portal,” Lillia reported. She stepped forward, dropping into the gray disk and vanishing.
+
+Eleven stared at it for a moment, then grimaced. “I hope she doesn’t tell anyone else about that.”
+
+Arwin clapped Eleven on the shoulder. “White ass going into the portal.”
+
+“Oh, come on—”
+
+The rest of her sentence was swallowed by the crackle of magic as Arwin stepped back into the portal by Eleven’s feet, vanishing through it to follow Lillia back over to the Setting Sun’s hideout.
+
+It was time for the Demon Queen to Sunset her class.

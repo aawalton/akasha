@@ -1,0 +1,161 @@
+---
+id: 42fb6a37-8141-5e15-b963-5e77b1fc3c2f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 550: Vix's Fate"
+slug: 0116-chapter-550-vix-s-fate
+partOf: rise-of-the-living-forge
+position: 116
+ownLength: 1918
+unit: words
+ownProgress: 1918
+publishedAt: 2026-01-28
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2988052/chapter-550-vixs-fate"
+royalRoadId: "2988052"
+markedReadAt: "2026-06-29T20:02:08.680Z"
+---
+
+Song filled Arwin’s mind. Layers upon layers of magic wove through every level of his being. The Infernal Armory’s presence connected him to the others and pumped all of them full of magical energy to ensure they wouldn’t run short during the operation.
+
+Vix laid on the obsidian platform between him and Wallace, her chest cut open and a gaping wound leading straight down to her still-beating heart. Beside her rested a metal contraption that had taken all of them the better part of a day to create.
+
+If someone had walked in not knowing any better, they likely would have assumed that this was some manner of horrible ritual sacrifice. All the blood covering their hands certainly wouldn’t have helped their case.
+
+Some distant part of Arwin noted that this really wasn’t all that different from a sacrifice. They were, after all, removing Vix’s heart. The difference came in what happened next.
+
+Anna stood above Vix, a steady stream of magical power flowing from her palms into the other woman.
+
+“We’re stable,” Anna said, her words distant and measured. “Get ready. We’ll have five minutes at the absolute longest from the moment we get things started. Are you ready?”
+
+Arwin looked down into the hole. His stomach flipped. Vix’s heart was… wrong. What could have only been described as claws of black rot seemed to have raked across the organ. It was knotted and scarred — and though Arwin was no expert of hearts, it also seemed considerably smaller than it should have been.
+
+He summoned Soul Lava to his hands, letting it coat his fingers to completely purge them of any impurities. Then he banished the magic and set his jaw. Five minutes. That was all they had.
+
+It would be enough.
+
+“I’m ready,” Arwin said. “Begin.”
+
+A strand of black stretched out from the walls of the Infernal Armory to attach to the small orb. There was a faint click. Then the top of the orb hissed open, revealing a considerably smaller piece of magical machinery within it.
+
+Vix’s core.
+
+Power hummed within it with such an intensity that it nearly seemed to spill free of the metal containing it. It was composed of a dozen different metals and monster components, each one carefully chosen to ensure they would mesh together and fulfill every requirement that a heart might have had.
+
+At its center was the most expensive crystal that the Menagerie had been able to get their hands on — A Darkstar Ruby, which had the highest capacity for magical energy out of every other material they had tested.
+
+Arwin carefully lifted the small core from its protective housing.
+
+“Core prepared,” Wallace said, placing his hands on Vix’s shoulder and narrowing his eyes. The only emotion in the dwarf’s eyes was raw determination. Nothing else had any room to take root in him. “Anna. You’re up.”
+
+The Infernal Armory extended another strand, this one wound around a tiny, razor-sharp knife. Anna took it. She paused for a moment, studying Vix’s heart intently.
+
+Then she lowered the blade and got to work.
+
+It was gruesome.
+
+There was no other way to describe it. Arwin had seen men die in more ways than he’d ever wanted to. But never had he seen someone quite literally remove someone’s heart. Anna made steady, precise cuts, severing the heart’s connection to the vessels that depended on it.
+
+Something about it somehow felt even worse than just killing someone. Vix wasn’t even asleep. She’d taken a potion from Esmerelda that would help severely null the pain she felt, but she had to remain conscious during the entire operation to warn them if something was going wrong.
+
+“Is it out?” Vix asked weakly.
+
+“Don’t talk unless you need to,” Wallace said gruffly. “Focus on the song. Sing. Your mind, not your words.”
+
+Anna made several more cuts. Then, slowly, she reached into the chest and pulled Vix’s heart free. A horrifying amount of blood spilled out from the incisions Anna had made.
+
+Somewhere at the back of the room, Art let out a stiff whimper — but he knew that he could do nothing but watch.
+
+Wallace lifted one of his hands. The blood filling up the hole in Vix’s chest stopped flowing. It lifted into the air like some ghastly apparition, moving out of the way so Arwin could make out the points where Vix’s heart had once been connected to her body.
+
+Arwin lowered the core. He aligned the valves covering it with the appropriate vessels, letting magic pour out from him and into the still-unfinished creation. He didn’t have the faintest idea what any of them were. Anna had helped with the design.
+
+Once he was confident everything was aligned, he glanced up to Vix’s face.
+
+“Can you feel the core?” Arwin asked.
+
+“Yes,” Vix said, her voice faint. “It’s… weird.”
+
+“Focus on it,” Arwin said. “Connect to it. Part of your body is already present within the metal. Just finish the connection—”
+
+A sharp drain on his magical reserves stole the rest of Arwin’s sentence from his mouth. His eyes widened and he intensified the amount of power flowing out from him. The song of the materials magnified a hundredfold.
+
+Vix’s core was doing its best to merge with her, but they needed more. The sheer amount of magic to fuse a core with a living being was astronomical.
+
+Power pumped into Arwin from the Infernal Armory. Every part of it flowed from him and into Vix. He could feel everyone’s minds all weaving together, trying to solidify the intent and guide the song in the right direction.
+
+Every second that went by seemed to tick off in the back of Arwin’s mind. They were racing against the clock. He could feel the song of the core slowly merging with the rest of Vix, but it wasn’t moving anywhere near as fast as he would have liked.
+
+“Relax, Vix,” Wallace said. “You’re trying to control the song. There’s nothing to control. Just let it take you.”
+
+“I’m trying.” A note of panic entered Vix’s voice. “It isn’t working.”
+
+“It’s working,” Arwin said firmly. He pushed even more magical power into the core. A shimmer of black light ignited within it, then sputtered out a moment later. His jaw clenched. It was working… but slow. Things were going to be close. “Remember what we practiced, Vix. This is your heart.”
+
+“Yeah,” Vix whispered. “Yeah.”
+
+The gem at the center of the core sputtered. It lit, then snuffed out once more. More and more magic flowed through both it and Vix. The scent of cooking flesh filled the room. Small scorch marks started to form on Vix’s innards, only for Anna’s healing magic to sweep them away moments later.
+
+Her body was burning from the sheer amount of power flowing through it. There was only so much magical power that normal flesh could endure before it gave in, and Vix was reaching her limit.
+
+Arwin tried to take more of the song’s burden onto himself. Vix still had to lead it. But the more burden they took off her, the easier it would be for her to relax. That did seem to help… but it still wasn’t enough.
+
+More and more burn marks clawed their way into being. Vix’s fingers slowly tightened into fists as her breathing grew labored.
+
+“You’re almost there,” Wallace said. “It’s close. Some of the veins have properly fused. I feel some blood flow. Remember. It’s your heart. There’s nothing to force. It already belongs to you.”
+
+“I’m trying,” Vix said. The light at the center of the core shimmered back to life. “It’s not—”
+
+“It is enough.” A new voice cut through the room.
+
+Two pale blue hands fell on Vix’s shoulders. The form of a tall man materialized beside Vix at the edges of Arwin’s vision. One of the Infernal Armory’s tendrils drove into it an instant later, and Arwin’s eyes widened as he felt a new presence brush across their song, weaving itself in effortlessly.
+
+“Koyu?” Vix whispered.
+
+“Peace,” the lich said. “You have already nearly completed the task. I simply did not want to miss its conclusion. You are my test run. It is not permissible for you to fail. Stop trying to gain control. Give it up. All of it. You are fighting yourself.”
+
+“What?” Vix asked. “But—”
+
+“Give it up,” Koyu said again. “Let the river ferry you away. The power is already your own. Do you have to think when you raise your arm? No. It simply happens. Give in to yourself.”
+
+Vix stiffened for a moment.
+
+Then her shoulders relaxed.
+
+The light in the gem sputtered out.
+
+Their song shifted. Its tune changed. Power hummed in the air all around them. It made Arwin’s hair stand on end and electrified Koyu’s beard until he looked like a porcupine.
+
+Vix’s gem ignited with pitch black energy.
+
+A wall of force slammed into Arwin and nearly sent him stumbling backward. Vix drew in a sharp breath as a dull hum kicked to life within the core.
+
+“It’s up!” Wallace barked. “Anna!”
+
+The healer pressed her hands to Vix’s chest. Power burned so brightly at her palms that it forced Arwin’s eyes to narrow. Vix’s flesh knit itself back together, bone rebuilding and flesh bubbling back into being.
+
+The song grew louder in all of their heads. It raised to a crescendo as the core stabilized within Vix.
+
+Her flesh slowly sealed back over the wound until no trace of it remained. Then, with one final sharp, victorious note, the song wound itself to a close.
+
+Power slammed into Arwin. Freezing magical energy poured into his soul, tearing a gasp from his lips and sending him staggering backward. It was a tsunami. The power kept coming, pouring into him relentlessly until he could barely even breathe.
+
+Then it ground to a halt.
+
+Arwin caught himself on the edge of the platform Vix rested on. The others had all staggered as well, but every one of their gazes were focused on one person.
+
+Vix.
+
+She slowly pushed herself upright. The wound on her chest was gone. It had completely sealed over, but a faint dark energy still pulsed beneath her skin where her heart had been. Disbelief and shock mixed in her features.
+
+For several long seconds, nobody said anything. They just all stared, too drained to muster up much of anything at all. Vix raised a hand to her chest. She touched the healed flesh. Then she looked down at her original heart, which rested on the platform beside her in a sad, bloody lump.
+
+She picked it up.
+
+Then Wallace lost his contration. All the blood he’d taken from Vix — which still floated in the air above her — splashed down. It splattered all over Vix and the altar in a red rain.
+
+Vix sputtered in surprise. She dropped her own heart and it landed on the ground with a wet splat. They all stared down at it.
+
+Wallace winced. “Sorry.”
+
+The corner of Vix’s mouth twitched. Then she threw her head back and burst into laughter. Thin trails of tears streaked down her cheeks to mix with the blood on her face. She clutched at her chest and flopped back onto the blood-soaked platform, her mirth only growing more intense. The laughter shook her entire body in a mixture of relief and excitement so strong that no words could ever hope to represent it.
+
+They’d done it.

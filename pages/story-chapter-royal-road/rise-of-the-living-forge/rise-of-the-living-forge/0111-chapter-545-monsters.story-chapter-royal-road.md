@@ -1,0 +1,119 @@
+---
+id: abd0056a-34b2-5acd-8b62-9c148ef87478
+page-type-slug: story-chapter-royal-road
+title: "Chapter 545: Monsters"
+slug: 0111-chapter-545-monsters
+partOf: rise-of-the-living-forge
+position: 111
+ownLength: 1719
+unit: words
+ownProgress: 1719
+publishedAt: 2026-01-20
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2961413/chapter-545-monsters"
+royalRoadId: "2961413"
+markedReadAt: "2026-06-29T20:01:59.091Z"
+---
+
+Arwin finished Anna’s new armor in just about four days of work. With Vix and Wallace backing him up, it turned out to be a fairly straightforward project. The hardest part had probably been ensuring Vix got a good feeling for what they were doing so that she wouldn’t have any surprises when they started work on her heart.
+
+The relative ease of the armor had absolutely nothing to do with its very impressive capabilities. Arwin hadn’t used the original Bleak Wind chestplate that he’d made for Anna, but he had taken extensive inspiration from it. The result was a very respectable amount of magical energy swirling into Arwin’s core and a suit of armor perfectly suited for the Menagerie’s healer.
+
+The three of them looked down over the finished set, watching the shimmering gold letters even as they started to fade from the air.
+
+Midnight’s Wake
+
+[Soulforged]: Forged at the hands of a Forbidden Soulmancer, a Dwarven Master Smith, and a Warlock, Midnight’s Wake has been bound to the soul of a healer who walked for so long in the night that she almost forgot the colors of day. It will grow more powerful with every soul it saves from the brink of the abyss.
+
+[Eternal Night]: Midnight’s Wake lends power from its reserves to its master when they are healing another living being. It will automatically assist in stabilizing a target’s health when they are close to death.
+
+[Toll the Living]: Midnight’s Wake will draw a small portion of current magical energy from all those it heals, storing their power within itself. Upon the occasion its wielder is severely wounded, Midnight’s Wake will use its stored energy to heal them.
+
+[Crimson Memories]: When the master of Midnight’s Wake takes a serious injury, it will release Blood Fog at the cost of magical energy stored within the item. Living beings that the bearer of this item views as foes will be afflicted with visions of all those whose deaths Midnight’s Wake can recall. The effectiveness of these visions depend on the difference in Tiers between the target and this item’s master.
+
+[Flesh Like Metal]: Any damage sustained by Midnight’s Wake will repair itself, first by using stored magical energy within its reserves and then by drawing from its wielder. The duration it takes this item to heal depends on the extent of damage it receives.
+
+[Soul Armor]: Midnight’s Wake is considerably lighter than the sum of its materials. Its status is unreadable to all but the ones who made it and its owner. If anyone attempts to wear it without permission from its owner, the armor will latch to them and drain magical energy until they either manage to remove the armor or perish. Midnight’s Wake is resistant to all forms of magic and will draw all power out of any necrotic magic targeted at it to store within its own reserves.
+
+The abilities that Anna’s armor lent were even more significant than those of Rodrick’s. Of course, a part of that was just due to the difference in purpose. Anna’s set was heavy plate meant for combat and survivability. On the other hand, Rodrick’s armor was meant to be flexible so he could adapt to just about any situation. Both sets were among Arwin’s greatest creations. But there was no denying that the piece for Anna was certainly intimidating.
+
+“Godspit,” Vix whispered as the final motes of gold faded from the air. “I can’t believe we made that. I didn’t even know magical equipment could be so active. Why do half of its abilities activate without needing its wielder to do anything?”
+
+“Because the item isn’t just a tool,” Arwin replied, looking down at the jagged pitch black armor lining the ground before them. “It’s aware. This thing has a soul. It’s Awakened. No different than Caldera.”
+
+“Your hammer is sapient?” Vix asked, sending Arwin a glance.
+
+“Yes,” Arwin replied. “Have I not mentioned that? It’s quite aware. Tends to be happy whenever I kill or make things.”
+
+Caldera purred in his mind. The hammer was pretty clearly happy with him. Arwin certainly would have hoped so, at least. He’d been feeding it pretty well as of late. Between the dungeon run and all the items he’d been making, Caldera was probably stuffed to the brim.
+
+Vix just shook her head. “You know what? Maybe it just slipped your mind. Casual information. Nothing too important, right? Does everyone have a living weapon or piece of armor?”
+
+“No,” Arwin replied.
+
+“Just most of ‘em,” Wallace said.
+
+Vix coughed. Arwin shot a sharp look at the dwarf, who grinned in return.
+
+“What?” Wallace asked. “Am I wrong?”
+
+“Not helping,” Arwin replied with a shake of his head. “To be honest, Vix, I’m working on getting everyone outfitted with good gear as quickly as humanely possible. We’re all going to need it more than ever. You’re next on the list with your heart, but it just isn’t something we can rush.”
+
+“Trust me,” Vix said. “I’m well aware. I was more surprised at the fact that the number of people in the Menagerie who have living weapons is higher than one or two. That’s… unsettling.”
+
+Just wait until she sees Uriel in action. Hell, I’m almost looking forward to that myself. Not quite enough to actually want someone to attack us… but enough to know that when someone inevitably does try their luck on our home ground, they’re going to have a very, very bad time.
+
+“Don’t worry. It’ll get worse,” Wallace said cheerfully. “I’m pretty sure I know the least out of everyone since I’m not officially even part of the guild. And to be completely honest with you, I don’t want to know more right now. I’m still processing a few things.”
+
+“What kind of things?” Vix asked.
+
+“The kind that I don’t process by talking out loud,” Wallace replied after sending a sidelong glance in Arwin’s direction. “I’m a dwarf, girl. We don’t get hardy by spilling our thoughts across the ground like a can ‘o beans.”
+
+“That doesn’t seem very healthy.”
+
+“Never said it was,” Wallace said gruffly. “You’ve got your own problems to worry about. Don’t worry about this old man until you’ve dealt with yourself.”
+
+The corner of Vix’s lips twitched. “I guess that’s a fair request. How much longer do you think it’ll be until we can make my heart?”
+
+Arwin scratched his chin. That was a difficult question to answer. As far as materials went, they weren’t exactly wanting. The Armory had quite a few stored up from all the dungeon runs the members of the Menagerie had done in addition to the payments for comissions he’d gotten.
+
+But having the physical materials needed wasn’t quite the same as actually being able to replace an entire heart. They’d need something fairly akin to a core. One that would be powerful and safe enough to completely replace Vix’s heart.
+
+And in order to fix her issue… they were probably going to have to kill her. At the very least, it was going to be close. It wasn’t like he could replace a heart without taking out the old one.
+
+“I’ll start working on the plans immediately,” Arwin said. “It’ll be something between a Soul Weapon and… well, something more. A core. But it’ll have to be one without a personality. I don’t think replacing your heart with something that isn’t basically just an extension of you is a good idea. It would be like Olive’s situation on steroids.”
+
+“That doesn’t sound fun,” Vix said with a grimace. “But you can do it?”
+
+“I’m confident we can,” Arwin said. “I’ll almost certainly need a lot more help from you than the previous pieces we’ve done. I’m talking flesh and blood. Literally.”
+
+“You’ve got what you need. Just tell me what to do.” Vix held her hand out as if she were expecting Arwin to take a bite right out of it.
+
+He suppressed a laugh. “I’m not Madiv. No need for me to go taking bites out of anything. You can keep your hand intact for now. What I do need you to think about is exactly what you want your heart to do.”
+
+Vix stared at him. “…keep me alive?”
+
+“It’s going to be a Soul Weapon with a core,” Arwin said. “It’s going to do a hell of a lot more than that. I don’t even think I could make it do less if I wanted to. Something this complicated and powerful isn’t going to settle for being just a replacement. The materials would be offended.”
+
+“…right,” Vix said. “Offended.”
+
+“Just trust me on it,” Arwin said with a wave of his hand. “Think about what it is you want this to do. And think hard. I don’t imagine this is going to be something you want to do multiple times.”
+
+Vix grimaced. Then she inclined her head. “Yeah. I’ll think. Can you give me a day? Will there still be enough time to finish everything before the Auction?”
+
+“Yes. That should be fine.” Arwin thought for a moment longer. “Just make sure Anna is also available. She’s been pretty busy as of late, but we’re going to need her help for this one.”
+
+“I’d imagine so,” Vix said dryly. “Thank you. Again. I’m going to go do as you suggested. By this time tomorrow, I’ll have an idea of what I want.”
+
+“Don’t rush,” Arwin said as Vix headed for the door. “I’d rather delay it a bit longer and work on something else first than rush something as important as this faster than we’re comfortable.”
+
+“Don’t worry.” Vix gave them a firm nod. “I won’t.”
+
+Then she was gone. Arwin and Wallace were alone again.
+
+“Well,” Wallace said. “What now?”
+
+“That, at least, should be obvious,” Arwin said with a chuckle. “Let’s get started on the blueprint. While Vix figures out exactly what abilities she wants this thing to have, we’ve got to figure out how in the world we stick a Soul Weapon into a living person.”
+
+“Certainly not an easy task,” Wallace mused. “But if we can do it…”
+
+“Vix might become just as big of a monster as her brother… or maybe an even bigger one,” Arwin finished with a smile. “I’m looking forward to finding out.”

@@ -1,0 +1,235 @@
+---
+id: 0a195f4a-85fd-578a-ab69-c630e9fc85e9
+page-type-slug: story-chapter-royal-road
+title: "Chapter 2 – Gathering moss"
+slug: 0002-chapter-2-gathering-moss
+partOf: rock-falls-everyone-dies
+position: 2
+ownLength: 1570
+unit: words
+ownProgress: 1570
+publishedAt: 2023-01-22
+link: "https://www.royalroad.com/fiction/55418/rock-falls-everyone-dies/chapter/1094252/chapter-2-gathering-moss"
+royalRoadId: "1094252"
+markedReadAt: "2026-06-29T22:50:17.555Z"
+---
+
+As fast as it had gotten started, the [Rolling Stone’s] journey came to an end.
+
+Quest:
+
+Current Altitude: 9 253m
+
+Velocity (v): 0 m/s => [0, 0, 0]
+
+The pebble… had gotten stuck.
+
+A cruel twist of fate, but also a somewhat inevitable one. All heroes need great trials to surpass, like the great titan who was sentenced to eternally push a rock up a mountain.
+
+However, therein lay the issue. Our pebble had no push of its own.
+
+As it had flown down from that great mountaintop, cast off in the clash of titans, it had been overjoyed. Such speed! Such process! It could watch the quest ticker tick down, and the velocity stat tick up. The numbers just kept getting bigger!
+
+Faster and faster it had rolled, gathering speed and momentum, speeding down the mountain.
+
+Until it had seen a target.
+
+A queer sort of animal, with two long ears which twitched about happily as it observed its surroundings. Then the pebble remembered two things.
+
+1. It could grow larger by hitting things in the head really hard.
+
+2. And it could [Steer].
+
+Steer activated!
+
+Steering to the [Right]
+
+At that moment, its [Velocity] had been great indeed, so the pebble had begun using its new skill, subtly altering its [Acceleration] vector, gradually adjusting course towards the furred creature. The creature just sat in place, a lone challenger for the rock, standing near a mighty cliff. The pebble saw its lack of motion, and knew the enemy to be inferior.
+
+That was when it erred. For a pebble has rather limited awareness—it did not know of things like smell, taste, or... well, sound. It neared the target, bounced off a rock, and—
+
+An ear twitched. A rabbit hopped—and dodged.
+
+And a rock thudded hard against stone, getting lodged between two boulders, a great chasm under it. But it was no longer falling. It was no longer moving.
+
+Stuck.
+
+The very-much-so-not-[Rolling Stone] began gathering moss.
+
+A familiar feeling, really. It had spent most of eternity doing that, so it was in a way a return to normalcy. Retirement after a great career of adventure. It had gone where few rocks had gone before, uncharted waters, and managed to reach level 1. Not anything to be ashamed of.
+
+Proud, the pebble looked back on the folly of youth, and sat back to enjoy its retirement.
+
+And the seasons changed.
+
+First came the chill winds of autumn. Great gales blew, but no fall leaves traveled up here. The mountaintop was a barren, dry place. Far removed from any of the brilliant foliage down below. A high-up desert, with no mirages or oases offering hope to lost travelers. But the rock did not need hope, it did not thirst for water.
+
+It was a rock. Calmly, it enjoyed the cool breeze against its stony exterior, like man might enjoy a warm hearth and home.
+
+Then came the snow of winter, and the rock got buried under, frozen stiff. It had felt the sensation before, and though the ice chilled the pebble to the core, it did not despair. It was a stone. A bit of cold meant nothing to it.
+
+But—as all retired adventurers know—eventually the call of adventure comes once again.
+
+The snow began melting.
+
+Slowly—oh so slowly—things began to move. To change.
+
+First, the packed frost turned to slush, only a thin film of ice sealing the pebble inside its tomb. Then water began flowing down the mountain in great torrents, and the lowlands despaired at the floods. But the pebble… it sensed an opportunity.
+
+It awoke from its retirement. Went down to the cellar, grabbed the old heirloom sword, and started sharpening it.
+
+For war was in the air.
+
+It was ready, waiting to pounce forward when finally it happened. Softened to mud and silt by the torrential downpour, the dirt holding up the great boulders, and holding the pebble in place shifted.
+
+Just a hint. But enough. The stone began to gradually move forward. Then it fell, finally free from its bindings. Down, down into the chasm, its great journey began anew.
+
+It had vengeance in its mind. The sword was sharpened.
+
+Because... a certain rabbit was enjoying the fresh bounty of spring berries right down below. A lucky twist of fate? Such things were patterns. An enemy not put down will always return with a sharper stake. And the pebble had been watching, carefully.
+
+The pebble used [Steer], and its downward [Acceleration] vector began gradually shifting to the side, with a precision born of endless patience, and a touch on the wheel that would not shake no matter the circumstance.
+
+And there was no sound. Just a silent fall through the air.
+
+Until there was.
+
+THUD
+
+Collide activated!
+
+[Unnamed] Dealt 1 * 20.1 / 4 = 5 dmg to [Common Rabbit]
+
+New Velocity for [Unnamed]: 13.01 m/s
+
+A rabbit with a skull split in two fell to the ground, above the fresh spring berries, which also got crushed under the patient adversary.
+
+You have gained the title: Patient Ambusher
+
+Effects: Deal greater damage to foe proportional to how long you have been lying in wait.
+
+And once more, the pebble started rolling down. Moss was shed, and the kinks of a long rest were worked out. And it began hunting.
+
+Because… a patient hunter could also be rather vengeful. The stone had spent a long two seasons up on the cliff, watching the happenings down in the chasm. And it had seen the rabbit’s wintery romance, and the brood it had produced.
+
+The rabbit had cast the first stone. But only that first stone mattered, for it could easily shift [Momentum], and begin rolling back, towards the opposite direction.
+
+With the inevitability of a rolling boulder, the pebble began [Steering] in a direction it knew very well indeed.
+
+It rolled over craggy exposed rock and freshly blooming grass, over dirt and trickles of water, towards a little burrow in the cliffside. Towards the little rabbits frolicking in the spring air.
+
+An ear twitched, and a young, curious eye turned towards the approaching avenger. With the arrogance of youth, a rabbit hopped to the side, easily dodging out of the way.
+
+Or so it thought. But this pebble… It did not forget. It had watched.
+
+It was moving fast, accelerating as it moved down the mountainside, and with a small and well placed [Steer], right at the perfect moment…
+
+The pebble cracked into a skull, midair.
+
+Collide activated!
+
+[Unnamed] Dealt 1 * 5.2 / 4 = 1 dmg to [Newborn Rabbit]
+
+New Velocity for [Unnamed]: 20 m/s
+
+Then it ricocheted off, and [Steered] towards the next, who did not suspect a mere pebble could move on its own.
+
+Another skull cracked.
+
+In a desperate escape, the little bunnies hopped down the mountain, instinctively fleeing along with gravity as their boost. A concerned mother joined them.
+
+But a stone rolled. It did not falter in the chase. And they were running downhill. More calm [Steering].
+
+Splat. Splat. Splat.
+
+Three rabbits went down, skulls bashed in by a vengeful stone. Vain attempts at fleeing, all for naught.
+
+You have gained the title: Line-Ender!
+
+Effects: 20% Bonus damage to attacks ending family lines!
+
+Level up!
+
+25 / 20 xp
+
+Discarding overflow xp
+
+You have reached level 2!
+
+Stats up!
+
+Mass (m): 1.0kg -> 3.3kg
+
+Diameter (d): 0.09m -> 0.14m
+
+HP: 1 -> 2
+
+The pebble reveled in the sensation of growth, the sweet ambrosia of numbers going up. This was good. This was right.
+
+Coated in blood and stuck with fur, the pebble kept rolling down and down—eventually arriving once more to an area of deceleration. A cliff of flatland, and its momentum…
+
+It ran out just before the pebble managed to reach the next cliff's edge.
+
+Had our hero gotten stuck again?
+
+No, because the scent of war was still thick in the air. Thickest here of all.
+
+For this was no ordinary cliffside. Small green figures were assembled on two sides of the cliff, red eyes gleaming, and weapons pointed in each other’s directions. A site of imminent battle.
+
+And the cracking of a stone hitting the ground from up above served as the starting shot. Warcries rang out all around the rock, projectiles started flying, and the green figures started rushing at each other, fury clouding their minds.
+
+This too was a site of vengeance.
+
+Two lines of fighters collided, with a pebble sitting right in the middle. Arms were hacked off and figures fell down in cries of pain, pools of blood expanding to coat the clifftop.
+
+For a brief moment, the pebble hoped that the tide of blood would carry it forward, and restart its journey down the mountain. But alas—as was the fate of heroes…
+
+Although they were not always willing—war tended to find them.
+
+A green figure fell down by the rock, clutching at an arm with an arrow embedded in it. Growls of pain, but a relentless determination born of long-held hate. It saw a perfectly sized rock, and picked it up. And threw.
+
+The [Rolling Stone] moved once again.
+
+And [Steered].
+
+Straight into the fires of war.
+
+Quest:
+
+Current Altitude: 8 673m
+
+Full Status:
+
+[Unnamed]
+
+Title(s): Title(s): Line-Ender, Patient Ambusher, Bane of Demons
+
+🗿
+
+HP: 2/2
+
+Mana: 0/0
+
+Level: 2
+
+Experience: 0/40
+
+Class: Rolling Stone
+
+Sub-class: None
+
+Race: Gneiss Stone
+
+Gold: 0
+
+STATS
+
+Diameter (d): 0.14m
+
+Mass (m): 3.3kg
+
+ABILITIES
+
+Collide
+
+Steer

@@ -1,0 +1,255 @@
+---
+id: 5029e831-6b3a-5e52-8414-76f764ad1154
+page-type-slug: story-chapter-royal-road
+title: "Chapter 8.5 – Ok, Maybe Something Did Actually Happen in Those 500 Years"
+slug: 0009-chapter-8-5-ok-maybe-something-did-actually-happen-in-those-
+partOf: rock-falls-everyone-dies
+position: 9
+ownLength: 1397
+unit: words
+ownProgress: 1397
+publishedAt: 2023-01-23
+link: "https://www.royalroad.com/fiction/55418/rock-falls-everyone-dies/chapter/1094658/chapter-85-ok-maybe-something-did-actually-happen"
+royalRoadId: "1094658"
+markedReadAt: "2026-06-29T22:50:32.556Z"
+---
+
+Fine, fine, FINE.
+
+Let’s admit it, that was a bit of an exaggeration. Yes, it was 500 years of mostly sitting still, but that did not necessarily mean that absolutely nothing happened. To an outside observer, of course it would look like the stone was doing absolutely nothing, just sitting still in a closed off room, tranquil and at peace.
+
+But… to something that listened, such activities had another title. And as the rock sat there, patiently waiting, doing absolutely nothing, something became eligible to it.
+
+You are eligible for the sub-class: Cultivator
+
+Accept the class? Y/N
+
+The rock jolted awake, though it had never really been sleeping in the first place. It had just been letting time pass, in the way rocks tended to. Unmoving in the stream of time. And perhaps that was the key—the ingredient that made it suitable for this new option.
+
+And the rock—it did not hesitate. After all, cultivation sounded like a fine thing to do. Its main goal in the world was cultivating mass, so surely this new sub-class would help it in its goals? Perhaps… it might even escape this room?
+
+Nothing more to it, the rock enthusiastically accepted the prompt.
+
+Congratulations!
+
+You are now a level 1 Cultivator!
+
+You are now in the [Energy Gathering] realm.
+
+New Ability Gained!
+
+Meditate
+
+Slowly gather latent energies around you, growing out your Qi Vessels.
+
+Cultivator stats unlocked!
+
+Energy Level (E) = 1W
+
+Qi to Next Realm = 0/10
+
+A new ability? And new… energy?
+
+Curiously the rock used some of its new energy with Energy shift, turning it into kinetic energy. It wobbled just a hint in place.
+
+Alas, a level 1 cultivator was not yet mighty enough to shift the heavens. But… a rock was patient. And it found that by focusing on its new skill… time seemed to pass even faster. So, the rock leaned back comfortably into its resting place, focused on the ambient sounds of nothing at all, and began to [Meditate].
+
+It sensed a subtle field of energy passing through the room, and the ability seemed to latch onto it somehow, slowly absorbing a trickle of energy into the rock, converting something into a strand of Qi. Slowly, oh so slowly, it began to expand.
+
+200 years passed. And this time, nothing really did happen.
+
+Except at the very end.
+
+You have gained the title: Grandmaster of Closed Door Cultivation!
+
+Effects: Cultivation speed gradually increases the longer one stays in closed door cultivation, not moving an inch.
+
+Level up!
+
+10 / 10 Qi
+
+You have reached Cultivator Level 2!
+
+You are now in the [Energy Refining] Realm.
+
+Stats up!
+
+Energy Level (E) = 10 W
+
+Qi to Next Realm = 0 / 50
+
+Progress! And what progress it was, the energy at the rock’s fingertips had increased ten-fold! Truly, it felt lucky to have received such a convenient class. All it had to do was sit in one place for a few hundred years, and it would gain a level-up and advance a realm!
+
+How convenient!
+
+The rock knew not of spirit pills, young masters, or even jade beauties—though it might have appreciated the last of those.
+
+The fate of a rock cultivator, was it to find a jade beauty, or to become a jade beauty? Few know the answer, but perhaps this rock would be able to find the key.
+
+Advancing a realm, it felt the Qi vessels in its body expanding, thickening, and strengthening. Still a bit pathetic, so perhaps it was not the greatest of achievements, but…
+
+All it had to do was sit still, and wait around. Who would say no to such convenient gains?
+
+Especially with the new title at its fingertips…
+
+Closed-Door cultivation. The rock rather liked the idea. Perhaps rocks and trees are truly the ones most suited to a life of cultivation? We shall find out.
+
+Because… the rock was still stuck. It dared not even try move, lest it lose the benefit of its title, hard-fought to gain.
+
+So, once more, the rock sat back to wait, and to [Meditate].
+
+200 years passed in a flash. Absolutely nothing happened in the cavern. Every once in a while there was a slight tremor or rumble in the mountain, and the rock would worry about whether the whole place would collapse, trapping it inside, but the magically reinforced dungeon walls held.
+
+Occasionally, animals. Beasts and people found their way inside the cavern, but finding nothing except a gloomy room and a stone in the middle, they soon departed. Some creatures moved in to live at the very mouth of the complex, but the deepest pit was left alone, too far out to be bothered with.
+
+Who wanted to go down several 50-meter pits to find some part of their base?
+
+So, the years passed, and once more the rock received a notification at the end of its long task.
+
+Level up!
+
+50 / 50 Qi
+
+You have reached Cultivator Level 3!
+
+You are now in the [Core Formation] Realm.
+
+Stats up!
+
+Energy Level (E) = 100 W
+
+Next Realm = Breakthrough needed.
+
+New Ability Gained!
+
+Stone Skin
+
+Use your Qi to harden your skin to be—
+
+ERROR_INVALID SKILL
+
+SKIN IS ALREADY STONE
+
+Finding solution, please wait...
+
+Please wait? That suited the rock fine. It patiently waited one year for the prompt to resolve. If the <System> wanted to play the waiting game, that was absolutely fine.
+
+Solution found!
+
+Creating new skill....
+
+New Ability Gained!
+
+Diamond Skin
+
+Use your Qi to harden your skin to be tough as diamonds!
+
+It was a rather simple solution for something the system had taken a year to calculate, but balancing such things was precise. There was no way the system could afford to be careless, for example by forgetting to assign a new creature appropriate STR and INT stats, leaving the old metric system and such in their place.
+
+Luckily nobody would be careless enough to do that, right?
+
+The rock whistled innocently under the system’s gaze. And then got back to waiting and cultivating. But—it found a problem.
+
+Its new stage of cultivation required something called a “Breakthrough”. Simply sitting back and using [Meditate] didn’t quite qualify anymore. And was the rock ready to become a great philosopher, and ponder the meaning of its own existence?
+
+Not quite yet. In order to gain breakthroughs of the mind, one must go out, and seek out new experiences. Adventure, comrades, love.
+
+A rock of course couldn’t know anything of such things, so breakthroughs would probably be rather difficult. The best it could do would be to go out and touch some grass.
+
+But… did it have the energy to escape?
+
+Time to test out this cultivation thing. The rock threw the full might of its cultivation base into an [Energy Shift], pointing its acceleration vector right at the stairwell which led into the room.
+
+ERROR_PLEASE_STOP
+
+Resolving Math....
+
+Simplifying...
+
+Obfuscating...
+
+Nerfing...
+
+Finished!
+
+Energy Shift activated!
+
+Converting [Qi Energy] to [Kinetic Energy]!
+
+10W * 1s = 10 J
+
+Converting to Velocity... Δ0.001 m/s
+
+New velocity for [Unnamed]: 0.001 m(s
+
+It… was not enough. The rock nudged itself forward just a bit, then started rolling backwards, ending up right where it began. For just an instant, the rock felt despair, and depression.
+
+But it was a rock. It forgot them soon, and got back to waiting, all rock-like, without any more strange cultivation business.
+
+This too was nice.
+
+But… fate had not forgotten our hero yet. Just as the rock began to fade back into its familiar state of resting, a tremor went through the mountain.
+
+And finally, after 500 years of not much really…
+
+Something happened.
+
+Because suddenly, a dragon crawled down into the cavern, looked at the mana-reinforced walls at the bottommost chamber, and patted the rather nice-looking rock in the cavern gently. It nodded, great red head of scales and horns approving the area.
+
+This would serve it well. A new lair.
+
+And so, the rock received… a roommate.
+
+Quest:
+
+Current Altitude: 5 192m
+
+Full Status:
+
+[Unnamed]
+
+Title(s): Line-Ender, Patient Ambusher, Bane of Demons, Grandmaster of Closed Door Cultivation
+
+🗿
+
+HP: 11/21
+
+Mana: 0/0
+
+Level: 7
+
+Experience: 0/250
+
+Class: Rolling Stone
+
+Sub-class: Cultivator
+
+Race: Gneiss Stone
+
+Gold: 0
+
+STATS
+
+Diameter (d): 1.03m
+
+Mass (m): 1466.7kg
+
+Energy Level (E): 10W
+
+Qi: ???/???
+
+ABILITIES
+
+Collide
+
+Steer
+
+Energy Shift
+
+Pivot Point
+
+Like a Rock
+
+Meditate
+
+Diamond Skin

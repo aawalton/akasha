@@ -1,0 +1,93 @@
+---
+id: e574f801-2f4a-54e3-ab55-6435440d2b48
+page-type-slug: story-chapter-royal-road
+title: "Chapter 603: Not quite impossible"
+slug: 0171-chapter-603-not-quite-impossible
+partOf: rise-of-the-living-forge
+position: 171
+ownLength: 1735
+unit: words
+publishedAt: 2026-06-04
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3491896/chapter-603-not-quite-impossible"
+royalRoadId: "3491896"
+---
+
+None of them had an answer to that question. Not even Koyu could think up one. Liches were powerful, but if one had existed with the strength to corrupt an entire Leyline, he’d never heard of it. Not even Esmerelda had heard of any being that powerful in all her dealings with Devils.
+
+“We’ll have to speak with the rest of the Menagerie about this,” Arwin said, bringing his pacing to a stop. They’d all been discussing for the last hour or two, but no new answers had arisen after their earlier revelations. There weren’t any more secrets that were going to be unearthed while sitting around within the Armory.
+
+“You’re right. Rodrick might be able to start fishing for information,” Wallace mused. Now that we’ve got a lead with what should be a corrupted Leyline, there could be something we can look into. Something at this scale would have had to leave behind some traces that can be followed if someone knows what to look for.”
+
+“We might not have a choice,” Esmerelda said. “The implications of the Guild being partnered with such an enormously powerful being are deeply unsettling. There’s only one thing going for us.”
+
+“There is?” Koyu asked, tilting his head to the side. “It seems like we are quite in the difficult situation. If you have found some light in the darkness, sharing it would be appreciated. I do not see any positives to what we have discovered today.”
+
+“That’s because you’re a grumbly old oaf,” Esmerelda replied with a scoff. “Whatever the Guild is working with… it might be powerful, but it’s not all-powerful. In fact, I’d reckon it’s the contrary. That bastard is as weak as a baby.”
+
+“What do you mean?” Wallace asked. Confusion washed over his rough features. “It would have been powerful enough to destroy a Leyline. That’s hardly weak.”
+
+“And yet it’s working with the Guild, the bunch of insufferable pricks,” Esmerelda drawled. “Why would a powerful being ever degrade itself to such a level? Have you ever met someone high up in the Guild? Because I have, dwarf. And they’ve all got a stick so far up their asses that it’s a miracle they can talk without it coming out their mouth. No offense, Arwin.”
+
+“None taken,” Arwin said. “It’s been a long time since I associated myself with them. That wasn’t the image I had of those I fought with… but they kept me sheltered, and my memories are of the warriors, not the ones controlling things. You might be right. I can’t imagine anything strong wanting to hitch itself to the Guild if there was any other choice.”
+
+“Shit,” Wallace murmured. His eyes lit up as he pounded a fist into an open palm. “The hole!”
+
+They all looked to him.
+
+“What?” Koyu asked. “That is a very strange thing to exclaim.”
+
+“You know what I meant,” Wallace snapped. “The thing in the hole. They’re probably not keeping it trapped there. If it’s dangerous enough to destroy a Leyline, the guild wouldn’t have the power for something like that. They aren’t that strong. So what if it’s the opposite? The hole they’re tossing magic into isn’t a prison.”
+
+“Which is what I was getting at,” Esmerelda said with a sly smile. “Whatever this powerful creature is, it’s clear something is wrong. It’s weakened or sick — or something along those lines. Something is forcing it to hide and work with a bunch of repugnant, power-hungry humans. And if it’s relying on the Guild to bring it magical power with these daggers…”
+
+“Then we might be able to gain the advantage over it by cutting off the flow,” Arwin finished. A small smile affixed itself to his lips. “You’re brilliant! Of course. You wouldn’t need to use the Guild and hide in a hole if you were actually strong enough to go around destroying the Mesh at will.”
+
+“This… holds credence,” Koyu said slowly. A flicker of excitement passed through his ice blue eyes. “Yes. And if Rodrick can determine this creature’s weakness or find a way to somehow sever its connection to the Guild, their power will be immensely damaged. For all the effort they’re going through to feed this beast, it must be incredibly important to their power over the kingdom and ability to maintain control.”
+
+“Right you are,” Esmerelda said, her sly smile growing wider. “And there’s one more thing to note. These magic-stealing daggers aren’t old. Necrohammer developed them relatively recently, but the Guild has been running things for quite some time. Taking more drastic measures rarely comes for no reason. I think you’re all smart enough to realize what that means.”
+
+“I think I’m picking up what you’re picking down,” Arwin said.
+
+“It does seem that way,” Wallace said. “It could just be a power grab… but it seems more likely that they’re desperate. Something isn’t working.”
+
+“Exactly my thinking,” Esmerelda said. “Something’s got them worried. They’re reaching. Hard. And I’m sure you know what the best time to take down a giant is, yes?”
+
+“Any dwarf does. We’re used to fighting people taller than us,” Wallace said with a grim smile. “It’s when they’re off balance.”
+
+***
+
+It took about an hour to fill in the rest of the Menagerie about the new findings regarding the corrupted Leyline. A fair bit of that was entirely due to the fact that it was done over dinner, during which everyone was a little too focused on shoveling food into their mouths to spend precious time talking.
+
+The actual revelation and surrounding explanation took about ten minutes. It wasn’t hard to get. With the proof they’d found within the Guild Dagger, a fair few puzzle pieces clicked into place. The only thing they were truly missing was what the Guild’s exact motivations in helping the powerful creature were.
+
+While it was easy to guess they were helping the being in order to stay in power, there had to be something deeper to it. But now they had enough information to start digging into an actual answer.
+
+“I’ll have to be careful, but this is a good starting point,” Rodrick said, interlacing his fingers and bracing his arms against the table as he leaned forward with a serious expression. “I just can’t afford to draw the Guild’s attention to me poking around. They’ll have the area around that hole locked down… but people talk. I just have to position people in the right areas.”
+
+“Is there a way we can just tell the Mesh about this?” Reya asked, spinning a spoon across her knuckles. “It seems like we’ve got a lot of evidence to point toward the Guild not being the impartial party that it thought they were. If it put out a Quest telling everyone in the world to destroy them, even the Guild wouldn’t be able to stand up for long.”
+
+“Well, we just destroyed our only dagger,” Lillia pointed out. “It got us good information, but all we’ve got is our word. Even if we had a way to directly speak with it, I don’t think the Mesh would directly intervene to verify anything. I don’t even know if it can. There are clearly some rules that govern how much it can work. Even if it knew the Guild was working against it, I don’t know if it could just order everyone to destroy them.”
+
+“The bigger problem is we don’t have a way to speak with it,” Arwin said. “The best chance anyone has for that is when they’re Sunsetting their class. We could definitely try to pass the message along when Eleven comes to next bring someone along.”
+
+“It would be worth trying so long as we aren’t sitting around and counting on the Mesh to save us,” Elias said firmly. “We need to find our own way to deal with this. If Esmerelda’s theory about this powerful being somehow relying on the Guild for something is true, if we can cut that support off and kill this beast, we may be able to directly challenge the Guild. Nobody who relies on another to such a degree will be able to stand on their own two feet if the rug gets pulled out from under them.”
+
+“I agree, but I’m still a bit more focused on the near future,” Art said with a frown. “As important as this information is, we’ve still got to find a way to deal with the Beast. We don’t have any way to replicate the corrupted Leyline. And even if we could, I don’t think we would.”
+
+“Could we get another one of the Guild’s daggers and somehow modify it?” Kien asked. He tapped a finger on the table. “Locating another one of them wouldn’t be too hard with Rodrick’s talents.”
+
+“Even if we could, could we actually repurpose it?” Lillia asked. “It sounded like they couldn’t actually notice the presence of the corrupted Leyline for certain until Esmerelda melted the weapon, and that had rather explosive results.”
+
+Everyone turned to look at the smiths.
+
+Wallace shook his head. “I… don’t know. To be honest, I’m not optimistic about our chances of modifying anything made with a piece of corrupted Leyline. It’s too fragile and dangerous. I think it would be more likely that we’d end up blowing it up. Maybe if we had months to work on it — but we don’t. And even if we could replicate it, hunting yet another one of the Guild’s people would definitely start to make them suspect something was up. We can only disappear so many of them. Perhaps we could bargain with the Beast for more time.”
+
+“Actually,” Arwin said slowly, “I’m not so sure that will be necessary.”
+
+“What? Why?” Art asked, glancing at him in surprise. “Wouldn’t we need to get our own hands on a piece of corrupted Leyline in order to replicate the Guild Daggers?”
+
+Even though he’d just eaten magical food, Arwin’s stomach throbbed faintly. The hunger was getting stronger. Just a single meal wasn’t enough to keep it completely at bay anymore. He’d probably have to ask Lillia for some more food before they went to bed.
+
+But, for the first time since The Hungering Maw had started to plague him, Arwin grinned at the discomfort.
+
+“You know what? I think replicating a starving magic-eating void might not be quite as impossible as you fear.”

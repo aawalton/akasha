@@ -1,0 +1,201 @@
+---
+id: ad19a80f-da26-5e5e-b3a6-80df7f63466d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 528: Betting One's Soul"
+slug: 0050-chapter-528-betting-one-s-soul
+partOf: reborn-as-a-demonic-tree
+position: 50
+ownLength: 2920
+unit: words
+ownProgress: 2920
+publishedAt: 2026-01-21
+link: "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/2965421/chapter-528-betting-ones-soul"
+royalRoadId: "2965421"
+markedReadAt: "2026-06-29T19:03:14.882Z"
+---
+
+One moment, Jasmine had been eye-to-eye with an ancient ice dragon and lost consciousness; the next, she had stirred awake in an ice cavern on a stage surrounded by hundreds of cultivators. Initially mistaking the situation for them being captured by a cult, she was soon assured by Stella that it was not.
+
+They were in the Lion's Den, a supposedly famous gambling hall, and Stella had come here to do just that, gamble. Or at least, that was the ruse she was running with. Jasmine knew her Master well, and unlike the deeply concerned Janus, who was apparently Stella's brother, she could read Stella's emotions through their Master-Disciple bond.
+
+Stella wasn't here to gamble. She was here to hunt. Behind the facade of a dumb Princess losing millions of Yinxi Coins to cheap tricks and having so much fun, she was actually entirely in control—cold and calculating. If she genuinely cared to win, she would have relied on her bloodline, but she hadn't.
+
+Yet, despite this insight, Jasmine held similar concerns to Janus. Why was Stella doing this? Who or what was she hunting for? Some ultimate prize? Perhaps she wanted to raise the stakes into the tens of millions and then finally take the game seriously? Because, even if she was unfathomably wealthy, Ashlock was bound to scold her over this.
+
+The answer Jasmine sought came in the form of a humanoid dragon, the Frozen Star Sect's Patriarch. The moment he appeared on their stage and asked for a game, Jasmine felt Stella finally take an interest. This was who she had been waiting for, and it showed by the bet she offered.
+
+Their souls.
+
+Stella wasn't suicidal—far from it. Jasmine was sure of that much. So to make such a bet meant she was sure of her victory. Yet, Jasmine couldn't help but nervously glance between Stella and Ao Lingxuan as they eyed each other across the table. In fact, the high tension in the room was infectious, making every muscle in her body tense.
+
+Meanwhile, Stella? She was utterly calm, confident even, as if the world was in the palm of her hand.
+
+"I choose a rather simple game. I call it luck of the draw," Ao Lingxuan said, manifesting a head-sized pot with a lid from thin air and placing it between them. Carefully taking off the lid and setting it aside, he tilted the pot forward for Stella to see and continued, "As you can see inside, there are many rocks." Using telekinesis, he made the identically shaped rocks float out of the pot. "There are nine blue rocks and a single green one. We will keep drawing until one of us pulls the green stone." He made the stones drop back into the pot, causing the runic patterns on its surface to glow faintly. "To prevent cheating, the pot is inscribed with an array that protects it from outside interference and a veil of darkness to stop either of us from peering inside, so don't worry about any cheating. This is the fairest game I can offer. What do you say, Princess? Down to play?"
+
+"Sure. Can I go first?" Stella asked.
+
+"By all means. It's only fair since I picked the game," Ao Lingxuan said smoothly. He placed the lid on the pot and shook it to shuffle the rocks inside. After a moment, he set it down and gestured for her to go ahead.
+
+Jasmine felt Stella's mood change. Did Ao Lingxuan's response clue her in on something?
+
+Stella's gaze turned tranquil as she relaxed and analyzed the pot. After a long moment, she slowly took off the lid and reached into the pot, shifted her hands around for a while, and finally picked a stone.
+
+It was dark blue.
+
+"Ah, rotten luck," Stella frowned.
+
+Ao Lingxuan smirked and reached into the lidded pot for his stone.
+
+It was also dark blue.
+
+"It seems I share your bad luck, Princess," he joked, setting the stone aside.
+
+Stella went to take her turn but paused with her hand over the lid. "May I propose a change to the game?"
+
+Ao Lingxuan seemed intrigued. "What is it?"
+
+"Let's take out our chosen rocks at the same time rather than one by one."
+
+Ao Lingxuan studied her for a long moment.
+
+"Wouldn't it be more exciting?" Stella reasoned, "That way, we reveal our stones to the audience at the same time."
+
+"Very well," Ao Lingxuan finally agreed. "Let's do as you suggest, but I don't want to touch hands with a filthy human like you, so we will simply show our stones at the same time, but not take them out at the same time. I'll go first from now on."
+
+Stella surprisingly didn't seem to mind. "Go ahead."
+
+Ao Lingxuan grew understandably suspicious, but chose his stone anyway. As agreed, he didn't reveal it until Stella had one too. At the same time, they opened their palms, revealing blue rocks.
+
+"Phew," Janus let out a shaky breath at Jasmine's side. "I think I'm going to have a heart attack at this rate," he whispered and glanced at her. "How about you? Are you okay?"
+
+Jasmine slowly nodded. She was tense, but nowhere near as worried as she should be. Likely because Stella herself seemed unfazed by the game.
+
+I still don't see how she can guarantee her victory, though. If there were a way to determine which stone was green without looking in the pot, she would have drawn it in the first round.
+
+They went for a few more rounds, each time drawing blue rocks and bringing Janus closer to passing away from stress. Zephyrine had joined them at some point, her eyes narrowed, seemingly trying to see through the game.
+
+"Only three more stones remain," Stella said as she reached in for the next one. She had her hand in for longer than before, seemingly playing with the rocks inside while grinning at the humanoid dragon. "Are you ready to be my slave, Ao Lingxuan?"
+
+Ao Lingxuan snorted. "I wouldn't count your win just yet," he said, while hiding the stone he had picked in his clenched fist.
+
+"He's right," Grand Elder Vokar whispered behind Jasmine. "Ao Lingxuan has never once lost this game."
+
+Jasmine bit her lip nervously. He had never lost? Then it was clearly rigged, yet Stella was showing no signs of having figured out the trick.
+
+"Okay, this is my lucky stone," Stella said, taking one out. In sync, they slowly opened their palms...
+
+Nobody spoke a word. Despite the room being so packed, everyone was far too tense to dare talk. What if their words accidentally distracted the one they wanted to win, causing them to lose their soul? Even the volcano cult didn't seem to want Ao Lingxuan to lose to Stella, as they didn't take the opportunity to try to help Stella out or make an effort to warn her of the possible trick.
+
+Both stones turned out to be blue, meaning the green stone was one of the last two remaining in the pot.
+
+"Come on, Stella," Janus hissed between his teeth. "Pick the right one."
+
+Ao Lingxuan sat back in his chair, looking confident. "Princess of Ashfallen, as the host, I will give you the honor of picking your final stone first."
+
+"No, don't do it," Janus said, gripping the back of Stella's chair and not caring about the glares he received. "That's obviously a trap."
+
+"Brother, it would be rude for me to deny his good graces," Stella said, elegantly reaching forward to take her stone from the pot.
+
+That was the moment Jasmine was assured Stella had won. The Stella she knew would never care for good graces, especially with her soul on the line. The only reason she would say such a thing is if she were about to humiliate said person.
+
+Ao Lingxuan had a wicked smile as he took the final stone and slowly stood up. Everything about him, from his posture to his smile, exuded confidence. "I hope the Ashfallen Sect can come to terms with the fall of their air-headed Princess after this." He slowly opened his palm, revealing the hidden stone to everyone in the room.
+
+A green stone.
+
+Jasmine's heart skipped a beat. Stella had... lost? Her eyes widened with fear, her lip quivering at the reveal. Her Master, the Slaughter Princess, had actually lost?
+
+"No," Janus whispered, falling to his knees at Jasmine's side. A violent breeze flooded the underground room, an enraged Zephyrine being the obvious culprit.
+
+Ao Lingxuan set the green stone down on the table with an audible clink.
+
+"Stella, your soul is now mine," he said, his words colder than ice.
+
+Jasmine rushed to Stella's side, her mind racing. "Master?!" she said, her voice croaking from shock. "What happened? How did you lose?"
+
+Stella side-eyed Jasmine, oddly with a smile tugging at the edge of her lips. She then looked back at Ao Lingxuan, standing there with utmost confidence, and, to everyone's surprise, burst out laughing.
+
+"Laughing at your own foolishness, human?" Ao Lingxuan sneered.
+
+"No, it's just, oh, this is too funny," Stella casually opened her palm, revealing not a blue stone like everyone expected, but a green stone. A shocked gasp echoed through the room, followed by an explosion of murmurs and shouts.
+
+"What is the meaning of this?" Ao Lingxuan said, glancing between the two stones on the table. "How can there be two green stones?"
+
+"Because one is just an illusion." Stella snapped her fingers, and a layer of Qi on Ao Lingxuan's stone peeled away, revealing a dull blue rock beneath. "You hid the real green rock on the underside of the lid and wanted me to go first in the final round so you could make the switch." Stella picked up the pot and flipped the lid over, revealing a single blue rock stuck to it. "See? There is still one more rock remaining, which shouldn't be possible as there were originally ten, and we took them out evenly."
+
+She set the lid down and held up her green rock. "This is the real, original green rock. Therefore, your soul is actually mine."
+
+To say the Lion's Den erupted in absolute chaos would be an understatement. Ao Lingxuan had seemingly lost a game he never had before, and in the process, had his scheme exposed and had to forfeit his soul.
+
+Jasmine couldn't believe it.
+
+"This isn't possible," Ao Lingxuan roared, pointing an accusing finger at Stella. "You cheated. How did you cast an illusion technique on the rock to change its color when the pot blocks all tampering?"
+
+"How indeed?" Stella replied simply, shrugging as if it weren't her problem. "Whether I cheated or not changes nothing. I won. That's all that matters in the end, is it not? Besides, the little illusion I cast was simply for fun. If I hadn't, you would have still drawn a blue stone, and I would have had the green. You just wouldn't have looked quite as stupid declaring your victory."
+
+***
+
+Stella was grinning from ear to ear, seeing the fruits of her labor coming to fruition. Having to endure losing endlessly to these loser Elders and driveling Cultivators while acting the fool had been grating on her nerves. But in the end, it had been worth it. As she had hoped, the Patriarch, the ever-prideful dragon fresh off a loss to her sister, had taken the bait.
+
+A few million Yinxi Coins? Those could be made back in a year—if not straight away, once she took control of Ao Lingxuan's personal hoard. It's not like she spent them anyway. But a Monarch Realm ice dragon as a slave, and ownership of an entire sect? Now that was worth betting her soul on.
+
+Now, while she hadn't been a hundred percent sure of her victory, thankfully, everything had worked out. Besides, even in the worst-case scenario that she had lost, she planned to call on Nyxalia to devour Ao Lingxuan. If the dragon wasn't alive to collect his deserved prize, then she could walk free.
+
+She never claimed to play fair.
+
+"No, this is impossible," Ao Lingxuan adamantly shook his head. "I can't have lost! You tricked me, you cunning human!" He snarled at her, "You lost on purpose to my Elders to seem clueless, didn't you?!"
+
+Stella smirked. "Who knows? Maybe they were all just better gamblers than you, their ex-Patriarch."
+
+"Ex-Patriarch? What nonsense are you spouting?"
+
+"Well, I own your soul now, remember?" Stella gestured at the room around her, "meaning everything that was once yours is now mine. That includes this gambling den, the Frozen Star Sect, and even your mother's corpse! All of it is now—"
+
+Stella froze mid-sentence, the words dying in her throat.
+
+A chill deeper than winter swept through her veins as her body began to tremble—not from the cold, but from sheer, primal fear. Ao Lingxuan had released his killing intent, and it slammed into her like an icicle to the heart. Never before had she felt such chilling, all-consuming malice. It wasn't just a willingness to kill—but a deep love for it.
+
+How much pain has Ao Lingxuan endured to live alongside such heart demons festering in his soul? This is unlike anything I've ever felt before.
+
+There was no time for answers.
+
+Stella's bloodline surged, instincts screaming. The world distorted. Time itself seemed to bend, slowing to a crawl. She watched, as if from outside her body, as Ao Lingxuan moved—not walked, or ran, but lunged across the table like a force of nature unleashed, exploding the table in a surge of splinters. His fingers elongated into talons crafted from primordial ice, shimmering with Monarch Realm frost that trailed freezing vapor.
+
+She saw the blow coming. She had the awareness, the time to react.
+
+But not the power to resist.
+
+Even with all the advantages her bloodline granted her, Stella stood paralyzed in the presence of a true Monarch. Her limbs refused to move. She couldn't even manage a final breath under the suffocating weight of his spiritual pressure. It was like standing before a mountain as it collapsed into a world-ending avalanche, knowing there was no escape.
+
+She was utterly helpless. Yet while her body seemingly accepted its fate against her best wishes, she knew this wasn't the end. All of this was going to plan. Not in her wildest dreams had she expected Ao Lingxuan to go down without a fight.
+
+The squirrel, whom Stella had been giving head scratches to all evening, lazily opened one eye and glared at the approaching Ao Lingxuan with irritation. Maple, Ash's pet Worldwalker, an eldritch void creature from the beyond, made his move.
+
+What move, Stella couldn't say.
+
+One moment, Ao Lingxuan's frost-laced claw was an inch from her face.
+
+The next, he was gone—a sound of cracking scales echoing through the gambling hall as his body was launched like a ragdoll, slamming into the far wall with such force that the reinforced ice cracked and cratered around him.
+
+Before Ao Lingxuan could even raise his head, Zephyrine had rushed over and was furiously ripping him from the crater by the neck, only to slam him into the wall again, and again, and one more time for good measure.
+
+"Don't you ever try to kill my little sister again," Zephyrine snarled, hurling him to the floor and making the whole building tremble as chunks of ice rained down from the cracked ceiling. She placed her foot firmly on his head, as if threatening to stomp. "Now, are you going to expose your soul so Stella can enslave what is now rightfully hers, or will I have to tear it out of your cold, dead corpse?"
+
+"I'll never be a slave to a human brat like her," Ao Lingxuan snarled, despite his situation. It seemed the pride of a dragon knew no bounds.
+
+"Brat?" Stella stood up, the chair screeching on the ice as she did so. Every pair of eyes in the room turned to her. She walked forward, over the broken table, and down the steps. The crowd of cultivators parted until she arrived before Ao Lingxuan. "You shouldn't refer to your new master as a brat. Mhm, instead of brat, I think the title Matriarch of the Frozen Star Sect has a better ring to it, don't you think?"
+
+Ao Lingxuan roared in her face, but it was hopeless. Even if he got out of this situation, he had lost in front of his entire sect. A person needed more than simple power to rule the masses, and nobody was going to ally with the dragon who bet and lost his soul.
+
+"Maple? He doesn't seem to be complying," Stella tutted and shook her head in disappointment. "Can you do the honors? I'll even let you nibble a little off for yourself."
+
+Maple leaped off her shoulder and onto Ao Lingxuan's chest. Despite being so small, his action seemed to carry a great weight as Ao Lingxuan's bones audibly crunched and the dragon spasmed with pain.
+
+"Final chance to comply, Ao Lingxuan," Stella said.
+
+The dragon, despite the pain, narrowed his eyes at her. "Go to hell, you demon spawn."
+
+Stella sighed. She didn't want to seem like the bad guy.
+
+"Go ahead, Maple," she said, turning her back and walking away.
+
+What happened next to Ao Lingxuan in full view of everyone left in the gambling hall was far from pretty.

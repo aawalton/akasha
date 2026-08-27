@@ -1,0 +1,171 @@
+---
+id: 71e695cf-886b-5099-90f9-373fc063642a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 539: Cheese"
+slug: 0105-chapter-539-cheese
+partOf: rise-of-the-living-forge
+position: 105
+ownLength: 1852
+unit: words
+ownProgress: 1852
+publishedAt: 2026-01-07
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2920469/chapter-539-cheese"
+royalRoadId: "2920469"
+markedReadAt: "2026-06-29T20:01:47.499Z"
+---
+
+Arwin let Caldera lower as he looked upon the results of his work. It would be impossible to tell just how successful he’d been until he installed everything, but as far as he could tell, he’d been successful. The pieces to awaken the Auction House were complete.
+
+He banished his hammer and wiped the sweat from his brow. As far as Arwin could tell, it hadn’t even taken more than an hour or two to complete his task. That wasn’t to say the quality had been impacted in the slightest.
+
+The magical energy swirling within him in wait to be used was proof of that. The Mesh had given him a considerable amount of power for his efforts. It wasn’t quite enough to make him want to rush ahead to using it, but after a few more good creations, he got the feeling that he had another solid upgrade waiting for him.
+
+I suppose we’ll need a name for the Auction House, now. It’ll have to fit the street’s theme.
+
+“It is good. But worse than mine,” the Infernal Armory said.
+
+“Oh?” Arwin asked. “I agree with the first part. But I’d say we did a pretty damn good job.”
+
+“We did,” the Infernal Armory agreed. “But I am perfection. There can be no building greater than the original.”
+
+Calling yourself the original building might be a bit of a stretch, bud. Maybe best to just let that slide, though.
+
+Arwin just chuckled and shook his head. “Make sure to keep these bits out of the way, would you? I’m going to go check on the others. Make sure nothing happened.”
+
+“It has been no more than a few hours,” the Armory said. “What do you possibly think could have happened in such a short amount of time?”
+
+“Call me paranoid if you want,” Arwin said with a shrug. “But I’m going to check anyway. You never know. Besides, it’s good to take breaks between work. We’ve got time to be intentional with the rest of the projects on our plate.”
+
+The Infernal Armory was silent for a moment. Then it made a sound that sounded remarkably similar to someone clearing their throat.
+
+Arwin’s eyes narrowed.
+
+“What are you doing?”
+
+“Something happened,” the Armory admitted. “But there were no injuries. Not, at least, from the Menagerie’s side. The Devil’s Den just informed me.”
+
+Arwin wasn’t sure if he wanted to sigh or laugh. Nobody was hurt. That was the important part. “What was it? Some idiot try to start something in the Den?”
+
+“No,” the Armory replied. “Thane was attacked. Two of the attackers are dead. Thane slaughtered them. The other one is in our custody. In the room that Lillia is pretending is not a torture room.”
+
+Arwin’s amusement drained away in an instant. “Alive?”
+
+“For now,” the Armory replied. “Rodrick is seeing to him. He is… displeased.”
+
+“As am I,” Arwin said, turning on his heel and striding for the door. “I’ll be back. Keep an eye on things.”
+
+***
+
+Arwin stepped into the not-torture room, closing the door behind him with a heavy thud. Esmerelda, Lillia, and Rodrick stood around the not-torture table. Thane hunched a few feet away from them, his features cast in shame.
+
+There was no sign of the man that had attacked Thane.
+
+For that matter, there wasn’t even a single scratch upon Thane. Perhaps Anna had already tended to him. It really didn’t matter. As long as he was safe, everything else was a secondary concern.
+
+“What happened?” Arwin asked.
+
+Rodrick pushed away from the table and turned toward Arwin. Unmistakable anger twisted across his features. It was a controlled rage, the kind that would never push him into making a move he would regret.
+
+Arwin wasn’t actually certain Rodrick was capable of getting angry enough to make mistakes. The Secret Eye’s training had drilled just about all of the impulsiveness out of him.
+
+“Thane was attacked because I wasn’t properly attending to my duties,” Rodrick said.
+
+“That’s not true and you know it,” Esmerelda snapped, rapping Rodrick on the back of his head with her knuckles. “You only just got back. If anything, the rest of us should have picked up the slack when that old bag of a Lich left. But not even I knew how much he was doing. I wonder how many people he’s killed.”
+
+Arwin blinked, his question dying a moment before it could reach his lips as he realized what the others were talking about. Koyu had left to get his class Sunsetted. And, almost immediately afterward, someone had shown up on the street to threaten them.
+
+When we first met Koyu, he was defending the streets and protecting Melissa. Has he been doing that ever since? This whole time?
+
+Arwin’s eyes narrowed. “It doesn’t matter how it happened, and blame certainly isn’t going to solve anything. The Armory told me nobody was hurt. Is that true?”
+
+“Nobody other than the ones that attacked me,” Thane said. He swallowed. It looked like he was still a bit shaken. “Vireth dealt with them.”
+
+“Beat them like a spoiled watermelon, she did,” Esmerelda said with a shake of her head. “That devil is trouble. Bloodthirsty beyond all belief. I’m not shy to admit she knows her way about slaughtering people even better than I do.”
+
+“That really doesn’t mean much,” Thane said with a small laugh. “What do you know about slaughtering people, Esmerelda?”
+
+They all turned to look at him.
+
+Thane blinked. “What?”
+
+“Nothing,” Esmerelda said, turning back to Arwin and giving him a sharp look. “Nothing at all.”
+
+Arwin cleared his throat at the sudden awkward air. “No matter. Where’s the remaining guy? We need to figure out what he was after.”
+
+“Already did,” Lillia replied.
+
+Arwin blinked. “What?”
+
+“The attack was a while ago,” Esmerelda said with a snort. “We dealt with it while you were banging away in your forge.”
+
+“You didn’t get me?”
+
+“Why would we?” Rodrick asked. “You aren’t needed for something at this scale, Arwin. There are better things for you to be doing. And — not to be rude — but do you really think your presence would have changed anything? Are you more adept at interrogating than anyone in this room?”
+
+Arwin glanced from Rodrick to Esmerelda to Lillia.
+
+Then he cleared his throat.
+
+“Fair enough, actually,” Arwin said. “And? What was the result?”
+
+“Inconclusive,” Rodrick said reluctantly. “He didn’t know nearly as much as we would have liked. Someone fiddled with his memories.”
+
+“Fiddled is the wrong word,” Esmerelda said. “They carved the damn things out. Our little fool remembered how to fight and knew his task, but that was just about it. He didn’t remember who gave him his job. Didn’t even remember what he was meant to do after the job was done. All he knew was that he was meant to retrieve someone from the Menagerie.”
+
+“Didn’t matter who, apparently,” Lillia said grimly. “Thane just happened to be the one that found them because they didn’t fit the pattern of the crowd outside.”
+
+That does sound like the kind of thing that would get Thane’s attention.
+
+“Memory magic?” Arwin asked. His brow darkened. “That’s… grim. Not the kind of thing someone uses casually. And probably not the kind that anyone consents to.”
+
+“You’d be surprised with what people consent to,” Esmerelda said. “Especially in the heat of youth and after a few good drinks.”
+
+It was Esmerelda’s turn for everyone to stare at her. She tilted her head to the side.
+
+“What? Don’t look at me like that. I had a wild youth.”
+
+“Thane was just attacked and someone’s memory got torn out of them,” Rodrick said. “Is it really the time?”
+
+“It’s always the time,” Esmerelda replied. “Young folks are always going on about proper this and that. When you get to my age, you’ll realize it’s all a load of shit. Time is what you make of it. That idiot’s brain isn’t getting any less scrambled because I don’t pretend like I give a shit about him. And don’t act like you care yourself.”
+
+Lillia frowned. “I—”
+
+“Don’t you start on me.” Esmerelda jabbed a finger in Lillia’s direction. “You’d turn him into a hamburger. And you know damn well I’d eat that burger and like it. Because I know what I like. And I know who I care about. A fool willing to let his brain get scooped out for a few shiny coins isn’t one of them.”
+
+With that, Esmerelda stormed past them and out the door, slamming it shut behind her.
+
+Everyone stared at it in silence for a long moment.
+
+“I was going to agree with her,” Lillia muttered.
+
+“She’s mad,” Rodrick said. He glanced at Thane, but looked away before the boy could notice his attention. “Angrier than I’ve ever seen her. Not sure I can say I’m surprised. I’m going to look into this. Don’t worry. A complete lack of info is more to work with than you might expect. Nobody can escape my eye forever.”
+
+“That, I don’t doubt,” Arwin said. He blew out a slow breath. Esmerelda’s anger wasn’t foreign to him. They’d come too close to losing another member. Well — he supposed they really hadn’t. Vireth was clearly a hell of a lot stronger than he’d initially thought. But it felt like they had.
+
+And that was enough.
+
+“I’m sorry for causing all of this,” Thane said. “I should have found someone.”
+
+“Don’t apologize for getting attacked,” Arwin said. “Just find someone next time. You were the victim.”
+
+“Actually, I’m pretty sure the dead guys were,” Thane said. The black blade at his side shuddered. It seemed Vireth agreed with him.
+
+“Better them than you,” Arwin said. “But maybe be a bit careful for the time being. If someone was bold enough to try to kidnap you in broad daylight, there’s no guarantee it won’t happen again. At least until Koyu is back… we need to keep our eyes out.”
+
+“Yeah,” Thane said with a nod. “I’ll be careful.”
+
+Something tells me he might be at less risk than a number of the other members of the Menagerie. Anna needs someone keeping an eye on her.
+
+“Good,” Arwin said. He glanced to Rodrick. “So there’s nothing we can do right now?”
+
+“Nothing you can do,” Rodrick corrected. “This is the time to take advantage of our enemy’s confusion. And I will. You need to continue acting as normal. There is a high likelyhood this has something to do with the Auction House. Continuing our progress there will lure them out… but next time, we will be properly prepared.”
+
+“When?” Lillia asked. “Do you need time to prepare?”
+
+“No,” Rodrick replied. “I was unprepared the last time. That has already been rectified. I won’t be caught off guard again.”
+
+“Then I think I can do just what you asked,” Arwin said. “The parts to awaken the Auction House are finished. I’m ready to begin.”
+
+They all exchanged a glance.
+
+Then Rodrick smiled. “Then do it. Let’s see if laying the cheese can draw out our rat.”

@@ -1,0 +1,223 @@
+---
+id: 8f8b62ea-0759-5d1e-b9fb-ce7a92ae2907
+page-type-slug: story-chapter-royal-road
+title: "Chapter 568: The Crowned One"
+slug: 0092-chapter-568-the-crowned-one
+partOf: reborn-as-a-demonic-tree
+position: 92
+ownLength: 2230
+unit: words
+publishedAt: 2026-05-15
+link: "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3400799/chapter-568-the-crowned-one"
+royalRoadId: "3400799"
+---
+
+Mistress Veilshade found Grand Elder Ren muttering to himself in a laboratory deep within his Empyrea estate. As a Warlord and feared poison specialist, few were as brazen as she to break into the inner sanctum of his home, as shown by his abrupt surprise at her appearance.
+
+"I'm not here to fight," Mistress Veilshade said calmly, holding her arms up in surrender. The last thing she wanted was soul poison to the face. "I'm here to discuss the All-Seeing Eye."
+
+Ren glared at her from across a table decorated with heinous contraptions and seemed terribly on edge. "I don't have time for discussions," he snapped angrily. "Rid yourself of my presence."
+
+"If it's the Chairman you fear, I can assure you he's gone missing," she said.
+
+Ren laughed. "You think I fear the Chairman?" He shook his head. "I don't fear him right now. No," he glanced up. "I fear him far more right now."
+
+To utter such a statement within the depths of his home, far from the front lines, suggested something wasn't right here. Mistress Veilshade couldn't feel the All-Seeing Eye's gaze, but having heard reports of how Faelorian acted before his death, she had an idea. "He marked you for death, didn't he?"
+
+She took Ren's silence as confirmation.
+
+"What does it feel like?"
+
+Ren continued his silence.
+
+"If he marked you for death, why did he let you live?" she pondered aloud, hoping Ren would entertain her musings with answers. "A poison monarch that can target souls has to be worrisome, even to him. Does he wish to taunt you to death like he did with Faelorian?"
+
+Ren snorted. "You have no idea."
+
+"Humor me?"
+
+"I'd rather not," Ren said, moving away from his desk to inspect an instrument.
+
+She leaned against the desk and watched him work. "How strange. For a man marked for death, I'd have thought you would be more open to sharing information. I could smuggle you away from here, grant you protection from the Covenant."
+
+"I don't want protection—I want answers."
+
+"Same as me then," Mistress Veilshade smiled. "Work with me, Ren. I can help you. Few have fought the All-Seeing Eye and survived. I need to know your story."
+
+Ren laughed again. "He let me live because he knows he can't be beaten. Nothing I share can help you defeat that dark god and his followers."
+
+"I don't want to defeat him," Mistress Veilshade insisted, earning Ren's interest. "I saw what miracles he unleashed upon Floridawn. A possible dual-affinity god with immense reach and influence? Few besides the Chairman could match him. No, what I desire is information," she traced her finger along the table in circles. "What conclusions that information leads me to is yet to be determined, but the All-Seeing Eye is looking like a threat the Celestial Empire isn't prepared to face." She glanced up at Ren. "Tell me your story."
+
+Ren held her gaze. "Bring me a Monarch."
+
+"Pardon?"
+
+"Your soul will do as well," Ren said casually. "If you want answers, I need payment. One Monarch soul, and I promise to answer any questions you may have."
+
+Mistress Veilshade narrowed her eyes. "What an obscure request. If it were a specific Monarch, perhaps a rival of yours within the Empyrea nobles, I could understand. But any Monarch soul, including my own? How curious."
+
+"Bring two Monarch souls to the All-Seeing Eye before I'm killed, and I will be spared," Ren said bluntly, perhaps anticipating she would put two and two together anyway. "That is the deal I made in Floridawn."
+
+Mistress Veilshade stepped back after seeing the glint of bloodlust in his eyes. "Killing two Monarchs, such a thing is nigh impossible."
+
+Ren chuckled. "Not if what I'm working on is successful."
+
+She raised a brow. "What would that be?"
+
+"If I told you that," he searched her gaze, "I'd have to kill you."
+
+That's when Mistress Veilshade realized something. Ren needed two Monarch souls, something he had just openly admitted. Yet, he hadn't lunged at her despite being in his laboratory surrounded by poisons.
+
+"You fought with the All-Seeing Eye and lost, didn't you?" Her tone was laced with hidden meaning. "If so, is that really a threat you can follow up on?" She flooded the room with her spiritual pressure, and Ren helplessly fought back. "As expected," she smiled. "You've been weakened."
+
+Blinking through the laboratory's shadows, she appeared behind Ren and embraced him. Tracing a finger along his neck, she sliced open his vein, and to her partial surprise, a familiar black fluid that hissed and became miasma leaked out.
+
+"The same thing that has tainted the sap supply," she hummed with interest. "Did the All-Seeing Eye inflict this curse upon you?"
+
+Ren's shoulders flared with soul flames, and he threw her off him.
+
+She effortlessly phased through the shadows and appeared in the corner of the room, partially behind a vat of poison. "You're cursed and marked for death, Ren. If the All-Seeing Eye can't get to you, I'm sure the other Monarchs will be very interested to learn your blood contains the very same poison that tainted their precious golden sap."
+
+Ren slammed the table before him in frustration, splitting it in two and sending the contraptions flying. "Vile bitch of Umbraholme, the darkness in your heart consumes you."
+
+"As does the curse in your veins," she chuckled. "Now then, what do you say to us working together? While you don't have any specific Monarchs you wish to kill, I personally do, and I'm deeply curious how a poison Monarch like you plans to weaponize the All-Seeing Eye's blood."
+
+Ren groaned in frustration and glared in her direction. But ultimately, he had no choice. "Fine," he muttered. "A temporary partnership we shall enjoy."
+
+"Perfect," Mistress Veilshade said while sinking into the shadows. "I'll return with some options for targets shortly."
+
+"The Chairman, keep an eye on him if you can," Ren said as he retreated deeper into his laboratory. "He's the only cultivator below the World Tree's canopy that my poison can't harm."
+
+"I will try," she said as she departed. But in truth, she had no idea where the Chairman had gone. Her agents tailing him had been slaughtered with ease, and he had vanished into the shadows.
+
+Whatever he was scheming, it wasn't good.
+
+***
+
+As always, the Chairman was greeted with an empty throne room.
+
+Yet the signs that they were here were all around him.
+
+A fireplace burned with white flame yet gave no heat. Incense smoke rose in perfect vertical lines, unmoved by air that did not exist. Trails of gold leaf snaked along the floor, and the scent of a woman's perfume that would arouse the gods drifted in the air. They were all hints of the argument that was to come.
+
+The Chairman stood before a fractured throne in the room's center and regarded it for a long moment. His shadow was lazily seated upon it, head resting in his palm.
+
+"Late," a voice that was not his own said coldly.
+
+Another shadow lengthened along the far wall, peeling itself free from the stone like oil separating from water. Then another, and another.
+
+Six distinct silhouettes gathered in the lightless edges of the hall, besides his own upon the throne.
+
+"You called," the Chairman said evenly. His voice echoed from both his shadow and him.
+
+A dry chuckle echoed from behind the throne. "We always call upon you. You simply choose when to answer."
+
+The Chairman's shadow perched upon the throne yawned. Despite not being able to see who lurked behind the throne and made the comment, he knew it was The Burning One. "If something is worth my attention, I give it. Your endless hatred of the world is exhausting to endure."
+
+The air thickened as the tension rose.
+
+"Your passiveness has resulted in loss for us," said a figure rimmed with faint gold.
+
+And so the pointless argument would begin.
+
+"A hoard does not bring us victory," the Chairman retorted with a bored tone. "How many times shall we dance this dance, oh gilded one?"
+
+"Victory? Laughable. In your hands, there's only stagnation," a figure that towered over all stated. "You contain us. Preserve the empire and delay our progress."
+
+"And with the throne, you would what?" the Chairman asked calmly. "Ignite the heavens again?"
+
+A pulse rippled through the hall.
+
+Flames in the fireplace inverted, burning black for a single breath.
+
+"You let my vessel escape into the wilderness between your sleeping fingers," the looming shadow wearing a crown cursed. "A stain on our record, it has become."
+
+"I cannot foresee all futures, and neither can you, despite your claims," the Chairman mused. "Besides, the vessel's escape has led to some interesting developments. The tides of fate have changed."
+
+A figure that unsettlingly mirrored his appearance tilted its head slightly. "The Tree grows outside our reach. Its control, I desire."
+
+"It is still young," the Chairman said. "It will come into our folds soon enough."
+
+"It is anomalous," the looming crowned figure said. "We should stunt its growth lest it overtakes us."
+
+The rimmed golden figure pondered, "It is useful alive. I heard its fruit is capable of wonders."
+
+"It brings war to our doorstep," a figure of burning white flame hissed. "Allow me to remind them and the world of our power."
+
+The responses overlapped; some whispered, some shouted. Others remained silent. The tension in the room shifted.
+
+The restless shadow of burning white took a step forward, and the room's fractured marble beneath its feet darkened.
+
+"You will only wait," it said coldly. "As you waited before."
+
+"And you will rush," the Chairman answered in kind. "As you rushed before."
+
+"We need to take back what is ours," the figure rimmed in gold said.
+
+"No, we need to take what is theirs," the mirrored figure countered.
+
+"A consensus we must reach," a hollow figure that had yet to speak said, briefly silencing the room.
+
+The Chairman agreed with the Devouring One. These arguments never went anywhere.
+
+The Mirrored One spoke again while glaring at him with a stolen face.
+
+"You sit too long."
+
+The Chairman's gaze lifted to the throne, where his shadow was lazily perched. He liked how he looked there, in the middle of them all.
+
+"I sit because I must," he said slowly.
+
+"No," the burning shadow snapped. "You only sit because of the fracture widening. We put you there."
+
+A hairline crack appeared across the Chairman's reflection in the polished floor.
+
+"If not for that, you would never sit over us," the Mirrored One sneered.
+
+He did not look down and decided to ignore the reminder of fracturing. His reign was coming to an end, and like the others, he would be forced to watch on in the future.
+
+But for now, he sat on the throne and was in command.
+
+"Instability serves no one," he said. "Actions have consequences, and I've ruled for long by letting others act and fall for me."
+
+"The Tree will force motion," the Burning One said. "Whether you will it or not."
+
+"Force motion it may, but that doesn't mean we have to play our hand," the Chairman countered.
+
+"If you won't act, then someone else will sit."
+
+For the first time, the Chairman's shadow was compelled to sit up.
+
+"Are you suggesting unity?" the Chairman asked, his shadow's gaze sweeping across the room.
+
+"No," the Crowned One stepped forward, the ground cracking beneath his feet. "You shame me. I'll sit where I belong."
+
+The Chairman closed his eyes. "My reign is yet to end, oh Crowned One. Without balance, the events of the past will rear their ugly heads once more."
+
+The Crowned One refused to listen. "If you will not move, I'll dethrone you myself. My vessel, I'll retrieve it."
+
+Above them, in the mortal world, a distant tremor passed through the World Tree's spirit vein.
+
+The Chairman watched The Crowned One leave without resistance.
+
+"You will regret haste," he said.
+
+The leaving figure paused only briefly.
+
+"We always do."
+
+"The Tree will come, as will the vessel," the Chairman tried to reason one last time. "They have deemed this land and us their nemesis. I've laid the seeds and am waiting for them to bloom. Relax, Crowned One, I promise in our eventual victory."
+
+For a heartbeat, the tension lulled, and it seemed all seven figures' goals were aligned, only for them to fracture again.
+
+The Crowned One laughed. "Victory? In my eyes, you have already lost. The time for waiting is over."
+
+Above the capital, the sky subtly deepened in color as The Crowned One faded into the wall. Fractures ruptured across the room's walls, and the Chairman found himself chained in place. His shadow that had once sat upon the throne was replaced by another.
+
+The Crowned One grinned at him from upon the throne.
+
+"Oh, Still One, stay true to your name and stay there," the figure sat back against the fractured stone with pride. "Let me handle what you could not."
+
+"This is what the Tree wants, what it will feed from," the Hollowed One warned. "Until now, it has acted on whims. Take the vessel, and you give a hungering god a deadly purpose."
+
+The Crowned One maniacally laughed. "Then perhaps you will have to face him, Devouring One."

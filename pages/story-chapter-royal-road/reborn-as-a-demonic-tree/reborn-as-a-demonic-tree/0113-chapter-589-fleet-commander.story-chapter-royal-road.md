@@ -1,0 +1,169 @@
+---
+id: 00fbc421-9d08-51ef-81b0-b4e3338adf0c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 589: Fleet Commander"
+slug: 0113-chapter-589-fleet-commander
+partOf: reborn-as-a-demonic-tree
+position: 113
+ownLength: 2369
+unit: words
+publishedAt: 2026-07-03
+link: "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3628444/chapter-589-fleet-commander"
+royalRoadId: "3628444"
+---
+
+Zephyrine was drawn out of her deep cultivation by chilling bloodlust.
+
+She was on her feet before she had thought to, her attention snapping to the south toward the source. Ashlock. While she couldn't see him from here under the twilight, she could feel his emotions weighing down on her and the world. The demonic tree that her sister called Father was usually passive—despite his presence blanketing over much of the continent, he rarely bothered her.
+
+Yet now, he was making his rage known to all, and it had taken on an almost physical form, like a natural disaster roaring across the land.
+
+And Zephyrine knew there was only one reason Ashlock would be driven to such wrath and cast aside his restraints.
+
+"Stella," Zephyrine cursed as she quickly got to her feet. "Something terrible has likely happened to her."
+
+Until now, Zephyrine had stayed back as the war in the Celestial Empire developed, but if something had happened to Stella, then it was time for her to act.
+
+Just... please don't be dead, Zephyrine hoped as she took to the sky.
+
+"Primal Overlords, our time has come," Zephyrine said, her Qi-empowered voice carried by the wind to reach all corners of the spiritual spring. "I call upon all who hear to join me in battle."
+
+There was silence.
+
+Veylorak, the Dread Maw of the Molten Depths, was already enslaved by Ashlock, and Astralis had left the spiritual springs to do something unknown to Zephyrine. Ig'Zal was dead, and Tyranox was an empty husk that aimlessly wandered the spiritual spring, spreading his poison and corrupting the land.
+
+In the end, only two Primal Overlords from the far reaches of the spiritual spring answered her call.
+
+The first was impossible to miss—both by sight and by the smell of rot that preceded it. Morthex, the Pale Devourer. A six-headed hydra of bone plating and decay, its vast skeletal wings with strips of rotting flesh stretched taut between the joints, carrying it toward her.
+
+Zephyrine glanced to the west and saw the other. Aurix, the Gilded Colossus. A scarab the size of a mountain peak, its polished platinum shell catching the sun and scattering it across the landscape in cold, scattered flashes. Its vast wings beat with immense ferocity, flattening the land below.
+
+Both dwarfed her in size, but neither had stepped into the Monarch Realm.
+
+"I've answered your summons," Aurix said as he landed below Zephyrine, cracking the ground beneath. Morthex did the same, withering the surrounding flora and not offering any words.
+
+"We head south, toward the Celestial Empire," Zephyrine said calmly.
+
+"Will the great demonic tree not shepherd us there?" Aurix asked, glancing to the south. Aurix could feel Ashlock's wrath, too—they all could.
+
+"I suspect his attention is focused elsewhere," Zephyrine said, stating the obvious. Mobilizing her Qi, the wind around them began to howl. "Come on, I'll get us there by morning."
+
+The three Primal Overlords flew south with the feeling of dread escalating the closer they got to Ashlock. However, before they reached Red Vine Peak, Zephyrine came across a facility she had not seen before, nestled in an immense valley that could have housed an ocean.
+
+She had flown over this valley many times, and it had been a considerable obstacle for the beast tide when it had marched south onto the Celestial Empire.
+
+Yet, this wasn't the valley she remembered.
+
+She slowed and came to a stop at the edge of the valley.
+
+From above, it looked like something had carved order into the wilderness by sheer force of will, robbing it of its natural beauty in favor of industrial practicality. The valley floor had been leveled flat, every ridge and rock formation ground down and hauled away.
+
+Now the valley was occupied by a complex of stone structures, low and wide, connected by pathways of runic formations that glowed faintly in the twilight. Hundreds of enormous hangar bays had been carved directly into the valley's sides, their mouths reinforced with spirit-forged steel and sealed with heavy shutters that bore the Ashfallen Sect's sigil—a red eye.
+
+Several of the shutters stood open, and the amber light spilling out illuminated the shapes of dreadnoughts in various states of repair or construction—hulls of bare metal, arrays being inscribed, and cannons mounted by workers who were far too small to be human.
+
+The Mudcloaks, Zephyrine noted. She hadn't interacted with them much but was aware that the Ashfallen Sect had enslaved a race of monsters to assist Grand Elder Douglas in the immense construction projects ordered by Ashlock.
+
+Darkness shrouded their small forms, but their glowing blue eyes were like fireflies in the night, and their presence was everywhere. Machines the size of titans trudged between scaffolding that rose around every docked ship like elaborate ribcages, and from somewhere deep in the complex came the rhythmic clang of something being hammered into place.
+
+At the center of it all, dwarfing the docked dreadnoughts the way a mountain dwarfs its foothills, was a flagship. It sat not in a hangar or patiently floating in the sky above, like many others, but grounded—eight enormous Ent-like legs of red stone interlaced with roots were folded beneath its hull, stabilizing it against the valley floor. Red bark trees ending in golden-brown leaves covered the surface of the ship, reminding Zephyrine of a mountain near Red Vine Peak that the Mudcloaks had been said to inhabit, and she could tell that one of the trees was in the Monarch Realm.
+
+It had already been shocking enough to find a spirit tree besides the World Tree that was at the level of Ashlock, but out here in a repurposed valley was a Monarch Realm spirit tree?
+
+Zephyrine could feel that the spirit tree had noticed her presence, as the attention of the entire valley seemed to turn to her—including a bulky figure in a well-fitting suit, standing at the edge of the flagship's upper deck, smoking a pipe that released pale blue fumes and leaning on his cane.
+
+Aurix landed behind her with a crack that sent fractures running through the leveled stone. He said nothing for a moment, taking in the sight below. Morthex remained hovering overhead, its six heads swiveling around with interest.
+
+Zephyrine debated for a moment about inviting them to come with her but thought better of it. While nearly at the Monarch Realm, both of them were untrustworthy, and even she didn't wish to offend a Grand Elder under Ashlock unintentionally.
+
+"You two wait here," she said. "I need to speak with the overseer of this place."
+
+She descended past the fleet of waiting airships. The flagship's Monarch Realm spirit tree reacted to her approach, only to be calmed by the figure.
+
+Landing before the figure, she transformed into her human form as it seemed suitable. The figure was Douglas, shadowed by the Monarch spirit tree that towered a hundred meters tall. Its red bark interlaced like copper wire, and the golden brown canopy shimmered with the purest earth Qi.
+
+"Grand Elder Douglas," she said, trying to ignore the spirit tree's barely restrained pressure, "do you know the situation that has enraged Ashlock?"
+
+"Zephyrine, it's good to see you," Douglas said warmly and pointed to the tree with the end of his pipe. "I was just learning about it myself from Geb here, as the Boss left in a hurry after creating this Bastion." Douglas's expression turned grim. "It's not sounding good."
+
+"Well?"
+
+"It would seem Stella has been kidnapped by the Crowned One," Douglas's jaw tightened. "I feared this dark day would befall us, and here it is." He shook his head. "I just hope the heavens and threads of fate know what will come by taking Stella away from the Boss."
+
+The Crowned One got her? Zephyrine cursed silently, rage filling her.
+
+Of the seven ancestors, the Crowned One is the most fearsome in my experience. If he's in charge, that means the Still One was overtaken. I awaited my chance to strike the Empire when the Still One was in power. This is bad. With the Crowned One at the helm, things have gotten complicated.
+
+"Is she still alive?" Zephyrine asked.
+
+The answer didn't come from Douglas. The ground beside him cracked as if something immense was trying to break free from the shackles of the earth. A broad and solid body of packed clay rose and formed beside Douglas, looming over him. Deep cracks ran along its surface, bleeding amber light, and hair formed from loose soul and tangled roots draped around a rough-featured androgynous face with two empty eyes that stared down at her.
+
+"The Princess's disciple assures the forest her master is alive," the golem spoke, its deep voice felt as tremors in the earth before reaching her ears.
+
+Zephyrine breathed a sigh of relief. But they weren't out of the woods just yet. "Does the forest know anything else?" Zephyrine pressed.
+
+Geb was slow to answer. When he did, it came in rolling fragments.
+
+"The offspring rage. The roots speak, but chaos makes them hard to read." A pause, long enough to make Zephyrine irritated. "Floridawn is scarred. The Hellroot Abyss collapsed—it took much with it. No offspring stands closer to the fighting than those, but their words are scattered."
+
+Zephyrine turned to Douglas, hoping for an explanation, but he shook his head.
+
+"I've been out here with the Mudcloaks preparing this facility—the specifics regarding the ongoing war with the Celestial Empire are unknown to me." He turned to Geb. "Any luck getting the Boss to answer?"
+
+"His wrath is clouding his focus," Geb slowly replied. "We are on our own."
+
+"On your own for what?" Zephyrine asked.
+
+Douglas grimaced. "The Boss foresaw a fleet from the Celestial Empire coming to lay waste to his cities and told me to be at the ready. But without a portal, we are stranded here, a few hours away." He paused and seemed impatient. "While this location is far from everything and secret, it's rather inconvenient without the Boss's portals. Most of the sect's strongest members are in the Celestial Empire, leaving our lands vulnerable. My kids..." he trailed off, his gaze hardening. "I need to protect them and their home."
+
+"I can help," Zephyrine offered, sensing the urgency in his voice. "It won't be as fast as the portals, but I can carry the fleet along a roaring gale. We can reach the various cities under Ashlock's control within hours."
+
+"You would do that?" Douglas said, seeming surprised. "What about Stella and the Celestial Empire? Don't they need your help? Not to mention the Qi expenditure of such a thing."
+
+Zephyrine snorted. "So long as Stella draws breath, I trust Ashlock and the members of the Ashfallen Sect to bring that Empire to dust. As for the Qi expenditure, Ashlock can pay me back by sending me into that Eternal Realm I've heard about. Besides, it's on the way."
+
+Douglas bowed deeply. "I won't forget this kindness."
+
+"Get up, we don't have long," Zephyrine reminded him. She began gathering the necessary storm overhead that would carry them swiftly to their destinations.
+
+"You're right." Douglas straightened up. Something shifted in his expression—the easy manner gone, replaced by something harder underneath. He walked past Zephyrine to the edge of the platform without a word, looked down at the flagship's deck, and was quiet for a moment.
+
+Then he drove the gemstone tip of his walking stick into the steel floor.
+
+The impact rang out like a struck bell, and the tremor that followed wasn't from the stick—it was from the earth beneath the valley, answering him. Every Mudcloak on the deck stopped. Those in the hangars stopped. Those on the dreadnoughts overhead stopped. Three thousand pairs of glowing blue eyes turned toward the platform.
+
+Douglas let the silence hold for a moment as he captured everyone's attention.
+
+"The Princess has been taken." He informed them, his voice rolled across the valley like a landslide. "The Empire thinks they've won. They're already sending their airships to finish the job and burn our lands to the ground."
+
+He looked out across all of them.
+
+"But I do not fear them." A pause. "Their airships were built by the hands of humans. They are inferior designs."
+
+Overhead, Zephyrine's storm was gathering, darkening the sky above the valley rim.
+
+"It is time to show them what true air superiority looks like." He raised his walking stick and pointed south. "Mudcloaks—do you answer your king's call for battle?"
+
+What answered him shook the heavens. All the Mudcloaks cheered. They hungered for blood.
+
+"Then I offer a prayer. Not for our victory, as that is already assured." His voice dropped, and he seemed solemn. "I pray for safe passage to the afterlife for our foes, for they will need it."
+
+He brought the stick down with a resounding clang that silenced the world.
+
+"For Ashfallen. For the All-Seeing Eye. For my family's future. We fly."
+
+A blazing column of earth Qi tore into the sky from Geb, and power rippled outward across every surface of the flagship. The ground shuddered beneath Zephyrine's feet.
+
+Then the flagship rose.
+
+The size of a city, it rumbled into the sky and nestled itself within Zephyrine's storm. Its legs, each the size of the surrounding dreadnoughts, rose and surrounded the flagship like prongs of a crown. Earth Qi shimmered between them, forming a barrier that Zephyrine wasn't sure she could punch through.
+
+This flagship was a floating fortress.
+
+"The forest reports that enemy airships have already been sighted on the horizon near Desolark City and House Silverspire's lands," Geb informed them. "The Master's foresight was correct."
+
+Douglas turned and faced them with the decorum of a commander.
+
+"The dark day I've long feared is upon us. While the Empire burns under the Boss's fury, I'll take care of the rest." He glanced to the south with an unreadable expression. "It's about time I repaid the Boss's kindness with nothing short of a resounding victory."
+
+Zephyrine understood the meaning behind his words and compelled the storm to carry the fleet. They would arrive late, but without Ashlock's portals, this was the best they could do.

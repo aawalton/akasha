@@ -1,0 +1,243 @@
+---
+id: 803d3898-2472-536d-a6b4-06049ab3a88d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 511: Invasion (End of Book 8)"
+slug: 0033-chapter-511-invasion-end-of-book-8
+partOf: reborn-as-a-demonic-tree
+position: 33
+ownLength: 2809
+unit: words
+ownProgress: 2809
+publishedAt: 2025-12-10
+link: "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/2836647/chapter-511-invasion-end-of-book-8"
+royalRoadId: "2836647"
+markedReadAt: "2026-06-29T19:02:38.309Z"
+---
+
+[Notice: Elaine, Khaos, undefined, and undefined have exited the Eternal Realm]
+
+Ashlock barely had time to inform Stella of the news before his vision blurred, and he looked within his Inner World at the exit of the Eternal Realm. His anticipation could barely be contained. Just how strong had she become? How were her children? Did the birth go well? If he had to guess, it did, the two undefined people marked by the system message had to be those children.
+
+Elaine was the first to appear out of the celestial fog, having to hunch over so she could be led by two adorable toddlers that couldn't have been more than a few months old. They grasped Elaine's finger and walked at her side. Occasionally, she would have to save one of them from tripping and faceplanting, but honestly, it was baffling to see such a clearly young toddler walking.
+
+The one on Elaine's left was a boy with jet-black hair and eyes, looking around curiously; meanwhile, his twin sister had light brown hair and eyes. Ashlock also noticed that she had freckles decorating her cheeks and, unlike her attentive brother, was busy testing if her own hand was tasty or not.
+
+Khaos appeared a second later, looming over Elaine and the children, standing at a height of three meters. Yet neither toddler seemed disturbed by the void Ent's presence—in fact, the boy glanced back and toothlessly grinned at her.
+
+"Come on, you two," Elaine said, taking in the sights of Ashlock's Inner World, "this is going to be your new home."
+
+"Welcome back, Elaine," Ashlock said directly into her mind, as he was too scared to call on Anubis to act as his mouthpiece and terrify the toddlers. "I see you have brought back two new members to the sect. Congratulations."
+
+Elaine beamed, "Thank you, Patriarch." She then glanced around, "Has Douglas returned yet?"
+
+"He has not."
+
+"Could you bring him back here? He said he was going to focus on getting stronger but wanted to be here when I returned."
+
+"Of course, give me a moment," Ashlock said, and consulted with his system. "Pull Douglas out."
+
+[Understood]
+
+There was a sudden flash of white flames as Stella appeared out of nowhere. She glanced around until she laid eyes on Elaine and the kids.
+
+"Elaine, welcome back!" she said more excitedly than Ashlock had been expecting.
+
+"Hello, Princess," Elaine replied with amusement as Stella dashed over. "Is everything well with you and the sect?"
+
+"Er, yeah. Not bad, all things considered," Stella said as she crouched down and squinted at both of the toddlers. After getting a good look at them, she glanced up at Elaine. "So, how was it?"
+
+"How was... what?" Elaine said, chuckling. "You're going to have to be more specific."
+
+"You know," Stella gestured to the toddlers, "creating these things."
+
+"Well, these adorable 'things,' as you call them, took around three months to develop before I gave birth, which is about average for a cultivator. All I did during pregnancy was cultivate, carefully micromanage the flow of Qi in my body, and try to nurture their development as much as possible."
+
+"Interesting. So creating minions takes around three months. Not too bad," Stella rubbed her chin as she stared into the black-haired boy's eyes. Surprisingly, the toddler just stared back at her without any fear. "Did it hurt?" Stella asked Elaine.
+
+"Childbirth? No, not really. It was quick and more effortless than I had expected, no doubt due to my Star Core Realm cultivation." She lovingly rubbed the tops of her children's heads. "The harder task was getting them to calm down and try cultivating."
+
+Stella's eyes widened. "You already got them to start cultivating?!"
+
+"Of course!" Elaine laughed. "The Qi in there was so dense and high-quality that cultivating was a breeze, even for a newborn. Both of them have reached the mid-stages of the Soul Fire Realm already. Though I really have to thank Khaos." Elaine glanced over her shoulder at the Ent. "Without her help in watching over them while I ascended, it would have been a nightmare."
+
+"Ascended?!" Stella yelled in disbelief.
+
+Elaine smirked, clearly enjoying Stella's utter surprise. "I'm now in the Nascent Soul Realm for my illusion affinity. While the kids were a bit of a handful, I was in there for months and only had to go up a few stages. Surprisingly, my void Qi came in quite helpful during the ascension process in cleanly pulling off a supernova and pulling myself back together."
+
+Stella stood up and looked at Elaine with a hint of awe. "I can't believe it. You, at the Nascent Soul Realm? I never thought..."
+
+"That I'd be strong one day?" Elaine snorted. "To be honest, me neither. However, don't be too impressed. I've pushed my cultivation quite hard, so I'll need to spend some time solidifying my foundation and learning new techniques. Though there is a surprise I want to show you."
+
+"Oh? What is it?" Stella asked.
+
+"Just you wait and see," Elaine said playfully as she stole glances at the Eternal Realm behind her.
+
+[Notice: Douglas has exited the Eternal Realm]
+
+"That was fast," Ashlock mused, but then remembered that with time dilation in play, Douglas was likely given ample time to withdraw from the Eternal Realm while they had their conversation. "I wonder how Douglas is going to react to all of this. He is a tough guy, but he also crumbles when it comes to Elaine."
+
+Douglas confirmed Ashlock's thoughts as he stumbled over himself while running out of the Eternal Realm, and only somewhat calmed down the moment his eyes landed on Elaine. Then, he froze when he noticed the two toddlers staring at him.
+
+"Go on, say hello to your dad," Elaine said, gently pushing the two toddlers forward.
+
+Surprisingly, the girl took the lead. Taking her hand out of her mouth, her eyes narrowed in concentration as she put one foot forward and wobbled her way over to Douglas. The boy needed a few more gentle pushes of encouragement to finally leave his mother's side.
+
+"My children," Douglas said, getting down on one knee to embrace them with tears welling up in his eyes. As he caressed their heads, he glanced up at Elaine with an indescribable smile. "I'm... a father now."
+
+Elaine nodded. "They've been excited to meet you."
+
+He lovingly looked down at the twins. "Have you named them yet?"
+
+"As we agreed, I have already named the boy. His name is Talon," Elaine replied. "It's your choice what our adorable daughter's name will be, as she inherited your affinity."
+
+Douglas looked down and met the toddler's eyes, which sparkled as if she knew what was happening and was anticipating her name.
+
+"Phew, this is a lot of pressure," Douglas chuckled nervously. "Luckily, I had quite a while to think of a suitable one, and now looking into your eyes, I'm certain of the name." He tapped her nose. "Your name will be Hazel. What do you think? Do ya like it?"
+
+The girl dumbly nodded and buried her head in his chest.
+
+"I'm so glad ya love it, my little munchkin," Douglas said, hugging her tightly. Not forgetting about Talon, he focused on him next. "Your mother picked a manly name for you, son," he said, patting his head with a grin. "You should carry it with pride." Talon just mutely nodded in response to his father's love.
+
+Standing up, his attention was now entirely on Elaine. "Now, for something I should have done a long time ago." His expression turned terribly serious as he fished out a small wooden box from his brown suit pocket.
+
+"Erm, now isn't the best time..." Elaine said, seeming conflicted for some reason—yet Douglas pressed on.
+
+"Elaine, we've spoken about this for a while now, and you know there's nobody else I'd want to spend eternity with." He got down on one knee and gently opened the box, revealing a beautifully crafted ring encrusted with a perfectly sized diamond. "Elaine Voidmind, will you become my wife—"
+
+Elaine faded into nothingness.
+
+Ashlock felt his mind break at the scene. Douglas just stared forward, unblinking at the sight of Elaine vanishing. Talon and Hazel both began to cry, their howls filling the void left behind.
+
+"Huh?!" Stella said, breaking the stunned stillness. "Where did she go?!"
+
+Douglas was also understandably perplexed. Standing up with a distraught expression, he glanced around in panic. "Elaine? Was it too soon? Did you dislike the ring or the name I picked for Hazel? I'm sorr—"
+
+Elaine suddenly appeared out of the void behind Douglas. She leapt onto his back and wrapped her arms around his wide frame like a koala embracing a tree.
+
+"You have nothing to apologize for," Elaine said, "I just wanted to show off my new Nascent Soul Realm illusion technique, and the timing was a little awkward."
+
+Relief washed over Douglas's tense expression. "So..."
+
+"Do you really need to ask? Of course, my answer is yes, you big oaf!" She fished her arm around him and displayed her ring finger. He absentmindedly took the ring out of the box and slid it onto her finger as if his brain wasn't catching up to the situation.
+
+Elaine looked at her finger over Douglas's shoulder, grinning from ear to ear. "I love it, darling. Did you get this gem yourself?"
+
+He nodded. "I fought a gemstone drake to the death for it."
+
+"How romantic," she said, kissing his neck. "Thank you."
+
+"Sorry to ruin the mood," Stella said, stepping before Elaine, "but can I ask how you did that illusion technique? I didn't know that was an illusion at all, and I can't wrap my head around how you did it?"
+
+"Me neither," Ashlock shamefully admitted. Despite the whole incident occurring inside his own Inner World, he hadn't seen it coming.
+
+"Well," Elaine said, unlinking herself from Douglas, "we already knew void and illusion Qi are quite a good combo, and it gets even crazier once I have an infant soul that I can use to inhabit the illusions."
+
+"Your infant soul, of course," Stella nodded as if that made sense. "When did you switch?"
+
+"The moment I left the Eternal Realm. What you were speaking to was an illusion, while I was over there behind that rock," she gestured a hundred meters away to a random rock jutting out from the mountainside. "By using void Qi, I'm able to mask my presence despite being so nearby."
+
+"Wait—darling, you gave birth and made it to the Nascent Soul Realm?!" Douglas said in disbelief and looked down, feigning sadness. "Now I'm not so proud of barely managing to reach the Nascent Soul Realm."
+
+Elaine pinched Douglas's ear. "Are you trying to suggest that your wife outshining you is something unexpected?! Huh?"
+
+"No... I," Douglas began, trying to find the correct response.
+
+"Don't feel bad, Douglas, I outshine you too! As do many others. It's nothing to be too down about," Stella added, only making Douglas groan in annoyance. "Anyway, when is the wedding going to be?"
+
+Douglas and Elaine exchanged a glance.
+
+"That's a good question," Douglas mused, likely glad the conversation topic had changed.
+
+"I want it to be after the war with the Celestial Empire is over and the Ashfallen Sect rules the land," Elaine insisted, pulling the twins to her side. "Until then, I'll be planning the wedding on the side. What do you think, husband?"
+
+"After the war? Oh yeah, sure," he nodded, seemingly happy with the idea of not having to immediately think about it.
+
+"Then that's settled," Elaine chirped as she inspected her ring. "I really love this, Douglas. It's so pretty."
+
+Douglas grinned and hugged her again.
+
+"Well, I'll leave you two alone now. I've got a lot of sleep to catch up on," Stella said, yawning and turning to leave.
+
+"Oh? What could possibly tire the Princess?" Elaine asked curiously. "I doubt many meetings could have occurred while I was gone..."
+
+Stella flinched. "Nothing much, I was just watching over your class for a few weeks and um, giving them some guidance."
+
+Elaine's face instantly paled. "Stella... what did you do to my elites?"
+
+"Nothing much, honest. Just a few weeks in a forest and a training exercise. If any of them mention an execution, just know that was a joke. Anyway, I really must be off. Bye!" Stella vanished in a flash of white flames before Elaine could say another word.
+
+"I swear if she hurt them..." Elaine narrowed her eyes.
+
+"Jasmine is in the elite class, right? I'm sure you have nothing to worry about with her watching over her Master," Douglas reminded her.
+
+"I suppose you're right," Elaine relaxed somewhat. "Jasmine has a good head on her shoulders."
+
+"You two should leave with the kids," Ashlock said into Elaine's mind. "I'm about to receive a lot of Qi, and I don't know what is going to happen here in my Inner World if I reach the boundary of the Monarch Realm."
+
+Opening a portal before them, the two nodded at each other.
+
+"Okay, we will go then. But I just wanted to thank you from the bottom of my heart for letting me use the Eternal Realm, Patriarch!" Elaine said before ushering a curious Talon and Hazel through the portal.
+
+"You're welcome."
+
+"Yeah, me too, Boss!"
+
+"Douglas, report for work tomorrow. A lot has piled up in your absence."
+
+Douglas winced. "You got it, Boss..."
+
+"Now go, enjoy your rest."
+
+The two promptly left, and Ashlock closed the portal behind them.
+
+"Now, let's see. Over the last month, by drawing deeply from the World Tree and spending most of my time sleeping under the nine moons, I was able to push my cultivation even further. Will the Qi from the last month in the Eternal Realm be enough to push me to the elusive peak of the 9th stage, so I can become a true Monarch?"
+
+[Comprehension of void dao has increased]
+
+[Comprehension of illusion dao has increased]
+
+[Comprehension of earth dao has increased]
+
+"Ah, here it is!" Ashlock felt a sudden rush of Qi flood into his soul. His entire Inner World shuddered with power, causing a storm of golden lightning to crackle across Ashlock's Inner World until another system message eventually appeared.
+
+[You have reached the threshold for the Monarch Realm]
+
+Ashlock stared at the system message floating in his mind. Despite somewhat expecting it, he was still in disbelief. Him? At the Monarch Realm? Was this a dream?
+
+However, he was merely at the threshold, and if his ascension to the Nascent Soul Realm was anything to go by, his system would want him to complete a list of tasks. As he expected, the dreaded system message appeared.
+
+[Monarch Realm ascension requirements:
+
+Possess an Inner World: 1/1
+
+Comprehend Desolation Law: 63%
+
+Devour the souls of nine Monarch Realm beings: 0/9]
+
+The list was far shorter than he expected, and he already possessed the first of the three. However, comprehending the law of Desolation Qi was no easy feat, as he required intimate knowledge of dozens of different affinities. "Thankfully, the Eternal Realm can help me with that, but I also have to devour nine Monarch Realm souls? Doesn't that basically set me on a warpath with the Celestial Empire, no matter what? I doubt there are nine other Monarch Realms on this layer of creation... unless I resort to eating my own sect members?"
+
+On that morbid thought, the system message changed to one that lifted his mood.
+
+[Rewards:
+
+Ascend to Monarch Realm
+
+Unlock a suitable Monarch Domain
+
+Initiate the Era of Ascension]
+
+Ashlock focused on that third reward—the Era of Ascension. The event that was orchestrated by the previous World Trees to link the layers of creation and rise toward the heavens.
+
+Except this time, it would be a demonic tree doing the honors. But didn’t the World Tree have to be at the peak of the Monarch Realm to pull that off? How come he could initiate it so soon?
+
+The answer was no doubt system fuckery. He had an Inner World as Nascent Soul Realm after all.
+
+Ashlock dismissed the system messages and left his Inner World. While looking at the distant horizon, he mused to himself.
+
+"All is going to plan. My roots are rapidly expanding along the leyline toward the Celestial Empire. It won't be long until they make contact with the outermost territories of the Celestial Empire, and the citizens begin to grow aware of my encroaching presence. While their leaders find their precious golden sap rotten, chaos will ensue, as the Empire faces a threat it cannot understand."
+
+Ashlock chuckled.
+
+"After all, nobody will expect the culprit toppling an Empire to be a tree."
+
+= End of Book 8 =

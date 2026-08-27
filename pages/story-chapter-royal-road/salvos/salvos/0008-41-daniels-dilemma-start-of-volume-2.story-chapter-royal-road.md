@@ -1,0 +1,145 @@
+---
+id: ee7ac656-e199-51d7-b7d5-9dcda3ecdf01
+page-type-slug: story-chapter-royal-road
+title: "41. Daniel's Dilemma (Start of Volume 2)"
+slug: 0008-41-daniels-dilemma-start-of-volume-2
+partOf: salvos
+position: 8
+ownLength: 1828
+unit: words
+publishedAt: 2021-01-25
+link: "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/619938/41-daniels-dilemma-start-of-volume-2"
+royalRoadId: "619938"
+---
+
+41. Daniel's Dilemma
+
+Daniel blinked his bleary brown eyes as beams from the sun seeped into the room through the blinds of the window. He got up with a sigh, clutching at the invisible wound on his side. He wasn’t hurt— no, there was only the vague feeling of an injury there.
+
+The black haired man had been burned, bruised, and cut up by the Greater Demon called Lucerna, and yet, with healing potions he was now left without so much of a scratch. Well, at least physically he was fine. Mentally speaking, he wasn’t really sure how he felt. Sure, he was ok now, but wasn’t he on the cusp of death just yesterday?
+
+It was a strange thing to think about— it was something that sometimes kept him up. He had never thought that it would ever be possible to recover from that much blood loss. And yet, he continued fighting. He had been able to pick himself up from the rubble and rocks with a nearly broken body, and healed himself completely with the last of the healing potions Salvos had given him. Then Mistshard picked him up, carrying him to the battlements where Druma was already at.
+
+After that, everything had been a blur. They managed to catch Lucerna in their trap, strangling him until his neck or spine broke. Daniel wasn’t even sure if Demon’s had spines, but something happened to paralyze the [Djinn]. With that, Edithe finally got her revenge, and Salvos her answer:
+
+She can’t return to the Netherworld.
+
+The young man remembered seeing her face when she heard that. He had never seen her look so shocked since he met her; even as he got out of bed, he couldn’t help but feel apprehensive about seeing her in the common room of the inn.
+
+He packed his things and got dressed as worrying thoughts raced through his mind. Will she still be broken up about it? Will she be even more confused than before? Will she be lost, without a clue on what to do? Or will she…
+
+Daniel hesitated, chewing his lowering lip as he considered the last possibility.
+
+Will she hate you, for lying to her? You promised her, after all. You said you would help bring her back to the Netherworld, and now she thinks it’s impossible. She might even kill you—
+
+He shook his head and pushed the door to his room open. That wouldn’t happen; Salvos was not the kind of Demon— or uh, person— to attack someone unprovoked. She had made it extremely clear. Daniel tried to reassure himself as he walked down the stairs. And yet, the thought remained: what if Salvos went mad? What if she had some kind of Demon instincts within her that suddenly took over? What if those ‘wild Demons’ she talked about were really the true forms of a Demon, and he would come down to find a bloodied inn—
+
+“Took you long enough!”
+
+Salvos marched up to the young man and jabbed a finger at his chest. He blinked as he looked her over.
+
+“How long do you Humans need to sleep? Seriously, the sun is already high up in the sky! You must have slept for, uh… 200 hours!”
+
+“That’s… I don’t think there’s that many hours in a day, Salvos.”
+
+Edithe sighed as she walked up to the two. The red haired [Summoner] dressed in her usual robes placed a hand on the Demon’s shoulder and lowered it.
+
+“Give us a break. And don’t be so loud. I know the innkeeper is out right now, but what if someone passing by hears us?”
+
+“Don’t worry. They won’t suspect a thing.”
+
+Salvos grinned and twirled around. The cloak that used to loosely hang over her shoulder was now almost a proper fit to her body, its hood no longer masking her face too. Daniel just stared at her as she turned to a stop.
+
+“I look just like a Human now, see? You think so too, right Daniel? Uh… Daniel?”
+
+She cocked her head and Daniel blinked. He quickly turned his gaze to the wooden floorboards as he felt his face burn up.
+
+“Yeah… you do.”
+
+Previously, Salvos had an impish look to her. She had been short, not even up to his shoulders at five foot two inches. Her skin was pale— almost like that of a dead body, which was hardly her most inhuman feature. She lacked any… parts, for the most part. She had no chest, and nothing below her waist. It had reminded him of the most simple and plain mannequins, ones that only had the vague shape of a woman— he thought she had been more androgynous than anything. And that was everything about her that had even seemed ‘Human’.
+
+Seeing her clearly back then, it was unmistakable she was a Demon. Two small horns had protruded from her gray-silver hair. Her face had been rather rotund, without much of a jawline under her sharp teeth. And while her black nail-like claws were not that terrifyingly long and usually hidden under her cloak, Daniel had seen what they could do and he didn’t want any of it.
+
+But now, after her recent evolution, he was staring at a Human woman standing on a pair of long, sculpted legs letting the top of her head reach past his chin. Her waist was tapered, curving up to a slim figure that would draw all eyes— male or female— to it out of lust or envy. She had her arms folded across her chest, which now had the men’s shirt wrapping around it tighter than the loose garments of before.
+
+Her golden eyes were enchanting, almost like there was something magical to it— in fact, there probably was something magical to it. Her chin was sharper too, like a sleek steel knife after it had been delicately washed and polished. When she curled her fuschia-pink lips up, Daniel could almost see his own reflection on her mirror-like pearly whites. And he only saw himself gawking.
+
+Salvos no longer had anything about her that screamed ‘Demon’. Her hands were normal— she had no claws, no sharp nails. She even now had a pale-olive skin complexion that matched how alive she normally carried herself.
+
+Daniel caught himself as she nodded, eagerly turning to Edithe.
+
+“See? I told you.”
+
+Edithe simply gave Daniel a judging look which he tried to ignore. He failed, feeling the embarrassment take over. Fortunately for him, Salvos didn’t pick up on this, instead spinning around and heading out of the inn.
+
+“Come on, Betty and Chase are waiting for us! I can’t wait to race them back to Hazelbury and beat them again. I’m much faster now, you know?”
+
+The two exchanged a glance. Daniel shook her head and Edithe just rubbed the bridge of her nose. She hasn’t changed at all, huh? He followed after her, scratching the back of his head.
+
+“You know, Salvos, since we don’t need either Druma or Mistshard to be with us now, you can just always ride on the horse with us.”
+
+“With me.”
+
+Edithe shot him a sharp look and he blushed.
+
+“I didn’t mean it like that, but yeah. You’ve already proved yourself faster than them, right?”
+
+“Huh. I didn’t think of that.”
+
+Salvos paused, thoughtfully tapping a hand on her chin. The three continued down the busy streets of Silvergrove. People were up and about, already trying to rebuild their city from the destruction caused by Lucerna’s attack.
+
+A few faces turned to them, pointing and whispering to each other. However, none approached them, which Daniel was grateful for. He wasn’t really someone who could handle too much attention, although Salvos seemed to be the opposite.
+
+She noticed the hushed conversation and nodded in the direction of a group of carpenters. Immediately, they quietened. Salvos scowled, before turning back as she heard a chuckle.
+
+“What?”
+
+Edithe suppressed an amused look.
+
+“Nothing.”
+
+Salvos raised a brow but said nothing more. They finally reached the stable holding their horses and saddled on to leave the city. There would be no celebrations today— there had already been plenty on the days before. But now, they needed to go back to Hazelbury… mostly to return the horses they borrowed from a stable in the other city. And once they were back in Hazelbury—
+
+Daniel frowned, looking over at Salvos.
+
+“So, uh… what will you be doing now?”
+
+She glanced back over at him, seating behind Edithe.
+
+“What do you mean?”
+
+“You know, you can’t… go back to the Netherworld, right? So what will you be doing?”
+
+Salvos blinked a few times, registering his words.
+
+“I can’t go back? Why not?”
+
+“Lucerna said you can’t. He said you needed a summoning collar, and you don’t have one. So…”
+
+He trailed off, wondering if he made it awkward. Why did you have to bring that up? Moron! However, Salvos didn’t seem offended by it. Instead, she scoffed.
+
+“If Lucerna says I can’t go back without one of those summoning collar thingies, then I just have to get one, don’t I?”
+
+“I… I don’t think it’ll be that simple.”
+
+She shrugged and turned away from him.
+
+“I didn’t say it will be simple. I said I just have to do it. I like this place— the Mortal Realm. But I need to return to the Netherworld. Haec is there. He can wait a little longer, but not forever.”
+
+“And Haec is…”
+
+“My companion.”
+
+Salvos spoke simply, as if that told him was supposed to tell him everything he needed to know. And maybe Salvos thought it was enough— that this ‘Haec’ was reason enough to try so hard to go back to the Netherworld. But honestly, was there a need for a deep reason to want to go back home?
+
+Daniel didn’t think so. In fact, he thought he understood how Salvos felt. She might not see it in the same way he does, but the fact of the matter was that the Netherworld is her home. Of course she would want to go back. He smiled.
+
+“Well, it’s probably going to be difficult is all I’m saying. But I made you a promise, and I’m going to keep it.”
+
+Salvos nodded as if she hadn’t expected him to say anything otherwise. And maybe for her, it seemed that way. He told her he would help her, and he had done so thus far— why would he suddenly change his mind?
+
+That was something she was going to have to learn about Humans— or well, mortals— from spending more time in the Mortal Realm. But for now, Daniel would help her in her quest to go back home.
+
+It was not for any particular reason. He just understood the feeling— he could empathize with her. The longing to return to where you belonged was something he knew all too well.
+
+After all, he was a [Hero] from another world.

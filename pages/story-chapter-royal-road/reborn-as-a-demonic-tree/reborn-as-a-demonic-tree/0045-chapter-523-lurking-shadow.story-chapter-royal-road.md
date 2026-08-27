@@ -1,0 +1,129 @@
+---
+id: 07d6e158-ff7c-500c-9070-1bb793735c70
+page-type-slug: story-chapter-royal-road
+title: "Chapter 523: Lurking Shadow "
+slug: 0045-chapter-523-lurking-shadow
+partOf: reborn-as-a-demonic-tree
+position: 45
+ownLength: 2390
+unit: words
+ownProgress: 2390
+publishedAt: 2026-01-09
+link: "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/2927547/chapter-523-lurking-shadow"
+royalRoadId: "2927547"
+markedReadAt: "2026-06-29T19:03:03.704Z"
+---
+
+Ashlock was impressed by Thane's deductions and smooth talking as he watched his actions through Anubis, hiding in his shadow. Firstly, it seemed the man had figured out his plan to kill the Monarchs of the Celestial Empire through his mutterings, and he had to admit that the fabricated lie about the totem being a bomb to Cyphion exceeded his expectations.
+
+Now, a more hot-headed cultivator witnessing this lie unfold before them might have directed Anubis to rise out of the shadows and kill Thane before he reached Faelorian Lysanthos's door in fear of losing control of the situation. But not Ashlock—he understood human nature. Thane wanted to live, and to do that, he had to free himself from being a loose end that needed eliminating. Which was perfect for Ashlock. To save himself, Thane was indirectly helping him. That much he was sure of, so all he had to do now was sit back and watch as this seemingly unimportant smooth-talking cultivator wove a web of lies that would eventually bring about the fall of the Empire.
+
+"Though, is he really that unimportant? If anything, he could be the most dangerous man in the whole Empire," Ashlock mused to himself as Thane shot through the sky toward the largest estate built high upon the World Tree's root.
+
+Thane had a smirk adorning his lips and didn't seem the slightest bit worried about having to knock on the door of the Flower Accord's leader.
+
+Ashlock considered the man more deeply. "With great power comes the scrutiny of others. Any actions taken by the other Monarchs in the Empire will no doubt be reported on and carefully monitored. But not Thane, he's too weak to have his actions deemed important, allowing him to act freely. However, he doesn't seem to be held back by his cultivation. Despite his weakness, he's a smooth talker and was referred to as an old friend by Cyphion, suggesting he has a long history of interacting with Monarchs, which means they will listen to him. He's not a nobody, yet still insignificant enough to fly under the radar. What a dangerous fellow I've found."
+
+Ashlock honestly couldn't believe how lucky he was to find such a valuable pawn. He had intended to use Cyphion to weave this web of lies to trap the other Council members, but he now realized he had picked too high-hanging fruit. Despite not being the leader of Floridawn, Cyphion was still one of the Monarchs and resembled a bird trapped in a cage. Even with immense power, he was unable to leave the city by himself without inviting the ire of the Chairman, and other Monarchs would suspect anything he claimed as a possible trap.
+
+"Is this true for me as well?" Ashlock wondered. "No, I don't think so. Unlike the Celestial Empire, which is fragmented between factions of almost equal strength, I rule over the Ashfallen Sect as its absolute power. Without me, there is no Ashfallen Sect, so even if I'm not the strongest in terms of cultivation level, nobody would oppose me."
+
+He paused. Could such arrogance lead to his downfall? Who was to say a faction opposed to him couldn't rise up within the sect? Hell, for all he knew, the Mudcloaks could be gearing up for a revolution right now, and he would have no idea. There was also the matter of all his satellite cities that he now controlled, which could be breeding grounds for revolutionists, especially Desolark City. It was the largest yet least monitored city because it was so new and far away from him.
+
+However, he did have his persona as the All-Seeing Eye protecting him, and the rumors of what the Slaughter Princess did to traitors no doubt sat in the back of many people's minds. While he didn't want to be known as a tyrant, he had to admit that being feared worked well for keeping people in line.
+
+His wandering thoughts were dismissed as Thane had finally made the long journey from the gate to the residence of Councilman Faelorian Lysanthos. The grandeur of the place aside, Ashlock could feel the sheer presence of the man blanketing the whole region.
+
+"Halt. State your name," a guard at the final gate asked. Until now, not a single guard or defensive array had triggered a response to Thane's presence, further showing how trusted he was.
+
+"Thane," he said smoothly, "I've come on the request of Councilman Cyphion to invite Councilman Faelorian Lysanthos for an urgent meeting."
+
+"Thane?" the man, who was no doubt in the Nascent Soul Realm, raised a brow. "Aren't you supposed to be in exile?"
+
+"I was," Thane replied, then gestured behind him at the encroaching desolation. "But extraneous circumstances have cut my exile short."
+
+"Is that so?" the guard said, studying Thane for a moment longer. Eventually, the guard shrugged and stepped aside to let him pass. "The Lord is inside," he said, clearly not deeming the man a threat worth stopping.
+
+Thane cupped his hands and gave a half-bow. "Thank you." Heading inside the grand foyer of the home, he skillfully navigated to a meeting room as if he had gone there hundreds of times. Not daring to take a seat, he stood there respectfully in silence, the Lord of the house no doubt aware of his presence.
+
+Ashlock took the time to analyze the surroundings. The palace was a seamless blend of nature and the style of an ancient Roman aristocrat's home, featuring large foyers, courtyards, and statues. There was hardly any stone used in the construction, giving the whole place the feel of a living entity made from wood and flora.
+
+Overall, Ashlock greatly approved of the place's design and found himself impressed.
+
+After around an hour of patiently waiting, the far wall yawned open, and a man slithered through on a shifting mass of dark green vines. His slicked-back white hair and gentle smile barely managed to pull one's attention away from his elegant robe. It was a subtle purple embroidered with intricate golden floral patterns that shimmered faintly in the room's light. As with Cyphion, there was a personal flower on his chest—a Silverthorn lily, a pristine white flower with subtle, thorn-like veins of silver that ran through its petals.
+
+"Thane, I didn't think you would dare to show your face to me again."
+
+Despite Faelorian's pleasant smile and delivery, Ashlock felt a chill from those words. There was a subtle threat woven into the pleasantries.
+
+"Does being exiled mean so little nowadays?" Faelorian continued, shifting through the room toward Thane. "Perhaps I should exile you to the afterlife to permanently rid this world of you."
+
+Thane paled and bowed deeply. "Your Lordship, I have come to bargain for a pardon."
+
+Faelorian's pleasant smile twisted into a frown, and everything about his overly pleasant demeanor darkened in an instant. "As much as I despise you, the Thane I knew of was no fool," his eyes narrowed. "And you don't seem to have a death wish. Spit it out, what is it you dare to bargain for an end to your exile?"
+
+"I have information. Valuable information, might I add, regarding the encroaching destruction and a plot against you by Councilman Cyphion."
+
+Faelorian paused, his curiosity clearly piqued. Ashlock almost let out a sigh from Thane's shadow. How did Thane make it look so easy to grab the curiosity of Monarchs?
+
+"Valuable information, you say? I fail to see how an exiled sculptor like you could have more profound insights into the desolation Qi infesting our lands than I or the other Councilmen. As for a plot against me?" A chuckle escaped Faelorian's lips. "When is that bastard not scheming against me? Centuries of schemes and attempts have not worked. What would change this time?"
+
+Ashlock now saw why it was Faelorian that sat at the peak of Floridawn and not Cyphion. Just from the instant skepticism and unwillingness to seem eager, he could tell that Faelorian was a man who was used to ruling over a nest of snakes.
+
+"He has sided with an evil god," Thane said, making Faelorian pause.
+
+"An evil god?" Faelorian said, skepticism practically dripping from his words. "I highly doubt that. Contracts with gods, while powerful, require one to pledge their soul to the god in exchange. Cyphion is a power-hungry fool, but even he wouldn't stoop that low to rely on borrowed power."
+
+Thane shook his head. "Not a contract as far as I know, but a partnership. The desolation rolling through Floridawn is the work of that evil god."
+
+"Partnership? With a god... an evil god no less?" Faelorian snorted and seemed to be at the end of his patience as he loomed closer. "One does not simply speak with a god and become friends, Thane. Not to mention someone incapable of leaving the Celestial Empire. If a god descended and was asking for friends, I'd no doubt have been aware of it—"
+
+"What caused Cyphion to be grounded in Floridawn?"
+
+Faelorian's expression darkened further at being interrupted by Thane. Still, he answered, "His ties to the death of fifty enforcers under his watch while out in the wilderness seeking out Stella Crestfallen."
+
+"Do you know how or why the fifty enforcers were killed?"
+
+Faelorian considered Thane's point for a moment, and Ashlock was also curious about the Monarch's answer. He remembered that day well, as they stormed the Silverspire estate and massacred every last one of them. He hadn't really considered the implications of that slaughter until now, but he had assumed it wasn't a big deal. Though clearly, even to the Celestial Empire, the loss of fifty well-trained cultivators was no doubt a significant blow, apparently enough to have a Monarch Realm grounded over.
+
+"No, we do not know the reason," Faelorian replied after a moment. "Cyphion offered no explanation as he had briefly returned to the Celestial Empire at the time of the incident. Without any proof of being directly responsible, the Chairman grounded Cyphion on account of neglect while on a mission."
+
+"Oh..." Thane blinked and looked disappointed.
+
+Faelorian raised a brow. "What?"
+
+Thane shrugged. "I just thought someone of your status would be aware of the truth."
+
+"Nobody knows the truth—"
+
+"I do."
+
+In an instant, both Thane and Ashlock knew that it had been the wrong answer by Faelorian's abrupt shift in mood.
+
+"You're testing my patience!" Faelorian roared as a root erupted from behind Thane in a shower of splinters, coiling around his throat like a living serpent as the room abruptly came to life, mirroring its Lord's rage. The wooden floor convulsed before splitting open as roots lashed out in all directions. Furniture shattered against the walls. The ceiling warped as vines burst from the walls, writhing as if the room itself was seeking out Thane. Yet right as he was going to be devoured, the hundreds of vines paused an inch away from Thane's skin before slowly reeling back to where they had come. Faelorian relaxed, at least somewhat. But the lingering bloodlust hadn't faded from his eyes. He was furious.
+
+"Tell me," was all he said, hurling Thane to the ground by the neck—the man bounced with a sickening crunch. Faelorian didn't care as he pressed on. "What is the supposed truth, Thane?"
+
+Thane was a trembling mess as he coughed violently while gasping for air. A deep red mark was left on his neck where the vine had been only seconds ago, and it seemed his arm was broken.
+
+"It's..." he wheezed, desperate for breath, but Faelorian didn't seem in the mood to give him time to recover as the Monarch towered over him with a twisted expression. "It's... the truth... Cyphion met the evil god out in the wilderness. Its name is... the All-Seeing Eye." His face was going red turning from a lack of breath, but he persevered. "Cyphion mentioned being a fan of the evil god and fascinated with their desolation Qi. However, he was forced to flee after accidentally stealing the evil god's sword. He left those fifty enforcers to guard the demon sword, and that's how they died."
+
+"What a fairytale. I don't believe you," Faelorian sneered.
+
+"If you don't believe me, talk to Cyphion. He will try to take you to a random mountain, claiming it's a meeting spot with the evil god. Which isn't false, but what he won't tell you is that it's a sacrificial altar to the evil god with the power to kill a Monarch. He wants to bring you there as a sacrifice, just like he did with those fifty enforcers."
+
+"A sacrificial altar that can kill a Monarch?" Faelorian laughed while running a hand through his hair. "How ridiculous."
+
+"I'm serious. Cyphion wants to take you there to kill you. If you decline, I promise he will seek other Councilmen to take your place. If you go there, aware of the altar's danger, you could use its power to take out anyone you wish and can even pin all the blame on Cyphion."
+
+"What a convenient little plan you have come up with for me, Thane, and here I thought we hated one another," Faelorian mused, placing a foot on Thane's back. "Where is this supposed Monarch-killing altar?"
+
+"The All-Seeing Eye gave Cyphion the coordinates in a jade, and he implanted them in my mind and had me check it out personally. If you want them, you will have to get them out of Cyphion. Or I could take you there, but that might make Cyphion suspicious."
+
+"I see," Faelorian said and dragged Thane to his feet with a root. "It appears I will have to pay my old foe a visit to verify your words. If you speak the truth, I may consider pardoning your exile. But if I find out you are a pawn of Cyphion..."
+
+Thane gulped. "My Lord, I wouldn't dare! Only you have the power to bring me out of exile as the leader of the Flower Accord. Cyphion is nothing compared to you."
+
+"Sweet words don't sway me, only results." Faelorian paused and suddenly looked toward Thane's shadow. The abruptness of the action and the sudden look of alertness on the Monarch's previously wrathful face indicated one thing.
+
+He had noticed Anubis lurking in Thane's shadow.

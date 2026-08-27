@@ -1,0 +1,93 @@
+---
+id: c444d5ed-79d6-5c11-a35f-e9d47b6a5b8d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 193: Turmoil"
+slug: 0195-chapter-193-turmoil
+partOf: savage-divinity
+position: 195
+ownLength: 3048
+unit: words
+publishedAt: 2017-04-10
+link: "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/129130/chapter-193-turmoil"
+royalRoadId: "129130"
+---
+
+The rising sun set the world awash in an orange-red glow as far as the eye could see. A beautiful sight to behold, as if the world were aflame, Gen basked in its glory while running towards his destiny, using the journey to reflect on the past few weeks. Though his muscles ached and lungs burned from running for days on end, he felt more awake and lucid than ever before. Since opening his mind to the truth, he’d found life filled with one pleasant surprise after another, aching to discover more hidden pleasures and unknown joys.
+
+Freed from the stifling constraints of Balance, he’d indulged his every whim. Feasting, fucking, and fighting, he’d revelled in his newfound liberation for days, falling to debauchery and depravity at a moments notice. Finding Vithar and his northern kin had been a boon from the heavens, their mysterious friend speaking through Bei and convincing the barbarian to join with them. True Enlightened, these north-men were hardy folk and their Devotions were inspired, opening a whole new world for Gen to enjoy.
+
+Oh how wonderful those few days had been, but now there was work to be done. Gen wasn’t a selfish man, quite the opposite in fact, he hoped to share his bounty with the world at large and free the masses from their miserable existences. In less than a month, he’d travelled further than anyone in three generations of his family, all without leaving the Sanshu region. How wonderful if everyone could share in the pleasures so readily available, like the simple act of moving through the wilderness without fear for their safety. His vigorous boat ride on Western Treasures Lake gave him time to bond with Laughing Dragon, brothers in all but blood now, though the former bandit was still sour over  his loss of leadership. Exploring the island fortress held by the Butcher Bay Bandits was a dream come true, meeting the people behind the names he'd so come to fear. Greeted by the Red Devil himself, Gen soon found himself shaking hands with the likes of Black Heart Nazier, Hideous Helvend, Viper Pang and more, all legends in their own right.
+
+After a few days of celebrating, for the first time in his life, he’d left the lake behind and journeyed into the world with his comrades at his side. Travelling out of the verdant forests and into the rolling hills of the Golden Highlands, their towering majesty filled him with awe. Now, he ran across the vast plains and flat roads of Sanshu, able to see for kilometres in every direction, the world ever changing around him.
+
+This was true freedom, the was what it meant to be alive. Such a pitiful existence he’d led before, too embarrassing to even think about. Crawling through the dark forests while scanning every shadow, terrified of what lay within yet still praying the heavens would provide a hare or duck on which to feast on. Then there were the days when he returned in failure, forced to grub through sand and dirt for clams and roots, wary of the churning white waters and never daring to dive too far beneath them. After that, he'd come home to a ramshackle hut in a shabby village, dreaming of mediocrity and subsistence, of lording over those even less fortunate than he, such was his life.
+
+No more. No, Gen was reborn, purified in the flames, reforged as a warrior. He wasn’t foolish enough to believe himself unparalleled, in fact, among his new comrades, his strength ranked closer to the end than the middle, trailing far behind Yo Ling’s elites not to mention Vithar and his mounted Enlightened. After being welcomed by the Butchers, Gen spent some time sparring and training under Yo Ling’s watchful eye, his skills growing with every encounter and the older bandit's well-worded advice, but all his efforts only taught him there was still much to learn.
+
+There was no time for leisurely training, no the world ached for liberation and Gen would train in true battle. Reunited with Bei once more, he fought against the soldiers of the Mongrel Emperor alongside the Bandits, Vithar's tribesmen, and a steady stream of Enlightened who joined them from the surrounding areas. So many of them, some gathered by Bei while others following the Spirit's clarion call to battle, man, woman and child alike. These were his people, his kin, former peasants who’d seen the light. Dissatisfied with the status quo, they shared his desire for chaos and destruction. Sick of persecution, they joined him in his quest to spread the truth, looking to him for leadership, a young man much like themselves, yet stood shoulder to shoulder with giants. Soon, the world would come to learn Balance was a lie and the Heavens helped those who helped themselves. Then, even more would find Enlightenment and join the cause.
+
+As morning turned to afternoon, he caught his first glimpse of Sanshu in the distance. So far away yet still visible, the towering sandstone walls seemed sturdy as the mountains themselves, eternal and impenetrable. Smooth and rounded, they seemed to reach into the clouds themselves, displaying a multitude of colourful pennants and banners flapping in the wind. A man-made marvel, the walls offered its inhabitants a safety and security he’d never known, filling him with rage at the inequality of it all. But for a quirk of fate, those people were given succour and comfort while he’d lived like a dog in the wilds, a grave injustice he would set right. Together with his Enlightened, they would tear down those walls and raze the city to the ground, freeing its inhabitants from the shackles of mediocrity.
+
+First Sanshu, then the Province, then the world.
+
+Even though he was filled with disdain, his heart swelled with pride as he approached the city several hours later. With Bei at his side, the milling mass of warriors waited to be let in, ignoring the odd stone or arrow arcing from the walls. His beautiful wife caught the eye of every man and woman around them, but he paid it no heed. She was a good wife, loyal and subservient, and instead of giving in to his jealousy, he turned his attentions to the gates of Sanshu. The heavy double-doors stood open, each one at least six wagons wide and taller than a dozen men stacked together, yet still there wasn’t enough room for all his comrades to enter in short order. Made entirely of a reddish-brown metal, it sported innumerable carvings etched into its surface, battles of man and beast depicted in shockingly lifelike detail. Such flagrant excess, even a simple door was made so beautifully, he ached to smash it into scrap where it stood.
+
+Patience, there was an order to the chaos, a carefully crafted plan which must be followed. Enter the city and strike at the soft underbelly, then the walls and doors could be ground to dust at his leisure.
+
+Bei’s arm wrapped around his shoulders, drawing him into her embrace. The world changed around him as he found himself several steps back, watching a stone larger than himself crash into the area he’d only just occupied. As the stone rolled to a stop, crushing all in its wake, his people took the deaths in stride, a few kneeling to pick up some of the pulped flesh, replenishing their strength from the arduous journey. No matter, these losses would be repaid in full and the entire city put through trial and tribulation in a matter of hours. Then, he would be free to burn and purify as he pleased, seeking out the worthy to join the cause.
+
+The projectiles continued to rain down upon them and they hurried into the tunnels. With a wry smile, he noted that even the wall sconces were beautifully crafted, each one a likeness of some woman holding a torch, representing the Mother who lit the way. What hypocrisy, religion was a joke, a comforting blanket for the foolish to hide behind. No matter, in time the truth would spread, it was all that mattered. Strength came to those who seized it. For too long had those in power hid this from the masses, and now Gen was here to enact change and bring turmoil. Many would suffer and more would die, but the world would be stronger for it.
+
+No more lies, the time for revolution was nigh.
+
+With his head held high, he stepped out of the tunnel and sneered at the waiting soldiers, all little sheep hiding behind their flimsy wooden walls. Too scared to do anything besides lob stones and arrows, he tasted their despair and relished their dismay at Bei’s presence, with many soldiers visibly fighting to control their lust. A beautiful woman, she was unmatched by any other, and she belonged to him. How wonderful it was to be the object of envy, and he grinned as he turned away, swaggering up the avenue to where Yo Ling waited.
+
+The white-haired bandit king greeted them with open arms, his raspy voice filled with joy and satisfaction. “Gen my boy! You made it.” A crushing hug enveloped him and he hugged the old man back, while Bei glanced off towards the outer gatehouses before disappearing in search of... something.
+
+Ignoring his wife's flight of fancy, Gen smiled at the old bandit. “Glad to be here. There was so much sport to be had, I almost forgot myself. Luckily Bei reminded me and hurried me along.”
+
+“A good wife you have there, but the young should indulge more often. Enlightening the masses and Devotions are holy matters, leave the busywork for an old hand like myself.” With a crooked grin, Yo Ling ruffled Gen’s hair and slapped him on the back. Were it anyone else, he would have resented it, but not this old pirate. In a single week, Yo Ling had been a better father and teacher than Pa ever was. The ferocious warrior would never bow and scrape to anyone, especially not to a whelp like Baledagh.
+
+The bastard runt got the better of Gen in their last exchange, but only because Gen was still an untrained novice. Flexing his wondrous, metallic hands, he ached to show Baledagh the results of his training. “Where is Laughing Dragon? I’ve missed him.”
+
+“He’s yet to arrive, but no need to worry. I’ve seen many like him, restrained for so many years. He’s likely letting off steam, it’ll be good for him.” With his arm around Gen’s shoulder, Yo Ling guided them into the gatehouse courtyard, where a man stood waiting, straight backed and head up. “I’d like to introduce you to another repressed individual, a hero to us all. This is Mao Jianghong, and without his sacrifices, our job here would have been a hundred times more difficult, if not impossible.”
+
+Nodding, Gen smiled and studied the newcomer, a soldier through and through. With dark, piercing eyes and shiny, jet-black hair, Jianghong looked every bit a noble, or at least what Gen believed a noble would look like, his chiselled good looks holding a dominating air about them. If not for the veneer of blood and gore caking his fine robes and the spirits conglomerating around him, Gen would never have believed Jianghong was one of the Enlightened. “Thank you for your efforts great hero. History will remember your name.”
+
+A palm shot out towards his chest and Gen stepped aside, his smile turning into a snarl as he deflected the blow. Fingers elongating into claws, he reached out to crush Jianghong’s throat. A heavy slap swatted his hand aside, and they both planted their feet and traded blows, their hands moving in a rhythmic back and forth as the sound of flesh on metal rang throughout the courtyard. Gen gained no advantage but gave no ground, his weapons unable to pierce through the veteran warrior’s defences. The man was too fast, too skilled, throwing three strikes for every one of Gen’s, defending and attacking in one motion.
+
+Unsatisfied with an even trade, Gen reached deep into his reserves and set his fingers aglow, red hot with the flames of his soul. Smoke rose from Jianghong’s robes wherever Gen’s fingers passed too close, the delicious sizzle of burning flesh filling in nostrils as the older warrior’s stony features showed a hint of shock and delight. Still, Jianghong stood unmoved, redoubling his efforts as Gen struggled to keep up. Giving it his all, Gen sought to rend and tear into the man’s flesh, to taste his blood and devour his innards, the Spirits stoking his desire for combat.
+
+Remembering his training, Gen took a mental step back, relaxing as he observed his body fighting under the Spirit’s guidance, his speed and power increasing markedly as soon as they took over. Power borrowed which would soon be his, but until he had enough time to learn their lessons, this would have to do. His strikes grew more calculated and savage, his teeth bared in a grin as he revelled in the thrill of combat, taking pleasure in the rush of sensations that surged through him. Freed from the demands of his body, he set his mind to task concentrating on other tasks, his fingers forming two red-hot blades as he slashed and stabbed at the unarmed warrior.
+
+Still unable to push Jianghong back, Gen focused on the air around him as the temperature soared, and finally, Jianghong retreated away as a column of flame erupted at his feet. Scorching the grass around him, Gen howled in delight as he leaped through the fire untouched, his blade-hands positioned to slice the offending bastard’s head clean off.
+
+The blades passed through empty air and Gen sailed past his opponent, crashing into the blackened grass. Rolling to his feet, he snarled and moved to attack again, but Yo Ling stepped between them, his hands raised and single eye twinkling. “Enough my boy, easy there.” Turning to glance at Jianghong, the old pirate grinned mischievously. “Told you, didn’t I? Never let it be said Yo Ling was a liar.”
+
+With a flick of his sleeves, Jianghong clasped his hands behind him, falling back into his stiff, upright posture. “An impressive youth I’ll admit. Young waves poised to overtake the old, but not yet ready. Be wary though, talented greenhorns won’t win us the city, we need seasoned warriors.”
+
+Rolling his eye, Yo Ling chuckled. “You picky bastard, did I not uphold my end of the bargain? Fifteen thousand of my finest, armed and armoured to the teeth. Another five thousand hiding in the forests, plus three thousand Garo riders to dissuade the Major and her ilk. More Enlightened arrive by the day, the call went far and wide, and all this without mentioning the Venerated Ones. After we take the city, our numbers will swell once my boy Gen has a word with them, and all will be right. What is there to fear?”
+
+Raising a single, neatly trimmed eyebrow, Jianghong seemed unconvinced. “Another two thousand more before we strike at most, meaning we barely outnumber Sanshu’s forces. The attempt in the north failed spectacularly, our people thrown back by the Herald. There will be no influx of Enlightened from beyond the Bridge, not until the Wall is broken. The Magistrate yet lives, and will rally and embolden his men, not to mention the mysterious warriors who saved him and killed your Wraiths. Should this not affect our plans?”
+
+“So what? You’ve spent too much time hiding among the sheep, you sound like one yourself. Hear the truth from my lips and return to your devotions.” Yo Ling snorted and dismissed the concerns. “Who will come to Sanshu’s aid? Not a single scout or messenger has made it past our agents, and even if someone did, Jiu Lang and Shen Yun will never make it in time. The city will fall and then we march north to grind the Herald beneath our boots, welcoming our comrades into the Province.”
+
+“And if we fail?” Jianghong asked. “Even as we stand here, armies might be ready to march on Sanshu and put and end to us all.”
+
+Shrugging, Yo Ling smirked. “Then we kill and burn as much as we can before slipping away. Victory or defeat, it matters not, every soldier here means one less at the Bridge. This is our inauguration, the dawn of a new era, and we’ve been chosen to raise the curtain on the glory of the Enlightened. Whether we become heroes celebrated for millennia or ashes floating in the wind to be forgotten in a month’s time, it is too late for regrets friend. Our hand has been played and our path set: tomorrow, we attack and Sanshu will burn.”
+
+Leaving the dour warrior behind, Gen and Yo Ling sauntered up the gatehouse stairs to stand on the parapets. Overlooking the plaza and the city beyond, Gen’s breath caught in his throat as he took in the sights. Beautiful canals ran alongside paved stone streets, while grand manors dotted the landscape. The city seemed carved from a single, sparkling white stone, with beautiful lush greenery, ornate marble statues, and vibrant, colourful flowers sprinkled neatly about. A veritable paradise sat within these walls, forever denied to Gen and his like.
+
+Until now.
+
+“Impressive, isn’t it my boy?” Yo Ling wore an amused expression, and Gen reddened as he closed his gaping mouth.
+
+Clearing his throat, he answered, “It’s more spectacular than I could ever imagine.” Sighing audibly, he imagined how the scene would look after he was through with it. “I can’t wait to burn it all.”
+
+Chuckling, Yo Ling wrapped Gen in a fatherly half-hug, joining him in his reveries. “Neither can I, my boy. This has been a long time in the planning.” Sighing contentedly, he muttered reverently, “A glorious era it will be.”
+
+Happier than he’d ever been, Gen stood and stared, filled to the brim with confidence and bravado. This was the first step to realizing his dreams, to bathe the world in blood and fire and spread the truth, cleansing away the taint of the Mother and her duplicitous pawn, the Mongrel Emperor.
+
+What a time to be alive.
+
+Chapter Meme

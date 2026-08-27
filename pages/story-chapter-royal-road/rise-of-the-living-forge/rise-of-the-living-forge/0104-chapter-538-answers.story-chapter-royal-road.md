@@ -1,0 +1,127 @@
+---
+id: 9d853e90-f005-51d6-a69b-e0347d7783e5
+page-type-slug: story-chapter-royal-road
+title: "Chapter 538: Answers"
+slug: 0104-chapter-538-answers
+partOf: rise-of-the-living-forge
+position: 104
+ownLength: 1527
+unit: words
+ownProgress: 1527
+publishedAt: 2026-01-06
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2917491/chapter-538-answers"
+royalRoadId: "2917491"
+markedReadAt: "2026-06-29T20:01:45.663Z"
+---
+
+Thane was having a little trouble figuring out how he was meant to transport an unconscious body. Dragging the man straight through the street wasn’t going to work. Too many people would notice. And, worse some of them would poke their noses into the alleyway to find the slaughtered remains of the man’s companions. The last thing he wanted to do was damage the Menagerie’s reputation with some manner of scandal.
+
+And he knew a fair bit about those. They tended to be the most popular topic at just about every party his family had ever thrown. There was nothing that spread faster. There were ways to control that, of course, but the best course of action tended to be avoiding the problem in the first place.
+
+Do I just go grab Rodrick and leave everyone here for now? But if the guy wakes up and runs away, we won’t have any way to figure out what happened or why they were here.
+
+A shadow appeared at the end of the alley while Thane was still lost deep within his ponderings. His eyes snapped up and he took a step back, a rush of adrenaline injecting itself directly into his veins.
+
+Crap! What do I—
+
+The shadow stepped into view. Thane’s excuses died on his lips as the figure stepped into the dim light.
+
+“Here?” Esmerelda asked, crossing her arms in front of her chest and looking down her crooked nose at Thane. “You decided to let that hussy out here? Are you whacked in the head, boy?”
+
+“They attacked me!” Thane exclaimed, though he kept his voice to a whisper to avoid drawing any undue attention. “If she didn’t help me, I think I would have gotten kidnapped! I didn’t mean for this to happen.”
+
+Vireth rattled at his side. It was hard to say if the devil was displaying her indignance or voicing her agreement with him.
+
+“They attacked you? Not other way around?” Esmerelda tilted her head to the side. Then her eyes narrowed. The old woman’s gaze flicked down to the unconscious man laying by her feet. She reached down and grabbed him by the back of his shirt, effortlessly flinging him into her potion bag.
+
+The man should have gone down a few feet at most. The bag was already rather full, after all. But he didn’t even slow. He disappeared into the bag’s depths silently, vanishing as if he’d never been in the alley in the first place.
+
+Esmerelda reached back into her bag. She dug around within it for a few seconds before pulling free a glass vial full of a pale, shimmering liquid that looked like it had the stars themselves suspended within its translucent depths.
+
+“Off with you,” Esmerelda said, noticing Thane staring and making a shooing motion. “To the Devil’s Den. Tell the others what happened. We can’t tolerate people sneaking into our territory. I’ll handle the situation here before anyone notices.”
+
+“How?” Thane asked. “I’m covered in…”
+
+He looked down at himself. There wasn’t so much as a single speck of blood on his skin. It was completely untouched. Despite the brutal carnage that Vireth had just wrought with his body, his clothes were barely even ruffled.
+
+“In what?” Esmerelda asked.
+
+Thane shook his head. “Never mind. Thank you.”
+
+Esmerelda grunted. “Just get going, brat. The longer you take, the more chance someone gets curious and I have an even bigger mess to clean up.”
+
+Thane didn’t question her any further. He hurried toward the exit of the alley, only daring to cast one last glance back at Esmerelda. She’d popped the top of the vial off and was pouring the pale liquid over the dead men.
+
+Then Thane was at the end of the alley. He fixed his gaze ahead and set his pace to make sure he didn’t draw any undue attention before joining the crowd. Thane moved with the flow of the people churning around him, quickly making his way past the line and to the entrance of the Devil’s Den.
+
+Anna had set up at her healing table a short ways to the side. She was completely surrounded by people waiting to be seen — far too busy to notice him.
+
+“You okay, Thane?” Monica asked from where she stood guard over the line waiting to enter the Den. “You look a little pale.”
+
+“Yeah,” Thane replied with a hurried nod. “Don’t worry about it. Thanks.”
+
+Monica gave him a one-shouldered shrug as he slipped inside.
+
+It felt a bit bad blowing her question off, but there wasn’t really much he could say in the view of the crowd. That would draw too much attention. The best thing he could do was find Lillia as quickly as possible so she could alert the rest of the Menagerie.
+
+Thane wove through the tables and made his way up to the kitchen door. He hesitated for a moment at the entrance. The sound of a dozen knives beating against cutting boards mixed with the roar of flame and clang of metal.
+
+It sounded like there was a miniature army cooking up a storm beyond the door. That probably wasn’t too far from the truth. Thane waited for a second longer. Pushing right into Lillia’s kitchen unannounced felt a bit inadvisable.
+
+Maybe I’ll just take it slow. I don’t want to stumble into something I’m not welcome to see.
+
+He hesitantly raised a hand to knock.
+
+The door swung open.
+
+Thane’s heart skipped a beat as he found Lillia staring at him from behind the stove. Every single one of the knives, plates, and other cooking utensils had frozen in place.
+
+After surprise managed to steal one more moment from him, Thane finally took control of himself once more and stepped into the kitchen. The door closed behind him with a thud.
+
+“Something’s wrong,” Lillia said. “What happened?”
+
+“I got attacked,” Thane replied. “Three men. In an alleyway on the street.”
+
+Lillia’s eyes went thin. Anger coiled within them like a snake preparing to snike. A tremor rolled through the frozen utensils suspended all around her. “What? Who?”
+
+“I don’t know yet,” Thane replied. “Vireth killed two of them and knocked the third unconscious. I wasn’t hurt.”
+
+“I could already tell,” Lillia replied, voice taut with anger. “If you had, this conversation would be playing out differently. Where’s the unconscious one?”
+
+“Esmerelda has him,” Thane replied. “She’s cleaning up the mess.”
+
+“Mess?”
+
+“Vireth was a little overenthusiastic.”
+
+Lillia was silent for a moment. Then she gave him a small nod.
+
+“Good. Anyone that tries to go after one of ours, especially on our own damn street, deserves nothing better. Well done, Thane. I’m glad you’re okay. Do you need anything? Water?”
+
+“I’m fine,” Thane said with a shake of his head. “But I don’t think they were here specifically for me. They weren’t with the Blacktongues. One of them said that I would do. Not that I was the target.”
+
+Lillia’s lips thinned. “How’d you even run into them? You said they were in the crowd?”
+
+Thane coughed into his fist. “Uh, I was studying the flow of people moving around in the crowd. Where they were going and such. For optimization. And I noticed they didn’t line up with my observations. So I went to take a look.”
+
+“Alone?” Lillia asked.
+
+Thane winced. “Yeah.”
+
+“Idiot,” Lillia said flatly. “I’m glad you’re okay, but that was a damn stupid thing to do, Thane. We have enemies. You do too. Investigating something like that on your own is a damn dangerous thing to do.”
+
+“I know,” Thane said sheepishly. His eyes flicked to the side for a second. “I just didn’t want to disrupt anyone.”
+
+“When it comes to safety, it’s never disrupting,” Lillia said. She shook her head. “But it doesn’t matter now. What’s done is done. We just need to make sure it doesn’t happen again. Go sit down at a table. I’ll bring you some food and water.”
+
+“What? But—”
+
+“That was not a suggestion,” Lillia said firmly. She affixed him with a sharp gaze. “You just killed two people. First time, isn’t it?”
+
+“Not my first time seeing dead bodies.”
+
+“But it was your first time making them,” Lillia replied. “You need to take a moment. If you bury that shit down, it’s going to eat away at you. Nothing can stop even the greatest of warriors in their tracks like unprocessed emotions. Just relax. Eat. Drink. That’ll give you time to recover while we look into getting some information from your prisoner.”
+
+“I — okay. Thank you.” Thane didn’t bother arguing with Lillia. There were some fights that were never going to be won, and her suggestion was actually sounding rather tempting. He did feel the slightest bit faint now that the adrenaline was starting to trickle out of his system. “Shouldn’t I be there? Since he came for me and all that?”
+
+Lillia’s eyes narrowed. “That depends on how things go with him. Let me and Rodrick deal with it first. Your only job right now is to sit down. And… in the meantime, we’re going to get some answers.”

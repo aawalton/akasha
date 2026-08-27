@@ -1,0 +1,151 @@
+---
+id: 4bfe6e06-1aec-5bd5-8821-1fe6ea6d378f
+page-type-slug: story-chapter-royal-road
+title: "12: Fresh Ideas"
+slug: 0012-12-fresh-ideas
+partOf: rat-girl-evolution-lab-rat-to-unrivaled
+position: 12
+ownLength: 2276
+unit: words
+publishedAt: 2025-09-19
+link: "https://www.royalroad.com/fiction/131412/rat-girl-evolution-lab-rat-to-unrivaled/chapter/2611857/12-fresh-ideas"
+royalRoadId: "2611857"
+---
+
+The rat awoke with the city, and ahead of its residents.
+
+She had noticed, before, on the way in, how each plateau drained its water down into the next ons, until they all finally vanished into the city. As steam rose from each corner, building, and metal monstrosity, she realized why it had been arranged in such a fashion.
+
+Steam was water, after all, even if she didn’t how she knew that, so it was all too simple to assume that the massive clouds billowing up all throughout the know towering maze of stone would need an equally titanic reservoir to draw the initial liquid from.
+
+Carefully, cautiously, the rat crept out of her hiding spot and back down into the streets, doing her best at silencing with her mind the gnawing hunger pains which her last handfuls of dried fruit barely managed to ease the edges off of.
+
+The ambient temperature rose steadily with all the jets released into the air, creating plumes of heat she wandered through, contrasted with pockets of colder air in the gaps between buildings, or between the hissing attachments of said buildings.
+
+Half of them seemed to have burst alight all on their own with the coming of the dawn, while the other half, manually fired up by groups of peculiarly outfitted humans, followed one at a time in erratic patterns. The machines themselves were equally erratic. Some appeared draw water up through thick metal pipes to fuels others, spreading out a web of thinner dull tubes to all those around them.
+
+Others vented steam, their true functions hiding within the depths of the buildings they clung to. She peered into the window beside one, curiously, and a sudden vent of steam startled her, causing a squeal to slip from her mouth as she leapt to the side.
+
+Scurrying down a smaller road, she attempted again, this time at a location which had humans lined up outside it. The window revealed three more humans inside, one manning a counter, one fiddling with small, soft, white shapes, and a third bent over a machine, twisting knobs and dials.
+
+He was wearing a watch, she realized, even though the glow of magic she could feel from him was very dull. In fact, he seemed to be using it on his working, pressing the watch against it every so often in clouds of steam and of waves of heat.
+
+The second person approached him, holding out the soft mushy items on a metal tray, and the watch clad one, the leader, she assumed, pulled on another level, causing the whole front of the machine to gape open, swallowing the tray.
+
+At the same time, a second tray slotted out, the objects on it now a golden brown, softness become crisp, at least on the outside. The man lifted one from the tray, winced for a second, and then dropped it into his other hand, juggling it back and forth before returning it to the tray and nodding.
+
+As he turned, his eyes landed on her for a second, and the rat froze. I look like a human, I look like a human, I look like a human. Repeating the truth of her disguise did little to assuage the fear in her chest as he stared. Running, though, would also be suspicious… Then the man smiled, pointing to her and then back down to the tray.
+
+Does he mean to say…
+
+He interrupted the thought by picking up one of the freshly released objects and biting off the end passionately, before waving it at her. Dark red oozed inside, the faint whisps of steam from within melting into the clouds in the air as soon as they rose.
+
+The threat was all too apparent, even to one as unversed in the norms of human culture as her. Stick around, and he would kill her, char her with flames, and eat her corpse. Even if the latter two parts might have been exaggeration for the sake of a threat, he wouldn’t have made threats at all if he hadn’t at least been willing to follow through on the first one.
+
+She took two steps in her flight before striking another person hard enough to knock her off her feet.
+
+The instinct filled her in an instant. To regain her footing, to race down another alleyway, no, to pump her legs full of enough magic to blow holes in the ground as she ran. The dull groan from the object of her collision stopped her.
+
+The rat saw a human that could be described as ‘curious’, to put it mildly. That was, if the one she saw was indeed a human. The… woman(?) was coated in dozens of layers of what could have been rags in another’s hands, all different types of unrecognized fabric blending together into a massive, shapeless, toddling blob.
+
+To say that she would struggle to pick out details of the newcomer’s build would be a vast understatement. Weight, build, and everything else was obscured by the swaddling layers of cloth.
+
+That wasn’t enough to stop the expression of scorn on her face from shining through, though. She glared down at the rat as though she had been deeply and irrevocably wounded by being bumped into, and the only thing that could assure her mind was vengeance.
+
+“Watch it, filth!”
+
+The girl climbed to her feet, muttering. “I’m sorry.”
+
+Leave it at that. Just leave it and let me go, please, I can’t afford a scene.
+
+The response dashed any such hopes. “You brat! Look at me and raise your voice, huh? Show some damn respect before I beat it into you!”
+
+With an outfit like that?
+
+“I can take ten little girls like you even with an outfit twice this thick! You underestimating the power of someone who works for a living, huh!? You slacker!”
+
+“Uh, no, I’m—“
+
+The woman leaned in close, cutting off her reply. “I didn’t ask you to speak, did I? Shut it! You have a job, huh?”
+
+She gulped. Was this some kind of human ritual? What would be the right thing to do? Not talking, surely, since she had just been scolded for that, but as to the correct path…
+
+“Answer me when I ask you a question, you dumb brat!” The stranger raised her hand with surprising speed, and the rat reacted even faster, crouching down and throwing up her hands to steer the blow away from her head.
+
+It never came through, and she looked up cautiously to find the expression of her would-be attacker had changed.
+
+“You used to getting hit, girl?”
+
+“Not used enough, I fear,” she said honestly. “Otherwise I think would be better at dealing with it at this point.”
+
+The sound of teeth grinding as the woman lowered her hand was audible, and she spat to the side before continuing.
+
+“You got anyone looking after you? No, wait. Never mind that, see? Just answer the first question, brat. You ever worked a day in your life before?”
+
+Worked? She had worked, certainly. She’d worked hard and long on enduring her torments, and just now on her escape. But somehow, the rat got the feeling that wasn’t what she meant.
+
+“Maybe….”
+
+She raised a hand in front of her face as she stalled for time. “Um, you said…?”
+
+The rat found her words ignored, her interrogator’s eyes suddenly fixed on her newly visible wrist. “Girl…. Is that exactly what I think it is?”
+
+The padded human made to grab her wrist, and she flinched away on instinct, barely fighting down the urge to grab her sword. “Wait, no, please!”
+
+That earned her an irritated sigh, but it didn’t seem to be directed at her.
+
+“Look, maybe we have gotten off on the wrong foot a bit, see? I just wanna know about that watch there, girl. It a system watch? Or just a looky like type one?”
+
+Was that a question she should answer? There wasn’t some kind of issue with her having a system watch, was there? She had seen dozens of humans with them already. At least one in ten, if not more. They didn’t seem to be exclusive to any one faction, and both genders had them as well, so it couldn’t be that….
+
+Ah.
+
+‘Girl’, the woman kept calling her. ‘Brat’ as well. They were both female, so it had to be based on her age. And the rat couldn’t recall a single other child, not that she really was a child, at least not a human one, who had been wearing a watch.
+
+Her silence seemed to have answered for her, taking the time to think about it confirmation enough.
+
+A hand reached out again, and this time she jumped back, well out of range for being grabbed.
+
+“Look, brat, or, uh…..” The grabbing hand scratched its owner’s head in confusion instead. “Girl. How about this? My name is Hebe. I’m working around here, see? If that’s really a watch, I have a suggestion for you, get it?”
+
+She crouched down, reaching out a hand again, slowly this time. “Your clothes are all dirty, and from the way you were staring in that window, I’m guessing your pretty hungry, no? I got a solution for both those. Come with me, and I can get you a proper job. Even a girl of… What are you? Nine? Ten? It don’t matter. If you’re all hooked up to a system watch, then even a brat like you can do it. That sound alright?”
+
+Something in her tone gave the rat the impression she didn’t really mean to ask, but rather to demand. It would be reckless to follow what this strange woman was saying. She was rude, dangerous, strangely dressed, and had already tried to grab her twice.
+
+Her stomach gurgled painfully in its emptiness. “I don’t understand…”
+
+Play it safe, build up information. You need to know everything before making a decision.
+
+“Food…” The woman pantomimed a motion vaguely like eating. “You, hungry?”
+
+“That’s not the part I don’t get…” For some reason, she felt the urge to laugh. Were all humans this nonsensical and difficult to follow? First the one she killed and took the sword from, then Durm, and now this woman, Hebe… They all didn’t make sense.
+
+The rat shook her head. “What do you mean job? What’s a job?”
+
+“It’s when you do work, in exchange for stuff like money, food, a place to sleep,” Hebe said, placing a fake-looking smile on her face. “There are lots of nice people where I work, see? So I’m sure I can get you a job. It’s much better than stealing. You can become a proper member of society, get it?”
+
+Each phrase spun around in her head as she fought to make sense of them. Even some of the individual words she didn’t know, so how was she supposed to understand the rush of sentences? “That’s…”
+
+Hebe straightened back up, and pointed down the street to one of the half-finished buildings, steam hissing in clouds from various points on it. Looking carefully, the rat could see several others in the strange, heavily-layered outfits. Protection from the steam, maybe?
+
+“Just go there, if you decide to take the offer. You can understand that much, right? When that hunger gets too much, and you’re tired of being out here on your own, go to the building. Ask for me, or don’t. Show em the watch and say you’re looking for work, and they’ll get you hooked up, kay?”
+
+She managed to nod, somehow, and was rewarded with the woman spitting on the ground again. “Now scram, huh? If you’re just gonna be a dumb brat, then stay out of the way for those of us with real jobs, get it?!”
+
+It didn’t take any more to convince the rat to scurry down a side alley, and then through a series more. It was only after several turns and twists, trying to loose herself from anyone who might have seen the encounter, that she realized she had succeeded. Nobody could trace her path. Including herself.
+
+That job offer had sounded suspicious anyways, of course. It was too good to be true. Just handed a perfect opportunity to gather everything she needed like that, right off the start? There had to be some kind of hidden catch.
+
+Still, it was tempting….
+
+Maybe she needed to hide the watch, actually. That was the real takeaway. If her baggy sleeve was untucked only on her right hand, and the straps left loose, then it would cover it from casual sight. And if someone was looking at the insides of her sleeves, well, then the other issues of her inhuman form would be more pressing.
+
+Take the offer, or don’t take the offer?
+
+Food, shelter, a convenient excuse, but the risk of being exposed, and the danger of it being a trick of some kind in the first place…
+
+The rat pondered as she roamed the streets, and then her last two trains of thought sparked another, older one. Her watch wasn’t working as she wanted. Her system had become stagnant, not leveling up. That was her biggest problem, in the long term. And if these people had a way to use watches, they might be able to help her break through that gap.
+
+She took another glance at the watch, intending to check if it had somehow updated without her knowledge. That was when the hand, overwhelmingly strong beyond all resistance, clamped down on her shoulder from behind.
+
+“You’ve lead me on quite a chase, haven’t you, little street rat?”

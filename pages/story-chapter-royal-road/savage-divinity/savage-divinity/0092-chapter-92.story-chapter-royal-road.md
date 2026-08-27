@@ -1,0 +1,113 @@
+---
+id: 37994f27-abac-5f9c-81e8-73eeb738bb54
+page-type-slug: story-chapter-royal-road
+title: "Chapter 92"
+slug: 0092-chapter-92
+partOf: savage-divinity
+position: 92
+ownLength: 3698
+unit: words
+publishedAt: 2016-07-11
+link: "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/81203/chapter-92"
+royalRoadId: "81203"
+---
+
+Her dinner growing cold on the table next to her, Akanai flipped through her reports with a brush in hand, marking down each patrol route on her freshly drawn map while trying to determine the best avenues of approach. Each patrol's teardrop shaped route covered the map, fanning out from the campsite in an enormous area of coverage but still there were many Defiled skulking about the forest. On this first day of the new month, things were already looking to be worse than the last, only a bare handful of encounters along their patrol route. It seemed that she would be unable to hunt down all the stragglers of this group, and the looming failure irked her greatly.
+
+Too many nuisances in recent times had taken much of her attention, between dealing with suicidal soldiers, her dwindling supplies, the appearance of Du Min Gyu, and the damn Justicar that remained behind as a legacy of his troublesome visit. The soldiers looked after their own for the most part, but sitting idle for so long had many of them chomping at the bit and eager to march onwards, but she had no tasks for them besides daily training, and many of the crippled soldiers ignored even that, drinking and lazing about, haunted by their impending dismissal from the army. Not even the hazard in the form of the Justicar nearby did anything to encourage the soldiers from their stupor, all of them indifferent to any punishment they could receive.
+
+Too many of her injured required increased rations, and while meat was easily hunted in the surrounding area, grains and vegetables were being consumed too quickly for her army to sustain. Already she had requested for more supplies from Shen Huo but the wagons would be slow-moving, at least a week away from arriving, forcing her to send her Sentinels out on foraging duties. Medical supplies were also running low, but Tokta made do with what he had available, an old hand at treating the injured in scant conditions. He had been so lazy in his youth, happy to simply coast through life on his talents, it had taken the constant persuasion and support of his wife Khorijin to bring out his best qualities, turning him into the man he was today. Her Second-in-command for two decades now, he still had the tendency to find the most... efficient method of carrying out his tasks, a byproduct of his laziness, but she could always rely on him to remain calm in any situation.
+
+It was good to have officers to rely upon, and Alsantset was quickly growing into an able commander, a daughter the pup could take great pride in. Most of her Sentinels took great lengths to avoid command and the responsibilities that it entailed, preferring the independence and unrestricted lifestyle that they already enjoyed, hunters and guardians who only turned to soldiering when necessary, but Alsantset had happily accepted the burden of command and quickly flourished in the role, even dealing with the more… unpleasant aspects of their current task without great difficulty. She had been worried that the girl was too young and idealistic to accept that she would need to kill children, but according to the reports, Alsantset had performed her duties without fault.
+
+“Mama!” After some rustling at the front of her tent, little Mila poked her head through the flaps and walked in, a fragrant, steaming bowl in her hands. “Alsantset made some dessert and we brought some for you.” Song followed at her heels, a little spring in the girl's steps as she bounded after Mila, the two of them an adorable pair that made Akanai smile in contentment. “You haven't even eaten dinner yet! Here, drink this while it's still hot and we'll go reheat your food.”
+
+“No need daughter, the food will taste fine even cold. Better for you to sit and keep me company.” Taking the proffered wooden bowl, she gently stirred it and drank the sweet soup, impressed by how Alsantset managed to do all of her duties and still have time to cook such delicious meals. “So, how are you faring?”
+
+“I'm doing well, Mama. I've just been helping Alsantset and playing some chess with Song all day. Song has beautiful handwriting. Did you receive word about Yan? Did she meet up with Papa yet? Did that stupid old man manage to help her?”
+
+“Calm yourself girl. It has only been a week and I have yet to hear back from my messengers.” Although she too was beginning to worry, as even at a slowed pace, Du Min Gyu should have reached the Flying Tiger Fortress by now. With his strength and the prowess of his guards the number of threats that could delay them were almost nonexistent, but each day that passed without word of Adujan made Akanai regret her decision not to send Sentinels to shadow them on their journey. Despite her inability to help the girl, she still valued Adujan greatly, and the loss of an Awakened youth would be heavy to bear.
+
+They continued to chat and as soon as her dinner was finished, Mila asked, “Do you know where Rain and Tokta are? Alsantset wanted to find him, he skipped lunch and dinner, and neither of them are answering her.”
+
+“Tch girl, did you only come visit your mother to ask about that scoundrel?” Akanai enjoyed teasing her daughter, although she was still uncertain that a relationship between Rain and her daughter was the best choice. More and more the boy was showing himself to be unstable, his anger and rage clouding his judgment in important matters. A certain level of anger could be helpful, but to allow it to control you could only end in disaster. Worse, the boy was so close with Adujan and Mei Lin, how could Akanai allow her daughter to be the third wife? It was simply unacceptable, little Mila deserved better.
+
+“No Mama, I came to see you and just mentioned it in case you did know.” The erratic twitching of her red-furred ears betrayed Mila's lie but Akanai let it pass, pinching the sweet girl on her cheeks. Huushal was looking more like the better choice as the days went by, but that little randy hooligan had already battered down the fortress walls of two lovely young ladies, before even allowing his parents to meet the girls, truly disgraceful. Ghurda would have stern words with her son but it was likely that the joy of having two daughter-in-laws would quickly overshadow any outrage at the improprieties. Akanai felt secure, as little Mila would never be so immoral, a proper little lady who had been raised right.
+
+“Give me a moment, let me ask Tokta. You know how they both are, Rain is probably hard at work and Tokta likely napping while he 'supervises'.” She quickly Sent a message to Tokta inquiring as to his whereabouts and Rain's progress, punching through the barrier that Tokta had erected for some unknown reason. Odd, that.
+
+His reply was almost instantaneous, filled with an excitement that she had never heard in his voice before. “Ah, yes, yes, of course, you will want to hear this straight from the horse's mouth. Wait right there, I'll bring the boy, there's been a discovery of incredible proportions!” Hmm.... Odd. This was coming from a man who had gone through his marriage display as if it were a death march, stoic and completely without enthusiasm.
+
+It did not take long for him to arrive, his face lit up with joy and his motions animated and frenetic, the boy tucked underneath one of his arms. Mila moved to check on Rain and Akanai raised an eyebrow at Tokta, asking, “What happened? Did the boy take injury?”
+
+“No, no, he's fine, quite the opposite actually, he just passed out while we ran here.” Dropping Rain down without ceremony, the boy falling comatose to the dirt like a sack of rice, Tokta began to babble incoherently as he tried to explain. “The boy, we chopped off a finger and he fixed it, then we pulled a tooth and he fixed that too, and then he did... something, and I couldn't believe my eyes, even after hearing him explain it several times. I need you to pull my tooth as well, so I can see this first hand.” He handed her a still bloody dental key and opened his mouth wide, pointing at a tooth and motioning for her to hurry.
+
+Staring at the bloody implement in her hand for a long moment, before turning to her second-in-command, who stood there, bright-eyed, opened mouth, and eagerly waiting for her to rip out one of his perfectly healthy teeth. “Are you daft?” Blinking a few times as she parsed through his words, she widened her eyes and stared in accusation. “You cut off his finger and ripped out his tooth? Why? He may be rude at times, but even then -”
+
+“Because he asked me to. The boy is fine, just tired and hungry, get him some broth or something and he'll explain everything.” Tokta grabbed her hand that still clasped the dental-key and moved it towards his mouth. “Do it quickly, it seemed incredibly unpleasant and the anticipation is making me quite nervous. Say one thing about the boy, he is resilient. Almost praiseworthy and idiotic, all at once.”
+
+Wrenching her hand free from his steely grip, she glared at him until he regained his senses, pointing at him to sit. “Song, go find Senior Captain Alsantset and tell her that Rain is here, and that he requires some broth. Mila, bring Rain to my bedroll, let him rest there for a moment.” Turning to Tokta, she fixed him with a glare. “You. Explain. Slowly.”
+
+Sighing as if he were being unfairly treated, Tokta launched into his explanation. “Well... This morning, Rain approached me for our normal healing practice when he asked me to cut off his finger. Since I needed the time to make styptic powder and disinfectant unguents, I agreed.”
+
+“Stop.” Closing her eyes and massaging her temples, she digested the bit of information she was given, her mind reeling at the implications. “You cut off his finger because he asked you to. Just like that.” Tokta simply shrugged helplessly, as if this were something he did often. That boy's madness was spreading and now her second-in-command was chopping off fingers at his behest. “Why?”
+
+Again, a shrug. Letting out a sigh, Akanai sensed that this would be a long and difficult conversation. “Rain did not give me a reason and I thought it would make for good practice. He has a high degree of skill when it comes to inner examination, possibly one of the reasons why he is so proficient at healing. But I digress. He reattached the finger, we had a short discussion about healing, and then he asked me to pull out a tooth.”
+
+“Again... Why?”
+
+“Uh... He had a cavity.” Waving his hands dismissively, he hurried on with his story. “It's not important, we arrive at the crux of the story: while healing his tooth, he drew some odd conclusions from watching the tooth seed form and he somehow has stumbled upon a simplified method of regenerating lost limbs. In a single day, he has almost matched his progress in the last week, its astounding.” As he continued to speak, his voice grew more animated, his excitement clear. “From what I gather, he somehow leaped to the conclusion that the tooth seed was composed of a fundamental component, capable of filling in for any material required for bodily growth, something he referred to as a panacea. Then, he directed his chi to create this panacea in his arm and, instead of causing himself great harm, his body began to regenerate his arm without his guidance, as if it were simply a normal wound. Near miraculous, brought about by almost suicidal stupidity, but a discovery none the less.”
+
+Laughing almost maniacally, he clapped and stomped, looking happier than she had ever seen including at the birth of his son. After catching her incredulous look, he quickly coughed and calmed himself, smoothing out his bloodstained robes, trying to appear composed and casual once again. “I almost lost my temper several times these last few days, he just kept going on and on about teeth, but who knew he had such a discovery awaiting him. Now, would you please remove a tooth for me so that I may view the process first-hand.” For the third time, Tokta opened his mouth wide and screwed his eyes shut, leaving Akanai thoroughly perturbed.
+
+As if sent by the Mother herself, Alsantset stepped into the tent at this fortuitous moment, saving Akanai from the awkward need to dissuade Tokta from self-mutilation. Turning to look at the boy, she saw that he had awoken, holding Mila's hand in his as he sleepily smiled up at her, the two of them lost in their own little world. “Mila!” Akanai's voice slipped out unwittingly, scandalized at the sight of her daughter so intimate with a boy. When had they grown so close? This immoral brat, a bit of talent did not excuse his brazen skirt chasing.
+
+Backing away quickly, Mila at least had the sense to look ashamed. “It's not what you think Mama. He sometimes still has trouble separating his real memories from his false ones, and it must have been worse today, because he's drained and tired.”
+
+That damn Demon, still haunting her in new ways. “And you just let him take advantage without reproach?”
+
+“He was just holding my hand, it wasn't anything immodest. You don't have to make such a fuss.” Mila grumbled beneath her breath, but Akanai still heard her, choosing to ignore her defiance at this time. She threw Alsantset a glare, promising that they would speak, taking little pleasure in watching the fierce young woman quail before her.
+
+Taking deep breaths, she spent the next few minutes reigning in her temper, letting the boy eat while he repeated his discovery with his own words. At least he did not brag or act haughty, speaking humbly, even with a bit of uncertainty of his discovery, cautioning all who listened that he would need to continue testing. “Can one of you watch me while I meditate and make sure I don't die or something? I just need an hour or two with the ring on, and I'll be good to go.”
+
+That caught her attention. “You have not yet grown accustomed to using the ring?” It had been months, he should have mastered it by now, considering his level of control.
+
+Looking bashful, he shook his head. “Nope. It's always the same, like being in a violent whirlpool, struggling to stay afloat until I just surrender and fall beneath the waves. Then someone wakes me up and tells me I almost died.” Hearing his description, she felt everyone in the room tense up, herself included. After making sure that they would remain silent, she studied Rain closely, probing him with her chi. Surprisingly, he reacted at her examination, almost leaping out of his skin before laughing nervously. “Whoever did that, you should warn me first, it's cold.”
+
+More and more interesting. “Tell no one of your discovery, rest for tonight boy, and go without the ring for tomorrow. I will set aside some time for us to work together in the evening and perhaps help you with your difficulties. You are still taking the Rising Dragon Elixir each morning?” Foolish child, others would kill for the chance to consume such a treasure, for him to balk because of a few unsavory ingredients was the height of idiocy. Seeing his confirmation, she had Tokta bring him back to his own tent, leaving her alone with Alsantset, Mila and Song.
+
+Sitting in front of the three women, Akanai enjoyed watching them shift uncomfortably beneath her gaze, using the silence to her advantage. Song was the exception, standing at attention without a single movement, staring straight ahead and unaffected by the mood. An exemplary young warrior, the former slave was also taking the elixir and cultivating with a Runic ring. Perhaps it was the combination of the two. “Song, did Rain's description sound similar to your own experience in any way?”
+
+“Not at all, Lieutenant General. This lowly slave apologizes for her failure and lack of knowledge.”
+
+Song's self esteem needed some work, but time would heal her wounds. Nodding in answer, Akanai pondered the subject some more. Perhaps it was just their innate talent, or some sort of resonance, or possibly even mere coincidence that both Adujan and Rain came so close to Awakening at the same time, but she had difficulty believing in coincidence. She made a note to check on Huushal's progress, who was also taking the elixir but had given his ring away. The elixir's effectiveness had always been in dispute, but the consensus was that while it could not be confirmed to help, it at the very least did not hinder progress, and if it was somehow being made more effective by the runic rings, then she would spare no cost in acquiring more of both.
+
+Perhaps Rain was not so poor a prospective husband after all, but she still disliked the idea of Mila becoming a third wife, with Mei Lin having already staked her claim and Rain having made the choice to pursue Adujan. What was left for poor Mila? She would be fated to beg for what scraps of affection remained, and Rain might even continue to add to his harem, his lusty appetite unable to be satiated by only three wives.
+
+Unfortunately, it was not her choice as Mila was almost a woman grown now. Standing up, she walked up and cupped her daughters face, letting out a small sigh as she kissed her on the forehead. It seemed only yesterday that Mila had still been in diapers, swaddled in her cotton blankets, a joyous, laughing child that had brought so much joy into Akanai's life. “I suppose now is as good a time as any to speak of betrothal.”
+
+Children grow up so fast.
+
+“Mama... Nooooo...”
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Lieutenant General Situ Jia Yang sat quietly at his balcony table, watching the long stream of his soldiers march past, resplendent in their lustrous, steel armor, their banners snapping in the wind. Their synchronous steps thundered through the Society Headquarters, the city of his birth, filling him with pride and he eagerly waited to ride forth and drive the Defiled from the Northern Province, earning fame and glory for himself and stealing it away from Nian Zu. While that old man was a Colonel General, he hid as far north as he could, shirking duty to Clan and Society for decades, unwilling to play politics and hiding his head within his walls. Were he less obstinate, Rang Min would be a little toady, instead of Patriarch, and Nian Zu would hold that lofty title, but soon, it would belong to Jia Yang.
+
+“Cousin, it is good to see you.” Hearing Bolin's loud greeting, he stood and happily embraced his balding childhood friend, a grand smile upon his face, the two giants of the Situ Clan once again reunited. “Look at you, a Lieutenant General, while I am still a mere elder, barely more than a wet-nurse for these Society brats.”
+
+“Bolin, now that I, Jia Yang, have sufficient renown, you think that I would let you languish here? If you are only willing to join the army, then I would have a lofty ranking waiting for you and a commission in my personal retinue.” While Bolin was not the most proficient of warriors, old friends were hard to come by, and a retainer at his side was a safe a place as any when it came to warfare.
+
+“If it will cause you no difficulty, then I will humbly accept.”
+
+Taken aback, Jia Yang peered at Bolin for some time, seeing for the first time the weary expression and ragged clothes. “It is yours, but I must ask; I have offered many times before, but you have always said that you wish to stay here. What has changed, old friend?”
+
+Looking ashamed, Bolin rubbed his head, speaking quietly. “While your star has risen in the central province, mine has fallen, having incurred the ire of Rang Min. I allowed the little patriarch to come to harm, not once, but twice, and it is only through my connection to you that I live to stand here before you, cousin.”
+
+Gesturing for Bolin to take a seat, Jia Yang fumed inwardly as he sipped his tea, the cup dwarfed by his large fingers, struggling to remain calm. “The rumors? About the... Bekhai? Clansmen... those are true?” At Bolin's affirmation, the teacup shattered in his fingers and his anger surged forward. The little patriarch was less than dog farts to him, he could not care less about that spoiled brat, but the insult to the Situ Clan, to the Society, that could not be unanswered.
+
+“It is... a difficult situation.” Bolin swept away the shards while gesturing for bowls to be brought, the two of them more comfortable drinking from the larger receptacles. “Shing Du Yi declared Martial Law at an inopportune time, or else the matter would have been dealt with easily. Worse, Nian Zu refuses to take direct action despite all entreaties otherwise, he may as well be harboring the Bekhai clansmen under his command. It is a disgrace, hearing the whispering of the peasantry, mocking the Society day after day. I have been relegated to the most humiliating of tasks and punished over the barest of infractions. There is no future for me here.”
+
+“Worry not. I will deal with it. You come work for me, and we will see this injustice righted. Tell me everything.” Raising a bowl of wine to their friendship, he drank deeply while he listened to the details of the situation, ready to crush any who chose to stand in the way of his vengeance.
+
+Chapter Meme

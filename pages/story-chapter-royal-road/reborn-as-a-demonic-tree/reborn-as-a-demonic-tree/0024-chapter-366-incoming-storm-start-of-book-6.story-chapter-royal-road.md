@@ -1,0 +1,155 @@
+---
+id: 3af629ee-092f-585f-b792-0fedb7b66deb
+page-type-slug: story-chapter-royal-road
+title: "Chapter 366: Incoming Storm (Start of Book 6)"
+slug: 0024-chapter-366-incoming-storm-start-of-book-6
+partOf: reborn-as-a-demonic-tree
+position: 24
+ownLength: 3240
+unit: words
+ownProgress: 3240
+publishedAt: 2024-11-06
+link: "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/1888997/chapter-366-incoming-storm-start-of-book-6"
+royalRoadId: "1888997"
+markedReadAt: "2026-06-29T19:02:18.871Z"
+---
+
+Ashlock left the Redclaw family to do damage control and calm down everyone while he called an emergency meeting. It hadn't even been an hour since Serena Blacktide was turned into a tree, and Celeste Starweaver announced to the thousands of people watching the tournament that the terrible storm outside wasn't a random act of nature—it was the prelude to something much more terrifying.
+
+The Beast Tide.
+
+An event on an eternal cycle that struck fear into the heart of every sect in the wilderness. It wasn't so much the strength of the beasts that was the problem. It was the sheer number. For months, waves upon waves of monsters would endlessly march from one spiritual spring to another. For cultivators where every bit of Qi spent set their cultivation back, to waste years of meticulously gathered Qi on defending some land against a swarm of monsters was pointless. Moving out of the way was almost always the best decision.
+
+Unless the beast tide was predicted to be smaller, that is. In that case, it might be worth staying if the land was still rich with spirit ore for mining and had a good variety of Qi types to cultivate.
+
+This one, however? It was forecasted to be the biggest one in the history of the nine realms, and Ashlock was rooted in place, directly in their path. He had no choice but to stay and fight, and he would selfishly have the Ashfallen Sect and the surrounding cities follow suit. There would be no airships leaving for safer pastures. A stance that seemed to have attracted the interest of some other noble families like the Starweavers, eager to take a stand against Vincent Nightrose and his tyrannical rule.
+
+While everyone gathered to hold the meeting, Ashlock's vision blurred as he crossed vast swathes of land. His destination? The furthest reaches of his roots to the north. He had been expanding his reach in all directions for months, focusing on the north where the spiritual spring housing the beast tide was said to be.
+
+"Elaine told me that in three years, the beast tide would move from the spiritual spring in the north and follow the giant leyline we are on all the way down to the south where the Celestial Empire is." Ashlock mused as he saw the storm get more severe the further north he went.
+
+It made the storm over Ashfallen City look like a joke. Up in the north, even with his spiritual sight, he struggled to see that far through the hurricane blizzard and fog. All he could see was a wall of white blanketing the land and inching ever closer to the south. This helped explain why he had never noticed the rag-tag groups of monsters trudging through the madness toward the south. They hadn't yet entered the range of his roots or trees, and the storm was messing with his spiritual perception, but he estimated the monsters to be in the Soul Fire Realm.
+
+"These monsters must be part of the first wave." Ashlock attempted to look closer, but the storm got in the way. He tried to open a portal near the monsters to kidnap them and get a better look, but the violent storm tore his portal apart before the Qi could finish stringing itself together. "That's strange. I know spatial Qi doesn't do too well when interacting with other types of Qi, but I should still be able to open one within a storm..."
+
+Retreating from the notable boundary where the swirling wall of the blizzard was, Ashlock opened a portal within the range of his roots a few miles away and observed the storm from afar with his Evil Eye. "What a terrifying mix of daos and Qi and this control... it's not natural. Someone, or more likely, a powerful monster, is orchestrating this storm. But why?"
+
+Even for a monster, this amount of Qi spent to cover the beast tide's approach seemed like a waste.
+
+"Unless a storm on this scale is nothing to them," Ashlock sighed. Since the storm was being controlled by someone, he didn't want to show all his cards yet, but he still wanted to test some things. "Let's see the limits of this storm." His soul hummed as he surged Qi through his ethereal roots toward the north.
+
+Manifesting portals inside the storm was impossible, but what about attacking the storm directly to disperse their cover? Reality tore apart as Ashlock unleashed his will upon the world and used his Spatial Blades technique. As if he had a gigantic invisible claw, he swiped at the storm and left clear gaps in his technique's wake that were instantly filled back in. While little damage was done to the storm, he managed to kill a few monsters, and fissures were etched deep into the earth.
+
+"Not so strong as to utterly block my attacks, which makes sense. If it was that fierce of a storm as to stop the attempts of a Nascent Soul Realm cultivator, those Soul Fire Realm monsters would have no chance of surviving..." Ashlock paused as he looked closer with his Evil Eye. "Hold on." He muttered as he surged his spatial Qi and sent out ripples of compressed space that pushed back against the storm. It was a total waste of Qi as the storm would just reform, and these were weak monsters, but he wanted to check something.
+
+"Ah, that makes more sense," Ashlock said as he noted a thin veil of demonic Qi around the monsters, which seemed to be somewhat protecting them from the storm. He was unsure whether the demonic Qi was coming from the monsters themselves or something else, as the storm was making it hard to discern anything. "Well, only one way to know for sure. You're coming with me."
+
+Once more, Ashlock bent space to his will, compressing and decompressing it in rapid succession to force the storm back. The monsters looked up in confusion as their veil had been pushed back, and they likely saw sunlight for the first time in a while. Ashlock didn't waste time as he summoned portals above their heads. There was no need to bother with vines or roots. He simply used his overwhelming cultivation compared to these weak monsters to pluck them from the ground with telekinesis and drag them up through the portals.
+
+The pack of brown-furred wolf-looking monsters kicked at the air and let out desperate howls as they were kidnapped by an invisible force. Ashlock barely got them through the portals before the storm lurched forward, annihilating his portals and reclaiming the lost ground. Switching his view to Red Vine Peak, he restrained the monsters with his soul pressure and got a good look directly at them with his Evil Eye.
+
+"Mhm, the demonic veil they had is gone. That means it must have been given by something else to protect them from the storm." Ashlock found their howls distracting, so he tightened his black vines around them—crushing their bones until they fell limp. He then dissolved them.
+
+[+23 SC]
+
+"Barely two sacrificial credits per monster," Ashlock laughed. While his Qi regeneration was impressive, he had done the equivalent of shooting missiles to kill a fly. Even for him, this wouldn't be a sustainable way to defeat the beast tide.
+
+"The monsters aren't even my biggest concern right now; unless a Monarch Realm one appears, I should be fine. The real issue is how will I deal with the storm?" Ashlock sighed as he recalled the Dao Storm that had almost killed him in the past. He had used his cursed sap to turn it into demonic trees. Could he do the same here?
+
+Returning to the north, he pulled out some cursed sap he had left in storage through a portal and carried it toward the storm with telekinesis. It was only a single cup full, as he didn't want some monster inside the storm getting ahold of his cursed sap if it didn't work.
+
+"Well, here goes nothing," Ashlock threw it into the storm. It dyed some snow black before it was promptly whisked away by the ferocious winds, leaving him without an answer. "I... don't know what I expected, to be honest."
+
+His sap didn't work instantly, and with the hurricane rotating so fast, he couldn't track that patch of black snow to see if anything would come of it. Ashlock pulled his view back and looked at the storm as a whole. It consumed the entire horizon from east to west. It made the Dao Storm that had almost killed him look like a joke.
+
+"Do I even have enough sap in all of my body to do any damage to this storm, assuming it worked?" Ashlock pondered and concluded it was like using a cup of water to put out a fast-approaching forest fire. The scale of damage he could do was a total mismatch with the threat before him. "Could Larry do anything? Nah... the storm would devour him before he could make a dent. Kaida could blow all his scales to nuke it, but again, the same problem. In the worst case, I suppose I could move Darklight and Ashfallen City into my Inner World and try to weather the storm? But that's less than ideal."
+
+Saving the people aside, he wanted to gain many sacrificial credits from the beast tide, but this storm would make it a very Qi-intensive process. Plucking a few Soul Fire Realm monsters with telekinesis was no problem, but the storm would get in the way big time if he wanted to get his roots on monsters worth killing.
+
+Ashlock spent a while vaguely measuring the storm's rate of advancement. "I think it will reach my roots within the next day or two and then my furthest northern forest in a week. Wait, shit—I forgot about my offspring. How will they survive this?"
+
+He had been so focused on keeping the humans safe that he had forgotten about his many forests of offspring dotted along the leyline between himself and the encroaching beast tide.
+
+"I have a week to come up with something," Ashlock said, quickly switching his view from the north to the meeting room in The Ashfallen Trading Company's headquarters. Sitting around a grand round table were many cultivators of varying ages and stations in life. It was deathly silent, apart from the drumming sound of the rain and the howling of the winds battering the stone fortress.
+
+Ashlock had been expecting the talks to have already begun, but it seemed there was a silent agreement among all present as they all stole glances at Stella, whose eyes were closed. As if noticing his arrival, Stella's eyes opened, and she smiled.
+
+"With the All-Seeing eye's attention, we can now begin this emergency council," Stella looked up at the ceiling in the vague direction of his spiritual gaze, "I had them all eat enhanced Mind Fortress and Soul Protection pills, so you should be able to speak freely."
+
+Ashlock got cold feet as everyone looked up expectantly at the ceiling. There was such a wide range of people here, some he had never talked directly to and others he had never seen before the tournament. Since Ashlock had so many personas that differed depending on how close to the inner sect one was, it was hard to decide on his decorum moving forward when presented with such a variety of people. Remembering that to many here he was seen as a god, he decided against apologizing for holding everyone up and got straight to it.
+
+"The Starweaver family's prophecy is true. I cast my gaze to the far north and laid eyes on not only a tide of beasts, but also a cataclysmic storm that spread from east to west, consuming the entire horizon and obscuring their advance."
+
+Ashlock finished presenting his findings and enjoyed the various reactions. Jasmine clutched Stella's hand under the table and seemed deathly pale yet excited at hearing his voice for the first time. Ryker was massaging his temples, but his jump in cultivation to the Silver Core Realm allowed him to maintain his composure. Meanwhile, the Starweaver siblings had risen from their chairs and bowed. Though the act of respect had been directed by Evander, who had his hand firmly planted on his sister's back. Straightening themselves, Evander cleared his throat before addressing the ceiling.
+
+"All-Seeing Eye, it's an honor to be in your presence. Our Grand Elder spoke of you."
+
+"He did?"
+
+Evander nodded, "With a look of terror I have never seen in that man's eyes before."
+
+Ashlock had never seen or spoken with the Grand Elder of the Starweaver family. What had he done to strike such fear into an old cultivator?
+
+"Why does he fear me?"
+
+"Starweaver is a name that carries two meanings," Evander raised his hands. In his left palm, a marble-sized cosmos appeared. "We harness the power of the stars to strike down our enemies and wreak destruction upon the realms." In his right palm, golden threads appeared. "But we also gaze upon the woven threads of fate," Evander combined his two palms and the golden threads intertwined with the cosmos, "so that we may weave a path forward of our own."
+
+He clapped his hands together, dismissing the demonstration.
+
+"Sometimes a being appears, and its influence spreads quickly across the threads of fate, corrupting and bending unseen futures to its will."
+
+Ashlock had a bad feeling that he was this being in question. "What happens when such a being appears?"
+
+Evanders gaze hardened. "The threads... they come to an end."
+
+Silence overcame the room.
+
+"I see," Ashlock said, "And I assume your Grand Elder believes I am this reality-ending being?"
+
+Evander nodded, "According to the threads, your journey has just begun. For now, you are nothing but a newborn god finding his feet and gathering a following. But you have already outgrown this region. Only Vincent Nightrose could hope to stop you—so rather than fight you, we have come to work with you—at least for now."
+
+"Interesting. A temporary partnership then?" Ashlock didn't like being labeled as something he wasn't, but it was hard to fight his case when reading the threads of fate was their family's forte. He had enough sense to know that telling him their fears were unnecessary wouldn't bode well for their apparent upcoming partnership.
+
+"Yes. I assume you have been made aware of the Silverspire's plan to overthrow Vincent Nightrose?"
+
+"I have."
+
+"Good, that makes things easier," Evander Starweaver paused to catch his breath. Despite his good posture, a combination of Ashlock's Abyssal Whispers and general pressure was likely wearing on the man.
+
+"We both have a common enemy, Vincent Nightrose. The plan was for the Silverspire Grand Elder to time the completion of his ascension to the Golden Core stage—" Evander nodded to Sebastian and Ryker, who were sitting opposite him, "—their equivalent of the Nascent Soul Realm with the arrival of the beast tide... in three years time. He had hoped to use the pressure of Beast Tide's arrival to escape the fate of previous Grand Elders who reached the Nascent Soul Realm. Of course, the schedule has moved up. So the plans have changed."
+
+"I understand why the Silverspire Grand Elder wishes to free himself of Vincent's rule, but what about the Starweaver family?"
+
+Evander exchanged a pained look with his sister Celeste. "There used to be three of us..." He trailed off as his gaze hardened, "But he took her."
+
+"Our sister awakened her bloodline." Celeste added, "We thought it was great news and were confused why our elders were so horrified once they found out. But we soon learned the fate of those who awaken bloodlines as the Disciplinary Committee showed up years later and dragged her off."
+
+"Her bloodline was harvested by Vincent, right?"
+
+Evander nodded as his sister fell silent. "The Blood Lotus Sect isn't a sect at all. It's a breeding ground for bloodlines. That's why he cares so little about how it's managed and leaves it to his mind-controlled subordinates." Evander then looked toward Stella, "We aren't here for revenge for our sister. Rather, we are here for the same reason you are fighting. Celeste also awakened her bloodline recently... so she might be next. Just like you."
+
+Stella and Celeste exchanged a knowing look of two people going through the same thing.
+
+"Vincent is a paranoid bastard," Evander continued. "He has been after the Starweaver family's bloodline, capable of foreseeing threats in the cosmic weave, for generations. Vincent calling for a summit can only mean one thing—he finally succeeded, as we never informed him of the prophecy. Things will only worsen for us from here, as he will keep harvesting us to improve his inferior bloodline. This is why the Starweaver family is willing to work with an evil god like yourself to take down a greater evil."
+
+Stella's eye twitched, and everyone else had sour expressions as Evander finished his piece and sat beside his sister. Ashlock wasn't pleased with how they spoke of him, but he wasn't in a position to turn down help, with Vincent Nightrose on one side and a cataclysmic beast tide on the other. If they wanted to offer themselves as disposable pawns to help him deal with these looming threats, he wouldn't turn them down.
+
+"Actually, I've seen the beast tide now, but I still know little about Vincent." Ashlock mused, "If Vincent isn't too hard to deal with, I could ambush him at the summit he is calling. I bet the beast tide will be easier to deal with after I turn him into an Ent."
+
+"How strong is Vincent Nightrose?"
+
+The room fell silent at his question. Sebastian Silverspire leaned back on his chair slightly with a frown. "Nobody knows," he said, breaking the silence. "His powers are a closely guarded secret."
+
+"Not even a vague idea?"
+
+"I know," someone said, and everyone turned to see a black-haired woman emerging from the shadows. It was Morrigan, the origin of the void. "It's been a long time since I last laid eyes on that boy, but there's a reason he has been able to stay in power for so long despite his tyranny." Morrigan tapped her chin in thought, "His cultivation level is likely in the upper stages of the Nascent Soul Realm by now. That alone is quite impressive for this Qi dead realm, but that's not what makes him so hard to kill. No, it's the dozens of inferior bloodlines he's juggling and his three affinities."
+
+"Three affinities?!"
+
+The room erupted with surprised gasps and discussion. Morrigan smiled as she counted off her fingers, "His main affinity is blood, but he also has gravity."
+
+"What about his third?"
+
+Morrigan shrugged, "That's his closest guarded secret. Nobody has discovered his third affinity and lived to disclose it. All we know is he has at least three. All near the Monarch Realm level."
+
+Ashlock sighed as he realized he might have underestimated the overlord of the Blood Lotus Sect a little. "The summit should be held before the Beast Tide arrives. I'll have to kill him first, one way or another. Especially if he can now see the effect that my presence in this world seems to have on the threads of fate."

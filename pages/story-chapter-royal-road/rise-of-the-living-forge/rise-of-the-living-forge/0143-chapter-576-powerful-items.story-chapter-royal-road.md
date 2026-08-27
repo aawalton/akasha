@@ -1,0 +1,143 @@
+---
+id: bb38b272-4b36-525e-b41a-3fde32fa395d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 576: Powerful Items"
+slug: 0143-chapter-576-powerful-items
+partOf: rise-of-the-living-forge
+position: 143
+ownLength: 1801
+unit: words
+publishedAt: 2026-03-19
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3169408/chapter-576-powerful-items"
+royalRoadId: "3169408"
+---
+
+Neil watched silently as the auction ground on. He was pretty sure he was experiencing mild symptoms of shock. There was a dim ringing in his ears and his tongue felt dry in his mouth. Even though he didn’t have the faintest idea as to what many of the materials being put up for auction were, he recognized one or two of them.
+
+And one or two was enough to know that he was approximately three classes of wealth too low to be sitting in this room.
+
+Everyone else had come prepared — particularly the group in the room to his side. He didn’t have the faintest idea who they were, but it didn’t seem like their coffers had any end. There had been four items up for auction already, and they’d won three of them.
+
+It almost felt wasteful. If someone had this much money, then they surely would have been served best waiting for the end of the auction and then using everything they had to ensure they won the best items, not just the early ones. Then again… anyone with this much money was probably planning on just winning everything.
+
+He’d bought a pretty respectable amount of resources from Melissa. In any normal auction, it would have been more than enough to secure him at least one item. But now there was only a single thing Neil clung to.
+
+Reya’s suggestion.
+
+There was no way he was winning an item any other way. So regardless of whether this suspicious item that she’d implied he should bid on was good or not, it wasn’t like he had much of a choice. He wasn’t going to be winning anything any other way.
+
+Not unless someone pulled a pillow over the heads of whoever was sitting to his side, the rich bastards.
+
+Hell, I’d be somewhat tempted to try and figure out who in the world those people are and part them from a bit of their wealth myself if I were a slightly worse man.
+
+Or if the Menagerie hadn’t already taken out every other person that tried something fancy. I don’t think I’m too keen on pissing them off.
+
+Neil suppressed a sigh. It seemed that all his hopes laid within the the suspicious, seemingly terrible mystery item.
+
+And so he waited. He watched as the other VIP section members entered a bidding war, only to lose to the people next to him once again. Neil wasn’t even sure what the conditions to win a bid were. It wasn’t like there were gold values for any of the items being sold.
+
+People were just calling out materials. Only when they stopped did things go silent for a few minutes before Madiv would abruptly declare a winner. That wasn’t to say Neil felt anything to be fake. All the materials certainly sounded pretty impressive, and the few he recognized were painfully expensive.
+
+Guess they’ve got an appraiser, or their crafters know their shit. That would be the first logical thing the Menagerie has done. It makes sense for a crafting guild to be familiar with materials.
+
+Neil paused as it struck him that it had been a minute without a bid. He leaned forward in his chair, watching Madiv carefully. Reya’s instructions had been very clear. If he wanted any chance at all of winning anything, he had to bid before anyone else had a chance to.
+
+Before he even knew what it was he was bidding on.
+
+“Sold!” Madiv called. “To Group 5!”
+
+As usual. The guys beside me. Gods, who are they? Is that the Adventurer’s Guild themselves? At least it took a bit longer this time around. They must be starting to realize that their funds aren’t actually infinite.
+
+“Did the Menagerie ever mention how many items were in this action?” Neil muttered to himself. “I don’t think they did. Damn. Sneaky buggers. Clever, though. No holding all your money for the last item and leaving the other ones out to dry if you don’t know when the end is coming.”
+
+Madiv waved the item away, banishing it in a puff of green smoke, before clapping his hands together. “And up next, something I’d imagine many of you haven’t had a chance to see! We’re pleased to show you a unique offering today, so get a good look!”
+
+Neil leaned even farther forward in his chair. His heart was already pounding a furious beat against his chest. It felt like he’d just outrun a Dungeon Break. The possibilities for what was coming up next spun through his head like falling snowflakes.
+
+Madiv held his hands out. Green smoke coiled around his palms and gathered into a swirling ball between his palms. Then it burst apart with a puff.
+
+And within the remnants of wispy green appeared the shittiest dagger that he had ever seen.
+
+Calling it a dagger might have been an insult to every other dagger in existence. The weapon was more like a sharpened piece of metal with a shoddily carved chunk of wood as a handle. Its blade bent at awkward angles that meant it would struggle to cut even a piece of bread.
+
+You can’t be serious.
+
+But Neil’s mouth moved before his brain had a chance to finish processing the insulting lump of shit in Madiv’s hands.
+
+“Eight bars of Nightsky Steel and a Silversoul Amethyst Crystal!”
+
+His words rang through the auction house before Madiv could even start describing the weapon’s properties. Everyone went silent. The heavy thump of Neil’s heart beat in his ears like a drum.
+
+Whelp. That’s everything I bought.
+
+Madiv cleared his throat.
+
+“Ah… a bit preemptive, but nothing wrong with trying to get ahead. This weapon is known as Soulmerger. It has a unique enchantment that I don’t believe has ever been seen anywhere in the kingdom before, forged by a group of smiths including Ifrit himself. This blade transfers the effects of its cut from its victim to the wielder.”
+
+Neil stared down at Madiv.
+
+“What?”
+
+Laughter erupted through the room from the people in the bottom floors that had stayed to watch the final round of the tournament. Even Madiv himself looked slightly amused.
+
+“Is that even a weapon?” Someone from the other side of the VIP section called, intentionally deactivating the noise suppression of the room.
+
+Madiv cleared his throat. “It may not be optimal for combat, but the enchantment—”
+
+“Is it Legendary?” Someone from Group 5 asked.
+
+“No,” Madiv replied. “But—”
+
+The laughter from the crowd drowned him out as it reached a new crescendo.
+
+“Is the Menagerie in the habit of making jokes during auctions?” The speaker from Group 5 asked. “Move on with the auction already.”
+
+“Relax yourself,” Madiv said. “I’m not done explaining the weapon.”
+
+“You don’t need to be,” came the voice from another VIP section. “That… thing doesn’t belong in the auction as anything other than a deterrent for idiots who bid before they even know what they’re buying. It isn’t even Legendary. It isn’t worth our time. Move on.”
+
+Neil nearly melted into his seat.
+
+You can’t be fucking serious. Did Reya play me? What is this piece of trash I just bought? A dagger that cuts its wielder whenever you stab someone with it? The only use of that is giving it to your enemy and then throwing yourself at them! What a piece of garbage! It’s a novelty item!
+
+Neil groaned, banging his head back against the back of his seat. It wasn’t like he could take his bid back. What was done was done — and Madiv wasn’t arguing with the people calling for him to move on.
+
+The auctioneer simply stood in silence for a few more seconds. But nobody else was bidding. It would have been mad to. Perhaps they’d have gone for it if it seemed like an interesting novelty item, but Neil had pulled the trigger and thrown literally everything he had at what might have been the worst item to ever grace an auction stage. Not even Group 5 was going to waste their seemingly-infinite wealth on something like this.
+
+When it became abundantly clear that the laughter was only started to taper out and nobody was going to be putting another bid in, he simply shrugged and clapped his hands together.
+
+“Sold! To Group 4!”
+
+“Sold? More like scammed,” Neil muttered. His heart was somewhere in his boots. Today was looking like it might have been his last day in the Kingdom. Bronze Dragon was going to kill him for this.
+
+Madiv launched right into the next item without delay. Neil barely even heard the words coming from his mouth. He just sank lower still into his chair. His mouth tasted like ash. Even the tantalizing pastries on the plate beside him held no more appeal.
+
+All he wanted to do was sink into the earth and disappear.
+
+Why would they do—
+
+A puff of green smoke appeared right before Niel.
+
+Out from within it fell the dagger he’d just spent every single scrap of the wealth Bronze Dragon had entrusted him with. It clattered to the ground at his feet with a sad clink. Neil stared down at the weapon. Then, reluctantly, he picked it up with two fingers, holding it before him like a steaming log of shit.
+
+The Mesh shimmered into being before his eyes.
+
+Soulmerger
+
+[Offering]: Soulmerger inflicts all damage done unto a target by its blade unto its wielder, generating magical energy within the blade and temporarily merging the souls of the wielder and target.
+
+[Recuppance]: Soulmerger reflects all effects done unto its wielder by a soul-merged target back unto the target at the cost of the magical energy stored within its blade.
+
+Neil stared at the item.
+
+“What?” He whispered.
+
+There was no rarity. It wasn’t Legendary. It wasn’t common. It wasn’t anything at all. It had a name and two sentences and nothing more.
+
+But those two sentences…
+
+It can reflect someone else’s attacks back to them? Basically indefinitely, so long as you land enough blows on them? But this dagger’s blade is so shoddy that getting a good cut is basically impossible.
+
+Goosebumps prickled across Neil’s skin. The dagger wasn’t going to be doing much damage to anyone it cut, which meant it wouldn’t be doing all that much damage back to whoever was using it. And in exchange…
+
+“Godspit. The small drawback of cutting yourself is nothing if it means you deflect someone else’s strongest technique,” Neil whispered. He could barely believe what he was looking at. Giddy excitement crushed out the horror that had been swallowing him just a moment ago. He scrambled back to his feet, laughter bubbling up to escape his lips. “This might be one of the most powerful defensive items I’ve ever seen.”

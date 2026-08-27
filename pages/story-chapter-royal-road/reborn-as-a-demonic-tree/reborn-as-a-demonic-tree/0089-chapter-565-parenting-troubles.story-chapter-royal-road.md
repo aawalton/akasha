@@ -1,0 +1,171 @@
+---
+id: cca07ec8-1d9c-5c27-89a2-41fd23eaa294
+page-type-slug: story-chapter-royal-road
+title: "Chapter 565: Parenting Troubles"
+slug: 0089-chapter-565-parenting-troubles
+partOf: reborn-as-a-demonic-tree
+position: 89
+ownLength: 2817
+unit: words
+publishedAt: 2026-04-29
+link: "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3334375/chapter-565-parenting-troubles"
+royalRoadId: "3334375"
+---
+
+It had only been a week since taking on more responsibilities, but Elaine was already beyond exhausted.
+
+"Hazel, stop trying to grab your brother's hair!" Elaine yelled as she walked around the living room picking up tossed clothes. Glancing up, her eyes widened. "Talon, no playing with the void near your sister! You hear me? It's dangerous," she pulled her children apart and put herself in the middle with a sigh.
+
+Between juggling two unruly toddlers who were too smart and capable for their own good, teaching the elites of the sect, overseeing the construction of the mystic illusion formations, and finally tackling the Fleshfruit tree research, she barely had any time to herself.
+
+The problem was the lack of people around whom she could leave the kids with. Being a Grand Elder afforded her a hefty allowance, so she should have been able to hire somebody, but there were few cultivators she felt comfortable leaving Talon with, as he could wield the void.
+
+Usually, the next option would be family. But for good reasons, her mother had been turned into a spirit that only existed in the Grove of Eternal Rebirth alongside the other dead, and her father was now a Bastion. The rest of the Voidmind family had been cleansed, leaving her with nobody.
+
+Meanwhile, the kids' father, Douglas, was off on a massive construction project, and the other Grand Elders were either in the Eternal Realm, training to reach the Monarch Realm, or were too busy recovering after their fight with Grand Elder Ren and his fleet.
+
+Worst of all, she had confidently taken on all these extra tasks in an attempt to prove her usefulness to the Patriarch and the sect. Being married to Douglas had secured her position within the sect, but she also wanted to be respected. Because right now, besides teaching the elites, she wasn't the first person that came to mind to solve any problems.
+
+Construction? Douglas had that covered better than anyone. Someone needed to die? Stella had likely already chopped their head off before you asked. The sect needed management? Diana knew the sect's finances inside and out. Magnus oversaw the Redclaw family and was the unofficial figurehead who helped rule Ashfallen and Darklight City. Elysia managed the cult of the All-Seeing Eye. Larry was the guardian beast able to keep everyone alive, and Kaida could weave heaven-binding contracts. Even the spirit trees like Nox, who oversaw Tartarus, or Quill, who managed Red Vine Peak's library, seemed to have a bigger role in the sect than she did.
+
+Of course, there was a chance it was her own lack of self-esteem rearing its ugly head again. But she was an analytical person, and when reviewing the sect, she just wasn't really necessary. Which stung more than perhaps it should have. After all, she'd started her life in this sect as a prisoner whom Stella had been one step away from murdering. It was only through some luck and Douglas's kindness that she survived and somehow climbed the sect's ranks to become a Grand Elder.
+
+She understood that she should be happy and grateful rather than jealous and feeling left behind, but when such ambitious and capable people surrounded her, the creeping feeling of inferiority was impossible to ignore.
+
+"I'm heading out, Jasmine," Elaine called into the hallway of Stella's home while wrestling to keep her two children at her side. While she had a home of her own, which she shared with Douglas in Darklight City, making the constant trips to and from Red Vine Peak with two children had been tiresome, so Jasmine had suggested she stay in Stella's house in Ashlock's Inner World since she was gone. The Princess's home was exactly as messy as she had expected, which made her feel less bad about the chaos her kids contributed to the place.
+
+Jasmine poked her head out of her room. "Are you going to the Fleshfruit trees again?"
+
+Elaine nodded. "Yeah... It's the task I've made the least progress on thus far, so I wanted to get a few hours of research in."
+
+"I can come with you, if you want?" Jasmine suggested. "I've been struggling to cultivate ever since returning from the Frozen Star Sect anyway, so some fresh air would be nice."
+
+"Um..." Elaine paused. She wasn't super thrilled about having to babysit three people while conducting cutting-edge tree research, a field she wasn't even that well-versed in.
+
+Perhaps sensing her thoughts, Jasmine quickly added, "Don't worry, I can play with Hazel and Talon. You won't have to worry about me."
+
+"Really?" Elaine let out a deep sigh of relief. "That would be fantastic."
+
+What had she been thinking? Of course, she wouldn't need to babysit Jasmine. While Jasmine was young, she was the Princess's disciple who had survived on her own in pocket realms.
+
+"Great, give me a moment to change out of my pajamas," she said and retreated into her room.
+
+"Hear that, you two?" Elaine glanced between her children. "Jasmine is going to play with you. Doesn't that sound fun?"
+
+Despite being in the Soul Fire Realm and able to stumble around by themselves, neither had developed the ability to talk much yet, besides some gargles and badly pronounced words.
+
+"Yush!" Hazel said excitedly. She liked Jasmine a lot.
+
+Meanwhile, Talon was his usual silent self, just nodding approvingly.
+
+"Okay, ready!" Jasmine said a minute later as she exited her room in typical All-Seeing Eye cult attire: a black robe embroidered with a red eye. Her hair was as striking as always, made of literal strands of green grass with tiny white jasmine flowers blooming throughout. Her skin was also slightly tinted green due to the poison lurking in her veins.
+
+"Jash," Hazel said, stumbling forward with her arms out.
+
+"My name is Jasmine, not Jash," she corrected as she picked Hazel up and put her on her shoulders. Hazel giggled happily. Jasmine then offered her hand to Talon, but he remained clinging to Elaine.
+
+"You're such a mama's boy, aren't you?" Elaine chuckled, earning a glare from her own kid. Shaking her head, she led the group outside. They closed the door behind them, more out of habit than need, as there was nothing else alive besides trees within Ashlock's Inner World.
+
+"Alright, let's go," Elaine said and began tracing a familiar path through the grass toward a nearby hill. Taking a breath of the fresh air and with Jasmine at her side, she felt a little less stressed.
+
+This place would be paradise to live in, she mused and glanced up at the dark sky, if not for the constant desolation raging overhead. In here, you can really feel Ashlock's sinister power.
+
+Deciding to focus on the nicer ground, she distracted herself with a question for her companion. "How are your parents doing, Jasmine?"
+
+"Good... I think?" Jasmine replied hesitantly. "They are really busy with work, especially my dad. He was promoted again and now oversees the Ashfallen Trading Company on his own. Though Diana still assists when she is around," Jasmine frowned. "Now that you bring them up, I realize I've been so busy with cultivating and attending your amazing lessons that I kind of forgot to visit them."
+
+"Oh, that's no good, Jasmine. I'm sure your mother misses you," Elaine said almost sarcastically. Right now, she would do anything to have a moment of peace away from the kids—as adorable as they were.
+
+"She's sooo annoying sometimes, though," Jasmine groaned. "Whenever I see her, she just nags me about anything that comes to mind. I also can't tell her anything I do because she will worry herself into ill health."
+
+"Can you blame her?" Elaine reasoned. "Any mother would be concerned to learn that her daughter carried poison in her veins and that her lifelong Master was someone as… well… eccentric as the Princess."
+
+"Stella is just misunderstood," Jasmine began but couldn't hold a straight face. "Okay, good point." A short silence stretched between them, broken by a question from Jasmine. "Off topic, but have you heard anything from Ryker recently? He hasn't been to your last two lectures."
+
+"The Silverspire prodigy? Last I heard, he had to visit home to sort out some matters." At only five years old, Ryker was comfortably in the Star Core Realm and was far too sharp-minded for his age. While Stella and the other Grand Elders were all talented, he was the true definition of a prodigy. Some people were just born to cultivate, and he was one of them.
+
+"Yeah, that's what I heard too." Jasmine looked concerned. "I hope he is okay."
+
+"That kid? Everyone knows he's favored by the Princess. If something bad happened to him, I'd be more worried about the fallout..." Elaine trailed off as they crested the hill and she laid eyes on a peculiar scene.
+
+What had once been a vast patch of empty land was now home to hundreds of identical demonic trees. Each one was towering, standing at fifty meters tall. However, what really set them apart from their counterparts on the surface was the way their branches were draped with all kinds of fruits, varying in size and color.
+
+"Do you see those ghostly things?" Jasmine asked, pointing toward the forest.
+
+Elaine followed her finger and saw it. A ghostly, wraith-like creature was floating up to the branches and picking the fruits.
+
+"Yeah... I see it."
+
+"Did you do this?" Jasmine asked, without a shred of confidence in her voice.
+
+"Obviously not," Elaine clarified and bit her lip. "Is this the work of the Patriarch?"
+
+Jasmine squinted at the forest. "I guess so? This area has that same spiritual feeling as the Grove of Eternal Rebirth, and we are in Ashlock's Inner World. I highly doubt such a forest could bloom in here without his notice."
+
+Elaine gulped at the sheer scale of what had seemingly appeared overnight and wondered why Ashlock even bothered to have sect members handle things when he was capable of feats like this.
+
+I guess compared to fighting a war with the Celestial Empire, the finances of the Ashfallen Trading Company, or some research on a tree pales in comparison to what he deals with on a day-to-day basis.
+
+"Let's go check it out," Jasmine suddenly said, rushing down the hill with a happy Hazel riding on her shoulders. Elaine reluctantly followed. The closer she got, the more vast the forest became, and the sheer number of fruits growing on each tree seemed entirely unnatural. Once they were at the foot of the outer ring of trees, one of the ghostly wraiths harmlessly passed by them with a handful of fruits. They looked humanoid but lacked defining features.
+
+Talon let go of her hand and walked behind one of them, his eyes glinting with curiosity.
+
+"Don't get too close, Talon," Elaine warned, her attention captivated by the forest all around her. She could see fruits growing in real time, only to be harvested seconds later by a wraith that seemed to manifest out of thin air.
+
+"Good afternoon, Elaine," a voice called suddenly. She turned to find Thanatos lurking in the shade of one of the massive trees. "Enjoying the forest?"
+
+"Patriarch, this is incredible. When did you make this place?" she asked with a hint of awe.
+
+"An hour ago or so," Ashlock casually admitted via Thanatos. "I call it the Heaven-Defying Orchard because it breaks so many laws about reality."
+
+"Fascinating," Elaine admitted. She couldn't stop herself from looking around in wonder. "What are these wraith-like beings for?"
+
+"The Orchard is spiritual in nature and manages itself. The fruits are grown and harvested automatically by these wraiths, which will increase the rate at which I can supply the Ashfallen Trading Company with fruits a hundredfold," Thanatos held out a small, mythical-looking fruit. "I also have new ones if you wish to try."
+
+Elaine wasn't one to turn down one of the Patriarch's miraculous fruits.
+
+"What does this one do?" she asked as she received the sweet-smelling fruit.
+
+"This fruit's capabilities are based on the same technique used to make this Orchard. I call it the Caretaker fruit. Eat it, I'm sure you will be surprised."
+
+Elaine did as the Patriarch requested. The fruit practically exploded with the deep flavor of the earth in her mouth. Her eyes began to burn and tear up, so she blinked a few times, and once the pain cleared, she was taken aback.
+
+"You can see it?"
+
+"Y-Yes, I can see it," Elaine muttered as she looked around. Almost like peering through an illusion, she could see the trees for what they truly were—vast spiritual beings, all interconnected in a sprawling network that pulsed softly with life. She looked up and could see the unfathomable amount of Qi being used to grow the fruits at heaven-defying speeds.
+
+Feeling drawn to a budding fruit, she touched it and realized she could alter its creation.
+
+"You can imbue fruits with your dao knowledge and Qi. I think this will greatly assist you in your research. Now follow me," Ashlock said, and Thanatos began leading the way. Elaine followed and was unable to take her eyes off the forest around her.
+
+Thankfully, she could feel Jasmine managing Hazel and Talon behind her. They were chasing one another around a tree, so she left them to it. One-on-one attention from the Patriarch, especially when he was assisting her with a task, deserved her full focus.
+
+"What other new fruits can you grow in this place?" Elaine asked, her curiosity getting the better of her. Any one of Ashlock's fruits was enough to start wars over, and he could grow dozens with varying capabilities and at rates that would make anyone pale in awe. Before Ashlock, any one of these fruits might have been a noble house treasure, harvested from some thousand-year-old tree in a secluded area blessed with Qi from a fallen Monarch or something. Meanwhile, Ashlock mass-produced these fruits faster than the best mortal farmers could grow potatoes.
+
+Thanatos casually plucked a fruit from a low-hanging branch. It was charcoal black on one side and an unnatural gold on the other. "This one is based on my cultivation technique: the Divine Cycle of Creation and Ruin. Eat this, and your next destructive techniques become restorative, and techniques meant to heal cause harm." He passed it to her and then plucked another. "Oh, this one should be useful. It's based on my ability to oversee everything." This fruit was emerald green in color and shaped like an eye. "Eat this, and you can peer through walls and illusions for a short time."
+
+Elaine took the fruit and wasn't sure how to feel about it. After all, she was an illusionist. The idea that eating one of Ashlock's fruits could entirely counter her ability to fight was unsettling.
+
+"Don't worry, I never sell fruits that could be used against me," Ashlock reassured her. "I asked you to make me a mystic Qi formation to obscure my mountain peak, right? What use would that be if people could buy a pill that let them peer through?"
+
+"Ah," Elaine let out a sigh of relief. "That's a good point."
+
+"Oh, this fruit is going to be an interesting one," Ashlock said, while having Thanatos pick a solid black fruit that looked more like a large seed. "It's based on my Bastion technique."
+
+That made Elaine perk up. The fleet of floating islands in service to the Ashfallen Sect was one of the greatest shows of power that Ashlock had. What would a fruit imbued with such a technique be capable of?
+
+"Unlike the others, this one isn't meant to be eaten. Put it into a creation, such as a golem, and it gives that creation basic sentience and the ability to levitate. I've been thinking of giving them to the Mudcloaks to help upgrade their construction golems—" Thanatos suddenly paused and looked into the distance.
+
+"Is something the matter?" Elaine asked hesitantly.
+
+Thanatos glanced back at her. "No, quite the opposite. Kaida has returned from the Eternal Realm."
+
+"Oh! That's great news," Elaine said with a smile.
+
+"Yeah. I need to go say hello, so I'll see you later," Thanatos said, vanishing into the shadows and dropping the Bastion fruit.
+
+Elaine picked it up and was surprised at how heavy it was. "So this is a Bastion fruit that can instill sentience... wait, couldn't I use this to guide the Fleshfruit trees on growing a body?"
+
+Glancing over her shoulder and confirming Jasmine was keeping the kids busy, she swiftly made her way toward the Fleshfruit trees. Yet on the way, her attention snapped toward the same direction Thanatos had glanced at moments earlier.
+
+"Is that immense spiritual pressure coming from Kaida?" Elaine gulped. "Monarchs really are different from the rest of us."

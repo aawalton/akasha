@@ -1,0 +1,149 @@
+---
+id: b8735d7e-225e-541c-ad5a-5ccf6983827b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 11: The White Rain (Part 1)"
+slug: 0011-chapter-11-the-white-rain-part-1
+partOf: quiet-life-of-the-mute-archmage-op-archmage-academy
+position: 11
+ownLength: 2127
+unit: words
+publishedAt: 2026-05-18
+link: "https://www.royalroad.com/fiction/167476/quiet-life-of-the-mute-archmage-op-archmage-academy/chapter/3414369/chapter-11-the-white-rain-part-1"
+royalRoadId: "3414369"
+---
+
+~ A Few Minutes Earlier
+
+The night stretched endlessly, a vast and unbroken canvas of deep indigo, where the full moon hung low and silent, its argent glow casting soft, silvered shadows across the village of Sigsug.
+
+Down below, within the quiet walls of one of the houses, a woman in her mid-forties sat settled into the embrace of a comfortable couch. Her red hair was pinned up in a neat bun, and her orange eyes watched her hands with a serene focus as two knitting needles moved in a calm, rhythmic dance, weaving through a strand of white wool.
+
+Jasmine knitted peacefully, a quiet hum escaping her lips as she gave herself over to the simple task.
+
+Her son, Ren, was seated on a couch nearer to the chimney, his green eyes distant as he stared into the flames that crackled and swayed with a hypnotic, gold-blue hue.
+
+"Mom," he called out, his voice easy but probing.
+
+"Yes, dear," Jasmine replied, her attention still held by the gentle click of her needles.
+
+With his mother's acknowledgement, Ren pressed on. "When did Dad say he'd return in his new letter?"
+
+Jasmine's fingers paused, the needles going still in her hands. Her eyes flicked briefly toward her son, and a sad smile touched her lips before she looked back down at the wool and resumed her knitting. "By the end of winter," she said.
+
+Ren groaned in frustration. "But he said this month, two months ago."
+
+Jasmine hummed, the smile still playing on her lips. "Well... let's just hope for this one, then," she offered, prompting another, deeper groan from Ren as he slumped back against the couch cushions.
+
+Then, as if a thought had just landed, he straightened himself slowly. "Mom," he called again.
+
+Jasmine raised a brow, a small, knowing smile already forming as she anticipated yet another question from her son. "Yes, my dear boy."
+
+Ren paused, his thoughts seeming to turn over carefully in his mind. After a few heartbeats, he opened his mouth. "This afternoon, while I was near the plagued field, I met Molly." He paused for a moment, then continued, "And I witnessed her cast magic without a voice again."
+
+Jasmine's hands halted once more. A worried expression flickered across her face as her eyes darted to where Ren sat. "What happened? Did anything go wrong on her way back? Did you get injured? Why are you telling me now? Did—"
+
+"Mom," Ren sighed deeply, barely resisting the urge to roll his eyes, already knowing his mother worried too much. "Nothing happened. We just saw a mana-poisoned ginger rhino beetle, so she healed it. That's all."
+
+Jasmine stared at her son for a long moment. Then, after a few heartbeats, the tension in her features slowly receded. A sigh escaped her as she returned to her knitting. "Alright."
+
+"Is it really possible?" Ren's voice came the moment she had begun to focus again.
+
+A frown creased her brow. "What do you mean?" she asked, though she already knew what her son was trying to say.
+
+Ren groaned. "Mom, you always ignore me whenever I ask this. Please, just answer." He paused, then finally gave voice to the question that had been churning inside him. "Is it possible for someone who can't speak to chant a magic spell?"
+
+Jasmine stilled, her fingers ceasing their work. Her eyes drifted to the window, gazing out at the night sky that blanketed the world in an indigo hue. A small smile graced her lips as she shifted her focus back to the wool and began knitting again. "Hmmm... maybe. I don't know." She finally glanced at her son, an amused expression surfacing. "Haven't you been reading your books?"
+
+Ren pouted, letting out a tired groan. "Yes, Mom," he said. "And based on what I've read, no one can chant without a voice. No mages or unawakened can do that. Only the legendary archmages or the myth sages could perform such a feat." He sighed deeply. "That's why I've been asking you."
+
+His weary but determined gaze finally shifted from his mother and landed on a figure lying on a long couch opposite his. A book she had been reading lay open, covering her face as if she had fallen asleep. A frown surfaced on his face. "Come on Fiona, say something. Join me in bringing out the truth from Mother."
+
+The young woman in question didn't reply. She remained in that position, paying her younger brother no mind, as if she truly were sleeping, which Ren knew full well she wasn't.
+
+A thought sparked in his mind, and his frown soon twisted into a mischievous smile that spread across his lips. He rose slowly from his couch and tiptoed over to where Fiona lay. Reaching her, he crouched slightly, coiling his body like a spring ready to release.
+
+Then he jumped on her—or wanted to, because before he could land, Fiona casually raised a hand and held him suspended in the air.
+
+A deep sigh escaped her as she pulled the book from her face, a smirk already plastered on her lips. "Still too slow, even after six years," she said in a mock-playful tone.
+
+Still held aloft by his sister's hand, Ren grinned. "Who says I'm slow?" he countered as she dropped him down. "I'm just giving you an easy time to test if you've gotten rusty."
+
+His smile widened with pride as he puffed out his chest. "Because the Ren you see here isn't the weak Ren of six years ago." He shot her a glance. "This Ren has a potential of twenty-eight, which makes me a late-stage Apprentice on the verge of becoming an Adept," he declared boldly.
+
+Fiona gave a short gasp of surprise. "Whoa, are you serious, little muffin?"
+
+Ren nodded with pride, but a frown soon creased his features as her words registered. "You're not allowed to call me that," he stated before turning slightly away. "Only Mom and Dad are allowed to call me that."
+
+Fiona laughed. "Oh, really?" She sat up and caught her little brother in a tight embrace, ruffling his hair until he dissolved into giggles. "Haha, stop!" he managed.
+
+Fiona grinned. "Not until you give me permission to call you that."
+
+Their playful tussle lasted a few minutes, until Ren finally surrendered and allowed his sister the privilege.
+
+Fiona chuckled softly as she moved to lie back on the long couch, but she paused when she noticed Ren had already hopped onto the other end and settled himself there. He glanced at her with a smug look on his face.
+
+A deep sigh escaped her as she shook her head and sat up properly, resting her back against the couch. Seeing that his sister hadn't shooed him back to his own chair, a look of satisfaction bloomed on Ren's face—he had accomplished what he came here for. 'Now she'll have to join me.' He beamed inwardly as he shifted his gaze back to his mother, still seated on the couch near the window.
+
+"Mom," he said, finally voicing what had been nagging at him. "Is she an archmage?"
+
+A silence followed his question. He watched Jasmine halt her knitting for a moment, her eyes growing distant as she glanced out the window, a frown settling on her face while she muttered to herself, "Was I seeing things?"
+
+Ren felt his elder sister shift beside him. "Mom, is something wrong?" Fiona asked, concern creeping into her voice.
+
+Jasmine turned to look at her children, the earlier frown quickly replaced by a warm smile. She waved a dismissive hand. "Nothing too serious."
+
+Fiona raised a brow. "Are you sure?" she probed.
+
+Jasmine gave a short nod and returned to her knitting. "It's really nothing. I just thought I noticed the sky darken strangely for a moment, that's all."
+
+Fiona watched her mother, who was already humming and knitting calmly once more. Eventually, she sighed and leaned back into the couch, shooting her younger brother a pointed look for dragging her from her rest just so she could join his relentless questioning.
+
+A deep sigh escaped her. Not that she wasn't curious herself—in fact, she was the most curious of them all. But her mother had only ever told her that the girl was special in her own way.
+
+Another sigh left her lips as she massaged her forehead. The young girl's very ability to use magic without a voice seemed to point squarely in the direction of an archmage. But at the same time, Fiona couldn't make a full assumption, because she had never seen the girl use an archmage-tier formula.
+
+A frown appeared on Fiona's face as she recalled the high-level formula that had manifested in the sky and swallowed the grand wyvern whole. 'Was that her doing?' she asked herself inwardly, thinking deeply, but she soon shook her head. 'No. She looks too innocent to cast that kind of terrifying formula.' As foolish as that reasoning was, even to her, she couldn't bring herself to imagine that young girl casting such a spell. Her orange eyes landed on Ren, who was staring intently at Jasmine as he formulated some new plan in his mind.
+
+A slight smile touched Fiona's face. Her earlier thought felt firmer now. The girl was most definitely not an archmage. She shifted her gaze back toward the window, and a conclusion formed in her mind. Maybe it's the girl's mother—the woman Mom told me about. She remembered Jasmine once speaking of a secret ancestor of theirs living in the mountain, watching over them. Fiona sighed. Perhaps it was their ancestor who had cast the formula that swallowed the grand wyvern.
+
+Fiona shifted slightly on the couch, her thoughts circling back to the young girl. A sigh of acceptance escaped her. Everything about the girl defied the known knowledge of mages around the world, and Fiona was no longer the sort of person who loved to probe too deeply into such things.
+
+Her gaze settled on Jasmine, who knitted calmly. A small smile played on Fiona's lips. Well... maybe she still probed a little bit, but not too much anymore. And it seemed her mother had been right all along. The girl really was special in her own way.
+
+Her thoughts were briefly interrupted by an intentional jab from her younger brother. Fiona shot him a pointed look, her brow raised. "What?" she whispered.
+
+Ren leaned closer, a frown on his face. "Help me out," he murmured.
+
+An amused expression crawled across her features. "And why should I?"
+
+His frown deepened. "Isn't it obvious? You're the professional."
+
+Fiona snorted and turned away. "Well, not anymore. I'm trying to change."
+
+This time, it was Ren's turn to snort, which made Fiona reach over and tickle him, drawing out more giggles.
+
+But the siblings' banter ceased the moment Fiona noticed the tense expression that had seized her mother's face as she stared out the window. "Oh, heavens," she heard Jasmine whisper grimly.
+
+"Mom..." Fiona said, pulling her hand away from her brother, who was now frowning as he, too, noticed Jasmine's expression.
+
+When Jasmine didn't reply, Fiona's frown deepened. She opened her mouth to press further, but stopped when she saw her mother abruptly drop her knitting needles and the half-finished robe she had been working on. Jasmine stood and hurried to the window, throwing it open the moment she reached it.
+
+Fiona's eyes couldn't help but widen at what she saw next.
+
+It was raining.
+
+It was raining a faint, glowing white rain.
+
+"What... what the hell is this?" Fiona breathed, utterly bewildered by the sudden, luminous downpour. Then her eyes flew wide. "Wait... don't tell me." Her gaze immediately darted to Jasmine. "Mom, is it what I'm thinking?"
+
+Jasmine, however, didn't hear any of it. Her eyes were stretched wide, trembling as she watched the blinding white glow at the distant mountain peak intensify, spilling over the whole of Sigsug in a radiance of something bright, something deep.
+
+Like the descent of the moon.
+
+Jasmine shielded her eyes until the white light receded, plunging the world back into darkness, save for the still-falling white rain that pitter-pattered upon the world.
+
+Her breath caught when she saw a glowing white orb float toward her. She didn't think; she immediately reached out, and the moment her fingers met its gentle light, her already-wide eyes trembled violently at the words that bloomed in her mind. 'Take care of Molly for me.'
+
+Her gaze shook, sadness flooding through her as she understood what this meant. "Ancestor Jen..." she whispered. Her eyes shifted back toward the mountain. The sorrow on her face deepened, settling into every line as she breathed out in a trembling voice.
+
+"Molly..."

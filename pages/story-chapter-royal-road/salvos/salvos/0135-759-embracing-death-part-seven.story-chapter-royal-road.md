@@ -1,0 +1,359 @@
+---
+id: 171740f2-27bc-5494-a73c-893c7219d74c
+page-type-slug: story-chapter-royal-road
+title: "759. Embracing Death Part Seven"
+slug: 0135-759-embracing-death-part-seven
+partOf: salvos
+position: 135
+ownLength: 1701
+unit: words
+publishedAt: 2025-10-20
+link: "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/2691839/759-embracing-death-part-seven"
+royalRoadId: "2691839"
+---
+
+759. Embracing Death Part Seven
+
+Chordus felt her entire being— her entire existence— begin to fade away. It was a strange sensation. Simultaneously, it felt like she was being torn apart, all the while she was growing numb. It was almost as if she was just losing grip of herself, and there was nothing she could do to fight back against it.
+
+However, somehow, she resisted. Even as the last vestiges of the pocket space faded away, and Naro’s lifeless corpse hovered in stasis before her— crushed from the pressure that also seemed to press against the [King Of The Wild]’s crystalline body— she still managed to cling onto her consciousness.
+
+She managed to hold onto her existence. Perhaps it was because she could still feel the hammering of her heart, or maybe it was the strange flickering of distortion that overcame her body, but her body didn’t fall apart. And she tried her best to wade through the darkness, reaching for something— anything that could save her.
+
+And something did.
+
+Something seemed to draw her in.
+
+Something that managed to defy the laws of space in this place, just like she was doing.
+
+Chordus didn’t know what it was, but she reached for it. She pulled herself towards it, thinking it could give her her salvation. Because she couldn’t die here. Not like this. Not when the Enemy was still alive.
+
+This was her single-use Grand Skill. She was sacrificing her entire existence for the sake of the Demon King. For Regnorex.
+
+To help him complete the ritual.
+
+For all of Demonkind.
+
+That was why Chordus was doing this. When she had lost all will to live— when she had thrown herself to be killed by the [Queen Of Diamonds]— Regnorex had saved her. He had given her a will to live.
+
+He had saved her. Just like he was going to save them all.
+
+Just like he would bring them all salvation.
+
+So why did they oppose him? Why?
+
+Chordus didn’t know. She didn’t care. She just had to— had to…
+
+And as she reached for something to save her, she saw it. Her escape from whatever this place was. It floated there. Like it was in the far distance, yet it seemed so close as well.
+
+A golden ring. A giant mass of black. A singularity that was so powerful, it called to her despite the stasis it was held in.
+
+Something that twisted reality itself.
+
+This is it! she thought as her heart raced faster and faster. Her time would run out soon. So she couldn’t give up now. This is my salvation!
+
+It pulled her— she pulled herself towards it. Chordus drew closer to this sphere of black. It tugged her inch by inch, mile by mile. Time itself seemed to stop mattering. It felt like an eternity passed, all the while only mere moments had gone by. The distance between her and her salvation bent and changed.
+
+But even still, she didn’t falter. She pulled herself closer to it until she could practically touch its ringed edge—
+
+I will live for my King! she thought as she touched the event horizon of the black hole.
+
+And her body began to spaghettify into broken atoms as she let out a silent scream, before she could even comprehend what was happening.
+
+“And it’s over.”
+
+I whispered as I raised my head. Manos sighed, shaking his head.
+
+“Finally. Now, are you guys going to surrender, or will I have to force you to surrender?”
+
+He spoke threateningly, turning to face the remaining leaders of the legions. But I barely paid attention to that. Instead, I listened as the notifications rolled in from my mind, signifying my victory.
+
+Defeated [Hellprince Of Ice - Lvl. 189]
+
+More experience is awarded for defeating an enemy at least 10 levels above you!
+
+Less experience is awarded for defeating an enemy with the help of others!
+
+Defeated [King Of The Wild - Lvl. 205]
+
+Abundant experience is awarded for defeating an enemy above Level 200!
+
+More experience is awarded for defeating an enemy at least 30 levels above you!
+
+Less experience is awarded for defeating an enemy with the help of others!
+
+Unique Skill [[̶͙̌C̸͍̆ǒ̷̲r̴͍̈́ȑ̷̙u̴̻̍p̷̓ͅt̵̺̐ę̵̾ḑ̵͌ ̵̝̾D̶̡̛ḯ̸̡ṽ̵̳i̸͖͛n̵̘͂ě̵͓ ̶̡͊D̶̗̔r̸̖͗a̸̜͑g̷͔̕o̸̰͂n̶͇̽’̸̲̅s̸̜̀ ̸͓̾B̷̺̉r̴͍͝e̵̱̾a̵͖͗t̴̬̕h̷̪̃]̸͓̀!̴̖̃ Learned!
+
+Abundant experience is awarded for the learning of a Unique Skill!
+
+Grand Skill [Soul Of The Primordial Demon] Learned!
+
+Abundant experience is awarded for learning a Grand Skill!
+
+Subspecies [Angelic Devil Princess] Level Up!
+
+[Angelic Devil Princess – Lvl. 174] -> [Angelic Devil Princess – Lvl. 175]
+
+Gained 5 Stat Points and 3 Skill Points!
+
+Gained 1 Grand Skill Skill Point!
+
+Subspecies [Angelic Devil Princess] Level Up!
+
+[Angelic Devil Princess – Lvl. 175] -> [Angelic Devil Princess – Lvl. 176]
+
+Gained 5 Stat Points and 3 Skill Points!
+
+Subspecies [Angelic Devil Princess] Level Up!
+
+[Angelic Devil Princess – Lvl. 176] -> [Angelic Devil Princess – Lvl. 177]
+
+Gained 5 Stat Points and 3 Skill Points!
+
+Subspecies [Angelic Devil Princess] Level Up!
+
+[Angelic Devil Princess – Lvl. 177] -> [Angelic Devil Princess – Lvl. 178]
+
+Gained 5 Stat Points and 3 Skill Points!
+
+Subspecies [Angelic Devil Princess] Level Up!
+
+[Angelic Devil Princess – Lvl. 178] -> [Angelic Devil Princess – Lvl. 179]
+
+Gained 5 Stat Points and 3 Skill Points!
+
+Subspecies [Angelic Devil Princess] Level Up!
+
+[Angelic Devil Princess – Lvl. 179] -> [Angelic Devil Princess – Lvl. 180]
+
+Gained 5 Stat Points and 3 Skill Points!
+
+Gained 1 Grand Skill Skill Point!
+
+Subspecies [Angelic Devil Princess] Level Up!
+
+[Angelic Devil Princess – Lvl. 180] -> [Angelic Devil Princess – Lvl. 181]
+
+Gained 5 Stat Points and 3 Skill Points!
+
+Subspecies [Angelic Devil Princess] Level Up!
+
+[Angelic Devil Princess – Lvl. 181] -> [Angelic Devil Princess – Lvl. 182]
+
+Gained 5 Stat Points and 3 Skill Points!
+
+Subspecies [Angelic Devil Princess] Level Up!
+
+[Angelic Devil Princess – Lvl. 182] -> [Angelic Devil Princess – Lvl. 183]
+
+Gained 5 Stat Points and 3 Skill Points!
+
+Class [C-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝rr-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝pt-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝d Appr-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝nt-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝c-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝] Level Up!
+
+[C-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝rr-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝pt-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝d Appr-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝nt-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝c-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝ - Lvl. 158] -> [C-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝rr-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝pt-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝d Appr-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝nt-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝c-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝ - Lvl. 159]
+
+Gained 2 Secondary Skill Points!
+
+Class [C-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝rr-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝pt-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝d Appr-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝nt-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝c-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝] Level Up!
+
+[C-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝rr-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝pt-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝d Appr-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝nt-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝c-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝ - Lvl. 159] -> [C-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝rr-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝pt-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝d Appr-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝nt-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝c-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝ - Lvl. 160]
+
+Gained 2 Secondary Skill Points!
+
+Gained 1 Grand Skill Point!
+
+Class [C-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝rr-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝pt-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝d Appr-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝nt-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝c-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝] Level Up!
+
+[C-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝rr-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝pt-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝d Appr-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝nt-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝c-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝ - Lvl. 160] -> [C-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝rr-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝pt-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝d Appr-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝nt-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝c-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝ - Lvl. 161]
+
+Gained 2 Secondary Skill Points!
+
+Class [C-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝rr-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝pt-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝d Appr-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝nt-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝c-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝] Level Up!
+
+[C-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝rr-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝pt-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝d Appr-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝nt-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝c-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝ - Lvl. 161] -> [C-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝rr-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝pt-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝d Appr-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝nt-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝c-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝ - Lvl. 162]
+
+Gained 2 Secondary Skill Points!
+
+Class [C-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝rr-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝pt-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝d Appr-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝nt-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝c-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝] Level Up!
+
+[C-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝rr-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝pt-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝d Appr-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝nt-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝c-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝ - Lvl. 163] -> [C-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝rr-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝pt-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝d Appr-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝nt-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝c-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝ - Lvl. 164]
+
+Gained 2 Secondary Skill Points!
+
+Class [C-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝rr-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝pt-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝d Appr-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝nt-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝c-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝] Level Up!
+
+[C-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝rr-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝pt-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝d Appr-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝nt-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝c-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝ - Lvl. 164] -> [C-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝rr-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝pt-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝d Appr-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝nt-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝c-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝ - Lvl. 165]
+
+Gained 2 Secondary Skill Points!
+
+Gained 1 Grand Skill Point!
+
+Class [C-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝rr-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝pt-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝d Appr-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝nt-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝c-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝] Level Up!
+
+[C-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝rr-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝pt-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝d Appr-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝nt-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝c-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝ - Lvl. 165] -> [C-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝rr-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝pt-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝d Appr-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝nt-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝c-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝ - Lvl. 166]
+
+Gained 2 Secondary Skill Points!
+
+Class [C-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝rr-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝pt-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝d Appr-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝nt-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝c-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝] Level Up!
+
+[C-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝rr-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝pt-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝d Appr-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝nt-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝c-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝ - Lvl. 166] -> [C-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝rr-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝pt-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝d Appr-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝nt-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝c-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝ - Lvl. 167]
+
+Gained 2 Secondary Skill Points!
+
+Class [C-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝rr-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝pt-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝d Appr-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝nt-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝c-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝] Level Up!
+
+[C-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝rr-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝pt-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝d Appr-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝nt-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝c-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝ - Lvl. 167] -> [C-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝rr-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝pt-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝d Appr-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝nt-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝c-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝ - Lvl. 168]
+
+Gained 2 Secondary Skill Points!
+
+Class [C-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝rr-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝pt-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝d Appr-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝nt-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝c-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝] Level Up!
+
+[C-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝rr-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝pt-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝d Appr-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝nt-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝c-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝ - Lvl. 168] -> [C-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝rr-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝pt-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝d Appr-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝nt-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝c-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝ - Lvl. 169]
+
+Gained 2 Secondary Skill Points!
+
+Class [C-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝rr-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝pt-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝d Appr-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝nt-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝c-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝] Level Up!
+
+[C-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝rr-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝pt-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝d Appr-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝nt-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝c-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝ - Lvl. 169] -> [C-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝rr-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝pt-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝d Appr-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝nt-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝c-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝ - Lvl. 170]
+
+Gained 2 Secondary Skill Points!
+
+Gained 1 Grand Skill Point!
+
+Class [C-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝rr-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝pt-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝d Appr-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝nt-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝c-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝] Level Up!
+
+[C-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝rr-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝pt-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝d Appr-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝nt-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝c-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝ - Lvl. 170] -> [C-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝rr-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝pt-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝d Appr-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝nt-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝c-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝ - Lvl. 171]
+
+Gained 2 Secondary Skill Points!
+
+Salvos (The Enemy of the Demon King) (The Devil’s Daughter) (Immortalslayer)
+
+Species: [Primeval Demon of Pride]
+
+Secondary Species: [Lesser God]
+
+Subspecies: [Angelic Devil Princess] - Lvl. 183
+
+Class: [C-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝rr-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝pt-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝d Appr-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝nt-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝c-̴̨̯͍̜̘̼̣̯͚̘̹̪̘͙͌̾͆̚͝] - Lvl. 171
+
+General Skills:
+
+[Advanced Mana Manipulation] - Lvl. 10 (Maxed)
+
+[Corruption Mastery] - Lvl. 1
+
+[Identification] - Lvl. 6
+
+[Racial Skill: True Divinity] - Lvl. 1 (Maxed)
+
+[Racial Skill: Universal Language Comprehension] - Lvl. 2
+
+[Rest] - Lvl. 5
+
+[Wisdom of the Old Gods] - Lvl. 5
+
+[Title Skill: Demonic Essence Resistance] - Lvl. 1
+
+[Title Skill: General Status Effect Resistance] - Lvl. 1
+
+[Title Skill: Invoke Wrath] - Lvl. 1
+
+[Title Skill: Influence Wild Demons] - Lvl. 1
+
+[Title Skill: Rapid Disengage] - Lvl. 1
+
+[Title Skill: The Devil’s Grace] - Lvl. 1
+
+[Racial Skill: Divine Essence of the Angelic Devil Princess] - Lvl. 2
+
+Stats:
+
+[Available Stat Points: 45]
+
+[Vitality]: 330 (+150) (+10) (+50) (+100)
+
+[Strength]: 330 (+10) (+10) (+50) (+100)
+
+[Endurance]: 330 (+10) (+10) (+50) (+3) (+100)
+
+[Wisdom]: 500 (+40) (+10) (+50) (+50) (+100)
+
+[Agility]: 545 (+10) (+10) (+50) (+5) (+100)
+
+Skills:
+
+[Available Skill Points: 33]
+
+[Angel’s Wings] - Lvl. 20
+
+[Barrage of Cinders] - Lvl. 20 (Maxed)
+
+[Divine Demon’s Mark] - Lvl. 20 (Maxed)
+
+[Divine Haste] - Lvl. 20 (Maxed)
+
+[Intimidation] - Lvl. 10 (Maxed)
+
+[Faux Limbs] - Lvl. 25 (Maxed)
+
+[Divine Nebular Construct] - Lvl. 25 (Maxed)
+
+[Divine Strike] - Lvl. 20 (Maxed)
+
+[Divine Radiant Slash] - Lvl. 15 (Maxed)
+
+[Sacred Hellfire] - Lvl. 18
+
+[Salvo of Vanity] - Lvl. 25 (Maxed)
+
+[The Call of Armageddon] - Lvl. 15
+
+[The Holy Flames] - Lvl. 20 (Maxed)
+
+[Passive - Angelic Premonition] - Lvl. 15
+
+[Passive - Weapon Mastery] - Lvl. 20 (Maxed)
+
+[Available Grand Skill Points: 4]
+
+[Claw of Corruption] - Lvl. 2
+
+[My Flame Shall Burn Until Eternity Ends] - Lvl. 3 (Maxed)
+
+[Soul Of The Primordial Demon] - Lvl. 1
+
+[Unused Skill Slot] x1
+
+Secondary Skills:
+
+[Available Secondary Skill Points: 24]
+
+[Corrupted Draconic Fury] - Lvl. 1
+
+[Cluster Time Dilation] - Lvl. 15 (Maxed)
+
+[Greater Teleportation] - Lvl. 20 (Maxed)
+
+[Manifestation of the Old Gods] - Lvl. 10 (Maxed)
+
+[Prison Of Isolation] - Lvl. 17
+
+[Riftwalk] - Lvl. 2
+
+[Truth Divination] - Lvl. 10 (Maxed)
+
+[Worldbreak] - Lvl. 6
+
+[Passive - Corrupted Dragon Scales] - Lvl. 1
+
+[Passive - Corrupted Regeneration] - Lvl.1
+
+[Passive - Master of Material Manipulation] - Lvl. 15 (Maxed)
+
+[The World of My Mind] - Lvl. 2
+
+[[̶͙̌C̸͍̆ǒ̷̲r̴͍̈́ȑ̷̙u̴̻̍p̷̓ͅt̵̺̐ę̵̾ḑ̵͌ ̵̝̾D̶̡̛ḯ̸̡ṽ̵̳i̸͖͛n̵̘͂ě̵͓ ̶̡͊D̶̗̔r̸̖͗a̸̜͑g̷͔̕o̸̰͂n̶͇̽’̸̲̅s̸̜̀ ̸͓̾B̷̺̉r̴͍͝e̵̱̾a̵͖͗t̴̬̕h̷̪̃]̸͓̀!̴̖̃ - Lvl. N̸̛̟̱̖͈̲͉̯͇̭͉̳͓͋̔̍͛͒̑͑̾͠I̴̧̢͕͈̜̫̪͉̥̹͚̞̖̲͕̟̒̅͂̋̉̀̑͋̆̀̉͘Ľ̸̬̭́̓̈̒͌̀͂̄̂̀͗́͆̌̆̚
+
+While it didn’t feel like a perfect victory, considering I had to sacrifice an ally— albeit one I barely knew— to win. I still couldn’t help but grin when I deliberated over my brand new Status.
+
+“Huh, nice.”

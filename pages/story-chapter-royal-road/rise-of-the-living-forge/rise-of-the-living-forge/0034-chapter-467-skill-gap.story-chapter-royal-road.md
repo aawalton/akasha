@@ -1,0 +1,153 @@
+---
+id: e96259f8-8bf0-5c0c-96d0-1157dd488e0d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 467: Skill gap"
+slug: 0034-chapter-467-skill-gap
+partOf: rise-of-the-living-forge
+position: 34
+ownLength: 1828
+unit: words
+ownProgress: 1828
+publishedAt: 2025-08-05
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2494321/chapter-467-skill-gap"
+royalRoadId: "2494321"
+markedReadAt: "2026-06-29T19:59:32.760Z"
+---
+
+Thane’s hands moved before his mind had finished processing that the duel had started. Lightfinger yanked itself up, slamming into Drake’s sword with a loud, ringing clang. Tremors from the blow ran down Thane’s arm like rolling thunder.
+
+He staggered back a step. But he wasn’t the only one. Drake stumbled back as well, surprise flashing over his features. He clearly hadn’t expected Thane to be able to block his strike.
+
+Drake wasn’t off guard for long. He leapt at Thane again with a yell, bringing his blade down in a blurred streak. It wasn’t the kind of blow that was meant for a duel, but a savage strike meant to dispatch an opponent.
+
+Thane’s hands moved on their own again. Lightfinger knocked the strike to the side, pulling a trickle of magic from within Thane in the process. He stumbled back once more, the ringing metal echoing in his ears.
+
+“Fight back!” Ifrit yelled. “You can’t just stand there and take hits!”
+
+The words barely even reached Thane’s ears. His blood pounded so loud that he could barely hear anything other than the pump of his own heart. The palms of his hands were slick with sweat and his stomach had so many knots in it that the pressure would probably turn it into a diamond any second now.
+
+He could feel the gazes of everyone in the party bearing into him and Drake. This wasn’t how he’d expected the day to go at all. He didn’t know how to fight. He didn’t want to fight.
+
+But he didn’t have a choice.
+
+Lightfinger pulled itself into the path of another attack that would have taken his arm off if left uncontested. Thane stumbled back once more, finding himself right at the edge of the crowd ringing the arena. There was nowhere left to back up.
+
+Drake lunged forward, swinging his sword in a black streak for Thane’s shoulder.
+
+I can’t keep running.
+
+The people behind Thane lurched back to avoid getting sliced on accident when Drake cut through Thane.
+
+But the sword never finished its path. Lightfinger shot up once more. It caught Drake’s blow — and held it in place. Thane’s arm trembled as he fought to keep Drake from pushing the blade down on him.
+
+Then, with a yell, he thrust his other sword forward. It was a bad strike, even by Thane’s standards. The sword screeched along the side of Drake’s chest plate, sliding harmlessly off to the side.
+
+But the sword left a mark of its passing, a thin scratch that ran along the side of the enchanted metal in spite of the enchantments hardening it.
+
+Thane jumped to the side, letting his brother’s sword slice down through the air where he’d been as he put several steps of distance between them.
+
+Drake barely even noticed. His eyes flicked down to the cut along his armor, then back up to Thane. Fury burned with them. But there was more than that. Beneath the fury was another emotion.
+
+Fear.
+
+Thane had cut the enchanted armor — and he hadn’t even activated Birthday Poker’s magical ability to cut through magic. That was just the blade’s normal sharpness.
+
+That tiny scratch on Drake’s armor may as well have been someone spitting into his face. His armor, a set of equipment that should have been all but impervious to just about every attack, had just been damaged from a pathetic, glancing blow.
+
+Murmurs rolled through the crowd, but they were distant. The world around Thane was nothing but the sandy arena and Drake. He couldn’t afford to let himself think about anything else.
+
+“You think you’re better than me?” Drake snarled. “You think you can beat me?”
+
+No. I don’t want to be here at all.
+
+But he was here. There was no changing that. And he wasn’t the only one. The Menagerie were here as well. They’d come when they didn’t have to. When they definitely had better things to be doing.
+
+And they’d come here for him.
+
+Thane’s hands tightened around the hilts of his swords. He didn’t have the faintest damn idea how to use them properly. His combat training could only be described as laughable at best.
+
+Drake’s sword flashed down toward him. Lightfinger danced up to meet the blade. The two weapons connected with a ringing crash, and Thane lashed out with Birthday Poker with a cry.
+
+He sent magic flowing from himself into the weapon. Its blade glistened with dark blue energy an instant before it sliced across Drake’s chest, shearing through the armor like it was made out of paper.
+
+Drake stumbled back, his eyes going wide in disbelief. He looked down at his chest, mouth agape. Blood welled from beneath the armor, starting to trickle out in a steady stream. The cut wasn’t a deep one.
+
+But it was a cut. One that had gone right through his protection as if nothing was there. All the fancy armor he wore was nothing in the face of what Ifrit had called a below average sword.
+
+Thane’s heartbeat slammed harder still in his ears. It drowned out the intensifying mutters coming from the crowd.
+
+He’d done everything he could to help his family. He’d tried to commit to his duties as second son as best he could. But that wasn’t enough. He gave, and they wanted more. And for what purpose?
+
+The Blacktongues didn’t care about his grandfather’s feats. They had no interest in learning about the vast wonders this world held. His research was nothing to them. He was nothing to them.
+
+Thane’s lips thinned.
+
+Drake let out a cry and leapt at him again. He sent several blurred strikes at Thane in rapid succession. Lightfinger met each one of them, filling the air with the sound of ringing metal as the onslaught met nothing but steel.
+
+Then, with a snarl, Thane drove his foot forward. He planted it straight in Drake’s chest with all the force he could bring to muster. That, in all honesty, wasn’t that much. It wouldn’t have so much as budged a Journeyman level monster.
+
+But for his brother, it was enough.
+
+Drake stumbled back, nearly tripping over his own feet. Thane lunged at him, slicing with Birthday Poker, and Drake threw himself back.
+
+The heavily armored boy hit the ground with a pained grunt. He scrambled back, nearly slipping as he shoved himself back upright and brought his sword to bear before himself with trembling hands.
+
+The whites of Drake’s eyes had grown wider. He might have had more training. He might have had more magical items and the support of just about everyone in the crowd. But he didn’t have Ifrit’s equipment— and he certainly didn’t have experience.
+
+Thane hadn’t been in any real duels, but he’d watched the Menagerie clear an Expert Tier dungeon. He’d been there for the fights. And, even if to just a small degree, he’d been a part of those fights.
+
+There was no training that could ever replace that.
+
+“Who do you think you are?” Drake demanded between sharp, breathless gasps. The panic gripping him was getting stronger. This wasn’t just about losing the fight. It was about losing face. “Have you forgotten your place?”
+
+Thane stared at Drake for a long second.
+
+Emotions twisted within him like a storm. Repressed thoughts, bound by years of restraint, finally loosed themselves.
+
+Thane’s reputation had never mattered… but Drake’s was all that he had.
+
+“I’m done,” Thane whispered.
+
+“Done?” Drake asked. “You think you can just back out of this? This duel isn’t over, Thane. You’re nothing compared to me. Nothing!”
+
+“Not with the duel,” Thane said. “With you. With all of you.”
+
+“That’s not a choice you get to make,” Drake snarled. He let out a yell as he raced forward, swinging his sword with both hands at Thane. Even a blind man could have seen the blow had absolutely no sportsmanship in it at all.
+
+It was a killing blow — and Thane ducked past it like it was nothing more than a leaf drifting through the breeze.
+
+He drove his foot into Drake’s backside, sending the other boy stumbling forward. Drake barely managed to catch himself before he tripped over the edge of the sandy area. He spun, fury burning in his eyes like hot flame.
+
+“Yes, it is,” Thane said. His voice was louder this time. “House Blacktongue has only ever had one son. That’s always been clear, so why don’t we make it official?”
+
+“You have a duty!” Drake yelled. He lunged at Thane again, but Lightfinger stopped his attack once more.
+
+This time, Thane didn’t even flinch. He stared into Drake’s eyes, searching for any hint of… anything. Thane didn’t even know what it was he wanted to find.
+
+But he didn’t find it.
+
+“I want nothing further to do with House Blacktongue,” Thane said. “I disown myself.”
+
+He brought Birthday Poker up in a blur, sending magic from his dwindling reserves into the weapon. It struck the blade of Drake’s sword with a ringing shriek — and then it cut clean through it.
+
+Drake stumbled back as Thane planted his foot in his chest. He tripped and fell to his backside, his eyes wide as he watched the blade of his sword spin through the air lazily before impaling itself in the ground several feet to his side. Drake’s mouth worked in disbelief. All that remained in his hands was a pointless hilt.
+
+Thane’s heart slammed so hard in his chest that he feared it would tear itself free. Just out of the corner of his eye, he saw Ifrit standing among the crowd. There was a faint smile on the smith’s face.
+
+“Surrender,” Thane said, pointing his sword at Drake’s chest. “This duel is over. It isn’t right for a commoner to kill a noble.”
+
+Drake’s hand trembled as his grip tightened on the hilt of what remained of his sword. Thane held his gaze unflinchingly.
+
+It was strange. To Drake, this was everything.  The look in his brother’s eyes would have once shaken him to his core. But now… the fury, the hatred in that gaze — it didn’t matter to him at all. None of this did. He didn’t have any interest in wasting time in a fight like this.
+
+Win, lose, it doesn’t matter. This is all show. Entertainment for people that I don’t care about.
+
+Thane lowered his swords. His gaze flicked to Ifrit.
+
+“That offer you gave me. Is… is it still open?”
+
+“It is. I take it you’re interested in accepting?” Ifrit asked.
+
+“Yes,” Thane said. He sent one last look at his brother, still sitting on the sand, then turned away and walked out of the ring to stand before Ifrit. Then a small grin tugged at the corners of his lips. As far as birthdays went… this might have been his best one yet. “I am.”
+
+Ifrit’s smile widened. “Welcome to the Menagerie.”

@@ -1,0 +1,367 @@
+---
+id: 8b71328f-1462-5a03-aa57-0d55cf9fcd48
+page-type-slug: story-chapter-royal-road
+title: "Chapter 11 – [Avalanche]"
+slug: 0012-chapter-11-avalanche
+partOf: rock-falls-everyone-dies
+position: 12
+ownLength: 2236
+unit: words
+ownProgress: 2236
+publishedAt: 2023-01-24
+link: "https://www.royalroad.com/fiction/55418/rock-falls-everyone-dies/chapter/1095997/chapter-11-avalanche"
+royalRoadId: "1095997"
+markedReadAt: "2026-06-29T22:50:38.966Z"
+---
+
+Time.
+
+It was finally time.
+
+A long journey—several hundred years in length—was finally coming to an end.
+
+The rock saw the destination of its fate.
+
+A gleaming city, nestled under the great mountain’s shadow. Hundreds of little buildings all arrayed, behind circular walls, like a waiting crowd, anticipating the rock’s arrival.
+
+It shouldn’t disappoint them… right?
+
+If one were to arrive to a party long awaited—one should do it with style. It was one of the most important qualities of a true hero. No half measures—when the quest’s completion was in sight, it should be completed right.
+
+So that nobody would argue about the aftermath. Nobody would doubt that yes—it had indeed been a hero that had done that.
+
+So—before embarking on its final journey—the rock first looked over its quest counter.
+
+Quest:
+
+Current Altitude: 1823 m
+
+It had some space to work with. A bit under two thousand meters of altitude to gather a worthy party to advance with it. Because... this rock would not be arriving alone. It looked over its new skill again.
+
+New Ability Gained!
+
+Avalanche
+
+Gather the other rocks and stones around you, and bring them along for your journey.
+
+A skill to bring other rocks with it… a novel concept. But the rock liked it. If it was to become the largest and greatest of all rocks, of course it should have an appropriate amount of followers tagging along!
+
+It had seen how the party of [Adventurers] had operated, a group of four—united in purpose. But their fault had lain in their poor coordination. Rocks were much better at teamwork—just push them all down a cliff, and they would gather up more and more support as they went along.
+
+So—the rock finally stopped braking along its path—started speeding up—and started looking about.
+
+It was in a forest now. Trees, grass, bushes, animals—all manner of new things to observe, but also a place where it had to constantly [Steer] this way and that, bobbing and weaving between the trees.
+
+But—it was not a forest of solely green. The rock felt at its cultivation, and it had a sense of its burgeoning next stage—of what would come after core formation. It was a shift in focus, away from the rock itself, and toward its environment.
+
+So, it reached out for the simmering embers of that slowly forming sense and threw out a presence—searching for its kin. Other rocks.
+
+And it found them. All over the forest—under moss and under brush, forgotten by time or newly arrived—there were rocks. Big ones, small ones, medium ones. Different shapes and sizes, different materials.
+
+The rock got a vague sense of their locations, and set out towards the largest collections, activating its new skill at the same time—slowly beginning to form a true [Avalanche].
+
+Quest:
+
+Current Altitude: 1425 m
+
+First, it passed by a field of gravel, and the bits started billowing around it, in a growing storm. The rock gained followers, and moved on, searching for its next target.
+
+It carefully used [Steer], [Pivot Point] and [Energy Shift] to skillfully weave through the woods, and the cloud of gravel followed—thinning slightly against the brush.
+
+Quest:
+
+Current Altitude: 1215 m
+
+Next, the rock passed by a trio of large standing rocks, and collided against them, activating [Diamond Skin]. The first cracked into smaller pieces at the hit, and the rock pivoted around to the other two, smashing them to bits too.
+
+Smaller stones, about head or torso-sized ones were left behind in the aftermath, and they all joined the rock in its pilgrimage. A congregation of gravel and stone, steadily advancing, gaining on the town below. Already sensitive animals could feel a growing rumble in the ground, and the wise ones were fleeing to the sides, well in advance of the advancing tide.
+
+Quest:
+
+Current Altitude: 1128 m
+
+The forest cleared for a bit, as the rock entered a clearing of exposed bedrock, where [Miners] would pass long days prying off bits of stone to be worked. Now it was a weekend, and the quarry laid abandoned, resting, a batch of freshly crushed stones ready for the taking.
+
+The rock rolled past, its growing herd around it, and the siren call of [Avalanche] rang out. The new rocks shifted position slowly—almost hesitantly, but then the congregation reached them, and the sheer momentum of it all swept them along.
+
+The horde grew.
+
+Quest:
+
+Current Altitude: 1000 m
+
+It was another batch of denser forest, and the avalanche of rocks crashed and stumbled against trees and brush, but still moving forward with the iron will of gravity. It was not just larger or more notable rocks that joined along—but lone travelers, lost ones too. The odd rock here or there, that had ended up in a lonely spot in the woods, surrounded by naught but greenery.
+
+Gradually, all these sleeping warriors were swept up by a hero’s momentum, leaving their resting places behind, swords sharp. Like an army of the dead, rising up from their graves to challenge the world above once more.
+
+Many of them had rolled once—felt that intoxication of motion. Such a brief—fragile thing. An instant of blinding speed and strength, all to end up in an unlucky instant of ending on the wrong side of gravity’s well.
+
+But a level 9 [Rolling Stone] would not stop. It would lead its people on—toward their final destination.
+
+That gleaming city that was not so far below anymore. The golden city of dreams so many rocks had dreamed of reaching once before.
+
+So close—so far.
+
+Quest:
+
+Current Altitude: 811 m
+
+The avalanche broke through the treeline, ending up at the cliffside right before the City. Like the condemned walking off a gangplank—they bravely advanced past the cliffside, daring the unknown deeps below.
+
+For there were dangers ahead. Even the rock leading the charge knew it.
+
+This was where the [Heroes] came from. Even if a demon’s banner would soon rise above the city, this was still the city below a great mountain. A city used to dealing with dragons flying above it.
+
+There were defenses.
+
+Quest:
+
+Current Altitude: 650m
+
+The rock met the first of them—sensed it a hundred meters before hitting it.
+
+The rock had a growing sense of how mana and the energies of the world worked, so it could make out an outline. There was a small brick wall laid out, to protect against the dangers of the mountain.
+
+Deceptively small.
+
+The rock could sense the shield of mana emanating from it and knew special measures would be needed here. It alone could maybe break through—but its followers were different. The other stones did not have the power of [Collision] and [Diamond Skin].
+
+So the rock focused on its mana sense, searching for the source of energy for the shield. It felt almost like the dungeon core had—and the rock had had ample time to analyze the aftereffects of that aura afterward.
+
+It found the source. A single brick shack behind the barrier—no windows to it.
+
+The rock took aim, and increased its speed just a bit more for good measure.
+
+Current Velocity: 35.7 m/s
+
+Pivot Point activated!
+
+Direction: Up
+
+Rotation: 20°
+
+Diamond Skin Activated!
+
+Power: 100 000W
+
+It crashed into the barrier of mana—and felt resistance in the air against it. But—the rock had <Mass> and <Velocity> on its side.
+
+Collide activated!
+
+[Unnamed] Dealt 13.2 * 16706.7 / 4  = 55132 dmg to [Greater Mana Shield]
+
+New Velocity for [Unnamed]: 21.3 m/s
+
+The shield broke, useless against the stone’s <Kinetic Energy>, and the rock pierced right through, towards the shack.
+
+It hit the wall, still keeping up its [Diamond Skin], and the shack stood no chance. It blew into pieces, and the rock hit the rich mana crystals sheltered within, absorbing them inside it.
+
+They would be processed later—but cultivation could wait for now. The rock had things to do.
+
+The [Avalanche] followed.
+
+The wall and shack broke down under the torrent of rock, and the broken and battered bricks were scattered into bits, which started following along with the rockslide, growing its mass even further.
+
+And the rock saw the outskirts of town. The walls were not wide enough to hold everyone who needed housing within, so shacks and loose housing had been hastily scrounged together outside, rising high up the cliff.
+
+The citizens of the slums saw the rock break through the barrier, and the landslide that followed. Mass panic erupted, people fleeing desperately towards the walls, abandoning their meager houses.
+
+The rock sensed victory.
+
+Quest:
+
+Current Altitude: 405 m
+
+The rock did not bother to aim for the panicked people running about—it only focused on moving forward, to that eternal goal. It had a more precise estimate now. The city’s walls—just on the other side of it. That was where altitude 0—its goal—lay.
+
+And the rock advanced, an [Avalanche] following it.
+
+The rock had no need to kill—for its congregation was a willing enough gang of raiders. The old rocks, finally moving after years of rest, ran eagerly towards the slaughter, facing classes and combat abilities, creating a carnival of blood worthy of a hero’s arrival.
+
+Assist Experience received:
+
+23 x [Civilian] & 89 x OTHERS
+
+Adding...
+
+Quest:
+
+Current Altitude: 200m
+
+Shacks were battered down, people were crushed into bits, bones were split in two—but the [Rolling Stone] only saw forward. It abandoned its congregation, leaving them to their bloody task—
+
+Assist Experience received:
+
+89 x [Civilian] & 231 x OTHERS
+
+Adding...
+
+The rock launched itself over a moat, now seeing the terrified citizens arrayed on top of the city’s walls. Its sudden advance had taken only a scarce two minutes, but already the city was reacting, and people were rushing atop the wall, led by a withered old man in a huge billowing wizard’s cloak.
+
+His veins thrummed with energy, and he stared disdainfully at the rock.
+
+But the rock did not see him. Only the number. Almost there.
+
+Quest:
+
+Current Altitude: 78m
+
+[Supreme Grand Magus Oldivar] pointed a finger at the [Rolling Stone], beginning to cast a spell, and the stone launched itself up, using all its held energy, pivoting for a great leap over the wall.
+
+Pivot Point activated!
+
+Direction: Up
+
+Rotation: 60°
+
+Quest:
+
+Current Altitude: 62m
+
+The rock could see the other side of the wall, and it was like an ethereal hand was guiding it—it knew the exact place to land. A small plaza with a fountain and a jade statue of a beautiful woman. But the rock saw not the woman’s beauty, only the shine of the jade.
+
+The level 5 [Cultivator] finally beheld a true jade beauty, and it hungered for that landing—for that reward.
+
+[Supreme Grand Magus Oldivar] finished gathering energy—and began casting the spell.
+
+Quest:
+
+Current Altitude: 35m
+
+The end was in sight.
+
+Quest:
+
+Current Altitude: 25m
+
+[Supreme Grand Magus Oldivar] began speaking.
+
+Quest:
+
+Current Altitude: 20 m
+
+“[Greater Reverse Gravity].”
+
+The stone felt a great jolt go through it—all its gathered momentum suddenly flinging it up.
+
+Quest:
+
+Current Altitude: 60m
+
+It saw the ground shrinking below it—and desperately threw out every ability it could, using every bit of energy within to reach that promised land. But the spell was stronger, even [Pivot] did not work.
+
+Was this finally the vengeance of the system?
+
+Quest:
+
+Current Altitude: 200m
+
+But it only accelerated even more upward. Every action led the rock further and further up, and it felt the energy leaving it.
+
+Quest:
+
+Current Altitude: 600m
+
+So fast—it was accelerating too fast. It was all… ruined.
+
+Quest:
+
+Current Altitude: 1200m
+
+The rock cried out in despair, reaching forward with hands it did not have, at that land that was growing more and more distance below it.
+
+But still, it kept accelerating.
+
+Quest:
+
+Current Altitude: 2400m
+
+It finally gave up, growing dull—just blankly watching the number go up and up.
+
+And oh how up it went…
+
+Quest:
+
+Current Altitude: 15000m
+
+Far above the mountains now, and the rock finally saw that the peak it had started on was merely one among many, just one speck along the great spine of the continent. It finally beheld how tiny it truly was, and fell still.
+
+It waited—for something to happen. Surely there would be another chance?
+
+Quest:
+
+Current Altitude: 200 000m
+
+It was so far away now… But as long as it was patient—surely patience would be rewarded? Surely it would get another chance at that promised land?
+
+It could see the curvature of the surface now and understood that so much of what it knew was just an illusion. A brief spark of adventure started to light up inside the desperate soul. If it kept going up… what could it find?
+
+Could it find a way to become stronger, to face that horrible man once more and laugh?
+
+And then—as if hearing a plea—something answered.
+
+Class Advancement unlocked!
+
+Conditions fulfilled!
+
+You are now eligible for the class: [Meteorite]
+
+Upgrade Class [Rolling Stone] to [Meteorite]? Y/N
+
+The rock saw something new. A chance.
+
+A new branch in this journey.
+
+Full Status:
+
+[Unnamed]
+
+Title(s): Line-Ender, Patient Ambusher, Bane of Demons, Grandmaster of Closed Door Cultivation
+
+🗿
+
+HP: 55/55
+
+Mana: 0/0
+
+Level: 9
+
+Experience: 0/2000
+
+Class: Rolling Stone
+
+Sub-class: Cultivator 5
+
+Race: Gneiss Stone
+
+Gold: 100%
+
+STATS
+
+Diameter (d): 2.31m
+
+Mass (m): 16706.7kg
+
+Energy Level (E): 100000W
+
+Core Temp (T): 700K
+
+ABILITIES
+
+Collide
+
+Steer
+
+Energy Shift
+
+Pivot Point
+
+Just a Rock
+
+Meditate
+
+Diamond Skin
+
+Stolen Cultivation
+
+Avalanche

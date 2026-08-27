@@ -1,0 +1,169 @@
+---
+id: dc9c8b2c-2d3a-57b6-8e58-bdea35a8e508
+page-type-slug: story-chapter-royal-road
+title: "Chapter 516: Fleshfruit Tree"
+slug: 0038-chapter-516-fleshfruit-tree
+partOf: reborn-as-a-demonic-tree
+position: 38
+ownLength: 2934
+unit: words
+ownProgress: 2934
+publishedAt: 2025-12-22
+link: "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/2870968/chapter-516-fleshfruit-tree"
+royalRoadId: "2870968"
+markedReadAt: "2026-06-29T19:02:49.065Z"
+---
+
+Stella hadn't seen the sun in what felt like a week—though it was hard to notice the passing of time in her alchemy cave, where there was no natural sunlight. Not that she was too bothered by it, as she had been thoroughly absorbed in her work and wasn't ashamed to admit she was hiding from Elaine.
+
+For some reason, ever since Elaine became a mother, she was far scarier. Was it because Stella couldn't bring herself to fight back, knowing little Talon or Hazel was watching? Or was it because Elaine had reached the Nascent Soul Realm, and the combination of void and illusion affinity was terrifying? Stella still couldn't believe she hadn't noticed she was speaking to an illusion the whole time until Elaine made her big reveal.
+
+Whatever the case, Stella was hiding away deep underground in her alchemy cave, with General Bob serving as her faithful door once more to keep the pesky Mudcloaks out.
+
+"This... could work," she muttered, her eyes widening as she stood hunched over a hefty encyclopedia of spirit tree species, her finger tracing the worn-out text. It was a new addition to her quickly growing collection of academic books and scriptures that now took up a solid third of the alchemy cave. While there were bookshelves, they had long been overrun, so the books were either piled up or sorted into spatial rings. Many of the books and parchments had been looted from the conquered cities and noble families, but this encyclopedia had been specifically purchased through the Eternal Pursuit Pavilion a while ago.
+
+The price had been hefty... probably. Stella didn't really know. After all, the Ashfallen Trading Company was the fastest-growing and one of the highest-earning groups operating within the Pavilion, making the Ashfallen Sect very wealthy. Stella wasn't even sure just how rich she, or anyone in the sect, was at this point, as Diana and Elaine mostly handled the finances. All she knew was that whenever she asked to buy anything, nobody asked questions.
+
+A sudden presence in the room broke Stella out of her stupor, causing her to swivel her head to look at a seemingly mundane spot on the ceiling. But she could tell Ash was watching her.
+
+"Come to check on me, Dad?" She grinned. "I'm still alive down here, you know?"
+
+That all-too-familiar feeling filled her consciousness as Ash reached out to her mentally, rather than using Anubis as a mouthpiece.
+
+"I know—you can happily spend weeks hiding away down here."
+
+"Hiding? I'm not hiding..."
+
+"Elaine stopped by Red Vine Peak searching for you. She is trying to hunt you down, even asking Jasmine to point her in your direction."
+
+Stella involuntarily tensed a little.
+
+"Don't worry, I think I talked some sense into her. But she's still quite angry at the whole threatening to execute one of her students thing. I think she just wants you to apologize, or at least explain to the more distraught of the elites why you did that to them."
+
+Stella snorted. "Why should I apologize for them being weak? Besides, they won in the end, didn't they? I don't see what I did wrong."
+
+"That's basically what I thought too," Ash chuckled. "Either way, I didn't come here to berate you or demand you go and speak with Elaine. Instead, I come bearing some news and wanted to check up on the progress of Morrigan's new body."
+
+"News?" Stella perked up, as her curiosity was piqued.
+
+"Yeah, my roots and desolation Qi have reached Floridawn, the vast city built on the land under the World Tree's canopy. I didn't expect anything interesting to happen so soon, but it seems one of the Council members is a fan of mine."
+
+"Whoa, whoa, what? A fan?" Stella blinked in confusion. "How? Why?! I mean, it's not weird for someone to be a fan of yours, but a Councilman from the Celestial Empire? How could they even know of you?"
+
+"His name is Councilman Cyphion, and he is part of a group called the Flower Accord. Apparently, he has been a fan of my desolation Qi ever since he went on a mission to the Silverspires' place and was eager to discuss it with me. So much so, he is basically willing to betray the Celestial Empire so long as I make him the new leader of the Flower Accord."
+
+Stella wrinkled her nose in disgust. If there's one thing she despised the most, it was those who betrayed. But this did explain how this Councilman knew of Ash's existence, which was troubling.
+
+"Don't worry, I'm not going to bring him into the sect or anything. I'll use him as long as he's useful and then find a way to dispose of him."
+
+Stella nodded. "That's good. I don't think I could hide my feelings if I were to speak with him."
+
+"Though taking down a Monarch Realm spatial cultivator will be difficult. The moment he senses danger, he will blink a hundred miles away like some kind of spatial rabbit."
+
+"Don't worry, leave it to me," Stella smirked. "I have a way to keep him still."
+
+"You do? What is it?"
+
+Stella rummaged under her desk and pulled out a jar. "In here is a tea I brewed with your sap. You told me your sap could stop someone from teleporting away?"
+
+"Under certain conditions, that is true. But even if I can't lock them down, I can track them through the sap, and they will grow weaker over time."
+
+"Then some cursed tea will do the trick," Stella smiled, nodding to herself and putting the jar away. "So, was that the news you wanted to share with me? That you have a Monarch Realm fan?"
+
+"Yeah, pretty much. I've also set up a meeting location out in the wilderness and given the coordinates for Cyphion to distribute as he pleases."
+
+Stella raised a brow. "You want to talk with those monsters?"
+
+"No."
+
+"Huh? Then why bother setting up a meeting location in the wilderness? A trap, perhaps? Did you need my help setting something up?"
+
+"Monarch Realm cultivators have only lived that long because of their extreme caution, so I want it to be as unassuming as possible so they don't get scared away."
+
+"If you don't want to speak with them, but it's not a trap—why would you set the location at a random spot in the wilderness away from the World Tree and any of our cities..." Stella trailed off as realization dawned on her. "You're going to blast them with desolation from your crown, just like you did to the beast tide, aren't you?"
+
+"Was it that obvious?" Ash replied, almost sounding sad that his grand plan had been figured out. "There's slightly more to it than that, but yes, with them gathered in one spot, I might be able to take one out. Either way, it will be an opportunity for me to demonstrate my overwhelming strength. Some might even switch sides like Cyphion, which will make the takeover even easier."
+
+"Pretty good idea," Stella nodded approvingly. "I do wonder how they will react."
+
+"Not well, I suspect. I'm hoping the Council all blame Cyphion for bringing them there, and I won't even have to bother with him personally."
+
+Stella nodded.
+
+"Anyway, I didn't just come to share some news. Since things are progressing faster than expected, I have no doubt that I will be calling on Morrigan's Covenant soon, so she will need a body so she can leave the Grove of Eternal Rebirth. How are things progressing on that front? Any luck?"
+
+"Well..." Stella walked away from the table and gestured to a grotesque attempt at assembling a human body from parts of different cultivators, which was hung on the wall like a piece of art. "Errr, this was my first attempt." The face was lifted from a woman who Stella felt somewhat resembled Morrigan, but she wasn't a massive fan of her stitch work. The legs belonged to a different person, while the arms were mismatched, with the left arm being more tanned and muscular than the right. The torso and organs she didn't want to talk about—as even for her, that had been a little much.
+
+Sourcing the parts for this abomination had been surprisingly easy. While Stella didn't oversee it personally, there was still rampant crime throughout the Ashfallen Sect's territories, which resulted in rogue cultivators being killed or imprisoned, with the most incidents occurring in Desolark City. Stella had simply requested a few bodies to see if she could find a suitable one, but the corpses were all too damaged to be used as a whole, so she had tried to pick and choose the best bits from each one, resulting in this thing.
+
+"I never took you for a mad scientist who would try to make your own Frankenstein. Actually, never mind, this is exactly something you would do," Ash sighed.
+
+Stella pouted. "What is a Frankenstein?"
+
+"A monster made from man, or something. I never read the books," Ashlock replied, confusing Stella further. "Does this, um, thing actually function as a human body?"
+
+Stella shrugged. "I haven't tried to shove a soul into it yet, but I doubt it. Even if it could take on a soul and move, it wouldn't be very useful, as I think I've unintentionally discovered the dark side to why the heads of noble families bother to have children and raise them. It all comes down to spirit root compatibility. We've both heard of the concept that Nascent Soul Realm cultivators have a spare body in storage for their infant soul if needed, or at least they should. But have you ever stopped to think about what that body would be?"
+
+"No," Ashlock admitted. "I never did. But now that you mention it, what would they use?"
+
+"Just like Morrigan did with Elaine, the family head's infant soul would inhabit the most capable of their children's bodies. Look here," she stepped over to another workbench that had parchments spread over it. "I found the demonic ritual for soul replacing."
+
+Stella felt Ash's gaze focus on the parchment for a long minute.
+
+"That's... kinda horrifying. Does this mean that Diana could have been used as the new vessel for the Ravenborne Grand Elder when he died during the Winterwrath and Evergreen assault?"
+
+Stella nodded. "However, someone in the family has to still be alive to perform this ritual, as it's not automatic like Morrigan's setup with Elaine. They would have had to retrieve the Ravenborne Grand Elder's aimlessly floating infant soul, capture Diana, and bring them to a ritual chamber. The process would have been messy and consumed a significant amount of Qi from those performing the ritual. Diana's soul would have been consumed to feed and stabilize the Ravenborne Grand Elder's infant soul, and she would be no more."
+
+There was a long pause. "Are you thinking of using this ritual for Morrigan? You said it yourself, it needs to be used on a member of the same family, as there needs to be spirit root compatibility."
+
+Stella rolled her eyes. "Of course I won't use this accursed ritual. But doing so did pose a big problem—how could I create a compatible body without it being a direct descendant? I attempted to make a shade, a rare soul-type monster, as they have no spirit roots, but when interacting with the void, it would break apart. I continued to create other bodies from monsters before accepting that there was no getting around it. I have to make a body with compatible spirit roots. However, that's when it dawned on me... it would become tiresome if Morrigan kept dying and I wasted all my time making bodies. Also, what if other people needed them as well? Just thinking about the work gave me a headache and almost made me give up."
+
+"While your laziness knows no bounds, I'm sure it led you to a solution by your grin."
+
+"It did indeed!" Stella said proudly. "I started thinking of a crazy idea: what if you could grow a body instead?" Returning to the original desk that Ash had found her standing over, she pointed at a drawn picture in the encyclopedia. "Behold, the Fleshfruit tree. A rare variant of the demonic tree that is found in frozen lands. Since there are no small birds to feed on in the frozen areas, instead of growing poisonous fruits, it creates ones out of poisonous flesh. While enjoying their final meal, the beasts will rest under the tree's canopy from the elements, and that will become their final resting place. Since there are fewer predators in the area, the tree can take its time absorbing its food, which is also why it can target large mammals rather than birds, as you did. What do you think? It's a cool tree, right?"
+
+"Fascinating indeed," Ash said. "To think a different environment would cause a demonic tree to change in such an interesting way. Fleshfruit tree... what do these fruits look like exactly?"
+
+"I'll show you," Stella flipped to the next page. "They look like dark red hearts, around twice the size of a fist."
+
+"Do they actually beat like hearts?"
+
+"Yeah! Apparently, many monsters in the frozen areas have great hearing to track down prey, so whenever the tree is hungry or wants to attract attention, it will have its flesh fruits start beating like real hearts. Of course, when feeding, it will try to make as little noise as possible to avoid having its food stolen."
+
+"So you think this Fleshfruit tree is the solution to our problem?"
+
+Stella nodded. "While these Fleshfruit trees only bother to grow hearts, it's the fact that it didn't take the heart out of the monster—it literally grew them from scratch. If it can make a heart, why not a whole body? Now, just in case, I was going to ask if you were able to do this?"
+
+"I can puppet corpses, and I might be able to guide a Fleshfruit tree on what to do if I turned them into a Bastion, but no, I can't grow human bodies like fruits."
+
+"Thought so," Stella said, yawning as she stretched her back. She was absolutely exhausted. "Well, for now, that's the best solution I have. The problem is, I don't have a Fleshfruit tree to experiment with."
+
+Ash hummed in thought and then seemed to think of something. "You said they grew in frozen areas, right? Just hire someone from the Eternal Pursuit Pavilion to bring you one, or better yet, have your brother do it. He is heading here from the Frozen Star Sect, is he not?"
+
+Stella's eyes widened. "My brother! You're right—and he owes me after I sent him those Yinxi Coins." Grabbing the book, she deposited it in her spatial ring. She then retrieved her VIP pendant and flipped it open. Navigating the menu, she opened her friends list, which had a single person on it.
+
+[Janus Crestfallen]
+
+Selecting it, she brought the pendant to her mouth and left her first-ever message. "Hey, brother," she began and gulped. It still felt awkward talking to her brother despite the heartfelt conversation they had enjoyed last time. "I was wondering when you will be returning to Red Vine Peak? Will it be within the next week or two? If so, could you grab me a Fleshfruit tree on the way?"
+
+Sending the message, she was surprised to receive a reply almost immediately.
+
+"Sorry, Sis, no can do. As I said last time, I still have some things to finish up here in the Frozen Star Sect," Janus's smooth voice came out of the pendant, "so I will not be returning for a year. Also, are you doing something weird? Why would you need a Fleshfruit tree?"
+
+Stella stared at the pendant with annoyance. Opening the message feature again, she yelled at it, "I'm not doing anything weird! And what do you mean by a year?! Hey! That's hardly wrapping things up!" Huffing, she ended the message.
+
+Janus replied a minute later. "Why don't you come and visit me, then?"
+
+Stella went to tell him no but then paused. Why didn't she go and visit the Frozen Star Sect?
+
+"I could go with Zephyrine. She is so fast that anywhere in this world can't be more than a month's travel away, and she will protect me," Stella mused, weighing the pendant in her hand. "Mhm, Ash, what do you think? Should I go there?"
+
+"Didn't the Frozen Star Sect's Patriarch want to work with us to take down the Celestial Empire so the Era of Ascension could start? To meet with them would make the trip worth it, and now with the Fleshtree idea, I think you should do it."
+
+"Okay," Stella said, feeling suddenly hyped. She was going to pay a visit to her brother. "But first, I need to speak with the Celestial Warden to figure out where the Frozen Star Sect even is and if the trip is possible. Could you make a portal to Desolark City?"
+
+"Certainly," Ash replied, and the space before her tore open.
+
+Rolling her shoulders and straightening out her robes, Stella stepped through the portal into Desolark City. Not even a second had passed when the sunlight warmed her face, and her presence seemed to instantly cause a scene.
+
+This is why I hate stepping out of my cave, Stella grumbled to herself as many cultivators wearing similar robes rushed toward her in a formation.

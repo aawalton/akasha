@@ -1,0 +1,115 @@
+---
+id: 94b14bcd-76f0-5c87-b173-849e29a78ede
+page-type-slug: story-chapter-royal-road
+title: "Chapter 522: An Opportunity"
+slug: 0088-chapter-522-an-opportunity
+partOf: rise-of-the-living-forge
+position: 88
+ownLength: 1546
+unit: words
+ownProgress: 1546
+publishedAt: 2025-11-26
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2795018/chapter-522-an-opportunity"
+royalRoadId: "2795018"
+markedReadAt: "2026-06-29T20:01:14.966Z"
+---
+
+Arwin and Lillia wasn’t the only ones that went looking for Uriel that morning. Monica was already awake well before they were. She stood with her back against the wall, keeping watch over entrance to the basement.
+
+The orc gave them a nod of greeting, clearly too tired bother with anything else this early in the morning. Arwin and Lillia returned it as they made their way down, only to find that it seemed the rest of the Menagerie had already beaten them there.
+
+Uriel sat in the center of the room in front of Lillia’s demon tree, her spiked metal knees pulled up to her chest. All around her was just about every member of the Menagerie. The only ones missing were Elias and Maeve, who were still out training, and Rodrick.
+
+Even Wallace had found his way over and was staring at the massive Soul Guardian. The dwarf looked completely enraptured. He wasn’t even saying anything. His eyes were just wide — possibly in their best attempt to bore a hole into the armor with sheer interest alone.
+
+“Do you like food?” Reya was asking. “What would happen if you ate something? How would you use the restroom?”
+
+“Reya,” Olive said, leveling a flat stare at the other woman. “You can’t ask that.”
+
+“Oh,” Reya said.
+
+“The answer is obvious,” Olive continued. “She’s got energy inside her. It would probably incinerate the food completely, leaving nothing behind and using it for fuel. But we should test just in case. I’ve never seen armor take a—”
+
+“Girls,” Anna said sharply. “Let’s try to keep our composure, shall we? Uriel is probably tired. We should be respectful, not theorizing on—”
+
+“No. It is okay.” Uriel raised a hand slightly. “I am curious. I have never used the restroom. But I do have many memories of it. Particularly from Wallace. He spends a lot of time in such places. Sitting. Contemplating. It seems to help him. I believe I find such matters interesting.”
+
+“The bathroom?” Reya asked.
+
+“No. Contemplating,” Uriel replied. “I do not believe I hold any particular interest toward the restroom beyond the fact that I have never entered one. I have never entered many things. And, but for my memories, I likely never will.”
+
+“Oh,” Reya said. She looked down. “I’m sorry you can’t use the bathroom.”
+
+“I believe the memories I was created with will be suitable,” Uriel said. “I do not feel disappointment.”
+
+“That’s good,” Reya said. She put a careful hand on Uriel’s arm, making sure to avoid the spikes jutting out of the huge suit of armor. Reya caught a glimpse of Arwin and Lillia staring from the far side of the basement. Her eyes lit up and she turned toward them. “Oh! Arwin and Lillia are back! Did you hear? Uriel is okay with the fact that she probably can’t use the restroom.”
+
+Arwin sighed. “That’s… great. Thank you, Reya. Pivotal information. I guess everyone’s already made Uriel’s acquaintance, then?”
+
+“Fascinating,” Wallace muttered. He stared at Uriel with starry eyes. It didn’t sound like he’d heard a single word of the conversation that had just gone down. “Utterly fascinating. She’s beyond anything that I ever could have imagined. There’s more in here than what we put in. An impossibility. Adding one and one to get three. A right beauty.”
+
+“I have so many questions,” Thane said, his voice barely above a reverent whisper. The boy was practically vibrating with excitement.
+
+“You can hold them,” Esmerelda said. “And you’ve got work to be doing, boy. My shop still needs organizing, and Vanessa can’t handle it alone.”
+
+“Oh. Right. Yeah. That’s true.” Thane’s shoulders fell for all of a second. Then a new thought struck him and he grinned. “But that’ll give me time to come up with more questions! So that’s okay.”
+
+Lillia and Uriel quietly made eye contact — or about as much eye contact as one could have with a sentient suit of armor — through the din. Neither of them said a word. But, even though their mouths didn’t move, Arwin could tell by the look on Lillia’s face that they had spoken.
+
+She must have at least some connection to Uriel from her relationship with the Devil’s Den. I wonder if they can speak telepathically.
+
+Art approached Arwin, leaning heavily on his cane with one hand and rifling through a deck of cards absentmindedly with his other. The two of them were silent for several seconds. They simply watched the rest of the Menagerie.
+
+“Rodrick hasn’t returned yet,” Art said quietly. “But today is the day.”
+
+“I am aware,” Arwin said. “Are you feeling up for it? Nerves?”
+
+“This will hardly be the first time I pull a trick on people more dangerous than myself,” Art said dryly. “Playing both the Dwarven Council and the Blacktongues may as well be a warm-up for me.”
+
+“Really?”
+
+“No,” Art deadpanned. “I’m terrified that I’m going to make a mistake, Arwin. But I won’t. There are too many people counting on me. Everything is already in motion. Ida has conveyed the information we needed to seed. The auction house’s construction is just about complete, although I believe you still need to use the Dungeon Heart to make it a proper addition to the street.”
+
+“So I do,” Arwin said. “That can come after we actually have the things we plan to sell. We’re on a bit of a tight schedule.”
+
+“When aren’t we?” Art asked with a wry laugh. “But, yes. I am prepared. That goes doubly so now. I had not expected Uriel to be… well, this. She is more powerful than I was counting on. That is good. It takes some weight off my shoulders. I still wish Rodrick were here, though.”
+
+“So do we all,” Arwin said. “But not because we don’t trust you. Rodrick isn’t the type to hand responsibility off casually. You know what you’re doing, Art. Trust yourself.”
+
+Art snorted. “Are you trying to be my father? I’ve already got one of those. I don’t need another. A sister is already more than enough extra advice.”
+
+“Don’t pretend like I don’t give good advice,” Vix said, slipping out from the darkness behind Art. “You’d be a shut-in if I didn’t drag you out every once and a while.”
+
+“Maybe,” Art allowed. He looked back over the Menagerie, then let out a sharp breath. “Right. We should probably get started. Lots of people to reposition if we want to pull this off right.”
+
+“Then take the lead,” Arwin said, gesturing to the crowd in the basement. “The only thing I’m going to be doing is smacking monsters. This is your show.”
+
+Art swallowed. Then he nodded. After a second more of hesitation, he drove his staff down into the ground beside him. It let out a metallic clang. Despite the din of conversation, every single member of the Menagerie turned toward them as one.
+
+That had clearly been a much faster reaction than Art had been expecting. He’d already brought his staff halfway up into the air in preparation for striking the ground a second time. Clearing his throat, Art lowered his hand.
+
+“Sorry. I didn’t want to yell. It’s just about time we get started with the mission. I’ve already gone over the semantics with everyone doing the more… involved parts. But if you’ve got questions, now is the time to ask.”
+
+Everyone exchanged a glance. The mood in the room had shifted on a dime. Not a trace of the earlier light-heartedness remained.
+
+“We’re ready,” Reya said.
+
+“Been ready for a while,” Kien said with a nod, stepping from the side of the room and resting his broom against his shoulder. “And remember that no plan ever goes completely to plan, Art. A master strategist doesn’t have to predict his enemies’ every move. He just has to be able to adapt.”
+
+“Thanks,” Art said. His lip curled and he turned back to the others. “As we all know— timing will be tight. We need to ensure that both the Blacktongues and the Dwarven Council believe that Arwin’s team has retrieved the loot from the vault and is bringing it back through Thornhelm. For that to work, each group has a job that needs to be accomplished no matter what. Does everyone remember their part? If you don’t, now’s the time to ask. There won’t be another chance.”
+
+The only response to his words was silence. Everyone just watched Art silently.
+
+A cold smile passed over Art’s features. He nodded.
+
+“Arwin, you’ve got just about two days to completely clear out the dungeon and get back here before anyone realizes you’ve left. You’re certain your team can do that? We don’t need to give you backup?”
+
+Arwin’s lips twitched. This dungeon was going to be dangerous. But after all the upgrades and advancements he’d made recently… the last thing in the world he was scared of was a dungeon.
+
+No, if anything, he was excited.
+
+This is a chance to see just how much more capable we’ve all become.
+
+“No backup will be needed,” Arwin said. “We’ve got this.”
+
+“Good. Then timer starts now,” Art said with a sharp nod. “No matter what — return to Milten by this time tomorrow. Let’s move!”

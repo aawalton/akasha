@@ -1,0 +1,194 @@
+---
+id: 3c1167d0-2314-5225-87ae-c21e7a7b128c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 2: Exceptions"
+partOf: rise-of-the-living-forge
+position: 2
+ownLength: 2756
+unit: words
+ownProgress: 2756
+publishedAt: 2023-12-30
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge-stubbing-to-ch555-in/chapter/1459956/chapter-2-exceptions"
+royalRoadId: "1459956"
+markedReadAt: "2026-06-29T19:58:31.420Z"
+---
+
+The pain in Arwin’s stomach intensified with every passing second. He wasn’t even sure what he was searching for. It wasn’t like he could just break into a shop and steal a magical item, nor was he going to find one lying around on the ground.
+
+I suppose I could break in somewhere, but then I’d be a wanted man. No. I need a smithy. This class should let me forge something. If I can just find a smithy somewhere, I’ll be fine.
+
+That was easier said than done. The agony was so intense that Arwin could have sworn that his stomach was actually eating itself. He’d been stabbed, cut, and ripped up by magic more times than he could count – none of it came close to this.
+
+His body begged him to lie down and curl into a ball. To give into the pain in hopes that it would end sooner. Arwin’s mind rebelled. He ground his teeth and pressed on, leaning on a wall for support as he staggered through the dark alleyways.
+
+As Arwin turned an alleyway, muted voices reached his ears. He forced his eyes up, squinting. Standing just feet away from him in a corner of the alley well within the shadows was a bald man in dark clothes.
+
+He had his dagger to the neck of a short, hooded woman with blonde hair and a scarred face. She looked to be roughly in her late teens. She and the man were arguing about something, but Arwin’s ears barely even registered the words. He mustered his energy and took a step toward them.
+
+“You,” Arwin growled, his pained words coming out coarse. “Smithy. The nearest one. Where is it?”
+
+“We’re doing something here,” the bald man said. “Don’t get any ideas. Get lost before you get run through as well.”
+
+I don’t have time for these damn games.
+
+“Answer the question,” Arwin spat. His stomach spasmed and his hand bit into the wall in attempt to support himself. “Now.”
+
+“You trying to be a hero?” the bald man shoved the woman back, pointing his dagger at Arwin and taking a step forward, a cocky smirk on his face. Inwardly, Arwin twitched. The man’s stance was all wrong.
+
+His feet were unbalanced, and he gripped the dagger between two fingers like it was a fork rather than a weapon. If he was meant to be intimidating, it wasn’t working.
+
+“That dagger magic?” Arwin asked.
+
+“Think you’re funny, do ya?” the bald man bared his teeth. “I’ll gut you like a fish, big man. I don’t see a sword on you. Muscles won’t stop you from bleeding out.”
+
+Arwin stopped listening to his words after he realized that the man wasn’t answering his question. If he wouldn’t say if the dagger was magical or not, then Arwin would have to find out himself.
+
+He shoved the pain down, just like he’d done in countless battles before, and moved. The bald man’s eyes widened and he thrust the dagger for Arwin’s stomach. It was such a pathetic blow that Arwin almost laughed.
+
+He drew on the Mesh. He might have lost his original class, but some of his titles had remained. With just a small injection of magic into [Scourge], Arwin felt power flood him.
+
+His hand came down on the other man’s wrist, and bones shattered like dry sticks. Arwin’s fingers wrapped around the man’s crushed wrist and his other fist slammed into the man’s stomach.
+
+The man crumpled with a pained scream, dangling by one arm from Arwin’s grip. Disgust washed through Arwin and he released [Scourge], driving an open palm into his would-be murderer’s skull.
+
+Just like that, the screaming stopped. The man fell limp, unconscious but not dead. Shaking his head, Arwin grabbed the dagger from the man’s limp fingers. All that his fingers found was plain metal. It didn’t have the telltale tingle of magic within it.
+
+“Worthless,” Arwin growled. He knelt beside the man and rifled through his pockets. They were, just like his, empty. Arwin’s eye twitched.
+
+Just my luck to get robbed by the cheapest thief to ever live.
+
+His eyes flicked over to the girl at the back of the alley, who was staring at him in a mixture of horror and awe.
+
+“You,” Arwin growled, straightening back up. The gnawing in his stomach was back and stronger than ever, but he couldn’t afford to give it heed. He didn’t remember how long he had left and it didn’t look like the Mesh planned to enlighten him.
+
+Forty-five minutes? Thirty? More than that, I think. I hope.
+
+“Yes?” the girl squeaked.
+
+“Smithy. Where is it?”
+
+“I – there’s an abandoned one about ten minutes from here, but the street is haunt–”
+
+“Show me. Now.”
+
+“Okay,” she stammered. “Please don’t kill me.”
+
+Arwin didn’t bother replying. He just jerked his head in acknowledgement. The girl swallowed heavily, then edged along the walls toward a connecting alleyway.
+
+“It’s this way,” she said hesitantly.
+
+“Lead. Quickly, now.”
+
+She hurried to comply, and the two of them headed deeper into the city. Arwin was relieved to find that the girl took his words to heart. She was practically scampering away from him, but it was all he could do to maintain his fast walk.
+
+Anything more felt like it would rip him apart from the inside out. The girl kept throwing glances over her shoulder at him as if she expected Arwin to suddenly decide to change his mind and rip her head off.
+
+They walked for roughly ten minutes. At least, Arwin was pretty sure it had been that long. Time felt like it was blurring together. What mattered was that he was still alive when the girl came to a stop in front of a dark, run-down street.
+
+Grey cobblestone was stained black and dull moss grew in the cracks between it. The buildings were crooked and crumbling, with some of them having completely given way to ruin. The faint scent of rubbish and mildew permeated the air, but with such intensity that Arwin knew for a fact it was never going to leave his clothes.
+
+“T-this building. The whole street is abandoned and cursed. Anybody that tries to stick around here ends up dead. There’s a ghost… or something,” the girl said, pointing at a crumbling stone storefront. What had once been a window was now just a hole, the grey brick around it badly cracked. Weeds had tried to take root around the building, but they’d all withered and died.
+
+The chimney poking out of the top of the building had largely fallen apart and was just a pile of bricks that vaguely resembled a rectangle.
+
+Arwin didn’t even bother saying anything. If it had a forge, he didn’t care what it was or what was wandering around near it. He staggered across the street and nearly tripped on the jagged, ill-kept steps leading inside. There were the remains of a rotting wooden door baring his way, but Arwin quite literally walked straight through it.
+
+Fragments of dust and rancid wood flew up around him as the door crunched. Arwin’s eyes scanned the dust-covered interior of the building, instantly landing on the back, just beyond a counter.
+
+An open door led into another room where the tip of an anvil stuck out into view. Arwin increased his speed, pushing through the remains of the building. He stepped into the room at the back.
+
+What greeted him was far from inspiring. Piles of scrap metal were piled in the corners, and not a single part of it looked like it had been touched in years. And yet, tools still hung from the forge’s walls. An anvil sat in its center, beside a pair of rotted buckets that had fallen in on themselves.
+
+Beyond them was the forge, cobbled brick leading up to the crumbled chimney that he’d seen from above. There was still dry wood within it, blackened from being partially burnt. Mixed in with the wood was some charcoal, as if the smith who had last used had tried to save money by combining the two. It wasn’t much to work with, but it was all Arwin had, and he’d be damned if he went out without giving his all.
+
+Arwin had never forged something himself, but he’d closely overseen the manufacturing of his armor. A memory of the black gemstone flitted through his mind and a bitter smile pulled at Arwin’s lips.
+
+I suppose I oversaw the forging of most of my armor, not all of it.
+
+Either way, the first step he could recall was fire. And, to get fire, Arwin needed –
+
+There.
+
+Sitting near the hearth was a black brick. A piece of flint. It was mostly used up, but all he needed was a spark. Arwin heaved himself over to it, grabbing the piece of flint, and struck it with the dagger that he’d taken from the thief.
+
+It scraped against the flint, sending up a tiny cloud of dust and doing nothing more. Undeterred, Arwin struck it again.
+
+And again.
+
+The fourth time, his efforts were rewarded. A tiny spark leapt as he struck the flint, landing on one of the dry, burnt pieces of wood nestled amongst the charcoal. Perhaps fortune smiled on Arwin, or perhaps the gods were smiling on him. Regardless of the reason, the spark took. He struck the flint a few more times until a tiny fire started to spread across the dry wood.
+
+Arwin fanned the flames as they grew, flitting across the dry wood and quickly filling the hearth. He grabbed the handles of the bellows, squeezing them desperately and pumping air into the flame.
+
+In minutes, a fire started to roar. Arwin’s stomach reminded him that he didn’t have minutes to work with. At any point, his time would run out and he would die.
+
+I’m not even guaranteed to make a magical item. I hardly know what I’m doing, but I have no choice but to try.
+
+Arwin staggered over to the pile of metal and grabbed a piece, barely pausing for long enough to check how good it looked. They were all garbage, and he didn’t need to make a work of art.
+
+He practically threw it into the fire, then immediately remembered that he had to take it back out. Cursing under his breath and pumping the bellows to keep the flame going, Arwin scanned the room once more. There was a poker already resting in the hearth, but it wasn’t exactly what he needed.
+
+His eyes landed on a pair of crusty tongs lying on the ground in a pile of rotted wood. Beside it, leaning against the anvil, was an old hammer. The wood making up its handle didn’t look particularly reliable, but it was better than nothing.
+
+Arwin turned his attention back to the piece of metal. It was only barely starting to heat, but he didn’t have any way to make it hot faster. All he could do was continue pumping the bellows, gritting his teeth as the pain continued to scale.
+
+It was another five precious minutes later when the metal finally seemed hot enough to work with. Arwin released the bellows, lurching forward and grabbing the tongs with fumbling fingers.
+
+He stuffed them into the hearth, sending out a shower of sparks as he grabbed the slightly reddened piece of metal and slammed it onto the anvil. Snagging the hammer with his other hand, Arwin brought it down on the piece of metal.
+
+It struck with a resounding clang, and Arwin immediately found a problem. The hearth hadn’t been anywhere near hot enough, and the metal had only slightly bent at his strike. The amount of time it would take to let the hearth heat properly was too great, though.
+
+Arwin raised his arm and called on [Scourge]. His hand fell, power infused into his muscles, and he struck the metal again. This time, it gave beneath the blow and bent. Arwin suppressed a pained grin and raised the hammer once more.
+
+If he didn’t have time, he’d just have to cut a few corners. Over and over, Arwin’s hammer fell on the strip of metal.
+
+He flattened it out, using the tongs to hold it in place as he pounded away. Arwin stuck it back into the hearth as it cooled, then pulled it back out as soon as it felt ready to work with. He had absolutely no idea how to forge just about anything, but a bracelet seemed easy enough. It was just a circle, after all.
+
+He hammered at the metal again, starting to put a curve into the metal. With every blow, he felt the molten coal inside his stomach start to burn hotter. Time was nearly up.
+
+But nearly wasn’t the same thing as completely, and so he kept at it. The strip of metal started to curve, and the two pieces finally came around to touch each other. It was, without a doubt, the ugliest bracelet that Arwin had ever seen.
+
+And yet, a bracelet it still was.
+
+Even though it still glowed with faint heat, Arwin felt the Mesh rise up within him.
+
+[Metal Bracelet: Garbage Quality] has been forged. Forging a magical item has granted you energy.
+
+Achievement: [The First Step] has been earned.
+
+[The First Step] – Awarded for forging your first item. Effects: Your first item has been granted magic. May it serve you well. This achievement has been consumed upon creation of your first item.
+
+The Mesh traced words through the air as Arwin inspected his newly made bracelet.
+
+Metal Bracelet: Garbage Quality
+
+[Running Hot]: This item was forged hastily, imbuing it with the panic of a dying candle. While wearing it, you may use a small amount of your magical energy to imbue your attacks with the Fire element.
+
+Arwin could have cried in relief. He grabbed the Bracelet, the heat still singing his skin, and brought the bracelet to his mouth. It was a monumentally stupid idea to try to bite down on a piece of hot metal, but he had no idea how else he was meant to eat something.
+
+As his mouth opened and his teeth touched the bracelet, a surge of energy raced down his body and into his stomach. The metal groaned within his mouth. And then, with a loud crack, it shattered.
+
+Relief flooded through Arwin as the pain started to abate. He chewed, unaware and uncaring of how he was eating straight metal as if it were bread, and then swallowed. The pain continued to recede, but Arwin wasn’t taking any chances.
+
+He took another bite from the bracelet, grinding the metal between his teeth. As Arwin went to take another bite, he heard a foot fall behind him. He turned, still chewing on metal, as five cloaked men stepped into the shop, their weapons drawn.
+
+“What do you want?” Arwin asked, taking another bite from his bracelet. The taste was starting to grow on him. It almost felt a little bit spicy, but that might have been his tongue burning. “I’m busy.”
+
+“This is the guy that roughed Blin up?” one of the men asked.
+
+“It’s him,” another said, tapping his nose. “Followed him here.”
+
+The first man glanced at the largest with an uncomfortable frown. “Boss, I–”
+
+“Shut up,” the large man snapped. “You don’t fiddle with the Brothers Six and just waltz off. He only got a dagger, idiots.”
+
+“Brothers Six? What are you, a circus troupe?” Arwin asked. He finished off the last of his bracelet, then let out a slow sigh. The last traces of pain had finally vanished.
+
+[Metal Bracelet: Garbage Quality] has been consumed. Trait temporarily added: Running Hot.
+
+Heat coiled in Arwin’s fists, and a cold smile split his lips. He could think properly again. “Get out, you corny shits. I value my solitude.”
+
+“I’m the one who calls the shots here,” the large man said, pointing his sword at Arwin. Magic crackled around his hand and entered the blade, igniting it with hissing yellow lightning. “And you’re paying in blood for what you did.”
+
+Of course he’s got magic. This is going to be a little more annoying than I was hoping for.
+
+“Idiots.” Arwin grabbed the poker from the hearth and pulled it free, its tip glowing red-hot. “Come on, then. I can’t say I enjoy moving much after a meal, but I’ll make an exception if it shuts you up.”

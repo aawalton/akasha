@@ -1,0 +1,231 @@
+---
+id: eb084bf8-9e49-5ff0-a6e3-21f95f213649
+page-type-slug: story-chapter-royal-road
+title: "Chapter 305: A Monarch's Agony (End of Book 4)"
+slug: 0020-chapter-305-a-monarch-s-agony-end-of-book-4
+partOf: reborn-as-a-demonic-tree
+position: 20
+ownLength: 3241
+unit: words
+ownProgress: 3241
+publishedAt: 2024-06-11
+link: "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/1672930/chapter-305-a-monarchs-agony-end-of-book-4"
+royalRoadId: "1672930"
+markedReadAt: "2026-06-29T19:02:10.596Z"
+---
+
+Ashlock felt a tingling sensation like pins and needles rising up through his roots, enveloping his entire land-spanning body. If the cries of concern echoing through the root network were anything to go by, his offspring suffered a similar fate.
+
+"Is this what it feels like to earn the attention of the World Tree," Ashlock shuddered, causing his bark to creak and his leaves to rustle violently as his Star Core quivered. It was an almost impossible sensation to describe, and it was made all the more concerning because he couldn't exactly flee from it.
+
+"Agh!" Ashlock groaned as an incredibly low rumbling sound started reverberating through his consciousness, threatening to tear his very sense of being apart.
+
+[Skill {Basic Mental Resistance [F]} Learned!]
+
+A system notification he hadn't seen in a very long time barely managed to distract him from the rumbling getting worse.
+
+[Upgraded {Basic Mental Resistance [F]} -> {Mental Resistance [E]}]
+
+If his consciousness had been a serene lake before, it was now a choppy ocean as the low rumbling squeezed and pulled on his mind.
+
+[Upgraded {Mental Resistance [E]} -> {Greater Mental Resistance [D]}]
+
+The terrible pain of his consciousness being messed with subsided slightly, but it was not enough to stop him from screaming in terror.
+
+[Upgraded {Greater Mental Resistance [D]} -> {Superior Mental Resistance [C]}]
+
+Ashlock could feel his system's desperation to keep him alive as the system notifications practically overlaid one another, and his new mental resistance skill rapidly leveled up.
+
+[Upgraded {Superior Mental Resistance [C]} -> {Mental Protection [B]}]
+
+Like a shield, a bubble manifested around his consciousness, protecting him from the terrible rumbling. The tingling sensation and terror throughout his root network was still there, but at least he could think straight for a moment.
+
+"Tree? Are you okay?" He could hear Stella's voice as she drummed her balled fists on his bark.
+
+"No," Ashlock answered honestly. If not for the system's timely assistance and willingness to assist him in self-preservation, he wouldn't have lasted another minute. He was not okay. That had been frightening, and he had no idea how long his new Mental Protection skill would hold out.
+
+"What happened? Did Mom attack you?"
+
+It took Ashlock a moment to realize Stella was talking about the World Tree when she spoke about her Mom. He was still out of it and trying to pull himself together.
+
+"Yeah... something like that. I'm not even sure if it was an attack, but I definitely earned her attention."
+
+Stella turned around and sat with her back pressed against his bark. Closing her eyes, she controlled her breathing and rested her head.
+
+Everyone watched in silence, including the Redclaws and Jasmine, as they let the Princess of Ashfallen figure out the best thing to do. Meanwhile, Ashlock poured as much Qi as possible into his mental defenses. Worst case, he would pull his roots back toward the surface and accept that he couldn't tap into the untamed Qi of the leyline.
+
+A while passed until Stella eventually frowned and opened her eyes.
+
+"What is it?" Ashlock asked.
+
+"She's in pain."
+
+"Pain?" Ashlock asked in confusion. "Am I causing her pain?"
+
+Stella shook her head, "I don't think so, as I can't see how you could cause such deep pain to such a powerful being."
+
+Ashlock thought back to his dreams and could still recall the phantom pain he experienced as the past World Trees, as he was harvested alive by those cultivators for eons.
+
+"The Celestial Empire..." Ashlock mused to himself. "What if it's not a safe haven for the World Tree but rather a prison? We thought she was the protector of the Celestial Empire and was the reason the city had stood the test of time, unlike the demonic sects that had to keep moving. But once I learned that the World Tree's roots are the leylines, I thought she was maliciously controlling the monsters to cause beast tides, but what if she's trying to create a beast tide big enough to free herself from the Celestial Empire by wiping it out instead?"
+
+Stella looked to the floor, and she balled her fists. Feeling the World Tree's pain seemed to be a lot for her.
+
+Ashlock slowly lowered his mental protection and listened more closely to the rumbling noise, which was reminiscent of a blue whale calling out through the ocean, just at the strength of a dying god. Sure enough, it didn't feel directed at him. It was just an overwhelming wave of a single emotion: agony.
+
+"You poor thing," Ashlock spoke through his roots with raw emotions, the same way he communicated with his offspring. Senior Lee had mentioned that the World Tree was capable of rudimentary conversation through emotions, but she seemed to ignore him as the waves of agony continued. "Can you hear me? I can help you..."
+
+Ashlock tried his best to get a response, but nothing he said seemed to reach the miserable tree. Whatever pain she was suffering was simply too unbearable to even give him a sliver of her attention.
+
+"Mom needs our help, Tree," Stella said into her knees as she rocked back and forth on one of his exposed roots. She looked up at his canopy with tears in the corner of her eyes, "She's suffering. Isn't there anything we can do?"
+
+Ashlock glanced at everyone on the mountain peak with his Demonic Eye and nobody avoided his gaze. They were all members of Ashfallen—dependable allies that he had gathered in fear of suffering the fate of the World Tree from those terrible nightmares. Meanwhile, the World Tree was likely all alone, fated for a lifetime of suffering.
+
+"Sorry, I seem to be missing something," Elder Margret said, "Stella's Mother is suffering somewhere?"
+
+Stella hesitantly nodded, "Something like that... though I'm not totally sure if she is my Mom." Stella then whispered into Ashlock's mind, "But even if she isn't my Mom, feeling a tree in such pain makes me want to scream. Trees are such gentle and caring beings. To inflict misery to that level on one is something I can't understand."
+
+"There is one thing we can do," Ashlock said to all present, his voice echoing in their minds much like the World Trees did in his own. "We have to get stronger to save her. That is the only way."
+
+Stella's face fell, "We have to get stronger... Mom is in pain right now—she doesn't have time to wait for us. Is that really the only option? "
+
+"Always has been," Magnus Redclaw said, "Since the day the first mortal gained the favor of the heavens and wielded Qi, it's been a race to the top. To the mortals, we are gods, and to the strong, we are ants."
+
+"The race to the top is exhausting, and I am sick of it," Stella snapped back and stood. Her hands trembled, and tears flowed down her cheeks, "All my life, I have done nothing but endlessly pursue power, yet there seems to always be a higher mountain—a greater peak to reach. I am never enough and always on the back foot. When someone is suffering... I can't save them. I am a pathetic weakling when it matters."
+
+Magnus closed his eyes and let out a sigh. An aura of someone who had seen too many things and experienced all there was to experience swirled around him. "To come to such a realization at such a young age," Magnus slowly opened his eyes, and he seemed genuinely sad for Stella, "To realize it will never be enough. Not until the heavens fall, and you alone stand at the peak. This is a realization all cultivators reach at some point along their immortal journey. We call it the 'realization of the endless path,' and it's where many falter and become consumed by their heart demons. To finally stop charging endlessly ahead in the pursuit of power and stop to look up at the supposed destination... the realization of the journey ahead crushes the spirit of most."
+
+"I don't blame them," Stella planted a weak fist into Ashlock's bark and ranted at the floor, "If even my Mother, a Monarch Realm being at the peak of creation, has to endure so much suffering, is there any point in getting stronger!?"
+
+"All you can do is your best and strive to improve," Magnus replied seriously.
+
+Stella ground her teeth, "Is that really enough. Will doing my best save my Mom from this overwhelming misery?"
+
+Ashlock noticed that Stella seemed overwhelmed because she was putting too big a task on her shoulders. Until now, they had mostly strived to simply survive day to day, fighting off local threats. But now? Stella wanted to help a Monarch Realm being, which was at the center of the strongest empire in the realm. Such a feat was impossible for their current selves...
+
+Before Ashlock could console Stella, Magus continued his lecture.
+
+"Strength, no matter how much you wield, is pointless if you stagnate. The Lunarshade Grand Elder is a good example. Since the War Era, his cultivation hadn't improved much as he lost motivation and fell into a life ruled by sin. Now he's dead, despite having been one of the 'strongest' people that walked this realm." Magnus grinned, "Meanwhile, here we all stand, alive, thanks to the immortal's guidance in helping us improve. Don't give up. We can save your Mother, it will just take time."
+
+Ashlock agreed with Magnus's words and was unsurprised to learn of cultivators realizing that the path to immortality was essentially a fruitless endeavor and deciding to give up and enjoy living out their hundreds if not thousands of years of life instead of spending it all sitting in a cave alone and meditating on the heavens' whispers for decades at a time.
+
+"I can cheat because trees are quite well suited for cultivation. But these humans must conquer their heart demons and sit silently for decades in closed-door meditation. That's enough to drive even the hardest-headed cultivators insane once they learn it never ends. A son of heaven will always stand upon a higher peak that can smite them down and eradicate their centuries of efforts and sacrifice in an instant."
+
+The question was, would they falter at the bottom of the cliff when faced with the impossible climb to their goal or defy the heavens and crawl their way up one root or foot at a time?
+
+Ashlock had his answer, and it seemed Stella also had hers.
+
+"Fine, let's do it," Stella patted his trunk and wiped her tears with her other arm, "Let's all get stronger and kill all the bastards hurting Mom. One step at a time, no matter how many years it takes."
+
+Ashlock knew his heart would be aching if he had one right now. Stella, having grown up without any warmth from a family, finally got to 'talk' to her supposed Mom, and all she learned was that she was in intense agony.
+
+"If we are to save her, as the Patriarch of this sect, allow me to lead the charge by ascending to Nascent Soul Realm. The coming days won't be easy. The Blood Lotus Sect is unlikely to let me ascend without interference, and the Eternal Pursuit Pavilion has its eyes on us. Are you all ready to stand with me and fight?"
+
+Ashlock wasn't sure why, but the air seemed to subtly glow with divine light at his words. His sect members all exchanged a quick glance.
+
+"If I said no, I fear Elder Mo would kill me in my sleep," Magnus chuckled as he stepped forward and promptly dropped to one knee. His Elders followed suit a step behind as they fell in line. "Jokes aside, the Redclaws were founded on war and will stand with you until death. In fact, even in death, feel free to use our corpses to create Ents so we may serve you once more."
+
+A rather grim declaration coming from a living person's mouth, but Ashlock could see the fierce loyalty blazing in their eyes. This type of loyalty couldn't be bought or bullied out of someone with fear. It was genuine and wrathful.
+
+Diana stepped forward with a fang-filled smile. "You know our answer," she gestured to Douglas and Elaine, who were lovingly holding hands to the side. A Mudcloak awkwardly stood under their clasped hands, giving an enthusiastic wave when pointed at.
+
+"Then I will do two last gestures before I initiate my ascension. Since we will attract heaven's wrath anyway, now is a good time to make Bastions." Ashlock selected Willow and was glad the system interface recognized him as an offspring after Jasmine's efforts and three days under the nine moons in the dreamscape.
+
+[Do you wish to activate the Skyborne Bastion? The cost is 1000 sacrificial credits and the required materials to form a Bastion Core]
+
+"Yes," Ashlock told his system. Clouds began to gather in the sky, and thunder roared over the mountain peak as the process started. Ignoring the system messages notifying him of heaven's incoming wrath due to Willow's damaged cultivation, his vision blurred as he went to make a brand new Bastion.
+
+Finding Nox in her usual field of white flowers, she was looking up at the gathering storm with interest.
+
+"Nox, after careful consideration and observation of your change of heart and turning over a new leaf, you have been chosen as the next one to join the noble ranks of the Bastions. The current highest honor for any tree under the Ashfallen Sect. Do you accept this new role as the guardian and Bastion of Ashfallen City?"
+
+The shadow dryad cupped her hands and respectfully bowed toward Red Vine Peak, "It would be an honor. I always wanted to be a flying tree."
+
+"You... did?"
+
+"Honestly? No. But a floating shadow tree emerging from the darkness sounds rather ominous, doesn't it? Better than sitting here all day, at least! Nobody even visits me..."
+
+Ashlock wanted to point out that a scary shadow lady hanging around an already offputting-looking tree wouldn't attract curious visitors, but he refrained. He was glad as long as Nox was happy with becoming a floating island outfitted with shields and weapons to protect him while he ascended.
+
+[Do you wish to activate the Skyborne Bastion? The cost is 1000 sacrificial credits and the required materials to form a Bastion Core]
+
+"Yes, I do," Ashlock told the system.
+
+Another thousand credits vanished from his vision as he saw something begin to eat away at the rock below Nox.
+
+[Forming Bastion Core...]
+
+[Bastion's operator has been successfully designated as {Nox Duskwalker}]
+
+[Bastion's affinity type set to Onyx (Shadow)]
+
+Waves of dark power rippled out across the mountain around Nox as she began her transformation. The storm overhead suddenly expanded outward to the horizon and went from grey to an obsidian black. Thunder roared so loud that it shook every tree on the mountain, and the sky flashed as lightning gathered.
+
+[Bastion {Nox Duskwalker}'s cultivation is unstable... initiating tribulation]
+
+An ungodly amount of lightning descended upon Nox, but she seemed to relish the onslaught as liquid shadow wreathed her bark, and she greedily absorbed the heavenly punishment.
+
+"Look's like I will have a Nascent Soul Bastion real soon," Ashlock mused as he returned to Red Vine Peak to join the 'fun.' Who didn't love getting struck by lightning?
+
+Once again, and hopefully for the last time, he pulled up his system to begin his ascension.
+
+[Requirements to turn Chaos Nebula into an Inner World have been met!]
+
+[11743 / 10000 Sacrificial Credits
+
+1 / 1 Absorbed Fire Star Cores
+
+1 / 1 Absorbed Water Star Cores
+
+1 / 1 Absorbed Earth Star Cores
+
+1 / 1 Absorbed Wind Star Cores
+
+1 / 1 Absorbed Metal Star Cores]
+
+[Do you wish to form your Inner World and begin the ascension process to Nascent Soul Realm?]
+
+"Yes."
+
+With those simple words, reality began to shake as his soul slowly rose out of his trunk, past his branches and canopy, to float as a literal sun of spatial Qi above him.
+
+[Expanding Inner World...]
+
+"Huh?" Ashlock said as his Star Core floating overhead suddenly began to balloon in size until it completely dwarfed the entire mountain range, illuminating everything in a lilac hue under the dark clouded sky. Through the lilac haze of his soul, he could see the Chaos Nebula being crushed under immense Qi pressure from a mixture of random Qi's into an actual planet.
+
+"That's ridiculous!" Magnus said over the roaring thunder as he pointed to the sky, his finger trembling, "A Star Core of such size and to have the ego to rip it out and challenge the very heavens with nothing but your soul is... is... the act of a true immortal unfazed by heaven's puny might!"
+
+Ashlock didn't want to admit this was the system's doing, as he had no idea how to handle an ascension.
+
+[Beginning ascension to Nascent Soul Realm...]
+
+The heavens answered his challenge by tearing the sky apart, and thousands of lightning bolts of every color and Qi imaginable struck his Star Core and, in turn, his forming Inner World. Some lightning bolts also went and targeted his offspring.
+
+"You dare strike my children?" Ashlock now realized why his system had wanted him to link up with the leyline. He pulled deeply on as much Qi as possible and blanketed every one of his offspring in his Qi to protect them. He wouldn't let them become collateral damage like the mortals of Slymere had.
+
+[Ascension to Nascent Soul Realm at 1% (estimated time of tribulation: 7 days)...]
+
+Ashlock coated himself in his {Lightning Qi Barrier [A]} and hunkered down for the long haul. His past ascension to Star Core had been quick, but it seemed the inclusion of the Inner World and becoming a demi-divine being had upped the difficulty of the tribulation to hell level.
+
+"I just hope the Blood Lotus Sect stays quiet—"
+
+***
+
+Vincent Nightrose's eyes snapped open.
+
+"Too soon," he muttered as he stared at the stone ceiling—he could still smell and feel the vicious blood of the bloodline holder he was bathing in. There was still plenty to absorb before the ritual was complete, and he added their bloodline to his arsenal.
+
+Vincent's eyes narrowed, "Why am I awake?"
+
+Something felt wrong. Terribly wrong.
+
+Raising his pale hand that dripped with blood, he gripped the edge of the stone coffin he was using to bathe in blood and hauled his naked body out. His skin was sunken, gripping his bones like a layer of paint, and his claw-like toenails scraped against the stone floor as he walked.
+
+He sniffed the air, uninterested in the musky scent of death as he crushed the skull of the person whose blood he had been bathing in. Instead, he used his bloodline-hunting ability and picked up on a delectable distant smell.
+
+"Ripe already?" Vincent smirked as he licked the blood and dirt from between his spindly fingers with his pointed tongue but then paused. Something else was tainting the smell—something he hated.
+
+A powerful infant soul was being born. Someone was ascending to Nascent Soul Realm on his land.
+
+"Oh, this won't do at all," Vincent shuffled toward the door of his cultivation chamber.
+
+It would seem someone had forgotten who ruled this place.

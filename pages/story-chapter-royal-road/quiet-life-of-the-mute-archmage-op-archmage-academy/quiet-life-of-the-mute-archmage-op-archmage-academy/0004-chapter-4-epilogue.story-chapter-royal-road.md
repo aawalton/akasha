@@ -1,0 +1,191 @@
+---
+id: 611d44c2-9271-5224-ad53-90de821f07fe
+page-type-slug: story-chapter-royal-road
+title: "Chapter 4: Epilogue"
+slug: 0004-chapter-4-epilogue
+partOf: quiet-life-of-the-mute-archmage-op-archmage-academy
+position: 4
+ownLength: 2178
+unit: words
+publishedAt: 2026-05-13
+link: "https://www.royalroad.com/fiction/167476/quiet-life-of-the-mute-archmage-op-archmage-academy/chapter/3389106/chapter-4-epilogue"
+royalRoadId: "3389106"
+---
+
+The mana in the air thickened steadily as time slipped past. Seconds bled into minutes, and minutes stretched into hours.
+
+Jen watched the afternoon sky. The sun burned bright overhead, washing the hill in pale gold, but her gaze was fixed elsewhere. She was studying the space itself, the way it grew heavier, denser, saturated with mana streaming in from every direction. Even the mana that usually clung to the sun's edge seemed to be bending this way, drawn like breath toward a single point.
+
+It felt as though all the mana in the world was gathering, coming to pay homage to a single awakening.
+
+A frown creased her brow as she observed the spectacle unfolding. Her eyes shifted to Molly, who sat perfectly still on the grass. The girl's expression, though, was anything but calm. Fear and worry tangled in the tight press of her lips as she stared at the ever-thickening symbols enveloping the entire hill.
+
+The moment she noticed Jen's attention, Molly's eyes snapped toward her, wide with alarm. She gestured frantically at the mana pressing in around them, movements sharp and urgent, as though trying to communicate something vital.
+
+A flicker of sadness passed through Jen's face when the meaning escaped her. 'If only I had finished the artifact already.' She swallowed the regret and forced a reassuring smile onto her lips. "It'll be alright, Molly. I'm here."
+
+Molly paused mid-motion, letting the words settle. Slowly, a small smile surfaced, pushing the fear back from her features. She gave a firm nod, straightening her spine as she turned her gaze outward once more, to the mana trembling across the hillside. The trembling deepened, turning violent.
+
+Molly's eyes rounded with awe as the rough symbols scattered through the air began to glow, softly at first, then brighter, pulsing with an ambient radiance that gathered strength until each one resembled a tiny, captured star.
+
+"It's finally time." Relief softened Jen's voice beside her. Molly glanced over to find the older woman already smiling at her. "Remember what I told you about awakening." Jen's tone slipped into something patient, instructive.
+
+"Not everyone can witness this event. Mages and archmages across the world built devices to monitor the awakening of an unawakened." A subtle warmth touched the corner of her mouth.
+
+"But for people like us, who see the symbols in the air unaided, no device is needed. All you must know is this. When the symbols drawn to the unawakened begin to glow, the only requirement is to sit and watch. Watch as the mana settles upon them, becoming one with their form, granting their fated potential and affinity."
+
+Molly nodded vigorously, absorbing every syllable. When Jen finished, the girl returned her stare to the glowing symbols blanketing the hill. Her heart drummed with excitement, and an unconscious, radiant smile stretched across her face. This was it. This was the moment she would finally awaken. The moment she had only ever dared to dream of since the first time she had heard of magic back in the slums.
+
+This was the moment she could wield that same magic. Real magic.
+
+Far above the sky, beyond the hill, beyond even where the village beneath the mountain sat, the glowing symbols began their descent. Molly watched them rush toward her like old friends reuniting after a long parting.
+
+And in that breath of time, they embraced her.
+
+Molly closed her eyes as a sudden, warm tingle bloomed through her entire body. It started at the soles of her feet and crawled upward, tickling its way to the crown of her head. The heat made her feel light, strangely buoyant, as though her bones had turned to something weightless. She felt herself drifting, hovering somewhere within the arms of the sky—
+
+A steady weight caught her hand.
+
+Her eyes flew open, darting down to the source of the pressure, and her breath snagged in her throat. She really was floating in the air. The weight gripping her hand was Jen's, and an amused smile played across the woman's lips. "Seems even the symbols are intrigued by you."
+
+Molly's stunned expression melted into a brilliant grin, and a giggle bubbled out of her.
+
+Jen's lips curved higher as she took in the girl's bright demeanor. Her thoughts, however, wandered elsewhere. She traced the impossibly dense mana coalescing around the child's small frame. In two hundred years of living as an active sage in this world, Jen had witnessed countless people awaken into mages. She had seen some instantly awaken the potential of an archmage, watched as the thickening mana answered their call. But she had never seen mana as dense as this. Never.
+
+Was this even the awakening of an archmage? Or something greater? Jen could not say.
+
+What she did know was that the only way to learn the truth was to wait until everything ran its course.
+
+A warm smile nearly graced her lips, but it froze before it could fully form. Her eyes flared wide. "Molly!"
+
+Horror lanced through her as she stared at the girl, whose hand she still held firmly. Molly's raven-black hair was beginning to pale, strands leaching to white like frost creeping across a winter meadow, slow and consuming.
+
+Jen pulled, trying to draw her down from the air, but her strength met only resistance. The symbols still crowded close around Molly's form, clutching her as though they had unearthed a hidden treasure they refused to release. Jen's blue eyes trembled with a confusion that bit deep. She did not understand what was unfolding.
+
+In a low, hurried voice, she began to utter a [Tier 10] formula. "[Fundamental Scan]."
+
+The words sank into the very texture of the air, spoken with a resonance that carried sacred finality. At the sound, the white symbols surrounding them shuddered under the weight of a sage's command. But before they could even begin to reshape themselves, they dispersed soundlessly, dissolving back into the embrace of the world.
+
+Jen's eyes widened further. How had her spell ended before it could even begin? She was a sage, for heaven's sake. Not just any sage. She was the greatest sage to have ever lived. Her utterances carried finality. Her existence knew no boundaries. She was strong. She was powerful.
+
+Yet why did she feel suddenly, inexplicably weak?
+
+Her gaze clung to Molly, worry and bewilderment carving themselves onto her features as she watched the girl's raven hair continue its strange whitening. Nothing was outwardly wrong. The awakening, despite its peculiarities, was moving forward smoothly. Jen could detect no error, no corruption in the process.
+
+So why did the unease burrow deeper beneath her ribs?
+
+Before her thoughts could spiral further, she felt Molly's other hand grasp hers. Her focus snapped back. The girl, still suspended in the air, was patting her hand with gentle reassurance. A warm smile rested on her face, as though she were saying, everything will be alright.
+
+Jen stared at her for a long, suspended moment. Then, slowly, warmth returned to her own expression.
+
+She released a deep sigh, surrendering the questions to silence, and resolved to let fate carry out its work while she waited for the awakening to complete.
+
+Minutes slipped by swiftly after that. What felt like a quiet late noon passed in stillness, and the remaining mana in the air finally coiled itself around Molly's form before settling deep within her.
+
+A breath of relief escaped Jen. Her shoulders dropped, the deep tension bleeding out of her as she sank onto the smooth grass of the hill. A tiny bead of sweat traced a path down from her jaw. It felt as though she had been the one undergoing a second awakening.
+
+"Thank the heavens nothing bad happened," she murmured. Before she could add anything else, she let out a soft "Oh," as a small figure rushed forward and wrapped both arms around her.
+
+A warm smile bloomed across her face. Molly beamed up at her, her now-white hair tumbling across her features. Jen chuckled and ruffled the pale strands. "Look at us now. We have the same hair color."
+
+Molly giggled in response.
+
+After a few moments, the girl settled beside Jen on the grass.
+
+"Alright now," Jen said, gathering herself. "Let's not waste any time. Let's see what you have."
+
+She raised a single finger. "But first, I'll need to explain a few things I haven't touched on before."
+
+Molly straightened, expression brightening as she fixed her full attention on the lesson to come.
+
+Jen's smile softened as she continued. "Now that you're a fully fledged mage, it's time you learned about what we call..." she paused, letting the weight settle "The System."
+
+"The System, based on records from ancient times, is an integration bestowed upon this world by the creator." Her eyes met Molly's attentive crimson ones, and her lips curled upward.
+
+"The One Beyond All."
+
+She shifted her gaze toward the hill's edge, where the resting sun stained the dimming blue sky with hues of deep orange. "'He' bestowed it upon humanity as a means to make understanding one's talent simpler." She turned back to Molly, her expression sharpening with the sternness of a teacher imparting a life lesson.
+
+"Take note, though. The System does not help one grow stronger. It never will. And it is certainly not a tool for increasing one's potential."
+
+Molly gave a solemn nod, watching as the warmth slowly returned to Jen's features. A brief sigh slipped from the older woman's lips. "Alright. With that explanation out of the way, let me teach you how to summon your System."
+
+Molly's face lit up. She watched Jen lean closer, gesturing toward the open air.
+
+"It isn't very hard. In fact, I'd say summoning your System is the easiest thing you'll ever do as a mage."
+
+A small smile played at the corner of her mouth. "All you have to do is think of the name [Status], and a blue screen will appear."
+
+With that word, Jen willed her own status to materialize.
+
+[SYSTEM]
+
++
+
+Name: Jen Valtoria
+
+Title: [Sage Without Limit] [Honored One] [Terror To Death] [The Traveler]
+
+Race: Demi-Primordial Human
+
+Affinity: [Limitless]
+
+Potential: 998
+
++
+
+........
+
+Molly's eyes flew wide as she stared at the screen. Her gaze darted to Jen, who wore a knowing smile, then snapped back to the floating display, then to Jen once more, before finally settling on the System.
+
+A staggering nine hundred and ninety-eight. Jen's potential sat at the very peak of mortal reach. Molly could scarcely believe it. She had read in her book that potential represented the current tier of magic a mage could wield, and it followed a strict ranking.
+
+Every mage's potential ranged from one to five for an Unawakened, six to thirty for an Apprentice, thirty-one to fifty for an Adept, fifty-one to a hundred and ninety-nine for a Master, two hundred to five hundred for an Archmage, five hundred and one to nine hundred and ninety-eight for a Sage.
+
+Beyond that lay the realm reserved for gods alone: nine hundred and ninety-nine and above.
+
+Molly's gaze returned to Jen. She studied the kind woman who had found her, taken her in as though she were her own, and cared for her with such depth. This woman was a Sage. More than that, she was one who stood on the very threshold of godhood, those same beings Jen had woven into bedtime stories for her.
+
+Jen raised an eyebrow, catching the distant look in Molly's eyes. She reached out and tickled the young girl's side. "Don't think too hard about what's on the screen, my dear Molly."
+
+Molly giggled at the touch.
+
+A calm silence settled between them. Jen regarded her with a soft, steady smile. "Now you try it," she said gently.
+
+Molly stared at Jen for a brief moment before giving a short, determined nod. She turned her focus to the empty air before her, picturing that same blue screen, and with a silent command, it shimmered into existence.
+
+[SYSTEM]
+
++
+
+Name: Molly Valtoria
+
+Title: [The End]
+
+Race: Human
+
+Affinity: [Epilogue]
+
+Potential: 499
+
++
+
+.......
+
+Molly's eyes went round with delight the moment she spotted her potential. She immediately began nudging Jen, insistent, eager for her to take a closer look.
+
+"Alright. Alright." After enduring the girl's persistence, Jen finally leaned closer. Her lush blue gaze settled on the status screen. The first number that caught her eye was Molly's potential.
+
+A small smile tugged at her lips. 'An archmage on the verge of becoming a sage.' Amusement crept into her expression. 'Even I didn't awaken with a potential that high.'
+
+The thought drifted through her mind as her eyes subconsciously traveled upward, scanning the remaining details. And then they stopped.
+
+Her eyes widened.
+
+She stared at the affinity Molly had awakened.
+
+Her mouth opened and closed several times, sound failing her as she struggled to grasp what she was reading. When her mind finally caught up, a single word spilled from her lips.
+
+"[Epilogue]."
+
+The Magic That Ends All Things.

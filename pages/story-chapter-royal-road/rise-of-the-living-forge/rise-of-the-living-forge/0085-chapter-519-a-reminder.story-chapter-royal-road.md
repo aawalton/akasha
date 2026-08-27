@@ -1,0 +1,119 @@
+---
+id: 08aa1bb9-2ad3-5878-bb53-855399fe5d9c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 519: A Reminder"
+slug: 0085-chapter-519-a-reminder
+partOf: rise-of-the-living-forge
+position: 85
+ownLength: 1506
+unit: words
+ownProgress: 1506
+publishedAt: 2025-11-18
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2772080/chapter-519-a-reminder"
+royalRoadId: "2772080"
+markedReadAt: "2026-06-29T20:01:09.302Z"
+---
+
+Wallace and Koyu both woke not long after Uriel had left. Arwin was still standing there, Lillia cradled against his chest, staring at where the enormous suit of armor had stood just a short while ago.
+
+“Where’s the daggum armor?” Wallace asked, looking around through a deeply furrowed brow. He tugged at his thick beard. “Did we fail?”
+
+“Fail?” Koyu asked. “Look at your Achievements, dwarf. Is the Mesh not burning a hole through your skull?”
+
+Wallace sucked in a sharp breath. He was silent for several long seconds. Then he let out a slow whistle. “Oh.”
+
+“Oh,” Koyu agreed.
+
+Arwin glanced back at them, finally managing to peel his eyes away from the wall. He hadn’t gotten any Achievements because his class had been Sunset, but that evidently hadn’t stopped the Mesh from rewarding the others.
+
+I wonder if Lillia got energy as well. Smithing definitely isn’t anything normally part of her class. But she’s Sunset, just like me. And with all the effort and power we put into creating that thing… I’d imagine she should have gotten a good amount of power as well.
+
+“Where’d the armor go?” Wallace asked, finally finding his voice again. He looked around the Armory. “Don’t tell me we lost the dang thing.”
+
+“How could you lose something that big?” Koyu asked. He sent a fully straight-faced look in Arwin’s direction. “Though I must admit curiosity. Where did it go? I hope you didn’t get hungry.”
+
+Arwin nearly choked. “What do you think I am? I can’t eat an entire suit of armor that powerful in the span of the few minutes everyone was knocked out!”
+
+“Where is it, then?” Wallace asked.
+
+“Walked out,” Arwin replied.
+
+Wallace stared at him. “Walked out? On its own?”
+
+“Yes.”
+
+“You’re telling me the Soul Guardian just stood up and strode out of the Infernal Armory?” Koyu asked. His pale brows rose. “Just like that? Your other Soul Guardian doesn’t even budge until the Infernal Armory is in danger.”
+
+“Well… this one isn’t much like that one,” Arwin said. He was still partially unsure if that was a good thing or not. “She went to the Devil’s Den.”
+
+“She?” Wallace asked. The dwarf tilted his head to the side. Then his eyes narrowed. “You spoke to it.”
+
+“To her,” Arwin corrected. “I don’t think Uriel will appreciate you calling her an it. She seemed fairly… strong-willed.”
+
+“This is a load of it,” Wallace muttered. He crossed his arms in front of himself. “All that work and I don’t even get to see the darned result. It walks out on me. Walks out! What am I? Chopped liver?”
+
+Arwin would have laughed if he weren’t so tired. Instead, he settled for a small smile. “You can always go say hi, you know. It’s not like there are many places to hide. Just maybe save it for tomorrow. She was just born, after all. I’d imagine she wants a little time to herself.”
+
+Koyu shifted. His eyes flicked to the side as unease passed through his features. “The armor. Is she… satisfied? Happy? With existence?”
+
+“I don’t think she’s figured that bit out yet,” Arwin replied. He paused for a moment. “But she’s not unhappy. We didn’t do anything to her that she didn’t herself desire. The Soulmancy doesn’t seem to have caused any difficulties.”
+
+Koyu blew out a slow breath. Then he nodded. “Good. Then I will rest. It has been a long night.”
+
+“Do liches even need sleep?” Wallace asked.
+
+He never got an answer. Koyu was already gone, nothing more than a fading memory. The dwarf blew out an irate huff.
+
+“I hate the poofy types. All magic, no brains. It’s not a good for a man to be able to just slip away from a good conversation because he got scared,” Wallace grumbled. His irritation lasted for about half a second longer before a he turned back to Arwin. “The armor. Was she… right? Beautiful? Like we had pictured?”
+
+“Even more so,” Arwin said honestly.
+
+A smile crossed Wallace’s lips. “Then that’s good enough for me. I’ll find her when she’s ready for a real smith to take a look at things. Until tomorrow, Arwin.”
+
+Wallace strode out from the Infernal Armory, leaving Arwin and Lillia alone within the darkness. The Armory itself didn’t manifest so much as a shimmer of red smoke. It was fast asleep.
+
+“Suppose we should get going too,” Arwin said quietly. He’d only caught a glimpse of the night, but enough of one to know the moon was high overhead and it was well on its way to being over.
+
+Sleep called to him — but not nearly as loudly as the energy churning within his body. An ocean of cold power beat against his insides. It could be denied no longer. There would be no rest at all until he finally granted it an outlet.
+
+And so, with Lillia held against his chest, Arwin slipped from the Infernal Armory and made his way back toward the Devil’s Den.
+
+It was dead silent when he returned. The night itself seemed to be asleep. Arwin was grateful for it. He didn’t have the energy to speak with anyone else tonight. He simply slipped through the common room and past the kitchen to return to Lillia’s room.
+
+Even as dark as it was, he knew it perfectly by now. He had no problem at all drawing up to the bed — and there he paused. There hadn’t exactly been a chance for him or Lillia to take a bath after the immense exertion of making Uriel.
+
+Arwin wasn’t going to bathe her while she was unconscious, but he also wasn’t about to let her rest on the floor. He thought for a moment more before realizing that his mind just didn’t have the capacity to keep thinking at this point in the night.
+
+They could just wash the bed later.
+
+He sat down carefully, laying Lillia out upon it before sliding in beside her and resting his back against the wall. The power swirling in his chest almost seemed to intensify in anticipation. It knew what was coming.
+
+And now it was time for Arwin find out for himself.
+
+Closing his eyes, he let his mind drift down to the magic swirling within himself. The freezing energy sensed his approach. It rose up like the tides, meeting his thoughts and piercing straight into his skull.
+
+Arwin drew in a sharp breath. His entire body went stiff in an instant of shock. Every single one of his veins pumped with raw magical strength as the magic tore free from its containment.
+
+Any other sounds Arwin may have made were locked in his throat. Power seared into his muscles and worked its way through every single inch of his flesh. He could have sworn something was bubbling beneath his skin.
+
+The power wasn’t just passing through him. Arwin felt his very body changing. Power infused itself into his being. It strengthened his skin and hardened his bones. And there was something more. Something entirely different.
+
+His mind didn’t have the liberty to do anything more than notice the changes for a brief instant. The dam had been broken, and all the energy that had been gathered up within him refused to wait any longer. More and more power poured out.
+
+Arwin’s skull pounded from the intensity of the power crashing through him. It was all he could do to hold himself together and focus on his goal. If the magic didn’t have something to direct it, he feared it would just explode out of him.
+
+But controlling the power was like trying to wrangle a furious warhorse. It bucked and twisted beneath his will, fighting desperately to throw him free. Perhaps its attempts would have worked if he were a lesser man.
+
+But Arwin was not. And, unlike the magic, he had something very important motivating him. Arwin was driven by more than just the need to succeed or the fear of losing the power he’d gathered up over all these days.
+
+He had to make sure he didn’t wake Lillia up. That meant he couldn’t let the magic go bursting out of him or send him rolling around on the floor. She needed rest. And that meant he wasn’t going to move a damned inch from the spot on the bed where he sat.
+
+Arwin wound bands of his will around the magic. He tightened his thoughts, his teeth clenching. It almost felt like the power was limitless, uncontrollable — but he knew that wasn’t true. He’d earned every scrap of this magic. It was his.
+
+He just had to remind it.
+
+Somewhere in the back of his being, something shifted.
+
+The magic froze.
+
+Arwin felt the bed drop out. His heart shot up into his throat and he plummeted down, falling through the bed as his mind split away from his body, hurtling to meet the sea of churning white magic that rushed up to meet his mind.

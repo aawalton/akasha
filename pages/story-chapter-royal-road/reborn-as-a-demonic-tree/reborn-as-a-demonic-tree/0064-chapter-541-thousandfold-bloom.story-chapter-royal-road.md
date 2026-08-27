@@ -1,0 +1,141 @@
+---
+id: d352205f-4c44-5768-bf62-8bc65d7387f9
+page-type-slug: story-chapter-royal-road
+title: "Chapter 541: Thousandfold Bloom"
+slug: 0064-chapter-541-thousandfold-bloom
+partOf: reborn-as-a-demonic-tree
+position: 64
+ownLength: 2227
+unit: words
+ownProgress: 2227
+publishedAt: 2026-03-04
+link: "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3116714/chapter-541-thousandfold-bloom"
+royalRoadId: "3116714"
+markedReadAt: "2026-06-29T19:03:43.981Z"
+---
+
+Ashlock's conversation with the mysterious shadow Monarch was forced to come to an abrupt end when another Monarch of the Celestial Empire made their presence known.
+
+A Monarch he was all too familiar with.
+
+Appearing middle-aged, like most Monarchs Ashlock had seen so far, the man's slicked-back white hair and purple robes embroidered with golden floral patterns were hard to forget.
+
+"It seems my silence has been taken for weakness," Councilman Faelorian Lysanthos said, his voice booming through all of Floridawn like rolling thunder. "Listen well, All-Seeing Eye. As an evil god, you are not welcome in my lands, nor are your twisted creatures born from the souls of the mortals that call Floridawn home." He rose into the sky, and like flicking a switch, his immense Monarch realm soul pressure radiated out. "Domain of the Thousandfold Bloom."
+
+In a single heartbeat, the ruined lands around Thanatos surged with lifeforce.
+
+Cracked earth knitted itself together with lurking roots, flowers tore their way free of stone, and towering trees erupted skyward as if answering an ancient summons. The soft thrum of life spread through the air as luminous grass carpeted the battlefield, transforming a land of death into a thriving paradise.
+
+It was breathtakingly beautiful.
+
+And it was a slaughterhouse.
+
+At the Monarch's idle wave, the colossal flowers that eclipsed buildings shuddered—and their silken petals sharpened into rings of barbed teeth. They snapped shut around the Ents with enough force to smash rock, their roots lashing out to drag the struggling Ents into their waiting maws.
+
+Just when the scene seemed brutal enough, the ground itself turned traitor. The grass writhed, no longer passive. It coiled around the Ents' legs in living knots, tightening like serpents, dragging them down as roots pierced deep and drank greedily from their essence.
+
+Then the trees moved.
+
+Branches bent with deliberate intent, not swaying but moving like limbs. Spiked fruits the size of boulders were hurled and whistled through the air, punching straight through Ent bodies and splintering them apart in showers of shattered wood. Some trees went further still—rending themselves from the earth and toppling over with earth-shaking crashes, crushing Ents beneath their immense weight.
+
+It was absolute carnage.
+
+Ashlock had expected some resistance to Thanatos's arrival from a Monarch, but nothing could have prepared him for such an abrupt turn in the tide of battle. "Thanatos, get everyone out," he quickly instructed. While his Ents would keep reviving, they would weaken over time, and Faelorian Lysanthos's domain only seemed to be growing stronger as more desolate land was converted into a living forest. Clearly, fighting a Monarch who had domain over an aspect of reality was a fruitless endeavor.
+
+His General began ordering the shadow fiends to retrieve the cultists and bring them to the desolation portals, which Ashlock was barely managing to keep open under the nature Qi-filled air.
+
+"Distract Faelorian somehow to buy the cultists time to flee," Ashlock followed up as he watched the living forest of carnage swiftly close in on Thanatos's location.
+
+"As you wish, my Lord." Thanatos slashed his scythe in Faelorian Lysanthos's direction with the same attack that had wiped out many cultivators earlier. His attack rended the night sky, splitting it in two.
+
+"Useless," Faelorian Lysanthos said icily as he waved his hand, and a massive glowing sunflower exploded upwards from the ground to block the attack. "You're going to have to do better than that if you want to scratch me."
+
+"I have no need to harm you, Councilman Faelorian," Thanatos replied. "I'm merely a herald sent here to spread the word of my god. The Covenant will deal with you soon enough."
+
+Compared to the attack from earlier that hadn't fazed the man, bringing up the name of the Covenant made Faelorian's eye twitch.
+
+"You're right. You are nothing but a mouthpiece for your fake god. If he's so powerful, why doesn't he come here himself rather than sending weaklings like you and relying on useless scare tactics?" he scoffed. "Nobody has ever heard of this Covenant. What makes you so confident in them?"
+
+Thanatos haughtily laughed. "The very fact you have never heard of them proves their capabilities. Many foes of the All-Seeing Eye have fallen to their traceless blades, never knowing who killed them. The All-Seeing Eye simply saw it fit to give you a death sentence for your crimes."
+
+"More lies," Faelorian rightfully said, shooting down Thanatos's attempts at intimidation. "I don't have any plans to die, especially not to the likes of you."
+
+The ground erupted in an explosion of flora below Thanatos alongside a wave of soul pressure that locked the General in place. Ashlock watched in slow motion, unable to do anything due to the presence of the domain, as Thanatos was about to be captured by Faelorian for the second time—only for a flash of foreign Qi to pull Thanatos into the darkness at the last second. It was so subtle and perfectly mixed with Thanatos's Qi that if not for being directly linked to Ashlock, he wouldn't have noticed the external assistance.
+
+The risen flora uselessly snapped in the air, making Faelorian curse under his breath.
+
+But Ashlock was more focused on the strange presence in his mind. "I will see you at the provided coordinates soon," the Shadow Monarch said, and Ashlock then felt her presence fade from the shadow dimension.
+
+A Monarch of the Celestial Empire had helped him?
+
+This changed things.
+
+"I know you are still watching," Faelorian said, floating over the reclaimed land and staring right at Ashlock's Eye of the Tree God that was high above the land. "I can feel your vile gaze on me. Leave now, and never return before I crush you."
+
+Ashlock felt the Monarch's power reach up and caress his eye, as if threatening to pop it between mystical fingers. He didn't want to find out if Faelorian actually possessed the capability to do such a thing, so after quickly checking that all the cultists had made it out, he retreated—for now. He knew Faelorian had come out of seclusion to make a statement of power, but he also knew that doing so came at a great cost to the Monarch.
+
+Otherwise, he would have stepped up earlier. After all, they had encountered one another before, so he knew for a fact the Monarch had been aware of the destruction of Floridawn, yet he had chosen to sit back and hope the situation resolved itself. Thankfully, this was a weakness that Ashlock did not share. He could keep attacking as many times as he pleased.
+
+He was... inevitable.
+
+Back on Red Vine Peak, Ashlock confirmed with Thanatos. "Did that Shadow Monarch really save you?"
+
+"Without a doubt, my Lord," Thanatos said with a bow. "If not for Mistress Shadow's swift intervention, I fear I would have been trapped by Faelorian once again, and I doubt he would make the same mistake as last time."
+
+"Then I suppose I will have to hear her out without blasting her with a desolation beam," Ashlock sighed. Life was easier when he could simply label everyone an enemy. "Do you think working alongside her could be a good idea?"
+
+"Possibly, but we know too little. For all we know, Mistress Shadow could be a sworn ally of the Chairman or the one who maintains the formation that enslaves the World Tree, making our clash inevitable," Thanatos reasoned. "I would proceed with great caution, my Lord."
+
+"I agree," Ashlock said, sighing again. Having someone assisting him on the inside would be beneficial, but as Thanatos had rightly pointed out, he lacked too much information. But that did go both ways.
+
+He doubted anyone in the Celestial Empire knew of his true nature.
+
+***
+
+"I think I've figured out the All-Seeing Eye's true identity," Mistress Veilshade said after returning to her room of darkness.
+
+Before her sat the heads of the Silent Thorn. It hadn't been an hour since she had encountered the shadow angel in Floridawn, but time was of the essence. The Chairman would no doubt discover the attacked sap-harvesting station, learn what had happened in Floridawn, and make his move.
+
+While the Chairman's popularity had fallen in recent times, he alone had stood as the de facto emperor of the ninth layer of creation for longer than any monarch had been alive for a reason. While she didn't quite understand how, as the Chairman had never shown so much as a hint of his true strength, the results spoke for themselves. He had remained at the top despite the many uprisings throughout the years.
+
+He's not to be underestimated, she thought.
+
+However, it was clear that the Chairman was trying to fan the flames of war, and the All-Seeing Eye was likely the catalyst for it all. What she wanted to figure out was if this evil god was working with or against the Chairman. That would determine how she treated him moving forward.
+
+Clearing her throat, she continued her explanation. "As we all know, the Silent Thorns have been tracking the Chairman's pet project, codename STELLA, for a long time. The being created from the World Tree's sap was last reported to be deep in the wilderness, residing in a demonic sect called the Blood Lotus Sect."
+
+Mistress Veilshade snapped her fingers, summoning pages of darkness before everyone at the table.
+
+"However, recently, it seems the Blood Lotus Sect's name was wiped from the Eternal Pursuit Pavilion's records and replaced with a sect called the Ashfallen Sect," she explained. Her information guild, the Silent Thorns, was more concerned with internal affairs within the Celestial Empire than the wilderness beyond it, so most of her information had to be bought via Yinxi Coins through the Pavilion.
+
+Her agents had mass-purchased the latest information concerning the wilderness, and it seemed a lot had gone on under her notice.
+
+"The reason this is important is that the Ashfallen Sect is not only a brand new Divine Realm level sect that supposedly rivals us in strength, but they are also said to worship an evil god called the All-Seeing Eye. I'd say right now the best chance we have to gather information on this enemy the Celestial Empire faces would be to investigate the old lands of the Blood Lotus Sect. We have some shadows posted throughout the wilderness—mobilize them for this."
+
+"What does this have to do with the Chairman's pet project?" one of the shadows asked.
+
+"The Chairman knows where Stella is, that is a fact," Mistress Veilshade replied, "yet is seemingly doing nothing to recapture her. Don't you find it strange that we are facing a powerful enemy out of nowhere right where his little pet project went missing, and a war is about to break out that he is set to profit from in some way?"
+
+A murmur of agreement spread throughout the room.
+
+"Oh, and while you are there, a high-ranking shadow should investigate the Frozen Star Sect. It seems they faced some troubles recently that are not reflected in the report. I'll also need someone to research the validity of the Covenant that the shadow angel mentioned," she waved her hand. "This meeting is now over. Get me the desired information by the end of the week."
+
+"Yes, Lady Darkness," the shadowed figures said in unison before vanishing.
+
+An unsettling unease came over Mistress Veilshade as she stared at the empty room. "I feel like I'm missing something," she frowned, crossing her arms. It was as if there were a puzzle unfolding before her, but she had been given the wrong pieces. The more parts she pieced together from the information she had purchased, the less sense it made.
+
+I refuse to lose to your game, Chairman. No matter how many layers you try to bury it under, she scowled. She refused to be another corpse buried under his empire built upon the bones of many fallen Monarchs. He had another side to him; she was sure of it. There just wasn't any proof yet besides the fact that no empire could be ruled for so long by a rule-abiding Monarch.
+
+He had been thrown into hell and reemerged one too many times to wear the skin of a human.
+
+She sighed and dismissed her worries for now. Whatever the Chairman was plotting would come to light once her shadows returned with news from the wilderness. For now, she had to focus on her own turf—namely, the canopy factions.
+
+"I wonder what web of lies I should spin to keep them at bay?" Mistress Veilshade mused as she left the meeting room for her own quarters.
+
+She also had to prepare for the upcoming meeting.
+
+"I'll go there alone," she muttered. While she trusted her shadows, this was a meeting she wanted to attend alone. It wasn't every day someone got to meet with an evil god suicidal enough to attack the Celestial Empire.
+
+I just hope they survive long enough for our meeting to happen. While Monarchs may prefer to watch from afar and avoid confrontation, the same couldn't be said regarding their forces. Just like how my shadows will be closing in on the late Blood Lotus Sect's lands, so will the subordinates of the other Monarchs.
+
+As Faelorian had rightly said, silence was never to be taken as weakness.

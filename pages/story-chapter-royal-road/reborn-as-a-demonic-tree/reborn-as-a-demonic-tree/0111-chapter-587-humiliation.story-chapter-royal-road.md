@@ -1,0 +1,185 @@
+---
+id: 8e4409aa-1112-5796-898c-c835cfcabe65
+page-type-slug: story-chapter-royal-road
+title: "Chapter 587: Humiliation"
+slug: 0111-chapter-587-humiliation
+partOf: reborn-as-a-demonic-tree
+position: 111
+ownLength: 2513
+unit: words
+publishedAt: 2026-06-29
+link: "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3608996/chapter-587-humiliation"
+royalRoadId: "3608996"
+---
+
+Stella stared down at the Crowned One with contempt. He was so plain and uninspiring that it was somehow infuriating.
+
+In her mind, he was this big obstacle, yet here he was.
+
+Just a man with a crown of light sipping from a cup of spirit wine and disregarding the situation around him. He didn't even have the presence of a Monarch, let alone an ancient ancestor who ruled the Celestial Empire from the shadows. It seemed the others around her shared a similar sentiment, stealing glances at the Crowned One with mixed expressions. Those on her side mirrored her contempt, while those beside Droskan seemed further hesitant to side with the Crowned One.
+
+"It seems everyone was keenly awaiting my arrival," the Crowned One finally said as the cup left his lips and he set it down. "Especially you, Stella Crestfallen."
+
+A chill went down her spine at the mention of her name, and her Qi became difficult to control. Her jaw tightened in annoyance at the feeling of being controlled by another.
+
+"Take your filthy mark off my soul. Now." Stella commanded, her tone venomous and filled with spite. She hated everything about this Crowned One and what he stood for.
+
+The Crowned One didn't reply. He simply rose, his seat screeching behind him. Taking the half-drunk glass of spirit wine between his fingers, he leisurely made his way toward the empty throne with unhurried steps. Climbing the steps as if they led to his own home, he reached the top, took a small sip of his drink, and turned to face all of the floating Monarchs without taking a seat.
+
+"Kneel."
+
+As if the heavens themselves had fallen, a spiritual pressure like none other slammed down onto Stella and everyone else, forcing them to the ground. One by one, the other Monarchs around Stella succumbed to the pressure and reluctantly took a knee, their faces contorted in a mixture of confusion and fear as their bodies seemed to move on their own.
+
+"Stella, what the Crowned One's emitting isn't just simple spiritual pressure. That is his domain," Ash mentally informed her. "It seems to command absolute obedience from those he deems lesser than himself."
+
+"How do you know that?" Stella asked as she felt the immense pressure that had forced her to the ground dissipate enough for her to remain standing rather than continue barreling down on her shoulders.
+
+"As the Necroflora Overlord, my Ents do not kneel to anyone else but me," Ash explained. "My Soul Forest technique also activated to prevent his command from reaching me through my roots."
+
+Stella glanced to the side, and sure enough, beside her, only Khaos and Thanatos remained standing. Even the arrogant griffin was kissing the floor at the command of the Crowned One.
+
+"Why can I remain standing then?" Stella asked. "Is it because his domain believes I'm superior to him?"
+
+"No, don't be so arrogant." Ash swiftly berated her, surprising her. "The domain seems to seize control of the soul, so the attack was naturally transferred to Ao Lingxuan through your link. He is currently kneeling in Tartarus despite his restraints." Ash paused. "Stella, you should kneel."
+
+"What?!" Stella scoffed at the absurdity of the request. While the domain's command had been transferred to Ao Lingxuan in her stead, she was using every fiber of her body to remain standing in the face of the soul pressure radiating off the Crowned One.
+
+"Why would I willingly kneel? To him of all people? I'd rather swallow glass."
+
+"Stella, he's going to figure out that you can transfer things to Ao Lingxuan if you remain standing alone against his domain. I estimate his strength to be at the upper levels of the Monarch Realm, possibly even the peak. Logically, there is nobody on this layer of creation that can match him, and he knows it. That includes you. If you stay standing, he will grow suspicious, and our chance to catch him off guard is gone."
+
+Stella grimaced. The Crowned One's domain suited a coward who only knew how to punch down perfectly. Should the Crowned One try to stand up to a superior opponent or one that managed to intimidate him, he would be helpless. But against weaker foes that any Monarch should be able to triumph over in an honorable battle?
+
+He had absolute power.
+
+As the Monarchs knelt one by one, the Crowned One seemed assured of his victory, and Stella wanted to do nothing else but give him that satisfaction. Yet, as she met his glowing eyes, which stared past her as if she weren't worth observing, against every instinct of her body, to the point of her bloodline protesting, she bent her knee and bowed her head.
+
+"Good. Your mind may wish to resist me, but your body knows who its master is," the Crowned One said with amusement—his every word made Stella's skin crawl, and she ground her teeth with rage.
+
+The Crowned One, satisfied with the procession of Monarchs kneeling before him, finally took his throne.
+
+I'm going to kill him.
+
+For the sake of the plan, Stella had surrendered her pride and knelt before her most hated foe. Instead of being rewarded for such an act of humility and foreplanning for the greater good, she could feel the latent will of the Crestfallen ancestors peering down at her with disgust. They didn't seem to care for her schemes—they only wanted her to sit where the Crowned One sat.
+
+And that wasn't a request. It was a demand.
+
+She knew deep down that if she failed to redeem herself soon, her ancestors would abandon her. She would cease being a Crestfallen for sullying the pride of the bloodline known to conquer the nine realms and bring about destruction. All because she kneeled to another.
+
+Stella felt miserable and seethed in her mind.
+
+I'm going to kill him. I'm going to kill him. I'm going to kill him. I'm going to kill him. I'm going to kill him. I'm going to kill him. I'm going to kill him. I'm going to—she chanted over and over, but the disdain from her ancestors did not ease.
+
+The Crestfallen ancestors demanded results, not promises.
+
+"Stella Crestfallen, my beloved creation," the Crowned One said with all the smugness of a ruler who knew they were untouchable. "Arise."
+
+She felt the pressure bearing down on her vanish, and instead, she was compelled to stand, so she did.
+
+"Come to me."
+
+Gladly, Stella thought as she walked past the kneeling Monarchs and ascended the stairs. She kept her expression as stone-faced as possible in spite of the Crowned One's smug grin. All she could think about was how she was going to kill him.
+
+Once she reached the top of the stairs and stood before him, the Crowned One didn't look up to meet her gaze. Instead, he stared straight ahead and gave another order with a smirk on his lips.
+
+"Kiss my foot."
+
+Stella stabbed him in the face.
+
+The suddenness of the attack shocked even Stella. It had been instinctual, like swatting a fly trying to land on your eye. Her body moved before she had even registered the Crowned One's command. A dagger had manifested in her hand from her spatial ring, and her arm struck down at the seated Crowned One with such ferocity that it broke her own arm in the process and cracked the stone throne beneath him.
+
+A dagger handle now stuck out of the Crowned One's crushed skull like a demon's horn. The crown of light on his head faded away, and his body slumped forward, golden blood streaking from the wound down his face and dripping onto his pristine white robes.
+
+Stella stared down at the Crowned One's corpse in stunned disbelief.
+
+"I... killed him?" she muttered, not believing her own words. Staggering backward, she felt the steps to the throne come up behind her. Turning, she looked down the steps at the Monarchs. With the soul pressure gone, they were all slowly standing back up and looking up at her like a monster.
+
+"How?" Droskan said, horrified. "The Crowned One couldn't be defeated so easily, even by you. This... doesn't make any sense! Just how strong are you, Stella Crestfallen?!"
+
+Stella simply stood there, unsure what to say or do. But as the situation settled, her lips curved into a smile. A metaphorical weight lifted from her shoulders. "The Crowned One is dead," she calmly announced, and looked up at the titanic World Tree roots overhead. "Mother, I've purged the conductor of your misery from this world. Your freedom will come soon."
+
+Happiness swelled inside her. For possibly the first time in a long time, she felt genuinely happy and free. The battle was all but over. Soon, she would be reunited with her mother, and the war could finally stop.
+
+A sharp cry from the side of the hall snapped Stella's attention away.
+
+It was the earth cultivator she had saved from the infant soul ritual. He was scrambling backward in panic, trying to escape a man clad in burgundy and gold robes who had collapsed to the floor, his body writhing in visible agony.
+
+At first, Stella couldn't make sense of what she was seeing.
+
+Then the man turned toward her.
+
+His mouth opened in a silent scream, his face contorting as his eyes began to glow—light leaking through them as though something inside him was trying to break free. From his brow, a golden crown forced its way outward, growing like bone or metal erupting from flesh.
+
+A terrible dread seized Stella's chest.
+
+With a series of sickening cracks, the man forced himself upright. His limbs jerked unnaturally, his posture wrong—like a puppet pulled by unseen strings. It was as if something beneath his skin was struggling to wear him, stretching him into shape like an ill-fitting suit of flesh.
+
+"As expected from a Crestfallen," the overtaken man said with the voice of the Crowned One. He met her terrified gaze with a twisted grin. "Your soul would rather die fighting than kiss the foot of another."
+
+"You... how..." Stella stammered.
+
+"Am I alive?" the Crowned One laughed. "As if I would ever let a lesser take me out with such a cheap shot."
+
+"Possibly another feature of his domain," Ash said, his assertive voice helping Stella regain some of her sanity. "If he can command the souls of those he deems lesser, he can likely puppet them too. But I think his cultivation level has dropped. I doubt even he expected you to kill him like that."
+
+Stella nodded.
+
+The Crowned One's sudden death had been unexpected, as had his equally swift return. But that didn't mean the battle was lost. So long as she and Ash worked together, even the heavens would fall.
+
+The Crowned One was unworthy of her fear.
+
+"So you can puppet corpses to escape death, how cute," Stella said, her confidence returning. "But how many times can you do that?" Her gaze swept the room. "I'll kill everyone in here if it means I can get to you."
+
+"Bold claims from a weakling—"
+
+"Weakling? My attack took you by surprise, and you would have died without this cowardly trick," Stella countered, cutting him off and peering down her nose at him. If he had to feel superior for his domain to work against her, she would not cower before him. No matter how he tried to hide it, his confidence was shaken after her attack, considering he had stopped trying to command her.
+
+"I expected the Crestfallen bloodline to offer resistance," the Crowned One mused, ignoring her. "But this is outside my calculations. Something is amiss here."
+
+Stella snorted and crossed her arms. "What a genius observation."
+
+The Crowned One ignored her taunting—his unsettling gaze was fixed on her for a long moment until he reached some unknown conclusion.
+
+"Ah," he said, "I see what is happening now."
+
+"Stella! Run—" Ashlock shouted in her mind, but it was too late.
+
+The Crowned One clicked his fingers, and every golden fractal line throughout the Grand Hall exploded with a blinding light that swallowed Stella. She blinked, and the Grand Hall was gone.
+
+She was in a strange room, looking up at a fractured throne. Sitting upon it was a massive shadow with a crown. She glanced around and counted six other shillotees present.
+
+"Where is this?" she asked.
+
+"The soul space of the Chairman," the shadow on the throne surprisingly answered.
+
+Stella tried to call out to the aether, but it didn't answer her call. It was as if she were chained to this place by an ethereal tether. Her spatial rings also didn't work, and she couldn't call out to Nyxalia.
+
+Only her faint Master-Disciple link with Jasmine and soul link with Ao Lingxuan were active. She could communicate with neither. Panicking a little, as even summoning soul flames didn't work, she tried to keep her cool as she needed intel.
+
+"This is the soul space for the Chairman? Then who are the rest of you..." she furrowed her brows as a realization dawned on her. "There's no such thing as the ancestors. You're all the Chairman, aren't you?"
+
+It made perfect sense. The Crowned One had appeared when the Chairman mysteriously disappeared.
+
+The Crowned One laughed. "You're a sharp one, as expected of my vessel." He rested his chin on his palm. "Sit tight, Stella. Qi doesn't work in here, and once I've cut that soul connection you have, I can finally claim you for myself. Now that I've captured you, my victory is only a matter of time."
+
+Stella snorted. "The Crestfallen blood will reject you. Taking me as a vessel is pointless."
+
+"The Crestfallen bloodline desires to flow through the veins of the one who never bows," the Crowned One patiently replied. "Don't think you're special, Stella Crestfallen. If anything, I'd be surprised if the Crestfallen bloodline doesn't abandon you for me at the first opportunity."
+
+"I only bowed so I could kill," Stella snapped back.
+
+"Was that you who struck me? Or was the Crestfallen bloodline making a last-ditch effort to save its face because you actually considered kissing my foot?" The Crowned One rose from his throne and loomed over her. "Give up, Stella. I've won."
+
+Stella smiled.
+
+"I pity you."
+
+The Crowned One was unamused. "And why would you pity me in your position?"
+
+"Because, by capturing me, you have enraged the one person whose wrath the nine realms cannot shoulder," she defiantly met his shadowy gaze. "Kill me or not, the result will be the same. Your death and the fall of the Celestial Empire will be a painful one."
+
+"Are you talking about that dark god invading my lands?" the Crowned One laughed. "I'm sending every airship the Celestial Empire has to obliterate his lands, firebomb his believers, and annihilate the mountain he calls home. I wouldn't rely on him to come and save you."
+
+Stella broke out into laughter.
+
+"You really are a fool."

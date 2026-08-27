@@ -1,0 +1,199 @@
+---
+id: 13463031-6c7d-53eb-8f5e-1970a0ab1786
+page-type-slug: story-chapter-royal-road
+title: "11: Troubled Living Waters"
+slug: 0011-11-troubled-living-waters
+partOf: rat-girl-evolution-lab-rat-to-unrivaled
+position: 11
+ownLength: 2390
+unit: words
+publishedAt: 2025-09-12
+link: "https://www.royalroad.com/fiction/131412/rat-girl-evolution-lab-rat-to-unrivaled/chapter/2594183/11-troubled-living-waters"
+royalRoadId: "2594183"
+---
+
+It only took a single glance out the still-open doorway for the rat to decide against following after the former train passengers. Not only was the outside corridor filled with a frightening amount of humans, just as it had been where she had first boarded, but more seriously, there was still one of those white coats out there, as well as a number of humans in duller, blue uniforms who seemed to be scanning the crowd.
+
+Even assuming that they didn’t know she wasn’t human, it would only take a single search to find out, and from her sole experience with them, they would likely consider the fact that she had been with Durm alone justification for a full search, if nothing else.
+
+And ‘nothing else’ seemed like a massive stretch on its own. So out the window she had so conveniently shattered it was, only….
+
+She looked down to the ground, and saw massive, shifting waves of water.
+
+No, not water. Humans, so closely packed and so distant to her sight that she couldn’t make them out until she channeled more mana into her—
+
+Half her vision turned red, and jolts of pain shot through her skull from her eyes. Drilling, pulsating, intense pain, which started just behind them and branched out as it went back, a dozen tiny tendrils of agony spiraling out to touch all the corners inside her head.
+
+The hand she raised to her left eye on instinct came down bloodied.
+
+No more mana sight until I can figure that out, she thought. That could go very, very poorly.
+
+A reflection in the window caught what remained unreddened of her vision. A young human, pale of skin and hair, bleeding from her eyes. A human girl, weeping tears of blood with an incomprehensible expression on her face.
+
+Her.
+
+She banished the thought from her mind, and each time it threatened to rise again she beat it back down, even as it loomed in the dark recesses of her brain.
+
+Instead, she looked at the system watch again.
+
+[Current level is 3]
+
+[Loading current statistical ability measures…]
+
+Stats successfully measured.
+
+Total mana: 9
+
+Current Mana: 5
+
+Mana power: 4
+
+Mana control: 3
+
+Physical enhancement: 3
+
+Mana regeneration rate: 3
+
+. . . . . . . . . . . .
+
+No spell points available.
+
+That… couldn’t be correct, could it? She hadn’t gained a single point in anything at all?
+
+Stupid watch. It wasn’t tracking right, clearly. Only as she should have expected from a human creation. There was nothing they touched that they didn’t ruin, so why wouldn’t—
+
+Stupid. That was stupid of her.
+
+As minor as the pain may be in comparison to her former agonies, it was still enough to cloud her mind. She was letting her bias take over her reasoning. The human in the reflection flashed behind her eyes again. Not just her bias.
+
+“Humans are evil,” she whispered to herself. “Humans are clever. They create horrible, twisted, wonderous, fantastic things. And they use them to torment others.”
+
+She couldn’t afford to underestimate their potential, no more than she could afford to think of herself as one. They were hated, vile beings. They were the bane of her existence. But they were capable of things that would have been beyond her imagination.
+
+No. That wasn’t quite it. They were such twisted abominations because they were capable of such things.
+
+The sunlight vanished slowly as the last edges of the golden sphere dipped below the towering structures all around.
+
+I need to stop thinking about this.
+
+I have to figure out why I’m not leveling, so I can keep getting stronger.
+
+I need to stop thinking about this.
+
+I must gather information on this new group, the white-not lab coats.
+
+I need to stop thinking about this.
+
+I should get food, and more supplies while I can.
+
+I need to stop thinking about this.
+
+It would be smart to find a centralized location, one that lets me watch the humans without being seen.
+
+I need…
+
+She needed to get off this damned train.
+
+A fist of crushing emptiness reached inside her ribs and placed the rat’s heart in a vice.
+
+“I want to go…” Her voice leaked out in a pathetic, lonely whimper.
+
+It wasn’t like she had anywhere to go, though. There was no safe refugee, much less a home. She had never known anything but the cage, and the lab, until she burned them both. Not a single place since had granted her a modicum of real belonging, even if they had been marginally safer, for the moment.
+
+‘Home’. The word had appeared in her head, completing her sentence. What was a home?
+
+She didn’t know. No more than she had known what a spear was, even though the word leapt unbidden into her head the moment she first saw one.
+
+A home was…
+
+She had no idea. She had seen houses, of course. Living spaces, human dwellings that cut them off from the rest of the world.
+
+All the rat really knew was that she didn’t want to keep being here. She didn’t want to keep being like this.
+
+Hunger filled her again, no longer suppressed by panic. Weariness tugged at her brain, making thoughts slow. Everything hurt. Every little reminder of the humanity right outside made her flinch.
+
+“I don’t want to be hungry. I don’t want to be tired. I don’t want to be in pain. I don’t want to be here. I don’t…”
+
+She didn’t want to be her.
+
+Wetness welled up in her eyes, and wiping it away only stained the gloves again, red seeping into purple, darkening it. It wasn’t fair.
+
+Another tortured sob pulled itself from her mouth, and she sank to her knees. It just wasn’t fair.
+
+In the labs, she had at least had the comfort of being able to curl up in her log, belly full between tests. To pretend, for that one, fleeting moment, even if she knew better, that she was safe and secure. She had—
+
+She was feeling nostalgic for the lab!?
+
+No, not really. I’m just reaching for something that feels better. If I was actually back in the lab I would still be cursing it and plotting my escape.
+
+The rationality of the thought didn’t take away from it. A deep, bitter grudge against humanity sparked alight inside her. Not like the burning fury she held for her tormentors. A different, more toxic fire, one that belched the fumes of malcontent envy into her mind just as the train spewed out steam.
+
+Why do the humans get to walk around fine? To not be hunted down unless they committed some horrible crime? To have their default state be safety and innocence, until they themselves break it, rather than needing to fight, to sacrifice everything just to buy a chance at an end to the tortures?
+
+Why couldn’t I have been a human?
+
+Something broke inside her with that last thought.
+
+She didn’t want to be a human. She was a rat. Just about every aspect of humanity pained her. Even her form, forced upon her against her will, was testament to the evils of humans, and to the pain that it was to be human. A deep, horrid, unavoidable pain, for it was born from within her own heart.
+
+But that pain was because she wasn’t one, wasn’t it? If she had been born a human, rather than being a rat in a human body, wouldn’t everything be so much easier? Wouldn’t she be able to just walk around freely, to….
+
+No, that was right. She didn’t even know what it was to be human, apart from the simple, plain, and overwhelming truth that they were accustomed to being the hunters, not the prey. To be human was to be safe, free of suffering, and free to inflict it on others at will. It was to place yourself above and outside the rest of the world, untouched by morals save for those of your own kind.
+
+It was wrong.
+
+And after just two days of being in their world, she had become jealous of it. To envy that wrongness.
+
+I need to stop crying. It’s making noise. It will draw someone, human attention.
+
+Thinking as much did nothing to quell the soft, steady sobs, or the warmth running down her cheeks. Waves of sorrow, fear, and other, darker things she had no name for washed over her, plunging her heart into the freezing abyss of despair. It wasn’t until the sun had fully set that they ended on their own, leaving her in the silent darkness as the corridor outside found itself bereft of people.
+
+All I needed to do was wait all along…
+
+She was too tired to look for any deeper meaning in that.
+
+For a second, as much as she hated the train, the rat considered just crawling back under one of the seats and curling up. It would be so easy, already being right there. She wouldn’t have to search for anything, wouldn’t have to wait at all to rest, wouldn’t need to wander through human territory and put herself at risk…
+
+But she would be at risk, wouldn’t she? They would certainly come back, and there she would be, all boxed in, having delivered herself right back into a different kind of cage. Her hand hit the floor with a dull thud that shook the bones of her arm. The carpet was soft, but thin, and the hard steel underneath did her flesh no favors.
+
+Using that same fist, she pushed herself shakily to her feet, and wiped off her face as best she could before peeking out into the hallway. It was devoid of life, though not light, gems glowing faintly in settings all along the roof in a central line, and then marking the doorframes as well.
+
+It was a hollow shell of the world she had seen outside the train room before. How fitting.
+
+Stairs, her mind told her, and so stairs she took, gripping tightly to a handrail. Hands…
+
+Her hands were different now as well. They still gripped, and held, but their dexterity was somehow lesser and greater at the same time. She couldn’t have gripped a railing like this while walking before, of course. But then, that was as much about shoulders and hips and feet as it was about hands, wasn’t it?
+
+And none of that matters right now, she reminded herself.
+
+Just focus on the train room… building… thing. No more words leapt up to fill in the gap in her head. Maybe because she had never heard it mentioned before, in the lab, so she couldn’t recall and process it. It might be because she was finally escaping from the effects of whatever they had done to mutate her. Or maybe she was just too tired for that part of her brain to function.
+
+It didn’t really matter that much. Or no, it mattered a lot, a whole lot. Just not quite as much as getting somewhere safe while her feet still worked did.
+
+The part of her brain that controlled them was clearly overtaxed as well, each step a challenge. And there were a great, great deal of steps. They led to a door. She tried the handle. It was locked.
+
+Locked in a cage…
+
+The rat giggled.
+
+It was comical, in a way. She was locked in a human cage now, one of their own. And she had obtained a master key. Door won’t open?
+
+She hacked her sword into it, charging the blade with as much of that strange, sharp mana as she could. It bit into the wood once, twice, and with the third strike it opened up a hole large enough to reach an arm through.
+
+The door was also locked on the other side. Irrelevant, of course. It only took another three strikes to widen the shattering of the door to the point where her shoulders would slip through. Her hips caught for just a moment, and then with a wiggle, she was out.
+
+Another door, this one almost within arm’s reach of the last, and made of glass that glowed with color. She drew her blade back to shatter it as well, but something stopped her. Instead, she sheathed the weapon and gave it a hard shove. Too hard a shove.
+
+With her unstable legs, she staggered out the doorframe as it swung open so slightly she wondered how it had ever stayed closed at all, and the rat passed into a crowd.
+
+It was a lighter crowd of humans than it had been before. The massive, crashing waves of humanity had become a mere river, ‘only’ a few dozen people on the street. They rushed about in each and every direction, and with no better idea, she started walking with them.
+
+That was her first mistake. She just didn’t realize it until, devoid of all thought processed but making sure nobody got too close and keeping her feet moving, she ended up in a completely different location. The buildings were half-finished.
+
+Some were in states of disrepair, and others looking as though in the middle of their creation, everything still fresh and newly framed, all those working on them had just vanished. Both were adorned with steam producing masses of metal, though the latter more so, the creations newer, dormant and silent compared to the faint clouds coming from the former, and yet still warm. It was one of the latter buildings she ended up inside.
+
+The windows were unfinished, and the silent machine was warm enough to stay the chill of the night, while not producing any smoke, hopefully minimizing the risk of danger. She found a table inside, right next to where one of the machines attached. It was low to the ground, low enough that no normal human would be able to fit under it comfortably, and that they would need to be on hands and knees.
+
+For her, of course, it was perfectly sized, and being on all fours posed not the slightest challenge.
+
+It took all of ten seconds after ending up under it for thoughts, memories of being in such spaces began to surface. Thankfully, it took all of five seconds for sleep to claim her.

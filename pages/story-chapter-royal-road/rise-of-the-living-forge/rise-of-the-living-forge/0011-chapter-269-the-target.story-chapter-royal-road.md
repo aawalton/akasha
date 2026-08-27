@@ -1,0 +1,130 @@
+---
+id: 58cda90c-5019-5923-ad58-2cc4a7c8e0d8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 269: The Target"
+partOf: rise-of-the-living-forge
+position: 11
+ownLength: 1718
+unit: words
+ownProgress: 1718
+publishedAt: 2024-09-05
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge-stubbing-to-ch555-in/chapter/1789679/chapter-269-the-target"
+royalRoadId: "1789679"
+markedReadAt: "2026-06-29T19:58:48.674Z"
+---
+
+The sixth room fell just as easily as the first five had. Lillia didn’t even have to do anything special for it. The Menagerie cleared out all the monsters within it in short order, then sat down for a few minutes to recover the magical energy they’d spent so far in the dungeon.
+
+Arwin didn’t even need the rest. He hadn’t done anything thus far — much to both his and Verdant Inferno’s disappointment. The short break just served as a moment for him to take a look around the room they were waiting in, and it really wasn’t all that much different from the other ones in the dungeon.
+
+Red brick made up the floor and walls. Thick brown vines crawled over the walls and across the ground, rough and jagged like the bark of an old tree. A few tiny shoots of greenery had poked out from the vines. None were fortunate enough to have made it far.
+
+There was only a single pathway forward in the room. It was a doorway, carved from a solid brick of stone and hanging from invisible hinges, nestled among the vines on the far wall. It was lit from either side by a torch that crackled with purple flame.
+
+Arwin was in the midst of wondering just how nothing had caught fire when the torches were in such close proximity to the dry vines when the rest of the Menagerie started to stand. He automatically pushed himself to his feet with the aid of Verdant Inferno, rising together with them.
+
+“Is everyone ready?” Lillia asked.
+
+“I’ve got all my magic back. I really haven’t used that much of it,” Anna confirmed.
+
+“Same here. Just about all my energy has returned. I’m ready to go,” Rodrick said. “My equipment did a lot of the heavy lifting for me. I didn’t really have to expend that much effort or extra power.”
+
+The others all voiced their readiness. There was no reason to delay any longer — much to Yonas’ discomfort. The Adept ranked adventurer had been steadily growing more nervous with their progress.
+
+Arwin had been keeping a close eye on the man. It wasn’t like he’d had much better to do. Yonas definitely hadn’t been expecting them to make it this far, this quickly. That wasn’t necessarily a bad thing.
+
+He suspected most people wouldn’t have expected the Menagerie to be able to clear out an Adept ranked dungeon at any considerable speed. But Yonas was a little more than just surprised. There was a chance he was just embarrassed that the Menagerie was progressing through the dungeon faster than his own group had been — but this felt a bit much, even for that.
+
+What’s he playing at? It wouldn’t make sense for him to want us to fail. If that was the case, he could have just chosen the wrong pathways through the dungeon. We don’t know how far it is to the boss, and the Dawnseekers have every reason to want us to succeed.
+
+Could it be something personal? Is there a chance Yonas is working for the Ardent guild or has something else he’s working toward? I — oh, you know what?
+
+Fuck it. It’s not like we need any more guidance through the dungeon. Yonas isn’t necessary anymore. I’m not going into a boss fight with a potential threat at our back.
+
+“Hold on,” Arwin said.
+
+Everyone turned toward him.
+
+“What is it?” Reya asked. “Can’t we fight this thing already? I’m starving.”
+
+“In a moment,” Arwin replied. He turned toward Yonas and tilted his head to the side. “Out with it already, man.”
+
+The Dawnseeker guildsman blinked in surprise. “Me? What?”
+
+“Yes, you. Why the hell are you so damn nervous?” Arwin demanded. “You’ve been fidgeting more and more the closer we get to the boss room. It’s not like you’ve even got any plans of fighting, so it isn’t your life you’re scared of. You were also pushing for a longer rest earlier. Are you trying to stall for something?”
+
+“I— what? No!” Yonas exclaimed, but there was a second of hesitation before he spoke. He was hiding something. Arwin was even more sure of it than ever before.
+
+“That was a suspicious way to say no,” Olive said.
+
+“It was just saying no! There was nothing suspicious about it,” Yonas protested. “What are you trying to insinuate here, smith? If I wanted to inconvenience you, I’d have already done it. I’m an Adept ranked adventurer. Your team is… surprisingly good at their job. But why would I have anything to fear from that? I am more than capable of handling myself.”
+
+“Which is exactly why I want to know what’s making you so stressed,” Arwin said. He tapped Verdant Inferno against the ground. “There’s no reason for you to be nervous, but you are. Worst case is that we all get wiped by the boss and you walk out of here. You’ve got no vested interest in our success or failure, so what gives?”
+
+Yonas hesitated for a second. He glanced from member to member of the Menagerie. An Adept he may have been, but the Menagerie had already proven that they were more than just capable fighters — and they heavily outnumbered him.
+
+“Don’t you think you’re wasting time?” Yonas asked.
+
+“We’re ahead of schedule,” Lillia said flatly. The shadows at the edges of the room twitched. They slithered to life and crawled across the ground toward her. “Answer the question.”
+
+Yonas’s eye twitched. His hands clenched at his sides. Then he let out a groan and threw his arms up into the air.
+
+“Oh, damn it all. I had a bet as to how long it would take you to leave the dungeon,” Yonas said. “I was convinced you’d take an hour making it through the first few rooms and then give up. Raen said you’d clear it within forty minutes.”
+
+“You were trying to slow us down so you’d win a bit?” Arwin asked in disbelief. “You’re risking your chance to get rid of the Ardent Guild because of a bet?”
+
+Yonas let out a snort. “The Dawnseekers were founded to make money, smith. And every single person in the guild is very good at that. It’s what we do. This is no different. It’s just business. It’s not like it affects the mission.”
+
+“You were trying to slow us down, then?” Lillia asked.
+
+“Bah. I was telling you to move like normal adventurers. We aren’t that pressed for time. The Dawnseekers have the Ardent Guild’s attention elsewhere. I make calculated bets, not stupid ones.”
+
+“And the mercenaries?” Olive asked.
+
+“On commission,” Yonas replied without a hint of shame. “Would have earned a fair bit of coin if the guild hired them.”
+
+“Have to respect the honesty,” Rodrick said. “How much did you bet on us failing?”
+
+“Eight thousand gold.”
+
+Reya’s eyes practically bulged out of her head. “Eight thousand gold? Why?”
+
+“It seemed like a good bet.” Yonas pinched the bridge of his nose and let out a weary sigh. “Mistake, I fear.”
+
+“Did you take us the long way through the dungeon or something?” Lillia asked.
+
+Yonas shot her an offended look. “Excuse me. I have professional standards, innkeeper. I made a bet. I am not a liar and a cheat. A merchant is nothing but his word. I said I would lead you to the boss. That is what I did. There have been no delays. I just never said I wouldn’t try to profit off something else on the side.”
+
+I might be with Rodrick on this one. I think he’s telling the truth. An honest merchant in name only. Well, he wasn’t actually interfering with our work, so I can’t complain too much.
+
+“Hey, maybe the boss kills all of us and you still make your money,” Reya said with a cheerful grin.
+
+Yonas shot her a dour look. “If only I could be so lucky.”
+
+“I wouldn’t hold your breath,” Anna said with a smile that didn’t quite reach her eyes. “I’m not a fan of betting against people you’re working with.”
+
+“Hence why I did not reveal my standing earlier,” Yonas said. “I would be more than happy to continue discussing this for the foreseeable future, though. I am certain you have quite the number of questions.”
+
+“About an hour of the future, I take it?” Arwin asked dryly. “I think that answers my questions. No more objections from me. Stay out here during the fight, would you? At least that will give us a chance to get warning if someone does show up at our backs.”
+
+“I will wait for thirty minutes.”
+
+That was enough for Arwin. He looked to Lillia.
+
+“Sorry. Back to you. Interruption done.”
+
+Lillia inclined her head in appreciation, then walked over to the door at the end of the room. The rest of the Menagerie followed after her, grouping up at the entrance.
+
+“What’s the strategy?” Reya asked.
+
+“Arwin and Rodrick go first,” Lillia said. “We don’t know what we’re up against. They both remain defensive until we’ve seen what kind of enemy this is. Reya and Anna go in together with Olive. Reya — your job is to back Arwin and Rodrick up with your magic. Don’t go close range yet. Olive, you keep anything from getting the jump on the backline. I’ll figure out where I’m needed and provide backup appropriately.”
+
+Everyone nodded their understanding and Lillia gestured to Arwin. He reached out to the door and pushed it open, revealing a wide passageway leading into a huge, circular room of familiar red brick.
+
+In the center of the room was an enormous tree that easily stood three stories tall. Its roots jutted up from the ground, cracking the brick on the floor and forming mounds of stone. Leaves of blood red hung from its long, swaying branches. The faint scent of sap and rotting bark lingered in the air.
+
+A familiar thump echoed through the room. The sickening noise sent goosebumps rolling down Arwin’s spine. His eyes snapped to a cracked area around the middle of the tree’s trunk.
+
+Embedded in the tree’s core was a pulsating red organ. The item they’d come here to claim stood just within reach.
+
+A Dungeon Heart.

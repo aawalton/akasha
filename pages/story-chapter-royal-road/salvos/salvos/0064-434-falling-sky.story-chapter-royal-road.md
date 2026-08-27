@@ -1,0 +1,351 @@
+---
+id: 55e3a110-65db-5242-918e-807de8996994
+page-type-slug: story-chapter-royal-road
+title: "434. Falling Sky"
+slug: 0064-434-falling-sky
+partOf: salvos
+position: 64
+ownLength: 3395
+unit: words
+publishedAt: 2022-10-13
+link: "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1014752/434-falling-sky"
+royalRoadId: "1014752"
+---
+
+434. Falling Sky
+
+And the siege of Alyras was over. We had won. With a single swing of her blade— and an annoyingly long chant— Kaitlin Darkhelm tore through the [Jinn]’s Grand Skill with her very own. I was impressed. More than impressed!
+
+She reminded me of Mori Gladius! Although… she didn’t have any Divine Essence. Still! It was as expected of the mentor of Alex Cromerth, member of the Vaun Qieur Empire’s elite Swordsguard Forces!
+
+…she was his mentor right? Or was she a captain? Teacher? She was something. It was all the same thing, anyway.
+
+Regardless, I was amazed by Kaitlin Darkhlem. I stared on as she descended from the clouds. No wings. No fancy magic. Just her sword and shield. Her plate armor and visor. Behind me, I could hear the clamorous cheering of a hundred thousand Humans, relieved that it was finally over.
+
+I landed right as Kaitlin did. She turned her gaze towards me— I could see her face through the visor thanks to [Manifestation of the Old Gods]. She looked exhausted, with a small smile slipping across her lips. She stepped past me and gave me a subtle nod.
+
+“Good work.”
+
+I could hear her tinny voice behind the helmet. I beamed and gave her a thumbs-up.
+
+“Of course!”
+
+—--
+
+And with that settled, what was left was to deal with the aftermath of the battle. The [Jinn] had been strong. He was stronger than his level even implied. In fact, I was pretty sure he’d even continuously leveled up through the fight. Still, perhaps it was because of the effects of his Grand Skill, but I leveled up in my Subspecies twice thanks to this fight.
+
+Defeated [Asmodai Jinn (Duke of the Netherworld) - Lvl. 149]!
+
+Less experience is awarded for defeating an enemy with the help of others!
+
+Subspecies [Daeva Cambion] Level Up!
+
+[Daeva Cambion – Lvl. 142] -> [Daeva Cambion – Lvl. 143]
+
+Gained 5 Stat Points and 3 Skill Points!
+
+Subspecies [Daeva Cambion] Level Up!
+
+[Daeva Cambion – Lvl. 143] -> [Daeva Cambion – Lvl. 144]
+
+Gained 5 Stat Points and 3 Skill Points!
+
+Class [Draconic Apprentice] Level Up!
+
+[Draconic Apprentice - Lvl. 112] -> [Draconic Apprentice - Lvl. 113]
+
+Gained 2 Secondary Skill Points!
+
+Sure, I’d been on the verge of leveling up anyway, especially after defeating Avaritia the way I did. I’d also forced him to use his Grand Skill— and I fought him to the brink of it, until he couldn’t fight anymore. So perhaps that played a part in my double level up for my Subspecies.
+
+Regardless, there wasn’t much use speculating. I gladly accepted each and every level up I got. After all, they only served to bring me closer to my next evolution. Finally, after so long, I was going to evolve again.
+
+I hurriedly distributed my Stat Points and Skill Points and secondary Skill points as the thought crossed my mind.
+
+Salvos (Secely’s Sentinel) (The Devil’s Daughter)
+
+Species: [Archdemon of Pride]
+
+Subspecies: [Daeva Cambion] - Lvl. 144
+
+Class: [Draconic Apprentice] - Lvl. 113
+
+General Skills:
+
+[Advanced Mana Manipulation] - Lvl. 8
+
+[Corruption Resistance] - Lvl. 1
+
+[Identification] - Lvl. 6
+
+[Racial Skill: Universal Language Comprehension] - Lvl. 2
+
+[Rest] - Lvl. 5
+
+[Wisdom of the Old Gods] - Lvl. 1
+
+[Title Skill: General Status Effect Resistance] - Lvl. 1
+
+[Ttle Skill: Invoke Wrath] - Lvl. 1
+
+[Title Skill: Protection of the Sentinel] - Lvl. 1
+
+[Title Skill: The Devil’s Grace] - Lvl. 1 (Maxed)
+
+[Racial Skill: Divine Essence of the Daeva Cambion] - Lvl. 1 (Maxed)
+
+Stats:
+
+[Available Stat Points: 0]
+
+[Vitality]: 185 (+30) (+10)
+
+[Strength]: 185 (+30) (+10)
+
+[Endurance]: 185 (+30) (+10) (+3)
+
+[Wisdom]: 300 (+30) (+10) (+20)
+
+[Agility]: 360 (+30) (+10) (+5)
+
+Skills:
+
+[Available Skill Points: 3]
+
+[Barrage of Cinders] - Lvl. 20 (Maxed)
+
+[Demon’s Mark] - Lvl. 20 (Maxed)
+
+[Haste] - Lvl. 20 (Maxed)
+
+[Intimidation] - Lvl. 10 (Maxed)
+
+[Faux Limbs] - Lvl. 25 (Maxed)
+
+[Nebular Construct] - Lvl. 25 (Maxed)
+
+[Radiant Slash] - Lvl. 15 (Maxed)
+
+[Salvo of Vanity] - Lvl. 25 (Maxed)
+
+[The Primordial Spark] - Lvl. 20 (Maxed)
+
+[Wings of the Netherworld] - Lvl. 10 (Maxed)
+
+[Passive - A Hunter’s Sense] - Lvl. 10 (Maxed)
+
+[Passive - Blue Flames] - Lvl. 20 (Maxed)
+
+[Passive - Weapon Mastery] - Lvl. 20 (Maxed)
+
+[My Flame Shall Burn Until Eternity Ends] - Lvl. 1 (Maxed)
+
+Secondary Skills:
+
+[Available Secondary Skill Points: 5]
+
+[Draconic Fury] - Lvl. 10
+
+[Fragmented Pocket Dimension] - Lvl. 10
+
+[Full Phase] - Lvl. 5
+
+[Greater Teleportation] - Lvl. 5
+
+[Manifestation of the Old Gods] - Lvl. 5
+
+[Truth Divination] - Lvl. 5
+
+[Warped Time] - Lvl. 20 (Maxed)
+
+[Passive - Dragon Scales] - Lvl. 10 (Maxed)
+
+[Passive - Master of Material Manipulation] - Lvl. 2
+
+[Passive - Weaker Regeneration] - Lvl.3
+
+All my Skills were maxed now, and I even maxed out one of my new secondary Skills— [Dragon Scales]. It gave me added durability, which I really needed considering my relatively low [Vitality]. Sure, was I more durable than even the most durable Platinum Ranked adventurers? Yep!
+
+But for a Diamond Ranked adventurer at my level, I was only durable with added protection or with my Skills. So, overall, this called for celebration for me. A total victory from my perspective.
+
+And for some people, this was a time for celebration too. I looked on as Daniel stood before a large crowd of adventurers, soldiers, and civilians. Amanda was by his side. And while he was brave enough to reveal the truth about the fact that he was a [Hero], he wasn’t able to answer the barrage of questions and attention directed his way.
+
+Fortunately, he was saved by Helena Warshade. The Archmage and the other three Elites— I didn’t know their names— had returned to Alyras not long after the [Jinn] had died. Wait, actually, there were four Elites. One of them— Scarlet the Red Rose— had slinked back into the city ahead of the others, and I didn’t notice their entry.
+
+But while there were celebrations being held, there was also grieving. From the loss. The death and the destruction. Soldiers and adventurers who didn’t return from the battlefield. Civilians who were caught in between the fighting.
+
+Edithe stood with the rest of her company, grieving with Hadrian for all the dreamers lost during the fight. Saffron kneeled over the body of Zin Norwood, comforting Gannon as he cried over his mother’s body. Rana Alyras looked over her city and wept for her people as her father paced before his advisors.
+
+It was a victory. But at what cost?
+
+I sighed as I closed my eyes. I was sitting at a hill just outside of the city as Novis, Bellum, and Oriur crowded behind me. Willy floated to my right, oddly silent. To me, this had been a victory, simple as that. But I knew that the Humans— that my companions— didn’t see it that way.
+
+Some people I knew were dead, and yes, I did find it slightly upsetting. But the attacking Demons were dead too. Well… mostly dead. But if the Humans really had wanted to prevent all this from happening, maybe they should’ve done something about the Demons in the Inoria Empire earlier.
+
+Perhaps now they were finally going to make the right decision and intervene.
+
+But it was a little too late. After all, I was sure the Demons saw this as a victory as I saw repelling them as a win… right?
+
+“They’re all dead…”
+
+Gula scowled as she leaned against the cave wall. She’d barely escaped with her life. She didn’t even know if Ira or Libid were still living. She ran, teleporting away to a nearby cave because she knew they’d lost the battle in Alyras.
+
+“Those idiots… how could they have possibly messed that up?”
+
+She didn’t know the answer to that. She just knew she had to get away before she, too, lost her life. Unfortunately, she was both injured and tired, so she hadn’t been able to teleport too far away. Now, she just had to let [Rest] take over and heal her superficial wounds and restore her magic. Once she was back at full power, she’d return to Levithus and inform him of what happened.
+
+“At least we managed to sabotage the meeting…”
+
+Gula sighed wistfully— hopeful.
+
+“Perhaps the ritual is complete by now?”
+
+She wondered aloud. The Archdemon of Gluttony didn’t expect to hear a response, but a voice replied. A booming voice that echoed and sent a shiver down the cavern’s walls.
+
+“Your king’s ritual will never be complete.”
+
+“What?”
+
+Gula looked up as she looked around. She saw the stalactites and stalagmites tremble like loose teeth. Just ahead of her, at the mouth of the cave, a giant bug crept up the darkness.
+
+[Hellprince - Lvl. 166]
+
+“Greetings, dog of Regnorex.”
+
+Her eyes grew wide at the sight.
+
+“What?”
+
+Gula stumbled back as the Primeval Demon slowly approached her. She felt her back press against the cold cavern walls as she sputtered.
+
+“Belzu? Impossible. You are supposed to be dead.”
+
+He drew forward as he spoke, each word causing the entire world to quake.
+
+“Perhaps. And yet, so are you. But we both live. So I shall rectify at least one of the mistakes here.”
+
+“Stay back!”
+
+She created a sphere and tossed it his way. An explosion engulfed him, but he reappeared a dozen feet to the left of the blast a single moment later.
+
+“Y-you—”
+
+Gula tried to work her jaw. Then she clenched a fist. That coward. Of course he was hiding behind his illusions. If I cannot fight him, then I shall…
+
+“[Long Ranged Teleportation].”
+
+She snapped a finger. The world around her vanished. She smirked as the ground beneath her feet disappeared, and she stepped foot… back in the cave. Gula blinked, looking around at the exact same surroundings as before.
+
+“What?”
+
+“Struggling is pointless. The sooner you accept your fate, the sooner this will be over.”
+
+Gula gritted her teeth. She glared at Belzu as he glided towards her. It was odd. It was almost like he was not making any progress towards her, yet he was clearly moving her way. She spat his way.
+
+“You do realize that if I do not return to Levithus, he will surely investigate? And then my King shall surely learn that you still live?”
+
+“You have already served your purpose to both Regnorex and Levithus. Neither shall care that you will not return today.”
+
+Belzu answered simply. Gula clicked her tongue.
+
+“We shall see about that!”
+
+She conjured a dodecahedron and tossed it forward. Its explosion dwarfed the sphere’s blast, tearing through the cavernous corridor as she leapt back.
+
+“You cannot harm me.”
+
+Belzu’s voice echoed around her, even as the explosion blasted out. She grinned.
+
+“I know I can’t. That was just a distraction.”
+
+She raised a hand as she whispered.
+
+“[Temporal Chrysalis].”
+
+Belzu emerged from the dust and the smoke. She saw his figure drawing towards her, but a curtain of transparent octagonal fragments of space covered her vision. A fractal shell surrounded Gula as she panted.
+
+“I didn’t want to do this… but you leave me no choice.”
+
+She looked through the fractal shell— she saw the world freeze around her. Belzu wasn’t moving, frozen mid-step. She’d have loved to kill him now that she had the chance, but she couldn’t. The moment Gula tried to mess with the outside world, time would resume.
+
+This [Temporal Chrysalis] would let her do whatever she wanted within its confines as the world outside was halted to a stop. Normally, it would mostly be useful for strategizing, but there was one specific use it had now.
+
+[Evolution Available]
+
+She focused on those words— on the potential she had hidden away. The strength she had rejected for now. Her evolutionary path.
+
+The only reason she hadn’t chosen one was because of what she was working towards— to become a [Hellprincess]. The requirements were steep. Very rarely would a Level 150 Archdemon be given the option to evolve into a [Hellprince] or [Hellprincess].
+
+Still, this was a dire moment. Belzu was a [Hellprince], and he was stronger than her. She had to close the gap any way she could now. So she focused on the next best choice.
+
+“An [Ascended Ba’al Fiend]. Both fitting and lacking…”
+
+She shook her head as she closed her eyes.
+
+Evolution Complete!
+
+[Archdemon of Gluttony] -> [Primeval Demon of Gluttony]
+
+Subspecies [Twisted Ba’al Fiend - Lvl. 151] -> [Ascended Ba’al Fiend - Lvl. 151]
+
+…
+
+For what felt like a brief moment, Gula felt nothing. Her body was numbed. Then it shifted. Her eyes opened as her senses returned to her. She emerged from her molt of her blood, laughing and cackling as a newfound power surged through her.
+
+She was thinner. She stood taller. Her injuries gone. Her green skin was paler now, and a pair of horns protruded from her head. Gula tore through her own [Temporal Chrysalis] as she laughed. Belzu paused, watching the newly-changed [Fiend] break through what seemed to be her own barrier.
+
+“What…?”
+
+He started, but Gula didn’t let him finish. Instead, she clapped her hands together as a pulse blasted out.
+
+“[Supreme Nova].”
+
+Belzu raised one of his limbs too slowly. Gula just grinned as the ring of rippling space shot out and ripped through his body. Belzu was obliterated in an instant— and not just him, but the entire mountain which the cave was in was torn open. The pulse shook the earth, destroying the nearby forests and the entirety of the mountaintop.
+
+Gula laughed and laughed and laughed as she ascended from the crumbling mountain. Was this what it felt like to be a Primeval Demon? She felt so… powerful. So strong. Like she’d far surpassed her limits completely.
+
+For a moment, she wondered why she ever even bothered waiting to evolve. It almost made no sense to her. But she remembered that she could’ve become even more. So, she spat.
+
+“Damn you, Belzu, forcing my hand…”
+
+If only Gula could’ve achieved her full potential and become a [Hellprincess].
+
+“Alas…”
+
+She trailed off as she raised her head, facing away from the pillar of dust shooting into the sky. Then she froze. She raised her head slowly as the notification in her head disappeared like it wasn’t even there
+
+Defeated [Hellprince of the Desolati
+
+More experience is awarded fo‏‏‎r ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎on - Lvl 166]!
+
+‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎  defeating an enemy
+
+‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎at least
+
+‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎10
+
+‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎l
+
+‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎  e
+
+‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎  v
+
+‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎  e
+
+‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎  l
+
+‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ s
+
+And a pair of bulbous eyes stared down at her. What looked like twin black suns. The morning blue sky shone red as Gula trailed off.
+
+“No…”
+
+Belzu’s voice reverberated around her. The entire world cracked with each word he spoke.
+
+“DID YOU REALLY THINK YOU COULD ESCAPE MY ILLUSIONS?”
+
+The sky broke in half, falling on Gula as she raised a hand. She created a barrier as she cried out in pain, barely holding up the piece of collapsing sky.
+
+“THIS IS MY WORLD, AND YOU ARE NOTHING BUT A PEST!”
+
+A second piece of broken sky came crashing down on her. She poured all of her magic into upholding the spatial barrier. But it cracked. And she realized it was pointless. Gula closed her eyes, accepting her fate as the glass broke and the world itself crushed her entirely.

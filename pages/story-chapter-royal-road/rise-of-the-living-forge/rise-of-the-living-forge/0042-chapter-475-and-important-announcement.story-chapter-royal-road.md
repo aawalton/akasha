@@ -1,0 +1,129 @@
+---
+id: 5d055341-b09f-596d-92cb-76d036a6ff89
+page-type-slug: story-chapter-royal-road
+title: "Chapter 475 & IMPORTANT ANNOUNCEMENT"
+slug: 0042-chapter-475-and-important-announcement
+partOf: rise-of-the-living-forge
+position: 42
+ownLength: 1764
+unit: words
+ownProgress: 1764
+publishedAt: 2025-08-15
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2520600/chapter-475-important-announcement"
+royalRoadId: "2520600"
+markedReadAt: "2026-06-29T19:59:47.779Z"
+---
+
+Adan didn’t hide anything. If he was honest — and he was — there just wasn’t much to hide. The Blacktongues had reached out through the normal channels. They’d given pretty direct orders, including the ones to avoid getting spotted or into a fight.
+
+The former part of that request was obviously no longer possible. But, if there was any possible way he could achieve it, Adan fully planned to stick to that second part of that request. There wasn’t any amount of money that was enough to buy his team’s lives.
+
+“That’s it?” Olive asked. “They just wanted you to come here to investigate about an item that we supposedly stole? But they couldn’t give you any information on the item at all? So you were supposed to… what, just scout every magical item we had so they could determine which one was theirs?”
+
+“Correct,” Adan said through a wince. His team wasn’t exactly one that operated above the law. They weren’t very picky with the tasks they took on. But when Olive phrased it that way, it really sounded bad.
+
+Kien let out a scoff. “What a joke. Even if we had such an item, how would the Blacktonuges know? They can’t even describe it. It sounds more like you were just scoping us out for them to steal from.”
+
+Adan didn’t respond to that. There was nothing he could say that wouldn’t dig his hole any deeper. At this point, he was pretty sure the Menagerie had already come to their decision. All he could do was wait.
+
+Things didn’t look good. Adan wouldn’t have bought a word he’d said if he’d been in Olive’s spot. Only a fool would believe this story, no matter how true it was. There was only a single smart move the Menagerie could take in this position.
+
+Adan’s jaw clenched. That move was killing all four of them to make sure no word of what had happened today ever got out. He was more than aware that they stood no chance against the Menagerie’s team.
+
+But he couldn’t accept death just like that. If anyone took a single move toward killing his men — then he’d do everything in his power to take as many members as possible of the Menagerie with him to the grave. Betsy tensed beside him, her breathing stopping as she readied herself.
+
+The tree creaked.
+
+Adan’s stomach dropped — as did Pete and Niles.
+
+The two men dropped to the ground, coughing, at the base of the tree.
+
+Confusion cut through Adan’s mind, but his training took over. He snapped his fingers. Both Niles and Pete raced over to stand by his side, not even stopping to grab their weapons. It wasn’t like they would have done anyone much good.
+
+“What?” Becky muttered, the strain in her voice marred by surprise. “What are they doing?”
+
+“Not much reason for us to keep you wrapped up here, is there?” Olive asked. “Your stories match up. Nobody got hurt. You know shit all — and I already know you didn’t see anything important. Besides, we have nothing to hide from the Blacktongues. They invited us to a dungeon. We cleared it. That’s the end of the story. No theft has happened.”
+
+“Even if we did find something they wanted, we wouldn’t be reporting it,” Adan said. “They fed us false information. Any semblance of a contract between us is concluded. We’ll never work for them again. They’ll never even hear from us.”
+
+“Probably a good choice career-wise,” Olive said with a nod. “But that’s actually a bit contrary to what I’m going to need from you.”
+
+“What do you mean?” Betsy asked. “We can go?”
+
+“Yes and no,” Olive said. “Unless any of you give me a reason to believe that you’re a threat to the safety of anyone in my guild, we’re not going to hold you here. We don’t kill for no reason… but we can’t let people come strolling into our tavern and snooping around without some kind of repercussions.”
+
+“What do you want?” Adan asked. “Any price to be paid is mine alone. This is my team. I will bear it in their place.”
+
+“That’s hardly fair,” Pete said. “We were the ones that broke in. He was waiting outside. Don’t—”
+
+“Stop with that, would you?” Olive snapped. “I’m not killing anyone. Do I really look like that much of a bloodthirsty villain?”
+
+There was a moment of silence. Betsy sent a glance in Kien’s direction before looking back to Olive.
+
+“…no?”
+
+“Why are you looking at me like that?” Kien asked.
+
+“Sorry,” Betsy said, flinching back.
+
+“If you don’t plan to kill us, what is it you want?” Adan asked. “I won’t lie and say we can attack the Blacktongues for you. That would doom my team to death just as much as fighting you. They have a number of capable hired guards. Enough to make an attack nothing more than suicide.”
+
+“We don’t need anything like that. Frankly, it’s not your fight,” Olive said with a shake of her head. “I just want you to do exactly what you were paid to do… with a small tweak.”
+
+Adan’s brow creased. “What do you mean? You want us to report back to the Blacktongues? And what? Say we found nothing and that there’s nothing to investigate you about any further?”
+
+“Not exactly,” Olive said, a small grin pulling across her lips. “I want you to say that you found an artifact. A key. One that opens the way to an Expert Ranked dungeon near the edges of the kingdom — and I want you to let them know you overheard us talking about our plans to head out for it in a week, departing from Thornhelm.”
+
+They want to feed the Blacktongue family misinformation? But why would they say they had an artifact at all? That will just bring more attention to them. Not that it’s my concern. I’d tell them whatever the hell she wants us to if we all get out of here alive.
+
+“We can do that,” Adan said without a second of hesitation.
+
+Olive nodded. “Good. Then do that. And not a word more.”
+
+The threat in her words was as clear as it was pointless. Double crossing the Menagerie didn’t serve a single purpose. All it did was invite even more danger upon them, and they already had too damn much of that.
+
+“Consider it done,” Adan said. He paused as an uneasy silence lingered in the air. His eyes flicked over his shoulder to the way out of the tavern at his back. “Can… we leave?”
+
+“Yes,” Olive said. “I believe that would be required if you were going to report anything to the Blacktongues. Would be a bit difficult to do it if you were dead.”
+
+“But not impossible,” Kien drawled. “As evidenced by a certain individual.”
+
+An image of the blue-eyed man flashed through Adan’s thoughts as a chill ran down his back. The rumors that the Menagerie’s street was haunted were starting to make a little more sense.
+
+“Go,” Adan hissed out of the corner of his mouth. His team started to back up. Then they turned, hurrying for the stairs as fast as they dared to move. He took up the back, making sure the others made it up the stairs first.
+
+“Hold on,” Olive said.
+
+Adan froze in place, his stomach twisting. He reluctantly sent a glance over his shoulder, only to find Olive walking toward him with the pile of weapons that had been left on the floor cradled in her arms. She arched an eyebrow.
+
+Mutely, Adan held his arms out. Olive dumped the pile into his grasp, then brushed her hands off and nodded to the stairs.
+
+Adan didn’t say another word. He turned on his heel and darted up the stairs, leaving the cellar as quickly as his feet would take him. Adan made a point not to think too hard about what had just happened. If he paused for even a second, the confusion would have probably been too much — and that would have meant overstaying his welcome even further.
+
+Not a word was said until all four of them had put at least five streets between themselves and the Devil’s Den. Only then did Betsy glance back for the first time and realize that Adan was carrying their gear.
+
+“You actually stopped to pick everything up?” Pete asked as Betty let out a noise of surprise. “Cap, you’re insane.”
+
+“No. She handed it to me,” Adan said. His voice felt stiff and distant. Even though not a single one of them had been hurt, he could practically feel death breathing on his neck. He couldn’t remember the last time a mission had gone this badly awry.
+
+“I think this job might have been a mistake,” Niles said. “I didn’t even stop to pinch anything. Mostly on account of not seeing anything to pinch, but…”
+
+Adan shook his head. “You’re lucky. You realize who that was, right? Olive is a monster. She killed more people during the Proving Grounds than anyone else, and for good reason. If she’d taken the fight against you even slightly seriously, I’d be down two good men right now.”
+
+Pete let out a snort. “Hardly.”
+
+“Don’t talk like that,” Betsy said, smacking Pete over the back of the head. “They could still be listening! I’m sure you could have taken Olive on your own, but that’s irrelevant. The outcome of a fight is all that matters.”
+
+“That’s not what I meant,” Pete said. “I never fought Olive.”
+
+“What?” Adan blinked. “Kien was the one that beat both of you?”
+
+“No,” Niles said. He swallowed, then sent a nervous glance over his shoulder before looking back to Adan. “I got nabbed the moment I walked into the basement. Never had a chance to fight back. Neither did Pete.”
+
+“What are you saying?” Adan asked. “How did you get captured without a fight?”
+
+“I didn’t say there wasn’t a fight,” Pete said. His eyes flicked to the side. “Just that it wasn’t against either Olive or Kien. I’ve got no way to say how we would have done… but something tells me it would have been pretty bad.”
+
+“What makes you say that?” Betty asked. “Who did you lose to? One of the other members of the Menagerie in hiding?”
+
+“No,” Niles said, his voice distant. “We didn’t get a chance to fight another person at all. We both got done in by a gods damned tree.”
