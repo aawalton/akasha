@@ -8,12 +8,12 @@ domain-slug: page-type/finding
 
 # Claim
 
-`checks/findings-sorted.ts` holds a finding's `domain:` key against its folder and neither of them against the corpus, so a finding whose key and folder agree on a domain that no longer exists passes. Renaming a domain therefore orphans every finding filed under it, silently, and the check that exists to keep the two in step reports nothing.
+`tools/audits/findings-sorted.ts` holds a finding's `domain-slug:` key against its folder and neither of them against the corpus, so a finding whose key and folder agree on a domain that no longer exists passes. Renaming a domain therefore orphans every finding filed under it, silently, and the check that exists to keep the two in step reports nothing.
 
 # Evidence
 
-On 2026-08-12 `domains/seat-status.md` was renamed to `domains/seat-presence.md` with `tools/mv.ts`, which repointed every reference inside the instructions repository. Three findings under `findings/seat-status/` were left naming a domain that no longer existed, and `ops instructions run-checks` reported `findings-sorted` as passing over 1916 findings across 217 domain folders in the same run.
+Re-read 2026-08-27. `tools/audits/findings-sorted.ts` reads `domain-slug` at line 38, compares it to the folder segment at line 41, and looks at nothing else: `rg -n 'declaredDomains|undeclaredRefusal' tools/audits/findings-sorted.ts` returns nothing. Run over the tree as it stands, the check weighs 3294 findings under `pages/finding/` across 432 domain folders and never asks whether any of those 432 names a domain a page still declares.
 
-`ops memory rehome-finding` validates the domain against the instructions repository and would have refused the dead slug, so the capability to detect it is already built and the check does not use it.
+The capability is built and unused. `undeclaredRefusal` in `tools/lib/finding.ts:76` resolves a slug against `declaredDomains`, and is called from `ops finding rehome` (`tools/commands/finding/rehome.ts:94`) and `ops finding create` (`tools/commands/finding/create.ts:108`), both of which would refuse a dead slug. `tools/audits/findings-sorted.ts` imports neither.
 
-The three were rehomed to `seat-presence` and `seat-assignment-initiative`. Four project documents carrying `domain: seat-status` were repointed in the same pass, and nothing reported those either.
+The original instance: a domain was renamed, the rename repointed every reference, and the findings filed under the old folder were left naming a domain that no longer existed with nothing reporting them. Project documents carrying the same dead key were repointed by hand in the same pass, and nothing reported those either.
