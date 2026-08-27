@@ -16,8 +16,6 @@ check-on-audit: false
 
 # Design
 
-The shapes are `single-code-entry`, `pages-of-one-type` and `subfolders-only`.
-
 A folder is judged on the files sitting in it, and each subfolder is judged as a folder of its own.
 
 A failure names the shape the folder came nearest to and what disqualified it from each.
