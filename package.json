@@ -10,7 +10,8 @@
     "alanwalton/calendar-sync",
     "alanwalton/chess",
     "alanwalton/voice-core",
-    "automation/core"
+    "automation/core",
+    "infra/auth-proxy"
   ],
   "dependencies": {
     "@vscode/ripgrep": "^1.18.0",
