@@ -29,7 +29,7 @@ const CODE_ROOT_FLAG: HelpFlag = {
   valueShape: "token",
   path: true,
   description:
-    "The code checkout whose addon sources are scanned (defaults to $CODE_ROOT, else the `code` sibling of this repo).",
+    "The checkout whose addon sources are scanned (defaults to $CODE_ROOT, else this repository).",
 }
 
 export const help: CommandHelp = {
@@ -44,7 +44,7 @@ export const help: CommandHelp = {
   ],
   examples: [
     "ops check-ti-clean-source-zero",
-    "ops check-ti-clean-source-zero --code-root ~/repos/code",
+    "ops check-ti-clean-source-zero --code-root ~/repos/akasha",
   ],
 }
 
@@ -137,7 +137,7 @@ export default async function checkTiCleanSourceZero(args: readonly string[]): P
       header: "the ti-clean ratchet and the addon sources disagree",
       successMessage:
         `Every marked addon is source-zero and every source-zero addon is marked. ` +
-        `Measured over ${filesRead} source file(s) across ${nodes.length} territory addon(s) in the code tree at ${root}.`,
+        `Measured over ${filesRead} source file(s) across ${nodes.length} territory addon(s) in the tree at ${root}.`,
       formatViolation: (one) => one.message,
     },
   })

@@ -27,7 +27,7 @@ const CODE_ROOT_FLAG: HelpFlag = {
   valueShape: "token",
   path: true,
   description:
-    "The code checkout the addon roster is read from and whose packages are walked (defaults to $CODE_ROOT, else the `code` sibling of this repo).",
+    "The checkout the addon roster is read from and whose packages are walked (defaults to $CODE_ROOT, else this repository).",
 }
 
 export const help: CommandHelp = {
@@ -42,7 +42,7 @@ export const help: CommandHelp = {
   ],
   examples: [
     "ops check-held-addon-structure",
-    "ops check-held-addon-structure --code-root ~/repos/code",
+    "ops check-held-addon-structure --code-root ~/repos/akasha",
   ],
 }
 
@@ -124,7 +124,7 @@ export default async function checkHeldAddonStructure(args: readonly string[]): 
       header: "the territory map and the addon tree disagree",
       successMessage:
         `Every map entry names an addon the roster finds at the package it records, and every generated file sits under a generated directory. ` +
-        `Measured over ${names.length} addon(s) in the code tree at ${root}.`,
+        `Measured over ${names.length} addon(s) in the tree at ${root}.`,
       formatViolation: (one) => one.message,
     },
   })

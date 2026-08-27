@@ -28,7 +28,7 @@ const CODE_ROOT_FLAG: HelpFlag = {
   valueShape: "token",
   path: true,
   description:
-    "The code checkout the check workflow is composed over and whose files are measured (defaults to $CODE_ROOT, else the `code` sibling of this repo).",
+    "The checkout the check workflow is composed over and whose files are measured (defaults to $CODE_ROOT, else this repository).",
 }
 
 const REGISTRY_PATH = "tools/lib/check-workflow/index.ts"
@@ -45,7 +45,7 @@ export const help: CommandHelp = {
   ],
   examples: [
     "ops check-bare-ts-population-seeds",
-    "ops check-bare-ts-population-seeds --code-root ~/repos/code",
+    "ops check-bare-ts-population-seeds --code-root ~/repos/akasha",
   ],
 }
 
@@ -130,7 +130,7 @@ export default async function checkBareTsPopulationSeeds(args: readonly string[]
       header: "CheckConfig population seeds over-cover without declaring it",
       successMessage:
         `Every population seed either selects fewer files than the unscoped population or declares its breadth. ` +
-        `Measured over ${files.length} file(s) in the code tree at ${root}.`,
+        `Measured over ${files.length} file(s) in the tree at ${root}.`,
       formatViolation: (v) => v.message,
     },
   })
