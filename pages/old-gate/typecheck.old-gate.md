@@ -1,9 +1,9 @@
 ---
-page-type-slug: gate
+page-type-slug: old-gate
 title: "Typecheck"
 id: 01a03503-deaa-77c6-9d6c-90babbe1b525
 slug: typecheck
-domain-parent-slug: page-type/gate
+domain-parent-slug: page-type/old-gate
 judges: text
 ---
 

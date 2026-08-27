@@ -1,9 +1,9 @@
 ---
-page-type-slug: gate
+page-type-slug: old-gate
 title: "Relations resolve"
 id: 01a03503-deaa-777a-be8d-bb2720dec4cd
 slug: relations-resolve
-domain-parent-slug: page-type/gate
+domain-parent-slug: page-type/old-gate
 judges: text
 ---
 

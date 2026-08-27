@@ -1,12 +1,12 @@
 ---
 page-type-slug: page-type
-title: "Gate"
+title: "Old gate"
 id: 36bd610f-213a-5709-abf6-dd936d001122
 extends-slug: domain
-files: akasha:**/*.gate.md
+files: akasha:**/*.old-gate.md
 body-shape-slug: domain
-slug: gate
-plural-slug: gates
+slug: old-gate
+plural-slug: old-gates
 domain-parent-slug: domain/instrument-kind
 required-reading-slugs:
   - domain/file-tree
@@ -14,7 +14,7 @@ required-reading-slugs:
 
 # Definition
 
-- **Gate** — an instrument run on a proposed change, ruling on whether it may be made.
+- **Old gate** — an instrument run on a proposed change, ruling on whether it may be made.
 
 # Design
 

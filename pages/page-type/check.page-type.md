@@ -10,7 +10,6 @@ slug: check
 domain-parent-slug: domain/checks-system
 sequence-slugs:
   - domain/check-outcome
-  - domain/master-plan-gate
   - domain/master-plan-audit
 ---
 

@@ -6,7 +6,7 @@ slug: change-harness
 domain-parent-slug: domain/global
 required-reading-slugs:
   - domain/resource-utilization
-  - page-type/gate
+  - page-type/check
   - domain/land
   - domain/run
   - domain/service

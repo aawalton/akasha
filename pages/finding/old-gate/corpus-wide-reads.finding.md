@@ -2,7 +2,7 @@
 id: d353293f-7c44-56b8-8461-22e6440059b7
 page-type-slug: finding
 title: "Two gates read the whole corpus to judge one file"
-domain-slug: page-type/gate
+domain-slug: page-type/old-gate
 ---
 
 # Claim

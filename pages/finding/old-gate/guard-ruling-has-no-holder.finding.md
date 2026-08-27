@@ -2,7 +2,7 @@
 id: c95dbdcb-e284-5a63-b594-3d0e9616c36f
 page-type-slug: finding
 title: "Guard ruling has no holder"
-domain-slug: page-type/gate
+domain-slug: page-type/old-gate
 ---
 
 # Claim
