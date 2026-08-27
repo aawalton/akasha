@@ -1,5 +1,5 @@
 {
-  "name": "@temper/shared-build-deploy-checks--from-code",
+  "name": "@temper/shared-build-deploy-checks",
   "dependencies": {
     "@shared/errors-core": "workspace:*",
     "@shared/utils-narrow": "workspace:*",
