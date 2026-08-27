@@ -32,25 +32,25 @@ describe("parseAppDirectory", () => {
 })
 
 describe("resolveConfigAppDir", () => {
-  const WEB_CFG = "/repo/packages/alanwalton/web/app-capacitor/react-router.config.ts"
-  const STD_CFG = "/repo/packages/alanwalton/web/react-router.config.ts"
+  const WEB_CFG = "/repo/alanwalton/web/app-capacitor/react-router.config.ts"
+  const STD_CFG = "/repo/alanwalton/web/react-router.config.ts"
   it("resolves a flat-layout '.' appDirectory to the config's own dir (not <dir>/app)", () => {
     expect(resolveConfigAppDir(WEB_CFG, `export default { ssr: false, appDirectory: "." }`)).toBe(
-      "/repo/packages/alanwalton/web/app-capacitor"
+      "/repo/alanwalton/web/app-capacitor"
     )
   })
   it("resolves a default (undeclared) appDirectory to the config dir's app/ subdir", () => {
     expect(resolveConfigAppDir(STD_CFG, `export default { ssr: true } satisfies Config`)).toBe(
-      "/repo/packages/alanwalton/web/app"
+      "/repo/alanwalton/web/app"
     )
   })
   it("resolves a custom appDirectory relative to the config dir", () => {
     expect(resolveConfigAppDir(STD_CFG, `export default { appDirectory: "src/app" }`)).toBe(
-      "/repo/packages/alanwalton/web/src/app"
+      "/repo/alanwalton/web/src/app"
     )
   })
   it("resolves to the default app/ subdir when config text is unreadable", () => {
-    expect(resolveConfigAppDir(STD_CFG, undefined)).toBe("/repo/packages/alanwalton/web/app")
+    expect(resolveConfigAppDir(STD_CFG, undefined)).toBe("/repo/alanwalton/web/app")
   })
 })
 

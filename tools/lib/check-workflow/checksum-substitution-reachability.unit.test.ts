@@ -22,7 +22,7 @@ const S3_CREDS_SED =
 function step(name: string, commands: readonly string[]): ChecksumSubstitutionStep {
   return {
     workflow: "example",
-    sourcePath: "packages/infra/example/foundation.workflow.ts",
+    sourcePath: "infra/example/foundation.workflow.ts",
     step: name,
     commands: ["set -e", ...commands],
   }
@@ -36,7 +36,7 @@ describe("scanChecksumSubstitutionReachability — fires on a stranded substitut
     expect(v).toHaveLength(1)
     expect(v[0]?.kind).toBe("checksum-substitution-skip-gated")
     expect(v[0]?.step).toBe("loki-apply-deployment")
-    expect(v[0]?.file).toBe("packages/infra/example/foundation.workflow.ts")
+    expect(v[0]?.file).toBe("infra/example/foundation.workflow.ts")
     expect(v[0]?.keys).toEqual(["checksum/s3-creds"])
     expect(v[0]?.liveRead).toBe(LIVE_SECRET_HASH)
   })

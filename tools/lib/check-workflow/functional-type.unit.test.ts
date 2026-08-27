@@ -181,8 +181,8 @@ describe("LIBRARY_TYPES / isLibraryType", () => {
 
 describe("workspacePackageJsonPath", () => {
   test("joins repo root + workspace path + package.json", () => {
-    const got = workspacePackageJsonPath("/repo", "packages/shared/pages/core")
-    expect(got).toBe("/repo/packages/shared/pages/core/package.json")
+    const got = workspacePackageJsonPath("/repo", "shared/pages-core")
+    expect(got).toBe("/repo/shared/pages-core/package.json")
   })
 
   test("absolute repo root is preserved", () => {
