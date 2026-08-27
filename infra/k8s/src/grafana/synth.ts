@@ -1,3 +1,5 @@
+import { readFileSync } from "node:fs"
+import { join } from "node:path"
 import { synthOne } from "@infra/k8s-types/cdk8s-synth"
 import { capabilitySelector } from "@infra/k8s-types/hostnames"
 
@@ -27,6 +29,8 @@ const SELECTOR_LABELS = {
   "app.kubernetes.io/name": APP_NAME,
   "app.kubernetes.io/instance": INSTANCE_NAME,
 } as const
+
+const DASHBOARD_FILES = ["resources.json", "pods.json", "database.json"] as const
 
 const DATASOURCES_YAML = [
   "apiVersion: 1",
@@ -99,6 +103,23 @@ function datasourcesConfigmapYaml(): string {
       "datasources.yaml": DATASOURCES_YAML,
       "dashboards.yaml": DASHBOARDS_PROVIDER_YAML,
     },
+  })
+}
+
+function dashboardsConfigmapYaml(): string {
+  const data: Record<string, string> = {}
+  for (const file of DASHBOARD_FILES) {
+    data[file] = readFileSync(join(import.meta.dir, "data", file), "utf8")
+  }
+  return synthOne(NAMESPACE, "dashboards-configmap", {
+    apiVersion: "v1",
+    kind: "ConfigMap",
+    metadata: {
+      name: "grafana-dashboards",
+      namespace: NAMESPACE,
+      labels: RESOURCE_LABELS,
+    },
+    data,
   })
 }
 
@@ -281,6 +302,7 @@ export default function synth(): readonly { readonly name: string; readonly yaml
   return [
     { name: "namespace", yaml: namespaceYaml() },
     { name: "datasources-configmap", yaml: datasourcesConfigmapYaml() },
+    { name: "dashboards-configmap", yaml: dashboardsConfigmapYaml() },
     { name: "deployment", yaml: deploymentYaml() },
     { name: "service", yaml: serviceYaml() },
   ]

@@ -1,0 +1,303 @@
+{
+  "annotations": { "list": [] },
+  "editable": false,
+  "fiscalYearStartMonth": 0,
+  "graphTooltip": 1,
+  "links": [],
+  "panels": [
+    {
+      "title": "CPU",
+      "type": "row",
+      "gridPos": { "h": 1, "w": 24, "x": 0, "y": 0 },
+      "collapsed": false,
+      "panels": []
+    },
+    {
+      "title": "CPU Usage by Node",
+      "type": "timeseries",
+      "transparent": true,
+      "gridPos": { "h": 8, "w": 16, "x": 0, "y": 1 },
+      "datasource": { "type": "prometheus", "uid": "prometheus" },
+      "targets": [
+        {
+          "expr": "(1 - avg by(instance)(irate(node_cpu_seconds_total{mode=\"idle\"}[5m]))) * 100",
+          "legendFormat": "{{ instance }}"
+        }
+      ],
+      "fieldConfig": {
+        "defaults": {
+          "unit": "percent",
+          "min": 0,
+          "max": 100
+        },
+        "overrides": []
+      }
+    },
+    {
+      "title": "Current CPU Usage",
+      "type": "gauge",
+      "transparent": true,
+      "gridPos": { "h": 8, "w": 8, "x": 16, "y": 1 },
+      "datasource": { "type": "prometheus", "uid": "prometheus" },
+      "targets": [
+        {
+          "expr": "sort_by_label((1 - avg by(instance)(irate(node_cpu_seconds_total{mode=\"idle\"}[5m]))) * 100, \"instance\")",
+          "legendFormat": "{{ instance }}",
+          "instant": true
+        }
+      ],
+      "fieldConfig": {
+        "defaults": {
+          "unit": "percent",
+          "min": 0,
+          "max": 100,
+          "thresholds": {
+            "steps": [
+              { "color": "green", "value": null },
+              { "color": "yellow", "value": 60 },
+              { "color": "red", "value": 80 }
+            ]
+          }
+        },
+        "overrides": []
+      }
+    },
+    {
+      "title": "Memory",
+      "type": "row",
+      "gridPos": { "h": 1, "w": 24, "x": 0, "y": 9 },
+      "collapsed": false,
+      "panels": []
+    },
+    {
+      "title": "Memory Usage by Node",
+      "type": "timeseries",
+      "transparent": true,
+      "gridPos": { "h": 8, "w": 16, "x": 0, "y": 10 },
+      "datasource": { "type": "prometheus", "uid": "prometheus" },
+      "targets": [
+        {
+          "expr": "(1 - node_memory_MemAvailable_bytes/node_memory_MemTotal_bytes) * 100",
+          "legendFormat": "{{ instance }}"
+        }
+      ],
+      "fieldConfig": {
+        "defaults": {
+          "unit": "percent",
+          "min": 0,
+          "max": 100
+        },
+        "overrides": []
+      }
+    },
+    {
+      "title": "Current Memory Usage",
+      "type": "gauge",
+      "transparent": true,
+      "gridPos": { "h": 8, "w": 8, "x": 16, "y": 10 },
+      "datasource": { "type": "prometheus", "uid": "prometheus" },
+      "targets": [
+        {
+          "expr": "sort_by_label((1 - node_memory_MemAvailable_bytes/node_memory_MemTotal_bytes) * 100, \"instance\")",
+          "legendFormat": "{{ instance }}",
+          "instant": true
+        }
+      ],
+      "fieldConfig": {
+        "defaults": {
+          "unit": "percent",
+          "min": 0,
+          "max": 100,
+          "thresholds": {
+            "steps": [
+              { "color": "green", "value": null },
+              { "color": "yellow", "value": 60 },
+              { "color": "red", "value": 80 }
+            ]
+          }
+        },
+        "overrides": []
+      }
+    },
+    {
+      "title": "I/O Wait",
+      "type": "row",
+      "gridPos": { "h": 1, "w": 24, "x": 0, "y": 18 },
+      "collapsed": false,
+      "panels": []
+    },
+    {
+      "title": "I/O Wait by Node",
+      "type": "timeseries",
+      "transparent": true,
+      "gridPos": { "h": 8, "w": 16, "x": 0, "y": 19 },
+      "datasource": { "type": "prometheus", "uid": "prometheus" },
+      "targets": [
+        {
+          "expr": "avg by(instance)(irate(node_cpu_seconds_total{mode=\"iowait\"}[5m])) * 100",
+          "legendFormat": "{{ instance }}"
+        }
+      ],
+      "fieldConfig": {
+        "defaults": {
+          "unit": "percent",
+          "min": 0,
+          "max": 100
+        },
+        "overrides": []
+      }
+    },
+    {
+      "title": "Current I/O Wait",
+      "type": "gauge",
+      "transparent": true,
+      "gridPos": { "h": 8, "w": 8, "x": 16, "y": 19 },
+      "datasource": { "type": "prometheus", "uid": "prometheus" },
+      "targets": [
+        {
+          "expr": "sort_by_label(avg by(instance)(irate(node_cpu_seconds_total{mode=\"iowait\"}[5m])) * 100, \"instance\")",
+          "legendFormat": "{{ instance }}",
+          "instant": true
+        }
+      ],
+      "fieldConfig": {
+        "defaults": {
+          "unit": "percent",
+          "min": 0,
+          "max": 100,
+          "thresholds": {
+            "steps": [
+              { "color": "green", "value": null },
+              { "color": "yellow", "value": 60 },
+              { "color": "red", "value": 80 }
+            ]
+          }
+        },
+        "overrides": []
+      }
+    },
+    {
+      "title": "Disk",
+      "type": "row",
+      "gridPos": { "h": 1, "w": 24, "x": 0, "y": 27 },
+      "collapsed": false,
+      "panels": []
+    },
+    {
+      "title": "Disk Usage by Node",
+      "type": "timeseries",
+      "transparent": true,
+      "gridPos": { "h": 8, "w": 16, "x": 0, "y": 28 },
+      "datasource": { "type": "prometheus", "uid": "prometheus" },
+      "targets": [
+        {
+          "expr": "max by(instance)((1 - node_filesystem_avail_bytes{fstype=~\"ext4|xfs\"}/node_filesystem_size_bytes{fstype=~\"ext4|xfs\"}) * 100) or max by(instance)((1 - node_filesystem_avail_bytes{fstype=\"apfs\",mountpoint=\"/System/Volumes/Data\"}/node_filesystem_size_bytes{fstype=\"apfs\",mountpoint=\"/System/Volumes/Data\"}) * 100)",
+          "legendFormat": "{{ instance }}"
+        }
+      ],
+      "fieldConfig": {
+        "defaults": {
+          "unit": "percent",
+          "min": 0,
+          "max": 100
+        },
+        "overrides": []
+      }
+    },
+    {
+      "title": "Current Disk Usage",
+      "type": "gauge",
+      "transparent": true,
+      "gridPos": { "h": 8, "w": 8, "x": 16, "y": 28 },
+      "datasource": { "type": "prometheus", "uid": "prometheus" },
+      "targets": [
+        {
+          "expr": "sort_by_label(max by(instance)((1 - node_filesystem_avail_bytes{fstype=~\"ext4|xfs\"}/node_filesystem_size_bytes{fstype=~\"ext4|xfs\"}) * 100) or max by(instance)((1 - node_filesystem_avail_bytes{fstype=\"apfs\",mountpoint=\"/System/Volumes/Data\"}/node_filesystem_size_bytes{fstype=\"apfs\",mountpoint=\"/System/Volumes/Data\"}) * 100), \"instance\")",
+          "legendFormat": "{{ instance }}",
+          "instant": true
+        }
+      ],
+      "fieldConfig": {
+        "defaults": {
+          "unit": "percent",
+          "min": 0,
+          "max": 100,
+          "thresholds": {
+            "steps": [
+              { "color": "green", "value": null },
+              { "color": "yellow", "value": 60 },
+              { "color": "red", "value": 80 }
+            ]
+          }
+        },
+        "overrides": []
+      }
+    },
+    {
+      "title": "GPU VRAM",
+      "type": "row",
+      "gridPos": { "h": 1, "w": 24, "x": 0, "y": 36 },
+      "collapsed": false,
+      "panels": []
+    },
+    {
+      "title": "GPU VRAM Usage by Node",
+      "type": "timeseries",
+      "transparent": true,
+      "gridPos": { "h": 8, "w": 16, "x": 0, "y": 37 },
+      "datasource": { "type": "prometheus", "uid": "prometheus" },
+      "targets": [
+        {
+          "expr": "sum by(instance)(DCGM_FI_DEV_FB_USED) / sum by(instance)(DCGM_FI_DEV_FB_USED + DCGM_FI_DEV_FB_FREE) * 100",
+          "legendFormat": "{{ instance }}"
+        }
+      ],
+      "fieldConfig": {
+        "defaults": {
+          "unit": "percent",
+          "min": 0,
+          "max": 100
+        },
+        "overrides": []
+      }
+    },
+    {
+      "title": "Current GPU VRAM Usage",
+      "type": "gauge",
+      "transparent": true,
+      "gridPos": { "h": 8, "w": 8, "x": 16, "y": 37 },
+      "datasource": { "type": "prometheus", "uid": "prometheus" },
+      "targets": [
+        {
+          "expr": "sort_by_label(sum by(instance)(DCGM_FI_DEV_FB_USED) / sum by(instance)(DCGM_FI_DEV_FB_USED + DCGM_FI_DEV_FB_FREE) * 100, \"instance\")",
+          "legendFormat": "{{ instance }}",
+          "instant": true
+        }
+      ],
+      "fieldConfig": {
+        "defaults": {
+          "unit": "percent",
+          "min": 0,
+          "max": 100,
+          "thresholds": {
+            "steps": [
+              { "color": "green", "value": null },
+              { "color": "yellow", "value": 60 },
+              { "color": "red", "value": 80 }
+            ]
+          }
+        },
+        "overrides": []
+      }
+    }
+  ],
+  "schemaVersion": 39,
+  "tags": ["cluster", "capacity"],
+  "templating": { "list": [] },
+  "refresh": "30s",
+  "time": { "from": "now-30m", "to": "now" },
+  "timepicker": {},
+  "timezone": "browser",
+  "title": "Resources",
+  "uid": "resources"
+}
