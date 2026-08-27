@@ -32,10 +32,10 @@ const SLUG = "page-query-service"
 const SAYS = `[${SLUG}]`
 
 const roots = resolveRoots()
-const PORT = clusterReachOf(roots.instructions, SLUG).port
+const PORT = clusterReachOf(roots.akasha, SLUG).port
 
 function builtAt(): string {
-  const got = Bun.spawnSync(["git", "-C", roots.instructions, "rev-parse", "--short", "HEAD"])
+  const got = Bun.spawnSync(["git", "-C", roots.akasha, "rev-parse", "--short", "HEAD"])
   return got.success ? new TextDecoder().decode(got.stdout).trim() : "unknown"
 }
 

@@ -17,10 +17,10 @@ const SLUG = "graph-service"
 const SAYS = `[${SLUG}]`
 
 const roots = resolveRoots()
-const REACH = clusterReachOf(roots.instructions, SLUG)
+const REACH = clusterReachOf(roots.akasha, SLUG)
 
 const builtAt = (): string => {
-  const got = Bun.spawnSync(["git", "-C", roots.instructions, "rev-parse", "--short", "HEAD"])
+  const got = Bun.spawnSync(["git", "-C", roots.akasha, "rev-parse", "--short", "HEAD"])
   return got.success ? new TextDecoder().decode(got.stdout).trim() : "unknown"
 }
 

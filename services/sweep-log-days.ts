@@ -99,7 +99,7 @@ function removeSidecars(memory: string, relPath: string): void {
 function removePages(
   relPaths: readonly string[],
   memory: string,
-  instructionsRoot: string
+  akashaRoot: string
 ): { code: number; output: string } {
   const dir = mkdtempSync(join(SCRATCH, "sweep-log-days-"))
   const outPath = join(dir, "out.txt")
@@ -116,7 +116,7 @@ function removePages(
             "--message",
             `past the window a log is kept for, so ${relPaths.length === 1 ? "this log day goes" : "these log days go"}: ${relPaths.map((one) => slugOf(one)).join(", ")}`,
           ],
-          instructionsRoot
+          akashaRoot
         ),
       ],
       {
@@ -185,13 +185,13 @@ function main(argv: readonly string[]): number {
   const together = removePages(
     rotate.map((one) => one.relPath),
     memory,
-    roots.instructions
+    roots.akasha
   )
   if (together.code === 0) {
     taken.push(...rotate)
   } else {
     for (const one of rotate) {
-      const alone = removePages([one.relPath], memory, roots.instructions)
+      const alone = removePages([one.relPath], memory, roots.akasha)
       if (alone.code === 0) taken.push(one)
       else held.push(`${one.name}: ${alone.output.trim().split("\n").slice(-1)[0] ?? "refused"}`)
     }

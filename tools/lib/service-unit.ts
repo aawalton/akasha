@@ -126,7 +126,7 @@ export function serviceUnitText(doc: ServiceDoc): string {
     `Type=${scheduled ? "oneshot" : "simple"}`,
     `WorkingDirectory=${checkout}`,
     `Environment=PATH=${PATH_ENV}`,
-    `Environment=INSTRUCTIONS_ROOT=${checkout}`,
+    `Environment=AKASHA_ROOT=${checkout}`,
     ...execLines(doc),
     ...stopLines(doc),
   ]

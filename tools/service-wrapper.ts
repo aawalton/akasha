@@ -17,7 +17,7 @@ function matching(at: string, globs: readonly string[]): ReadonlySet<string> {
 }
 
 const roots = resolveRoots()
-const root = roots.instructions
+const root = roots.akasha
 const said = process.argv.slice(2)
 const command = commandIn(said)
 

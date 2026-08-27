@@ -3,12 +3,13 @@
 import { mailbox } from "../tools/lib/gmail.ts"
 import { recordToAgent } from "../tools/lib/agent-record.ts"
 import { markTold, onePass, untoldClaims } from "../tools/lib/email-worker.ts"
+import { akashaRoot } from "../repo/roots/roots"
 
 const PERSON = process.env.EMAIL_WORKER_PERSON ?? "alan"
 const HANDLER = process.env.EMAIL_WORKER_HANDLER ?? PERSON
 const EVERY_MS = Number(process.env.EMAIL_WORKER_INTERVAL_MS ?? 60_000)
 const SENDER = process.env.EMAIL_WORKER_SENDER ?? "email-worker"
-const ROOT = process.env.INSTRUCTIONS_ROOT ?? `${process.env.HOME ?? "/nonexistent"}/instructions`
+const ROOT = akashaRoot()
 
 function log(line: string): void {
   process.stdout.write(`email-worker: ${line}\n`)

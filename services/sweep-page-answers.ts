@@ -81,7 +81,7 @@ if (import.meta.main) {
   if (process.argv.includes("--help")) {
     console.log(HELP)
   } else {
-    const root = resolveRoots().instructions
+    const root = resolveRoots().akasha
     const gone = sweep(root, Date.now())
     if (gone > 0) console.log(`swept ${gone} page answer(s) that had stood over a day in ${root}/.git`)
   }

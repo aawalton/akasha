@@ -109,7 +109,7 @@ function sidecarRelPathOf(pagePath: string): string {
   return `${relPathOf(pagePath).slice(0, -PAGE_SUFFIX.length)}${UNCOMMITTED_SUFFIX}`
 }
 
-function removePages(pagePaths: readonly string[], instructionsRoot: string): { code: number; output: string } {
+function removePages(pagePaths: readonly string[], akashaRoot: string): { code: number; output: string } {
   const dir = mkdtempSync(join(SCRATCH, "sweep-seat-pages-"))
   const outPath = join(dir, "out.txt")
   try {
@@ -125,7 +125,7 @@ function removePages(pagePaths: readonly string[], instructionsRoot: string): { 
             "--message",
             `no agent is present in ${pagePaths.length === 1 ? "this seat" : "these seats"}, so ${pagePaths.length === 1 ? "its page goes" : "their pages go"}: ${pagePaths.map(seatNameOf).join(", ")}`,
           ],
-          instructionsRoot
+          akashaRoot
         ),
       ],
       { stdout: Bun.file(outPath), stderr: "pipe", env: { ...process.env, AGENT_ID: WRITER, ACTING_AGENT_ID: "" } }
@@ -143,10 +143,10 @@ function removePages(pagePaths: readonly string[], instructionsRoot: string): { 
   }
 }
 
-function takeEachAlone(pagePaths: readonly string[], instructionsRoot: string): readonly string[] {
+function takeEachAlone(pagePaths: readonly string[], akashaRoot: string): readonly string[] {
   const held: string[] = []
   for (const one of pagePaths) {
-    const alone = removePages([one], instructionsRoot)
+    const alone = removePages([one], akashaRoot)
     if (alone.code === 0) {
       removeSidecars(one)
       continue
@@ -186,13 +186,13 @@ function main(argv: readonly string[]): number {
     )
     return unresolved === 0 ? 0 : 1
   }
-  const taken = removePages(absent, roots.instructions)
+  const taken = removePages(absent, roots.akasha)
   if (taken.code === 0) {
     for (const one of absent) removeSidecars(one)
     process.stderr.write(`removed ${absent.length} seat page(s) and their sidecars\n`)
     return unresolved === 0 ? 0 : 1
   }
-  const held = takeEachAlone(absent, roots.instructions)
+  const held = takeEachAlone(absent, roots.akasha)
   const removed = absent.length - held.length
   if (removed > 0) process.stderr.write(`removed ${removed} seat page(s) and their sidecars\n`)
   for (const one of held) process.stderr.write(`refused: ${one}\n`)
