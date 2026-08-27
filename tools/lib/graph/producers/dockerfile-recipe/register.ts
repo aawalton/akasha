@@ -1,12 +1,5 @@
-import type { Engine } from "../../types.ts"
-import { JSON_FILE_NODE_TYPE } from "../file/json-file/types.ts"
-import { DOCKERFILE_RECIPE_INPUT_EDGE_TYPE, DOCKERFILE_RECIPE_NODE_TYPE } from "./types.ts"
+// The old graph is gone. This module is a stub so its callers still resolve.
+// Every value here refuses; the callers are waiting to be migrated onto `graph/ask.ts`.
+import { oldGraphGone } from "../../../graph-gone.ts"
 
-export const registerDockerfileRecipeTypes = (engine: Engine): undefined => {
-  engine.registerNodeType({ name: DOCKERFILE_RECIPE_NODE_TYPE })
-  engine.registerEdgeType({
-    name: DOCKERFILE_RECIPE_INPUT_EDGE_TYPE,
-    from: DOCKERFILE_RECIPE_NODE_TYPE,
-    to: JSON_FILE_NODE_TYPE,
-  })
-}
+export const registerDockerfileRecipeTypes = ((...a: readonly unknown[]) => oldGraphGone("registerDockerfileRecipeTypes")) as never

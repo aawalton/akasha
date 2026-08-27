@@ -1,22 +1,6 @@
-import { serviceNamed } from "../service-project.ts"
+// The old graph is gone. This module is a stub so its callers still resolve.
+// Every value here refuses; the callers are waiting to be migrated onto `graph/ask.ts`.
+import { oldGraphGone } from "../graph-gone.ts"
 
-const GRAPH_SERVICE = "graph-service"
-
-export type Fetcher = (url: string, init: RequestInit) => Promise<Response>
-
-export function graphOrigin(root: string): string {
-  const port = serviceNamed(root, GRAPH_SERVICE).port
-  if (port === null) {
-    throw new Error(
-      `graph: \`${GRAPH_SERVICE}\` states no \`port:\`, so nothing says where to ask it`
-    )
-  }
-  return `http://localhost:${port}`
-}
-
-export function askingAt(origin: string): Fetcher {
-  return (url, init) => {
-    const asked = new URL(url)
-    return fetch(new URL(`${asked.pathname}${asked.search}`, origin), init)
-  }
-}
+export const askingAt = ((...a: readonly unknown[]) => oldGraphGone("askingAt")) as never
+export const graphOrigin = ((...a: readonly unknown[]) => oldGraphGone("graphOrigin")) as never

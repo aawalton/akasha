@@ -1,21 +1,5 @@
-import type { Engine } from "../../types.ts"
-import { PACKAGE_NODE_TYPE } from "../package/types.ts"
-import {
-  LOCKFILE_DEPENDS_EDGE_TYPE,
-  LOCKFILE_PACKAGE_NODE_TYPE,
-  LOCKFILE_RESOLVES_EDGE_TYPE,
-} from "./types.ts"
+// The old graph is gone. This module is a stub so its callers still resolve.
+// Every value here refuses; the callers are waiting to be migrated onto `graph/ask.ts`.
+import { oldGraphGone } from "../../../graph-gone.ts"
 
-export const registerLockfilePackageTypes = (engine: Engine): undefined => {
-  engine.registerNodeType({ name: LOCKFILE_PACKAGE_NODE_TYPE })
-  engine.registerEdgeType({
-    name: LOCKFILE_RESOLVES_EDGE_TYPE,
-    from: PACKAGE_NODE_TYPE,
-    to: LOCKFILE_PACKAGE_NODE_TYPE,
-  })
-  engine.registerEdgeType({
-    name: LOCKFILE_DEPENDS_EDGE_TYPE,
-    from: LOCKFILE_PACKAGE_NODE_TYPE,
-    to: LOCKFILE_PACKAGE_NODE_TYPE,
-  })
-}
+export const registerLockfilePackageTypes = ((...a: readonly unknown[]) => oldGraphGone("registerLockfilePackageTypes")) as never

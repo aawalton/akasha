@@ -1,37 +1,8 @@
-import { CERTIFICATE_FILE_NODE_TYPE } from "./certificate-file/types.ts"
-import { CONF_FILE_NODE_TYPE } from "./conf-file/types.ts"
-import { CSS_FILE_NODE_TYPE } from "./css-file/types.ts"
-import { CSV_FILE_NODE_TYPE } from "./csv-file/types.ts"
-import { ENV_FILE_NODE_TYPE } from "./env-file/types.ts"
-import { HTML_FILE_NODE_TYPE } from "./html-file/types.ts"
-import { IGNORE_FILE_NODE_TYPE } from "./ignore-file/types.ts"
-import { IMAGE_FILE_NODE_TYPE } from "./image-file/types.ts"
-import { DOCKERFILE_FILE_NODE_TYPE } from "./dockerfile-file/types.ts"
-import type { FileKind } from "../../../../../file-kind/file-kind.ts"
-import { JS_FILE_NODE_TYPE, JSX_FILE_NODE_TYPE } from "./js-file/types.ts"
-import { JSON_FILE_NODE_TYPE } from "./json-file/types.ts"
-import { LOCK_FILE_NODE_TYPE } from "./lock-file/types.ts"
-import { LUA_FILE_NODE_TYPE } from "./lua-file/types.ts"
-import { MD_FILE_NODE_TYPE } from "./md-file/types.ts"
-import { PYTHON_FILE_NODE_TYPE } from "./python-file/types.ts"
-import { RUST_FILE_NODE_TYPE } from "./rust-file/types.ts"
-import { SH_FILE_NODE_TYPE } from "./sh-file/types.ts"
-import { SOPS_CONFIG_FILE_NODE_TYPE } from "./sops-config-file/types.ts"
-import { SQL_FILE_NODE_TYPE } from "./sql-file/types.ts"
-import { SWIFT_FILE_NODE_TYPE } from "./swift-file/types.ts"
-import { SYSTEMD_UNIT_FILE_NODE_TYPE } from "./systemd-unit-file/types.ts"
-import { TOML_FILE_NODE_TYPE } from "./toml-file/types.ts"
-import { TS_FILE_NODE_TYPE, TSX_FILE_NODE_TYPE } from "./ts-file/types.ts"
-import { TXT_FILE_NODE_TYPE } from "./txt-file/types.ts"
-import { XML_FILE_NODE_TYPE } from "./xml-file/types.ts"
-import { YAML_FILE_NODE_TYPE, YML_FILE_NODE_TYPE } from "./yaml-file/types.ts"
+// The old graph is gone. This module is a stub so its callers still resolve.
+// Every value here refuses; the callers are waiting to be migrated onto `graph/ask.ts`.
+import { oldGraphGone } from "../../../graph-gone.ts"
 
-export type FileKindAuthorship = "authored" | "serialized"
-
-export interface FileKindFacts {
-  readonly nodeType: string
-  readonly authorship: FileKindAuthorship
-}
+export type FileKindNodeType = unknown
 
 export const FILE_KIND_FACTS = {
   ts: { nodeType: TS_FILE_NODE_TYPE, authorship: "authored" },
@@ -66,9 +37,3 @@ export const FILE_KIND_FACTS = {
   ignore: { nodeType: IGNORE_FILE_NODE_TYPE, authorship: "serialized" },
   "sops-config": { nodeType: SOPS_CONFIG_FILE_NODE_TYPE, authorship: "serialized" },
 } as const satisfies Record<FileKind, FileKindFacts>
-
-export type FileKindNodeType = (typeof FILE_KIND_FACTS)[FileKind]["nodeType"]
-
-export const AUTHORED_FILE_NODE_TYPES: readonly FileKindNodeType[] = Object.values(FILE_KIND_FACTS)
-  .filter((facts) => facts.authorship === "authored")
-  .map((facts) => facts.nodeType)
