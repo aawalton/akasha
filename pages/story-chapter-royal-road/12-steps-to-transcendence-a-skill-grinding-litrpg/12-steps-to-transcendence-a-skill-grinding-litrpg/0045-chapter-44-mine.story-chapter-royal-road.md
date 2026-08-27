@@ -1,0 +1,189 @@
+---
+id: d4c7de97-369e-5272-b01b-93a927941d66
+page-type-slug: story-chapter-royal-road
+title: "Chapter 44: Mine"
+slug: 0045-chapter-44-mine
+partOf: 12-steps-to-transcendence-a-skill-grinding-litrpg
+position: 45
+ownLength: 1690
+unit: words
+publishedAt: 2026-08-27
+link: "https://www.royalroad.com/fiction/181591/12-steps-to-transcendence-a-skill-grinding-litrpg/chapter/3874065/chapter-44-mine"
+royalRoadId: "3874065"
+---
+
+Ben was tempted. He really was. It would be so easy to fire the [Mana Cannon] right at the prick's face. After that pathetic attempt at intimidation earlier with his feeble amount of mana, Ben doubted the boy could dodge in time. He'd be dead for sure.
+
+But that's why he let [Focus] take over and stepped back slowly. Lowering his hand, Ben let the gathered mana fizzle back into his core, making sure to absorb every last bit of it.
+
+He gave Thomas a blank look and turned around, walking away without a single word. But he obviously didn't actually leave.
+
+He circled around the trees, slipped into the ferns, and waited nearby, completely hidden by [Lurker].
+
+He couldn't believe what he'd just thought. He'd actually considered killing someone. What was wrong with him? They were just teenagers. Jerks, sure, but that didn't mean they deserved to die at his hands. Not when they hadn't done anything to deserve it.
+
+Could he even kill someone? He knew, deep down, that he might have to someday, but he never wanted to think about it. That was a problem for future Ben, not him right now.
+
+Still, there was no way he was going to let them take what he'd worked so hard for!
+
+They didn't know the frog like he did. And maybe they didn't even know the pond was a treasure?
+
+Hidden in the ferns, Ben watched them, getting more irritated by the minute. To his dismay, the noble kids were actually good. They moved in a tight formation and worked together really well against the big frog.
+
+They were definitely going to win.
+
+That meant Ben was about to lose everything he'd worked for.
+
+One of the boys laughed with excitement and swung his sword at the beast.
+
+"That commoner didn't even know what this was, or he would have been more firm! Now this is ours!"
+
+So they did know it was a treasure.
+
+The giant beast croaked in pain from the attacks and dove straight into the deep water of the pond with a huge splash.
+
+"Let it go!"
+
+Thomas raised his hand to stop his group from chasing after it into the pond.
+
+"It's just retreating to recover using the pond's essence and mana. We've already won. Now it's just a waiting game, and we'll win without any trouble. It's just a weak Tier 2 that got there due to this pond in the first place, it's not the real deal."
+
+The nobles cheered and quickly let their guard down. They relaxed and didn't pay attention to the pond for a moment.
+
+"Come on, start gathering the water in your holding bags!"
+
+Clarissa tapped her staff on the ground, clearly impatient.
+
+"If it stays down, we can easily grab the water! And if that ugly thing comes back, we kill it for extra points and get the water afterward anyway!"
+
+Ben blinked.
+
+Holding bag?
+
+His eyes lit up right away. Of course they had holding bags! Duncan had one, so these rich jerks must have them too. As soon as Ben realized what they were planning, his goal changed in an instant.
+
+He didn't give a single shit about the giant frog anymore. All he wanted was to grab one of their holding bags and steal some water. Even better, he wanted the bag itself. That seemed fair, right? Plus, having a holding bag would be so useful!
+
+Ben crouched lower and got into position.
+
+Time for a change of plans.
+
+He filled his legs with a reckless amount of fire mana.
+
+The pond's water level kept dropping as they filled their holding bags. They were taking it all way too fast! What kind of holding bags did they have?
+
+Shit, they're going to take it all!
+
+He gritted his teeth and prepared to rush them, keeping mana in his legs and sending more into his right arm to ready up a [Mana Cannon]. But the giant frog decided it wasn't quite done yet. It shot its tongue out blindly and hit Clarissa's shoulder.
+
+The blonde girl cried out in pain, stumbling back and dropping her holding bag. The others quickly turned their focus back to the frog and hurried to cut its tongue.
+
+Ben exploded out of the bushes with [Fire Burst] and covered the distance in a second. Blood drained from his face as the G-force slammed into him. Grabbing the bag off the ground at that speed was a mistake as he spun out of control, crashing into the pond as he cried out.
+
+Landing in the water at that speed was no fun at all!
+
+But he took a massive gulp anyway, because he'd made a promise he'd not only take a dip but also gulp some of this water. He always kept his word!
+
+Mine.
+
+Feeling the rush of mana, he let himself float for a moment, enjoying the moment.
+
+But he wasn't done quite yet. Turning in the water, he shot out, water trailing behind him as he closed in on the squirming frog and fired his [Mana Cannon] straight at its head through its eye.
+
+The blast shattered its skull completely and tore through its brain, splattering the blood and gore all over the teens attacking it while Clarissa recovered.
+
+[Tier 2 Pond Frog slain. Essence gained.]
+
+A rush of essence flooded into his core as he flailed wildly to regain his balance. He landed on the ground, skidding to a stop a short distance away.
+
+Holy shit, that was incredible!
+
+Thomas and the other teens stared in shock, frozen with their weapons still up. Thomas's face turned bright red.
+
+"Wait, what?! You filthy little rat! I'm going to skin you alive!"
+
+Thomas charged at him.
+
+"Adios, and thanks for doing all the hard work!"
+
+Flipping him the bird, Ben blasted into the sky.
+
+Clarissa POV
+
+Clarissa truly believed she deserved to be as arrogant as she was.
+
+She was a prodigy.
+
+Growing up in the central estates of her House, she'd taken advantage of all the resources she had access to. Unlike her peers, who wasted their family's wealth, she actually put in the hard work.
+
+She refused to be just another political trophy daughter, so she trained for years. She pushed herself to her limits before she even hit puberty.
+
+So frankly, she hated when people assumed she had been handed her power without effort.
+
+They didn't know anything.
+
+Which was exactly why seeing uneducated commoners fumbling with mana always made her blood boil.
+
+To her, they were insulting an art form they could never understand. But this one... his eyes bothered her the most. They were dark and empty, showing no sign of human emotion, like looking into a void.
+
+Channeling a steady stream of mana into her eyes, she activated [Hawk Eyes] without a second thought. The world zoomed in instantly, snapping the fleeing commoner into crystal clear focus.
+
+And she didn't just have great vision, either.
+
+She gripped her wooden staff and forced herself upright, gritting her teeth as blood poured from her wounded shoulder. She refused to let him escape after what he had done.
+
+Not many her age could use a skill like [Mana Beam] as well as she could.
+
+Using mana that way was known to be difficult.
+
+You needed a good focus, like her staff, just to keep the mana from exploding and hurting your arms. So the fact that she had mastered it at her age showed how skilled she was.
+
+There was a reason she was known as a sniper among her friends.
+
+She let the mana gather at the tip of her staff, then fired a blinding [Mana Beam].
+
+The beam shredded the distance between them and slammed into his side, knocking him off balance. He dropped from the sky as if his strings had been cut.
+
+A crooked smirk appeared on her lips.
+
+She spun her staff and leveled the tip at his falling body, locking her eyes on the target. She fired another beam at his throat without a second thought.
+
+A burst of flames exploded beneath him. It was that annoying fire trick he always used. The blast stopped his fall and sent him back into the sky, letting him dodge her shot.
+
+Clarissa sneered, gripping her staff with both hands to line up a third shot.
+
+She blinked.
+
+Whizz—!
+
+A terrifyingly condensed pressure whipped right past her face, blowing her hair back with the force of the wind. A searing, needle-like sting touched her cheek, followed a moment later by the concussive scream of energy blasting right past her ear.
+
+...Huh?
+
+Time seemed to stop. She stood frozen, stunned by how fast the attack had passed her. Slowly, she lifted a hand to her face and touched the sting on her cheek.
+
+Her fingertips came away wet.
+
+She turned her head just enough to spot the dissipating trail of what she guessed was [Mana Beam] fading behind her.
+
+He fired back? From that angle? And from so far away?
+
+She snapped her head up and saw the commoner hovering high above. He had stopped in midair, holding himself still just to throw that attack at her.
+
+Smoke drifted from his outstretched fingertips, but it was the sight of his hand and arm that made her catch her breath. The skin was split open and weeping blood. Forcing out a blast of that magnitude had literally torn his own flesh apart.
+
+Looking past his mangled arm, she met his eyes.
+
+Not a single twitch of pain on his face, and his eyes seemed to look right through her.
+
+That had been a mere warning.
+
+Did he... did he just use a [Mana Beam]?
+
+Or something just like it?
+
+She frantically searched his hands, desperate to find his focus. She looked everywhere for a wand, a staff, a ring… anything that could explain what he had just done.
+
+But his hands were completely empty.
+
+"What are you doing standing there, idiots! Follow him! He's not getting away with House property! Move, move, move!" Thomas yelled at the boys, startling Clarissa out of her stupor.

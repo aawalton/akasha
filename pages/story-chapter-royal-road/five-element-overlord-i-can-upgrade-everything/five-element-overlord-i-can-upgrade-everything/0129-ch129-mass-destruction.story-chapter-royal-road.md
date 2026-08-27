@@ -1,0 +1,179 @@
+---
+id: ffa4617b-6b91-566e-bdd1-12579bfd7ad7
+page-type-slug: story-chapter-royal-road
+title: "Ch129 Mass Destruction"
+slug: 0129-ch129-mass-destruction
+partOf: five-element-overlord-i-can-upgrade-everything
+position: 129
+ownLength: 2631
+unit: words
+publishedAt: 2026-08-27
+link: "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3874266/ch129-mass-destruction"
+royalRoadId: "3874266"
+---
+
+This is a ruthless world.
+
+Kind people will always be taken advantage of, like a gentle horse will always be ridden.
+
+Even when compassion seems as though it can be given freely, it can easily become a habit that dulls the perception of one’s surroundings over time.
+
+I do not know the full history of Lingshi City, but from what I can see, the Mu and Wang Clans are war hero families with an older generation far past their prime. In recent years, they have been far too accommodating and passive to a force slowly eating away at their livelihoods.
+
+This Old Jiang Family Demon has not lost his spark for conquest like they have. He found an opening to gain resources, and planned a strike to profit without mercy.
+
+The overwhelming pressure of this Blood Demon easily seeps through my shield’s aura blocking defenses, even half a kilometer away in the sky, making my vision blur and ears start to ring.
+
+I’m certain the late stage foundation establishment threshold of this shield would be crushed to dust if I relied on it to block this incoming monstrosity.
+
+It has two mid stage spirit grade physiques enhancing his strength, completely outranking my defensive artifact.
+
+After a few seconds pass, my thought is confirmed. One of the shield’s active ability uses is triggered. It perceives this natural aura alone to be equivalent to an average physical late stage foundational attack. A burst of energy reflects back up into the air, giving me a moment longer to think clearly.
+
+Instead of slipping away into my hidden realm for safety, I pull out two items from my storage.
+
+One is a small white jade sword, and the other is a metallic golden card with a three raised on both of its sides.
+
+I press it to the Qi Sword Slaughter Formation, and a blinding flash of light covers my eyes and expands outward hundreds of meters, lighting up the forest even in broad daylight.
+
+I feel the small white jade in my grasp heat up and grow in size.
+
+It turns translucent for a moment, then begins to glow with a bright yellow-golden aura.
+
+[Ding!][Anchored Golden Sword Slaughter Formation has re-bound to the Host!][Passive Ability: While activated, spiritual senses of the entire formation are transmitted, and a protective barrier surrounds the host and all soul-bound entities.][Active Ability: 3 Uses, Rechargeable (Cost-1,800,000 Foundational Crystals). This Formation can be activated to create a single 1,200-meter-diameter dome containing 15 Perfect Grade Tier 3 Golden Core Sword Manifestations. It will relentlessly attack all life within for 30 seconds. It can be activated for a single use at a time, or up to 3 times consecutively with no cooldown required.]
+
+When I try to mentally activate it, the artifact effortlessly falls into my skin just like the old small white version.
+
+Instead of the old small marking that only showed up on the back of my palm, a massive golden sword marking appears like a tattoo running all the way from my hand up to my shoulder.
+
+A thin veil of golden energy spreads out from it, covering every area of my body.
+
+The pressure that my Verdant Tower Shield couldn’t protect from is instantly negated, making it pointless to hold any longer. I pull it into my storage while the rest of the formation activates.
+
+A pulse of energy explodes outward, expanding my spiritual senses to fill a staggering 1,200 meter dome.
+
+I can see every speck of dirt and stone in the forest, remnants of Lan Xin’s battles, and even some traces of the Mu and Wang Patriarch’s auras.
+
+My senses are so enhanced it is overwhelming at first, but a strong force in this formation protects me from the mental and physical strain. Most of the qi fluctuations instinctively make sense; it’s clear that this duo of mid-stage foundational cultivators and their white spirit moose did not die. They escaped, quickly and recently…
+
+I grin while staring up at the blood demon in the sky, knowing that Meng Ruo did what I asked.
+
+A furious voice echoes through the air.
+
+“Who are you? How have you slain my Jiang Family’s elders? There is no one in Lingshi City capable of ruining my plans! State your backing and I will leave you with a corpse intact!”
+
+The imagery that was moving far too fast for me to see earlier now shows up in my spiritual senses, tinted in the light yellow-gold aura of this array.
+
+I see Jiang Duo, the 240-year-old 7th-level foundational blood demon with two mid-stage spirit-grade physiques in all his glory.
+
+The man is unrecognizable from a human. While he holds the stature of an old man on the inside, there are layers of varied amounts of stone, fire, and blood energy surrounding him like a suit of armor that increase his size.
+
+He is easily close to three meters tall from the bottoms of his feet to the tips of his crimson horns.
+
+Both of his physiques are battling for dominance, as it looks like swirling oceans of molten rock and blood qi are clashing on the surface, held together by a chaotic soul.
+
+It was impossible for my mind to get anywhere close to his body with the late-stage foundational aura he released before, but now, with a momentary glimpse of perfected tier 3 spiritual senses, I can see the raw strength of this demonic human is still being suppressed.
+
+One of his clawed hands is larger than the other, and a Blood Energy manifestation surrounds it, creating the mind numbing Blood Palm hovering in front of him. It is just like those cultivators from the Blood Sword Sect that create swords out of their excess blood qi and physique. His is just on another level, so bound to his physical form that it looks like a solid mass of flesh.
+
+It's almost like an overgrown tumor, that gives off an aura of its own, like a soul bound entity.
+
+In his other hand, a high grade foundational long sword glows with molten rock. It makes the low grade tier 2 weapons his offspring wielded look like children's toys. It could have sliced through my Verdant Tower Shield with ease, even if it still had all of its reflective bursts left.
+
+There are two more artifacts inside his body, one holding together his soul despite the pressure of two incompatible physiques and immense blood qi in his body far surpassing his natural limits. It’s like an impenetrable sphere made of hot black jade, surrounding his dantian.
+
+The other seems to be some kind of dormant weapon resting on the edge of his soul and sea of consciousness. It has no physical form. Without my increased spiritual senses, I would have never even thought to look for an artifact in this strange space between energies. He’s not using it, and it seems to have no effect on his physiques or energy flows.
+
+His full status shows in my senses too; I read over his system secret quickly.
+
+[He has cultivated the blood demon physique in private for decades in order to break past his spirit root potential and reach the late stage of foundation establishment. He seeks to eliminate the Wang and Mu families in order to secure two more tier 2 veins for his clan and create a strong base of operations for demonic cultivators in the Hidden Mist County. This is his final mission before accepting the title of an official Blood Sword Sect Envoy.]
+
+To antagonize him further and bring him into the center of this formation as it activates, I yell out a response.
+
+“Why would my backing matter? I am an ally of the Wang and Mu clans. I am a disciple of the Azure Cloud Sect. It is only natural I stop an intruder stealing our land, especially one who dares to become a Blood Sword Sect Envoy!”
+
+The old man in the sky lets out a bellowing roar, and the blood palm manifesting in front of his hand grows larger. Crimson mist bursts out of him to propel him down faster. The black sphere artifact in his chest loosens, allowing more blood energy to pour out, and for more of his unsuppressed physique’s vibrations to fill the air.
+
+It makes the four initial-stage foundation establishment cultivators I just hopped into battle with seem like ants.
+
+The raw innate power Lan Xin tapped into before is like a tiny drop in the ocean compared to this unleashed fury.
+
+Even my recollection of the black lotus flame fragment that Little Red sacrificed to kill the Phantom Lord seems lacking compared to the monstrosity coming down at me.
+
+“How do you know of the Envoys? Who told you of the Blood Sword Sect’s plans!?”
+
+He screams while more and more blood energy pools in front of him. The crimson palm balloons in size, creating a 10-meter-wide demonic blood claw, about to slam down on me.
+
+I do not fear this power.
+
+All around me, 15 small sparkling specks of light form, and begin to rapidly grow in size.
+
+The energy from this fully charged golden sword slaughter formation has been released and spread out into the air, now forming into enormous blades.
+
+In its old low grade tier 2 version, I could understand the energy flows, watching white particles of qi compact into swords strong enough to be compared to foundational strength.
+
+Yet, the complexity of the energy flowing together to create these new weapons does not make any sense to me, even with my spiritual senses increased by so many times. My limited mind as a qi refiner is having trouble piecing together all of the new energy flows two major realms above my strength.
+
+Every single one of them expands with golden-yellow light and becomes a pristine energy sword, floating around me and exerting so much pressure that the earth below me gives way, sending fractures through the mountainside.
+
+Just from the sword manifestations themselves, trees are torn from the ground and blown backward in every direction, even further than the 1,200-meter formation range.
+
+Instantly, all fifteen swords begin to swing at the only source of life within the formation.
+
+One slams against the crimson hand manifestation Jiang Duo has created, and it fractures to red mist, exploding to send him flying backward into the sky with his eyes wide in fear.
+
+“A Golden Core Artifact… No one other than the Ye Clan on this half of the outer sect could have such a thing! All golden core artifacts in the hidden mist county have been accounted for. Everyone from the Blood Sword Sect is aligned with this extermination, and the Rose Mountain Sect is too occupied to pay any mind to foundational feuds so far away. Unless you come from another Prefecture... No! This can’t be!”
+
+Another enormous golden blade swings down at him less than a second after, and I watch the orb-like treasure around his dantian completely activate, sending a pulse of dense black jade outward like a spherical shield. At the same time, all of the blood qi contained inside flows into both of his physiques, enhancing his movements and raw strength even more.
+
+The golden sword slams against it, staying stuck in place for a fraction of a second, just long enough for this old demon to move out of the way and dodge. It shatters into black shards and the blade follows through with the rest of its swing.
+
+A third golden sword slices down, and he yells out in fury, flying away in fear toward the sky.
+
+He pulls his longsword into a storage ring, and the blood energy in his enlarged clawed hand drains back into his body. Dark red footsteps are left in the air as he sacrifices massive amounts of blood energy and pure vitality with every lunge, attempting to escape.
+
+Jiang Duo’s physiques fracture apart as he narrowly dodges the closest incoming sword, but it doesn’t matter.
+
+The Golden Sword Slaughter Formation fully activates into position, and every single one of the fifteen blades swings in unison, cutting off all of his exit paths.
+
+“Impossible! That shielding artifact had enough souls infused in it to block a mid-stage Golden Core’s attack! It was broken through with such ease?! What kind of backing wastes a High Grade Golden Core Formation in such a small place like Lingshi City?! I should have killed everyone here months, no, years ago! The Blood Sword Sect will slaughter your entire clan, once they see what you have done! This land must be secured no matter what, you’re forcing me to waste one hundred years of hard work stored away! I did not want to use this today!”
+
+The demonic man stops running, and a horrific cracking sound echoes through the yellow-gold dome.
+
+Both of his mid-stage spirit-grade physiques crack open, along with his soul. An invisible ripple clicks in his sea of consciousness, releasing the item inside like a key finally twisting in an old rusty lock.
+
+His body is being torn apart, but as a result, a tiny dark red dagger floats out of his chest.
+
+It flies upward to clash with the closest golden sword, stopping it in place, releasing a shockwave of gold and dark red energy into the sky.
+
+My skin tingles, and I even feel a wave of pressure on my mind, reaching the limits of this formation's built-in protective barrier.
+
+This formation is powered by pure qi after all; it may be at the peak of the 3rd tier, but this blood demon is wielding very strange powers, relying on his soul, blood qi pills, and two physiques to fight back.
+
+One of the golden swords is pushed backward, and that tiny blood dagger bounces back with equal force.
+
+It curves through the air and collides with another golden sword, stopping it in place so the Blood Demon can narrowly escape again.
+
+This time however, the golden sword does not recoil back as much as the first.
+
+The flying dagger tries to block a third blade, but this time it loses ground the moment it makes contact.
+
+It stays locked with this golden blade, slowly losing its color, becoming lighter and lighter red, matching the blood demon’s complexion as energy flows out of all the cracks in his body, physiques, and soul.
+
+“What is this madness?! A Perfect-Grade Golden Core formation? I have never seen anything like this in all my years alive… Impossible… this can’t be happening… Who are you?!”
+
+His eyes stay wide in disbelief, as the bloody dagger loses its strength completely, giving way to the golden sword pushing against it.
+
+Fifteen perfect-grade tier 3 golden blades slice forward, cleaving the blood demon to pieces from all sides.
+
+There is no longer anything holding back the symmetrical flow of this formation.
+
+As fractured pieces of his body fall, the golden swords continue circling and locking onto any erratic portions of blood energy or unstable flaming mountain physique parts that even appear to be alive.
+
+By the time any bit of him touches the ground, it covers the exposed earth in a blanket of blood mist.
+
+The only two intact items are a small translucent crystal dagger and a high grade tier 2 spatial ring.
+
+My slaughter formation powers down, and all of the spinning golden blades in the sky dissipate into the atmosphere. An eerie silence follows. My spiritual senses return to their limited state, but the golden-yellow jade sword in my arm still glows bright ready to trigger a second consecutive slaughter array at my command.
+
+I cautiously walk forward to the center of the crater as the ringing sensation of a side quest complete notification echoes in my inner ear.
