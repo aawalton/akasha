@@ -9,9 +9,9 @@ parent-slug: aine-global
 
 # Intent
 
-# Notes
+A folder arrangement shape's status is worked out from the check it names.
 
-Opened 2026-08-27 as a stub. No intent is settled yet, and none is written here.
+# Notes
 
 `domain/domain-system` holds one intent line today, which this initiative would take off the
 domain and carry as its own text once its set is settled.
