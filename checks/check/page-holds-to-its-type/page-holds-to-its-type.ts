@@ -33,7 +33,7 @@ function outsideProperties(body: string, type: PageType, tree: FileTree): readon
   const { properties } = held
   if (properties === null || properties.length === 0) return []
   const verdict = judgeFrontmatter(body, type.slug, properties, null, held)
-  return verdict.why === null ? verdict.refusals : []
+  return verdict.why === null ? verdict.refusals : [verdict.why]
 }
 
 function claimedElsewhere(
