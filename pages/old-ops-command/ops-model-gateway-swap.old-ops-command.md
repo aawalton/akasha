@@ -28,8 +28,8 @@ THE UNCOMMITTED FILE STILL CARRIES `proxy_swap`, not a name matching this comman
 action value is a wire protocol read by supervisors already running the code
 they booted with, so renaming it in one step would strand every live one. It
 moves when both values can be accepted for as long as a supervisor booted
-before that change could still be alive. The ack subsystem's own label for
-this command is typed in the code repository and moves with it.
+before that change could still be alive. The ack subsystem's own label for this command is
+`proxy-swap`, typed in `tools/lib/seat-action.ts` beside the action value it sends.
 
 One target: `model-gateway swap <agent>`. Whole fleet: `model-gateway swap
 --fleet` (every live seat, staggered). A seat with no live gateway is skipped —
