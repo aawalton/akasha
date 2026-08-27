@@ -218,7 +218,14 @@ export async function createFilePage(args: CreateFilePageArgs, op = "createPage"
   const backed = await filedUnder(op, args.pageTypeSlug)
   const values = await valuesToWrite(op, args.pageTypeSlug, args.properties)
   const id = args.id ?? statedId(values) ?? mintedId()
-  const naming = nameForNew(op, args.pageTypeSlug, args.name, values, undefined, backed.namedFor)
+  const naming = nameForNew(
+    op,
+    args.pageTypeSlug,
+    args.name,
+    { ...values, id },
+    undefined,
+    backed.namedFor
+  )
   const standing = await locate(op, args.pageTypeSlug, backed.glob, undefined)
   const name = naming.stated ? naming.name : naming.stem
   const already = standing.find((one) => one.name === name)
@@ -344,13 +351,22 @@ export async function upsertFilePage(
     )
     return { page: await readBack(op, args.pageTypeSlug, id, args.select), created: false }
   }
-  const naming = nameForNew(op, args.pageTypeSlug, args.name, values, args.where, backed.namedFor)
+  const id = statedId(values) ?? mintedId()
+  const naming = nameForNew(
+    op,
+    args.pageTypeSlug,
+    args.name,
+    { ...values, id },
+    args.where,
+    backed.namedFor
+  )
   const page = await createFilePage(
     {
       pageTypeSlug: args.pageTypeSlug,
       properties:
         naming.stated && values.slug === undefined ? { ...args.set, slug: naming.name } : args.set,
       select: args.select,
+      id,
       ...(naming.stated ? { name: naming.name } : {}),
       writer: args.writer,
     },
