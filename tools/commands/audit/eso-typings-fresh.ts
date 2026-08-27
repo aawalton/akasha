@@ -3,15 +3,14 @@ export const summary =
 
 import { existsSync, readFileSync, realpathSync } from "node:fs"
 import { resolve } from "node:path"
-import { codeModule } from "../../lib/code-import.ts"
+import { buildEsoClonePopulation, WALK_ROOT } from "@temper/shared-build-deploy-checks/eso-clone-artifacts"
+import type { StampedArtifact } from "@temper/shared-build-deploy-checks/eso-doc-api-version"
+import { esouiDocPath, parseEsoDocApiVersion } from "@temper/shared-foundation-misc-eso-paths"
 import { operationalError } from "../../lib/exit.ts"
 import { parseArgs } from "../../lib/parse-args.ts"
 import { renderAuditReading, summarizeAudit } from "../../lib/audit-reading.ts"
 import { codeRoot } from "../../lib/code-root.ts"
 import type { CommandHelp } from "../../ops/surface.ts"
-
-const ESO_PATHS = "@temper/shared-foundation-misc-eso-paths"
-const CLONE_ARTIFACTS = "temper/shared-build-deploy-checks/src/eso-clone-artifacts.ts"
 
 const SUBJECT = "clone-derived ESO artifacts stamped behind the ~/esoui clone"
 
@@ -52,27 +51,6 @@ export const help: CommandHelp = {
   ],
 }
 
-interface EsoPathsModule {
-  readonly esouiDocPath: () => string
-  readonly parseEsoDocApiVersion: (docText: string) => number
-}
-
-interface StampedArtifact {
-  readonly label: string
-  readonly version: number | null
-  readonly generator: string
-  readonly generatorAt?: string
-  readonly generatorPresent: boolean
-}
-
-interface CloneArtifactsModule {
-  readonly WALK_ROOT: string
-  readonly buildEsoClonePopulation: (repoRoot: string) => {
-    readonly artifacts: readonly StampedArtifact[]
-    readonly filesScanned: number
-  }
-}
-
 function messageOf(error: unknown): string {
   return error instanceof Error ? error.message : String(error)
 }
@@ -88,16 +66,11 @@ function realOrGiven(path: string): string {
 export default async function auditEsoTypingsFresh(args: readonly string[]): Promise<void> {
   const parsed = parseArgs(help, args)
 
-  const [esoPaths, cloneArtifacts] = await Promise.all([
-    codeModule<EsoPathsModule>(ESO_PATHS),
-    codeModule<CloneArtifactsModule>(CLONE_ARTIFACTS),
-  ])
-
   const repoRootFlag = parsed.string("--repo-root")
   const repoRoot = realOrGiven(repoRootFlag === undefined ? codeRoot() : resolve(repoRootFlag))
 
   const docFlag = parsed.string("--eso-doc")
-  const docPath = realOrGiven(docFlag === undefined ? esoPaths.esouiDocPath() : resolve(docFlag))
+  const docPath = realOrGiven(docFlag === undefined ? esouiDocPath() : resolve(docFlag))
 
   if (!existsSync(docPath)) {
     throw operationalError(
@@ -120,7 +93,7 @@ export default async function auditEsoTypingsFresh(args: readonly string[]): Pro
 
   let cloneApiVersion: number
   try {
-    cloneApiVersion = esoPaths.parseEsoDocApiVersion(docText)
+    cloneApiVersion = parseEsoDocApiVersion(docText)
   } catch (error) {
     throw operationalError(
       `${docPath} yielded no API version, so every committed stamp would read as agreeing with ` +
@@ -130,10 +103,10 @@ export default async function auditEsoTypingsFresh(args: readonly string[]): Pro
 
   let population: { readonly artifacts: readonly StampedArtifact[]; readonly filesScanned: number }
   try {
-    population = cloneArtifacts.buildEsoClonePopulation(repoRoot)
+    population = buildEsoClonePopulation(repoRoot)
   } catch (error) {
     throw operationalError(
-      `the walk over ${cloneArtifacts.WALK_ROOT} in ${repoRoot} did not complete, so no ` +
+      `the walk over ${WALK_ROOT} in ${repoRoot} did not complete, so no ` +
         `population of clone-derived artifacts was acquired — ${messageOf(error)}`
     )
   }
@@ -142,7 +115,7 @@ export default async function auditEsoTypingsFresh(args: readonly string[]): Pro
 
   if (artifacts.length === 0) {
     throw operationalError(
-      `none of the ${String(filesScanned)} generated file(s) under ${cloneArtifacts.WALK_ROOT} in ` +
+      `none of the ${String(filesScanned)} generated file(s) under ${WALK_ROOT} in ` +
         `${repoRoot} carries a clone provenance line, so no artifact was compared against the ` +
         "clone. Every clone-derived artifact carries one, so an empty population means the walk " +
         "lost them rather than that they are all current"
@@ -169,7 +142,6 @@ export default async function auditEsoTypingsFresh(args: readonly string[]): Pro
       label: one.label,
       stamped: one.version,
       generator: one.generator,
-      generatorAt: one.generatorAt,
     }))
     .sort((one, other) => one.label.localeCompare(other.label))
 
@@ -185,7 +157,7 @@ export default async function auditEsoTypingsFresh(args: readonly string[]): Pro
     repoRoot,
     docPath,
     cloneApiVersion,
-    walkRoot: cloneArtifacts.WALK_ROOT,
+    walkRoot: WALK_ROOT,
     filesScanned,
     generators,
     artifacts: artifacts.length,
@@ -203,7 +175,7 @@ export default async function auditEsoTypingsFresh(args: readonly string[]): Pro
   const lines = [...renderAuditReading(SUBJECT, audit.reading)]
   lines.push(
     `  POPULATION: ${String(artifacts.length)} clone-derived artifact(s) of ${String(filesScanned)} ` +
-      `generated file(s) under ${cloneArtifacts.WALK_ROOT} in ${repoRoot}, by ${String(generators)} ` +
+      `generated file(s) under ${WALK_ROOT} in ${repoRoot}, by ${String(generators)} ` +
       `generator(s), against clone API version ${String(cloneApiVersion)} from ${docPath}.`
   )
   lines.push(
@@ -224,7 +196,7 @@ export default async function auditEsoTypingsFresh(args: readonly string[]): Pro
     for (const one of findings.slice(0, MAX_REPORTED)) {
       lines.push(
         `    ${one.label} — stamped ${String(one.stamped)}, clone at ${String(cloneApiVersion)}; ` +
-          `regenerate with \`bun ${one.generatorAt ?? one.generator}\``
+          `regenerate with \`bun ${one.generator}\``
       )
     }
     if (findings.length > MAX_REPORTED) {
