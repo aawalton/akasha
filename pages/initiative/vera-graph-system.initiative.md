@@ -51,6 +51,8 @@ No command reaches code through `codeModule`, by Alan's ruling on 2026-08-27. Wh
 
 The relation index names an attachment end, by Alan's ruling on 2026-08-27. It already names a path end under `relation/{property}/{repo}/{path}.jsonl`; an attachment is derived from the naming convention rather than declared, so nothing wrote an entry for one.
 
+A body link is a relation key rather than an edge type of its own, by Alan's ruling on 2026-08-27. It is a pseudo-property: nothing declares it as a page property, and the key `link` is what carries the difference between a page's prose naming a path and a page's frontmatter declaring a claim. Reading `relation` edges unnarrowed therefore mixes the two, and no reader in production does.
+
 Rootedness is removed as a concept. No edge type carries it and no node type seeds it. `ops graph rooted` and the `deployed` node flag go with it. Whether deleting a file breaks production is asked as a walk from a deployable rather than held as a flag.
 
 ## Code a page names
@@ -126,7 +128,7 @@ The `Said` memo at `build-context.ts` is the one held answer today, keyed by a f
 
 `folder`, `contains` and the list spelling of `node-kind` landed on 2026-08-27. `contains` stores nothing: what holds a node is its key with the last segment cut, and what a folder holds is one indexed pass over that repository's tracked keys.
 
-The relation index holds every relation edge the `frontmatter` producer derives: 121,716 derived against 124,655 held, 0 in the producer and not the index, and it reads 17 times faster. It names an attachment end off the naming convention wherever that file is tracked, and a path end under `relation/{property}/{repo}/{path}.jsonl`. A path stated with no `repo:` on the front is filed under the repository of the page stating it. It was filed under `instructions`, which has not existed since the fold, so all 317 `command-path` entries sat under a name nothing carries and no command page was required reading for the file it runs, against `page-type/old-ops-command` saying it is.
+The relation index holds every relation edge the `frontmatter` producer derives: 121,716 derived against 124,655 held, 0 in the producer and not the index, and it reads 17 times faster. It names an attachment end off the naming convention wherever that file is tracked, and a path end under `relation/{property}/{repo}/{path}.jsonl`. A path stated with no `repo:` on the front is filed under the repository of the page stating it. It was filed under `instructions`, which has not existed since the fold, so all 317 `command-path` entries sat under a name nothing carries and no command page was required reading for the file it runs, against `page-type/old-ops-command` saying it is. The 2,939 edges the index holds and the producer does not are every one of them `link`.
 
 `edgesInto` asks a producer's `into` and does not walk for it, so an `into` answering only part of its producer's edges makes the rest unreachable rather than slow. Only `contains` offers one today.
 
