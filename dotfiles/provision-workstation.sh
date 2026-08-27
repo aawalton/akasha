@@ -108,13 +108,14 @@ fi
 
 echo "==> Projecting the workstation-service documents into systemd units..."
 if [ -f "$AKASHA/tools/ops/cli.ts" ]; then
-  if ! (cd "$AKASHA" && bun ops service install --apply); then
-    echo "WARN: 'ops service install --apply' failed — every service that pages/service/*.md" >&2
-    echo "      describes is uninstalled on this box. Re-run it once the cause is cleared." >&2
+  if ! (cd "$AKASHA" && bun ops service install --all --apply); then
+    echo "WARN: 'ops service install --all --apply' failed — every service that" >&2
+    echo "      pages/workstation-service/*.md describes is uninstalled on this box." >&2
+    echo "      Re-run it once the cause is cleared." >&2
   fi
 else
-  echo "WARN: no akasha checkout at $AKASHA, so pages/service/*.md cannot be read" >&2
-  echo "      and none of the services it describes is installed." >&2
+  echo "WARN: no akasha checkout at $AKASHA, so pages/workstation-service/*.md cannot" >&2
+  echo "      be read and none of the services it describes is installed." >&2
 fi
 
 systemctl --user daemon-reload
@@ -169,9 +170,9 @@ echo
 echo "Done. Manual follow-up:"
 echo "  - Ensure the kubeconfig, ~/.secrets.env, tailscale enrollment, and home symlinks"
 echo "    (setup-symlinks.sh) are in place — those are not provisioned by this script."
-echo "  - Restore the workstation SMS outbound creds (TELNYX_FROM_NUMBER, TELNYX_API_KEY)"
-echo "    from their tracked SOPS source into ~/.secrets.env (reproducible from main, IaC):"
-echo "      sops -d packages/alanwalton/sms/cli/secrets/telnyx-outbound.sops.yaml"
-echo "    then add each as 'export KEY=value' (edit specific lines; never overwrite the file)."
+echo "  - The workstation SMS outbound creds (TELNYX_FROM_NUMBER, TELNYX_API_KEY) have no"
+echo "    tracked source in this repository. The tracked secrets carry only TELNYX_PUBLIC_KEY,"
+echo "    so these two exist solely in ~/.secrets.env on the live box and a rebuild cannot"
+echo "    reproduce them. Copy them off before wiping, and add each as 'export KEY=value'."
 echo "  - Once the akasha repo is in place, run 'bun ops claude-account sync-aliases' to"
 echo "    rebuild ~/.claude/account-aliases.json (the cN shell aliases) from the account pages."
