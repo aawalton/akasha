@@ -1,6 +1,6 @@
 import { RepairStored } from "../core/player-state"
 import { UpdatePanelIcon } from "../core/research-grid"
-import type { AccountOptions } from "../defaults/account-init"
+import type { AccountOptions } from "../data/account-init"
 import type { LangSuboptions } from "../lang/lang-table"
 import { state } from "../state"
 

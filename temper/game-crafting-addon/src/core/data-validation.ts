@@ -1,4 +1,4 @@
-import { Rune } from "../defaults/rune"
+import { Rune } from "../data/rune"
 import { SplitLink, StripLink } from "../helpers"
 import { state } from "../state"
 import * as Characters from "./characters"

@@ -1,6 +1,6 @@
 import { registerPanel } from "@temper/shared-interface-lam/register-panel"
 import { OptionSet, StyleInitialize } from "../core/options"
-import { AccountInit } from "../defaults/account-init"
+import { AccountInit } from "../data/account-init"
 import { state } from "../state"
 import {
   DropdownSettingsUpdate,

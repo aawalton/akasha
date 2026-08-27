@@ -1,4 +1,4 @@
-import type { RuneGlyphDef } from "../../defaults/rune"
+import type { RuneGlyphDef } from "../../data/rune"
 import { state } from "../../state"
 import * as RuneCrafting from "../rune-crafting"
 import { RuneHideVanillaUI, RuneInitialize } from "./panel"

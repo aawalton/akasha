@@ -1,5 +1,5 @@
-import { Cook } from "../defaults/cook"
-import { Furnisher } from "../defaults/furnisher"
+import { Cook } from "../data/cook"
+import { Furnisher } from "../data/furnisher"
 import { Lang } from "../lang"
 import { state } from "../state"
 import * as Inventory from "./inventory"

@@ -1,6 +1,6 @@
 import { CB_ADD_RESEARCH_ITEM, CB_UPDATE_PANEL_ICON } from "../constants"
-import type { AccountData } from "../defaults/account-init"
-import { RawItemTypes } from "../defaults/item-types"
+import type { AccountData } from "../data/account-init"
+import { RawItemTypes } from "../data/item-types"
 import { NilCheck, SplitLink, StripLink } from "../helpers"
 import { Lang } from "../lang"
 import { state } from "../state"

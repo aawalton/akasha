@@ -21,10 +21,10 @@ import { TooltipHandler } from "./core/tooltip-handler"
 import { ControlShow, ShowMain, UpdateScreen } from "./core/ui-updates"
 import { InventorySpace, PanelInitialize } from "./core/panel-init"
 import { Queue, ScrollText } from "./core/utilities"
-import { AccountInit } from "./defaults/account-init"
-import type { CharacterData } from "./defaults/char-init"
-import { CharInit } from "./defaults/char-init"
-import { Crafting } from "./defaults/crafting"
+import { AccountInit } from "./data/account-init"
+import type { CharacterData } from "./data/char-init"
+import { CharInit } from "./data/char-init"
+import { Crafting } from "./data/crafting"
 import {
   NewMovementInUIMode,
   OnActionLayerPushed,

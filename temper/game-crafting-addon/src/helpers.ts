@@ -1,5 +1,5 @@
-import { Furnisher } from "./defaults/furnisher"
-import { RawItemTypes } from "./defaults/item-types"
+import { Furnisher } from "./data/furnisher"
+import { RawItemTypes } from "./data/item-types"
 import { state } from "./state"
 
 export function SplitLink(link: string, nr: number): number | false | undefined {

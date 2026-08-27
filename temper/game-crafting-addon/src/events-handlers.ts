@@ -28,7 +28,7 @@ import {
 import { ControlCloseAll, InitPreviews } from "./core/ui-updates"
 import { InventorySpace } from "./core/panel-init"
 import { GetQuest, GetTimer } from "./core/utilities"
-import type { RuneRefineGlyphEntry, RuneTable } from "./defaults/rune"
+import type { RuneRefineGlyphEntry, RuneTable } from "./data/rune"
 import { HideControl } from "./helpers"
 import { MigrateJewelryIdSwap } from "./migrations/jewelry-swap"
 import { MigrateStoragePrune } from "./migrations/storage-prune"

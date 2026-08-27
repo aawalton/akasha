@@ -1,5 +1,5 @@
 import { CB_INVENTORY_SPACE } from "../constants"
-import type { RuneRefineGlyphEntry } from "../defaults/rune"
+import type { RuneRefineGlyphEntry } from "../data/rune"
 import { Chat } from "../helpers"
 import { state } from "../state"
 import * as Inventory from "./inventory"

@@ -1,4 +1,4 @@
-import { type CsQualityColor, Quality } from "../defaults/quality"
+import { type CsQualityColor, Quality } from "../data/quality"
 import { Chat, HideControl, ToChat } from "../helpers"
 import { state } from "../state"
 import * as PlayerState from "./player-state"

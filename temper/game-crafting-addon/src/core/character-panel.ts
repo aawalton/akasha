@@ -1,5 +1,5 @@
-import type { AccountPlayerEntry } from "../defaults/account-init"
-import { Classes, CraftIcon, Flags, Mount, Races } from "../defaults/icons"
+import type { AccountPlayerEntry } from "../data/account-init"
+import { Classes, CraftIcon, Flags, Mount, Races } from "../data/icons"
 import { Chat, Texture } from "../helpers"
 import { state } from "../state"
 import * as CharMeta from "./char-meta"

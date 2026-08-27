@@ -1,4 +1,4 @@
-import { Cook } from "../defaults/cook"
+import { Cook } from "../data/cook"
 import { SplitLink } from "../helpers"
 import { state } from "../state"
 import * as DataValidation from "./data-validation"

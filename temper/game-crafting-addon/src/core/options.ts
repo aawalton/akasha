@@ -1,4 +1,4 @@
-import { type CraftedSetEntry, Sets } from "../defaults/sets-data"
+import { type CraftedSetEntry, Sets } from "../data/sets-data"
 import { NilCheckSet, ToChat } from "../helpers"
 import { state } from "../state"
 import type { NameSortable } from "./player-state"

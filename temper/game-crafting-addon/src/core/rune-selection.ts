@@ -1,4 +1,4 @@
-import type { RuneGlyphDef } from "../defaults/rune"
+import type { RuneGlyphDef } from "../data/rune"
 import { SplitLink, ToChat } from "../helpers"
 import { state } from "../state"
 import type { RgbColor } from "./rune-crafting"

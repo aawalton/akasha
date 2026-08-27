@@ -39,8 +39,8 @@ import {
   SaveCoords,
   SetTitleText,
 } from "./core/xml-handlers"
-import type { AccountData } from "./defaults/account-init"
-import type { CharacterData } from "./defaults/char-init"
+import type { AccountData } from "./data/account-init"
+import type { CharacterData } from "./data/char-init"
 import { toSet } from "./helpers"
 import { state } from "./state"
 

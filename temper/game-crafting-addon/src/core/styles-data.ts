@@ -1,4 +1,4 @@
-import { Styles } from "../defaults/styles"
+import { Styles } from "../data/styles"
 import { IsPublishedAchievement, IsPublishedItem } from "../helpers"
 import { state } from "../state"
 import * as Knowledge from "./knowledge"

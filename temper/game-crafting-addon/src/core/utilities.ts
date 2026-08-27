@@ -1,5 +1,5 @@
 import { CB_UPDATE_PLAYER } from "../constants"
-import { Sets } from "../defaults/sets-data"
+import { Sets } from "../data/sets-data"
 import { state } from "../state"
 import * as Characters from "./characters"
 

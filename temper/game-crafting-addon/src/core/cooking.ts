@@ -1,5 +1,5 @@
 import { MAXCRAFT } from "../constants"
-import { Quality } from "../defaults/quality"
+import { Quality } from "../data/quality"
 import { Chat, HideControl } from "../helpers"
 import { state } from "../state"
 import * as Tooltips from "./tooltips"

@@ -1,4 +1,4 @@
-import { CraftIcon } from "../defaults/icons"
+import { CraftIcon } from "../data/icons"
 import { Chat, ToChat } from "../helpers"
 import { Lang } from "../lang"
 import { state } from "../state"

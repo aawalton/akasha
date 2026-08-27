@@ -1,5 +1,5 @@
 import { GetTrait } from "../core/data-validation"
-import type { StoredTraitItem } from "../defaults/account-init"
+import type { StoredTraitItem } from "../data/account-init"
 import { NilCheck } from "../helpers"
 import { state } from "../state"
 
