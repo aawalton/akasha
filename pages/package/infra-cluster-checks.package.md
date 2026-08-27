@@ -4,7 +4,7 @@ page-type-slug: package
 title: "Infra cluster checks"
 slug: infra-cluster-checks
 repo: instructions
-domain-parent-slug: domain/check
+domain-parent-slug: domain/old-check
 required-reading-slugs:
   - page-type/cluster-check
 ---

@@ -9,7 +9,7 @@ slug: cluster-check
 plural-slug: cluster-checks
 domain-parent-slug: domain/change-harness-cluster
 required-reading-slugs:
-  - domain/check
+  - domain/old-check
 ---
 
 # Definition

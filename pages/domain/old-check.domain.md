@@ -2,7 +2,7 @@
 id: 24098dfc-7cc8-5509-bac9-d9083e4d5ae8
 page-type-slug: domain
 title: "Check"
-slug: check
+slug: old-check
 domain-parent-slug: domain/instrument-kind
 ---
 

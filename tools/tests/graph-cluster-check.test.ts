@@ -62,7 +62,7 @@ const plant = (files: Record<string, string>): PageTree => ({
 const PAGES = plant({
   "pages/cluster-check/cluster-check-shellcheck.cluster-check.md": SHELLCHECK,
   "pages/cluster-check/cluster-check-ci-workflow-graph.cluster-check.md": GRAPH,
-  "pages/domain/check.domain.md": page(`slug: check\n`),
+  "pages/domain/old-check.domain.md": page(`slug: check\n`),
 })
 
 const WORKFLOW_SOURCE = [

@@ -6,7 +6,7 @@ slug: ops-checks
 domain-parent-slug: domain/ops-cli
 required-reading-slugs:
   - domain/ops-namespace
-  - domain/check
+  - domain/old-check
 ---
 
 # Definition

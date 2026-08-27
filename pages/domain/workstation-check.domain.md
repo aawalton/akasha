@@ -5,7 +5,7 @@ title: "Workstation check"
 slug: workstation-check
 domain-parent-slug: domain/change-harness-workstation
 required-reading-slugs:
-  - domain/check
+  - domain/old-check
 ---
 
 # Definition
