@@ -3,7 +3,9 @@
 import { spawnSync } from "node:child_process"
 import { existsSync, readFileSync } from "node:fs"
 import { join, relative } from "node:path"
-import { codeModule } from "../../../../tools/lib/code-import.ts"
+import { SERVICES } from "../../../scripts/src/generate-dockerfiles-registry.ts"
+import { getOutputPath } from "../../../scripts/src/generate-dockerfiles-tool.ts"
+import { parseDockerfileExtensions } from "../../../scripts/src/generate-dockerfiles-types.ts"
 import { parseArgs, REPO_ROOT_FLAG } from "../lib/cli-args.ts"
 import { examinePopulation } from "../../../../tools/lib/check-workflow/population"
 import { getRepoRoot } from "../lib/repo-root.ts"
@@ -12,8 +14,6 @@ import { exitOnResult, exitOnToolError } from "../../../../tools/lib/check-workf
 const PREFIX = "[service-dockerfiles-gitignored]"
 
 const REGISTRY_REL = "infra/scripts/src/generate-dockerfiles-registry.ts"
-const TOOL_REL = "infra/scripts/src/generate-dockerfiles-tool.ts"
-const TYPES_REL = "infra/scripts/src/generate-dockerfiles-types.ts"
 
 interface Violation {
   service: string
@@ -21,33 +21,17 @@ interface Violation {
   message: string
 }
 
-export interface ServiceConfigShape {
-  readonly dir: string
-  readonly extensionFile?: string
-}
-
-export interface DockerfileTooling {
-  readonly services: Readonly<Record<string, ServiceConfigShape>>
-  readonly getOutputPath: (
-    repoRoot: string,
-    config: ServiceConfigShape,
-    ext: Readonly<Record<string, unknown>>
-  ) => string
-  readonly parseDockerfileExtensions: (value: unknown) => Readonly<Record<string, unknown>>
-}
-
 export function computeExpectedDockerfilePaths(
-  repoRoot: string,
-  tooling: DockerfileTooling
+  repoRoot: string
 ): readonly { service: string; path: string }[] {
   const results: { service: string; path: string }[] = []
-  for (const [name, config] of Object.entries(tooling.services)) {
+  for (const [name, config] of Object.entries(SERVICES)) {
     const extFilename = config.extensionFile ?? "dockerfile-extensions.json"
     const extPath = join(repoRoot, config.dir, "deploy", extFilename)
     const ext = existsSync(extPath)
-      ? tooling.parseDockerfileExtensions(JSON.parse(readFileSync(extPath, "utf8")))
+      ? parseDockerfileExtensions(JSON.parse(readFileSync(extPath, "utf8")))
       : {}
-    const absolutePath = tooling.getOutputPath(repoRoot, config, ext)
+    const absolutePath = getOutputPath(repoRoot, config, ext)
     results.push({ service: name, path: relative(repoRoot, absolutePath) })
   }
   return results
@@ -82,35 +66,17 @@ export function trackedPaths(
   return new Set(proc.stdout.split("\0").filter((entry) => entry.length > 0))
 }
 
-async function readTooling(repoRoot: string): Promise<DockerfileTooling> {
-  const [registry, tool, types] = await Promise.all([
-    codeModule<{ SERVICES: Readonly<Record<string, ServiceConfigShape>> }>(REGISTRY_REL, repoRoot),
-    codeModule<{ getOutputPath: DockerfileTooling["getOutputPath"] }>(TOOL_REL, repoRoot),
-    codeModule<{ parseDockerfileExtensions: DockerfileTooling["parseDockerfileExtensions"] }>(
-      TYPES_REL,
-      repoRoot
-    ),
-  ])
-  return {
-    services: registry.SERVICES,
-    getOutputPath: tool.getOutputPath,
-    parseDockerfileExtensions: types.parseDockerfileExtensions,
-  }
-}
-
 if (import.meta.main) {
   const repoRoot =
     parseArgs(process.argv.slice(2), REPO_ROOT_FLAG, { passthrough: true }).flags.repoRoot ??
     getRepoRoot()
 
-  let tooling: DockerfileTooling
+  let expected: readonly { service: string; path: string }[]
   try {
-    tooling = await readTooling(repoRoot)
+    expected = computeExpectedDockerfilePaths(repoRoot)
   } catch (error) {
     exitOnToolError({ error, prefix: PREFIX })
   }
-
-  const expected = computeExpectedDockerfilePaths(repoRoot, tooling)
   const tracked = trackedPaths(
     repoRoot,
     expected.map((entry) => entry.path)
@@ -145,7 +111,7 @@ if (import.meta.main) {
     unit: "services",
     membership: {
       kind: "atLeast",
-      members: Object.keys(tooling.services).length,
+      members: Object.keys(SERVICES).length,
       from: `the \`SERVICES\` registry in \`${REGISTRY_REL}\``,
     },
     labelOf: (entry) => entry.service,

@@ -1,7 +1,9 @@
 #!/usr/bin/env bun
 
 import { readdirSync, readFileSync } from "node:fs"
-import { codeModule } from "../../../../tools/lib/code-import.ts"
+import * as semanticTokens from "@shared/design-tokens/semantic"
+import * as surfaceTokens from "@shared/design-tokens/surface"
+import * as textTokens from "@shared/design-tokens/text"
 import { parseArgs, REPO_ROOT_FLAG } from "../lib/cli-args.ts"
 import {
   type ColorToken,
@@ -22,8 +24,8 @@ import { exitOnResult, exitOnToolError } from "../../../../tools/lib/check-workf
 
 const PREFIX = "[design-tokens]"
 
-const TOKENS_CSS_REL = "packages/shared/design/system/src/styles/tokens.css"
-const TOKENS_SRC_REL = "packages/shared/design/tokens/src"
+const TOKENS_CSS_REL = "shared/design-system/src/styles/tokens.css"
+const TOKENS_SRC_REL = "shared/design-tokens/src"
 
 const READ_MODULES: readonly string[] = ["surface.ts", "semantic.ts", "text.ts"]
 
@@ -51,22 +53,22 @@ const TEXT_CSS_VARS: Record<string, string> = {
 }
 
 const MODULE_MAPS: readonly {
-  readonly specifier: string
+  readonly module: Record<string, unknown>
   readonly sourceRel: string
   readonly cssVarOf: Record<string, string>
 }[] = [
   {
-    specifier: "@shared/design-tokens/surface",
+    module: { ...surfaceTokens },
     sourceRel: `${TOKENS_SRC_REL}/surface.ts`,
     cssVarOf: SURFACE_CSS_VARS,
   },
   {
-    specifier: "@shared/design-tokens/semantic",
+    module: { ...semanticTokens },
     sourceRel: `${TOKENS_SRC_REL}/semantic.ts`,
     cssVarOf: SEMANTIC_CSS_VARS,
   },
   {
-    specifier: "@shared/design-tokens/text",
+    module: { ...textTokens },
     sourceRel: `${TOKENS_SRC_REL}/text.ts`,
     cssVarOf: TEXT_CSS_VARS,
   },
@@ -95,14 +97,14 @@ function specsOf(
     const rgb = module[tokenName]
     if (!isRgb(rgb))
       throw new Error(
-        `${sourceRel} is mapped to --${cssVar} through export "${tokenName}", which the module does not export as an Rgb tuple. Either the export was renamed or removed, or the mapping in check-design-tokens.ts is stale. The tokens package is loaded out of the code checkout at run time, so this mapping is held here rather than by a typechecker.`
+        `${sourceRel} is mapped to --${cssVar} through export "${tokenName}", which the module does not export as an Rgb tuple. Either the export was renamed or removed, or the mapping in check-design-tokens.ts is stale. The mapping runs from export name to CSS custom property, which no typechecker holds.`
       )
     specs.push({ tokenName, cssVar, rgb, sourceRel })
   }
   return specs
 }
 
-async function main(): Promise<undefined> {
+function main(): undefined {
   const repoRoot =
     parseArgs(process.argv.slice(2), REPO_ROOT_FLAG, { passthrough: true }).flags.repoRoot ??
     getRepoRoot()
@@ -126,15 +128,11 @@ async function main(): Promise<undefined> {
   let exported: readonly ExportedColor[]
   let vars: ReadonlyMap<string, Oklch>
   try {
-    const loaded = await Promise.all(
-      MODULE_MAPS.map(async (entry) => ({
-        entry,
-        module: await codeModule<Record<string, unknown>>(entry.specifier, repoRoot),
-      }))
+    specs = MODULE_MAPS.flatMap((entry) =>
+      specsOf(entry.sourceRel, entry.cssVarOf, entry.module)
     )
-    specs = loaded.flatMap(({ entry, module }) => specsOf(entry.sourceRel, entry.cssVarOf, module))
-    exported = loaded.flatMap(({ entry, module }) =>
-      Object.entries(module)
+    exported = MODULE_MAPS.flatMap((entry) =>
+      Object.entries(entry.module)
         .filter(([, value]) => isRgb(value))
         .map(([tokenName]) => ({ tokenName, sourceRel: entry.sourceRel }))
     )
@@ -174,4 +172,4 @@ async function main(): Promise<undefined> {
   })
 }
 
-await main()
+main()

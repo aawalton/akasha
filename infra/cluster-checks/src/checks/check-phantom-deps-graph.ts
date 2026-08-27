@@ -1,7 +1,7 @@
 import { existsSync, readFileSync } from "node:fs"
 import { resolve } from "node:path"
 import type { z } from "zod"
-import { codeModule } from "../../../../tools/lib/code-import.ts"
+import { getWorkspaceDeps } from "../../../scripts/src/generate-dockerfiles-deps.ts"
 import { createEngine } from "../../../../tools/lib/graph/engine.ts"
 import { readAt } from "../../../../tools/lib/graph/held-snapshot.ts"
 import { fileNodeProducer } from "../../../../tools/lib/graph/producers/file/file.node.producer.ts"
@@ -31,8 +31,6 @@ import {
   SKIP_SPECIFIERS,
 } from "./check-phantom-deps-filters.ts"
 
-const IMAGE_CLOSURE_REF = "infra/scripts/src/generate-dockerfiles-deps.ts"
-
 const MANIFEST = "package.json"
 
 export interface PackageImportInfo {
@@ -59,8 +57,6 @@ export interface WorkspaceGraph {
   readonly leastFrom: string
 }
 
-type ImageClosure = { readonly getWorkspaceDeps: (pkgJsonPath: string) => Set<string> }
-
 export async function buildReadGraph(ctx: BuildContext): Promise<Graph> {
   const engine = createEngine()
   await applyRegistrars(engine, registrarPaths(PRODUCERS_DIR))
@@ -69,11 +65,7 @@ export async function buildReadGraph(ctx: BuildContext): Promise<Graph> {
   return engine.build(ctx)
 }
 
-export function readDeclaredDeps(
-  repoRoot: string,
-  wsPath: string,
-  imageClosure: ImageClosure
-): DeclaredDeps {
+export function readDeclaredDeps(repoRoot: string, wsPath: string): DeclaredDeps {
   const empty: DeclaredDeps = { sites: new Map(), imageFollowed: new Set() }
   const pkgJsonPath = resolve(repoRoot, wsPath, MANIFEST)
   if (!existsSync(pkgJsonPath)) return empty
@@ -94,7 +86,7 @@ export function readDeclaredDeps(
       else sites.set(name, [site])
     }
   }
-  return { sites, imageFollowed: imageClosure.getWorkspaceDeps(pkgJsonPath) }
+  return { sites, imageFollowed: getWorkspaceDeps(pkgJsonPath) }
 }
 
 export function aggregateImports(
@@ -142,7 +134,6 @@ export async function loadWorkspaces(args: {
   const { repoRoot, treeSha } = args
   const { ctx } = readAt(treeSha)
   const graph = await buildReadGraph(ctx)
-  const imageClosure = await codeModule<ImageClosure>(IMAGE_CLOSURE_REF, repoRoot)
 
   const packageNodes = graph
     .nodes(PACKAGE_NODE_TYPE)
@@ -152,7 +143,7 @@ export async function loadWorkspaces(args: {
   const workspaces = packageNodes.map((attrs) => ({
     name: attrs.name,
     path: attrs.path,
-    declared: readDeclaredDeps(repoRoot, attrs.path, imageClosure),
+    declared: readDeclaredDeps(repoRoot, attrs.path),
     importedPackages: aggregateImports(byWorkspace.get(attrs.name) ?? []),
   }))
 
