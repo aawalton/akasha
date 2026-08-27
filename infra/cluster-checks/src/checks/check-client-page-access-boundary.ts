@@ -42,10 +42,9 @@ function hasLeadingUseClientDirective(source: string): boolean {
   return false
 }
 
-const BOUNDARY_PACKAGE_PREFIXES = ["packages/shared/pages/ui/", "packages/shared/pages/ui-store/"]
+const BOUNDARY_PACKAGE_PREFIXES = ["shared/pages-ui/", "shared/pages-ui-store/"]
 
 export function shouldScanFile(relPath: string, source: string): boolean {
-  if (!relPath.startsWith("packages/")) return false
   if (!relPath.endsWith(".ts") && !relPath.endsWith(".tsx")) return false
   if (BOUNDARY_PACKAGE_PREFIXES.some((prefix) => relPath.startsWith(prefix))) return false
   if (relPath.split("/").some((segment) => FILESYSTEM_WALK_EXEMPT_DIRS.has(segment))) return false
@@ -62,7 +61,7 @@ interface Census {
 function scan(repoRoot: string): Census {
   const files = findFiles({
     cwd: repoRoot,
-    patterns: ["packages/**/*.ts", "packages/**/*.tsx"],
+    patterns: ["**/*.ts", "**/*.tsx"],
     absolute: true,
   })
   let fileCount = 0
@@ -145,7 +144,7 @@ function main(): never {
       prefix: PREFIX,
       header:
         "new (non-grandfathered) browser-side page-access site(s) outside the client-state boundary — each line names the shape found and the act that clears it. The rule is Directive Is Not The Boundary",
-      successMessage: `ENFORCING — ${census.fileCount} use-client file(s) under packages/ scanned, 0 browser-side page-access site(s) outside the client-state boundary (0 direct pages-access calls, 0 raw from('pages') chains, 0 hand-rolled pages subscriptions)`,
+      successMessage: `ENFORCING — ${census.fileCount} use-client file(s) scanned, 0 browser-side page-access site(s) outside the client-state boundary (0 direct pages-access calls, 0 raw from('pages') chains, 0 hand-rolled pages subscriptions)`,
       population: census.population,
       formatViolation: formatFinding,
     },
