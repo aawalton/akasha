@@ -27,6 +27,10 @@ A formula names a property by putting its key between braces.
 
 A reference inside a text literal is filled where it stands.
 
+A date fills a text literal as it is written.
+
+A property declared `calendar-date` holds a date.
+
 A formula chooses between values with a case, and with nothing else.
 
 A case is written `case(`, its rows separated by commas, then `)`.

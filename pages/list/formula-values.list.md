@@ -17,4 +17,5 @@ domain-parent-slug: domain/formula-language
 - **boolean** — true or false.
 - **list** — several values of one kind, in order.
 - **instant** — a moment in time, which only a function taking one may read.
+- **date** — a day, written `2026-08-27`.
 - **absent** — what a formula gets where the page holds nothing under the key it read.
