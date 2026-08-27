@@ -1,6 +1,6 @@
 export const tool = {
   summary: "List the quarantined documents nothing cites, one path per line",
-  repos: ["akasha"],
+  path: "domain unreached",
 } as const
 
 import { readFileSync } from "node:fs"
