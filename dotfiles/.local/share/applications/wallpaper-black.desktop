@@ -1,5 +1,5 @@
 [Desktop Entry]
-Exec=/home/walton/repos/code/packages/shared/dotfiles/bin/wallpaper-black
+Exec=/home/walton/repos/akasha/dotfiles/bin/wallpaper-black
 Name=Wallpaper Black
 NoDisplay=true
 StartupNotify=false
