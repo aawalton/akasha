@@ -54,6 +54,13 @@ export function reachedThroughSrc(relPath: string): boolean {
   return tail.split("/").includes("src")
 }
 
+const SYNTH_GLOBS: readonly Bun.Glob[] = DISCOVERY_GLOBS.map((pattern) => new Bun.Glob(pattern))
+
+export function isSynthPath(relPath: string): boolean {
+  if (reachedThroughSrc(relPath)) return false
+  return SYNTH_GLOBS.some((glob) => glob.match(relPath))
+}
+
 export function pathHasComponent(relPath: string, target: string): boolean {
   for (const component of relPath.split("/")) {
     if (NON_IDENTIFIER_COMPONENTS.has(component)) continue
