@@ -6,6 +6,8 @@ export const PAGE_TYPE = "worktree"
 
 export const MEMORY = "memory"
 
+export const ORIGIN = "origin"
+
 const BRANCH_AT = "branch refs/heads/"
 
 const WORKTREE_AT = "worktree "
@@ -73,6 +75,24 @@ export function pageOf(memoryRoot: string, name: string): string {
     fail(`no page states ${name}, so nothing says it is this system's worktree`)
   }
   return relPath
+}
+
+export function onOrigin(root: string, name: string): boolean {
+  const listed = ran(root, ["ls-remote", "--heads", ORIGIN, name])
+  return listed.ok && listed.said !== ""
+}
+
+export function takeTreeAway(root: string, tree: Tree, remote: boolean): readonly string[] {
+  const left: string[] = []
+  if (existsSync(tree.at) && !ran(root, ["worktree", "remove", "--force", tree.at]).ok) {
+    left.push(`its tree at ${tree.at}`)
+  }
+  const stands = ran(root, ["rev-parse", "--verify", "--quiet", `refs/heads/${tree.name}`]).ok
+  if (stands && !ran(root, ["branch", "-D", tree.name]).ok) left.push(`the branch ${tree.name}`)
+  if (remote && !ran(root, ["push", ORIGIN, "--delete", tree.name]).ok) {
+    left.push(`${ORIGIN}/${tree.name}`)
+  }
+  return left
 }
 
 export function rejectUnknownFlags(argv: readonly string[], known: readonly string[]): void {
