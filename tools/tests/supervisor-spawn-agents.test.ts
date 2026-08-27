@@ -56,7 +56,7 @@ const RENDERED: readonly RenderCase[] = [
   },
 ]
 
-describe("rendering the --agents payload, held against what the code repository asserts", () => {
+describe("rendering the --agents payload, held against the standing its port was taken from", () => {
   for (const one of RENDERED) {
     it(one.name, () => {
       const answer = decided("ported", { value: renderSubagentDefinitions(one.raw), notice: null })
@@ -96,9 +96,9 @@ interface LaunchCase {
   readonly standing: string | null
 }
 
-// `AKASHA_ROOT` IS THE ROOT THIS READS. This named `INSTRUCTIONS_ROOT`, which nothing reads now
-// that the instructions repository is absorbed, so it ran against the live checkout — where the
-// command is there and answers definitions, which is not what this case is about.
+// `AKASHA_ROOT` IS THE ROOT THIS READS, and the case turns on it naming a tree that is not
+// there. Left alone it would run against the live checkout, where the command is there and
+// answers definitions, which is not what this case is about.
 const LAUNCHED: readonly LaunchCase[] = [
   {
     name: "resolves to no flag rather than throwing into the launch",
