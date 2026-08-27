@@ -1,5 +1,6 @@
 ---
 id: 32b497ae-b73a-577e-86a8-7fec95a9e751
+slug: required-reading-unread
 page-type-slug: refusal
 title: "Required reading unread"
 holes:

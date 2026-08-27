@@ -1,6 +1,7 @@
 ---
 page-type-slug: relationship
 id: 019db533-f382-78a6-bdb3-e611dc025c4d
+slug: ki-goff
 title: "Ki Goff"
 current-circle: affiliates
 commitment: 4

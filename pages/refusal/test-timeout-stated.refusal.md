@@ -1,5 +1,6 @@
 ---
 id: 5d131530-feee-5822-9b7e-b3c1af9c93fd
+slug: test-timeout-stated
 page-type-slug: refusal
 title: "Test timeout stated"
 holes:

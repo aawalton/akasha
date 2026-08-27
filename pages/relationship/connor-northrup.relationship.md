@@ -1,6 +1,7 @@
 ---
 page-type-slug: relationship
 id: 019db533-f382-79be-a5aa-bbf9bad9d42f
+slug: connor-northrup
 title: "Connor Northrup"
 current-circle: acquaintances
 commitment: 4

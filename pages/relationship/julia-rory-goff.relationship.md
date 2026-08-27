@@ -1,6 +1,7 @@
 ---
 page-type-slug: relationship
 id: 019db533-f382-7894-99ab-c8947b22f242
+slug: julia-rory-goff
 title: "Julia + Rory Goff"
 current-circle: acquaintances
 commitment: 2

@@ -1,6 +1,7 @@
 ---
 page-type-slug: relationship
 id: 019db533-f382-78c9-9a17-e2f7d8127181
+slug: liz-joe-ellis
 title: "Liz + Joe Ellis"
 commitment: 2
 connection: 2

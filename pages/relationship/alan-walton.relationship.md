@@ -1,6 +1,7 @@
 ---
 page-type-slug: relationship
 id: 019db533-f384-7d1e-bdc3-11c0b0ce3d74
+slug: alan-walton
 title: "Alan Walton"
 commitment: 5
 connection: 5

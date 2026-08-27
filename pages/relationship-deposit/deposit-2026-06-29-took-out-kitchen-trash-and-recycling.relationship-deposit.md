@@ -1,6 +1,7 @@
 ---
 page-type-slug: relationship-deposit
 id: 019f14b9-e08b-737c-9a6f-e2f82df6e090
+slug: deposit-2026-06-29-took-out-kitchen-trash-and-recycling
 title: "Deposit — 2026-06-29 — took out kitchen trash and recycling"
 icon: "file-text"
 date: 2026-06-29

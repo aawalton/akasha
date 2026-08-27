@@ -1,6 +1,7 @@
 ---
 page-type-slug: relationship-deposit
 id: 019f1d7c-8513-7a4d-a1f7-5996a152e573
+slug: deposit-2026-06-30-cart-milk-garbage-bags-for-jen-at-costco
 title: "Deposit — 2026-06-30 — cart, milk, garbage bags for Jen at Costco"
 icon: "file-text"
 date: 2026-06-30

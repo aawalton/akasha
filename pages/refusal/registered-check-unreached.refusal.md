@@ -1,5 +1,6 @@
 ---
 id: a25a35fa-dcc6-59b5-893f-6e363371bc30
+slug: registered-check-unreached
 page-type-slug: refusal
 title: "Registered check unreached"
 holes:

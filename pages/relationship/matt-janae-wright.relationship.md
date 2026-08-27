@@ -1,6 +1,7 @@
 ---
 page-type-slug: relationship
 id: 019db533-f382-7920-97d9-50f63ff10d4a
+slug: matt-janae-wright
 title: "Matt + Janae Wright"
 current-circle: community
 commitment: 4

@@ -1,5 +1,6 @@
 ---
 id: 3638020c-fbf1-58fb-b1aa-cf978c14735b
+slug: seat-documents-unread
 page-type-slug: refusal
 title: "Seat documents unread"
 holes:

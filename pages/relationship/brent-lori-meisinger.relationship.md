@@ -1,6 +1,7 @@
 ---
 page-type-slug: relationship
 id: 019db533-f384-7d65-a68a-8c177f4dcf90
+slug: brent-lori-meisinger
 title: "Brent + Lori Meisinger"
 current-circle: acquaintances
 commitment: 3

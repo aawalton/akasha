@@ -1,6 +1,7 @@
 ---
 page-type-slug: relationship-deposit
 id: 019f14b9-d96a-7b15-8ec0-1e633787ea7d
+slug: deposit-2026-06-29-looked-at-deck-carpet-options-with-jen
 title: "Deposit — 2026-06-29 — looked at deck carpet options with Jen"
 icon: "file-text"
 date: 2026-06-29

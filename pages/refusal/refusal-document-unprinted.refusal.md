@@ -1,5 +1,6 @@
 ---
 id: fd3ef433-d335-5a61-9647-2ca3c10c7555
+slug: refusal-document-unprinted
 page-type-slug: refusal
 title: "Refusal document unprinted"
 holes:

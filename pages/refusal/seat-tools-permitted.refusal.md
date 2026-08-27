@@ -1,5 +1,6 @@
 ---
 id: 920a58a1-217c-5d98-9178-11ecff928370
+slug: seat-tools-permitted
 page-type-slug: refusal
 title: "Seat tools permitted"
 ---

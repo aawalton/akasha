@@ -1,5 +1,6 @@
 ---
 id: 20834e07-140b-57a0-925e-92716f8a3c1c
+slug: property-definitions-absent
 page-type-slug: refusal
 title: "Property definitions absent"
 holes:

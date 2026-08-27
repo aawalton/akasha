@@ -1,6 +1,7 @@
 ---
 page-type-slug: relationship
 id: 019db533-f382-757e-93d6-8b217ef99d58
+slug: jennifer-walton
 title: "Jennifer Walton"
 current-circle: pair-bond
 commitment: 5

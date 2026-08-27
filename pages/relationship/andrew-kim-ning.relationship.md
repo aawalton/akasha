@@ -1,6 +1,7 @@
 ---
 page-type-slug: relationship
 id: 019db533-f384-7da0-b58a-5f096bc75afc
+slug: andrew-kim-ning
 title: "Andrew + Kim Ning"
 current-circle: acquaintances
 commitment: 3

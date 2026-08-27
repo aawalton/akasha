@@ -1,5 +1,6 @@
 ---
 id: 2a085241-7624-5683-a309-8b0ee4da9bb1
+slug: seat-documents-moved
 page-type-slug: refusal
 title: "Seat documents moved"
 holes:

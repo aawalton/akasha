@@ -1,5 +1,6 @@
 ---
 id: f2a0684e-61d0-539a-8950-7692a6f74009
+slug: user-settings-dead-registration
 page-type-slug: refusal
 title: "User settings dead registration"
 holes:

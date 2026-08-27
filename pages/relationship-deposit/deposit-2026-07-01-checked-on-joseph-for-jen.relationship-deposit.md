@@ -1,6 +1,7 @@
 ---
 page-type-slug: relationship-deposit
 id: 019f20e1-0c9d-78fd-8150-32bf9068dd10
+slug: deposit-2026-07-01-checked-on-joseph-for-jen
 title: "Deposit — 2026-07-01 — Checked on Joseph for Jen"
 icon: "file-text"
 date: 2026-07-01

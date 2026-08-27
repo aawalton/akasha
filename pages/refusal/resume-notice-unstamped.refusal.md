@@ -1,5 +1,6 @@
 ---
 id: e32f8899-79b4-5607-b6d5-4c2671eff9d1
+slug: resume-notice-unstamped
 page-type-slug: refusal
 title: "Resume notice unstamped"
 holes:

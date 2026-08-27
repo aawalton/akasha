@@ -1,6 +1,7 @@
 ---
 page-type-slug: relationship
 id: 019db533-f385-7127-a3f8-360008227617
+slug: devin-northrup
 title: "Devin Northrup"
 current-circle: acquaintances
 commitment: 4

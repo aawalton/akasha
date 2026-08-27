@@ -1,6 +1,7 @@
 ---
 page-type-slug: relationship
 id: 019db533-f385-70ee-bc93-482514534a82
+slug: jeff-harmon
 title: "Jeff Harmon"
 current-circle: acquaintances
 commitment: 2

@@ -1,5 +1,6 @@
 ---
 id: 7b63a313-49a5-5858-a2b1-4575ac2be2a5
+slug: writer-unidentified
 page-type-slug: refusal
 title: "Writer unidentified"
 ---

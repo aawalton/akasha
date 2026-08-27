@@ -1,5 +1,6 @@
 ---
 id: cfdc0953-f1a8-5074-ba81-7b349adb46c5
+slug: property-type-vocabulary-unread
 page-type-slug: refusal
 title: "Property type vocabulary unread"
 holes:

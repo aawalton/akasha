@@ -1,6 +1,7 @@
 ---
 page-type-slug: relationship
 id: 019db533-f382-77f7-87ea-7cf70e32924a
+slug: lizzy-walton
 title: "Lizzy Walton"
 current-circle: intimates
 commitment: 5

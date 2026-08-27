@@ -1,6 +1,7 @@
 ---
 page-type-slug: relationship
 id: 019db533-f382-79cf-a10d-2aec4dd2feac
+slug: chris-mccarthy
 title: "Chris Mccarthy"
 current-circle: community
 commitment: 2

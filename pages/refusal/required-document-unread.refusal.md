@@ -1,5 +1,6 @@
 ---
 id: d9bf688c-c3d3-5bdd-910c-51a6b802b028
+slug: required-document-unread
 page-type-slug: refusal
 title: "Required document unread"
 holes:

@@ -1,6 +1,7 @@
 ---
 page-type-slug: relationship
 id: 019db533-f384-7e1d-835f-7c60a788406f
+slug: mark-julia-ballif
 title: "Mark + Julia Ballif"
 current-circle: affiliates
 commitment: 4

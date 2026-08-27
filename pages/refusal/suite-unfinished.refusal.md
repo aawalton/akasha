@@ -1,5 +1,6 @@
 ---
 id: 1d57de8c-7106-50ec-af8f-9144c52e2fe1
+slug: suite-unfinished
 page-type-slug: refusal
 title: "Suite unfinished"
 holes:

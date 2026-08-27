@@ -1,6 +1,7 @@
 ---
 page-type-slug: relationship
 id: 019db533-f382-760a-ac20-62caa1650dd6
+slug: eryn
 title: "Eryn"
 current-circle: acquaintances
 commitment: 3

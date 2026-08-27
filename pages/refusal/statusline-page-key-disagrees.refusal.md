@@ -1,5 +1,6 @@
 ---
 id: 002835d8-8bb7-5112-a6c8-c97f3215b284
+slug: statusline-page-key-disagrees
 page-type-slug: refusal
 title: "Statusline page key disagrees"
 holes:

@@ -1,5 +1,6 @@
 ---
 id: fd7467b5-a28e-59e9-97f2-5a8594e159a5
+slug: property-default-and-required
 page-type-slug: refusal
 title: "Property default and required"
 holes:

@@ -1,6 +1,7 @@
 ---
 page-type-slug: relationship
 id: 019db533-f382-78da-b148-9dddea46ce14
+slug: david-wingate
 title: "David Wingate"
 current-circle: acquaintances
 commitment: 2

@@ -1,5 +1,6 @@
 ---
 id: 28be1b55-f0f2-5929-ad82-cc3a7bf39dca
+slug: restart-clause-absent
 page-type-slug: refusal
 title: "Restart clause absent"
 ---

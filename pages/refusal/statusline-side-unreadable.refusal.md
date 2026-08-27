@@ -1,5 +1,6 @@
 ---
 id: ef683292-b860-5c15-a6b9-f4d9262bbfb7
+slug: statusline-side-unreadable
 page-type-slug: refusal
 title: "Statusline side unreadable"
 holes:

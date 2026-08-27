@@ -1,6 +1,7 @@
 ---
 page-type-slug: relationship
 id: 019db533-f382-7978-b0cc-a77d337c9faf
+slug: eddie-goitia-michelle-blake
 title: "Eddie Goitia + Michelle Blake"
 current-circle: acquaintances
 commitment: 2

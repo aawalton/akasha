@@ -1,6 +1,7 @@
 ---
 page-type-slug: relationship
 id: 019db533-f385-7052-ac24-9776ebde0add
+slug: gary-niki-thornock
 title: "Gary + Niki Thornock"
 current-circle: acquaintances
 commitment: 3

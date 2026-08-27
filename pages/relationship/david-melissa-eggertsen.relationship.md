@@ -1,6 +1,7 @@
 ---
 page-type-slug: relationship
 id: 019db533-f382-75d6-aa77-372d69ba27c3
+slug: david-melissa-eggertsen
 title: "David + Melissa Eggertsen"
 current-circle: affiliates
 commitment: 5

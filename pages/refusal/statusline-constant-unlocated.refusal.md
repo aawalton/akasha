@@ -1,5 +1,6 @@
 ---
 id: f1d11ae9-1c9f-5ca9-8f59-ae8aa8ac6ede
+slug: statusline-constant-unlocated
 page-type-slug: refusal
 title: "Statusline constant unlocated"
 holes:

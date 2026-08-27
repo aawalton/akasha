@@ -1,5 +1,6 @@
 ---
 id: f9dcb589-172f-5a36-827b-afbd507d3a8d
+slug: required-document-unopenable
 page-type-slug: refusal
 title: "Required document unopenable"
 holes:

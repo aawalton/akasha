@@ -1,5 +1,6 @@
 ---
 id: b30bbe0c-bcdf-5437-872f-fcdf6479642e
+slug: property-type-name-undeclared
 page-type-slug: refusal
 title: "Property type name undeclared"
 holes:

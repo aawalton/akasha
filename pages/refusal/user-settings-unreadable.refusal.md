@@ -1,5 +1,6 @@
 ---
 id: e7eb71e4-b0c7-566f-8f08-dc5249690bbc
+slug: user-settings-unreadable
 page-type-slug: refusal
 title: "User settings unreadable"
 holes:

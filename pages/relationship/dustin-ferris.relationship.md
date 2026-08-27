@@ -1,6 +1,7 @@
 ---
 page-type-slug: relationship
 id: 019db533-f384-7e36-b10d-b20e536359cc
+slug: dustin-ferris
 title: "Dustin Ferris"
 commitment: 1
 connection: 2

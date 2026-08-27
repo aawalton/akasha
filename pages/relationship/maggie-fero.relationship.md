@@ -1,6 +1,7 @@
 ---
 page-type-slug: relationship
 id: 019db533-f385-70b2-b82e-8dd3024a4d8d
+slug: maggie-fero
 title: "Maggie Fero"
 current-circle: acquaintances
 commitment: 2

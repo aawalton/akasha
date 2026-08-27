@@ -1,5 +1,6 @@
 ---
 id: 61509bd5-9e66-520a-8f18-673a9d9cc09b
+slug: resume-notice-unasked
 page-type-slug: refusal
 title: "Resume notice unasked"
 holes:

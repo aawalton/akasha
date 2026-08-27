@@ -1,5 +1,6 @@
 ---
 id: d95b14ba-71b9-5083-9730-fff1ab3d4bfc
+slug: refusal-value-surplus
 page-type-slug: refusal
 title: "Refusal value surplus"
 holes:

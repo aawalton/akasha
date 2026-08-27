@@ -1,5 +1,6 @@
 ---
 id: f8b9aa1f-c890-5b75-aa01-5893f104e3c5
+slug: required-reading-writer-unidentified
 page-type-slug: refusal
 title: "Required reading writer unidentified"
 holes:

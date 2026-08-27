@@ -1,5 +1,6 @@
 ---
 id: b3227d63-5a60-5d28-af83-d185cae0bd31
+slug: seat-documents-unread-after-context-loss
 page-type-slug: refusal
 title: "Seat documents unread after context loss"
 holes:

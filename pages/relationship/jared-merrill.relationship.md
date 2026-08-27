@@ -1,6 +1,7 @@
 ---
 page-type-slug: relationship
 id: 019db533-f382-799b-aa23-1343c090c116
+slug: jared-merrill
 title: "Jared Merrill"
 current-circle: acquaintances
 commitment: 4

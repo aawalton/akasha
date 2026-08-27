@@ -1,5 +1,6 @@
 ---
 id: 785ae138-dc7d-5bf0-87bc-b054d424bcec
+slug: resume-notices-unreadable
 page-type-slug: refusal
 title: "Resume notices unreadable"
 ---

@@ -1,6 +1,7 @@
 ---
 page-type-slug: relationship
 id: 019db533-f385-7069-b98a-233b92d9f0c1
+slug: clay-carol-stevens
 title: "Clay + Carol Stevens"
 current-circle: acquaintances
 commitment: 3

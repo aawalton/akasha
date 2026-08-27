@@ -1,6 +1,7 @@
 ---
 page-type-slug: relationship
 id: 019db533-f382-76cc-8b61-db80ccd76973
+slug: kelsie-cummings
 title: "Kelsie Cummings"
 current-circle: acquaintances
 commitment: 3

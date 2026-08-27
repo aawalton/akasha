@@ -1,5 +1,6 @@
 ---
 id: 9173f1d2-9be2-5893-8eee-ce6585fa23fd
+slug: resume-notice-absent
 page-type-slug: refusal
 title: "Resume notice absent"
 holes:

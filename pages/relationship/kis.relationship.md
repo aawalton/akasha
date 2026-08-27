@@ -1,6 +1,7 @@
 ---
 page-type-slug: relationship
 id: 019f4cf4-156b-702f-b8c5-482e6569368d
+slug: kis
 title: "Kis"
 icon: "file-text"
 current-circle: acquaintances

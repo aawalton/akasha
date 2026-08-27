@@ -1,5 +1,6 @@
 ---
 id: 4cd8d6f6-a257-593a-bc35-b66ff7f349aa
+slug: required-reading-unread-elsewhere
 page-type-slug: refusal
 title: "Required reading unread elsewhere"
 holes:

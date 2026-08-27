@@ -1,5 +1,6 @@
 ---
 id: e3c88a72-7595-5166-8b49-db01c13918bd
+slug: statusline-slots-disagree
 page-type-slug: refusal
 title: "Statusline slots disagree"
 holes:

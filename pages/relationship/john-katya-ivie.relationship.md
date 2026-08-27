@@ -1,6 +1,7 @@
 ---
 page-type-slug: relationship
 id: 019db533-f384-7fbf-84f9-17e1aee7f9e8
+slug: john-katya-ivie
 title: "John + Katya Ivie"
 current-circle: acquaintances
 commitment: 4

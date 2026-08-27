@@ -1,5 +1,6 @@
 ---
 id: e8fa3948-f02d-576c-af2d-0550b1de7908
+slug: subagent-documents-unread
 page-type-slug: refusal
 title: "Subagent documents unread"
 holes:

@@ -1,6 +1,7 @@
 ---
 page-type-slug: relationship
 id: 019db533-f382-7a04-b178-079df8a6fe5f
+slug: brad-rhees
 title: "Brad Rhees"
 current-circle: acquaintances
 commitment: 3

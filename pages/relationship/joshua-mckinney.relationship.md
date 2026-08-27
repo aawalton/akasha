@@ -1,6 +1,7 @@
 ---
 page-type-slug: relationship
 id: 019db533-f382-7d5b-935b-9dcbb32c6d4a
+slug: joshua-mckinney
 title: "Joshua Mckinney"
 current-circle: affiliates
 commitment: 5

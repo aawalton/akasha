@@ -1,5 +1,6 @@
 ---
 id: 1c207a68-5414-550d-b74d-54ceab79c0d7
+slug: refusal-values-unreadable
 page-type-slug: refusal
 title: "Refusal values unreadable"
 holes:

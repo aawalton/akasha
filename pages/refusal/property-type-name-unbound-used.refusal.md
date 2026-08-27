@@ -1,5 +1,6 @@
 ---
 id: e49051f9-9be8-5f14-9eb8-a3f9400d3fa2
+slug: property-type-name-unbound-used
 page-type-slug: refusal
 title: "Property type name unbound used"
 holes:

@@ -1,5 +1,6 @@
 ---
 id: f41444a5-3222-5481-bc06-ad195ca47a3a
+slug: refusal-hole-unfilled
 page-type-slug: refusal
 title: "Refusal hole unfilled"
 holes:

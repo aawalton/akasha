@@ -1,6 +1,7 @@
 ---
 page-type-slug: relationship
 id: 019db533-f384-7d71-88db-325834599ae3
+slug: mark-jeanette-ivie
 title: "Mark + Jeanette Ivie"
 commitment: 3
 connection: 3

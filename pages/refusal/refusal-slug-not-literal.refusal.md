@@ -1,5 +1,6 @@
 ---
 id: 1269371d-efca-5575-9872-c0a588a34b0c
+slug: refusal-slug-not-literal
 page-type-slug: refusal
 title: "Refusal slug not literal"
 holes:

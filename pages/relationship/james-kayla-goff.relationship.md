@@ -1,6 +1,7 @@
 ---
 page-type-slug: relationship
 id: 019db533-f382-790f-b6a9-da6045bafb10
+slug: james-kayla-goff
 title: "James + Kayla Goff"
 current-circle: acquaintances
 commitment: 4

@@ -1,6 +1,7 @@
 ---
 page-type-slug: relationship
 id: 019db533-f384-7e96-9fa5-0be3218b0f4b
+slug: brent-rebecca-ivie
 title: "Brent + Rebecca Ivie"
 commitment: 3
 connection: 2

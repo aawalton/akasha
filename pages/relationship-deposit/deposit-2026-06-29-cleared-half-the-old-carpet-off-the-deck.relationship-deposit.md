@@ -1,6 +1,7 @@
 ---
 page-type-slug: relationship-deposit
 id: 019f151b-26e1-7bc7-94ec-f1959f94dbff
+slug: deposit-2026-06-29-cleared-half-the-old-carpet-off-the-deck
 title: "Deposit — 2026-06-29 — cleared half the old carpet off the deck"
 icon: "file-text"
 date: 2026-06-29
