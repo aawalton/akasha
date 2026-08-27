@@ -1,6 +1,6 @@
 {
   "workspaces": {
-    "packages/automation/core": {
+    "automation/core": {
       "entry": [
         "**/*.test.{ts,tsx}"
       ],

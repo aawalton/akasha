@@ -1,6 +1,6 @@
 {
   "workspaces": {
-    "packages/archive-of-worlds/web": {
+    "archive-of-worlds/web": {
       "entry": [
         "app/**/*.{ts,tsx}",
         "tunnel-routes.ts",

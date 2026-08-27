@@ -1,6 +1,6 @@
 {
   "workspaces": {
-    "packages/temper/addons": {
+    "temper/addons": {
       "entry": [
         "*/src/**/*.ts!",
         "scripts/**/*.ts!"
@@ -12,7 +12,7 @@
         "plugins/**"
       ]
     },
-    "packages/temper/game/characters": {
+    "temper/game-characters": {
       "entry": [
         "**/*.test.{ts,tsx}"
       ],
@@ -20,135 +20,55 @@
         "**/*.ts"
       ]
     },
-    "packages/temper/game/characters/champion-points": {
+    "temper/game-characters-champion-points": {
       "entry": [],
       "project": [
         "**/*.ts"
       ]
     },
-    "packages/temper/game/characters/character": {
+    "temper/game-characters-character": {
       "entry": [],
       "project": [
         "**/*.ts"
       ]
     },
-    "packages/temper/game/characters/character/ui": {
-      "entry": [],
-      "project": [
-        "**/*.{ts,tsx}"
-      ]
-    },
-    "packages/temper/game/characters/classes": {
-      "entry": [],
-      "project": [
-        "**/*.ts"
-      ]
-    },
-    "packages/temper/game/characters/equipment": {
-      "entry": [],
-      "project": [
-        "**/*.ts"
-      ]
-    },
-    "packages/temper/game/characters/equipment/ui": {
+    "temper/game-characters-character-ui": {
       "entry": [],
       "project": [
         "**/*.{ts,tsx}"
       ]
     },
-    "packages/temper/game/characters/races": {
+    "temper/game-characters-classes": {
       "entry": [],
       "project": [
         "**/*.ts"
       ]
     },
-    "packages/temper/game/characters/skill-lines": {
+    "temper/game-characters-equipment": {
       "entry": [],
       "project": [
         "**/*.ts"
       ]
     },
-    "packages/temper/game/characters/skills": {
-      "entry": [
-        "**/*.test.{ts,tsx}"
-      ],
-      "project": [
-        "**/*.ts"
-      ]
-    },
-    "packages/temper/game/characters/skills/morphs/access": {
-      "entry": [],
-      "project": [
-        "**/*.ts"
-      ]
-    },
-    "packages/temper/game/characters/skills/morphs/addon": {
-      "entry": [
-        "src/**/*.ts!"
-      ],
-      "project": [
-        "**/*.ts!"
-      ]
-    },
-    "packages/temper/game/characters/skills/morphs/core": {
-      "entry": [
-        "**/*.test.{ts,tsx}"
-      ],
-      "project": [
-        "**/*.ts"
-      ]
-    },
-    "packages/temper/game/characters/stats": {
-      "entry": [],
-      "project": [
-        "**/*.ts"
-      ]
-    },
-    "packages/temper/game/companions/addon": {
-      "entry": [
-        "src/**/*.ts!"
-      ],
-      "project": [
-        "**/*.ts!"
-      ]
-    },
-    "packages/temper/game/companions/core": {
-      "entry": [
-        "**/*.test.{ts,tsx}"
-      ],
-      "project": [
-        "**/*.ts"
-      ]
-    },
-    "packages/temper/game/companions/ui": {
+    "temper/game-characters-equipment-ui": {
       "entry": [],
       "project": [
         "**/*.{ts,tsx}"
       ]
     },
-    "packages/temper/game/completion": {
-      "entry": [
-        "**/*.test.{ts,tsx}"
-      ],
-      "project": [
-        "**/*.ts"
-      ]
-    },
-    "packages/temper/game/items/addon": {
-      "entry": [
-        "src/**/*.ts!"
-      ],
-      "project": [
-        "**/*.ts!"
-      ]
-    },
-    "packages/temper/game/items/alchemy": {
+    "temper/game-characters-races": {
       "entry": [],
       "project": [
         "**/*.ts"
       ]
     },
-    "packages/temper/game/items/core": {
+    "temper/game-characters-skill-lines": {
+      "entry": [],
+      "project": [
+        "**/*.ts"
+      ]
+    },
+    "temper/game-characters-skills": {
       "entry": [
         "**/*.test.{ts,tsx}"
       ],
@@ -156,47 +76,13 @@
         "**/*.ts"
       ]
     },
-    "packages/temper/game/items/rules/core": {
-      "entry": [
-        "**/*.test.{ts,tsx}"
-      ],
+    "temper/game-characters-skills-morphs-access": {
+      "entry": [],
       "project": [
         "**/*.ts"
       ]
     },
-    "packages/temper/game/items/rules/eval": {
-      "entry": [
-        "**/*.test.{ts,tsx}"
-      ],
-      "project": [
-        "**/*.ts"
-      ]
-    },
-    "packages/temper/game/items/rules/matcher": {
-      "entry": [
-        "**/*.test.{ts,tsx}"
-      ],
-      "project": [
-        "**/*.ts"
-      ]
-    },
-    "packages/temper/game/items/rules/routing": {
-      "entry": [
-        "**/*.test.{ts,tsx}"
-      ],
-      "project": [
-        "**/*.ts"
-      ]
-    },
-    "packages/temper/game/items/rules/routing-core": {
-      "entry": [
-        "**/*.test.{ts,tsx}"
-      ],
-      "project": [
-        "**/*.ts"
-      ]
-    },
-    "packages/temper/game/trading/addon": {
+    "temper/game-characters-skills-morphs-addon": {
       "entry": [
         "src/**/*.ts!"
       ],
@@ -204,7 +90,7 @@
         "**/*.ts!"
       ]
     },
-    "packages/temper/game/trading/core": {
+    "temper/game-characters-skills-morphs-core": {
       "entry": [
         "**/*.test.{ts,tsx}"
       ],
@@ -212,7 +98,21 @@
         "**/*.ts"
       ]
     },
-    "packages/temper/game/trading/pricing": {
+    "temper/game-characters-stats": {
+      "entry": [],
+      "project": [
+        "**/*.ts"
+      ]
+    },
+    "temper/game-companions-addon": {
+      "entry": [
+        "src/**/*.ts!"
+      ],
+      "project": [
+        "**/*.ts!"
+      ]
+    },
+    "temper/game-companions-core": {
       "entry": [
         "**/*.test.{ts,tsx}"
       ],
@@ -220,7 +120,107 @@
         "**/*.ts"
       ]
     },
-    "packages/temper/game/trading/pricing/client": {
+    "temper/game-companions-ui": {
+      "entry": [],
+      "project": [
+        "**/*.{ts,tsx}"
+      ]
+    },
+    "temper/game-completion": {
+      "entry": [
+        "**/*.test.{ts,tsx}"
+      ],
+      "project": [
+        "**/*.ts"
+      ]
+    },
+    "temper/game-items-addon": {
+      "entry": [
+        "src/**/*.ts!"
+      ],
+      "project": [
+        "**/*.ts!"
+      ]
+    },
+    "temper/game-items-alchemy": {
+      "entry": [],
+      "project": [
+        "**/*.ts"
+      ]
+    },
+    "temper/game-items-core": {
+      "entry": [
+        "**/*.test.{ts,tsx}"
+      ],
+      "project": [
+        "**/*.ts"
+      ]
+    },
+    "temper/game-items-rules-core": {
+      "entry": [
+        "**/*.test.{ts,tsx}"
+      ],
+      "project": [
+        "**/*.ts"
+      ]
+    },
+    "temper/game-items-rules-eval": {
+      "entry": [
+        "**/*.test.{ts,tsx}"
+      ],
+      "project": [
+        "**/*.ts"
+      ]
+    },
+    "temper/game-items-rules-matcher": {
+      "entry": [
+        "**/*.test.{ts,tsx}"
+      ],
+      "project": [
+        "**/*.ts"
+      ]
+    },
+    "temper/game-items-rules-routing": {
+      "entry": [
+        "**/*.test.{ts,tsx}"
+      ],
+      "project": [
+        "**/*.ts"
+      ]
+    },
+    "temper/game-items-rules-routing-core": {
+      "entry": [
+        "**/*.test.{ts,tsx}"
+      ],
+      "project": [
+        "**/*.ts"
+      ]
+    },
+    "temper/game-trading-addon": {
+      "entry": [
+        "src/**/*.ts!"
+      ],
+      "project": [
+        "**/*.ts!"
+      ]
+    },
+    "temper/game-trading-core": {
+      "entry": [
+        "**/*.test.{ts,tsx}"
+      ],
+      "project": [
+        "**/*.ts"
+      ]
+    },
+    "temper/game-trading-pricing": {
+      "entry": [
+        "**/*.test.{ts,tsx}"
+      ],
+      "project": [
+        "**/*.ts"
+      ]
+    },
+    "temper/game-trading-pricing-client": {
       "entry": [
         "src/index.ts"
       ],
@@ -228,7 +228,7 @@
         "**/*.ts"
       ]
     },
-    "packages/temper/player/build-validation": {
+    "temper/player-build-validation": {
       "entry": [
         "**/*.test.{ts,tsx}"
       ],
@@ -236,7 +236,7 @@
         "**/*.ts"
       ]
     },
-    "packages/temper/player/completion": {
+    "temper/player-completion": {
       "entry": [
         "**/*.test.{ts,tsx}"
       ],
@@ -244,7 +244,7 @@
         "**/*.ts"
       ]
     },
-    "packages/temper/player/completion/addon": {
+    "temper/player-completion-addon": {
       "entry": [
         "src/**/*.ts!"
       ],
@@ -252,25 +252,25 @@
         "**/*.ts!"
       ]
     },
-    "packages/temper/player/completion/skills-morphs-ui": {
+    "temper/player-completion-skills-morphs-ui": {
       "entry": [],
       "project": [
         "**/*.{ts,tsx}"
       ]
     },
-    "packages/temper/player/completion/ui": {
+    "temper/player-completion-ui": {
       "entry": [],
       "project": [
         "**/*.{ts,tsx}"
       ]
     },
-    "packages/temper/player/economics/core": {
+    "temper/player-economics-core": {
       "entry": [],
       "project": [
         "**/*.ts"
       ]
     },
-    "packages/temper/player/economics/ui": {
+    "temper/player-economics-ui": {
       "entry": [
         "**/*.test.{ts,tsx}"
       ],
@@ -278,7 +278,7 @@
         "**/*.{ts,tsx}"
       ]
     },
-    "packages/temper/player/inventory-management/ui": {
+    "temper/player-inventory-management-ui": {
       "entry": [
         "**/*.test.{ts,tsx}"
       ],
@@ -286,13 +286,13 @@
         "**/*.{ts,tsx}"
       ]
     },
-    "packages/temper/player/profile": {
+    "temper/player-profile": {
       "entry": [],
       "project": [
         "**/*.{ts,tsx}"
       ]
     },
-    "packages/temper/scripts": {
+    "temper/scripts": {
       "entry": [
         "src/**/*.script.ts",
         "src/**/*.test.ts"
@@ -301,7 +301,7 @@
         "src/**/*.ts"
       ]
     },
-    "packages/temper/shared/build-deploy/addons-resolve": {
+    "temper/shared-build-deploy-addons-resolve": {
       "entry": [
         "**/*.test.{ts,tsx}"
       ],
@@ -309,7 +309,7 @@
         "**/*.ts"
       ]
     },
-    "packages/temper/shared/build-deploy/checks": {
+    "temper/shared-build-deploy-checks": {
       "entry": [
         "src/check-*.ts",
         "src/**/*.test.ts"
@@ -318,7 +318,7 @@
         "src/**/*.ts"
       ]
     },
-    "packages/temper/shared/build-deploy/lua-runner": {
+    "temper/shared-build-deploy-lua-runner": {
       "entry": [
         "**/*.test.{ts,tsx}",
         "tests/**/*.ts"
@@ -327,7 +327,7 @@
         "**/*.ts"
       ]
     },
-    "packages/temper/shared/engine": {
+    "temper/shared-engine": {
       "entry": [
         "**/*.test.{ts,tsx}"
       ],
@@ -335,7 +335,7 @@
         "**/*.ts"
       ]
     },
-    "packages/temper/shared/formula-framework": {
+    "temper/shared-formula-framework": {
       "entry": [
         "**/*.test.{ts,tsx}"
       ],
@@ -343,7 +343,7 @@
         "**/*.ts"
       ]
     },
-    "packages/temper/shared/foundation-misc/dungeons": {
+    "temper/shared-foundation-misc-dungeons": {
       "entry": [
         "**/*.test.{ts,tsx}"
       ],
@@ -351,7 +351,7 @@
         "**/*.ts"
       ]
     },
-    "packages/temper/web": {
+    "temper/web": {
       "entry": [
         "app/**/*.{ts,tsx}!",
         "**/*.test.ts",

@@ -1,6 +1,6 @@
 {
   "workspaces": {
-    "packages/audhdalan/web": {
+    "audhdalan/web": {
       "entry": [
         "app/**/*.{ts,tsx}",
         "tunnel-routes.ts",

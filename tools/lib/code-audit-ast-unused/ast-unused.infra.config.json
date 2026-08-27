@@ -1,6 +1,6 @@
 {
   "workspaces": {
-    "packages/infra/auth-proxy": {
+    "infra/auth-proxy": {
       "entry": [
         "**/*.test.{ts,tsx}",
         "*.workflow.ts",
@@ -10,7 +10,7 @@
         "**/*.ts"
       ]
     },
-    "packages/infra/ci/workflows": {
+    "infra/ci-workflows": {
       "entry": [
         "**/*.test.{ts,tsx}",
         "*.workflow.ts",
@@ -23,7 +23,7 @@
         "**/*.ts"
       ]
     },
-    "packages/infra/git/cli": {
+    "infra/git-cli": {
       "entry": [
         "**/*.test.{ts,tsx}"
       ],
@@ -31,7 +31,7 @@
         "**/*.ts"
       ]
     },
-    "packages/infra/git/porcelain": {
+    "infra/git-porcelain": {
       "entry": [
         "**/*.test.{ts,tsx}"
       ],
@@ -39,7 +39,7 @@
         "**/*.ts"
       ]
     },
-    "packages/infra/git/transport": {
+    "infra/git-transport": {
       "entry": [
         "**/*.test.{ts,tsx}",
         "*.workflow.ts",
@@ -49,7 +49,7 @@
         "**/*.ts"
       ]
     },
-    "packages/infra/k8s": {
+    "infra/k8s": {
       "entry": [
         "lib/**/*.ts",
         "**/synth.ts",
@@ -59,7 +59,7 @@
         "**/*.ts"
       ]
     },
-    "packages/infra/k8s/synth": {
+    "infra/k8s-synth": {
       "entry": [
         "**/*.test.{ts,tsx}",
         "src/manifests.ts"
@@ -68,7 +68,7 @@
         "**/*.ts"
       ]
     },
-    "packages/infra/loki/service": {
+    "infra/loki-service": {
       "entry": [
         "foundation.workflow.ts"
       ],
@@ -76,7 +76,7 @@
         "**/*.ts"
       ]
     },
-    "packages/infra/scripts": {
+    "infra/scripts": {
       "entry": [
         "**/*.test.{ts,tsx}",
         "migrations/**/*.ts",
@@ -89,7 +89,7 @@
         "**/*.ts"
       ]
     },
-    "packages/infra/seaweedfs": {
+    "infra/seaweedfs": {
       "entry": [
         "foundation.workflow.ts",
         "tunnel-routes.ts"

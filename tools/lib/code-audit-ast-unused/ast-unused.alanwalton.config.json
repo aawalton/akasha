@@ -1,6 +1,6 @@
 {
   "workspaces": {
-    "packages/alanwalton/atlas/web": {
+    "alanwalton/atlas-web": {
       "entry": [
         "app/**/*.{ts,tsx}",
         "tunnel-routes.ts",
@@ -16,7 +16,7 @@
         "**/*.{ts,tsx}"
       ]
     },
-    "packages/alanwalton/health-samples/access": {
+    "alanwalton/health-samples-access": {
       "entry": [
         "**/*.test.{ts,tsx}"
       ],
@@ -24,13 +24,13 @@
         "**/*.ts"
       ]
     },
-    "packages/alanwalton/sms/access": {
+    "alanwalton/sms-access": {
       "entry": [],
       "project": [
         "**/*.ts"
       ]
     },
-    "packages/alanwalton/voice/core": {
+    "alanwalton/voice-core": {
       "entry": [
         "**/*.test.{ts,tsx}"
       ],
@@ -38,7 +38,7 @@
         "**/*.ts"
       ]
     },
-    "packages/alanwalton/web": {
+    "alanwalton/web": {
       "entry": [
         "app/**/*.{ts,tsx}",
         "app-capacitor/**/*.{ts,tsx}!",

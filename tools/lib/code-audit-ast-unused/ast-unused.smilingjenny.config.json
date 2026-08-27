@@ -1,6 +1,6 @@
 {
   "workspaces": {
-    "packages/smilingjenny/web": {
+    "smilingjenny/web": {
       "entry": [
         "app/**/*.{ts,tsx}",
         "tunnel-routes.ts",

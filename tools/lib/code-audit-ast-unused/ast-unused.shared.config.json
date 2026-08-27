@@ -1,12 +1,12 @@
 {
   "workspaces": {
-    "packages/shared/auth": {
+    "shared/auth": {
       "entry": [],
       "project": [
         "**/*.ts"
       ]
     },
-    "packages/shared/design/badges": {
+    "shared/design-badges": {
       "entry": [
         "**/*.test.{ts,tsx}"
       ],
@@ -14,7 +14,7 @@
         "**/*.{ts,tsx}"
       ]
     },
-    "packages/shared/design/forms": {
+    "shared/design-forms": {
       "entry": [
         "**/*.test.{ts,tsx}"
       ],
@@ -22,7 +22,7 @@
         "**/*.{ts,tsx}"
       ]
     },
-    "packages/shared/design/layout": {
+    "shared/design-layout": {
       "entry": [
         "**/*.test.{ts,tsx}"
       ],
@@ -30,7 +30,7 @@
         "**/*.{ts,tsx}"
       ]
     },
-    "packages/shared/design/patterns": {
+    "shared/design-patterns": {
       "entry": [
         "**/*.test.{ts,tsx}"
       ],
@@ -38,7 +38,7 @@
         "**/*.{ts,tsx}"
       ]
     },
-    "packages/shared/design/primitives": {
+    "shared/design-primitives": {
       "entry": [
         "**/*.test.{ts,tsx}"
       ],
@@ -46,7 +46,7 @@
         "**/*.{ts,tsx}"
       ]
     },
-    "packages/shared/design/system": {
+    "shared/design-system": {
       "entry": [
         "**/*.test.{ts,tsx}"
       ],
@@ -54,7 +54,7 @@
         "**/*.{ts,tsx}"
       ]
     },
-    "packages/shared/monarch-categorization-access": {
+    "shared/monarch-categorization-access": {
       "entry": [
         "**/*.test.{ts,tsx}"
       ],
@@ -62,7 +62,7 @@
         "**/*.ts"
       ]
     },
-    "packages/shared/object-store": {
+    "shared/object-store": {
       "entry": [
         "**/*.test.{ts,tsx}"
       ],
@@ -70,7 +70,7 @@
         "**/*.ts"
       ]
     },
-    "packages/shared/pages/access": {
+    "shared/pages-access": {
       "entry": [
         "**/*.test.{ts,tsx}"
       ],
@@ -78,7 +78,7 @@
         "**/*.ts"
       ]
     },
-    "packages/shared/pages/core": {
+    "shared/pages-core": {
       "entry": [
         "**/*.test.{ts,tsx}"
       ],
@@ -86,7 +86,7 @@
         "**/*.ts"
       ]
     },
-    "packages/shared/pages/ui": {
+    "shared/pages-ui": {
       "entry": [
         "**/*.test.{ts,tsx}",
         "test/**/*.{ts,tsx}"
@@ -95,7 +95,7 @@
         "**/*.{ts,tsx}"
       ]
     },
-    "packages/shared/pages/ui-store": {
+    "shared/pages-ui-store": {
       "entry": [
         "**/*.test.{ts,tsx}"
       ],
@@ -103,7 +103,7 @@
         "**/*.ts"
       ]
     },
-    "packages/shared/pages/url": {
+    "shared/pages-url": {
       "entry": [
         "**/*.test.{ts,tsx}"
       ],
@@ -111,7 +111,7 @@
         "**/*.ts"
       ]
     },
-    "packages/shared/person-access": {
+    "shared/person-access": {
       "entry": [
         "**/*.test.{ts,tsx}"
       ],
@@ -119,13 +119,13 @@
         "**/*.ts"
       ]
     },
-    "packages/shared/person-authority": {
+    "shared/person-authority": {
       "entry": [],
       "project": [
         "**/*.ts"
       ]
     },
-    "packages/shared/person-document": {
+    "shared/person-document": {
       "entry": [
         "**/*.test.{ts,tsx}"
       ],
@@ -133,13 +133,13 @@
         "**/*.ts"
       ]
     },
-    "packages/shared/person-enrolment": {
+    "shared/person-enrolment": {
       "entry": [],
       "project": [
         "**/*.ts"
       ]
     },
-    "packages/shared/person-target": {
+    "shared/person-target": {
       "entry": [
         "**/*.test.{ts,tsx}"
       ],
@@ -147,7 +147,7 @@
         "**/*.ts"
       ]
     },
-    "packages/shared/recurrence": {
+    "shared/recurrence": {
       "entry": [
         "**/*.test.{ts,tsx}"
       ],
@@ -155,7 +155,7 @@
         "**/*.ts"
       ]
     },
-    "packages/shared/status-bar-access": {
+    "shared/status-bar-access": {
       "entry": [
         "**/*.test.{ts,tsx}"
       ],
@@ -163,7 +163,7 @@
         "**/*.ts"
       ]
     },
-    "packages/shared/supabase/auth": {
+    "shared/supabase-auth": {
       "entry": [
         "**/*.test.{ts,tsx}"
       ],
@@ -171,19 +171,19 @@
         "**/*.ts"
       ]
     },
-    "packages/shared/supabase/client": {
+    "shared/supabase-client": {
       "entry": [],
       "project": [
         "**/*.ts"
       ]
     },
-    "packages/shared/supabase/database": {
+    "shared/supabase-database": {
       "entry": [],
       "project": [
         "**/*.ts"
       ]
     },
-    "packages/shared/supabase/rr": {
+    "shared/supabase-rr": {
       "entry": [
         "**/*.test.{ts,tsx}"
       ],
@@ -191,7 +191,7 @@
         "**/*.ts"
       ]
     },
-    "packages/shared/supabase/server": {
+    "shared/supabase-server": {
       "entry": [
         "**/*.test.{ts,tsx}"
       ],
@@ -199,7 +199,7 @@
         "**/*.ts"
       ]
     },
-    "packages/shared/utils/narrow": {
+    "shared/utils-narrow": {
       "entry": [
         "**/*.test.{ts,tsx}"
       ],
@@ -207,7 +207,7 @@
         "**/*.ts"
       ]
     },
-    "packages/shared/utils/sync": {
+    "shared/utils-sync": {
       "entry": [
         "**/*.test.{ts,tsx}"
       ],
@@ -215,7 +215,7 @@
         "**/*.ts"
       ]
     },
-    "packages/shared/utils/test": {
+    "shared/utils-test": {
       "entry": [
         "**/*.test.{ts,tsx}"
       ],
@@ -223,7 +223,7 @@
         "**/*.ts"
       ]
     },
-    "packages/shared/verdict": {
+    "shared/verdict": {
       "entry": [
         "**/*.test.{ts,tsx}"
       ],
@@ -231,7 +231,7 @@
         "**/*.ts"
       ]
     },
-    "packages/shared/pages/query": {
+    "shared/pages-query": {
       "entry": [
         "**/*.test.{ts,tsx}"
       ],
