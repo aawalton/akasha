@@ -28,7 +28,6 @@ function storeAt(at: Fixture): void {
   at.document("pages/domain/global.domain.md", `slug: global\ndomain-parent-slug: global\n${CLAIMED}: akasha:initiatives/own-editor.md`, 20)
   at.readIt(AGENT, "pages/page-type/initiative.page-type.md")
   at.readIt(AGENT, "pages/domain/global.domain.md")
-  at.put("tools/scratch-note.md", "The project was created against `initiatives/ambient-hud.md`.\n")
   at.put("initiatives/ambient-hud.md", initiative("alan-harness", "The heads-up display tells him nothing."))
   at.put(
     "initiatives/own-editor.md",
@@ -49,14 +48,10 @@ function storeAt(at: Fixture): void {
   indexFixture(at)
 }
 
-function runMv(
-  at: Fixture,
-  args: readonly string[],
-  from: string = at.root
-): { code: number; err: string } {
+function runMv(at: Fixture, args: readonly string[]): { code: number; err: string } {
   const proc = Bun.spawnSync({
     cmd: ["bun", ...toolArgv("mv.ts", args)],
-    cwd: from,
+    cwd: at.root,
     // `AKASHA_ROOT` NAMES THE TEMP REPO. This set `INSTRUCTIONS_ROOT` and `MEMORY_ROOT`, naming
     // repositories that are gone: nothing reads them, so `mv` ran against the live checkout.
     env: { ...process.env, AGENT_ID: AGENT, AKASHA_ROOT: at.root, HOME: at.home },
@@ -92,35 +87,6 @@ describe("which repo a rename addresses", () => {
       // record, which is uncommitted by design and is not a file this rename either moved or
       // repointed.
       expect(git(at.root, ["status", "--porcelain", "--", "initiatives", "pages", "tools"])).toBe("")
-    } finally {
-      at.dispose()
-    }
-  })
-
-  test("the instructions repo is not searched, so its own spelling of the moved path stands", () => {
-    const at = fixture()
-    try {
-      storeAt(at)
-      const before = readFileSync(`${at.root}/tools/scratch-note.md`, "utf8")
-      runMv(at, INTO_A_FOLDER)
-      expect(readFileSync(`${at.root}/tools/scratch-note.md`, "utf8")).toBe(before)
-    } finally {
-      at.dispose()
-    }
-  })
-
-  test("run from the instructions root the same pair is taken against it, which the refusal names", () => {
-    const at = fixture()
-    try {
-      storeAt(at)
-      const run = runMv(
-        at,
-        ["--from", "initiatives/ambient-hud.md", "--to", "initiatives/amy/ambient-hud.md"],
-        at.root
-      )
-      expect(run.code).toBe(1)
-      expect(run.err).toContain(at.root)
-      expect(existsSync(`${at.root}/initiatives/ambient-hud.md`)).toBe(true)
     } finally {
       at.dispose()
     }
