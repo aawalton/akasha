@@ -5,7 +5,7 @@ title: "Export declared here"
 slug: export-declared-here
 needs: file
 cached: false
-check-on-patch: false
+check-on-patch: true
 check-on-worktree: false
 ---
 
