@@ -55,7 +55,7 @@ Environment:
   K8S_API_BASE       The k8s API server this reaches. Required.
   K8S_CA_CERT_B64    That API server's CA certificate, base64.
   MEMORY_ROOT        The memory checkout holding the step and pipeline pages.
-  INSTRUCTIONS_ROOT  The instructions checkout holding the page types and properties.
+  AKASHA_ROOT        The akasha checkout holding the page types and properties.
 `
 
 function sleepAbortable(ms: number, signal: AbortSignal): Promise<boolean> {

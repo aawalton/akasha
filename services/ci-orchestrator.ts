@@ -43,7 +43,7 @@ Usage:
 Environment:
   MEMORY_ROOT        The memory checkout holding the pipeline, workflow and step pages.
                      Defaults to the checkout beside this repository.
-  INSTRUCTIONS_ROOT  The instructions checkout holding the page types and the property
+  AKASHA_ROOT        The akasha checkout holding the page types and the property
                      definitions those pages are read through. Defaults to this one.
 `
 
