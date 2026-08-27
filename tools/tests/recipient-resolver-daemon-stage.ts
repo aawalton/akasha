@@ -1,6 +1,16 @@
 
 import { afterAll } from "bun:test"
-import { chmodSync, copyFileSync, cpSync, mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
+import {
+  chmodSync,
+  copyFileSync,
+  cpSync,
+  mkdirSync,
+  mkdtempSync,
+  readdirSync,
+  rmSync,
+  symlinkSync,
+  writeFileSync,
+} from "node:fs"
 import { dirname, join } from "node:path"
 import { fileURLToPath } from "node:url"
 
@@ -9,12 +19,19 @@ const REPO = join(HERE, "..", "..")
 
 export const STAGE = mkdtempSync("/var/tmp/recipient-resolver-daemon-")
 export const FAKE_HOME = join(STAGE, "home")
-for (const dir of ["lib", "aw", "document", "gates", "ops", "page"]) {
-  cpSync(join(REPO, "tools", dir), join(STAGE, "tools", dir), { recursive: true })
+// EVERY TOP-LEVEL ENTRY BUT `tools` AND `services` IS LINKED RATHER THAN COPIED. A named list of
+// the directories the daemon reaches goes stale the moment one moves, and it did: `tools/document`
+// was absorbed, so the stage threw as it loaded and no case ran at all. Linking the tree whole
+// leaves nothing to keep in step, `node_modules` and the workspace packages included.
+//
+// `tools` IS COPIED because the stubs below overwrite files in it, and the daemon is copied
+// because bun resolves a module by its real path — reached through a link it would import the real
+// siblings this stage stands to replace, which is what the guard in `drive` refuses a verdict for.
+for (const entry of readdirSync(REPO)) {
+  if (entry === "tools" || entry === "services") continue
+  symlinkSync(join(REPO, entry), join(STAGE, entry))
 }
-for (const dir of ["monarch", "settings"]) {
-  cpSync(join(REPO, dir), join(STAGE, dir), { recursive: true })
-}
+cpSync(join(REPO, "tools"), join(STAGE, "tools"), { recursive: true })
 mkdirSync(join(STAGE, "services"), { recursive: true })
 copyFileSync(
   join(REPO, "services", "recipient-resolver-daemon.ts"),
@@ -94,7 +111,7 @@ export async function runRecipientResolverTick(deps: {
 `
 )
 
-export const FAKE_BIN = join(FAKE_HOME, "code")
+export const FAKE_BIN = join(FAKE_HOME, "bin")
 mkdirSync(FAKE_BIN, { recursive: true })
 const FAKE_OPS = join(FAKE_BIN, "ops")
 writeFileSync(
@@ -131,7 +148,6 @@ export function drive(env: Record<string, string>): Answer {
     env: {
       ...process.env,
       HOME: FAKE_HOME,
-      CODE_ROOT: FAKE_BIN,
       PATH: `${FAKE_BIN}:${process.env.PATH ?? ""}`,
       ...env,
     },
