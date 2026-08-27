@@ -4,7 +4,7 @@
  *--------------------------------------------------------------------------------------------*/
 import * as path from 'node:path';
 import { z } from 'zod';
-import { akashaRoot, memoryRoot, repositoryPath, runVerb, turnColoursVerbPath } from '../harness-call';
+import { akashaRoot, repositoryPath, runVerb, turnColoursVerbPath } from '../harness-call';
 import { colorNamed } from '../palette';
 
 /**
@@ -52,10 +52,8 @@ import { colorNamed } from '../palette';
  */
 export const SEAT_SIDECAR_GLOB = '*.uncommitted.yaml';
 
-/** Where seat pages stand under the memory checkout, the place they are moving to first. */
+/** Where seat pages stand under the akasha checkout. */
 const AKASHA_SEAT_DIR = path.join('agent', 'seat');
-
-const MEMORY_SEAT_DIR_NAMES: readonly string[] = [path.join('pages', 'seat'), 'seats'];
 
 /**
  * The directories the seats' pages stand in, for a caller that wants to watch them for changes.
@@ -65,14 +63,13 @@ const MEMORY_SEAT_DIR_NAMES: readonly string[] = [path.join('pages', 'seat'), 's
  * colour should change — and it is a moment no terminal event marks. What the watcher triggers is
  * a fresh ask, rather than a read of the file that just moved.
  *
- * TWO DIRECTORIES BECAUSE THE PAGES ARE MID-MOVE. Seat pages are migrating from `seats/` to
- * `pages/seat/` and both hold live pages today. The harness reads both — see `seatDirs` in
- * `tools/lib/seat-presence-read.ts` — and a watcher that took only one would go quiet for every
- * seat on the other side of the move. This list goes away when the move does, not before.
+ * ONE DIRECTORY, AND IT IS AKASHA'S. Seat pages stand in `akasha:agent/seat` and nowhere else:
+ * `SEAT_PLACES` in `tools/lib/agent-page-place.ts` is what the harness reads them by and it
+ * names that one place. A watcher pointed anywhere else does not fail — it goes quiet, and the
+ * colour it exists to refresh falls back to whatever else happens to fire.
  *
- * ONE MEMORY ROOT FOR THE WATCH AND THE ASK. `memoryRoot` is the same `MEMORY_ROOT`-or-sibling
- * pair the harness resolves these directories by, so what is watched is what the verb this watch
- * triggers will read.
+ * STILL A LIST, because every caller stands up one watch per entry and a second place for seat
+ * pages should be a line here rather than a change at each of them.
  *
  * ANSWERED THROUGH `repositoryPath`, which is what keeps each to one watch. `/home` on this
  * machine is a symlink to `var/home`, so an unresolved path names the same directory the workspace
@@ -84,11 +81,7 @@ const MEMORY_SEAT_DIR_NAMES: readonly string[] = [path.join('pages', 'seat'), 's
  * was first imported.
  */
 export function seatDirs(): readonly string[] {
-	const memory = memoryRoot();
-	return [
-		repositoryPath(path.join(akashaRoot(), AKASHA_SEAT_DIR)),
-		...MEMORY_SEAT_DIR_NAMES.map((name) => repositoryPath(path.join(memory, name))),
-	];
+	return [repositoryPath(path.join(akashaRoot(), AKASHA_SEAT_DIR))];
 }
 
 /**
