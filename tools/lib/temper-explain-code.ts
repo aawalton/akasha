@@ -1,15 +1,13 @@
-import { codeModule } from "./code-import.ts"
+import { classifyItemToNodeIds } from "@temper/game-items-core/classify-item-node-ids"
+import { parseInventoryContent } from "@temper/game-items-core/inventory-parser"
+import { parseItemLink } from "@temper/game-items-core/item-link-parser"
+import { locationConditionFromKeyAndBag } from "@temper/game-items-core/location-condition"
+import { computeStockGroups } from "@temper/game-items-rules-eval/compute-stock-groups"
+import { walkRules } from "@temper/game-items-rules-eval/evaluator"
 import * as cliEvalEnv from "./temper-inventory/cli-eval-env.ts"
 import * as cliItemFacts from "./temper-inventory/cli-item-facts.ts"
 import * as parseCharacters from "./temper-inventory/parse-temper-characters.ts"
 import * as parseInventoryConfig from "./temper-inventory/parse-temper-inventory-config.ts"
-
-const CLASSIFY = "@temper/game-items-core/classify-item-node-ids"
-const INVENTORY_PARSER = "@temper/game-items-core/inventory-parser"
-const ITEM_LINK_PARSER = "@temper/game-items-core/item-link-parser"
-const LOCATION_CONDITION = "@temper/game-items-core/location-condition"
-const STOCK_GROUPS = "@temper/game-items-rules-eval/compute-stock-groups"
-const EVALUATOR = "@temper/game-items-rules-eval/evaluator"
 
 export interface InventoryItemData {
   readonly itemId: number
@@ -129,10 +127,10 @@ export interface ResolvedInventoryItem {
 }
 
 export interface ExplainCapabilities {
-  readonly parseItemLink: (input: string) => { readonly itemId: number } | null
+  readonly parseItemLink: typeof parseItemLink
   readonly parseInventoryContent: (content: string) => InventoryDatabase
   readonly classifyItemToNodeIds: (item: InventoryItemData) => ReadonlyArray<string>
-  readonly locationConditionFromKeyAndBag: (key: string, bagId: number) => LocationConditionId
+  readonly locationConditionFromKeyAndBag: typeof locationConditionFromKeyAndBag
   readonly cliItemFactsFromInventoryItem: (
     item: InventoryItemData,
     nodeIds: ReadonlyArray<string>,
@@ -174,23 +172,15 @@ export async function explainCapabilities(): Promise<ExplainCapabilities> {
     ExplainCapabilities,
     "loadTemperInventoryConfigFromPath"
   >
-  const [links, parser, classify, location, groups, evaluator] = await Promise.all([
-    codeModule<Pick<ExplainCapabilities, "parseItemLink">>(ITEM_LINK_PARSER),
-    codeModule<Pick<ExplainCapabilities, "parseInventoryContent">>(INVENTORY_PARSER),
-    codeModule<Pick<ExplainCapabilities, "classifyItemToNodeIds">>(CLASSIFY),
-    codeModule<Pick<ExplainCapabilities, "locationConditionFromKeyAndBag">>(LOCATION_CONDITION),
-    codeModule<Pick<ExplainCapabilities, "computeStockGroups">>(STOCK_GROUPS),
-    codeModule<Pick<ExplainCapabilities, "walkRules">>(EVALUATOR),
-  ])
   return {
-    parseItemLink: links.parseItemLink,
-    parseInventoryContent: parser.parseInventoryContent,
-    classifyItemToNodeIds: classify.classifyItemToNodeIds,
-    locationConditionFromKeyAndBag: location.locationConditionFromKeyAndBag,
+    parseItemLink,
+    parseInventoryContent,
+    classifyItemToNodeIds,
+    locationConditionFromKeyAndBag,
     cliItemFactsFromInventoryItem: facts.cliItemFactsFromInventoryItem,
     buildCliEvalEnv: env.buildCliEvalEnv,
-    computeStockGroups: groups.computeStockGroups,
-    walkRules: evaluator.walkRules,
+    computeStockGroups,
+    walkRules,
     loadTemperCharactersFromPath: characters.loadTemperCharactersFromPath,
     loadTemperInventoryConfigFromPath: config.loadTemperInventoryConfigFromPath,
   }
