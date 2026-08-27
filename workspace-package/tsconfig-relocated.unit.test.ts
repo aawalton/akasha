@@ -107,18 +107,32 @@ describe("tsconfigRelocated", () => {
     expect(out.renamed).toContainEqual({ spec: "../core", to: "../game-items-core" })
   })
 
-  const BLOCKED = ["packages/shared/utils/narrow"]
+  const STAYING: readonly Landed[] = [
+    ...LANDED,
+    { from: "packages/shared/utils/narrow", to: null },
+  ]
 
   test("a package that has not moved is refused by name rather than guessed at", () => {
     const body = '{ "extends": "../../../../shared/utils/narrow/tsconfig.json" }'
-    const out = tsconfigRelocated(body, FROM, TO, LANDED, BLOCKED) as { refused: readonly string[] }
+    const out = tsconfigRelocated(body, FROM, TO, STAYING) as { refused: readonly string[] }
     expect(out.refused).toEqual(["../../../../shared/utils/narrow/tsconfig.json"])
   })
 
   test("a refused path is left as written, so nothing half-rewritten lands", () => {
     const body = '{ "extends": "../../../../shared/utils/narrow/tsconfig.json" }'
-    const out = tsconfigRelocated(body, FROM, TO, LANDED, BLOCKED) as { body: string }
+    const out = tsconfigRelocated(body, FROM, TO, STAYING) as { body: string }
     expect(out.body).toBe(body)
+  })
+
+  test("one refused path does not stop the others in the same file being rewritten", () => {
+    const body =
+      '{ "extends": "../../../../shared/utils/narrow/tsconfig.json", "references": [{ "path": "../core" }] }'
+    const out = tsconfigRelocated(body, FROM, TO, STAYING) as {
+      body: string
+      refused: readonly string[]
+    }
+    expect(out.refused).toHaveLength(1)
+    expect(out.body).toContain('"path": "../game-items-core"')
   })
 
   test("a body that is not a tsconfig object answers nothing", () => {
@@ -127,7 +141,10 @@ describe("tsconfigRelocated", () => {
 
   test("a move that changes no path leaves the body byte for byte", () => {
     const body = '{ "include": ["src"] }'
-    const out = tsconfigRelocated(body, "a", "a", LANDED) as { body: string; renamed: readonly unknown[] }
+    const out = tsconfigRelocated(body, "a", "a", LANDED) as {
+      body: string
+      renamed: readonly unknown[]
+    }
     expect(out.body).toBe(body)
     expect(out.renamed).toEqual([])
   })

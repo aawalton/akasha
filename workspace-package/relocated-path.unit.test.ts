@@ -15,6 +15,10 @@ const CORE: Landed = { from: "packages/temper/game/items/core", to: "temper/game
 
 const LANDED: readonly Landed[] = [TYPINGS, CORE]
 
+const NOWHERE: Landed = { from: "", to: null }
+
+const CROSSING: readonly Landed[] = [...LANDED, NOWHERE]
+
 const FROM = "packages/temper/game/items/addon"
 
 const TO = "temper/game-items-addon"
@@ -101,6 +105,11 @@ describe("landedOver", () => {
     const inner: Landed = { from: "packages/temper/addons", to: "temper/addons" }
     expect(landedOver([outer, inner], "packages/temper/addons/types")).toBe(inner)
   })
+
+  test("an entry going nowhere is found the same way one going somewhere is", () => {
+    const stays: Landed = { from: "packages/shared/utils/narrow", to: null }
+    expect(landedOver([...LANDED, stays], "packages/shared/utils/narrow/src")).toBe(stays)
+  })
 })
 
 describe("relocatedPath", () => {
@@ -110,20 +119,6 @@ describe("relocatedPath", () => {
 
   test("a spec written with a leading dot keeps one", () => {
     expect(relocatedPath(FROM, TO, "./src", LANDED)).toBe("./src")
-  })
-
-  test("a package that has not moved is refused even where a folder above it has", () => {
-    const container = [{ from: "packages", to: "" }]
-    const blocked = ["packages/shared/utils/narrow"]
-    expect(
-      relocatedPath(FROM, TO, "../../../../shared/utils/narrow", container, blocked)
-    ).toBe(null)
-  })
-
-  test("a package that has moved is taken even where a folder above it also moved", () => {
-    const both = [{ from: "packages", to: "" }, CORE]
-    const blocked = ["packages/shared/utils/narrow"]
-    expect(relocatedPath(FROM, TO, "../../items/core", both, blocked)).toBe("../game-items-core")
   })
 
   test("a reach into a package that has already landed is renamed to where it landed", () => {
@@ -142,10 +137,6 @@ describe("relocatedPath", () => {
     expect(relocatedPath(FROM, TO, "../../items/core", LANDED)).toBe("../game-items-core")
   })
 
-  test("a reach into a package that has not landed is refused rather than guessed", () => {
-    expect(relocatedPath(FROM, TO, "../../../../shared/utils/narrow", LANDED)).toBe(null)
-  })
-
   test("a reach above the repository root is refused", () => {
     expect(relocatedPath(FROM, TO, "../../../../../../../elsewhere", LANDED)).toBe(null)
   })
@@ -156,9 +147,59 @@ describe("relocatedPath", () => {
 
   test("the depth of the old path does not survive into the new one", () => {
     const deep = "packages/temper/game/characters/skills/morphs/addon"
-    expect(relocatedPath(deep, "temper/game-characters-skills-morphs-addon", "../../../../../addons/types", LANDED)).toBe(
-      "../addons/types"
+    expect(
+      relocatedPath(deep, "temper/game-characters-skills-morphs-addon", "../../../../../addons/types", LANDED)
+    ).toBe("../addons/types")
+  })
+})
+
+describe("a target the table says nothing about is still where it was", () => {
+  test("the path is spelled again from where the file now is, the target not having moved", () => {
+    expect(relocatedPath("a", "b/deep", "../base.json", [])).toBe("../../base.json")
+  })
+
+  test("leaving such a path alone would break it, the file beneath it having moved", () => {
+    expect(relocatedPath("a", "b/deep", "../base.json", [])).not.toBe("../base.json")
+  })
+
+  test("a move that changes nothing about the reach spells it the same way", () => {
+    expect(relocatedPath("a", "a", "../base.json", [])).toBe("../base.json")
+  })
+})
+
+describe("a target going nowhere is refused rather than spelled again", () => {
+  const STAYS: Landed = { from: "packages/shared/utils/narrow", to: null }
+
+  test("a package the table says is staying is refused, its mover having left the repository", () => {
+    expect(relocatedPath(FROM, TO, "../../../../shared/utils/narrow", [...LANDED, STAYS])).toBe(null)
+  })
+
+  test("a package that is staying is refused even where a folder above it moved", () => {
+    const container: Landed = { from: "packages", to: "" }
+    expect(relocatedPath(FROM, TO, "../../../../shared/utils/narrow", [container, STAYS])).toBe(null)
+  })
+
+  test("a package that moved is taken even where a folder above it also moved", () => {
+    const container: Landed = { from: "packages", to: "" }
+    expect(relocatedPath(FROM, TO, "../../items/core", [container, CORE, STAYS])).toBe(
+      "../game-items-core"
     )
+  })
+})
+
+describe("a root going nowhere is how a move between repositories is stated", () => {
+  test("everything the table does not name is refused, no relative path crossing a repository", () => {
+    expect(relocatedPath(FROM, TO, "../../../../shared/utils/narrow", CROSSING)).toBe(null)
+  })
+
+  test("a package the table does name is taken, its entry being the longer source", () => {
+    expect(relocatedPath(FROM, TO, "../../../addons/tsconfig.base.json", CROSSING)).toBe(
+      "../addons/tsconfig.base.json"
+    )
+  })
+
+  test("the package's own files are still its own, the root never being consulted for them", () => {
+    expect(relocatedPath(FROM, TO, "src/**/*.ts", CROSSING)).toBe("src/**/*.ts")
   })
 })
 

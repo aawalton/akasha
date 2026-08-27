@@ -99,12 +99,7 @@ describe("withTsconfigsRelocated", () => {
   const CONFIG = '{ "extends": "../../../addons/tsconfig.base.json", "include": ["src"] }'
 
   test("a moved tsconfig has its paths renamed to where their targets landed", () => {
-    const out = withTsconfigsRelocated(
-      [entry(`${TO}/tsconfig.json`, CONFIG, true)],
-      FROM,
-      TO,
-      LANDED
-    )
+    const out = withTsconfigsRelocated([entry(`${TO}/tsconfig.json`, CONFIG, true)], FROM, TO, LANDED)
     expect(out.entries[0]?.body).toContain('"../addons/tsconfig.base.json"')
     expect(out.renamed).toBe(1)
   })
@@ -123,13 +118,8 @@ describe("withTsconfigsRelocated", () => {
 
   test("a path into a package that has not moved is refused, named by the file carrying it", () => {
     const body = '{ "extends": "../../../../shared/utils/narrow/tsconfig.json" }'
-    const out = withTsconfigsRelocated(
-      [entry(`${TO}/tsconfig.json`, body, true)],
-      FROM,
-      TO,
-      LANDED,
-      ["packages/shared/utils/narrow"]
-    )
+    const staying: readonly Landed[] = [...LANDED, { from: "packages/shared/utils/narrow", to: null }]
+    const out = withTsconfigsRelocated([entry(`${TO}/tsconfig.json`, body, true)], FROM, TO, staying)
     expect(out.refused).toEqual([
       `${TO}/tsconfig.json:../../../../shared/utils/narrow/tsconfig.json`,
     ])

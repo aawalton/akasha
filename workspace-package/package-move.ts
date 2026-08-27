@@ -41,8 +41,7 @@ export function withTsconfigsRelocated(
   entries: readonly Repointed[],
   fromDir: string,
   toDir: string,
-  landed: readonly Landed[],
-  blocked: readonly string[] = []
+  landed: readonly Landed[]
 ): Relocations {
   const out: Repointed[] = []
   const refused: string[] = []
@@ -52,7 +51,7 @@ export function withTsconfigsRelocated(
       out.push(entry)
       continue
     }
-    const held = tsconfigRelocated(entry.body, fromDir, toDir, landed, blocked)
+    const held = tsconfigRelocated(entry.body, fromDir, toDir, landed)
     if (held === null) {
       out.push(entry)
       continue

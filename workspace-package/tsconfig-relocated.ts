@@ -63,8 +63,7 @@ export function tsconfigRelocated(
   body: string,
   fromDir: string,
   toDir: string,
-  landed: readonly Landed[],
-  blocked: readonly string[] = []
+  landed: readonly Landed[]
 ): TsconfigRelocation | null {
   const config = parsed(body)
   if (config === null) return null
@@ -72,7 +71,7 @@ export function tsconfigRelocated(
   const refused: string[] = []
   let said = body
   for (const spec of specsIn(config)) {
-    const to = relocatedPath(fromDir, toDir, spec, landed, blocked)
+    const to = relocatedPath(fromDir, toDir, spec, landed)
     if (to === null) {
       refused.push(spec)
       continue

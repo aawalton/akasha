@@ -6,7 +6,7 @@ const UP = ".."
 
 export interface Landed {
   readonly from: string
-  readonly to: string
+  readonly to: string | null
 }
 
 export function normalized(path: string): string {
@@ -62,15 +62,6 @@ export function landedOver(landed: readonly Landed[], target: string): Landed | 
   return held
 }
 
-export function heldBack(blocked: readonly string[], target: string): string | null {
-  let held: string | null = null
-  for (const one of blocked) {
-    if (!within(one, target)) continue
-    if (held === null || one.length > held.length) held = one
-  }
-  return held
-}
-
 export function spelledLike(spec: string, said: string): string {
   if (spec.startsWith(HERE) || spec.startsWith(UP)) return said
   return said.startsWith(HERE) ? said.slice(HERE.length) : said
@@ -80,8 +71,7 @@ export function relocatedPath(
   fromDir: string,
   toDir: string,
   spec: string,
-  landed: readonly Landed[],
-  blocked: readonly string[] = []
+  landed: readonly Landed[]
 ): string | null {
   const { head, tail } = splitGlob(spec)
   const target = normalized(joined(fromDir, head))
@@ -91,9 +81,8 @@ export function relocatedPath(
     return joined(spelledLike(spec, relativeFrom(toDir, normalized(carried))), tail)
   }
   const over = landedOver(landed, target)
-  const back = heldBack(blocked, target)
-  if (over === null) return null
-  if (back !== null && back.length > over.from.length) return null
+  if (over === null) return joined(spelledLike(spec, relativeFrom(toDir, target)), tail)
+  if (over.to === null) return null
   const rest = target.slice(over.from.length).replace(/^\//, "")
   return joined(spelledLike(spec, relativeFrom(toDir, normalized(joined(over.to, rest)))), tail)
 }
