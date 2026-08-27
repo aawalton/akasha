@@ -1,6 +1,6 @@
 export const tool = {
   summary: "List every page written to a repo but not yet committed, with the writer that wrote it",
-  repos: ["instructions"],
+  repos: ["akasha"],
 } as const
 
 import { STALL_ATTEMPTS } from "./lib/page-commit-queue.ts"
@@ -11,7 +11,7 @@ import {
   rootStands,
   writerAlive,
 } from "./lib/page-landing-journal.ts"
-import { isAddressable, resolveRoots, rootFor } from "../repo/roots/roots"
+import { isAddressable, resolveRoots } from "../repo/roots/roots"
 
 const HELP = `bun tools/unlanded.ts — every page written to disk whose commit has not landed
 
@@ -48,13 +48,15 @@ route, the next attempt sees no diff against HEAD, treats the landing as made, a
 line goes. Nothing here needs clearing by hand. If you must, delete the journal file.
 
 Usage:
-  bun ~/repos/instructions/tools/unlanded.ts [--repo <name>] [--json]
+  bun ~/repos/akasha/tools/unlanded.ts [--repo <name>] [--json]
 
 Flags:
-  --repo <name>  Only the named repo's root: \`instructions\`, \`memory\`, \`books\`, \`stories\`.
-                 Omitted — which is how \`ops instructions unlanded\` runs it — every root the
-                 journal holds is reported, both gated repositories included. That is the
-                 answer an operator wants: a landing is lost per PROCESS, not per repo.
+  --repo <name>  Only the named repo's root. The repos there are to name are the ones with a
+                 page under \`pages/repo\`, and naming one that is not cloned here is refused
+                 rather than reported empty.
+                 Omitted — which is how \`ops akasha unlanded\` runs it — every root the
+                 journal holds is reported. That is the answer an operator wants: a landing
+                 is lost per PROCESS, not per repo.
   --json         Emit \`{ files: [{ state, root, path, ageSeconds, act, writerPid }] }\`.
   --help         This.
 
@@ -107,7 +109,11 @@ function listed(journals: readonly Journal[], root: string | null): readonly Unl
 
 function rootNamed(named: string): string {
   if (!isAddressable(named)) refuse(`\`${named}\` names no repo this reads`)
-  return rootFor(resolveRoots(), named)
+  const root = resolveRoots()[named]
+  if (root === undefined) {
+    refuse(`\`${named}\` has a repo page but no checkout here, so there is no root to read`)
+  }
+  return root
 }
 
 function main(): void {
