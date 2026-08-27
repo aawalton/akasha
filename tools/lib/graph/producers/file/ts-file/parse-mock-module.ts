@@ -1,9 +1,12 @@
 // The old graph is gone. This module is a stub so its callers still resolve.
-// Every value here refuses; the callers are waiting to be migrated onto `graph/ask.ts`.
-import { oldGraphGone } from "../../../graph-gone.ts"
+// Every value here refuses when it is used; importing it does not throw.
+import { goneRecord, oldGraphGone } from "../../../graph-gone.ts"
 
 export type ParsedMockModuleCall = unknown
 
-export const MockModuleAttrsSchema = z
-export const MockModuleUnreadableSpecifierAttrsSchema = z
-export const visitForMockModuleCalls = ((...a: readonly unknown[]) => oldGraphGone("visitForMockModuleCalls")) as never
+export const MockModuleAttrsSchema = goneRecord("MockModuleAttrsSchema")
+export const MockModuleUnreadableSpecifierAttrsSchema = goneRecord(
+  "MockModuleUnreadableSpecifierAttrsSchema"
+)
+export const visitForMockModuleCalls = ((...a: readonly unknown[]) =>
+  oldGraphGone("visitForMockModuleCalls")) as never
