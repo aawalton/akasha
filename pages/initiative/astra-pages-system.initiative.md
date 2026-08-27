@@ -61,6 +61,8 @@ Settled with Alan on 2026-08-27, before any intent was written:
 
 **The default name formula is `{slug} ?? {id}`, settled 2026-08-27.** No title arm: a title is not guaranteed to be a valid identifier. The 10,239 pages holding no slug take one from their filename instead, which is already a folded stem. Four are named by their id and stay so. Seven are named by a case-carrying external identifier, which folding would change.
 
+**The formula package answers to the repo's folder and export checks.** `folder-matches-a-shape` admits three shapes and judges each subfolder separately, `export-declared-here` refuses a barrel, `import-reach` refuses an import resolving outside the repo, and `file-length` cuts at 15,000 bytes. A test sits beside the file it tests, named for it, suffixed `.unit.test.ts`. A whole-suite `bun test` is refused; one file is named by path.
+
 **Loose ends, found 2026-08-27.** Taken as they block an intent or come up alongside one.
 
 - Seventeen hyphenated holes, over twenty-three occurrences, parse as subtraction rather than as references unless every one is spelled `prop(...)`.
@@ -75,6 +77,7 @@ Settled with Alan on 2026-08-27, before any intent was written:
 - `book-chapter` is not a rename: 5,622 markdown links across 362 files address chapters by name, and no property tells the colliders apart. Its sections want modelling as pages first.
 - `keepNamedIn` removes an emptied identity file but never its directory.
 - A page landed through `ops write` reached disk and not the index. `formula-absent-value` committed at `0163fe9` carrying no identity entry, found only because a later write named it as required reading; nine pages landed the same session indexed correctly. `page/index/build.ts` was rewritten that afternoon.
+- Four routes answer what page type a file is, and can disagree without saying so. Reported by Aine, 2026-08-27.
 
 **The graph answer cache under `.git/answers` is out of scope**, being the graph system's rather than the pages system's.
 
