@@ -13,7 +13,7 @@ import { stemOf as slugOf } from "../../page/name/name"
 import type { Roots } from "../../page/page"
 import type { Landing } from "../../repo/land/land"
 
-export const INSTRUCTIONS_REPO = "instructions"
+export const DEFINING_REPO = "akasha"
 
 export const DEFINITION_TYPE = "page-property-definition"
 

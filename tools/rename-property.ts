@@ -17,7 +17,7 @@ import {
   type Chains,
   type Composed,
   collidingTypes,
-  INSTRUCTIONS_REPO,
+  DEFINING_REPO,
   currentMtime,
   definitionsOf,
   freshlyDerived,
@@ -84,8 +84,8 @@ function main(): void {
   }
   rejectUnknownFlags(argv, TAKES_VALUE, STANDALONE)
   const roots: Roots = resolveRoots(repoFlag(argv))
-  if (targetRepo(roots) !== INSTRUCTIONS_REPO) {
-    fail(`--repo ${targetRepo(roots)} — every page property definition stands in \`${INSTRUCTIONS_REPO}\``)
+  if (targetRepo(roots) !== DEFINING_REPO) {
+    fail(`--repo ${targetRepo(roots)} — every page property definition stands in \`${DEFINING_REPO}\``)
   }
   const root = targetRoot(roots)
   if (!existsSync(`${root}/.git`)) fail(`${root} is not a git repo`)
@@ -136,10 +136,10 @@ function main(): void {
     fail(`${destination} already exists — a move never overwrites`)
 
   const carrying = carriersOf(roots, types, tree, cache, onType, old)
-  const away = carrying.filter((one) => one.repo !== INSTRUCTIONS_REPO)
+  const away = carrying.filter((one) => one.repo !== DEFINING_REPO)
   if (away.length > 0) {
     fail(
-      `${away.length} page(s) carrying \`${old}\` stand outside \`${INSTRUCTIONS_REPO}\`, and one commit cannot span ` +
+      `${away.length} page(s) carrying \`${old}\` stand outside \`${DEFINING_REPO}\`, and one commit cannot span ` +
         `two repositories, so this refuses rather than renaming half of them:\n` +
         first(away.map((one) => `        ${one.repo}:${one.relPath}`)).join("\n")
     )
@@ -271,7 +271,7 @@ function main(): void {
     messageFile !== null
       ? readFileSync(messageFile, "utf8").trim()
       : (flagOf(argv, "--message") ??
-        `${INSTRUCTIONS_REPO}: \`${old}\` becomes \`${next}\` on \`${onType}\`\n\n` +
+        `${DEFINING_REPO}: \`${old}\` becomes \`${next}\` on \`${onType}\`\n\n` +
           `${carrying.length} page(s) carrying the key, the definition ${landing}, ` +
           `and ${supplied.size} file(s) reading it`)
   const programDecided = new Set(entries.filter((one) => !one.authored).map((one) => one.relPath))
