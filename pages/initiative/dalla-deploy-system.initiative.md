@@ -16,5 +16,6 @@ parent-slug: aine-global
 - A deploy carries one service, never the repository.
 - Every file whose change could change a service's deploy is reachable from that service through the graph.
 - A service deploys only when its closure has changed.
+- The closure a service was deployed from is cached under `.git/deploy/`.
 - A service deploys only where the checks in its closure are green.
 - A service can deploy without waiting for any other.
