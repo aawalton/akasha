@@ -46,7 +46,7 @@ describe("admitsPayload", () => {
 
   test("the three forms a seat name may take are each admitted", () => {
     expect(admissionOf("amy").family).toBe("bare-persona")
-    expect(admissionOf("amy-alan-handler").admitted).toBe(true)
+    expect(admissionOf("alan").family).toBe("person")
     expect(admissionOf("memory-repo-worker").family).toBe("composed-identity")
   })
 
