@@ -12,7 +12,7 @@ import { NONE, stringAt } from "../../../page/text/text.ts"
 import type { EdgeInit, EdgeProducer } from "../edge-shape.ts"
 import { frontmatterAt } from "../../frontmatter-at/frontmatter-at.ts"
 import type { BuildContext } from "../../build-context/build-context.ts"
-import fileNodeProducer from "../../node-producer/file/file.graph-node-producer.code.attachment.ts"
+import fileNodeProducer, { FILE_NODE_KIND } from "../../node-producer/file/file.graph-node-producer.code.attachment.ts"
 import type { NodeRef } from "../../node-producer/node-shape.ts"
 import { slugNamed } from "../../../page/page-address.ts"
 import type { PageAt } from "../../../page/page.ts"
@@ -149,6 +149,7 @@ export const frontmatterEdgeProducer: EdgeProducer = {
   name: "frontmatter",
   edgeKinds: () => [RELATION_EDGE],
   from: (ctx, file) => {
+    if (file.kind !== FILE_NODE_KIND) return []
     const pageType = file.attrs["page-type-slug"]
     if (pageType === null) return []
     const fm = frontmatterAt(ctx, file.repo, file.key)

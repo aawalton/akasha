@@ -1,10 +1,10 @@
 import type { BuildContext } from "../../build-context/build-context.ts"
 import { frontmatterAt } from "../../frontmatter-at/frontmatter-at.ts"
-import fileNodeProducer, { type FileNode } from "../../node-producer/file/file.graph-node-producer.code.attachment.ts"
+import fileNodeProducer, { FILE_NODE_KIND } from "../../node-producer/file/file.graph-node-producer.code.attachment.ts"
 import type { NodeRef } from "../../node-producer/node-shape.ts"
 import { attachmentFileOf } from "../../../page/attachment-file.ts"
 import { pagesOfType } from "../../page-index/page-index.ts"
-import type { EdgeInit, EdgeProducer } from "../edge-shape.ts"
+import type { EdgeInit, EdgeProducer, GraphNode } from "../edge-shape.ts"
 import { IMPORT_EDGE } from "../typescript/typescript.graph-edge-producer.code.attachment.ts"
 
 const PAGE_TYPE = "page-type"
@@ -51,7 +51,8 @@ function loadersIn(ctx: BuildContext): ReadonlyMap<string, NodeRef> {
 export const loaderEdgeProducer: EdgeProducer = {
   name: "loader",
   edgeKinds: () => [IMPORT_EDGE],
-  from: (ctx: BuildContext, file: FileNode) => {
+  from: (ctx: BuildContext, file: GraphNode) => {
+    if (file.kind !== FILE_NODE_KIND) return []
     const type = file.attrs["page-type-slug"]
     if (typeof type !== "string") return []
     const loader = loadersIn(ctx).get(type)

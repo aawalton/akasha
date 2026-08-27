@@ -6,9 +6,11 @@ slug: relation
 attributes-slugs:
   - relation-key
 from-node:
-  kind: file
+  kind:
+    - file
 to-node:
-  kind: file
+  kind:
+    - file
 ---
 
 # Definition

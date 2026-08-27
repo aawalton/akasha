@@ -2,7 +2,7 @@ import { dirname, resolve } from "node:path"
 import { textAt } from "../../../page/text/text.ts"
 import { packagesFor, pathOf } from "../../../workspace-package/packages.ts"
 import type { EdgeInit, EdgeProducer } from "../edge-shape.ts"
-import fileNodeProducer from "../../node-producer/file/file.graph-node-producer.code.attachment.ts"
+import fileNodeProducer, { FILE_NODE_KIND } from "../../node-producer/file/file.graph-node-producer.code.attachment.ts"
 import type { BuildContext } from "../../build-context/build-context.ts"
 import type { NodeRef } from "../../node-producer/node-shape.ts"
 import { aliasedTo } from "./tsconfig-paths.ts"
@@ -86,6 +86,7 @@ export const typescriptEdgeProducer: EdgeProducer = {
   name: "typescript",
   edgeKinds: () => [IMPORT_EDGE],
   from: (ctx, file) => {
+    if (file.kind !== FILE_NODE_KIND) return []
     const extension = file.attrs["file-extension"]
     if (extension === null || !TYPESCRIPT.has(extension)) return []
     const root = ctx.roots[file.repo]

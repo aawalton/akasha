@@ -4,11 +4,13 @@ page-type-slug: graph-edge
 title: "Import"
 slug: import
 from-node:
-  kind: file
+  kind:
+    - file
   where:
     file-extension: ts
 to-node:
-  kind: file
+  kind:
+    - file
 ---
 
 # Definition
