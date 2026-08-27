@@ -25,7 +25,7 @@ An XML file the manifest names with a `$(...)` token is left uncopied: the game 
 
 # Help
 
-Write one addon's load order, then copy every non-Lua file it ships — its `<name>.xml` and `Bindings.xml`, the extra Lua files its manifest names, every directory under `metadata/`, its declared assets and bundle XML, and each sibling addon folder — into that checkout's `packages/temper/addons/dist/`.
+Write one addon's load order, then copy every non-Lua file it ships — its `<name>.xml` and `Bindings.xml`, the extra Lua files its manifest names, every directory under `metadata/`, its declared assets and bundle XML, and each sibling addon folder — into that checkout's `temper/addons/dist/`.
 
 Everything written is build output of the code repo, untracked there, and this is the rule it is made by; it stands here, where no deploy has to carry it. The checkout is taken as an argument rather than derived from this file's own location, so the output lands in the tree it belongs to whichever checkout this runs from.
 

@@ -20,7 +20,7 @@ Print the priority-ordered category rule list as the in-game addon sees it.
 
 Derived controlled rules (built from `automation` toggles via
 `buildAllControlledRules`) are prepended to the user rules — mirroring
-`packages/temper/scripts/src/watcher/export-settings.ts`, which is what
+`temper/scripts/src/watcher/export-settings.ts`, which is what
 the addon ultimately reads.
 
 Default stdout: TSV with columns `pos\tid\tcategoryId\taction\tactive\tlocked\tdestination\tcontrolled`.

@@ -18,7 +18,7 @@ path: check-addon-sandbox-load
 
 Runtime post-emit load of each emitted `.lua` bundle inside a sandboxed Lua 5.1 VM with ESO-shaped `_G`.
 
-Catches the runtime-only failure class the static scanner misses — `_G['debug']` indirection, circular require, top-level recursion depth overflow, undefined ESO API calls, the #7179 sourceMapTraceback regression. Each bundle gets its own sandbox VM via `@temper/shared-build-deploy-lua-runner`. An absent or empty dist/ is a refusal coded 2, not a pass — loading nothing verifies nothing. Run `bun --cwd packages/temper/addons build:addons:only` first.
+Catches the runtime-only failure class the static scanner misses — `_G['debug']` indirection, circular require, top-level recursion depth overflow, undefined ESO API calls, the #7179 sourceMapTraceback regression. Each bundle gets its own sandbox VM via `@temper/shared-build-deploy-lua-runner`. An absent or empty dist/ is a refusal coded 2, not a pass — loading nothing verifies nothing. Run `bun --cwd temper/addons build:addons:only` first.
 
 Exit codes:
   0  all bundles loaded clean

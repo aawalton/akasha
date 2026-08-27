@@ -25,7 +25,7 @@ The archive is a build intermediate on this workstation; what leaves is the imag
 
 # Help
 
-Pack what already stands in a code checkout's `packages/temper/addons/dist/` into `temper-addons.zip`, beside a `version.txt` naming the commit it was built at. Nothing is compiled here: an addon with nothing in `dist/` is refused rather than silently left out of the archive players download.
+Pack what already stands in a code checkout's `temper/addons/dist/` into `temper-addons.zip`, beside a `version.txt` naming the commit it was built at. Nothing is compiled here: an addon with nothing in `dist/` is refused rather than silently left out of the archive players download.
 
 Every addon on the roster is packed, whether or not anything depends on it, along with each sibling folder a manifest declares. A dependency naming something the roster does not hold is an addon the player installs themselves, and is reported rather than packed.
 

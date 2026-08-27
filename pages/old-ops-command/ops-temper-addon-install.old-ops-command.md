@@ -25,7 +25,7 @@ Nothing installed leaves this machine.
 
 # Help
 
-Replace one addon's folder — and each sibling folder its manifest declares — under this workstation's live ESO `AddOns/` directory with what stands in a code checkout's `packages/temper/addons/dist/`, then verify every installed file against its source by sha256, then run the saved-variables migrations the new build needs.
+Replace one addon's folder — and each sibling folder its manifest declares — under this workstation's live ESO `AddOns/` directory with what stands in a code checkout's `temper/addons/dist/`, then verify every installed file against its source by sha256, then run the saved-variables migrations the new build needs.
 
 Nothing is packed and nothing is carried off this machine: the target is the game folder on this disk, which is why this stands here rather than in the code repo, where only what a deploy carries belongs.
 

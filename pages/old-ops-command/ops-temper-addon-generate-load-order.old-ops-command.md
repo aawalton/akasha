@@ -23,7 +23,7 @@ An addon declaring no Lua bundle is refused rather than given an empty manifest.
 
 # Help
 
-Read one addon's `addon.json` and `tsconfig.json` out of a code checkout, and write `<name>.txt` — the manifest ESO reads to decide what to load and in what order — plus `build-id.lua` into that checkout's `packages/temper/addons/dist/<name>/`.
+Read one addon's `addon.json` and `tsconfig.json` out of a code checkout, and write `<name>.txt` — the manifest ESO reads to decide what to load and in what order — plus `build-id.lua` into that checkout's `temper/addons/dist/<name>/`.
 
 Both written files are build output of the code repo, untracked there, and this is the rule they are made by; it stands here, where no deploy has to carry it. The checkout is taken as an argument rather than derived from this file's own location, so the output lands in the tree it belongs to whichever checkout this runs from.
 

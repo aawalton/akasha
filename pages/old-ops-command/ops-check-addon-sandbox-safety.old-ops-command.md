@@ -16,9 +16,9 @@ path: check-addon-sandbox-safety
 
 # Help
 
-Static post-emit scan of `packages/temper/addons/dist/**/*.lua` for Lua stdlib symbols ESO's sandbox strips.
+Static post-emit scan of `temper/addons/dist/**/*.lua` for Lua stdlib symbols ESO's sandbox strips.
 
-Reads the manifest-derived allow-list (`eso-sandbox.manifest.ts`) and flags any reference to a stripped namespace, stripped namespace member, or stripped bare global. An absent or empty dist/ is a refusal coded 2, not a pass — a scan of nothing certifies nothing. Run `bun --cwd packages/temper/addons build:addons:only` first.
+Reads the manifest-derived allow-list (`eso-sandbox.manifest.ts`) and flags any reference to a stripped namespace, stripped namespace member, or stripped bare global. An absent or empty dist/ is a refusal coded 2, not a pass — a scan of nothing certifies nothing. Run `bun --cwd temper/addons build:addons:only` first.
 
 Exit codes:
   0  clean

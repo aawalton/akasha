@@ -16,9 +16,9 @@ path: check-addon-removed-refs
 
 # Help
 
-Static post-emit scan of `packages/temper/addons/dist/**/*.lua` for references to removed external-addon globals.
+Static post-emit scan of `temper/addons/dist/**/*.lua` for references to removed external-addon globals.
 
-Reads the blocklist (`addon-removed-refs.manifest.ts`) — the globals of external addons removed from the Temper runtime — and flags any whole-word reference outside a Lua string literal. Each blocklist entry names its own replacement and the project that removed it, and a refusal quotes the matched entry's, so read the manifest rather than this line for the current set. Forbidding the reference closes the dormant-crash class from #12076 / #12104, which founded the gate. An absent or empty dist/ is a refusal coded 2, not a pass — a scan of nothing certifies nothing. Run `bun --cwd packages/temper/addons build:addons:only` first.
+Reads the blocklist (`addon-removed-refs.manifest.ts`) — the globals of external addons removed from the Temper runtime — and flags any whole-word reference outside a Lua string literal. Each blocklist entry names its own replacement and the project that removed it, and a refusal quotes the matched entry's, so read the manifest rather than this line for the current set. Forbidding the reference closes the dormant-crash class from #12076 / #12104, which founded the gate. An absent or empty dist/ is a refusal coded 2, not a pass — a scan of nothing certifies nothing. Run `bun --cwd temper/addons build:addons:only` first.
 
 Exit codes:
   0  clean

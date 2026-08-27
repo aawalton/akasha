@@ -18,4 +18,4 @@ path: temper addon list
 
 List every discovered ESO addon source dir.
 
-Walks both layouts — flat (`packages/temper/addons/<dirname>/`) and nested (`packages/temper/<domain>/addon/`) — and prints each addon's canonical name, repo-relative source dir, and workspace-closure size. Use `--json` for machine output.
+Walks both layouts — flat (`temper/addons/<dirname>/`) and nested (`temper/<domain>/addon/`) — and prints each addon's canonical name, repo-relative source dir, and workspace-closure size. Use `--json` for machine output.
