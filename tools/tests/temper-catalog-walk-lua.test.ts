@@ -9,7 +9,7 @@ import {
 } from "../lib/temper-addon-lua.ts"
 
 const WALK: Subject = {
-  ref: "packages/temper/catalog/core/src/walk.ts",
+  ref: "temper/catalog-core/src/walk.ts",
   holds: ["runCatalogWalk"],
 }
 
@@ -24,7 +24,7 @@ const WALK_RESULT = z.object({
 })
 const TEETH_RESULT = z.object({ threw: z.boolean(), message: z.string() })
 
-const WALK_SOURCE = "packages/temper/catalog/core/src/walk.ts"
+const WALK_SOURCE = "temper/catalog-core/src/walk.ts"
 
 
 const WALK_SRC = LUA_SOURCE.parse(addonSource(WALK_SOURCE)).replace(/\bexport /g, "")

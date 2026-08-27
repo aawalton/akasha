@@ -9,7 +9,7 @@ import {
 } from "../lib/temper-addon-lua.ts"
 
 const SAFE_SORT: Subject = {
-  ref: "packages/temper/game/combat/addon/src/actions/model/safe-sort.ts",
+  ref: "temper/game-combat-addon/src/actions/model/safe-sort.ts",
   holds: ["compactAndSort"],
 }
 

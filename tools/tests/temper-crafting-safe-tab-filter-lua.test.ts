@@ -10,7 +10,7 @@ import {
 } from "../lib/temper-addon-lua.ts"
 
 const SAFE_TAB_FILTER: Subject = {
-  ref: "packages/temper/game/crafting/addon/src/master-writ-inventory-marker/safe-tab-filter.ts",
+  ref: "temper/game-crafting-addon/src/master-writ-inventory-marker/safe-tab-filter.ts",
   holds: ["safeGetTabFilterInfo"],
 }
 
@@ -21,7 +21,7 @@ const LANGUAGE_EXTENSIONS: Subject = {
 }
 
 const CONSTANTS: Subject = {
-  ref: "packages/temper/game/crafting/addon/src/master-writ-inventory-marker/constants.ts",
+  ref: "temper/game-crafting-addon/src/master-writ-inventory-marker/constants.ts",
   holds: ["sellInformationSortOrder"],
 }
 
