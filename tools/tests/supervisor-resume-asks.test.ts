@@ -18,7 +18,7 @@ async function ported(scenario: Scenario): Promise<unknown> {
   return scenario.records === "sent" ? sent : plan
 }
 
-describe("the ported asks answer what the code repository's answered", () => {
+describe("the ported asks answer what the standing records", () => {
   for (const scenario of SCENARIOS) {
     it(scenario.name, async () => {
       const answered = await ported(scenario)
@@ -52,9 +52,8 @@ describe("a decision this side could not reach still drives the respawn", () => 
     return undefined
   }
 
-  // `AKASHA_ROOT` IS WHAT NAMES AN EMPTY TREE. This set `INSTRUCTIONS_ROOT`, which nothing reads
-  // now that the instructions repository is absorbed, so the root stayed the live checkout and
-  // `supervisor-decide.ts` was found there — the one arm this case exists to drive never ran.
+  // `AKASHA_ROOT` IS WHAT NAMES AN EMPTY TREE: left alone the root stays the live checkout and
+  // `supervisor-decide.ts` is found there, so the one arm this case exists to drive never runs.
   //
   // IT IS GIT-INITED because `resolveRoots` names a root only where it is cloned, and
   // `askSupervisorDecide` asks `rootFor`, which throws for a repository standing nowhere.

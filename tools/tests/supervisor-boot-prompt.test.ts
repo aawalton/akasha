@@ -62,9 +62,9 @@ async function run(vector: Vector): Promise<Trace> {
     mkdirSync(`${tmpDir}/agent-boot-prompt-${vector.agentId}.md`, { recursive: true })
   }
 
-  // `AKASHA_ROOT` IS WHAT NAMES THIS TEMP TREE. This set `INSTRUCTIONS_ROOT`, which nothing reads
-  // now that the instructions repository is absorbed, so every case below looked for the composer
-  // in the live checkout — where it is there, so the cases turning on its absence never held.
+  // `AKASHA_ROOT` IS WHAT NAMES THIS TEMP TREE: `materializeBootPrompt` looks for the composer
+  // under the root this names, so a case that left it alone would look in the live checkout —
+  // where the composer is there, and the cases turning on its absence would not hold.
   const before = process.env.AKASHA_ROOT
   process.env.AKASHA_ROOT = root
   const logs: string[] = []
@@ -191,7 +191,7 @@ function projected(trace: Trace, shape: Record<string, unknown>): Record<string,
   return picked
 }
 
-describe("materializeBootPrompt, held against what the code repository's implementation answers", () => {
+describe("materializeBootPrompt, held against the standing its port was taken from", () => {
   for (const scenario of SCENARIOS) {
     it(scenario.name, async () => {
       const trace = decided("ported", { value: await run(scenario.vector), notice: null })
