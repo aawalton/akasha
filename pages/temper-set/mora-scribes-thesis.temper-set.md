@@ -1,0 +1,12 @@
+---
+page-type-slug: temper-set
+id: 019e66ec-7bd2-7e65-9eaa-3f712fdf1b66
+title: "Mora Scribe's Thesis"
+slug: mora-scribes-thesis
+bonuses: '[{"count":2,"status":"supported","effects":[{"metricId":"critical-rating","effectType":"integer","effectValue":657}],"description":"Adds 657 Critical Chance"},{"count":3,"status":"unsupported","effects":[],"description":"Gain Minor Slayer at all times, increasing your damage done to Dungeon, Trial, and Arena Monsters by 5%."},{"count":4,"status":"supported","effects":[{"metricId":"power","effectType":"integer","effectValue":129}],"description":"Adds 129 Weapon and Spell Damage"},{"count":5,"status":"unsupported","effects":[],"description":"Increase your Critical Chance by 128 for every Major Buff active on you, up to 1536 Critical Chance. \n\nIncrease your Critical Damage done by 1% for every Minor Buff active on you, up to 12% Critical Damage done.\n\nCurrent Bonus: 0 Critical Chance and 0% Critical Damage"}]'
+eso-set-id: 766
+icons: '{"axe":"/esoui/art/icons/gear_lucentguardian_1haxe_a.dds","bow":"/esoui/art/icons/gear_lucentguardian_bow_a.dds","mace":"/esoui/art/icons/gear_lucentguardian_1hhammer_a.dds","maul":"/esoui/art/icons/gear_lucentguardian_2hhammer_a.dds","ring":"/esoui/art/icons/gear_breton_ring_a.dds","sword":"/esoui/art/icons/gear_lucentguardian_1hsword_a.dds","dagger":"/esoui/art/icons/gear_lucentguardian_dagger_a.dds","feet:*":"/esoui/art/icons/gear_lucentguardian_light_feet_a.dds","head:*":"/esoui/art/icons/gear_lucentguardian_light_head_a.dds","legs:*":"/esoui/art/icons/gear_lucentguardian_light_legs_a.dds","shield":"/esoui/art/icons/gear_lucentguardian_shield_a.dds","chest:*":"/esoui/art/icons/gear_lucentguardian_light_robe_a.dds","hands:*":"/esoui/art/icons/gear_lucentguardian_light_hands_a.dds","waist:*":"/esoui/art/icons/gear_lucentguardian_light_waist_a.dds","necklace":"/esoui/art/icons/gear_breton_neck_a.dds","battleaxe":"/esoui/art/icons/gear_lucentguardian_2haxe_a.dds","ice-staff":"/esoui/art/icons/gear_lucentguardian_staff_a.dds","greatsword":"/esoui/art/icons/gear_lucentguardian_2hsword_a.dds","shoulders:*":"/esoui/art/icons/gear_lucentguardian_light_shoulder_a.dds","inferno-staff":"/esoui/art/icons/gear_lucentguardian_staff_a.dds","lightning-staff":"/esoui/art/icons/gear_lucentguardian_staff_a.dds","restoration-staff":"/esoui/art/icons/gear_lucentguardian_staff_a.dds"}'
+key: mora-scribes-thesis
+subcategory-id: trial
+valid: '["*:light"]'
+---

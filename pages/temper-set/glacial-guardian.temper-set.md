@@ -1,0 +1,12 @@
+---
+page-type-slug: temper-set
+id: 019e66e6-a082-7e3c-9f5b-f6eaf77fe0c6
+title: "Glacial Guardian"
+slug: glacial-guardian
+bonuses: '[{"count":2,"status":"supported","effects":[{"metricId":"resistance","effectType":"integer","effectValue":743}],"description":"Adds 1487 Armor"},{"count":3,"status":"supported","effects":[{"metricId":"stamina-maximum","effectType":"integer","effectValue":1096}],"description":"Adds 1096 Maximum Stamina"},{"count":4,"status":"supported","effects":[{"metricId":"health-recovery","effectType":"integer","effectValue":129}],"description":"Adds 129 Health Recovery"},{"count":5,"status":"unsupported","effects":[],"description":"When you Block, tether to the enemy if they are within 8 meters of you for 8 seconds. While tethered, you deal 261 Frost damage every second to enemies touching the tether and cause them to have a 200% increased Status Effect Chance. The tether breaks if the target moves more than 12 meters away. This effect can occur once every 12 seconds and the damage scales off your Max Health."}]'
+eso-set-id: 621
+icons: '{"axe":"/esoui/art/icons/gear_scribestruthwpn_1haxe_a.dds","bow":"/esoui/art/icons/gear_scribestruthwpn_bow_a.dds","mace":"/esoui/art/icons/gear_scribestruthwpn_1hhammer_a.dds","maul":"/esoui/art/icons/gear_scribestruthwpn_2hhammer_a.dds","ring":"/esoui/art/icons/gear_breton_ring_a.dds","sword":"/esoui/art/icons/gear_scribestruthwpn_1hsword_a.dds","dagger":"/esoui/art/icons/gear_scribestruthwpn_dagger_a.dds","feet:*":"/esoui/art/icons/gear_scribestruth_hvy_feet_a.dds","head:*":"/esoui/art/icons/gear_scribestruth_hvy_head_a.dds","legs:*":"/esoui/art/icons/gear_scribestruth_hvy_legs_a.dds","shield":"/esoui/art/icons/gear_scribestruthwpn_shield_a.dds","chest:*":"/esoui/art/icons/gear_scribestruth_hvy_chest_a.dds","hands:*":"/esoui/art/icons/gear_scribestruth_hvy_hands_a.dds","waist:*":"/esoui/art/icons/gear_scribestruth_hvy_waist_a.dds","necklace":"/esoui/art/icons/gear_breton_neck_a.dds","battleaxe":"/esoui/art/icons/gear_scribestruthwpn_2haxe_a.dds","ice-staff":"/esoui/art/icons/gear_scribestruthwpn_staff_a.dds","greatsword":"/esoui/art/icons/gear_scribestruthwpn_2hsword_a.dds","shoulders:*":"/esoui/art/icons/gear_scribestruth_hvy_shoulders_a.dds","inferno-staff":"/esoui/art/icons/gear_scribestruthwpn_staff_a.dds","lightning-staff":"/esoui/art/icons/gear_scribestruthwpn_staff_a.dds","restoration-staff":"/esoui/art/icons/gear_scribestruthwpn_staff_a.dds"}'
+key: glacial-guardian
+subcategory-id: dungeon
+valid: '["*:heavy"]'
+---

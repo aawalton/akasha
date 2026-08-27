@@ -1,0 +1,12 @@
+---
+page-type-slug: temper-set
+id: 019e66e6-a091-70c4-a5dc-dd5c5176a646
+title: "Hollowfang Thirst"
+slug: hollowfang-thirst
+bonuses: '[{"count":2,"status":"supported","effects":[{"metricId":"critical-rating","effectType":"integer","effectValue":657}],"description":"Adds 657 Critical Chance"},{"count":3,"status":"supported","effects":[{"metricId":"magicka-maximum","effectType":"integer","effectValue":1096}],"description":"Adds 1096 Maximum Magicka"},{"count":4,"status":"supported","effects":[{"metricId":"critical-rating","effectType":"integer","effectValue":657}],"description":"Adds 657 Critical Chance"},{"count":5,"status":"unsupported","effects":[],"description":"When your healing critically strikes or when you critically damage a target, spawn a ball of Hemoglobin at their location. After 2 seconds the ball explodes, restoring 1750 Magicka and applying Minor Vitality to you and your group members within 6 meters of the ball for 9 seconds, increasing their healing received and damage shield strength by 6%. This effect can occur once every 9 seconds."}]'
+eso-set-id: 452
+icons: '{"axe":"/esoui/art/icons/gear_moongravefane_axe_a.dds","bow":"/esoui/art/icons/gear_moongravefane_bow_a.dds","mace":"/esoui/art/icons/gear_moongravefane_hammer_a.dds","maul":"/esoui/art/icons/gear_moongravefane_2hhammer_a.dds","ring":"/esoui/art/icons/gear_breton_ring_a.dds","sword":"/esoui/art/icons/gear_moongravefane_sword_a.dds","dagger":"/esoui/art/icons/gear_moongravefane_dagger_a.dds","feet:*":"/esoui/art/icons/gear_moongravefane_lgt_feet_a.dds","head:*":"/esoui/art/icons/gear_moongravefane_lgt_helmet_a.dds","legs:*":"/esoui/art/icons/gear_moongravefane_lgt_legs_a.dds","shield":"/esoui/art/icons/gear_moongravefane_shield_a.dds","chest:*":"/esoui/art/icons/gear_moongravefane_lgt_robe_a.dds","hands:*":"/esoui/art/icons/gear_moongravefane_lgt_hands_a.dds","waist:*":"/esoui/art/icons/gear_moongravefane_lgt_belt_a.dds","necklace":"/esoui/art/icons/gear_breton_neck_a.dds","battleaxe":"/esoui/art/icons/gear_moongravefane_2haxe_a.dds","ice-staff":"/esoui/art/icons/gear_moongravefane_staff_a.dds","greatsword":"/esoui/art/icons/gear_moongravefane_2hsword_a.dds","shoulders:*":"/esoui/art/icons/gear_moongravefane_lgt_shoulder_a.dds","inferno-staff":"/esoui/art/icons/gear_moongravefane_staff_a.dds","lightning-staff":"/esoui/art/icons/gear_moongravefane_staff_a.dds","restoration-staff":"/esoui/art/icons/gear_moongravefane_staff_a.dds"}'
+key: hollowfang-thirst
+subcategory-id: dungeon
+valid: '["*:light"]'
+---

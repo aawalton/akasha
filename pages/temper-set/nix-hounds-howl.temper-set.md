@@ -1,0 +1,12 @@
+---
+page-type-slug: temper-set
+id: 019e66e6-a0a8-7bd3-94b5-d929f8fea3a9
+title: "Nix-Hound's Howl"
+slug: nix-hounds-howl
+bonuses: '[{"count":2,"status":"supported","effects":[{"metricId":"power","effectType":"integer","effectValue":129}],"description":"Adds 129 Weapon and Spell Damage"},{"count":3,"status":"supported","effects":[{"metricId":"power","effectType":"integer","effectValue":129}],"description":"Adds 129 Weapon and Spell Damage"},{"count":4,"status":"supported","effects":[{"metricId":"power","effectType":"integer","effectValue":129}],"description":"Adds 129 Weapon and Spell Damage"},{"count":5,"status":"unsupported","effects":[],"description":"Completing a fully-charged Heavy Attack applies Major Cowardice to your target for 1 second per 1000 Weapon Damage you have, lowering their Weapon and Spell Damage by 430. You then gain Major Courage for the same duration, increasing your Weapon and Spell Damage by 430. This effect can occur once every 12 seconds.\n\nCurrent Durations\nMajor Cowardice: 1 second\nMajor Courage: 1 second"}]'
+eso-set-id: 681
+icons: '{"axe":"/esoui/art/icons/gear_magicaldunmer_1haxe_a.dds","bow":"/esoui/art/icons/gear_magicaldunmer_bow_a.dds","mace":"/esoui/art/icons/gear_magicaldunmer_1hhammer_a.dds","maul":"/esoui/art/icons/gear_magicaldunmer_2hhammer_a.dds","ring":"/esoui/art/icons/gear_breton_ring_a.dds","sword":"/esoui/art/icons/gear_magicaldunmer_1hsword_a.dds","dagger":"/esoui/art/icons/gear_magicaldunmer_dagger_a.dds","feet:*":"/esoui/art/icons/gear_magicaldunmer_medium_feet_a.dds","head:*":"/esoui/art/icons/gear_magicaldunmer_medium_head_a.dds","legs:*":"/esoui/art/icons/gear_magicaldunmer_medium_legs_a.dds","shield":"/esoui/art/icons/gear_magicaldunmer_shield_a.dds","chest:*":"/esoui/art/icons/gear_magicaldunmer_medium_chest_a.dds","hands:*":"/esoui/art/icons/gear_magicaldunmer_medium_hands_a.dds","waist:*":"/esoui/art/icons/gear_magicaldunmer_medium_waist_a.dds","necklace":"/esoui/art/icons/gear_breton_neck_a.dds","battleaxe":"/esoui/art/icons/gear_magicaldunmer_2haxe_a.dds","ice-staff":"/esoui/art/icons/gear_magicaldunmer_staff_a.dds","greatsword":"/esoui/art/icons/gear_magicaldunmer_2hsword_a.dds","shoulders:*":"/esoui/art/icons/gear_magicaldunmer_medium_shoulders_a.dds","inferno-staff":"/esoui/art/icons/gear_magicaldunmer_staff_a.dds","lightning-staff":"/esoui/art/icons/gear_magicaldunmer_staff_a.dds","restoration-staff":"/esoui/art/icons/gear_magicaldunmer_staff_a.dds"}'
+key: nix-hounds-howl
+subcategory-id: dungeon
+valid: '["*:medium"]'
+---

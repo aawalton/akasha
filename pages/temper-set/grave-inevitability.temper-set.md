@@ -1,0 +1,12 @@
+---
+page-type-slug: temper-set
+id: 019e66e6-a086-7470-a8c2-382fb76395f1
+title: "Grave Inevitability"
+slug: grave-inevitability
+bonuses: '[{"count":2,"status":"supported","effects":[{"metricId":"critical-rating","effectType":"integer","effectValue":657}],"description":"Adds 657 Critical Chance"},{"count":3,"status":"supported","effects":[{"metricId":"power","effectType":"integer","effectValue":129}],"description":"Adds 129 Weapon and Spell Damage"},{"count":4,"status":"supported","effects":[{"metricId":"critical-rating","effectType":"integer","effectValue":657}],"description":"Adds 657 Critical Chance"},{"count":5,"status":"unsupported","effects":[],"description":"Dealing damage with a Light or Heavy Attack grants you a stack of Remorseless for 5 seconds, up to 5 stacks, up to once every 0.5 seconds. While you have 5 stacks, you generate an aura of focus, granting you Major Force, increasing your Critical Damage by 20%, while group members within 12 meters of you gain Minor Force, increasing their Critical Damage by 10%."}]'
+eso-set-id: 664
+icons: '{"axe":"/esoui/art/icons/gear_shipwreck_1haxe_a.dds","bow":"/esoui/art/icons/gear_shipwreck_bow_a.dds","mace":"/esoui/art/icons/gear_shipwreck_1hhamer_a.dds","maul":"/esoui/art/icons/gear_shipwreck_2hhammer_a.dds","ring":"/esoui/art/icons/gear_breton_ring_a.dds","sword":"/esoui/art/icons/gear_shipwreck_sword_a.dds","dagger":"/esoui/art/icons/gear_shipwreck_dagger_a.dds","feet:*":"/esoui/art/icons/gear_shipwreck_light_feet_a.dds","head:*":"/esoui/art/icons/gear_shipwreck_light_head_a.dds","legs:*":"/esoui/art/icons/gear_shipwreck_light_legs_a.dds","shield":"/esoui/art/icons/gear_shipwreck_shield_a.dds","chest:*":"/esoui/art/icons/gear_shipwreck_light_robe_a.dds","hands:*":"/esoui/art/icons/gear_shipwreck_light_hands_a.dds","waist:*":"/esoui/art/icons/gear_shipwreck_light_waist_a.dds","necklace":"/esoui/art/icons/gear_breton_neck_a.dds","battleaxe":"/esoui/art/icons/gear_shipwreck_2haxe_a.dds","ice-staff":"/esoui/art/icons/gear_shipwreck_staff_a.dds","greatsword":"/esoui/art/icons/gear_shipwreck_2hsword_a.dds","shoulders:*":"/esoui/art/icons/gear_shipwreck_light_shoulder_a.dds","inferno-staff":"/esoui/art/icons/gear_shipwreck_staff_a.dds","lightning-staff":"/esoui/art/icons/gear_shipwreck_staff_a.dds","restoration-staff":"/esoui/art/icons/gear_shipwreck_staff_a.dds"}'
+key: grave-inevitability
+subcategory-id: dungeon
+valid: '["*:light"]'
+---
