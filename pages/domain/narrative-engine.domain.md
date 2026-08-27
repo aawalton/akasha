@@ -25,3 +25,6 @@ Every word a game master is served changes without a deploy.
 
 No part of a story or a world exists only in the database.
 
+Every kind of thing the narrative engine keeps in the database has a domain that defines it and a file that carries it.
+
+Everything in `stories/dirty` has been resolved.
