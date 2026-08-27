@@ -1,6 +1,6 @@
 export const tool = {
   summary: "Print the vocabularies a seat name may be spelled from, read names back, or admit them",
-  repos: ["instructions"],
+  repos: ["akasha"],
 } as const
 
 import { admitSeatName, type AdmissionVocabularies } from "./lib/admit-seat-name.ts"
@@ -18,7 +18,7 @@ function fail(message: string): never {
 }
 
 const HELP = [
-  "bun ~/repos/instructions/tools/seat-name.ts — what a seat name may be spelled from, and what one says",
+  "bun ~/repos/akasha/tools/seat-name.ts — what a seat name may be spelled from, and what one says",
   "",
   "Three modes. Bare it prints the vocabularies; --read divides names; --admits judges them.",
   "",
@@ -84,9 +84,9 @@ const HELP = [
   "silently mis-attribute every name after the one that was dropped.",
   "",
   "Usage:",
-  "  bun ~/repos/instructions/tools/seat-name.ts",
-  "  echo '{\"names\":[\"amy\"]}' | bun ~/repos/instructions/tools/seat-name.ts --read",
-  "  echo '{\"names\":[\"amy\"]}' | bun ~/repos/instructions/tools/seat-name.ts --admits",
+  "  bun ~/repos/akasha/tools/seat-name.ts",
+  "  echo '{\"names\":[\"amy\"]}' | bun ~/repos/akasha/tools/seat-name.ts --read",
+  "  echo '{\"names\":[\"amy\"]}' | bun ~/repos/akasha/tools/seat-name.ts --admits",
   "",
   "  --read      divide the names on stdin rather than printing the vocabularies.",
   "  --admits    say whether each name on stdin is one this system may bind, and under which family.",
@@ -98,7 +98,7 @@ const HELP = [
   "guards --read and --admits too, which is why both read the vocabularies through the same call.",
   "",
   "Environment:",
-  "  INSTRUCTIONS_ROOT  the tree to read (default: the repo this file lives in)",
+  "  AKASHA_ROOT  the tree to read (default: the repo this file lives in)",
   "",
   "Exit codes:",
   "  0  every vocabulary was read and printed, or every name named in was answered",
