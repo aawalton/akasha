@@ -5,7 +5,7 @@ title: "Mp command"
 extends-slug: domain
 files: akasha:**/*.mp-command.md
 body-shape-slug: domain
-code-loaded-by: instructions:tools/ops/akasha.ts
+code-loaded-by: akasha:tools/ops/akasha.ts
 slug: mp-command
 plural-slug: mp-commands
 domain-parent-slug: domain/master-plan

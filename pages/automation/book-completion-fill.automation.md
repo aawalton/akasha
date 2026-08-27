@@ -8,4 +8,4 @@ trigger: '{"from":{"kind":"is_empty"},"kind":"property_changed_to","propertyId":
 actions: '[{"kind":"patch_source","set":{"progress":"=source.length","status":"Completed"}}]'
 ---
 
-Would fill a book's progress to its length and mark it completed, as its twin does for an episode. It names no page type to watch, so nothing loads it — the `book` it was written for stands at `books:*.md` under an id its trigger never named.
+Would fill a book's progress to its length and mark it completed, as its twin does for an episode. It names no page type to watch, so nothing loads it — the `book` it was written for stands at `akasha:**/*.book.md` under an id its trigger never named.
