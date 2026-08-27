@@ -14,3 +14,7 @@ domain-parent-slug: domain/file-arrangement
 # Definition
 
 - **Folder shape** — a shape a folder is allowed to have.
+
+# Design
+
+A folder matching any shape is right.
