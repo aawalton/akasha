@@ -20,12 +20,12 @@ const FILES: Readonly<Record<string, string>> = {
     "type: text",
   ]),
 
-  "pages/window/offset.md": page([
+  "pages/window/offset.window.md": page([
     "resets-at: 2026-08-19T05:00:00+02:00",
     "spelled-at: 2026-08-19T05:00:00+02:00",
   ]),
-  "pages/window/zulu.md": page(["resets-at: 2026-08-19T04:00:00Z", "spelled-at: 2026-08-19T04:00:00Z"]),
-  "pages/window/gone.md": page(["resets-at: 2026-08-01T00:00:00Z", "spelled-at: 2026-08-01T00:00:00Z"]),
+  "pages/window/zulu.window.md": page(["resets-at: 2026-08-19T04:00:00Z", "spelled-at: 2026-08-19T04:00:00Z"]),
+  "pages/window/gone.window.md": page(["resets-at: 2026-08-01T00:00:00Z", "spelled-at: 2026-08-01T00:00:00Z"]),
 }
 
 const root = mkdtempSync(join("/var/tmp", "page-query-instant-"))

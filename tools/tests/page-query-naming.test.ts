@@ -13,9 +13,9 @@ const property = (on: string, key: string, lines: readonly string[]): string =>
   page([`defined-on-slug: ${on}`, `key: ${key}`, ...lines])
 
 const FILES: Readonly<Record<string, string>> = {
-  "pages/page-type/team.md": kind("team", "pages/team/**/*.md"),
-  "pages/page-type/job.md": kind("job", "pages/job/**/*.md"),
-  "pages/page-type/note.md": kind("note", "pages/note/**/*.md"),
+  "pages/page-type/team.page-type.md": kind("team", "pages/team/**/*.md"),
+  "pages/page-type/job.page-type.md": kind("job", "pages/job/**/*.md"),
+  "pages/page-type/note.page-type.md": kind("note", "pages/note/**/*.md"),
 
   "pages/page-property-definition/job-team.page-property-definition.md": property("job", "team-slug", ["type: relation-address", "target-slug: team"]),
   "pages/page-property-definition/job-mates.page-property-definition.md": property("job", "mate-slugs", [

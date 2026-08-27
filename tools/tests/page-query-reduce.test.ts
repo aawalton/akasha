@@ -12,10 +12,10 @@ const FILES: Readonly<Record<string, string>> = {
   "pages/page-property-definition/meter-used.page-property-definition.md": page(["defined-on-slug: meter", "key: used", "type: number"]),
   "pages/page-property-definition/meter-label.page-property-definition.md": page(["defined-on-slug: meter", "key: label", "type: text"]),
 
-  "pages/meter/one.md": page(["used: 10", "label: 10"]),
-  "pages/meter/two.md": page(["used: 20", "label: 20"]),
-  "pages/meter/three.md": page(["used: 60", "label: 60"]),
-  "pages/meter/silent.md": page(["label: nothing"]),
+  "pages/meter/one.meter.md": page(["used: 10", "label: 10"]),
+  "pages/meter/two.meter.md": page(["used: 20", "label: 20"]),
+  "pages/meter/three.meter.md": page(["used: 60", "label: 60"]),
+  "pages/meter/silent.meter.md": page(["label: nothing"]),
 }
 
 const root = mkdtempSync(join("/var/tmp", "page-query-reduce-"))
