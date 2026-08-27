@@ -1,5 +1,6 @@
 
 import { type CommsRule, type OnDemandAgentSpec } from "./decide-wake-match.ts"
+import { handlerSeatName, identityHeardFrom } from "./compose-seat-name.ts"
 import { resolveRoots } from "../../repo/roots/roots"
 import {
   type PersonHandlerIdentity,
@@ -10,7 +11,7 @@ import {
 
 const ROOT = resolveRoots().instructions
 
-export const ALAN_HANDLER_SEAT = "amy-alan-handler"
+export const ALAN_HANDLER_SEAT = handlerSeatName("alan", ROOT)
 
 const ACTION_BOX_AGENT_ID = "019ef9ea-83e2-707e-b1f3-3b70875a8e88"
 
@@ -88,24 +89,17 @@ const DECLARED_SPECS: readonly OnDemandAgentSpec[] = [
   ...SMS_ENTRY_POINT_SPECS,
 ]
 
-const SEATED_PERSONA_SEATS: readonly string[] = [ALAN_HANDLER_SEAT]
+const SEATED_HANDLER_PERSONS: readonly string[] = ["alan"]
 
-function personaSlotOf(seatName: string, personaSlugs: readonly string[]): string | null {
-  let slot: string | null = null
-  for (const slug of personaSlugs) {
-    if (!seatName.startsWith(`${slug}-`)) continue
-    if (slot === null || slug.length > slot.length) slot = slug
-  }
-  return slot
-}
-
-function seatedPersonaSpec(
-  seatName: string,
-  personaSlugs: readonly string[],
+function seatedHandlerSpec(
+  person: string,
   personaWakeSources: ReadonlyMap<string, readonly CommsRule[]>
 ): OnDemandAgentSpec {
-  const persona = personaSlotOf(seatName, personaSlugs)
-  return standingPersonaSpec(seatName, persona === null ? [] : (personaWakeSources.get(persona) ?? []))
+  const persona = identityHeardFrom(ROOT, person)
+  return standingPersonaSpec(
+    handlerSeatName(person, ROOT),
+    persona === null ? [] : (personaWakeSources.get(persona) ?? [])
+  )
 }
 
 export function assembleArmedSpecs(
@@ -115,10 +109,9 @@ export function assembleArmedSpecs(
 ): readonly OnDemandAgentSpec[] {
   const byName = new Map<string, OnDemandAgentSpec>()
   for (const spec of DECLARED_SPECS) byName.set(spec.name, spec)
-  for (const seat of SEATED_PERSONA_SEATS) {
-    if (!byName.has(seat)) {
-      byName.set(seat, seatedPersonaSpec(seat, personaSlugs, personaWakeSources))
-    }
+  for (const person of SEATED_HANDLER_PERSONS) {
+    const spec = seatedHandlerSpec(person, personaWakeSources)
+    if (!byName.has(spec.name)) byName.set(spec.name, spec)
   }
   for (const slug of personaSlugs) {
     if (!byName.has(slug)) {
