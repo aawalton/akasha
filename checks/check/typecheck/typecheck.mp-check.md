@@ -4,6 +4,8 @@ page-type-slug: mp-check
 title: "Typecheck"
 slug: typecheck
 needs: tree
+check-on-patch: false
+check-on-worktree: false
 ---
 
 # Definition

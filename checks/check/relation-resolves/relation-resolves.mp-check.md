@@ -4,6 +4,8 @@ page-type-slug: mp-check
 title: "Relation resolves"
 slug: relation-resolves
 needs: tree
+check-on-patch: false
+check-on-worktree: false
 ---
 
 # Definition

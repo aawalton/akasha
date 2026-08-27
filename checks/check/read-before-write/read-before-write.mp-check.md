@@ -5,6 +5,8 @@ title: "Read before write"
 slug: read-before-write
 needs: tree
 needs-author: true
+check-on-patch: false
+check-on-worktree: false
 ---
 
 # Definition

@@ -4,6 +4,8 @@ page-type-slug: mp-check
 title: "Page holds to its type"
 slug: page-holds-to-its-type
 needs: tree
+check-on-patch: false
+check-on-worktree: false
 ---
 
 # Definition

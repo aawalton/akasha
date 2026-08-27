@@ -5,6 +5,8 @@ title: "Read what is required"
 slug: read-what-is-required
 needs: tree
 needs-author: true
+check-on-patch: false
+check-on-worktree: false
 ---
 
 # Definition

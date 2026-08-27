@@ -5,6 +5,8 @@ title: "Import reach"
 slug: import-reach
 needs: file
 cached: false
+check-on-patch: false
+check-on-worktree: false
 ---
 
 # Definition

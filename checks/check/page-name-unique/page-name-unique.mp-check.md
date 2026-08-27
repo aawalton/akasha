@@ -4,6 +4,8 @@ page-type-slug: mp-check
 title: "Page name unique"
 slug: page-name-unique
 needs: tree
+check-on-patch: false
+check-on-worktree: false
 ---
 
 # Definition

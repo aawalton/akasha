@@ -4,6 +4,8 @@ page-type-slug: mp-check
 title: "Category rule acts"
 slug: category-rule-acts
 needs: tree
+check-on-patch: false
+check-on-worktree: false
 ---
 
 # Definition

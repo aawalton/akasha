@@ -3,6 +3,8 @@ page-type-slug: mp-check
 title: "Inbound import resolves"
 slug: inbound-import-resolves
 needs: tree
+check-on-patch: false
+check-on-worktree: false
 ---
 
 # Definition

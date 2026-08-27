@@ -4,6 +4,8 @@ page-type-slug: mp-check
 title: "Links resolve"
 slug: links-resolve
 needs: tree
+check-on-patch: false
+check-on-worktree: false
 ---
 
 # Definition

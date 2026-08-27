@@ -4,6 +4,8 @@ page-type-slug: mp-check
 title: "Page named as stated"
 slug: page-named-as-stated
 needs: tree
+check-on-patch: false
+check-on-worktree: false
 ---
 
 # Definition
