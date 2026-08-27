@@ -4,7 +4,7 @@ import { ANSWER_CEILING } from "../../agent/read-answer.ts"
 import { readingsOf } from "../lib/read-record.ts"
 import { canonicalize } from "../../repo/path/path"
 import { type Fixture, fixture, installGates, installRepos } from "./fixture.ts"
-import { plantSeat } from "./seat-fixture.ts"
+import { installCommands, plantSeat } from "./seat-fixture.ts"
 import { toolArgv } from "../lib/tool-argv.ts"
 const LIVE = `${import.meta.dir}/../..`
 const AGENT = "agent-answer-ceiling"
@@ -33,6 +33,9 @@ beforeEach(() => {
   at = fixture()
   installGates(at.root)
   installRepos(at.root)
+  // THE DISPATCHER FINDS ITS COMMANDS UNDER THE AKASHA ROOT, which is this temp repo, so a root
+  // without the command pages answers `ops: unknown command` rather than reading anything.
+  installCommands(at)
   at.installRecorder(AGENT)
   at.put(
     "pages/domain/global.domain.md",
