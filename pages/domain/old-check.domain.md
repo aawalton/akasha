@@ -1,14 +1,14 @@
 ---
 id: 24098dfc-7cc8-5509-bac9-d9083e4d5ae8
 page-type-slug: domain
-title: "Check"
+title: "Old check"
 slug: old-check
 domain-parent-slug: domain/instrument-kind
 ---
 
 # Definition
 
-- **Check** — an instrument run on a provisional change, ruling on whether it may be kept.
+- **Old check** — an instrument run on a provisional change, ruling on whether it may be kept.
 
 # Design
 

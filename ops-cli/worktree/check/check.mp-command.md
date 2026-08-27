@@ -2,7 +2,7 @@
 id: 0cee147e-d2a5-5b20-95c6-ed975c982e53
 page-type-slug: mp-command
 title: "Check"
-slug: old-check
+slug: check
 path: worktree check
 domain-parent-slug: domain/ops-worktree
 required-reading-slugs:
