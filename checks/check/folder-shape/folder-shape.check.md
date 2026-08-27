@@ -1,6 +1,6 @@
 ---
 id: 01a04035-32d6-7000-aadc-fd0762c55606
-page-type-slug: mp-check
+page-type-slug: check
 title: "Folder shape"
 slug: folder-shape
 needs: tree

@@ -5,7 +5,7 @@ title: "Master plan"
 slug: master-plan
 domain-parent-slug: domain/global
 sequence-slugs:
-  - page-type/mp-check
+  - page-type/check
   - page-type/mp-patch
   - domain/master-plan-worktree
   - domain/master-plan-deploy

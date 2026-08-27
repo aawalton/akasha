@@ -1,6 +1,6 @@
 ---
 id: 73ede42a-ab95-5d69-bd6f-1689da7a0567
-page-type-slug: mp-check
+page-type-slug: check
 title: "Typecheck"
 slug: typecheck
 needs: tree

@@ -1,6 +1,6 @@
 ---
 id: 8e10bb84-97fd-58a1-a22c-3bed0f895bdd
-page-type-slug: mp-check
+page-type-slug: check
 title: "Page named as stated"
 slug: page-named-as-stated
 needs: tree

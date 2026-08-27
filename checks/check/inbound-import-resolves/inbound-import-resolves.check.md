@@ -1,5 +1,5 @@
 ---
-page-type-slug: mp-check
+page-type-slug: check
 title: "Inbound import resolves"
 slug: inbound-import-resolves
 needs: tree

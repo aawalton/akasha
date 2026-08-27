@@ -1,6 +1,6 @@
 ---
 id: b9cff7eb-ba6d-51e0-888c-8382e747fb1c
-page-type-slug: mp-check
+page-type-slug: check
 title: "Export declared here"
 slug: export-declared-here
 needs: file

@@ -1,6 +1,6 @@
 ---
 id: 929c823c-105a-5b28-a073-cc53ca2d524d
-page-type-slug: mp-check
+page-type-slug: check
 title: "Page holds to its type"
 slug: page-holds-to-its-type
 needs: tree

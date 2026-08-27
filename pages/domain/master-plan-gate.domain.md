@@ -3,7 +3,7 @@ id: 4d1c6a3e-50dd-4831-8681-6053c64d11e3
 page-type-slug: domain
 title: "Master plan gate"
 slug: master-plan-gate
-domain-parent-slug: page-type/mp-check
+domain-parent-slug: page-type/check
 ---
 
 # Definition

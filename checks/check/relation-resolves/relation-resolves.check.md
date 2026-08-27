@@ -1,6 +1,6 @@
 ---
 id: 7b05db85-fa23-5d2e-bb7c-02ffa67455ea
-page-type-slug: mp-check
+page-type-slug: check
 title: "Relation resolves"
 slug: relation-resolves
 needs: tree

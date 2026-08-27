@@ -1,6 +1,6 @@
 ---
 id: 01a040a4-fe4f-7000-94f2-97894136694f
-page-type-slug: mp-check
+page-type-slug: check
 title: "Category rule acts"
 slug: category-rule-acts
 needs: tree

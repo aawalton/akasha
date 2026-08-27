@@ -2,11 +2,11 @@
 id: 829e3bd6-2182-4b13-91f1-0b57549a7bc0
 page-type-slug: page-property-definition
 title: "Needs"
-defined-on-slug: page-type/mp-check
+defined-on-slug: page-type/check
 key: needs
 type: text
-slug: mp-check-needs
-domain-parent-slug: page-type/mp-check
+slug: check-needs
+domain-parent-slug: page-type/check
 ---
 
 # Definition

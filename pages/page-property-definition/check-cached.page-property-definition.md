@@ -2,12 +2,12 @@
 id: 6db6b48e-6caa-5c20-9145-acdf859c0e4f
 page-type-slug: page-property-definition
 title: "Cached"
-defined-on-slug: page-type/mp-check
+defined-on-slug: page-type/check
 key: cached
 type: boolean
 default: true
-slug: mp-check-cached
-domain-parent-slug: page-type/mp-check
+slug: check-cached
+domain-parent-slug: page-type/check
 ---
 
 # Definition

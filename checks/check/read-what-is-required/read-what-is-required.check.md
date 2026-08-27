@@ -1,6 +1,6 @@
 ---
 id: 2ff11f5c-ce32-5a14-b58c-108d711bdfb4
-page-type-slug: mp-check
+page-type-slug: check
 title: "Read what is required"
 slug: read-what-is-required
 needs: tree

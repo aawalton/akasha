@@ -1,6 +1,6 @@
 ---
 id: c9bd1175-8d22-46b9-a241-944bbef90ce2
-page-type-slug: mp-check
+page-type-slug: check
 title: "Links resolve"
 slug: links-resolve
 needs: tree

@@ -1,6 +1,6 @@
 ---
 id: a0aa0397-e630-5253-8a43-f453690ce8f0
-page-type-slug: mp-check
+page-type-slug: check
 title: "Read before write"
 slug: read-before-write
 needs: tree

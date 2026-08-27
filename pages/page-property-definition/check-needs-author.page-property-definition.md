@@ -2,11 +2,11 @@
 id: f1aea96a-40b6-4c67-8b6c-64544972a945
 page-type-slug: page-property-definition
 title: "Needs author"
-defined-on-slug: page-type/mp-check
+defined-on-slug: page-type/check
 key: needs-author
 type: boolean
-slug: mp-check-needs-author
-domain-parent-slug: page-type/mp-check
+slug: check-needs-author
+domain-parent-slug: page-type/check
 ---
 
 # Definition
