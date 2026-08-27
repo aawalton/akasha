@@ -8,7 +8,7 @@ const NAME_MAP = buildPackageNameMap()
 
 const BUN_SERVICES = Object.entries(SERVICES).filter(([, c]) => c.type === "bun-service")
 
-const GFS_PROMOTER_DIR = "packages/infra/k8s/postgres/gfs-promoter"
+const GFS_PROMOTER_DIR = "infra/k8s-postgres-gfs-promoter"
 
 describe("collectExecutedDeps — a bun-service carries what it imports, not what it declares (#19458)", () => {
   it("answers for every registered bun-service, and every workspace import resolves", () => {
