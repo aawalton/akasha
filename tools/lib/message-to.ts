@@ -75,7 +75,7 @@ export function undeclared(stated: Stated): string | null {
   if (stated.kind === "domain" && "refusal" in resolveSlot("domain", stated.domain, root, found)) {
     return (
       `--domain '${stated.domain}': no document declares \`slug: ${stated.domain}\`, so no ` +
-      "seat could be stating it. `bun ~/repos/instructions/tools/dag.ts` prints the domains that stand."
+      "seat could be stating it. `ops akasha dag` prints the domains that stand."
     )
   }
 
