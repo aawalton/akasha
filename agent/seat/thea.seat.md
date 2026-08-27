@@ -8,6 +8,7 @@ role-slug: definer
 person-slug: alan
 start-mode: interactive
 on-call: true
+initiative-slug: thea-checks-system
 errand: "Okay, first question for these. Should they be tracked? Should they be loaded on demand when they are needed?"
 registration-account: aawalton
 claude-code-session-uuid: ffd3a983-16d0-4de2-ad44-0a312d188d41
