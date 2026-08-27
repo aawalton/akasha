@@ -6,12 +6,17 @@ const CEILING_MS = 5_000
 
 export const PAGE_QUERY_ORIGIN = "http://127.0.0.1:8787"
 
-export function askedUrl(origin: string, querySlug: string, given: Given): string {
+export function paramsIn(given: Given): URLSearchParams {
   const carried = new URLSearchParams()
   for (const [key, held] of Object.entries(given)) {
     if (Array.isArray(held)) for (const one of held) carried.append(key, one)
     else carried.append(key, held as string)
   }
+  return carried
+}
+
+export function askedUrl(origin: string, querySlug: string, given: Given): string {
+  const carried = paramsIn(given)
   const tail = carried.toString()
   return tail === "" ? `${origin}/q/${querySlug}` : `${origin}/q/${querySlug}?${tail}`
 }
