@@ -17,6 +17,11 @@ export const PAGE_TYPE_GLOBS: readonly string[] = [
   placeOf("rules-engine-rule-set"),
 ]
 
+export const PAGE_TYPE_SPANNING_GLOBS: readonly string[] = [
+  namedOf("page-type"),
+  namedOf("rules-engine-rule-set"),
+]
+
 export const PAGE_BODY_SHAPE_GLOBS: readonly string[] = [placeOf("page-body-shape")]
 
 export const PROPERTY_GLOBS: readonly string[] = [
@@ -111,6 +116,16 @@ export function scan(roots: Roots, globs: readonly string[]): readonly string[] 
   return root === undefined ? [] : scanIn(root, globs, INSTRUCTIONS)
 }
 
+export function scanSpanning(roots: Roots, globs: readonly string[]): readonly string[] {
+  const found: string[] = []
+  for (const repo of REPOS) {
+    const root = roots[repo]
+    if (root === undefined) continue
+    found.push(...scanIn(root, globs, repo))
+  }
+  return [...new Set(found)].sort()
+}
+
 export interface StatedPageType {
   readonly slug: string
   readonly relPath: string
@@ -202,6 +217,10 @@ export function pageTypePathIn(root: string, slug: string): string {
 
 export function placeOf(slug: string): string {
   return `${placeDirOf(slug)}/**/*.${slug}${MARKDOWN}`
+}
+
+export function namedOf(slug: string): string {
+  return `**/*.${slug}${MARKDOWN}`
 }
 
 export interface Filed {
