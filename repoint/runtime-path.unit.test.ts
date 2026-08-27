@@ -64,7 +64,10 @@ describe("a path a module writes against its own directory", () => {
     const at = fixture()
     try {
       at.put("tools/ops/cli.ts", "export const cli = 1\n")
-      at.put("tools/tests/run.ts", "const CLI = `${import.meta.dir}/../ops/cli.ts`\nexport const c = CLI\n")
+      at.put(
+        "tools/tests/run.ts",
+        "const CLI = `${import.meta.dir}/../ops/cli.ts`\nexport const c = CLI\n"
+      )
       const pairs = moves(["tools/ops/cli.ts", "tools/ops/entry.ts"])
       const body = landed(at.root, pairs, "tools/tests/run.ts")
       expect(body).toContain("`${import.meta.dir}/../ops/entry.ts`")
@@ -77,7 +80,10 @@ describe("a path a module writes against its own directory", () => {
     const at = fixture()
     try {
       at.put("tools/ops/cli.ts", "export const cli = 1\n")
-      at.put("tools/tests/run.ts", "const CMD = `${import.meta.dir}/../ops/cli.ts --help`\nexport const c = CMD\n")
+      at.put(
+        "tools/tests/run.ts",
+        "const CMD = `${import.meta.dir}/../ops/cli.ts --help`\nexport const c = CMD\n"
+      )
       const pairs = moves(["tools/ops/cli.ts", "tools/ops/entry.ts"])
       const body = landed(at.root, pairs, "tools/tests/run.ts")
       expect(body).toContain("`${import.meta.dir}/../ops/entry.ts --help`")
@@ -230,7 +236,10 @@ describe("what a rename does with a runtime path it cannot read", () => {
     const at = fixture()
     try {
       at.put("tools/ops/cli.ts", "export const cli = 1\n")
-      at.put("tools/tests/run.ts", "const CLI = `${import.meta.dir}/../ops/cli.ts`\nexport const c = CLI\n")
+      at.put(
+        "tools/tests/run.ts",
+        "const CLI = `${import.meta.dir}/../ops/cli.ts`\nexport const c = CLI\n"
+      )
       const pairs = moves(["pages/nothing.md", "pages/nowhere.md"])
       at.put("pages/nothing.md", "# Nothing\n")
       const { runtime } = surveyRename(pairs, rootsAt(at.root))

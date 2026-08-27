@@ -49,7 +49,8 @@ const CALL = /([A-Za-z_$][\w$.]*)\s*\(/g
 
 const JOINS = /(?:^|\.)(?:join|resolve)$/
 
-const ALIAS = /\b(?:const|let|var)\s+([A-Za-z_$][\w$]*)\s*(?::[^=;\n]*)?=\s*(import\.meta\.dir(?:name)?|__dirname)\b/g
+const ALIAS =
+  /\b(?:const|let|var)\s+([A-Za-z_$][\w$]*)\s*(?::[^=;\n]*)?=\s*(import\.meta\.dir(?:name)?|__dirname)\b/g
 
 // What may stand in a path written into the static tail of a template. A tail runs on past the
 // path it opens with — `` `${import.meta.dir}/run.sh --flag` `` — and the path is what precedes
@@ -185,7 +186,11 @@ export function runtimePatches(
     }
     const next = retarget([literal.value])
     if (next === null) continue
-    patch(literal.span, literal.value, literal.value.startsWith("./") && !next.startsWith(".") ? `./${next}` : next)
+    patch(
+      literal.span,
+      literal.value,
+      literal.value.startsWith("./") && !next.startsWith(".") ? `./${next}` : next
+    )
   }
 
   // `join(import.meta.dir, "x.json")` and `resolve(__dirname, "..", "x.json")`
@@ -210,7 +215,10 @@ export function runtimePatches(
     }
     if (written.length !== literals.length) {
       const span = { start: match.index ?? 0, end: (rest.at(-1)?.end ?? open) + 1 }
-      const upTo = walked(beneath, written.map((one) => one.value))
+      const upTo = walked(
+        beneath,
+        written.map((one) => one.value)
+      )
       const next = rest[written.length]
       cannot(span, prefixOf(upTo, next === undefined ? "" : headOf(body, tokens, next)))
       continue
@@ -221,7 +229,11 @@ export function runtimePatches(
     const tail = written.at(-1)
     if (head === undefined || tail === undefined) continue
     if (written.length === 1) {
-      patch(head.span, head.value, head.value.startsWith("./") && !next.startsWith(".") ? `./${next}` : next)
+      patch(
+        head.span,
+        head.value,
+        head.value.startsWith("./") && !next.startsWith(".") ? `./${next}` : next
+      )
       continue
     }
     // More than one segment cannot be repointed piece by piece without saying which piece the
