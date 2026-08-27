@@ -57,6 +57,8 @@ Settled with Alan on 2026-08-27, before any intent was written:
 
 **A dotted name cannot be written as a formula.** The file side refuses a path step whose head is not an object, and a page's frontmatter holds only text. Reaching another page's property is a `rollup`, which declares a relation and a target rather than a formula. No `named-for` value is dotted, so no naming translation needs this.
 
+**A name formula is a property definition scoped to its page type, settled 2026-08-27.** A page type naming differently from the default declares its own `name` property definition, carrying the formula. A property definition already scopes to a page type, so naming takes no mechanism of its own. Thirty-six page types need one.
+
 **Loose ends, found 2026-08-27.** Taken as they block an intent or come up alongside one.
 
 - Seventeen hyphenated holes, over twenty-three occurrences, parse as subtraction rather than as references unless every one is spelled `prop(...)`.
