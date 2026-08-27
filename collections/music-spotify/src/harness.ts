@@ -62,7 +62,7 @@ async function main(): Promise<void> {
   const token = readToken()
   if (token == null) {
     console.error(
-      "No stored token — run the consent CLI first:\n  bun --cwd packages/collections/music/spotify run auth"
+      "No stored token — run the consent CLI first:\n  bun --cwd collections/music-spotify run auth"
     )
     process.exit(1)
   }
