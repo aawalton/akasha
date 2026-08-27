@@ -9,7 +9,6 @@ parent-slug: aine-global
 
 # Intent
 
-- Every node type and edge type the graph carries is worth what it costs.
 - No node the graph holds asserts something that is not true.
 - No edge the graph draws asserts something that is not true.
 - A producer can answer about one node without producing every node.
@@ -71,6 +70,8 @@ Two node types, from the union's 52.
 
 Three edge types, from the union's 83: `import`, `relation`, `contains`. All three are approved 2026-08-27.
 
+All five types are built. `contains` is read off the path rather than derived: what holds a node is its key with the last segment cut, and what a folder holds is one indexed pass over that repository's tracked keys, kept against the context that asked. No `contains` edge is stored, and its far end carries no attribute saying whether a file or a folder stands there, the node already saying.
+
 `names` is dropped. It was drawn up to absorb seventeen old types, and most of those went with the node types they joined; what remained had no reader and was never built.
 
 `file-kind` is not an edge. A file's format is an attribute on the file, by Alan's ruling on 2026-08-27, and an edge to the kind's page would state the same fact a second time. The `file-name` producer and the `file-kind` edge are gone; the name matching they used remains in `page/file-kind/`, being what tells the write path whether a body is bytes.
@@ -103,9 +104,9 @@ A node names the repository it lives in, by Alan's ruling on 2026-08-26. A thing
 
 The root typecheck reports 836 errors, nearly all `TS6307` and `TS5097` project-reference failures across `shared/*`. Neither `tools/lib/graph/` nor `infra/cluster-checks/` is in the root tsconfig references, so no error in either reaches that number.
 
-The node line is nearly free today, the only node type being `file` and its nodes coming from what git tracks. It stops being free as further node types land, each claiming something a file's existence does not settle.
+`file` and `folder` both come from what git tracks, so the node line costs one pass over the tracked keys and nothing for each node beyond it. It stops being free as a node type lands claiming something a tracked path does not settle.
 
-`edgesInto` answers a question about one node by producing every node in every repository and re-deriving each one's edges. It is what the targeting line is aimed at.
+`edgesInto` asks a producer that can name what reaches a node to answer directly, and walks every node in every repository only for the producers that cannot. `contains` is the only one answering directly today, at 2,000 separate asks in 3ms against 581ms for one `import` ask over 89,648 nodes. The targeting line is aimed at the producers still walked.
 
 The `Said` memo at `build-context.ts` is the one held answer today, keyed by a file's git blob oid and a mark hashing the graph engine's own import closure, so it drops itself when an extractor changes.
 
@@ -114,3 +115,5 @@ The `Said` memo at `build-context.ts` is the one held answer today, keyed by a f
 `domain/the-graph` writes its Condition and its `Alan Approves` rule in the word "kind", which no domain defines. `domain/graph-producer` says "node type" and "edge type" for the same thing. Whether "kind" gives way to "type" everywhere is open; the intents here are settled case by case.
 
 `page-type/graph-edge` defines an edge as "one link from one node to another", while every page under it describes an edge type rather than a link.
+
+`page-type/graph-edge` states as a Condition that an edge runs from the node that names another to the one it names. `contains` runs against that: the child's key names the folder, and the edge runs from the folder.
