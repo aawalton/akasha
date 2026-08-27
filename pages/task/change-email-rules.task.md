@@ -29,8 +29,8 @@ required-reading-slugs:
    - **Set** `delay:` as a count of minutes or hours only where acting at once would be wrong and acting later is still right.
 
 4. **Landing it, and the set still being a partition.**
-   - **Compose** the file outside the repository and land it through `ops instructions write`, which gates it against the page type, the actions it may state and every document required for the path.
-   - **Run** `ops instructions run-checks email-rules-disjoint email-rules-cover` after it lands, and read both. Two rules never firing on one message and no message falling through are separate claims, and a rule can break either one while the write is admitted.
+   - **Compose** the file outside the repository and land it through `ops write`, which gates it against the page type, the actions it may state and every document required for the path.
+   - **Run** `ops akasha run-checks email-rules-disjoint email-rules-cover` after it lands, and read both. Two rules never firing on one message and no message falling through are separate claims, and a rule can break either one while the write is admitted.
    - **Read** what a failing check names instead of narrowing the new rule until it goes green. An overlap names a pair, and which of the two is the wrong one is a judgment rather than a repair.
 
 # Invariants

@@ -16,7 +16,7 @@ required-reading-slugs:
 
 1. **The directive as it stands, read with everything above it.**
    - **Read** the whole document it sits on with `ops read --file-path <p> --full`. Without `--full` the command prints only what changed since this seat last read the file, which on a document it has never read leaves out most of it.
-   - **Read** every directive that is required for the same reader, which `ops instructions required-reading --file-path <p>` names. An aid blocking what a directive above already blocks spends the line and dilutes both.
+   - **Read** every directive that is required for the same reader, which `ops akasha required-reading --file-path <p>` names. An aid blocking what a directive above already blocks spends the line and dilutes both.
    - **Keep** the act unless it states something false. What this task writes is the warrant and the two aids, and a run that rewrites the act as well has changed what the directive requires without anyone asking for that.
 
 2. **What obeying looks like, in your own words.**
@@ -53,7 +53,7 @@ required-reading-slugs:
    - **Cut** a claim that will not fit rather than reporting the part as too long for its cap. The caps are settled and were set knowing real claims would go, so a part running long is one carrying more than its reader can hold, and picking what goes is the work rather than a way out of it.
 
 7. **The landing and the handback.**
-   - **Land** the four parts with `ops instructions edit`, straight onto main per [Land On Main](../domain/seat-writing.domain.md#land-on-main).
+   - **Land** the four parts with `ops edit`, straight onto main per [Land On Main](../domain/seat-writing.domain.md#land-on-main).
    - **Report** the ten aids with their categories, and which two you picked. The pick is what your reviewer judges, and two aids arriving without the eight you rejected cannot be told from the first two you thought of.
    - **Show** the whole directive last, copied out of the file as it now reads. A reader judges an act, a warrant and two aids by how they run together, and four parts listed apart take that away.
 

@@ -29,8 +29,8 @@ required-reading-slugs:
    - **Set** `counterpart-within-days` only where the row is one leg of a movement between two accounts. A counterpart rides along with the row it pairs to, so a rule that pairs can write a transaction dated further back than the run's own window.
 
 4. **Landing it, and the set still being a partition.**
-   - **Compose** the file outside the repository and land it through `ops instructions write`, which gates it against the page type and every document required for the path.
-   - **Run** `ops instructions run-checks category-rules-disjoint category-rules-cover` and read what each names. A rule can break the partition while the write is admitted: an overlap names a pair rather than a culprit, and a gap names a transaction nothing claims.
+   - **Compose** the file outside the repository and land it through `ops write`, which gates it against the page type and every document required for the path.
+   - **Run** `ops akasha run-checks category-rules-disjoint category-rules-cover` and read what each names. A rule can break the partition while the write is admitted: an overlap names a pair rather than a culprit, and a gap names a transaction nothing claims.
    - **Say** what still has to be done by hand. The run on that sync reaches only the recent end of the history, so a rule written from a backlog leaves that backlog exactly where it was.
 
 # Invariants

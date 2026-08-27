@@ -16,4 +16,4 @@ domain-parent-slug: page-type/task
    - **Create** an initiative instead where any part of the change reaches the code repository, needs a definition somebody else writes, or needs a verdict from a seat that did not make the change. The first of those depends on whether something has to reach production over a branch, CI and a deploy, not on whether the change touches code — this repo's own `tools/` are code and land on the commit like everything else here.
 
 2. **Verification.**
-   - **Run** `ops instructions run-checks`, because there is no branch, no CI and no deploy on this path.
+   - **Run** `ops akasha run-checks`, because there is no branch, no CI and no deploy on this path.
