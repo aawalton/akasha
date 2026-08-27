@@ -1,5 +1,6 @@
 import { describe, expect, test } from "bun:test"
 import {
+  DECLARED_CHECK_ENTRYPOINTS,
   findCheckInvocations,
   findRoutingViolations,
   findUnjudgedScriptPaths,
@@ -55,8 +56,11 @@ describe("findCheckInvocations", () => {
   })
 
   test("recognises a declared entrypoint whose name is not check-*.ts", () => {
-    expect(findCheckInvocations(`bun ${RUN_CHECK_PATH} ${DIR}lint-verdict.ts .`)).toEqual([
-      { script: `${DIR}lint-verdict.ts`, routed: true },
+    const [declared] = DECLARED_CHECK_ENTRYPOINTS
+    expect(declared).toBeDefined()
+    const path = declared?.path ?? ""
+    expect(findCheckInvocations(`bun ${RUN_CHECK_PATH} ${path} .`)).toEqual([
+      { script: path, routed: true },
     ])
   })
 
