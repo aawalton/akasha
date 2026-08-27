@@ -14,5 +14,5 @@ scopes:
   - user:mcp_servers
   - user:profile
   - user:sessions:claude_code
-retry-after: 2026-08-27T16:52:19.077Z
+retry-after: 2026-08-27T16:52:37.724Z
 ---
