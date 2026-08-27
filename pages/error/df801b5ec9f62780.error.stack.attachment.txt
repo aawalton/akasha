@@ -1,0 +1,1 @@
+gate=slug:temper-character (Electric snapshot fold) elapsed>=4000ms acquired=true

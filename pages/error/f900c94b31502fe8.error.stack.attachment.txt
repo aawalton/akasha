@@ -1,0 +1,6 @@
+Error: patchPage(story-chapter): TypeError: Failed to fetch
+    at tue (https://alanwalton.com/assets/src-BEpDBfmU.js:20:93420)
+    at async Mg (https://alanwalton.com/assets/src-BEpDBfmU.js:20:94126)
+    at async mutationFn (https://alanwalton.com/assets/src-BEpDBfmU.js:20:76224)
+    at async Ese.mutationFn (https://alanwalton.com/assets/src-BEpDBfmU.js:20:3504)
+    at async Ese.commit (https://alanwalton.com/assets/src-BEpDBfmU.js:18:14030)
