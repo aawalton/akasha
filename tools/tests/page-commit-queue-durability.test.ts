@@ -50,11 +50,7 @@ const NO_SUCH_PID = 2147483647
 const away = join(root, "no-such-repo")
 
 const ROOTS: Roots = {
-  instructions: root,
-  code: away,
-  memory: away,
-  books: away,
-  stories: away,
+  akasha: root,
   "code-editor": away,
 }
 

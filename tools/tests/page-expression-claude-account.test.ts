@@ -151,7 +151,7 @@ const rootFor = (pages: Readonly<Record<string, string>>): string => {
 
 const roots = (root: string): Roots => {
   const away = join(root, "no-such-repo")
-  return { instructions: root, code: away, memory: away, books: away, stories: away, "code-editor": away }
+  return { akasha: root, "code-editor": away }
 }
 
 const PLAIN = rootFor({

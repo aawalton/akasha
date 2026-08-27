@@ -25,7 +25,7 @@ const elsewhere = repoAt("page-write-filed-elsewhere-")
 const FILES: Readonly<Record<string, string>> = {
   "pages/page-type/probe.page-type.md": page([
     "extends-slug: none",
-    "files: memory:**/*.probe.md",
+    "files: code-editor:**/*.probe.md",
   ]),
   "pages/page-property-definition/probe-title.page-property-definition.md": page([
     "defined-on-slug: probe",
@@ -41,15 +41,9 @@ for (const [relPath, text] of Object.entries(FILES)) {
 git(here, ["add", "-A"])
 git(here, ["commit", "-m", "a page type filed into another repository"])
 
-const away = join(here, "no-such-repo")
-
 const ROOTS: Roots = {
-  instructions: here,
-  code: away,
-  memory: elsewhere,
-  books: away,
-  stories: away,
-  "code-editor": away,
+  akasha: here,
+  "code-editor": elsewhere,
 }
 
 const RELATIVE = "pages/probe/one.probe.md"
@@ -63,7 +57,7 @@ afterAll(() => {
 describe("a page whose type is filed into a repository the call does not address", () => {
   it("is placed in the repository its page type names", () => {
     const at = whereFor(ROOTS, "probe", "one")
-    expect(at?.repo).toBe("memory")
+    expect(at?.repo).toBe("code-editor")
     expect(at?.root).toBe(elsewhere)
     expect(at?.relPath).toBe(RELATIVE)
   })

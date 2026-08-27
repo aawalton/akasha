@@ -164,11 +164,7 @@ afterAll(() => rmSync(root, { recursive: true, force: true }))
 const away = join(root, "no-such-repo")
 
 const ROOTS: Roots = {
-  instructions: root,
-  code: away,
-  memory: away,
-  books: away,
-  stories: away,
+  akasha: root,
   "code-editor": away,
 }
 
@@ -305,7 +301,7 @@ describe("a resolved value read through every operator", () => {
 
   it("is carried back by `keys`", () => {
     const carried = answer(ROOTS, { pageType: "job", where: [{ key: "title", is: "through a subtype" }], keys: ["owner"] })
-    expect(carried?.rows).toEqual([{ at: "instructions:pages/job/three.md", values: { owner: "grace" } }])
+    expect(carried?.rows).toEqual([{ at: "akasha:pages/job/three.md", values: { owner: "grace" } }])
   })
 })
 
