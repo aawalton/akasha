@@ -12,7 +12,7 @@ domain-slug: domain/daemon
 
 # Evidence
 
-`domains/daemon.md` Rules, Daemon Composition: "Compose every daemon through `runLongRunningWorker`, and emit `worker.loop_duration_ms` from each tick." Its warrant is that "a hand-rolled loop emits no duration the fleet can aggregate, so a wedged daemon reads like an idle one." Its aid allows a shape-equivalent variant with an allowlist entry.
+`pages/domain/daemon.domain.md` Rules, Daemon Composition: "Compose every daemon through `runLongRunningWorker`, and emit `worker.loop_duration_ms` from each tick." Its warrant is that "a hand-rolled loop emits no duration the fleet can aggregate, so a wedged daemon reads like an idle one." Its aid allows a shape-equivalent variant with an allowlist entry.
 
 `runLongRunningWorker` is exported from `packages/shared/worker-runtime/src/run-long-running-worker.ts` in the code repository and appears nowhere in the instructions repository. Citation runs one way between the two repositories, so a daemon standing in the instructions repository cannot compose through it. Six daemons stand there now: `alert-observer`, `devops-monitor`, `filler-drain`, `memory-reaper`, `pacing`, `wake-watcher`. None carries an allowlist entry.
 
