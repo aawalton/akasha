@@ -13,8 +13,11 @@ function moves(...pairs: readonly (readonly [string, string])[]): Moves {
 
 describe("a move that crosses a repository boundary", () => {
   const twoRepos = (source: string, destination: string): { source: Roots; destination: Roots } => {
-    const both = { ...rootsAt(source), memory: source, books: destination }
-    return { source: { ...both, target: "memory" }, destination: { ...both, target: "books" } }
+    const both = { ...rootsAt(source), memory: source, "code-editor": destination }
+    return {
+      source: { ...both, target: "memory" },
+      destination: { ...both, target: "code-editor" },
+    }
   }
 
   const hrefIn = (body: string | undefined, label: string): string => {
@@ -135,10 +138,10 @@ describe("a repository that neither gives a body up nor takes one", () => {
       tracked(source, "tools/one.ts", "export const one = 1\n")
       const spelling = relative(`${bystander}/src`, `${source}/tools/one.ts`)
       tracked(bystander, "src/uses.ts", `import { one } from "${spelling}"\nexport const uses = one\n`)
-      const at = { ...rootsAt(source), books: bystander }
+      const at = { ...rootsAt(source), "code-editor": bystander }
       const found = surveyImporters(moves(["tools/one.ts", "tools/deep/one.ts"]), at)
       expect(found).toHaveLength(1)
-      expect(targetRepo(found[0]?.roots ?? at)).toBe("books")
+      expect(targetRepo(found[0]?.roots ?? at)).toBe("code-editor")
       expect(found[0]?.entries.map((one) => one.relPath)).toEqual(["src/uses.ts"])
       expect(found[0]?.repointed).toBe(1)
       expect(resolve(`${bystander}/src`, specifierIn(found[0]?.entries[0]?.body ?? ""))).toBe(
@@ -152,7 +155,7 @@ describe("a repository that neither gives a body up nor takes one", () => {
       tracked(source, "tools/one.ts", "export const one = 1\n")
       const spelling = relative(bystander, `${source}/tools/one.ts`)
       tracked(bystander, "tsconfig.json", `{\n  "include": [\n    "${spelling}"\n  ]\n}\n`)
-      const at = { ...rootsAt(source), books: bystander }
+      const at = { ...rootsAt(source), "code-editor": bystander }
       const found = surveyImporters(moves(["tools/one.ts", "tools/deep/one.ts"]), at)
       expect(found[0]?.entries.map((one) => one.relPath)).toEqual(["tsconfig.json"])
       expect(found[0]?.entries[0]?.body).toContain("/tools/deep/one.ts")
@@ -164,7 +167,7 @@ describe("a repository that neither gives a body up nor takes one", () => {
     withBoth((source, bystander) => {
       tracked(source, "tools/one.ts", "export const one = 1\n")
       tracked(bystander, "src/uses.ts", "export const uses = 1\n")
-      const at = { ...rootsAt(source), books: bystander }
+      const at = { ...rootsAt(source), "code-editor": bystander }
       expect(surveyImporters(moves(["tools/one.ts", "tools/deep/one.ts"]), at)).toEqual([])
     })
   })
