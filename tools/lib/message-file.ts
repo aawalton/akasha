@@ -11,7 +11,7 @@ import {
 import { dirname, join } from "node:path"
 import { parseFrontmatter } from "../../page/frontmatter.ts"
 import { MARKDOWN } from "../../page/page-file.ts"
-import { MEMORY, resolveRoots, rootFor } from "../../repo/roots/roots"
+import { AKASHA, akashaRoot } from "../../repo/roots/roots"
 import { toolArgv } from "./tool-argv.ts"
 import { patchUncommitted, readUncommitted, removeUncommitted } from "../../page/uncommitted/uncommitted.ts"
 
@@ -141,9 +141,9 @@ export function writeMessage(stated: {
     writeFileSync(bodyPath, composeMessage(stated), "utf8")
     const wrote = runWriteTool("write.ts", [
       "--repo",
-      MEMORY,
+      AKASHA,
       "--file-path",
-      join(rootFor(resolveRoots(), MEMORY), relPath),
+      join(akashaRoot(), relPath),
       "--content-file",
       bodyPath,
       "--mechanical",
@@ -191,7 +191,7 @@ function messageAt(to: string, id: string, absolute: string): Message | null {
 
 export function messagesTo(to: string): readonly Message[] {
   if (recipientRefused(to) !== null) return []
-  const dir = `${resolveRoots().memory}/${messageDirRelPath(to)}`
+  const dir = `${akashaRoot()}/${messageDirRelPath(to)}`
   let names: readonly string[]
   try {
     names = readdirSync(dir)
@@ -212,7 +212,7 @@ export function unclaimedTo(to: string): readonly Message[] {
 }
 
 export function everyRecipient(): readonly string[] {
-  const dir = `${resolveRoots().memory}/${MESSAGES}`
+  const dir = `${akashaRoot()}/${MESSAGES}`
   let names: readonly string[]
   try {
     names = readdirSync(dir)
@@ -244,7 +244,7 @@ export function claimedBefore(to: string, beforeMs: number): readonly Message[] 
 }
 
 export function claimMessage(to: string, id: string, atMs: number = Date.now()): boolean {
-  const absolute = `${resolveRoots().memory}/${messageRelPath(to, id)}`
+  const absolute = `${akashaRoot()}/${messageRelPath(to, id)}`
   if (!existsSync(absolute)) return false
   if (claimedAtMsOf(absolute) !== null) return false
   patchUncommitted(absolute, { [CLAIMED_AT]: new Date(atMs).toISOString() })
@@ -252,12 +252,12 @@ export function claimMessage(to: string, id: string, atMs: number = Date.now()):
 }
 
 export function releaseClaim(to: string, id: string): void {
-  removeUncommitted(`${resolveRoots().memory}/${messageRelPath(to, id)}`)
+  removeUncommitted(`${akashaRoot()}/${messageRelPath(to, id)}`)
 }
 
 export function takeMessage(to: string, id: string): Taken {
   const relPath = messageRelPath(to, id)
-  const absolute = `${resolveRoots().memory}/${relPath}`
+  const absolute = `${akashaRoot()}/${relPath}`
   if (!existsSync(absolute)) {
     removeUncommitted(absolute)
     return { kind: "gone" }
@@ -265,7 +265,7 @@ export function takeMessage(to: string, id: string): Taken {
   const taken = runWriteTool("rm.ts", [
     absolute,
     "--repo",
-    MEMORY,
+    AKASHA,
     "--message",
     `message to ${to} is read, and read is the file's absence`,
   ], WRITER)
