@@ -1,6 +1,6 @@
 export const tool = {
   summary: "Render the delegate definitions the `claude --agents` flag takes",
-  repos: ["akasha"],
+  path: "seat subagents",
 } as const
 import { existsSync, readFileSync, readdirSync, writeFileSync } from "node:fs"
 import { render } from "./compose-notices.ts"

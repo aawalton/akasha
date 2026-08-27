@@ -1,6 +1,6 @@
 export const tool = {
   summary: "Replay every kept reading case and report what the reading answers now",
-  repos: ["akasha"],
+  path: "seat turn-end cases",
 } as const
 
 import { readFileSync, readdirSync } from "node:fs"

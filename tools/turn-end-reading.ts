@@ -1,6 +1,6 @@
 export const tool = {
   summary: "Read one turn end against what annoys its principal",
-  repos: ["akasha"],
+  path: "seat turn-end read",
 } as const
 
 import { LOGICAL_MODELS, type LogicalModel } from "./lib/model-vocab.ts"

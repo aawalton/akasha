@@ -1,6 +1,6 @@
 export const tool = {
   summary: "Decide one turn end and carry out what it settles",
-  repos: ["akasha"],
+  path: "seat turn-end decide",
 } as const
 
 import { spawnSync } from "node:child_process"
