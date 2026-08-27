@@ -73,7 +73,6 @@ export const clusterRoleRules: ReadonlyArray<(Rule | NonResourceRule) & { commen
       "kube-state-metrics",
       "promtail",
       "pod-janitor",
-      "worker-supervisor-node-capacity",
     ],
   },
   {
