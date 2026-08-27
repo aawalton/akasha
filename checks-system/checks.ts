@@ -80,6 +80,16 @@ function runsOn(ctx: BuildContext, at: PageAt, key: string): boolean {
 }
 
 /**
+ * Whether a check page says it refuses a change.
+ *
+ * AN AUDIT REFUSES NOTHING, so `check-on-audit` is not asked about here. An audit reports what it
+ * found and the change lands either way, and a check standing only on audit stops nobody.
+ */
+export function refusesChange(ctx: BuildContext, at: PageAt): boolean {
+  return runsOn(ctx, at, ON_PATCH) || runsOn(ctx, at, ON_WORKTREE)
+}
+
+/**
  * THE MODULE OF A CHECK THAT RUNS NOWHERE IS NEVER ASKED FOR. Every check page was loaded before
  * anything asked whether it runs, so one whose module had gone took the whole registry down —
  * and with it `ops edit`, `ops write` and `ops mv`, which is to say every tool that could put the
