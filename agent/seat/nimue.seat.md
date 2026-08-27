@@ -9,4 +9,5 @@ person-slug: alan
 on-call: true
 initiative-slug: nimue-only-akasha-and-the-editor
 registration-account: aawalton
+claude-code-session-uuid: ddbafaa0-2262-4f9a-bcb2-b70f04170b5b
 ---
