@@ -1,5 +1,6 @@
 ---
 id: f792dca0-8fd7-587c-a2d1-c5cfb2e4d4fc
+slug: points-materializer-copied-nine-times
 page-type-slug: finding
 title: "Points materializer copied nine times"
 domain-slug: domain/code-quality

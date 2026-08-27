@@ -1,5 +1,6 @@
 ---
 id: dbe40631-0ad3-5852-abf2-f0c43c711565
+slug: shard-of-51-suites-fails-a-moving-assertion
 page-type-slug: finding
 title: "Shard of 51 suites fails a moving assertion"
 domain-slug: domain/global

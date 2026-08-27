@@ -1,5 +1,6 @@
 ---
 id: 5918814f-b867-5744-835b-fac0882fa394
+slug: contract-snapshot-window-unmarked
 page-type-slug: finding
 title: "Contract snapshot window unmarked"
 domain-slug: domain/global

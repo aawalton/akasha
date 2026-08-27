@@ -1,5 +1,6 @@
 ---
 id: afa18ed4-55bb-510f-b2a4-ff8a2d74db91
+slug: directory-literals-unvalidated
 page-type-slug: finding
 title: "Directory literals unvalidated"
 domain-slug: domain/global

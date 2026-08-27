@@ -1,5 +1,6 @@
 ---
 id: a1316431-afbc-546d-8ed8-3e2891f25f84
+slug: enforcement-source-credits-the-aggregator
 page-type-slug: finding
 title: "Enforcement source credits the aggregator"
 domain-slug: domain/global

@@ -1,5 +1,6 @@
 ---
 id: e74f546c-4821-59c7-b6be-a621446acdcb
+slug: intent-here-read-two-ways
 page-type-slug: finding
 title: "Intent here read two ways"
 domain-slug: domain/global

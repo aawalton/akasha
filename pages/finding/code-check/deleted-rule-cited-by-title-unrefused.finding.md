@@ -1,5 +1,6 @@
 ---
 id: ff2ea6e5-689c-5c22-9ae2-446afbcb69f3
+slug: deleted-rule-cited-by-title-unrefused
 page-type-slug: finding
 title: "Deleted rule cited by title unrefused"
 domain-slug: domain/global

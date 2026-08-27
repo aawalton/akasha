@@ -1,5 +1,6 @@
 ---
 id: ca79b51d-dfb4-5e94-9f7a-486be8f74fcd
+slug: points-source-check-rules-on-an-empty-population
 page-type-slug: finding
 title: "Points source check rules on an empty population"
 domain-slug: page-type/daily-tracking

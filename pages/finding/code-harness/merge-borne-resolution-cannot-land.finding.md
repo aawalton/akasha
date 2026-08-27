@@ -1,5 +1,6 @@
 ---
 id: e5c3a36f-b9af-54e9-bb7f-3139718a5253
+slug: merge-borne-resolution-cannot-land
 page-type-slug: finding
 title: "Merge borne resolution cannot land"
 domain-slug: domain/global

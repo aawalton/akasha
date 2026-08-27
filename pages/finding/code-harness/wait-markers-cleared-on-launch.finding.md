@@ -1,5 +1,6 @@
 ---
 id: beef5c38-b740-51e7-a95e-cae0bdb51b54
+slug: wait-markers-cleared-on-launch
 page-type-slug: finding
 title: "Wait markers cleared on launch"
 domain-slug: domain/global

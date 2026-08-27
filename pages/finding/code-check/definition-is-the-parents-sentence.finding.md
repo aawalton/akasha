@@ -1,5 +1,6 @@
 ---
 id: d0eed079-2c83-56d7-b920-324a9089d219
+slug: definition-is-the-parents-sentence
 page-type-slug: finding
 title: "Definition is the parents sentence"
 domain-slug: domain/global

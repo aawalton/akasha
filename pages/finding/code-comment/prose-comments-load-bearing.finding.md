@@ -1,5 +1,6 @@
 ---
 id: e7610ecc-f50b-5501-8eb0-eb731b458e72
+slug: prose-comments-load-bearing
 page-type-slug: finding
 title: "Prose comments load bearing"
 domain-slug: domain/code-comment

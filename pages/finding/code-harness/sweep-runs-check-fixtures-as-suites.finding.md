@@ -1,5 +1,6 @@
 ---
 id: f0824181-174e-5654-b37e-7507ab26fec8
+slug: sweep-runs-check-fixtures-as-suites
 page-type-slug: finding
 title: "Sweep runs check fixtures as suites"
 domain-slug: domain/global

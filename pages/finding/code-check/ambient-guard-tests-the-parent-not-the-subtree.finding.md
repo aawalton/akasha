@@ -1,5 +1,6 @@
 ---
 id: 06d0753e-aada-56d9-9d9a-2ac2b4b28663
+slug: ambient-guard-tests-the-parent-not-the-subtree
 page-type-slug: finding
 title: "Ambient guard tests the parent not the subtree"
 domain-slug: domain/global

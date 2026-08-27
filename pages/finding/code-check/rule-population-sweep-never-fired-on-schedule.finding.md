@@ -1,5 +1,6 @@
 ---
 id: ccfb760e-8e20-5892-a2f1-a5520f500ba7
+slug: rule-population-sweep-never-fired-on-schedule
 page-type-slug: finding
 title: "Rule population sweep never fired on schedule"
 domain-slug: domain/global

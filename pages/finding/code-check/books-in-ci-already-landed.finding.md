@@ -1,5 +1,6 @@
 ---
 id: 4a6f3cfe-10ec-5e29-99b7-df82abadeea5
+slug: books-in-ci-already-landed
 page-type-slug: finding
 title: "Books in CI already landed"
 domain-slug: domain/global

@@ -1,5 +1,6 @@
 ---
 id: 2723a864-9cce-56fe-9c0d-9153795cdeb2
+slug: post-land-terminals-skip-main-ci
 page-type-slug: finding
 title: "Post land terminals skip main CI"
 domain-slug: domain/global

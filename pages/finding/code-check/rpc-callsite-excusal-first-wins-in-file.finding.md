@@ -1,5 +1,6 @@
 ---
 id: 8d802934-2058-5efa-aad4-e2c8d54a5e2d
+slug: rpc-callsite-excusal-first-wins-in-file
 page-type-slug: finding
 title: "Rpc callsite excusal first wins in file"
 domain-slug: domain/global

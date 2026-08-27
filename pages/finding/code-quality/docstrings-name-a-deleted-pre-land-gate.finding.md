@@ -1,5 +1,6 @@
 ---
 id: 4e7679a8-9542-5067-8816-5fa0e1f14e7e
+slug: docstrings-name-a-deleted-pre-land-gate
 page-type-slug: finding
 title: "Docstrings name a deleted pre land gate"
 domain-slug: domain/code-quality

@@ -1,5 +1,6 @@
 ---
 id: a713823b-9b2c-56d1-85e2-46dbcc5497fd
+slug: unlanded-row-reads-as-shipped
 page-type-slug: finding
 title: "Unlanded row reads as shipped"
 domain-slug: domain/global

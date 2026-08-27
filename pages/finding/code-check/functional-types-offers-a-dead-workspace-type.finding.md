@@ -1,5 +1,6 @@
 ---
 id: 8aa67478-62ff-5d44-8024-0ed99212c6fd
+slug: functional-types-offers-a-dead-workspace-type
 page-type-slug: finding
 title: "Functional types offers a dead workspace type"
 domain-slug: domain/global

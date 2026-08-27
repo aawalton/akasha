@@ -1,5 +1,6 @@
 ---
 id: 00f50512-01ef-57aa-a465-5848934efbe7
+slug: entry-globs-root-whole-src
 page-type-slug: finding
 title: "Entry globs root whole src"
 domain-slug: domain/global

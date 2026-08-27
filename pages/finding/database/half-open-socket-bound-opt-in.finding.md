@@ -1,5 +1,6 @@
 ---
 id: f00fe9b8-e115-5acd-9236-d2e1e0e48c42
+slug: half-open-socket-bound-opt-in
 page-type-slug: finding
 title: "Half open socket bound opt in"
 domain-slug: domain/database

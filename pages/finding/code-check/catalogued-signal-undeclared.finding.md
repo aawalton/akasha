@@ -1,5 +1,6 @@
 ---
 id: 5541824e-5864-5224-b41f-f7fe7b27fd44
+slug: catalogued-signal-undeclared
 page-type-slug: finding
 title: "Catalogued signal undeclared"
 domain-slug: domain/global

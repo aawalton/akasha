@@ -1,5 +1,6 @@
 ---
 id: a09207e0-57df-5269-887d-e351906080bb
+slug: typecheck-excludes-test-files
 page-type-slug: finding
 title: "Typecheck excludes test files"
 domain-slug: domain/global

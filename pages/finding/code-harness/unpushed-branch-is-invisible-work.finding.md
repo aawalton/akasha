@@ -1,5 +1,6 @@
 ---
 id: b6690ec7-9f99-5e24-bb85-166b9b262804
+slug: unpushed-branch-is-invisible-work
 page-type-slug: finding
 title: "Unpushed branch is invisible work"
 domain-slug: domain/global

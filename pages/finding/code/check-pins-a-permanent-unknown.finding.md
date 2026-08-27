@@ -1,5 +1,6 @@
 ---
 id: 5fe235f5-c5f3-5860-9047-78db13eac730
+slug: check-pins-a-permanent-unknown
 page-type-slug: finding
 title: "Check pins a permanent unknown"
 domain-slug: domain/global

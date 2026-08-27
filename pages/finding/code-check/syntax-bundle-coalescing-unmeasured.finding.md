@@ -1,5 +1,6 @@
 ---
 id: 3394c78e-c1e8-5daf-8ce5-2c62166db5c1
+slug: syntax-bundle-coalescing-unmeasured
 page-type-slug: finding
 title: "Syntax bundle coalescing unmeasured"
 domain-slug: domain/global

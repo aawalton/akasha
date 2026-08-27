@@ -1,5 +1,6 @@
 ---
 id: b55b2c28-65d6-589a-ae4d-6724dcfcc5b8
+slug: client-boundary-directive-escape
 page-type-slug: finding
 title: "Client boundary directive escape"
 domain-slug: domain/global

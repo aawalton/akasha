@@ -1,5 +1,6 @@
 ---
 id: 12ff5da6-9178-5a01-83e3-b9d0b8c414ed
+slug: hard-delete-unbatched
 page-type-slug: finding
 title: "Hard delete unbatched"
 domain-slug: domain/database

@@ -1,5 +1,6 @@
 ---
 id: 1fa0fe8d-8194-5aca-8d7f-37a74c1bca38
+slug: worktree-named-off-seq-closes-open
 page-type-slug: finding
 title: "Worktree named off seq closes open"
 domain-slug: domain/global

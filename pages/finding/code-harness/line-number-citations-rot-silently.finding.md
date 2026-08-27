@@ -1,5 +1,6 @@
 ---
 id: f0db8641-0867-5ad2-bde3-9a82369fd0fb
+slug: line-number-citations-rot-silently
 page-type-slug: finding
 title: "Line number citations rot silently"
 domain-slug: domain/global

@@ -1,5 +1,6 @@
 ---
 id: 91fb30de-f40f-56bf-93d5-7ed453022b1e
+slug: lualib-basename-copy-has-drifted
 page-type-slug: finding
 title: "Lualib basename copy has drifted"
 domain-slug: domain/global

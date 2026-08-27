@@ -1,5 +1,6 @@
 ---
 id: 7684dd6e-7212-5d09-ae6e-fda104fa47f6
+slug: queue-enforces-what-main-skips
 page-type-slug: finding
 title: "Queue enforces what main skips"
 domain-slug: domain/global

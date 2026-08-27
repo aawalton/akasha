@@ -1,5 +1,6 @@
 ---
 id: b46189ea-5471-5c0b-8ff0-ebc0a6730c34
+slug: removal-sites-that-spell-no-name
 page-type-slug: finding
 title: "Removal sites that spell no name"
 domain-slug: domain/global

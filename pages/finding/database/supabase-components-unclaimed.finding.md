@@ -1,5 +1,6 @@
 ---
 id: b1439e3c-0599-5dcc-a3eb-fc2cfbd86b82
+slug: supabase-components-unclaimed
 page-type-slug: finding
 title: "Supabase components unclaimed"
 domain-slug: domain/database

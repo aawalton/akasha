@@ -1,5 +1,6 @@
 ---
 id: f2e4e685-21b8-504d-9ba8-82fbaf6036a9
+slug: code-comments-tree-unmigrated
 page-type-slug: finding
 title: "Code comments tree unmigrated"
 domain-slug: domain/code-quality

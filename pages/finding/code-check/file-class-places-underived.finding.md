@@ -1,5 +1,6 @@
 ---
 id: cf57958a-1a77-5ca4-ae3a-daab34ff64c1
+slug: file-class-places-underived
 page-type-slug: finding
 title: "File class places underived"
 domain-slug: domain/global

@@ -1,5 +1,6 @@
 ---
 id: 26aae458-0e2e-5760-8688-8c3109680f6c
+slug: seat-bucket-keys-spelled-in-a-third-reader
 page-type-slug: finding
 title: "Seat bucket keys spelled in a third reader"
 domain-slug: domain/code-editor

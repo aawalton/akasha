@@ -1,5 +1,6 @@
 ---
 id: ffe9562e-d42f-5b4d-9409-0db82e4085e4
+slug: tree-group-restated-by-hand
 page-type-slug: finding
 title: "Tree group restated by hand"
 domain-slug: domain/code-quality

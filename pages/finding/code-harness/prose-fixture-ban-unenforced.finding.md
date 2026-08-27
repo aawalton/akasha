@@ -1,5 +1,6 @@
 ---
 id: 30460d53-6a95-5e8d-9498-00a8f851a54b
+slug: prose-fixture-ban-unenforced
 page-type-slug: finding
 title: "Prose fixture ban unenforced"
 domain-slug: domain/global

@@ -1,5 +1,6 @@
 ---
 id: 735bbff8-44bb-52c6-a79b-0964b382e053
+slug: criterion-written-as-the-gap
 page-type-slug: finding
 title: "Criterion written as the gap"
 domain-slug: domain/global

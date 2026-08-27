@@ -1,5 +1,6 @@
 ---
 id: 63bfeb06-d856-5e27-a62c-ac2e42ad2848
+slug: three-responsibilities-are-one
 page-type-slug: finding
 title: "Three responsibilities are one"
 domain-slug: role/definer

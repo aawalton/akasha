@@ -1,5 +1,6 @@
 ---
 id: 4766a433-4e79-513d-98d8-f2ad52dae4ca
+slug: surface-tokens-header-false
 page-type-slug: finding
 title: "Surface tokens header false"
 domain-slug: domain/global

@@ -1,5 +1,6 @@
 ---
 id: 59315851-ff31-527a-8456-beb8f7603fe6
+slug: lualib-basename-snapshot-drifted-both-ways
 page-type-slug: finding
 title: "Lualib basename snapshot drifted both ways"
 domain-slug: domain/global

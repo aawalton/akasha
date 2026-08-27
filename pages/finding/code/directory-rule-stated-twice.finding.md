@@ -1,5 +1,6 @@
 ---
 id: ecd2a9f8-868a-531c-8e00-6373d87b689b
+slug: directory-rule-stated-twice
 page-type-slug: finding
 title: "Directory rule stated twice"
 domain-slug: domain/global

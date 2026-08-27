@@ -1,5 +1,6 @@
 ---
 id: 20d7d440-d9d1-5278-9425-b71ed356e29b
+slug: property-sanitizes-before-embedding
 page-type-slug: finding
 title: "Property sanitizes before embedding"
 domain-slug: domain/global

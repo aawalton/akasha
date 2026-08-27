@@ -1,5 +1,6 @@
 ---
 id: 60e3577e-345d-552c-99e6-b5b37151e5f9
+slug: gin-anchor-scope-gap
 page-type-slug: finding
 title: "Gin anchor scope gap"
 domain-slug: domain/database

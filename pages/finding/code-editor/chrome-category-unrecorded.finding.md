@@ -1,5 +1,6 @@
 ---
 id: 91586d98-8f97-5c54-8ac2-ed89484b573d
+slug: chrome-category-unrecorded
 page-type-slug: finding
 title: "Chrome category unrecorded"
 domain-slug: domain/code-editor

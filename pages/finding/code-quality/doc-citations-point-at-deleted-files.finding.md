@@ -1,5 +1,6 @@
 ---
 id: a609876c-d0f8-5657-89f0-1cd807e2a853
+slug: doc-citations-point-at-deleted-files
 page-type-slug: finding
 title: "Doc citations point at deleted files"
 domain-slug: domain/code-quality

@@ -1,5 +1,6 @@
 ---
 id: cdc57ba1-3775-5ea4-b7d4-271dacd21cdd
+slug: bin-mode-drops-unparsed-package-json
 page-type-slug: finding
 title: "Bin mode drops unparsed package JSON"
 domain-slug: domain/global

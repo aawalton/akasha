@@ -1,5 +1,6 @@
 ---
 id: 6dee5b61-b87c-50cc-b364-0738cd734450
+slug: audits-off-the-crossing-have-no-trigger
 page-type-slug: finding
 title: "Audits off the crossing have no trigger"
 domain-slug: domain/global

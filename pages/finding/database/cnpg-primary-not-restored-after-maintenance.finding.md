@@ -1,5 +1,6 @@
 ---
 id: 44b54ca1-2443-55d8-9cca-146f7021b27c
+slug: cnpg-primary-not-restored-after-maintenance
 page-type-slug: finding
 title: "Cnpg primary not restored after maintenance"
 domain-slug: domain/database

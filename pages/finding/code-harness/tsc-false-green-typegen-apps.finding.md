@@ -1,5 +1,6 @@
 ---
 id: 5fa9a34b-1842-5a86-94d4-711a85999f21
+slug: tsc-false-green-typegen-apps
 page-type-slug: finding
 title: "Tsc false green typegen apps"
 domain-slug: domain/global

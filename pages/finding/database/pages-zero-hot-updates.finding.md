@@ -1,5 +1,6 @@
 ---
 id: 4ddcb533-ad98-5258-93f6-80571a5754c5
+slug: pages-zero-hot-updates
 page-type-slug: finding
 title: "Pages zero hot updates"
 domain-slug: domain/database

@@ -1,5 +1,6 @@
 ---
 id: 5bf7927c-b00f-53a3-a8c2-6b0f0ceaf998
+slug: test-only-island-reads-clean
 page-type-slug: finding
 title: "Test only island reads clean"
 domain-slug: domain/global

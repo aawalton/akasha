@@ -1,5 +1,6 @@
 ---
 id: 69e1d148-1173-5a71-92ad-c2b3ec13a671
+slug: tree-live-on-coherence-unenforced
 page-type-slug: finding
 title: "Tree live on coherence unenforced"
 domain-slug: domain/global

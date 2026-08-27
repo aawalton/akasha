@@ -1,5 +1,6 @@
 ---
 id: 5747f1a7-3f2b-5421-b310-cd214605501c
+slug: rows-owed-by-the-finished-check-audit
 page-type-slug: finding
 title: "Rows owed by the finished check audit"
 domain-slug: domain/global

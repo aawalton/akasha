@@ -1,5 +1,6 @@
 ---
 id: 0cb4f16b-94ed-5efa-b656-308985d6e89e
+slug: check-entrypoint-nothing-dispatches
 page-type-slug: finding
 title: "Check entrypoint nothing dispatches"
 domain-slug: domain/global

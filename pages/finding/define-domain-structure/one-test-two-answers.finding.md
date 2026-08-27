@@ -1,5 +1,6 @@
 ---
 id: 002ae747-f70a-5623-9a44-902a0c17e7f9
+slug: one-test-two-answers
 page-type-slug: finding
 title: "One test two answers"
 domain-slug: task/define-domain-structure

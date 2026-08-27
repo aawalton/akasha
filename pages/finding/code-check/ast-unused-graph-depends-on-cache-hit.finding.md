@@ -1,5 +1,6 @@
 ---
 id: 3a8a1b8b-8549-5588-8c1f-9282fd874c43
+slug: ast-unused-graph-depends-on-cache-hit
 page-type-slug: finding
 title: "Ast unused graph depends on cache hit"
 domain-slug: domain/global

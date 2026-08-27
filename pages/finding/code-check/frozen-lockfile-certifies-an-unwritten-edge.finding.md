@@ -1,5 +1,6 @@
 ---
 id: 88289bca-980f-5c02-a9a9-b66a9c35b322
+slug: frozen-lockfile-certifies-an-unwritten-edge
 page-type-slug: finding
 title: "Frozen lockfile certifies an unwritten edge"
 domain-slug: domain/global

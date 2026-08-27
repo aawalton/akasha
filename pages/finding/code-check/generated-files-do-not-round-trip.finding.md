@@ -1,5 +1,6 @@
 ---
 id: 3c2307f1-39b6-5cef-9456-98456dcc5158
+slug: generated-files-do-not-round-trip
 page-type-slug: finding
 title: "Generated files do not round trip"
 domain-slug: domain/global

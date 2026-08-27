@@ -1,5 +1,6 @@
 ---
 id: f988029b-b0f2-5138-81e9-178c00b60d11
+slug: deploy-calls-retired-voice-restart
 page-type-slug: finding
 title: "Deploy calls retired voice restart"
 domain-slug: domain/global

@@ -1,5 +1,6 @@
 ---
 id: d9555fc8-6513-521c-8683-db1df1673633
+slug: workspace-trust-disables-disk-settings
 page-type-slug: finding
 title: "Workspace trust disables disk settings"
 domain-slug: domain/code-editor

@@ -1,5 +1,6 @@
 ---
 id: bb446f85-0985-509b-882d-2f67955b7974
+slug: volume-defined-before-force
 page-type-slug: finding
 title: "Volume defined before force"
 domain-slug: task/create-persona-voice

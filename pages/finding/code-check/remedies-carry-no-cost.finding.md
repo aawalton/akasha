@@ -1,5 +1,6 @@
 ---
 id: 61b94180-13a7-5fd0-aecd-637eacd660b7
+slug: remedies-carry-no-cost
 page-type-slug: finding
 title: "Remedies carry no cost"
 domain-slug: domain/global

@@ -1,5 +1,6 @@
 ---
 id: 8fa15519-4b3f-5a19-8be3-6451e020274a
+slug: main-pipeline-wedge-unreported
 page-type-slug: finding
 title: "Main pipeline wedge unreported"
 domain-slug: domain/global

@@ -1,5 +1,6 @@
 ---
 id: 99c0f2cd-a72c-5907-8f64-1f1191ec6036
+slug: deploy-verdict-names-a-stale-sha
 page-type-slug: finding
 title: "Deploy verdict names a stale sha"
 domain-slug: domain/global

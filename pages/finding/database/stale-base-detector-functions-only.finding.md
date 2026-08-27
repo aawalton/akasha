@@ -1,5 +1,6 @@
 ---
 id: 8b3602a8-cfee-525b-9669-1c7cc0033c93
+slug: stale-base-detector-functions-only
 page-type-slug: finding
 title: "Stale base detector functions only"
 domain-slug: domain/database

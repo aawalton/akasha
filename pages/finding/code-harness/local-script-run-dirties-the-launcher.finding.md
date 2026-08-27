@@ -1,5 +1,6 @@
 ---
 id: 34246f66-5f49-5e02-8c71-e311b353a92f
+slug: local-script-run-dirties-the-launcher
 page-type-slug: finding
 title: "Local script run dirties the launcher"
 domain-slug: domain/global

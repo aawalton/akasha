@@ -1,5 +1,6 @@
 ---
 id: 1a7b5003-4fcb-5289-86e0-5f2560430e9f
+slug: tick-deadline-noncancelling
 page-type-slug: finding
 title: "Tick deadline noncancelling"
 domain-slug: domain/daemon

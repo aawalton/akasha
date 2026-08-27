@@ -1,5 +1,6 @@
 ---
 id: 38c63337-b7d8-5799-afd4-7ee19e5a5dcb
+slug: docblock-names-a-guard-the-suite-dropped
 page-type-slug: finding
 title: "Docblock names a guard the suite dropped"
 domain-slug: domain/code-quality

@@ -1,5 +1,6 @@
 ---
 id: f54ba237-7253-58d9-91b8-87881373e5f0
+slug: pipeline-bands-unpublished
 page-type-slug: finding
 title: "Pipeline bands unpublished"
 domain-slug: domain/global

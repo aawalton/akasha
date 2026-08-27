@@ -1,5 +1,6 @@
 ---
 id: 040ea706-50c3-5252-8a01-a017cc110a68
+slug: transport-credential-in-url-outside-checks
 page-type-slug: finding
 title: "Transport credential in URL outside checks"
 domain-slug: domain/global

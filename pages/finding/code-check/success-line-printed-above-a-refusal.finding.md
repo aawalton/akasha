@@ -1,5 +1,6 @@
 ---
 id: 30b468db-3869-55dc-b4df-4d440603609e
+slug: success-line-printed-above-a-refusal
 page-type-slug: finding
 title: "Success line printed above a refusal"
 domain-slug: domain/global

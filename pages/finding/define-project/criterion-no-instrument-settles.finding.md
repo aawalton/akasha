@@ -1,5 +1,6 @@
 ---
 id: fcea3702-5409-52ee-8da1-892c39d5cddc
+slug: criterion-no-instrument-settles
 page-type-slug: finding
 title: "Criterion no instrument settles"
 domain-slug: domain/global

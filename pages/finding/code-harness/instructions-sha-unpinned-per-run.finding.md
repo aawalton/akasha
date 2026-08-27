@@ -1,5 +1,6 @@
 ---
 id: c4d215be-0797-5813-94a9-a5483262a6cb
+slug: instructions-sha-unpinned-per-run
 page-type-slug: finding
 title: "Instructions sha unpinned per run"
 domain-slug: domain/global

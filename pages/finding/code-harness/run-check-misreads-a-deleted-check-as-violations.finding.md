@@ -1,5 +1,6 @@
 ---
 id: a88f166c-b769-5df6-b76c-389f4267ed4e
+slug: run-check-misreads-a-deleted-check-as-violations
 page-type-slug: finding
 title: "Run check misreads a deleted check as violations"
 domain-slug: domain/global

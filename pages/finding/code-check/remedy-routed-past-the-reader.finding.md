@@ -1,5 +1,6 @@
 ---
 id: 06f964b1-f1cb-53a6-90ce-21b76c211c47
+slug: remedy-routed-past-the-reader
 page-type-slug: finding
 title: "Remedy routed past the reader"
 domain-slug: domain/global

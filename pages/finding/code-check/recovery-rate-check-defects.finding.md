@@ -1,5 +1,6 @@
 ---
 id: c2334755-a291-5389-9d72-a639b36a6f71
+slug: recovery-rate-check-defects
 page-type-slug: finding
 title: "Recovery rate check defects"
 domain-slug: domain/global

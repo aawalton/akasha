@@ -1,5 +1,6 @@
 ---
 id: d1d38484-bee1-5a96-8e1d-5ce5b4e91755
+slug: eslint-directives-unadmitted-in-code
 page-type-slug: finding
 title: "Eslint directives unadmitted in code"
 domain-slug: domain/code-comment

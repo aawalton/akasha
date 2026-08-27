@@ -1,5 +1,6 @@
 ---
 id: 49032c3e-9419-50d1-9796-2d546d02b9e3
+slug: deploy-phase-number-off-by-one
 page-type-slug: finding
 title: "Deploy phase number off by one"
 domain-slug: domain/code-quality

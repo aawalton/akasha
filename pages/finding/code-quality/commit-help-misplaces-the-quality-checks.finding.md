@@ -1,5 +1,6 @@
 ---
 id: 341162ad-5916-56af-88ae-70c06e32e723
+slug: commit-help-misplaces-the-quality-checks
 page-type-slug: finding
 title: "Commit help misplaces the quality checks"
 domain-slug: domain/code-quality

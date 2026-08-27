@@ -1,5 +1,6 @@
 ---
 id: e2d236d8-d049-500e-9f49-ff8b6bcb8048
+slug: stage-two-refusal-produces-nothing
 page-type-slug: finding
 title: "Stage two refusal produces nothing"
 domain-slug: domain/global

@@ -1,5 +1,6 @@
 ---
 id: b0d570e9-5cbc-5f01-b1b8-cf47cedb0369
+slug: ast-unused-cannot-see-whole-file-residue
 page-type-slug: finding
 title: "Ast unused cannot see whole file residue"
 domain-slug: domain/global

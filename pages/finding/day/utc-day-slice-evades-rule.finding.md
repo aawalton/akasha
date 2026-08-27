@@ -1,5 +1,6 @@
 ---
 id: 87036b53-b3cf-5f08-a1bc-ce8f75794761
+slug: utc-day-slice-evades-rule
 page-type-slug: finding
 title: "Utc day slice evades rule"
 domain-slug: domain/day

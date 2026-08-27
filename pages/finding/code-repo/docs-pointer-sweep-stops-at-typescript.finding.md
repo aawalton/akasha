@@ -1,5 +1,6 @@
 ---
 id: d36b704e-ed24-5eac-bb5a-4f42b0b41db2
+slug: docs-pointer-sweep-stops-at-typescript
 page-type-slug: finding
 title: "Docs pointer sweep stops at typescript"
 domain-slug: repo/code-repo

@@ -1,5 +1,6 @@
 ---
 id: c11025f6-2fa3-51b2-b66b-f9673499faf2
+slug: estate-load-nonlinear-event-subscriber
 page-type-slug: finding
 title: "Estate load nonlinear event subscriber"
 domain-slug: domain/database

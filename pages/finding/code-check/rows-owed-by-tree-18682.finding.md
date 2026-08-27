@@ -1,5 +1,6 @@
 ---
 id: 1f118a7d-7ccd-5db0-9c75-9e8fe75b537c
+slug: rows-owed-by-tree-18682
 page-type-slug: finding
 title: "Rows owed by tree 18682"
 domain-slug: domain/global

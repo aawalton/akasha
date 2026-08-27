@@ -1,5 +1,6 @@
 ---
 id: f9a41c23-f689-5b14-baa2-8c997265593b
+slug: test-fixture-repos-uncovered
 page-type-slug: finding
 title: "Test fixture repos uncovered"
 domain-slug: domain/global

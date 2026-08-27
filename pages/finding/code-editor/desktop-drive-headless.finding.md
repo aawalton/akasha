@@ -1,5 +1,6 @@
 ---
 id: 65986f5f-2961-5218-acfb-f6601a00690f
+slug: desktop-drive-headless
 page-type-slug: finding
 title: "Desktop drive headless"
 domain-slug: domain/code-editor

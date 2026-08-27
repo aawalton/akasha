@@ -1,5 +1,6 @@
 ---
 id: 0724f97a-5e7c-526a-8f69-ca25cd8b5013
+slug: require-match-comment-routes-past-sibling
 page-type-slug: finding
 title: "Require match comment routes past sibling"
 domain-slug: domain/code-quality

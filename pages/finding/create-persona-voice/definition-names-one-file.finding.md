@@ -1,5 +1,6 @@
 ---
 id: 6c2d70fa-d374-514e-9177-60a80a3d47a8
+slug: definition-names-one-file
 page-type-slug: finding
 title: "Definition names one file"
 domain-slug: task/create-persona-voice

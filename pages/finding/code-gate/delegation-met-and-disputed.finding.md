@@ -1,5 +1,6 @@
 ---
 id: d4504d03-a28e-5163-afd8-4e950ac02723
+slug: delegation-met-and-disputed
 page-type-slug: finding
 title: "Delegation met and disputed"
 domain-slug: domain/global

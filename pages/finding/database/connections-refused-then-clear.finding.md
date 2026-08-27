@@ -1,5 +1,6 @@
 ---
 id: d4674acc-2185-500b-bdfc-0e1e49ae5937
+slug: connections-refused-then-clear
 page-type-slug: finding
 title: "Connections refused then clear"
 domain-slug: domain/database

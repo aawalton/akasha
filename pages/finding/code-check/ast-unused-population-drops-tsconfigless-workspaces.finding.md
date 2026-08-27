@@ -1,5 +1,6 @@
 ---
 id: 96fd619b-bf4a-51f7-a6c1-397fa9763072
+slug: ast-unused-population-drops-tsconfigless-workspaces
 page-type-slug: finding
 title: "Ast unused population drops tsconfigless workspaces"
 domain-slug: domain/global

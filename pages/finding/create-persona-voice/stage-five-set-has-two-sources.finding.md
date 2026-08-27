@@ -1,5 +1,6 @@
 ---
 id: a525bbdd-3c16-542d-ac6e-3095a01b0244
+slug: stage-five-set-has-two-sources
 page-type-slug: finding
 title: "Stage five set has two sources"
 domain-slug: task/create-persona-voice

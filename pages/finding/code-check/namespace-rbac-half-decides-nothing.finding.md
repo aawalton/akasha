@@ -1,5 +1,6 @@
 ---
 id: cd9a83a8-21ec-5e95-ba4b-0a357ee7958c
+slug: namespace-rbac-half-decides-nothing
 page-type-slug: finding
 title: "Namespace rbac half decides nothing"
 domain-slug: domain/global

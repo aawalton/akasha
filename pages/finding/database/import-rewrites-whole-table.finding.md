@@ -1,5 +1,6 @@
 ---
 id: 435e8bab-d41a-5543-9a78-40b708f3bbea
+slug: import-rewrites-whole-table
 page-type-slug: finding
 title: "Import rewrites whole table"
 domain-slug: domain/database

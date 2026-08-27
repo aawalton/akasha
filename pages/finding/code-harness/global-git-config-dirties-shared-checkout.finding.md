@@ -1,5 +1,6 @@
 ---
 id: 70fc8103-b4e3-5dac-980d-1da340647c82
+slug: global-git-config-dirties-shared-checkout
 page-type-slug: finding
 title: "Global Git config dirties shared checkout"
 domain-slug: domain/global

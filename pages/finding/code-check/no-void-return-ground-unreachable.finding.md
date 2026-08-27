@@ -1,5 +1,6 @@
 ---
 id: 72e52389-de05-56ec-9db6-7072fec509d8
+slug: no-void-return-ground-unreachable
 page-type-slug: finding
 title: "No void return ground unreachable"
 domain-slug: domain/global

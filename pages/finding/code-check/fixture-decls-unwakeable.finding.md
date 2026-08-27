@@ -1,5 +1,6 @@
 ---
 id: 3bee2854-b256-5c99-985a-68ecc4083e69
+slug: fixture-decls-unwakeable
 page-type-slug: finding
 title: "Fixture decls unwakeable"
 domain-slug: domain/global

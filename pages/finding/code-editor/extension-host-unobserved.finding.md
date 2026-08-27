@@ -1,5 +1,6 @@
 ---
 id: fc2afa85-88f9-5a00-bf4b-7bc323b21886
+slug: extension-host-unobserved
 page-type-slug: finding
 title: "Extension host unobserved"
 domain-slug: domain/code-editor

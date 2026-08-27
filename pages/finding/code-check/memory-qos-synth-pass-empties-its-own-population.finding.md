@@ -1,5 +1,6 @@
 ---
 id: c4ba9b69-ff12-5532-bc3e-fac5c01c69a3
+slug: memory-qos-synth-pass-empties-its-own-population
 page-type-slug: finding
 title: "Memory qos synth pass empties its own population"
 domain-slug: domain/global

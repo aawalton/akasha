@@ -1,5 +1,6 @@
 ---
 id: f6560c16-0702-5bb5-a377-b368c561ee4e
+slug: intra-package-move-uncovered
 page-type-slug: finding
 title: "Intra package move uncovered"
 domain-slug: domain/global

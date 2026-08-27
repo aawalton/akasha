@@ -1,5 +1,6 @@
 ---
 id: 89206bcc-1642-5917-bea5-9a903df7f88e
+slug: catch-hides-in-work-already-underway
 page-type-slug: finding
 title: "Catch hides in work already underway"
 domain-slug: domain/global

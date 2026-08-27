@@ -1,5 +1,6 @@
 ---
 id: 00e44d54-1389-5445-8c3d-b8bf1b3b1e1b
+slug: routing-table-worktree-mismatch
 page-type-slug: finding
 title: "Routing table worktree mismatch"
 domain-slug: domain/global

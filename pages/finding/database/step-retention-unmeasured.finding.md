@@ -1,5 +1,6 @@
 ---
 id: 2edf2a78-40d9-503e-9159-0fd9572c10a1
+slug: step-retention-unmeasured
 page-type-slug: finding
 title: "Step retention unmeasured"
 domain-slug: domain/database

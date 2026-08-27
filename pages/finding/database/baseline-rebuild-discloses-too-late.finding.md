@@ -1,5 +1,6 @@
 ---
 id: 2e5af41f-9f82-5b40-ac01-f0195d9e9b00
+slug: baseline-rebuild-discloses-too-late
 page-type-slug: finding
 title: "Baseline rebuild discloses too late"
 domain-slug: domain/database

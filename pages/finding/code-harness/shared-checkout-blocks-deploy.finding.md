@@ -1,5 +1,6 @@
 ---
 id: 492a2a10-dc4d-5281-ad9f-f3f9f9bbf52a
+slug: shared-checkout-blocks-deploy
 page-type-slug: finding
 title: "Shared checkout blocks deploy"
 domain-slug: domain/global

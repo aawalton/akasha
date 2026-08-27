@@ -1,5 +1,6 @@
 ---
 id: 7a66da2b-c153-59db-82be-4e680accdf8e
+slug: cadence-stand-down-recorded-only-under-quarantine
 page-type-slug: finding
 title: "Cadence stand down recorded only under quarantine"
 domain-slug: domain/code-quality

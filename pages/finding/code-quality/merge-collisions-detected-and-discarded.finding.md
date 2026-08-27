@@ -1,5 +1,6 @@
 ---
 id: c8bd2edc-6652-5180-aa28-95270c996e30
+slug: merge-collisions-detected-and-discarded
 page-type-slug: finding
 title: "Merge collisions detected and discarded"
 domain-slug: domain/code-quality

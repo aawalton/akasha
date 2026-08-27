@@ -1,5 +1,6 @@
 ---
 id: d35ce74f-fec4-5f92-b912-eafbce37edc9
+slug: metrics-gate-blind-to-query-builder
 page-type-slug: finding
 title: "Metrics gate blind to query builder"
 domain-slug: domain/global

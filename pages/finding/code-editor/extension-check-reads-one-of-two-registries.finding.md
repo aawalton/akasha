@@ -1,5 +1,6 @@
 ---
 id: a9026974-1aac-523a-85b9-dfb097420772
+slug: extension-check-reads-one-of-two-registries
 page-type-slug: finding
 title: "Extension check reads one of two registries"
 domain-slug: domain/code-editor

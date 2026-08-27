@@ -1,5 +1,6 @@
 ---
 id: 41380415-8a8a-53d1-9a3f-e8a0d54e5d42
+slug: comment-warrant-two-readings
 page-type-slug: finding
 title: "Comment warrant two readings"
 domain-slug: domain/code-quality

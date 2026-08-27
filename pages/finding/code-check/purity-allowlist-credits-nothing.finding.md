@@ -1,5 +1,6 @@
 ---
 id: 5b7f940f-ed58-5310-ae61-bf8b408d67f3
+slug: purity-allowlist-credits-nothing
 page-type-slug: finding
 title: "Purity allowlist credits nothing"
 domain-slug: domain/global

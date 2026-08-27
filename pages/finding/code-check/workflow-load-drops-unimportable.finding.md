@@ -1,5 +1,6 @@
 ---
 id: 53005642-76dd-56a0-b233-b175a971b504
+slug: workflow-load-drops-unimportable
 page-type-slug: finding
 title: "Workflow load drops unimportable"
 domain-slug: domain/global

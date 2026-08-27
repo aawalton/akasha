@@ -1,5 +1,6 @@
 ---
 id: ab06bb6e-463d-5b08-a09d-9426b91570aa
+slug: buffer-content-tracker-suite-flaky-under-load
 page-type-slug: finding
 title: "Buffer content tracker suite flaky under load"
 domain-slug: domain/code-editor

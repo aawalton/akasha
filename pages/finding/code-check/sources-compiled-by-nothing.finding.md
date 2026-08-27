@@ -1,5 +1,6 @@
 ---
 id: 92dea1b7-b686-59fd-aeb6-3a74361b3691
+slug: sources-compiled-by-nothing
 page-type-slug: finding
 title: "Sources compiled by nothing"
 domain-slug: domain/global

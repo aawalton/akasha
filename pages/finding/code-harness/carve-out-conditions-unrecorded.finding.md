@@ -1,5 +1,6 @@
 ---
 id: 4bc16d59-fa71-5706-b82b-491a2de940fe
+slug: carve-out-conditions-unrecorded
 page-type-slug: finding
 title: "Carve out conditions unrecorded"
 domain-slug: domain/global

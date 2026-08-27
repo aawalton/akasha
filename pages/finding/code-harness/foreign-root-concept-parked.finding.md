@@ -1,5 +1,6 @@
 ---
 id: a1755dc1-2b30-5ada-9506-7474783afc9d
+slug: foreign-root-concept-parked
 page-type-slug: finding
 title: "Foreign root concept parked"
 domain-slug: domain/global

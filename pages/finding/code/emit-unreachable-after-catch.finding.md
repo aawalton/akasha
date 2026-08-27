@@ -1,5 +1,6 @@
 ---
 id: 9c8dc95d-4979-555f-b9ce-42bdfe8c7972
+slug: emit-unreachable-after-catch
 page-type-slug: finding
 title: "Emit unreachable after catch"
 domain-slug: domain/global

@@ -1,5 +1,6 @@
 ---
 id: e12875b9-e957-5d82-ace4-d224eed36242
+slug: theme-child-under-the-wrong-head
 page-type-slug: finding
 title: "Theme child under the wrong head"
 domain-slug: task/define-initiative

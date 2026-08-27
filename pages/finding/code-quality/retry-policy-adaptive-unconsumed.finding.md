@@ -1,5 +1,6 @@
 ---
 id: acde14c0-cf20-56af-81b4-6d2be9af8c82
+slug: retry-policy-adaptive-unconsumed
 page-type-slug: finding
 title: "Retry policy adaptive unconsumed"
 domain-slug: domain/code-quality

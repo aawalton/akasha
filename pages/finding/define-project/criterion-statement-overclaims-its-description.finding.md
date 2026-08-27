@@ -1,5 +1,6 @@
 ---
 id: f8499a83-bd56-533c-8c7b-2283fb03705f
+slug: criterion-statement-overclaims-its-description
 page-type-slug: finding
 title: "Criterion statement overclaims its description"
 domain-slug: domain/global

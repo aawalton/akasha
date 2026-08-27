@@ -1,5 +1,6 @@
 ---
 id: 47b55a9b-a78c-590e-b779-6806358e3f75
+slug: checks-first-run-after-commit
 page-type-slug: finding
 title: "Checks first run after commit"
 domain-slug: domain/global

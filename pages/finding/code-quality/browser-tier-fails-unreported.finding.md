@@ -1,5 +1,6 @@
 ---
 id: c938a7f0-087e-54b2-9ec9-2b92d253b621
+slug: browser-tier-fails-unreported
 page-type-slug: finding
 title: "Browser tier fails unreported"
 domain-slug: domain/code-quality

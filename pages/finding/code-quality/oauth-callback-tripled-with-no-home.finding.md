@@ -1,5 +1,6 @@
 ---
 id: 35cfcc78-e3c9-599f-91ef-cbcbcd3ae697
+slug: oauth-callback-tripled-with-no-home
 page-type-slug: finding
 title: "Oauth callback tripled with no home"
 domain-slug: domain/code-quality

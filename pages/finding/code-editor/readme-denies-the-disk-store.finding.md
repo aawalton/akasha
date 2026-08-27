@@ -1,5 +1,6 @@
 ---
 id: d3ea3b97-f098-5e0e-ac5b-447046ae0ac3
+slug: readme-denies-the-disk-store
 page-type-slug: finding
 title: "Readme denies the disk store"
 domain-slug: domain/code-editor

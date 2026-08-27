@@ -1,5 +1,6 @@
 ---
 id: a2a61aff-164a-5baa-b91b-cb81b1fa73f4
+slug: audits-inside-the-checks-glob
 page-type-slug: finding
 title: "Audits inside the checks glob"
 domain-slug: domain/global

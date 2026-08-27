@@ -1,5 +1,6 @@
 ---
 id: 21399945-deb6-5558-ac93-fc229a5dd87b
+slug: pending-curation-size-carries-a-changelog
 page-type-slug: finding
 title: "Pending curation size carries a changelog"
 domain-slug: domain/global

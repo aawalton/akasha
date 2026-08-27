@@ -1,5 +1,6 @@
 ---
 id: 68dacf99-fc6b-5499-9e41-2fe1d7c9551c
+slug: editor-boot-return-unobserved
 page-type-slug: finding
 title: "Editor boot return unobserved"
 domain-slug: domain/code-editor

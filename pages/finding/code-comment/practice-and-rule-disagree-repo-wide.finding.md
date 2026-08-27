@@ -1,5 +1,6 @@
 ---
 id: e3764218-16ef-5773-b671-43dc06789f85
+slug: practice-and-rule-disagree-repo-wide
 page-type-slug: finding
 title: "Practice and rule disagree repo wide"
 domain-slug: domain/code-comment

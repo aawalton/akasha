@@ -1,5 +1,6 @@
 ---
 id: e75edc79-8308-5904-9e8a-dae5ba1d27ab
+slug: four-tasks-share-lines-verbatim
 page-type-slug: finding
 title: "Four tasks share lines verbatim"
 domain-slug: role/definer

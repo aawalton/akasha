@@ -1,5 +1,6 @@
 ---
 id: cd05496c-1f49-5073-b985-e347695c48eb
+slug: abby-pending-help-ladder-off
 page-type-slug: finding
 title: "Abby pending help ladder off"
 domain-slug: domain/code-quality

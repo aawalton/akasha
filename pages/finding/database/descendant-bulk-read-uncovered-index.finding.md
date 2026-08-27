@@ -1,5 +1,6 @@
 ---
 id: ca16dd04-bdfd-5a01-9950-58780cd2abf3
+slug: descendant-bulk-read-uncovered-index
 page-type-slug: finding
 title: "Descendant bulk read uncovered index"
 domain-slug: domain/database

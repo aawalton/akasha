@@ -1,5 +1,6 @@
 ---
 id: 7f55938a-15e1-5129-a9a9-5a7ea76762d9
+slug: biome-build-dir-exclusion-swallows-source
 page-type-slug: finding
 title: "Biome build dir exclusion swallows source"
 domain-slug: domain/global

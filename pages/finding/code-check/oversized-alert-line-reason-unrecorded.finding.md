@@ -1,5 +1,6 @@
 ---
 id: 25881e12-2c99-5973-97c9-e6cecddbe2ac
+slug: oversized-alert-line-reason-unrecorded
 page-type-slug: finding
 title: "Oversized alert line reason unrecorded"
 domain-slug: domain/global

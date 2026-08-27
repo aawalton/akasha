@@ -1,5 +1,6 @@
 ---
 id: c435924e-42e7-54f2-9e71-835e60c40566
+slug: popover-cap-refused-in-its-own-spelling
 page-type-slug: finding
 title: "Popover cap refused in its own spelling"
 domain-slug: domain/global

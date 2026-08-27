@@ -1,5 +1,6 @@
 ---
 id: 56cbf46a-54ba-5e85-8384-13fcd7f64fb9
+slug: pages-index-drop-undermeasured
 page-type-slug: finding
 title: "Pages index drop undermeasured"
 domain-slug: domain/database

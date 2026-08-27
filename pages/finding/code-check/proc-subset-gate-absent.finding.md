@@ -1,5 +1,6 @@
 ---
 id: 6f7d8ef1-0510-5202-85d8-9f84477c795c
+slug: proc-subset-gate-absent
 page-type-slug: finding
 title: "Proc subset gate absent"
 domain-slug: domain/global

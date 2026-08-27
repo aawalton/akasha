@@ -1,5 +1,6 @@
 ---
 id: 964e04d2-a968-508c-bd66-55eeac4251ad
+slug: live-model-suites-cannot-say-unverified
 page-type-slug: finding
 title: "Live model suites cannot say unverified"
 domain-slug: domain/global

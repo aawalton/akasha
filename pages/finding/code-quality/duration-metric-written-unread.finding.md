@@ -1,5 +1,6 @@
 ---
 id: 09b6c0d5-b71f-5308-8313-fdbcd150b3ec
+slug: duration-metric-written-unread
 page-type-slug: finding
 title: "Duration metric written unread"
 domain-slug: domain/code-quality

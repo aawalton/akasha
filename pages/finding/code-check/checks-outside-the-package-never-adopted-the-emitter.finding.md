@@ -1,5 +1,6 @@
 ---
 id: 2137a47b-fa7a-5ce2-8687-c42fac00b27e
+slug: checks-outside-the-package-never-adopted-the-emitter
 page-type-slug: finding
 title: "Checks outside the package never adopted the emitter"
 domain-slug: domain/global

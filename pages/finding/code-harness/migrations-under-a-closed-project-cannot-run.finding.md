@@ -1,5 +1,6 @@
 ---
 id: f9e8d90c-c76a-58b7-9e85-56af415bc160
+slug: migrations-under-a-closed-project-cannot-run
 page-type-slug: finding
 title: "Migrations under a closed project cannot run"
 domain-slug: domain/global

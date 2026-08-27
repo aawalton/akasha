@@ -1,5 +1,6 @@
 ---
 id: 835ee8b3-729b-57f7-a7d9-3af9e4a387b5
+slug: the-no-code-comments-rule-and-the-tools-tree-point-opposite-ways
 page-type-slug: finding
 title: "The no code comments rule and the tools tree point opposite ways"
 domain-slug: domain/code-comment

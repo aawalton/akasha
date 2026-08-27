@@ -1,5 +1,6 @@
 ---
 id: 447f688a-dea0-5e45-8ea3-1d5093deec38
+slug: contract-migration-invisible-on-child-row
 page-type-slug: finding
 title: "Contract migration invisible on child row"
 domain-slug: domain/global

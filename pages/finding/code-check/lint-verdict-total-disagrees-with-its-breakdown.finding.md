@@ -1,5 +1,6 @@
 ---
 id: 379a65b8-0da8-582b-84cb-b9c32c89e5c3
+slug: lint-verdict-total-disagrees-with-its-breakdown
 page-type-slug: finding
 title: "Lint verdict total disagrees with its breakdown"
 domain-slug: domain/global

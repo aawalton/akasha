@@ -1,5 +1,6 @@
 ---
 id: ae7862b9-8253-5ea1-baff-af1378476d55
+slug: wraptask-clean-return-aborts-peers
 page-type-slug: finding
 title: "Wraptask clean return aborts peers"
 domain-slug: domain/global

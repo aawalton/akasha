@@ -1,5 +1,6 @@
 ---
 id: 6211e465-2f89-53e6-92bb-f65d9ec66cfe
+slug: no-readme-rationale-points-at-quarantine
 page-type-slug: finding
 title: "No readme rationale points at quarantine"
 domain-slug: domain/code-quality

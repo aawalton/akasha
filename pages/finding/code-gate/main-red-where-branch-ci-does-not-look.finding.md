@@ -1,5 +1,6 @@
 ---
 id: 5595bdc6-c0ef-5ee9-a93d-e0857ade80aa
+slug: main-red-where-branch-ci-does-not-look
 page-type-slug: finding
 title: "Main red where branch CI does not look"
 domain-slug: domain/global

@@ -1,5 +1,6 @@
 ---
 id: 45b1869a-9441-5451-9222-e85adc0c1339
+slug: silent-skips-keyed-off-working-directory
 page-type-slug: finding
 title: "Silent skips keyed off working directory"
 domain-slug: domain/global

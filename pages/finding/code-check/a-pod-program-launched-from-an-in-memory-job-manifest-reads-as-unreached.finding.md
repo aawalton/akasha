@@ -1,5 +1,6 @@
 ---
 id: b13a4b8c-1e04-5906-a102-efa333a597dc
+slug: a-pod-program-launched-from-an-in-memory-job-manifest-reads-as-unreached
 page-type-slug: finding
 title: "A pod program launched from an in memory job manifest reads as unreached"
 domain-slug: domain/global

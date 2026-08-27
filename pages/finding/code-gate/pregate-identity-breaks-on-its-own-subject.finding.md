@@ -1,5 +1,6 @@
 ---
 id: 9681e721-0593-5583-a610-68bd1d0ddeee
+slug: pregate-identity-breaks-on-its-own-subject
 page-type-slug: finding
 title: "Pregate identity breaks on its own subject"
 domain-slug: domain/global

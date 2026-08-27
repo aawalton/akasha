@@ -1,5 +1,6 @@
 ---
 id: 8ab213e8-eae7-5f05-8379-470f2d299568
+slug: deploy-skips-contract-migrations-on-unknown
 page-type-slug: finding
 title: "Deploy skips contract migrations on unknown"
 domain-slug: domain/global

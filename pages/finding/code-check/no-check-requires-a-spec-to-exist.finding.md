@@ -1,5 +1,6 @@
 ---
 id: 62bc7ef7-91f3-5887-bb79-16330346b43f
+slug: no-check-requires-a-spec-to-exist
 page-type-slug: finding
 title: "No check requires a spec to exist"
 domain-slug: domain/global

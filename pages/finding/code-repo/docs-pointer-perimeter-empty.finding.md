@@ -1,5 +1,6 @@
 ---
 id: 060bf4f1-aeb2-564d-acaf-1e28b0ace99b
+slug: docs-pointer-perimeter-empty
 page-type-slug: finding
 title: "Docs pointer perimeter empty"
 domain-slug: repo/code-repo

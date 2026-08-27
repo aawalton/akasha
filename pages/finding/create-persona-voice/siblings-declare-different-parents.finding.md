@@ -1,5 +1,6 @@
 ---
 id: aaec7436-3f07-54db-94d6-c8bc03e55bf6
+slug: siblings-declare-different-parents
 page-type-slug: finding
 title: "Siblings declare different parents"
 domain-slug: task/create-persona-voice

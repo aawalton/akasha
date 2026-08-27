@@ -1,5 +1,6 @@
 ---
 id: d2fd9dee-5e63-53df-a58b-e66a5883233a
+slug: bypass-retirement-left-obligations-uncarried
 page-type-slug: finding
 title: "Bypass retirement left obligations uncarried"
 domain-slug: domain/global

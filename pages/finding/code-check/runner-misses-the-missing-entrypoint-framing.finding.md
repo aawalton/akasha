@@ -1,5 +1,6 @@
 ---
 id: a3cd1897-8091-5951-a4b1-8b8e5e9b0f28
+slug: runner-misses-the-missing-entrypoint-framing
 page-type-slug: finding
 title: "Runner misses the missing entrypoint framing"
 domain-slug: domain/global

@@ -1,5 +1,6 @@
 ---
 id: cc3878ca-badd-57e5-b82a-751e870c50bf
+slug: sweep-guard-checks-the-wrong-env
 page-type-slug: finding
 title: "Sweep guard checks the wrong env"
 domain-slug: domain/global

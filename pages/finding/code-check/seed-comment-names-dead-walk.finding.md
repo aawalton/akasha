@@ -1,5 +1,6 @@
 ---
 id: 4a5f1d95-f933-5e95-aa1c-0ca6c265406c
+slug: seed-comment-names-dead-walk
 page-type-slug: finding
 title: "Seed comment names dead walk"
 domain-slug: domain/global

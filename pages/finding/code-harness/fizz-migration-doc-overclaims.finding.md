@@ -1,5 +1,6 @@
 ---
 id: 81c75175-0eef-53a3-a7e5-daa0c6202dd8
+slug: fizz-migration-doc-overclaims
 page-type-slug: finding
 title: "Fizz migration doc overclaims"
 domain-slug: domain/global

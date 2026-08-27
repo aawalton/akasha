@@ -1,5 +1,6 @@
 ---
 id: 695ad6e6-33ba-5d17-92bb-7c0958f0e7dc
+slug: blind-spots-delegated-to-a-quarantined-doc
 page-type-slug: finding
 title: "Blind spots delegated to a quarantined doc"
 domain-slug: domain/code-quality

@@ -1,5 +1,6 @@
 ---
 id: 62de029e-35e6-528f-abaa-2e424968359e
+slug: finish-help-names-the-retired-note
 page-type-slug: finding
 title: "Finish help names the retired note"
 domain-slug: domain/code-quality

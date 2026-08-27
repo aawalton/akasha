@@ -1,5 +1,6 @@
 ---
 id: 8a03d8af-82ab-5125-a009-383659c8a542
+slug: two-invariants-on-closing
 page-type-slug: finding
 title: "Two invariants on closing"
 domain-slug: domain/global

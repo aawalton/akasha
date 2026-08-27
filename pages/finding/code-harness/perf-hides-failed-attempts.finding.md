@@ -1,5 +1,6 @@
 ---
 id: 583e85ca-92b6-5a12-8c7f-ba56301c65e8
+slug: perf-hides-failed-attempts
 page-type-slug: finding
 title: "Perf hides failed attempts"
 domain-slug: domain/global

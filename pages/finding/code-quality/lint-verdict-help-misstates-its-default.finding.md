@@ -1,5 +1,6 @@
 ---
 id: 8b494e67-181f-5fae-819a-e20e24a95055
+slug: lint-verdict-help-misstates-its-default
 page-type-slug: finding
 title: "Lint verdict help misstates its default"
 domain-slug: domain/code-quality

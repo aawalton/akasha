@@ -1,5 +1,6 @@
 ---
 id: 992da729-353e-5b12-9366-fba19de67782
+slug: check-help-claims-full-run
 page-type-slug: finding
 title: "Check help claims full run"
 domain-slug: domain/global

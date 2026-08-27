@@ -1,5 +1,6 @@
 ---
 id: 0f82b2fa-bec8-5c31-8cdd-4295ebddd349
+slug: rebase-replayed-deletion-silent
 page-type-slug: finding
 title: "Rebase replayed deletion silent"
 domain-slug: domain/global

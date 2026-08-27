@@ -1,5 +1,6 @@
 ---
 id: e841be8a-151f-57ce-820f-9794d6e8114a
+slug: deleted-check-duty-lives-in-prose
 page-type-slug: finding
 title: "Deleted check duty lives in prose"
 domain-slug: domain/global

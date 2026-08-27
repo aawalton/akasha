@@ -1,5 +1,6 @@
 ---
 id: 5e6369ce-fde2-5497-92b3-bad038fac84c
+slug: force-keep-lock-hand-listed
 page-type-slug: finding
 title: "Force keep lock hand listed"
 domain-slug: domain/global

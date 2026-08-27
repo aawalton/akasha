@@ -1,5 +1,6 @@
 ---
 id: a083eada-ec7e-5099-b6df-83dcb59f35af
+slug: rename-charged-as-regression
 page-type-slug: finding
 title: "Rename charged as regression"
 domain-slug: domain/global

@@ -1,5 +1,6 @@
 ---
 id: a2b81f94-0731-5ad3-a00e-f96c44f85b84
+slug: suppression-condition-unrecorded
 page-type-slug: finding
 title: "Suppression condition unrecorded"
 domain-slug: domain/global

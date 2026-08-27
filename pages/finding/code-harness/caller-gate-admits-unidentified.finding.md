@@ -1,5 +1,6 @@
 ---
 id: b01f0592-6cdb-5d1d-bf38-71bd782f6cbe
+slug: caller-gate-admits-unidentified
 page-type-slug: finding
 title: "Caller gate admits unidentified"
 domain-slug: domain/global

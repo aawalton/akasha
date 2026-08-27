@@ -1,5 +1,6 @@
 ---
 id: 5f993389-51a0-54ec-8962-ceb61e5658ca
+slug: finding-reads-two-ways
 page-type-slug: finding
 title: "Finding reads two ways"
 domain-slug: task/create-persona-voice

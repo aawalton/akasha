@@ -1,5 +1,6 @@
 ---
 id: 0f2f64e7-af12-563a-a0a2-9f447c4fc67b
+slug: gate-out-of-reader-reach
 page-type-slug: finding
 title: "Gate out of reader reach"
 domain-slug: domain/global

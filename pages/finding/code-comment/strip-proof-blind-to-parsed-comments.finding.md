@@ -1,5 +1,6 @@
 ---
 id: c7d2b51d-0996-5edf-b734-517f93ebb17b
+slug: strip-proof-blind-to-parsed-comments
 page-type-slug: finding
 title: "Strip proof blind to parsed comments"
 domain-slug: domain/code-comment

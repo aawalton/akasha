@@ -1,5 +1,6 @@
 ---
 id: 48e30127-b631-5613-b21c-f37ee20697e9
+slug: remediation-doc-nullable-flip
 page-type-slug: finding
 title: "Remediation doc nullable flip"
 domain-slug: domain/global

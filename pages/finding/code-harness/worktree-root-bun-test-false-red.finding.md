@@ -1,5 +1,6 @@
 ---
 id: e23c1da7-9c82-58c3-ab64-cb8afe23556c
+slug: worktree-root-bun-test-false-red
 page-type-slug: finding
 title: "Worktree root bun test false red"
 domain-slug: domain/global

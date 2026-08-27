@@ -1,5 +1,6 @@
 ---
 id: 58d372ba-7755-57ff-9445-c6aa25ef163a
+slug: memory-qos-blind-to-code-pods
 page-type-slug: finding
 title: "Memory qos blind to code pods"
 domain-slug: domain/global

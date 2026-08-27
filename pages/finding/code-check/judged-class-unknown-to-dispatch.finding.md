@@ -1,5 +1,6 @@
 ---
 id: d34d9745-175c-5c5c-8737-bcc6a0a26724
+slug: judged-class-unknown-to-dispatch
 page-type-slug: finding
 title: "Judged class unknown to dispatch"
 domain-slug: domain/global

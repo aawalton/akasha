@@ -1,5 +1,6 @@
 ---
 id: 298055c4-f6fe-5c1f-8624-eb74b39052ab
+slug: deploy-passes-on-empty-workflow-set
 page-type-slug: finding
 title: "Deploy passes on empty workflow set"
 domain-slug: domain/global

@@ -1,5 +1,6 @@
 ---
 id: 27017247-bb55-5a71-8153-f9041aa4ae57
+slug: deleted-test-named-in-scratch-config
 page-type-slug: finding
 title: "Deleted test named in scratch config"
 domain-slug: domain/global

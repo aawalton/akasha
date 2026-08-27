@@ -1,5 +1,6 @@
 ---
 id: 9bcd64c8-dd46-5007-b7c4-e3a622495c65
+slug: bundle-cohort-not-examined
 page-type-slug: finding
 title: "Bundle cohort not examined"
 domain-slug: domain/global

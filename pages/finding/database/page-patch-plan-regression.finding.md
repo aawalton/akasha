@@ -1,5 +1,6 @@
 ---
 id: 1d8c8ea7-05f3-5cc9-8c69-052e51e13171
+slug: page-patch-plan-regression
 page-type-slug: finding
 title: "Page patch plan regression"
 domain-slug: domain/database

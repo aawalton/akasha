@@ -1,5 +1,6 @@
 ---
 id: 73c743a1-d92d-5428-af12-f9790ee8792a
+slug: help-flag-references-dispatch-blind
 page-type-slug: finding
 title: "Help flag references dispatch blind"
 domain-slug: domain/global

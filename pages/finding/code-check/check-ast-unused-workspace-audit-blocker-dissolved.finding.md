@@ -1,5 +1,6 @@
 ---
 id: 7b02c2f0-e0b8-56cd-a021-ffc35588eff0
+slug: check-ast-unused-workspace-audit-blocker-dissolved
 page-type-slug: finding
 title: "Check ast unused workspace audit blocker dissolved"
 domain-slug: domain/global

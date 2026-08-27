@@ -1,5 +1,6 @@
 ---
 id: 4a69a96b-99ad-596f-8ccb-0e2b299e862b
+slug: initiative-measures-against-a-retired-construct
 page-type-slug: finding
 title: "Initiative measures against a retired construct"
 domain-slug: task/define-initiative

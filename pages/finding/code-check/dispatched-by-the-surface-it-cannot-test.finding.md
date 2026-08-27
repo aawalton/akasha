@@ -1,5 +1,6 @@
 ---
 id: 209f7715-dc5c-51b0-8a47-1edebe8d5ff9
+slug: dispatched-by-the-surface-it-cannot-test
 page-type-slug: finding
 title: "Dispatched by the surface it cannot test"
 domain-slug: domain/global

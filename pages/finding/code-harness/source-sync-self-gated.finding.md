@@ -1,5 +1,6 @@
 ---
 id: 24c018a1-b8e7-5491-a216-fc2e6ea024d5
+slug: source-sync-self-gated
 page-type-slug: finding
 title: "Source sync self gated"
 domain-slug: domain/global

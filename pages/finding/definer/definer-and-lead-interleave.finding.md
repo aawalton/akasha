@@ -1,5 +1,6 @@
 ---
 id: b2c26e9e-6e9a-5d66-8130-89cd3203d18f
+slug: definer-and-lead-interleave
 page-type-slug: finding
 title: "Definer and lead interleave"
 domain-slug: role/definer

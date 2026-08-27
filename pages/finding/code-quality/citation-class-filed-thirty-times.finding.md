@@ -1,5 +1,6 @@
 ---
 id: e428ebd5-3141-552a-a045-6c8e14751ee7
+slug: citation-class-filed-thirty-times
 page-type-slug: finding
 title: "Citation class filed thirty times"
 domain-slug: domain/code-quality

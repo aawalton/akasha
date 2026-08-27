@@ -1,5 +1,6 @@
 ---
 id: 1fb18734-e903-5f0f-86d0-2e7c3a145647
+slug: slug-narrower-than-the-task
 page-type-slug: finding
 title: "Slug narrower than the task"
 domain-slug: task/define-definition

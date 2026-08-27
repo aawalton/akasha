@@ -1,5 +1,6 @@
 ---
 id: 67cebe32-ffe4-5a2c-9bc6-dfaa279d90e1
+slug: merged-result-cap-unpredictable
 page-type-slug: finding
 title: "Merged result cap unpredictable"
 domain-slug: domain/global

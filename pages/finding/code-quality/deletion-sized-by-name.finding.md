@@ -1,5 +1,6 @@
 ---
 id: 33506ab1-dfd9-5d9e-b33b-8322d0fb9c3c
+slug: deletion-sized-by-name
 page-type-slug: finding
 title: "Deletion sized by name"
 domain-slug: domain/code-quality

@@ -1,5 +1,6 @@
 ---
 id: 9910f1cf-e8a0-5ec7-9f92-4213acf45517
+slug: cohort-part-of-finding-spent
 page-type-slug: finding
 title: "Cohort part of finding spent"
 domain-slug: domain/global

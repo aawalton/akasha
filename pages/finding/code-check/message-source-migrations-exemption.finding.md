@@ -1,5 +1,6 @@
 ---
 id: cf31c44c-e35a-51c8-bb92-83b3b4b36a1c
+slug: message-source-migrations-exemption
 page-type-slug: finding
 title: "Message source migrations exemption"
 domain-slug: domain/global

@@ -1,5 +1,6 @@
 ---
 id: 56633b64-7d9c-583d-97ed-01a8c305aa6c
+slug: criterion-untested-against-the-base
 page-type-slug: finding
 title: "Criterion untested against the base"
 domain-slug: domain/global

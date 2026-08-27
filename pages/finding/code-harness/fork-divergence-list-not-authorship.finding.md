@@ -1,5 +1,6 @@
 ---
 id: 548a3e6f-2866-59a0-ac5b-c3fd56388fdc
+slug: fork-divergence-list-not-authorship
 page-type-slug: finding
 title: "Fork divergence list not authorship"
 domain-slug: domain/global

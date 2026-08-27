@@ -1,5 +1,6 @@
 ---
 id: 9b084a3b-c4d0-57a2-83c7-d03c8fcca075
+slug: subscriber-lag-too-general
 page-type-slug: finding
 title: "Subscriber lag too general"
 domain-slug: domain/global

@@ -1,5 +1,6 @@
 ---
 id: b0930781-90ea-59ec-809f-0784e8fed612
+slug: decider-outside-the-model-population
 page-type-slug: finding
 title: "Decider outside the model population"
 domain-slug: domain/global

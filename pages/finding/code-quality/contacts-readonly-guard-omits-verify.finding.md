@@ -1,5 +1,6 @@
 ---
 id: e7451347-b0ae-51e0-a36d-aefc655eed53
+slug: contacts-readonly-guard-omits-verify
 page-type-slug: finding
 title: "Contacts readonly guard omits verify"
 domain-slug: domain/code-quality

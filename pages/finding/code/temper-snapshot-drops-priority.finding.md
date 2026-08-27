@@ -1,5 +1,6 @@
 ---
 id: eaabd50c-3571-57c5-83d4-d04126a67dbd
+slug: temper-snapshot-drops-priority
 page-type-slug: finding
 title: "Temper snapshot drops priority"
 domain-slug: domain/global

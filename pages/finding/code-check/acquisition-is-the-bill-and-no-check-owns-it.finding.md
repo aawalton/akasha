@@ -1,5 +1,6 @@
 ---
 id: b2f1bccd-eb35-5590-a311-143473f2023c
+slug: acquisition-is-the-bill-and-no-check-owns-it
 page-type-slug: finding
 title: "Acquisition is the bill and no check owns it"
 domain-slug: domain/global

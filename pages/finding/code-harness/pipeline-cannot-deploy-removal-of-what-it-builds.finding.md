@@ -1,5 +1,6 @@
 ---
 id: febf8950-b299-534d-b587-2dbc9c54a8e0
+slug: pipeline-cannot-deploy-removal-of-what-it-builds
 page-type-slug: finding
 title: "Pipeline cannot deploy removal of what it builds"
 domain-slug: domain/global

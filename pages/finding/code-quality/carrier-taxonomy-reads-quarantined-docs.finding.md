@@ -1,5 +1,6 @@
 ---
 id: e29ae1d6-6fe5-5695-b563-acf8de00627a
+slug: carrier-taxonomy-reads-quarantined-docs
 page-type-slug: finding
 title: "Carrier taxonomy reads quarantined docs"
 domain-slug: domain/code-quality

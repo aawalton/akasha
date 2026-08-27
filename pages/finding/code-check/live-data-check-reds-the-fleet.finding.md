@@ -1,5 +1,6 @@
 ---
 id: 406e8235-c8ba-5f45-8b47-d020ae382ee1
+slug: live-data-check-reds-the-fleet
 page-type-slug: finding
 title: "Live data check reds the fleet"
 domain-slug: domain/global

@@ -1,5 +1,6 @@
 ---
 id: 239ad181-ab3c-5a50-bd2c-e5b9729dab9c
+slug: criterion-truth-fixed-before-verification
 page-type-slug: finding
 title: "Criterion truth fixed before verification"
 domain-slug: domain/global

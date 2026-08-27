@@ -1,5 +1,6 @@
 ---
 id: 3acac390-e9f3-5abd-8409-82925b136854
+slug: status-bar-snapshot-status-lists-unguarded
 page-type-slug: finding
 title: "Status bar snapshot status lists unguarded"
 domain-slug: domain/database

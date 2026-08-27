@@ -1,5 +1,6 @@
 ---
 id: 4ffc29df-27a7-5ec0-bec9-5b5317281f13
+slug: test-only-export-survivors
 page-type-slug: finding
 title: "Test only export survivors"
 domain-slug: domain/code-quality

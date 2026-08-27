@@ -1,5 +1,6 @@
 ---
 id: 3349533c-989d-5788-a401-5190daf413a9
+slug: prose-duplication-question-never-put
 page-type-slug: finding
 title: "Prose duplication question never put"
 domain-slug: role/definer

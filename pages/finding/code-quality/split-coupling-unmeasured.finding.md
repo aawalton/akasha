@@ -1,5 +1,6 @@
 ---
 id: ebddced8-fa79-5694-814d-52ecbeee7e05
+slug: split-coupling-unmeasured
 page-type-slug: finding
 title: "Split coupling unmeasured"
 domain-slug: domain/code-quality

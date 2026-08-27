@@ -1,5 +1,6 @@
 ---
 id: df792a28-bc44-5993-812f-d0103c6edb43
+slug: sargable-cast-unread-on-the-right-of-the-operator
 page-type-slug: finding
 title: "Sargable cast unread on the right of the operator"
 domain-slug: domain/global

@@ -1,5 +1,6 @@
 ---
 id: 93733a03-3b90-5482-99ad-f9f5bf8621ce
+slug: node-name-exemption-expiry-unheld
 page-type-slug: finding
 title: "Node name exemption expiry unheld"
 domain-slug: domain/global

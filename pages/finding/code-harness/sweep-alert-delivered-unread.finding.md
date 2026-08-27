@@ -1,5 +1,6 @@
 ---
 id: 2fc86b02-b6b5-5685-8124-dd9eaf28ead7
+slug: sweep-alert-delivered-unread
 page-type-slug: finding
 title: "Sweep alert delivered unread"
 domain-slug: domain/global

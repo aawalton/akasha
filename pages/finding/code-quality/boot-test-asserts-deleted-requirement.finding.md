@@ -1,5 +1,6 @@
 ---
 id: 08adb773-f046-528a-a60e-40b549de825c
+slug: boot-test-asserts-deleted-requirement
 page-type-slug: finding
 title: "Boot test asserts deleted requirement"
 domain-slug: domain/code-quality

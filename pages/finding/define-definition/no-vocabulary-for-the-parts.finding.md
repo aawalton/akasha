@@ -1,5 +1,6 @@
 ---
 id: f2feefe3-9c04-53a7-bd87-b1162bb524d7
+slug: no-vocabulary-for-the-parts
 page-type-slug: finding
 title: "No vocabulary for the parts"
 domain-slug: task/define-definition

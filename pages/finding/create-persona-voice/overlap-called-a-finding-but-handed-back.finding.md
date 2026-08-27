@@ -1,5 +1,6 @@
 ---
 id: 05f5ac19-1006-511b-97d4-8e1abd3a3a07
+slug: overlap-called-a-finding-but-handed-back
 page-type-slug: finding
 title: "Overlap called a finding but handed back"
 domain-slug: task/create-persona-voice

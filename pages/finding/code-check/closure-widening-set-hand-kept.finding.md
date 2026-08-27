@@ -1,5 +1,6 @@
 ---
 id: c9cf1ed5-0142-5a1b-8102-6c0c886e54a4
+slug: closure-widening-set-hand-kept
 page-type-slug: finding
 title: "Closure widening set hand kept"
 domain-slug: domain/global

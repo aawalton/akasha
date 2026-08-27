@@ -1,5 +1,6 @@
 ---
 id: 5a0f76d5-6e0c-550b-a36b-7bff040dc731
+slug: lint-verdict-root-misstated
 page-type-slug: finding
 title: "Lint verdict root misstated"
 domain-slug: domain/global

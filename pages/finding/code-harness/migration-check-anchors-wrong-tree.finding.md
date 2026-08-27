@@ -1,5 +1,6 @@
 ---
 id: 87f62b1e-0bc6-51e8-9415-45ab941d9c8a
+slug: migration-check-anchors-wrong-tree
 page-type-slug: finding
 title: "Migration check anchors wrong tree"
 domain-slug: domain/global

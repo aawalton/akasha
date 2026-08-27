@@ -1,5 +1,6 @@
 ---
 id: f945065f-d379-57ff-abad-a2ff9452e660
+slug: proc-byte-equality-skips-on-compile-failure
 page-type-slug: finding
 title: "Proc byte equality skips on compile failure"
 domain-slug: domain/database

@@ -1,5 +1,6 @@
 ---
 id: dee87a24-1640-5931-b7cc-30a772f5b81a
+slug: gate-cannot-compile-alone
 page-type-slug: finding
 title: "Gate cannot compile alone"
 domain-slug: domain/code-editor

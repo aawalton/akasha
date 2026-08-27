@@ -1,5 +1,6 @@
 ---
 id: 81d085ac-cee4-5272-87ed-216152f34f68
+slug: guard-misses-its-own-subjects
 page-type-slug: finding
 title: "Guard misses its own subjects"
 domain-slug: domain/global

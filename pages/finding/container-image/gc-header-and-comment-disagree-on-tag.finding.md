@@ -1,5 +1,6 @@
 ---
 id: 44ea86b5-00df-562b-a3f9-38914c230a9a
+slug: gc-header-and-comment-disagree-on-tag
 page-type-slug: finding
 title: "Gc header and comment disagree on tag"
 domain-slug: domain/container-image

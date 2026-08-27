@@ -1,5 +1,6 @@
 ---
 id: 9c5ef6cd-1ecd-5c4e-a3d3-85c0a14eeeeb
+slug: proc-template-runtime-walker
 page-type-slug: finding
 title: "Proc template runtime walker"
 domain-slug: domain/code-quality

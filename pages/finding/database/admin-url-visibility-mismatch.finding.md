@@ -1,5 +1,6 @@
 ---
 id: c3205ead-3f09-5a59-b99a-4e5a599efc2a
+slug: admin-url-visibility-mismatch
 page-type-slug: finding
 title: "Admin URL visibility mismatch"
 domain-slug: domain/database

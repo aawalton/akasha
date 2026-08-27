@@ -1,5 +1,6 @@
 ---
 id: 82a8441a-decc-5f3c-9069-beac5a27a778
+slug: worker-shape-principle-citations-dangle
 page-type-slug: finding
 title: "Worker shape principle citations dangle"
 domain-slug: domain/code-quality

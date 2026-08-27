@@ -1,5 +1,6 @@
 ---
 id: d2dd1f05-d345-53a5-80fe-87c59f0b2049
+slug: serving-a-worktree-build-needs-vscode-dev-and-real-node-modules
 page-type-slug: finding
 title: "Serving a worktree build needs vscode dev and real node modules"
 domain-slug: domain/code-editor

@@ -1,5 +1,6 @@
 ---
 id: 77be4ee2-86f9-528b-a294-d2d7f400a2db
+slug: no-default-keybindings
 page-type-slug: finding
 title: "No default keybindings"
 domain-slug: domain/code-editor

@@ -1,5 +1,6 @@
 ---
 id: 6f67bbaa-cc71-50df-9966-3b47c78acecf
+slug: two-in-five-test-files-are-never-typechecked
 page-type-slug: finding
 title: "Two in five test files are never typechecked"
 domain-slug: domain/code-quality

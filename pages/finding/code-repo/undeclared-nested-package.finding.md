@@ -1,5 +1,6 @@
 ---
 id: 9d1e2257-85fd-599a-accb-a6d08a0ab9ed
+slug: undeclared-nested-package
 page-type-slug: finding
 title: "Undeclared nested package"
 domain-slug: repo/code-repo

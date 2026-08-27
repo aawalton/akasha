@@ -1,5 +1,6 @@
 ---
 id: 79994c8b-83b1-52fa-b7fe-a5beb5e9c0de
+slug: landed-test-reads-subjects-not-patches
 page-type-slug: finding
 title: "Landed test reads subjects not patches"
 domain-slug: domain/global

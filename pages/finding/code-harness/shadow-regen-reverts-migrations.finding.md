@@ -1,5 +1,6 @@
 ---
 id: f1ed1058-aea1-5db9-9033-dc852babb3b4
+slug: shadow-regen-reverts-migrations
 page-type-slug: finding
 title: "Shadow regen reverts migrations"
 domain-slug: domain/global

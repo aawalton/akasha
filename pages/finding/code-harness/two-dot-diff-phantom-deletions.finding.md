@@ -1,5 +1,6 @@
 ---
 id: 9792c5ab-d9fb-5455-9d02-a66727bbc735
+slug: two-dot-diff-phantom-deletions
 page-type-slug: finding
 title: "Two dot diff phantom deletions"
 domain-slug: domain/global

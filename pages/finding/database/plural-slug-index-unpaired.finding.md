@@ -1,5 +1,6 @@
 ---
 id: b2af79ef-66f6-51b5-9817-df274a04686c
+slug: plural-slug-index-unpaired
 page-type-slug: finding
 title: "Plural slug index unpaired"
 domain-slug: domain/database

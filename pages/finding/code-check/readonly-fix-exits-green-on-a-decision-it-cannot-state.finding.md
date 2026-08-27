@@ -1,5 +1,6 @@
 ---
 id: 3a2f7ef2-fe5e-541a-9fb6-592125778811
+slug: readonly-fix-exits-green-on-a-decision-it-cannot-state
 page-type-slug: finding
 title: "Readonly fix exits green on a decision it cannot state"
 domain-slug: domain/global

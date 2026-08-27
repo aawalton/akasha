@@ -1,5 +1,6 @@
 ---
 id: 400f937c-bc3d-5ea2-b7f4-05272529a20e
+slug: land-gate-branch-unfiltered
 page-type-slug: finding
 title: "Land gate branch unfiltered"
 domain-slug: domain/global

@@ -1,5 +1,6 @@
 ---
 id: b50d2bca-c31c-51aa-a686-f5005cb5b314
+slug: attribute-predicate-gate-blind-to-bind-params
 page-type-slug: finding
 title: "Attribute predicate gate blind to bind params"
 domain-slug: domain/database

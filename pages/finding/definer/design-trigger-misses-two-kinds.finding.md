@@ -1,5 +1,6 @@
 ---
 id: 3e7c33ce-e5de-50b1-a7da-2bac282ba6e4
+slug: design-trigger-misses-two-kinds
 page-type-slug: finding
 title: "Design trigger misses two kinds"
 domain-slug: role/definer

@@ -1,5 +1,6 @@
 ---
 id: 9cdaba3e-8624-5c9f-9d3b-826dbde58785
+slug: stale-pragma-unobservable
 page-type-slug: finding
 title: "Stale pragma unobservable"
 domain-slug: domain/global

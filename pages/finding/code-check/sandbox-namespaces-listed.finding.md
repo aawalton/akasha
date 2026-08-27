@@ -1,5 +1,6 @@
 ---
 id: d7ea3c96-f479-546a-8071-5cf2e64983bb
+slug: sandbox-namespaces-listed
 page-type-slug: finding
 title: "Sandbox namespaces listed"
 domain-slug: domain/global

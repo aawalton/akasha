@@ -1,5 +1,6 @@
 ---
 id: bed831e2-b468-526f-abf8-1291e35b8136
+slug: adhoc-role-bypasses-rls
 page-type-slug: finding
 title: "Adhoc role bypasses rls"
 domain-slug: domain/database

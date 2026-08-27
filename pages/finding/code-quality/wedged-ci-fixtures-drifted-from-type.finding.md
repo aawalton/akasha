@@ -1,5 +1,6 @@
 ---
 id: 65e228db-e2ba-50da-93ec-ac76c31c4c61
+slug: wedged-ci-fixtures-drifted-from-type
 page-type-slug: finding
 title: "Wedged CI fixtures drifted from type"
 domain-slug: domain/code-quality

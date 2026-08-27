@@ -1,6 +1,7 @@
 ---
 page-type-slug: finding
 id: eec992f5-cfc3-564f-a313-ff4f3463d0f4
+slug: workflow-name-key-absent
 title: "Workflow name key absent"
 domain-slug: domain/code-quality
 ---

@@ -1,5 +1,6 @@
 ---
 id: 8d26c177-9d70-580a-ab8e-9c44456d3086
+slug: definition-compound-object
 page-type-slug: finding
 title: "Definition compound object"
 domain-slug: domain/global

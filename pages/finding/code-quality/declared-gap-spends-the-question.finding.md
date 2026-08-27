@@ -1,5 +1,6 @@
 ---
 id: 3828c2ee-e073-5b47-b341-0156f1af4447
+slug: declared-gap-spends-the-question
 page-type-slug: finding
 title: "Declared gap spends the question"
 domain-slug: domain/code-quality

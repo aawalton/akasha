@@ -1,5 +1,6 @@
 ---
 id: 07967ce7-924b-5d8f-94c7-a91c04c0c9b4
+slug: empty-capture-16066
 page-type-slug: finding
 title: "Empty capture 16066"
 domain-slug: domain/database

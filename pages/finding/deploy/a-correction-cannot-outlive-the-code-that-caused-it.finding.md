@@ -1,5 +1,6 @@
 ---
 id: d2049969-3d40-525b-a788-0cc4fd4a60cb
+slug: a-correction-cannot-outlive-the-code-that-caused-it
 page-type-slug: finding
 title: "A correction cannot outlive the code that caused it"
 domain-slug: domain/deploy

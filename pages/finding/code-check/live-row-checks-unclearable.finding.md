@@ -1,5 +1,6 @@
 ---
 id: 622a5e00-46cd-5e48-a5ff-cfaed1702c8f
+slug: live-row-checks-unclearable
 page-type-slug: finding
 title: "Live row checks unclearable"
 domain-slug: domain/global

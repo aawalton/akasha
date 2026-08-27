@@ -1,5 +1,6 @@
 ---
 id: 78596fdb-4efb-51e4-9daa-12292ed4aa93
+slug: quarantined-spec-for-a-reserved-capability
 page-type-slug: finding
 title: "Quarantined spec for a reserved capability"
 domain-slug: domain/global

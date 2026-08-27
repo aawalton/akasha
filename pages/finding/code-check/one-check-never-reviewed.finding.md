@@ -1,5 +1,6 @@
 ---
 id: 12acb2a0-3781-58b7-b77b-07ec4efc07d7
+slug: one-check-never-reviewed
 page-type-slug: finding
 title: "One check never reviewed"
 domain-slug: domain/global

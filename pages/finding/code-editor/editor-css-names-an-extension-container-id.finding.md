@@ -1,5 +1,6 @@
 ---
 id: a1684da7-9886-5549-8bd6-1e9378a43a88
+slug: editor-css-names-an-extension-container-id
 page-type-slug: finding
 title: "Editor css names an extension container ID"
 domain-slug: domain/code-editor

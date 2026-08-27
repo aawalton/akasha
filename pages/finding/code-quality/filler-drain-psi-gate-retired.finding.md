@@ -1,5 +1,6 @@
 ---
 id: f72d7865-e4f7-5199-bfa8-4c7eb21da960
+slug: filler-drain-psi-gate-retired
 page-type-slug: finding
 title: "Filler drain psi gate retired"
 domain-slug: domain/code-quality

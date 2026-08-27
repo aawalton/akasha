@@ -1,5 +1,6 @@
 ---
 id: e2f84482-2a04-5046-bddc-0190c04aa7d6
+slug: obligation-gate-suite-passes-alone
 page-type-slug: finding
 title: "Obligation gate suite passes alone"
 domain-slug: domain/global

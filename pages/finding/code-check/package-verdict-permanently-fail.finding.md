@@ -1,5 +1,6 @@
 ---
 id: 51568d4a-a0f8-5429-978d-6906349f07ee
+slug: package-verdict-permanently-fail
 page-type-slug: finding
 title: "Package verdict permanently fail"
 domain-slug: domain/global

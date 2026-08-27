@@ -1,5 +1,6 @@
 ---
 id: f3443ba5-35ba-5816-815d-76a0f2134343
+slug: pragma-markers-name-no-declaration-of-ours
 page-type-slug: finding
 title: "Pragma markers name no declaration of ours"
 domain-slug: domain/code-comment

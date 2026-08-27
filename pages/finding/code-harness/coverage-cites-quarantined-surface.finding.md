@@ -1,5 +1,6 @@
 ---
 id: 211c7b95-169f-587e-9ee6-7c54f7d7d060
+slug: coverage-cites-quarantined-surface
 page-type-slug: finding
 title: "Coverage cites quarantined surface"
 domain-slug: domain/global

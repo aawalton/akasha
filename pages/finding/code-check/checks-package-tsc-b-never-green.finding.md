@@ -1,5 +1,6 @@
 ---
 id: 2a356490-f85e-5373-8dd1-b1d65e2498e8
+slug: checks-package-tsc-b-never-green
 page-type-slug: finding
 title: "Checks package tsc b never green"
 domain-slug: domain/global

@@ -1,5 +1,6 @@
 ---
 id: 2fbd237d-487c-518a-b6db-c8fbf2c597a5
+slug: body-frontmatter-collision
 page-type-slug: finding
 title: "Body frontmatter collision"
 domain-slug: domain/code-quality

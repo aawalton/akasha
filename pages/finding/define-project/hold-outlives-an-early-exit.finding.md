@@ -1,5 +1,6 @@
 ---
 id: f6bb8a35-9445-500a-a2f3-9fb81b0eb4f5
+slug: hold-outlives-an-early-exit
 page-type-slug: finding
 title: "Hold outlives an early exit"
 domain-slug: domain/global

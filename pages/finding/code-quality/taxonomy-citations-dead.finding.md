@@ -1,5 +1,6 @@
 ---
 id: 2d0bfc6b-f926-58d9-8452-9e83c255e57e
+slug: taxonomy-citations-dead
 page-type-slug: finding
 title: "Taxonomy citations dead"
 domain-slug: domain/code-quality

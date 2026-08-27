@@ -1,5 +1,6 @@
 ---
 id: 43881586-0706-5a73-b35b-72d3ce0dd140
+slug: a-cleared-field-is-written-as-a-blank
 page-type-slug: finding
 title: "A cleared field is written as a blank"
 domain-slug: domain/code-quality

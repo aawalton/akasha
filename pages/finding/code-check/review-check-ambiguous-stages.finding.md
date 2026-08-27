@@ -1,5 +1,6 @@
 ---
 id: c7371b4d-0576-5fe7-ba8c-716e1033fb2c
+slug: review-check-ambiguous-stages
 page-type-slug: finding
 title: "Review check ambiguous stages"
 domain-slug: domain/global

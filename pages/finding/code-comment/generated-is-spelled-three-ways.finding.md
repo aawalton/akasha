@@ -1,5 +1,6 @@
 ---
 id: ed395197-e099-5721-92e1-9cbdc650cc56
+slug: generated-is-spelled-three-ways
 page-type-slug: finding
 title: "Generated is spelled three ways"
 domain-slug: domain/code-comment

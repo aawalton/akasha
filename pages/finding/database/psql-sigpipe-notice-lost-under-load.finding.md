@@ -1,5 +1,6 @@
 ---
 id: 63ad9e93-67ce-5046-805f-629b10289d47
+slug: psql-sigpipe-notice-lost-under-load
 page-type-slug: finding
 title: "Psql sigpipe notice lost under load"
 domain-slug: domain/database

@@ -1,5 +1,6 @@
 ---
 id: 75dc5b09-e1b9-5984-b530-7f9125c952dc
+slug: built-in-imports-from-the-code-repo
 page-type-slug: finding
 title: "Built in imports from the code repo"
 domain-slug: domain/code-editor

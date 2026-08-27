@@ -1,5 +1,6 @@
 ---
 id: 35f78514-dcfb-5edd-bda1-4a437c11141d
+slug: test-typecheck-regime-inconsistent
 page-type-slug: finding
 title: "Test typecheck regime inconsistent"
 domain-slug: domain/global

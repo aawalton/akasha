@@ -1,5 +1,6 @@
 ---
 id: 5b8e71fc-4493-542f-8442-3d2dc839a17d
+slug: daily-tier-quotes-a-divisor-the-row-lacks
 page-type-slug: finding
 title: "Daily tier quotes a divisor the row lacks"
 domain-slug: domain/code-quality

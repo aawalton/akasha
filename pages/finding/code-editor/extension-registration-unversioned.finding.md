@@ -1,5 +1,6 @@
 ---
 id: 722d4a8a-e02f-5d18-9ac3-8776af636835
+slug: extension-registration-unversioned
 page-type-slug: finding
 title: "Extension registration unversioned"
 domain-slug: domain/code-editor

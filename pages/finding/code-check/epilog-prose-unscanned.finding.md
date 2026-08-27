@@ -1,5 +1,6 @@
 ---
 id: 579d3692-c22c-5dd3-95be-41be1222acaf
+slug: epilog-prose-unscanned
 page-type-slug: finding
 title: "Epilog prose unscanned"
 domain-slug: domain/global

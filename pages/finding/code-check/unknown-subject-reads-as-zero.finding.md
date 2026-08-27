@@ -1,5 +1,6 @@
 ---
 id: 6510d84d-900e-52e4-9423-42793eb81c0e
+slug: unknown-subject-reads-as-zero
 page-type-slug: finding
 title: "Unknown subject reads as zero"
 domain-slug: domain/global

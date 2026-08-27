@@ -1,5 +1,6 @@
 ---
 id: 338fd2ca-1b31-5333-b13a-274dbfce57b2
+slug: timeout-sizing-rules-unrecorded
 page-type-slug: finding
 title: "Timeout sizing rules unrecorded"
 domain-slug: domain/global

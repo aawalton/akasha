@@ -1,5 +1,6 @@
 ---
 id: b2ea40f3-fe1c-5dce-8758-509d00dd3bc8
+slug: by-construction-unchecked-invariants
 page-type-slug: finding
 title: "By construction unchecked invariants"
 domain-slug: domain/global

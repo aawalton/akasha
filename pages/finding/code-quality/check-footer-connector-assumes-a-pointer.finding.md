@@ -1,5 +1,6 @@
 ---
 id: 46d7a986-da6c-5897-8774-76a804351128
+slug: check-footer-connector-assumes-a-pointer
 page-type-slug: finding
 title: "Check footer connector assumes a pointer"
 domain-slug: domain/code-quality

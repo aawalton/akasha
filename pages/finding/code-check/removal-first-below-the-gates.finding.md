@@ -1,5 +1,6 @@
 ---
 id: 763f8dc4-0aa8-5f6b-869d-a7caa60ceebf
+slug: removal-first-below-the-gates
 page-type-slug: finding
 title: "Removal first below the gates"
 domain-slug: domain/global

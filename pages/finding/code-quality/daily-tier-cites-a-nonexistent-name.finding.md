@@ -1,5 +1,6 @@
 ---
 id: 276aea73-2591-50ec-b64c-add584bb953a
+slug: daily-tier-cites-a-nonexistent-name
 page-type-slug: finding
 title: "Daily tier cites a nonexistent name"
 domain-slug: domain/code-quality

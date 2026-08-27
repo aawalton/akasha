@@ -1,5 +1,6 @@
 ---
 id: ec8bac0c-3deb-59af-8adf-7bc5e13e7468
+slug: agent-tests-typechecked-by-nothing
 page-type-slug: finding
 title: "Agent tests typechecked by nothing"
 domain-slug: domain/global

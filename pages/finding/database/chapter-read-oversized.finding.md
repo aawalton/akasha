@@ -1,5 +1,6 @@
 ---
 id: 82b5a8e8-5677-577d-92e8-05d9548d680c
+slug: chapter-read-oversized
 page-type-slug: finding
 title: "Chapter read oversized"
 domain-slug: domain/database

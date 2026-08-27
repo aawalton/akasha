@@ -1,5 +1,6 @@
 ---
 id: 747f5cc4-c6cb-5a36-8a24-9f64a37bc3a8
+slug: routing-runs-one-way
 page-type-slug: finding
 title: "Routing runs one way"
 domain-slug: task/define-initiative

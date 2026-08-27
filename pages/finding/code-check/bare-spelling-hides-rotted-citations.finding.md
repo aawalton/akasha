@@ -1,5 +1,6 @@
 ---
 id: 8b7b903b-58dd-567a-8dae-dfbfbe0de980
+slug: bare-spelling-hides-rotted-citations
 page-type-slug: finding
 title: "Bare spelling hides rotted citations"
 domain-slug: domain/global

@@ -1,5 +1,6 @@
 ---
 id: 3200bc06-6343-542a-869f-7c66c9ed1495
+slug: sandbox-load-bans-provided-globals
 page-type-slug: finding
 title: "Sandbox load bans provided globals"
 domain-slug: domain/global

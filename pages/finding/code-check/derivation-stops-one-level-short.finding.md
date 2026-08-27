@@ -1,5 +1,6 @@
 ---
 id: cd36212c-4009-5833-b1b0-e058a5022510
+slug: derivation-stops-one-level-short
 page-type-slug: finding
 title: "Derivation stops one level short"
 domain-slug: domain/global

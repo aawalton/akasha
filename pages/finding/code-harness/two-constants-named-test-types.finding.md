@@ -1,5 +1,6 @@
 ---
 id: 17358ce2-9290-5694-b65a-d8d700deaaf4
+slug: two-constants-named-test-types
 page-type-slug: finding
 title: "Two constants named test types"
 domain-slug: domain/global

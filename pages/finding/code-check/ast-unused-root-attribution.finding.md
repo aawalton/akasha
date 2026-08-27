@@ -1,5 +1,6 @@
 ---
 id: 687a6f9a-a145-5469-b385-d9b61359dfe8
+slug: ast-unused-root-attribution
 page-type-slug: finding
 title: "Ast unused root attribution"
 domain-slug: domain/global

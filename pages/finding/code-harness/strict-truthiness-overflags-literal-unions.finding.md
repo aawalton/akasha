@@ -1,5 +1,6 @@
 ---
 id: 9af30b37-2ce5-57fe-b210-97e951242abb
+slug: strict-truthiness-overflags-literal-unions
 page-type-slug: finding
 title: "Strict truthiness overflags literal unions"
 domain-slug: domain/global

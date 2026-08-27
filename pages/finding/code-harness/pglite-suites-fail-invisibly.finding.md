@@ -1,5 +1,6 @@
 ---
 id: e0c92cc1-3927-54e4-980d-6ff53ee9514c
+slug: pglite-suites-fail-invisibly
 page-type-slug: finding
 title: "Pglite suites fail invisibly"
 domain-slug: domain/global

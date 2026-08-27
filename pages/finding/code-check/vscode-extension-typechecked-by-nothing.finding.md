@@ -1,5 +1,6 @@
 ---
 id: 0065333e-8c2b-5b7f-8cd4-859d3a3317ec
+slug: vscode-extension-typechecked-by-nothing
 page-type-slug: finding
 title: "Vscode extension typechecked by nothing"
 domain-slug: domain/global

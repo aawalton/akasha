@@ -1,5 +1,6 @@
 ---
 id: 331b0b6f-5106-5147-a356-5bae024d485f
+slug: gin-paren-claim-overreaches
 page-type-slug: finding
 title: "Gin paren claim overreaches"
 domain-slug: domain/global

@@ -1,5 +1,6 @@
 ---
 id: 408f071e-0734-5712-a573-f3a08d08d256
+slug: json-records-lost-through-a-pipe
 page-type-slug: finding
 title: "JSON records lost through a pipe"
 domain-slug: domain/global

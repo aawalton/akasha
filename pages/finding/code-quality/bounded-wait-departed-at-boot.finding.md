@@ -1,5 +1,6 @@
 ---
 id: 2525fbb4-ed20-5d89-9dd3-5b92a11c3aa7
+slug: bounded-wait-departed-at-boot
 page-type-slug: finding
 title: "Bounded wait departed at boot"
 domain-slug: domain/code-quality

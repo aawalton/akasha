@@ -1,5 +1,6 @@
 ---
 id: f2838bc4-adc0-538b-b9a3-0c9212040e66
+slug: scene-and-conduct-name-one-thing
 page-type-slug: finding
 title: "Scene and conduct name one thing"
 domain-slug: task/create-persona-voice

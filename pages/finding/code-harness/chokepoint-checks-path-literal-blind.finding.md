@@ -1,5 +1,6 @@
 ---
 id: 89598f36-026b-59f0-bc3b-40f63e4e6aab
+slug: chokepoint-checks-path-literal-blind
 page-type-slug: finding
 title: "Chokepoint checks path literal blind"
 domain-slug: domain/global

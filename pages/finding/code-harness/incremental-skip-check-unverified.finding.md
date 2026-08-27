@@ -1,5 +1,6 @@
 ---
 id: 5db3ebaf-c85d-51f5-a9e3-034cb4799147
+slug: incremental-skip-check-unverified
 page-type-slug: finding
 title: "Incremental skip check unverified"
 domain-slug: domain/global

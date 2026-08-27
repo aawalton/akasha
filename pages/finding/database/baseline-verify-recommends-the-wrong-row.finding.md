@@ -1,5 +1,6 @@
 ---
 id: 53c15ac5-ea1a-5bae-8e9c-2f0fb114044a
+slug: baseline-verify-recommends-the-wrong-row
 page-type-slug: finding
 title: "Baseline verify recommends the wrong row"
 domain-slug: domain/database

@@ -1,5 +1,6 @@
 ---
 id: 092ea235-d04b-578e-9bb8-a72d46f46e87
+slug: five-copy-triage-doctrine-drift
 page-type-slug: finding
 title: "Five copy triage doctrine drift"
 domain-slug: domain/global

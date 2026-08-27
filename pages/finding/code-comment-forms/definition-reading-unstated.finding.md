@@ -1,5 +1,6 @@
 ---
 id: 29647dac-a2e1-591f-9ab7-a19e6187fb28
+slug: definition-reading-unstated
 page-type-slug: finding
 title: "Definition reading unstated"
 domain-slug: list/code-comment-forms

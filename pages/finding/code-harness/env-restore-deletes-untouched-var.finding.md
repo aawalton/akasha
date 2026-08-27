@@ -1,5 +1,6 @@
 ---
 id: 4feb11be-65df-525d-a76a-9a1cd102638e
+slug: env-restore-deletes-untouched-var
 page-type-slug: finding
 title: "Env restore deletes untouched var"
 domain-slug: domain/global

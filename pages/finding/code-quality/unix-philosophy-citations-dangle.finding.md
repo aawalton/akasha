@@ -1,5 +1,6 @@
 ---
 id: e0c503a1-4472-5329-bfcc-067c2453b413
+slug: unix-philosophy-citations-dangle
 page-type-slug: finding
 title: "Unix philosophy citations dangle"
 domain-slug: domain/code-quality

@@ -1,5 +1,6 @@
 ---
 id: c75f9506-0fc2-56bd-84b7-4c6d0a057374
+slug: frontmatter-renders-as-heading
 page-type-slug: finding
 title: "Frontmatter renders as heading"
 domain-slug: domain/code-editor

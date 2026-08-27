@@ -1,5 +1,6 @@
 ---
 id: f8ba8015-bcf3-549d-bdfd-4121bee21231
+slug: nightly-sweep-unrun
 page-type-slug: finding
 title: "Nightly sweep unrun"
 domain-slug: domain/global

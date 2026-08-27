@@ -1,5 +1,6 @@
 ---
 id: 674af9e6-14bd-5a70-8477-0e8e6038e9b7
+slug: k8s-synth-source-reach-fragmented
 page-type-slug: finding
 title: "K8s synth source reach fragmented"
 domain-slug: domain/global

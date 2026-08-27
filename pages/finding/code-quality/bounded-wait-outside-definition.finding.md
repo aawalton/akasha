@@ -1,5 +1,6 @@
 ---
 id: 5e14433d-dccb-5e9a-a974-c1155018148a
+slug: bounded-wait-outside-definition
 page-type-slug: finding
 title: "Bounded wait outside definition"
 domain-slug: domain/code-quality

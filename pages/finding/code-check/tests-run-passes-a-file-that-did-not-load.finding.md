@@ -1,5 +1,6 @@
 ---
 id: 716ca0ee-5889-5217-baee-63b2647d9560
+slug: tests-run-passes-a-file-that-did-not-load
 page-type-slug: finding
 title: "Tests run passes a file that did not load"
 domain-slug: domain/global

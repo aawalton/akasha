@@ -1,5 +1,6 @@
 ---
 id: 9990f285-e954-5aa4-8be3-71798ff58999
+slug: graph-checks-sleep-through-tsconfig
 page-type-slug: finding
 title: "Graph checks sleep through tsconfig"
 domain-slug: domain/global

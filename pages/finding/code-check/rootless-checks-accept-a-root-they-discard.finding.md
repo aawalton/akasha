@@ -1,5 +1,6 @@
 ---
 id: 39314eb4-a516-56ad-8d38-6d87a1ac38a7
+slug: rootless-checks-accept-a-root-they-discard
 page-type-slug: finding
 title: "Rootless checks accept a root they discard"
 domain-slug: domain/global

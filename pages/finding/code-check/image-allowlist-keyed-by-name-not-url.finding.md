@@ -1,5 +1,6 @@
 ---
 id: 02b6dfae-5d57-56b1-a491-3dc33684e841
+slug: image-allowlist-keyed-by-name-not-url
 page-type-slug: finding
 title: "Image allowlist keyed by name not URL"
 domain-slug: domain/global

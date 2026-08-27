@@ -1,5 +1,6 @@
 ---
 id: 876fb048-2f94-5256-8ad3-623645871b73
+slug: check-stdout-lost-on-exit
 page-type-slug: finding
 title: "Check stdout lost on exit"
 domain-slug: domain/global

@@ -1,5 +1,6 @@
 ---
 id: 34122458-4baf-5ff5-aa7f-3f8a0c129867
+slug: mock-factory-no-headroom
 page-type-slug: finding
 title: "Mock factory no headroom"
 domain-slug: domain/global

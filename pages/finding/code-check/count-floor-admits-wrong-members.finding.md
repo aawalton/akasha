@@ -1,5 +1,6 @@
 ---
 id: 4f4e4878-52ad-548d-acd1-c15cae0e1ac9
+slug: count-floor-admits-wrong-members
 page-type-slug: finding
 title: "Count floor admits wrong members"
 domain-slug: domain/global

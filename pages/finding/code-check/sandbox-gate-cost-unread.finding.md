@@ -1,5 +1,6 @@
 ---
 id: c2bf2b5a-554e-504f-8d37-4e085d9e439a
+slug: sandbox-gate-cost-unread
 page-type-slug: finding
 title: "Sandbox gate cost unread"
 domain-slug: domain/global

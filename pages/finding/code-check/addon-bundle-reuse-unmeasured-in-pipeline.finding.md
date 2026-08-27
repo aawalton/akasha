@@ -1,5 +1,6 @@
 ---
 id: 9e82becb-7cc5-539e-beee-04fb6afa5f78
+slug: addon-bundle-reuse-unmeasured-in-pipeline
 page-type-slug: finding
 title: "Addon bundle reuse unmeasured in pipeline"
 domain-slug: domain/global

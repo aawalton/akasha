@@ -1,5 +1,6 @@
 ---
 id: 08850dcd-cc33-5f67-b6a1-577586b1ffef
+slug: phantom-rls-claim
 page-type-slug: finding
 title: "Phantom rls claim"
 domain-slug: domain/database

@@ -1,5 +1,6 @@
 ---
 id: d6bef26d-e322-555c-93f4-b5ff75c9c43c
+slug: no-touch-header-states-equality-stamp
 page-type-slug: finding
 title: "No touch header states equality stamp"
 domain-slug: domain/database

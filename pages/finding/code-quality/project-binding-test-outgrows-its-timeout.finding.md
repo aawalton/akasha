@@ -1,5 +1,6 @@
 ---
 id: 6b436e70-5605-5fc8-bdc1-080f99c9fda6
+slug: project-binding-test-outgrows-its-timeout
 page-type-slug: finding
 title: "Project binding test outgrows its timeout"
 domain-slug: domain/code-quality

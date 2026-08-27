@@ -1,5 +1,6 @@
 ---
 id: e432588d-0de4-5b04-9b83-e2e4e1cfae72
+slug: step-cost-window-cannot-reach-a-checks-life
 page-type-slug: finding
 title: "Step cost window cannot reach a checks life"
 domain-slug: domain/global

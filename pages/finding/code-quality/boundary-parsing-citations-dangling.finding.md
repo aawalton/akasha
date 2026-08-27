@@ -1,5 +1,6 @@
 ---
 id: d7b6f2a6-54b4-5e1d-aaf1-beeb1b5a2380
+slug: boundary-parsing-citations-dangling
 page-type-slug: finding
 title: "Boundary parsing citations dangling"
 domain-slug: domain/code-quality

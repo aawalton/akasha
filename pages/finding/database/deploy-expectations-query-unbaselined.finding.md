@@ -1,5 +1,6 @@
 ---
 id: 83f7350f-e67a-58e0-8042-3488edd50023
+slug: deploy-expectations-query-unbaselined
 page-type-slug: finding
 title: "Deploy expectations query unbaselined"
 domain-slug: domain/database

@@ -1,5 +1,6 @@
 ---
 id: a906c5de-f38d-5a81-a91b-1ba5730d6860
+slug: parked-seat-has-no-cure-trigger
 page-type-slug: finding
 title: "Parked seat has no cure trigger"
 domain-slug: domain/global

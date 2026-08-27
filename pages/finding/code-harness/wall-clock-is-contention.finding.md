@@ -1,5 +1,6 @@
 ---
 id: f72fa8b2-6733-50d5-99de-8952ebc13d51
+slug: wall-clock-is-contention
 page-type-slug: finding
 title: "Wall clock is contention"
 domain-slug: domain/global

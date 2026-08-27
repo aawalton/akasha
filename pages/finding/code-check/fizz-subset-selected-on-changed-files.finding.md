@@ -1,5 +1,6 @@
 ---
 id: 3a0d8ad1-22ff-533c-a3d1-31900af4d120
+slug: fizz-subset-selected-on-changed-files
 page-type-slug: finding
 title: "Fizz subset selected on changed files"
 domain-slug: domain/global

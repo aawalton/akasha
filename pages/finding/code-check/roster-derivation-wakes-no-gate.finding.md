@@ -1,5 +1,6 @@
 ---
 id: 4647edd4-7bd8-5e13-944b-35eefca9b7c7
+slug: roster-derivation-wakes-no-gate
 page-type-slug: finding
 title: "Roster derivation wakes no gate"
 domain-slug: domain/global

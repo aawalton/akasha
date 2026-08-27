@@ -1,5 +1,6 @@
 ---
 id: 713637ed-5586-51f7-ba6a-544733daa1fd
+slug: one-family-two-spellings
 page-type-slug: finding
 title: "One family two spellings"
 domain-slug: domain/code-quality

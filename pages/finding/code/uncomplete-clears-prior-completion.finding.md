@@ -1,5 +1,6 @@
 ---
 id: 52119145-d270-54b3-bfad-ddc0079c63c0
+slug: uncomplete-clears-prior-completion
 page-type-slug: finding
 title: "Uncomplete clears prior completion"
 domain-slug: domain/global

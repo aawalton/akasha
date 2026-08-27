@@ -1,5 +1,6 @@
 ---
 id: d0bf79d0-761b-591f-a1df-246fe852bcaa
+slug: definition-restates-parent
 page-type-slug: finding
 title: "Definition restates parent"
 domain-slug: domain/global

@@ -1,5 +1,6 @@
 ---
 id: 3e4ef04b-75f1-5bf3-b6b0-0a64e0f46287
+slug: proc-byte-equality-skip-set-is-a-quarter
 page-type-slug: finding
 title: "Proc byte equality skip set is a quarter"
 domain-slug: domain/database

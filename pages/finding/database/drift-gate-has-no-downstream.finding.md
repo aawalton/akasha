@@ -1,5 +1,6 @@
 ---
 id: 3df13d92-36bf-5733-90c7-a07778e3a384
+slug: drift-gate-has-no-downstream
 page-type-slug: finding
 title: "Drift gate has no downstream"
 domain-slug: domain/database

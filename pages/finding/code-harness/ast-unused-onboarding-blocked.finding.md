@@ -1,5 +1,6 @@
 ---
 id: a92b54f1-bc16-567f-9a4a-c6791772c106
+slug: ast-unused-onboarding-blocked
 page-type-slug: finding
 title: "Ast unused onboarding blocked"
 domain-slug: domain/global

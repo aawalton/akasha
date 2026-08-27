@@ -1,5 +1,6 @@
 ---
 id: 75f42f09-c1c4-59d9-a5b6-42769443b626
+slug: park-gate-mechanism-unverified
 page-type-slug: finding
 title: "Park gate mechanism unverified"
 domain-slug: domain/global

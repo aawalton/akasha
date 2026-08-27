@@ -1,5 +1,6 @@
 ---
 id: 66a755a6-d779-54ac-9eae-21c90eaa75a5
+slug: tmp-worktree-leak-exhausts-inodes
 page-type-slug: finding
 title: "Tmp worktree leak exhausts inodes"
 domain-slug: domain/global

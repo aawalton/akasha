@@ -1,5 +1,6 @@
 ---
 id: 7e1d5f02-223d-5d41-a208-5226fe5049c9
+slug: dead-code-verdict-declares-no-population
 page-type-slug: finding
 title: "Dead code verdict declares no population"
 domain-slug: domain/code-quality

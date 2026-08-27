@@ -1,5 +1,6 @@
 ---
 id: 14ad769f-e5c3-5435-9793-ba3dd9649d81
+slug: deploy-remedy-bypasses-its-own-read-gate
 page-type-slug: finding
 title: "Deploy remedy bypasses its own read gate"
 domain-slug: domain/global

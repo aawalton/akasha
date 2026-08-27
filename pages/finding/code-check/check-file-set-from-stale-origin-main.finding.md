@@ -1,5 +1,6 @@
 ---
 id: 3c586390-9cf9-5325-b91b-409f8a1a0814
+slug: check-file-set-from-stale-origin-main
 page-type-slug: finding
 title: "Check file set from stale origin main"
 domain-slug: domain/global

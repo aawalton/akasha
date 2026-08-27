@@ -1,5 +1,6 @@
 ---
 id: 484d383e-df63-57ec-9087-6e3acac621b6
+slug: retired-names-standing-in-test-prose
 page-type-slug: finding
 title: "Retired names standing in test prose"
 domain-slug: domain/global

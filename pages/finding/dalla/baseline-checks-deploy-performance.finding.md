@@ -1,5 +1,6 @@
 ---
 id: fa21ea6d-4b34-5655-87e3-2ded56f01616
+slug: baseline-checks-deploy-performance
 page-type-slug: finding
 title: "baseline checks/deploy performance"
 domain-slug: persona/dalla

@@ -1,5 +1,6 @@
 ---
 id: 4ef80ba0-c3a3-5b2c-a480-2e3ac0c15ee0
+slug: psql-pipe-truncates-silently
 page-type-slug: finding
 title: "Psql pipe truncates silently"
 domain-slug: domain/database

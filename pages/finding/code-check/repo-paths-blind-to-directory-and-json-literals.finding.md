@@ -1,5 +1,6 @@
 ---
 id: 6e8a736b-f488-589e-89be-0becb0724234
+slug: repo-paths-blind-to-directory-and-json-literals
 page-type-slug: finding
 title: "Repo paths blind to directory and JSON literals"
 domain-slug: domain/global

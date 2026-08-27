@@ -1,5 +1,6 @@
 ---
 id: 2e040edb-a4e2-559e-b342-550fb00e8eea
+slug: scripts-typechecked-by-nothing
 page-type-slug: finding
 title: "Scripts typechecked by nothing"
 domain-slug: domain/global

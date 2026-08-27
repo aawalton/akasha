@@ -1,5 +1,6 @@
 ---
 id: d7da23c8-eaa8-5700-b33c-fd05af235376
+slug: define-theme-and-initiative-share-text
 page-type-slug: finding
 title: "Define theme and initiative share text"
 domain-slug: domain/global

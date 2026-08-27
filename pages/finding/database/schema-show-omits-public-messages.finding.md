@@ -1,5 +1,6 @@
 ---
 id: 07972701-1d67-57c5-bb97-e39ec66705d5
+slug: schema-show-omits-public-messages
 page-type-slug: finding
 title: "Schema show omits public messages"
 domain-slug: domain/database

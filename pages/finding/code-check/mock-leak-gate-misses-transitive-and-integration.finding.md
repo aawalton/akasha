@@ -1,5 +1,6 @@
 ---
 id: 29bede07-98c7-5516-8b9f-5838d1457de5
+slug: mock-leak-gate-misses-transitive-and-integration
 page-type-slug: finding
 title: "Mock leak gate misses transitive and integration"
 domain-slug: domain/global

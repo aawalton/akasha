@@ -1,5 +1,6 @@
 ---
 id: d020a57e-cd16-5fdd-98b9-d597079a2c02
+slug: splitting-a-file-moves-code-across-boundaries-checks-key-on
 page-type-slug: finding
 title: "Splitting a file moves code across boundaries checks key on"
 domain-slug: domain/code-quality

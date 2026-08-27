@@ -1,5 +1,6 @@
 ---
 id: 1c6c00cf-1875-54af-9bd3-4a05162d9807
+slug: self-test-controls-unwatched
 page-type-slug: finding
 title: "Self test controls unwatched"
 domain-slug: domain/global

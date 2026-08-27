@@ -1,5 +1,6 @@
 ---
 id: 196e0d02-b036-542f-9e87-f2e32caf3132
+slug: shared-index-deadlocks-after-failed-commit
 page-type-slug: finding
 title: "Shared index deadlocks after failed commit"
 domain-slug: domain/global

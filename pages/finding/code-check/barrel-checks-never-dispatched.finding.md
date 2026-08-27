@@ -1,5 +1,6 @@
 ---
 id: 50385346-5921-5b07-9410-546de2f604f8
+slug: barrel-checks-never-dispatched
 page-type-slug: finding
 title: "Barrel checks never dispatched"
 domain-slug: domain/global

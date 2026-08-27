@@ -1,5 +1,6 @@
 ---
 id: d1f1ef0c-51bd-52d3-b832-96c2f778a2be
+slug: slow-suite-sweep-two-breaks
 page-type-slug: finding
 title: "Slow suite sweep two breaks"
 domain-slug: domain/global

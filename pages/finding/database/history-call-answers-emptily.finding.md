@@ -1,5 +1,6 @@
 ---
 id: 2ec89d11-4d98-5b06-bcae-406b2f6ea57b
+slug: history-call-answers-emptily
 page-type-slug: finding
 title: "History call answers emptily"
 domain-slug: domain/database

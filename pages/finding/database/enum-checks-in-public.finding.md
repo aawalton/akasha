@@ -1,5 +1,6 @@
 ---
 id: b7c325bf-3c4e-5a05-927d-f2f1aa0f5fda
+slug: enum-checks-in-public
 page-type-slug: finding
 title: "Enum checks in public"
 domain-slug: domain/database

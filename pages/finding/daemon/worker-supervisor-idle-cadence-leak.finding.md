@@ -1,5 +1,6 @@
 ---
 id: 3200ba0e-3ef8-5b08-a6bf-0b4d29835eb3
+slug: worker-supervisor-idle-cadence-leak
 page-type-slug: finding
 title: "Worker supervisor idle cadence leak"
 domain-slug: domain/daemon

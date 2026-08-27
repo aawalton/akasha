@@ -1,5 +1,6 @@
 ---
 id: 537ca948-2b47-554c-9847-5db1b9680fa8
+slug: gate-pass-subject-unnamed
 page-type-slug: finding
 title: "Gate pass subject unnamed"
 domain-slug: domain/global

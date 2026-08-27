@@ -1,5 +1,6 @@
 ---
 id: e714d46f-3840-5318-b14f-1df7ef8a5e4b
+slug: entry-globs-blind-across-most-workspaces
 page-type-slug: finding
 title: "Entry globs blind across most workspaces"
 domain-slug: domain/global

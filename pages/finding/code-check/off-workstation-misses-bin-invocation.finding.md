@@ -1,5 +1,6 @@
 ---
 id: 5e521768-80a7-55bd-888a-496ea893e837
+slug: off-workstation-misses-bin-invocation
 page-type-slug: finding
 title: "Off workstation misses bin invocation"
 domain-slug: domain/global

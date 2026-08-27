@@ -1,5 +1,6 @@
 ---
 id: 071fbbab-2cd3-53ce-b020-d67b275ba5aa
+slug: comment-rule-unbounded
 page-type-slug: finding
 title: "Comment rule unbounded"
 domain-slug: domain/code-quality

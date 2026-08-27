@@ -1,5 +1,6 @@
 ---
 id: 55787363-552d-5ce3-85bb-b5dd56119a90
+slug: fts-proc-unconsumed-and-lexeme-blind
 page-type-slug: finding
 title: "Fts proc unconsumed and lexeme blind"
 domain-slug: domain/database

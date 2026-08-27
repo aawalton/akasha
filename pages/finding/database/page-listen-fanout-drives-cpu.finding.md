@@ -1,5 +1,6 @@
 ---
 id: 808ce157-d218-59e8-a2c3-47bbe2dc64e2
+slug: page-listen-fanout-drives-cpu
 page-type-slug: finding
 title: "Page listen fanout drives CPU"
 domain-slug: domain/database

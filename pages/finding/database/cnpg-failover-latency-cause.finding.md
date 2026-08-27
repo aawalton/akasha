@@ -1,5 +1,6 @@
 ---
 id: c37e31d0-e808-5903-ae61-f5ec7a33ce5e
+slug: cnpg-failover-latency-cause
 page-type-slug: finding
 title: "Cnpg failover latency cause"
 domain-slug: domain/database

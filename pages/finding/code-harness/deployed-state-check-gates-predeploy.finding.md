@@ -1,5 +1,6 @@
 ---
 id: 5b274d82-d428-569a-83fb-31db7b733fb6
+slug: deployed-state-check-gates-predeploy
 page-type-slug: finding
 title: "Deployed state check gates predeploy"
 domain-slug: domain/global

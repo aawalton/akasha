@@ -1,5 +1,6 @@
 ---
 id: 5cabac94-4f81-5e1b-811c-e0fd4f493470
+slug: ast-grep-root-sgconfig-false-violation
 page-type-slug: finding
 title: "Ast grep root sgconfig false violation"
 domain-slug: domain/global

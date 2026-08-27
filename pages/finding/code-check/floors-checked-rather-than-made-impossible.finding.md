@@ -1,5 +1,6 @@
 ---
 id: f0038526-00b1-54c4-b563-6291ed345127
+slug: floors-checked-rather-than-made-impossible
 page-type-slug: finding
 title: "Floors checked rather than made impossible"
 domain-slug: domain/global

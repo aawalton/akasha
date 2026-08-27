@@ -1,5 +1,6 @@
 ---
 id: 6791d576-199a-5efe-a68a-b2b10d7fa8cb
+slug: snapshot-claim-may-be-lost
 page-type-slug: finding
 title: "Snapshot claim may be lost"
 domain-slug: domain/global

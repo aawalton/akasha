@@ -1,5 +1,6 @@
 ---
 id: 50ce6ff5-c1bf-53f6-bc25-11d6fffb4245
+slug: verdict-depends-on-install-state
 page-type-slug: finding
 title: "Verdict depends on install state"
 domain-slug: domain/global

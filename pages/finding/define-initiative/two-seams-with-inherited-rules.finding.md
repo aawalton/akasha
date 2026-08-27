@@ -1,5 +1,6 @@
 ---
 id: e046b601-9965-50cf-b330-75de5651d775
+slug: two-seams-with-inherited-rules
 page-type-slug: finding
 title: "Two seams with inherited rules"
 domain-slug: task/define-initiative

@@ -1,5 +1,6 @@
 ---
 id: e785a544-b94e-5a41-a1a4-644f95c573c2
+slug: tsc-named-where-tsgo-runs
 page-type-slug: finding
 title: "Tsc named where tsgo runs"
 domain-slug: domain/global

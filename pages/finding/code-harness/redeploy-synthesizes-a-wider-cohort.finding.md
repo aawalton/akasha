@@ -1,5 +1,6 @@
 ---
 id: 1cfa3d48-27ed-54f3-af15-1bff99a6c49b
+slug: redeploy-synthesizes-a-wider-cohort
 page-type-slug: finding
 title: "Redeploy synthesizes a wider cohort"
 domain-slug: domain/global

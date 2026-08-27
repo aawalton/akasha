@@ -1,5 +1,6 @@
 ---
 id: da9565ea-d513-5a16-afdb-68b7eed88543
+slug: gate-wedges-on-opening-a-file
 page-type-slug: finding
 title: "Gate wedges on opening a file"
 domain-slug: domain/code-editor

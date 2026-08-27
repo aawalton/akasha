@@ -1,5 +1,6 @@
 ---
 id: daef7c8f-4e0a-57e2-920a-f65ca620a41f
+slug: workstation-daemons-emit-no-loop-duration
 page-type-slug: finding
 title: "Workstation daemons emit no loop duration"
 domain-slug: domain/daemon

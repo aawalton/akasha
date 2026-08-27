@@ -1,5 +1,6 @@
 ---
 id: 4c78e124-7e45-5191-9b31-a8a8274dd83c
+slug: teaching-carriers-omit-source
 page-type-slug: finding
 title: "Teaching carriers omit source"
 domain-slug: domain/global

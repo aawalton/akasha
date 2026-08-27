@@ -1,5 +1,6 @@
 ---
 id: b611f80a-6ecc-5316-8e58-ce593ad6968a
+slug: bun-test-pglite-exit-99
 page-type-slug: finding
 title: "Bun test pglite exit 99"
 domain-slug: domain/global

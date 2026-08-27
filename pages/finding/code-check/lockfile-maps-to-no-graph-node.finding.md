@@ -1,5 +1,6 @@
 ---
 id: b6fa103c-a105-57cb-89bf-12081e1e78c9
+slug: lockfile-maps-to-no-graph-node
 page-type-slug: finding
 title: "Lockfile maps to no graph node"
 domain-slug: domain/global

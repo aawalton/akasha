@@ -1,5 +1,6 @@
 ---
 id: 4ec57a00-b3e9-586f-9783-ce49cd9756c7
+slug: comment-rule-unheld
 page-type-slug: finding
 title: "Comment rule unheld"
 domain-slug: domain/code-quality

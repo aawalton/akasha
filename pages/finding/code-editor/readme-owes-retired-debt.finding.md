@@ -1,5 +1,6 @@
 ---
 id: 6d4396d3-c132-52ed-922f-bb25d3afd012
+slug: readme-owes-retired-debt
 page-type-slug: finding
 title: "Readme owes retired debt"
 domain-slug: domain/code-editor

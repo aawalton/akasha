@@ -1,5 +1,6 @@
 ---
 id: c3b4ab56-2074-52d5-921f-0c9eae6c4204
+slug: contacts-ssh-wait-unbounded
 page-type-slug: finding
 title: "Contacts SSH wait unbounded"
 domain-slug: domain/code-quality

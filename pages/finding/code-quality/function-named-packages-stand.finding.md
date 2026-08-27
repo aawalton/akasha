@@ -1,5 +1,6 @@
 ---
 id: caa0b13a-b711-5c2c-805c-1a2ac8dc6066
+slug: function-named-packages-stand
 page-type-slug: finding
 title: "Function named packages stand"
 domain-slug: domain/code-quality

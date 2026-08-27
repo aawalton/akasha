@@ -1,5 +1,6 @@
 ---
 id: 2d069f3b-32e9-5a7a-8a3d-041299a81689
+slug: retry-keeps-pre-change-verdicts
 page-type-slug: finding
 title: "Retry keeps pre change verdicts"
 domain-slug: domain/global

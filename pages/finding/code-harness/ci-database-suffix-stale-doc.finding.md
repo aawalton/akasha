@@ -1,5 +1,6 @@
 ---
 id: b1b68b18-9093-5d4b-9b5b-f94930948753
+slug: ci-database-suffix-stale-doc
 page-type-slug: finding
 title: "CI database suffix stale doc"
 domain-slug: domain/global

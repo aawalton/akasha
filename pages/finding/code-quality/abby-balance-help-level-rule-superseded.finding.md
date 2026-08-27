@@ -1,5 +1,6 @@
 ---
 id: 39421526-99d6-5e97-90e2-389fa6ad6fc2
+slug: abby-balance-help-level-rule-superseded
 page-type-slug: finding
 title: "Abby balance help level rule superseded"
 domain-slug: domain/code-quality

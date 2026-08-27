@@ -1,5 +1,6 @@
 ---
 id: 20043986-20c7-5031-932d-62dd3e6337c5
+slug: shutdown-backstop-underfires
 page-type-slug: finding
 title: "Shutdown backstop underfires"
 domain-slug: domain/daemon

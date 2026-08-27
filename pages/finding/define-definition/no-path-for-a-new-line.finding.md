@@ -1,5 +1,6 @@
 ---
 id: e64dd28f-07ea-5cf8-bbc7-6beb5035ffc3
+slug: no-path-for-a-new-line
 page-type-slug: finding
 title: "No path for a new line"
 domain-slug: task/define-definition

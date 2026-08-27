@@ -1,5 +1,6 @@
 ---
 id: e086b81f-fb8b-5fe1-ae0c-d0ed4e349021
+slug: consumed-project-loses-its-items
 page-type-slug: finding
 title: "Consumed project loses its items"
 domain-slug: domain/global

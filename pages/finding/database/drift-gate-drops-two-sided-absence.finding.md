@@ -1,5 +1,6 @@
 ---
 id: 287bfd2a-ae68-5abd-bd1f-5217dc73e2e6
+slug: drift-gate-drops-two-sided-absence
 page-type-slug: finding
 title: "Drift gate drops two sided absence"
 domain-slug: domain/database

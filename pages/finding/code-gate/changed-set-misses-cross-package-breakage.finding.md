@@ -1,5 +1,6 @@
 ---
 id: fb651a03-6323-5de1-8c83-119facd1d593
+slug: changed-set-misses-cross-package-breakage
 page-type-slug: finding
 title: "Changed set misses cross package breakage"
 domain-slug: domain/global

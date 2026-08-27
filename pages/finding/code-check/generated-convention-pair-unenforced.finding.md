@@ -1,5 +1,6 @@
 ---
 id: ec19885d-52f5-540d-a358-9c509cdd81da
+slug: generated-convention-pair-unenforced
 page-type-slug: finding
 title: "Generated convention pair unenforced"
 domain-slug: domain/global

@@ -1,5 +1,6 @@
 ---
 id: 8dd2a8cf-418b-53ba-966e-fc9e66523ec8
+slug: recovery-rate-check-never-seen-green
 page-type-slug: finding
 title: "Recovery rate check never seen green"
 domain-slug: domain/global

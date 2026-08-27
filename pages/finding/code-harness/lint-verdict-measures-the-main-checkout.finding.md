@@ -1,5 +1,6 @@
 ---
 id: 7082ccc3-a252-595d-af20-65b2e30094ca
+slug: lint-verdict-measures-the-main-checkout
 page-type-slug: finding
 title: "Lint verdict measures the main checkout"
 domain-slug: domain/global

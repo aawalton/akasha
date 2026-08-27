@@ -1,5 +1,6 @@
 ---
 id: 4253e482-990d-5fd0-ab9f-d2cf9d1eee58
+slug: denver-day-end-unused
 page-type-slug: finding
 title: "Denver day end unused"
 domain-slug: domain/code-quality

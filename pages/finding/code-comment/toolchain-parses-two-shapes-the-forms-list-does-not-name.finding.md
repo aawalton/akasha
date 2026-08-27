@@ -1,5 +1,6 @@
 ---
 id: 59f28276-2fc6-5046-bd15-688dcdebf43a
+slug: toolchain-parses-two-shapes-the-forms-list-does-not-name
 page-type-slug: finding
 title: "Toolchain parses two shapes the forms list does not name"
 domain-slug: domain/code-comment

@@ -1,5 +1,6 @@
 ---
 id: 0f3bc9f4-da3e-5cbe-a009-c2875cab7496
+slug: citation-checks-never-open-a-docblock
 page-type-slug: finding
 title: "Citation checks never open a docblock"
 domain-slug: domain/global

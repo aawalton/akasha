@@ -1,5 +1,6 @@
 ---
 id: e5695991-f82c-5f8d-8d96-5806d4274234
+slug: voice-names-two-unrelated-crafts
 page-type-slug: finding
 title: "Voice names two unrelated crafts"
 domain-slug: task/create-persona-voice

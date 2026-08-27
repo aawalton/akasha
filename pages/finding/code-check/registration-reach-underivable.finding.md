@@ -1,5 +1,6 @@
 ---
 id: ea19df76-2a06-519b-bb72-98f2100abc5a
+slug: registration-reach-underivable
 page-type-slug: finding
 title: "Registration reach underivable"
 domain-slug: domain/global

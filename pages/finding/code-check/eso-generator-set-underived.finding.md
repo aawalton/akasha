@@ -1,5 +1,6 @@
 ---
 id: 9d4ba399-9065-5d9b-b6f3-097d4ab74191
+slug: eso-generator-set-underived
 page-type-slug: finding
 title: "Eso generator set underived"
 domain-slug: domain/global

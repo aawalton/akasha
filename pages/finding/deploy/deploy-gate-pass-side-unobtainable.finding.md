@@ -1,5 +1,6 @@
 ---
 id: 496b8bb6-aff2-5f83-8b58-4a04c5a6c932
+slug: deploy-gate-pass-side-unobtainable
 page-type-slug: finding
 title: "Deploy gate pass side unobtainable"
 domain-slug: domain/deploy

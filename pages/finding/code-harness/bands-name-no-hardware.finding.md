@@ -1,5 +1,6 @@
 ---
 id: a955145d-bafe-57a7-b043-31839a4c8d63
+slug: bands-name-no-hardware
 page-type-slug: finding
 title: "Bands name no hardware"
 domain-slug: domain/global

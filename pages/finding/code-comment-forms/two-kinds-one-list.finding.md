@@ -1,5 +1,6 @@
 ---
 id: f7d44bd5-b442-5c4d-a341-48b03ba3a61c
+slug: two-kinds-one-list
 page-type-slug: finding
 title: "Two kinds one list"
 domain-slug: list/code-comment-forms

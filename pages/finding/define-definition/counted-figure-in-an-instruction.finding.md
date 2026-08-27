@@ -1,5 +1,6 @@
 ---
 id: 369221ed-4029-5cfe-b458-6c3d6501db0b
+slug: counted-figure-in-an-instruction
 page-type-slug: finding
 title: "Counted figure in an instruction"
 domain-slug: task/define-definition

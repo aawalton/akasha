@@ -1,5 +1,6 @@
 ---
 id: 8e5a063b-d245-58e2-87c8-4e2cacb95b3c
+slug: module-mock-leaks-into-sibling-suites
 page-type-slug: finding
 title: "Module mock leaks into sibling suites"
 domain-slug: domain/global

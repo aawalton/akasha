@@ -1,5 +1,6 @@
 ---
 id: 7b23f97e-e48f-5f71-8130-e153b1cc630c
+slug: two-steps-still-claim-lockfile-coverage
 page-type-slug: finding
 title: "Two steps still claim lockfile coverage"
 domain-slug: domain/global

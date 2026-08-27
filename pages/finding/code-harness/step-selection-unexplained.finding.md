@@ -1,5 +1,6 @@
 ---
 id: dd21f9f2-7907-5e9e-ac92-b9085dfd7a51
+slug: step-selection-unexplained
 page-type-slug: finding
 title: "Step selection unexplained"
 domain-slug: domain/global

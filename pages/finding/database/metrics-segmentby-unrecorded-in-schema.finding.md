@@ -1,5 +1,6 @@
 ---
 id: 314f5e4a-42d8-539e-ac62-325932de675d
+slug: metrics-segmentby-unrecorded-in-schema
 page-type-slug: finding
 title: "Metrics segmentby unrecorded in schema"
 domain-slug: domain/database

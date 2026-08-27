@@ -1,5 +1,6 @@
 ---
 id: 126e01b4-5399-5d1a-89e8-8f8cea030c6a
+slug: reaches-always-read-from-main
 page-type-slug: finding
 title: "Reaches always read from main"
 domain-slug: domain/global

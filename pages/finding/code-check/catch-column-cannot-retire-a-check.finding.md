@@ -1,5 +1,6 @@
 ---
 id: d220c2b2-1322-5e09-986a-7ead6b297a46
+slug: catch-column-cannot-retire-a-check
 page-type-slug: finding
 title: "Catch column cannot retire a check"
 domain-slug: domain/global

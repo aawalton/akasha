@@ -1,5 +1,6 @@
 ---
 id: de9fbb4a-f96f-58c4-bac6-7d6b36fd2389
+slug: subprocess-killed-not-timeout
 page-type-slug: finding
 title: "Subprocess killed not timeout"
 domain-slug: domain/code-quality

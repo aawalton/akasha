@@ -1,5 +1,6 @@
 ---
 id: b007e480-5c43-5fcc-91cf-a456410c58b7
+slug: every-docs-citation-in-the-code-repo-dangles
 page-type-slug: finding
 title: "Every docs citation in the code repo dangles"
 domain-slug: domain/code-quality

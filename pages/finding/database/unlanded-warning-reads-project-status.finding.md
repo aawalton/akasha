@@ -1,5 +1,6 @@
 ---
 id: c26430b0-af2f-5610-9b59-f2050889699d
+slug: unlanded-warning-reads-project-status
 page-type-slug: finding
 title: "Unlanded warning reads project status"
 domain-slug: domain/database

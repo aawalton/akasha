@@ -1,5 +1,6 @@
 ---
 id: 6b6dd188-6859-5ec7-ae93-9bd015a50b80
+slug: test-fixture-leaks-home
 page-type-slug: finding
 title: "Test fixture leaks home"
 domain-slug: domain/code-quality

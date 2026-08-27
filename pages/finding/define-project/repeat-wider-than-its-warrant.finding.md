@@ -1,5 +1,6 @@
 ---
 id: c75fbf32-fc52-58a8-9562-7d524b2b642c
+slug: repeat-wider-than-its-warrant
 page-type-slug: finding
 title: "Repeat wider than its warrant"
 domain-slug: domain/global

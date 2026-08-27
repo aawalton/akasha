@@ -1,5 +1,6 @@
 ---
 id: c8d527a1-2552-5708-b44c-f6ee0b41ed90
+slug: parsed-marks-finding-outlived-its-entry
 page-type-slug: finding
 title: "Parsed marks finding outlived its entry"
 domain-slug: domain/code-comment

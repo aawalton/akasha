@@ -1,5 +1,6 @@
 ---
 id: c3b70f81-91a5-51f3-9caa-87cf0f92acbc
+slug: bun-response-writer-ignores-client-backpressure
 page-type-slug: finding
 title: "Bun response writer ignores client backpressure"
 domain-slug: domain/code-quality

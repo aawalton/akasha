@@ -1,5 +1,6 @@
 ---
 id: 4f0547fd-0822-509c-8f5f-5657b527d781
+slug: attribute-shape-gates-skip-plpgsql
 page-type-slug: finding
 title: "Attribute shape gates skip plpgsql"
 domain-slug: domain/global

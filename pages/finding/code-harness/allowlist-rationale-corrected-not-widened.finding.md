@@ -1,5 +1,6 @@
 ---
 id: dcbce323-0ad1-59da-a8b2-25dcfded0041
+slug: allowlist-rationale-corrected-not-widened
 page-type-slug: finding
 title: "Allowlist rationale corrected not widened"
 domain-slug: domain/global

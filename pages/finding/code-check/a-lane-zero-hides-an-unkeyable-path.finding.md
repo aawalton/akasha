@@ -1,5 +1,6 @@
 ---
 id: 06b10430-7ea9-564c-b06e-ce9dc252dc99
+slug: a-lane-zero-hides-an-unkeyable-path
 page-type-slug: finding
 title: "A lane zero hides an unkeyable path"
 domain-slug: domain/global

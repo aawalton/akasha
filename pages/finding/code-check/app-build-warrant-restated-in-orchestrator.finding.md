@@ -1,5 +1,6 @@
 ---
 id: 99f61774-6b05-5bcb-ad13-7439885c44e7
+slug: app-build-warrant-restated-in-orchestrator
 page-type-slug: finding
 title: "App build warrant restated in orchestrator"
 domain-slug: domain/global

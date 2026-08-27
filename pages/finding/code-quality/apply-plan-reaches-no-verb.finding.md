@@ -1,5 +1,6 @@
 ---
 id: f38a85a6-58e7-5aaa-aa76-6c78d8fbbd99
+slug: apply-plan-reaches-no-verb
 page-type-slug: finding
 title: "Apply plan reaches no verb"
 domain-slug: domain/code-quality

@@ -1,5 +1,6 @@
 ---
 id: 436f5edf-1d38-5d68-8332-36c181f987bb
+slug: dead-rationale-citations
 page-type-slug: finding
 title: "Dead rationale citations"
 domain-slug: domain/global

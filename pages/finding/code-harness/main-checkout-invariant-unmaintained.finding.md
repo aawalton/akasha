@@ -1,5 +1,6 @@
 ---
 id: 449ea363-fc89-5bbd-a89e-6d29d40ef0d3
+slug: main-checkout-invariant-unmaintained
 page-type-slug: finding
 title: "Main checkout invariant unmaintained"
 domain-slug: domain/global

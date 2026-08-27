@@ -1,5 +1,6 @@
 ---
 id: 056c4089-c5d5-50ae-9d91-113db29c0900
+slug: rebase-continue-eats-hash-subject
 page-type-slug: finding
 title: "Rebase continue eats hash subject"
 domain-slug: domain/global

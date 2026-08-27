@@ -1,5 +1,6 @@
 ---
 id: 2381e8a2-cbe5-521f-8c68-7e48816a76fe
+slug: render-gate-needs-a-story-chapter-row-and-none-exists
 page-type-slug: finding
 title: "Render gate needs a story-chapter row and none exists"
 domain-slug: domain/global

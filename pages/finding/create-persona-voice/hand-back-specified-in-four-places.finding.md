@@ -1,5 +1,6 @@
 ---
 id: cc16eadc-2e97-5c5a-949f-6f635c3360d4
+slug: hand-back-specified-in-four-places
 page-type-slug: finding
 title: "Hand back specified in four places"
 domain-slug: task/create-persona-voice

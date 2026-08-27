@@ -1,5 +1,6 @@
 ---
 id: c609b8e9-326e-5f6a-904c-4d859ddb11b1
+slug: tail-seed-docstring-stale
 page-type-slug: finding
 title: "Tail seed docstring stale"
 domain-slug: domain/code-quality

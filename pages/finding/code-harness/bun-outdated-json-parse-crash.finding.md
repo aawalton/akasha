@@ -1,5 +1,6 @@
 ---
 id: 574e02ca-78b6-5e33-bd2b-6ffe78fe4550
+slug: bun-outdated-json-parse-crash
 page-type-slug: finding
 title: "Bun outdated JSON parse crash"
 domain-slug: domain/global

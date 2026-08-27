@@ -1,5 +1,6 @@
 ---
 id: ac6513a4-8371-5fda-970e-28926a85d2db
+slug: divergence-list-cannot-see-a-positive
 page-type-slug: finding
 title: "Divergence list cannot see a positive"
 domain-slug: domain/global

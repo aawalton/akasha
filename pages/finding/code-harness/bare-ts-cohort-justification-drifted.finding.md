@@ -1,5 +1,6 @@
 ---
 id: 4ca94c88-2ff1-5f7f-9ef3-c66ef52c073e
+slug: bare-ts-cohort-justification-drifted
 page-type-slug: finding
 title: "Bare ts cohort justification drifted"
 domain-slug: domain/global

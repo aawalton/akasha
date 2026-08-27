@@ -1,5 +1,6 @@
 ---
 id: f1054880-1172-54e6-a55f-e7c6c7e16393
+slug: typecheck-baseoptions-unstrict
 page-type-slug: finding
 title: "Typecheck baseoptions unstrict"
 domain-slug: domain/global

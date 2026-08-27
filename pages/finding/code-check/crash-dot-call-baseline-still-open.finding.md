@@ -1,5 +1,6 @@
 ---
 id: 2343e979-da4f-59e2-b374-61650845a860
+slug: crash-dot-call-baseline-still-open
 page-type-slug: finding
 title: "Crash dot call baseline still open"
 domain-slug: domain/global

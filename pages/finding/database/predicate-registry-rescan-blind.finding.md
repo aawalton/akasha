@@ -1,5 +1,6 @@
 ---
 id: a730114b-cb7c-558b-9dd2-07bfb08f5899
+slug: predicate-registry-rescan-blind
 page-type-slug: finding
 title: "Predicate registry rescan blind"
 domain-slug: domain/database

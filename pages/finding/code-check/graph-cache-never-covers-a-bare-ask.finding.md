@@ -1,5 +1,6 @@
 ---
 id: e511ec3b-2532-53f4-8b7e-51d97f1e8353
+slug: graph-cache-never-covers-a-bare-ask
 page-type-slug: finding
 title: "Graph cache never covers a bare ask"
 domain-slug: domain/global

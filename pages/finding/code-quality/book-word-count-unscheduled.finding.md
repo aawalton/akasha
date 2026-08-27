@@ -1,5 +1,6 @@
 ---
 id: 0d6ccf44-e5c8-519e-8685-34399f0eb708
+slug: book-word-count-unscheduled
 page-type-slug: finding
 title: "Book word count unscheduled"
 domain-slug: domain/code-quality

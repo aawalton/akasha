@@ -1,5 +1,6 @@
 ---
 id: 00af09a5-b757-587e-ad45-5b0d39333723
+slug: extension-source-duplicated
 page-type-slug: finding
 title: "Extension source duplicated"
 domain-slug: domain/code-editor

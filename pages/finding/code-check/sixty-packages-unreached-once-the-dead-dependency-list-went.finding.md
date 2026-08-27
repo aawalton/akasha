@@ -1,5 +1,6 @@
 ---
 id: 97bc03b4-b4d0-58b6-a07e-98befdef2015
+slug: sixty-packages-unreached-once-the-dead-dependency-list-went
 page-type-slug: finding
 title: "Sixty packages unreached once the dead dependency list went"
 domain-slug: domain/global

@@ -1,5 +1,6 @@
 ---
 id: 5d4d0f48-2926-56ff-b5a0-835bd7fb520c
+slug: worker-placement-silent-skip-returns
 page-type-slug: finding
 title: "Worker placement silent skip returns"
 domain-slug: domain/global

@@ -1,5 +1,6 @@
 ---
 id: 8e757e0f-f14e-51e8-aa1b-5b7303aaf1b4
+slug: owned-domain-ban-collides-with-the-governing-set
 page-type-slug: finding
 title: "Owned domain ban collides with the governing set"
 domain-slug: task/create-persona-voice

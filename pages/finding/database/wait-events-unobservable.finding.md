@@ -1,5 +1,6 @@
 ---
 id: fb2d134d-b8de-5dca-b178-9ef182b8ac1d
+slug: wait-events-unobservable
 page-type-slug: finding
 title: "Wait events unobservable"
 domain-slug: domain/database

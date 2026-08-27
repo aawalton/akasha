@@ -1,5 +1,6 @@
 ---
 id: d61041e0-9556-5533-8f80-117f8f9f334d
+slug: extension-sources-untested
 page-type-slug: finding
 title: "Extension sources untested"
 domain-slug: domain/code-editor

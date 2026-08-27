@@ -1,5 +1,6 @@
 ---
 id: 9b6d5666-2b20-50ef-9696-80b64251e56f
+slug: entry-globs-make-a-package-unmeasurable
 page-type-slug: finding
 title: "Entry globs make a package unmeasurable"
 domain-slug: domain/global

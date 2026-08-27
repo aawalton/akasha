@@ -1,5 +1,6 @@
 ---
 id: 1a09dfab-a282-574e-b877-2b8a707f0ece
+slug: markdown-pane-scrolls-by-wheel-alone
 page-type-slug: finding
 title: "Markdown pane scrolls by wheel alone"
 domain-slug: domain/code-editor

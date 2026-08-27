@@ -1,5 +1,6 @@
 ---
 id: 3f13bbcd-4370-52f0-93dc-e926cda02eb4
+slug: eso-day-wrong-after-spring-forward
 page-type-slug: finding
 title: "Eso day wrong after spring forward"
 domain-slug: domain/code-quality

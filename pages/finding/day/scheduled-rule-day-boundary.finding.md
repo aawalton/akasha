@@ -1,5 +1,6 @@
 ---
 id: 528d0e62-28dd-595b-97f7-856b0ee412a3
+slug: scheduled-rule-day-boundary
 page-type-slug: finding
 title: "Scheduled rule day boundary"
 domain-slug: domain/day

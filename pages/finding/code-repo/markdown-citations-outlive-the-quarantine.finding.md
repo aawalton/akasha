@@ -1,5 +1,6 @@
 ---
 id: 499f9a48-b8a3-5db3-9975-891eff2c11ea
+slug: markdown-citations-outlive-the-quarantine
 page-type-slug: finding
 title: "Markdown citations outlive the quarantine"
 domain-slug: repo/code-repo

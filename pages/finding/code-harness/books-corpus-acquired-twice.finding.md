@@ -1,5 +1,6 @@
 ---
 id: 2b44da4b-4164-5d05-be83-bd081337ce52
+slug: books-corpus-acquired-twice
 page-type-slug: finding
 title: "Books corpus acquired twice"
 domain-slug: domain/global

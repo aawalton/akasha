@@ -1,5 +1,6 @@
 ---
 id: 2554ba45-9289-57bb-b68f-10125c5ada23
+slug: daemon-not-restarted-on-deploy
 page-type-slug: finding
 title: "Daemon not restarted on deploy"
 domain-slug: domain/deploy

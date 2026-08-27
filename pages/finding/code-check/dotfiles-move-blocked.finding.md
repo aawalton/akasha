@@ -1,5 +1,6 @@
 ---
 id: 46953a40-7294-5c81-8384-6550e620b8b9
+slug: dotfiles-move-blocked
 page-type-slug: finding
 title: "Dotfiles move blocked"
 domain-slug: domain/global

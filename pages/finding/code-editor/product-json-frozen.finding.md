@@ -1,5 +1,6 @@
 ---
 id: be6ba67e-05b4-55cf-884d-acb19f32b37e
+slug: product-json-frozen
 page-type-slug: finding
 title: "Product JSON frozen"
 domain-slug: domain/code-editor

@@ -1,5 +1,6 @@
 ---
 id: 468f8238-89d4-505e-bbdc-067973563269
+slug: check-ast-unused-partial-workspace-coverage
 page-type-slug: finding
 title: "Check ast unused partial workspace coverage"
 domain-slug: domain/global

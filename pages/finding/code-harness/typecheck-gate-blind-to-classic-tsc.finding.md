@@ -1,5 +1,6 @@
 ---
 id: 200c992f-5b28-5ea1-b4cb-dc3587a4e9db
+slug: typecheck-gate-blind-to-classic-tsc
 page-type-slug: finding
 title: "Typecheck gate blind to classic tsc"
 domain-slug: domain/global

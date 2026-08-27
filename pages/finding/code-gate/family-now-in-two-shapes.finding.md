@@ -1,5 +1,6 @@
 ---
 id: da9e6b6c-16de-5f07-b79d-b6d116b0d079
+slug: family-now-in-two-shapes
 page-type-slug: finding
 title: "Family now in two shapes"
 domain-slug: domain/global

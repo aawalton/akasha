@@ -1,5 +1,6 @@
 ---
 id: 601c2a56-1602-58fd-8baa-6235cbde14d4
+slug: verdict-passes-wrong-commit
 page-type-slug: finding
 title: "Verdict passes wrong commit"
 domain-slug: domain/global

@@ -1,5 +1,6 @@
 ---
 id: 76c9bd03-fb74-532c-b435-fa94aef02fe4
+slug: nightly-sweep-reads-production
 page-type-slug: finding
 title: "Nightly sweep reads production"
 domain-slug: domain/database

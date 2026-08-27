@@ -1,5 +1,6 @@
 ---
 id: 6288093d-5ecc-5ebf-acd6-8332f9640f6b
+slug: package-rationale-contradicted-by-manifest
 page-type-slug: finding
 title: "Package rationale contradicted by manifest"
 domain-slug: domain/code-quality

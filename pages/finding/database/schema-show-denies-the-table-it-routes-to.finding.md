@@ -1,5 +1,6 @@
 ---
 id: da6a921a-370e-5f66-aca6-bf4762d27d6e
+slug: schema-show-denies-the-table-it-routes-to
 page-type-slug: finding
 title: "Schema show denies the table it routes to"
 domain-slug: domain/database

@@ -1,5 +1,6 @@
 ---
 id: 10e8a0b8-0a4c-5a6b-9110-897516fed9b2
+slug: one-child-tree-unresolved
 page-type-slug: finding
 title: "One child tree unresolved"
 domain-slug: domain/global

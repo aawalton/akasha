@@ -1,5 +1,6 @@
 ---
 id: 01b0fc39-9728-542d-ae28-7d9e8451cc8b
+slug: seat-terminal-unreachable-to-a-verifier
 page-type-slug: finding
 title: "Seat terminal unreachable to a verifier"
 domain-slug: domain/code-editor

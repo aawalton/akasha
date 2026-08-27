@@ -1,5 +1,6 @@
 ---
 id: 303aca4e-37f0-5469-9f81-7a313cd7c377
+slug: promote-installs-never-refreshed
 page-type-slug: finding
 title: "Promote installs never refreshed"
 domain-slug: domain/code-editor

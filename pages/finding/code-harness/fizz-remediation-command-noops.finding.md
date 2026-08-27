@@ -1,5 +1,6 @@
 ---
 id: 6743f97c-582f-535a-a347-cbc8e458d496
+slug: fizz-remediation-command-noops
 page-type-slug: finding
 title: "Fizz remediation command noops"
 domain-slug: domain/global

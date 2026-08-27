@@ -1,5 +1,6 @@
 ---
 id: 999bc198-f6d2-56bb-8fc9-483a2395a09d
+slug: routing-table-exemption-shape
 page-type-slug: finding
 title: "Routing table exemption shape"
 domain-slug: domain/global

@@ -1,5 +1,6 @@
 ---
 id: aed48885-fde3-556f-ba46-bf0d2abd3385
+slug: grouping-basis-unbound
 page-type-slug: finding
 title: "Grouping basis unbound"
 domain-slug: domain/global

@@ -1,5 +1,6 @@
 ---
 id: 40931698-55d5-560d-9150-a59df0ab2cc8
+slug: design-tokens-import-pulls-against-editor-independence
 page-type-slug: finding
 title: "Design tokens import pulls against editor independence"
 domain-slug: domain/code-editor

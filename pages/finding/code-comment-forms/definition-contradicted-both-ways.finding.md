@@ -1,5 +1,6 @@
 ---
 id: 30569ac6-c2df-5148-bf04-dbf8e6f1c5b4
+slug: definition-contradicted-both-ways
 page-type-slug: finding
 title: "Definition contradicted both ways"
 domain-slug: list/code-comment-forms

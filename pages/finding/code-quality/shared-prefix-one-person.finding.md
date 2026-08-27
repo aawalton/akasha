@@ -1,5 +1,6 @@
 ---
 id: 8ba8bea2-69ac-5606-8605-960c615cdf3b
+slug: shared-prefix-one-person
 page-type-slug: finding
 title: "Shared prefix one person"
 domain-slug: domain/code-quality

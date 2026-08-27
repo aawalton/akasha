@@ -1,5 +1,6 @@
 ---
 id: 9eeb20b9-438e-5740-a08f-9201c35dc045
+slug: glob-prefix-absence-reads-as-intent
 page-type-slug: finding
 title: "Glob prefix absence reads as intent"
 domain-slug: domain/global

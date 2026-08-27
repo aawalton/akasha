@@ -1,5 +1,6 @@
 ---
 id: 9e06b788-53ad-57e7-9030-1e30c0d19475
+slug: identity-gate-tests-inherit-env
 page-type-slug: finding
 title: "Identity gate tests inherit env"
 domain-slug: domain/code-quality

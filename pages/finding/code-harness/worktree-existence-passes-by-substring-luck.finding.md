@@ -1,5 +1,6 @@
 ---
 id: 5844037d-9f1f-5311-a7e5-a6172d54b264
+slug: worktree-existence-passes-by-substring-luck
 page-type-slug: finding
 title: "Worktree existence passes by substring luck"
 domain-slug: domain/global

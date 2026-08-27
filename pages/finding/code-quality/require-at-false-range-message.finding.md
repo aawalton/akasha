@@ -1,5 +1,6 @@
 ---
 id: 08f76123-7504-5c78-8c77-db7bee50b399
+slug: require-at-false-range-message
 page-type-slug: finding
 title: "Require at false range message"
 domain-slug: domain/code-quality

@@ -1,5 +1,6 @@
 ---
 id: 5fd400ed-88f1-5b66-b559-701fa8fe453a
+slug: gate-blind-to-the-package-that-states-it
 page-type-slug: finding
 title: "Gate blind to the package that states it"
 domain-slug: domain/global

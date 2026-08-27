@@ -1,5 +1,6 @@
 ---
 id: 4eefb59a-2737-565a-a22c-76c4f60ee170
+slug: deletion-does-not-wake-ast-unused
 page-type-slug: finding
 title: "Deletion does not wake ast unused"
 domain-slug: domain/global

@@ -1,5 +1,6 @@
 ---
 id: 00669854-eeb0-565b-be9f-60ac2625068a
+slug: editor-suite-watched-by-nothing
 page-type-slug: finding
 title: "Editor suite watched by nothing"
 domain-slug: domain/global

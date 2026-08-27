@@ -1,5 +1,6 @@
 ---
 id: 79bfdeb0-9a7e-532a-a98a-abae871ee99b
+slug: initiative-key-has-no-writer
 page-type-slug: finding
 title: "Initiative key has no writer"
 domain-slug: domain/global

@@ -1,5 +1,6 @@
 ---
 id: be90ad0d-cc47-5d1b-8b50-8bc7422e62d0
+slug: reward-watcher-sweep-overload
 page-type-slug: finding
 title: "Reward watcher sweep overload"
 domain-slug: domain/daemon

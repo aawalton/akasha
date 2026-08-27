@@ -1,5 +1,6 @@
 ---
 id: 75d0ae4e-7bbf-5819-94fb-e8993e0738e4
+slug: cap-crossed-by-two-in-budget-additions
 page-type-slug: finding
 title: "Cap crossed by two in budget additions"
 domain-slug: domain/global

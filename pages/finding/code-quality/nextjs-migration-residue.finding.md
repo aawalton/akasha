@@ -1,5 +1,6 @@
 ---
 id: 476fa249-93a3-5dce-9e07-836629725b2a
+slug: nextjs-migration-residue
 page-type-slug: finding
 title: "Nextjs migration residue"
 domain-slug: domain/code-quality

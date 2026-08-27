@@ -1,5 +1,6 @@
 ---
 id: d77a9ff6-39a5-54b6-ae34-37c8aaf31799
+slug: ci-workflow-graph-counts-only-what-loaded
 page-type-slug: finding
 title: "CI workflow graph counts only what loaded"
 domain-slug: domain/global

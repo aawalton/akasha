@@ -1,5 +1,6 @@
 ---
 id: f3761483-d3ad-5deb-b707-f1704b968a69
+slug: reconcile-authority-prices-a-minute
 page-type-slug: finding
 title: "Reconcile authority prices a minute"
 domain-slug: domain/code-quality

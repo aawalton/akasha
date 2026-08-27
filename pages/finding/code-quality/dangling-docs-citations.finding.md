@@ -1,5 +1,6 @@
 ---
 id: 3ec3a33f-db4c-567e-9502-ddc4257ec671
+slug: dangling-docs-citations
 page-type-slug: finding
 title: "Dangling docs citations"
 domain-slug: domain/code-quality
