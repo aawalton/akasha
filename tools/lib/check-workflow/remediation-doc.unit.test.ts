@@ -10,7 +10,7 @@ describe("repoDoc", () => {
 
   test("accepts only a declared top-level directory", () => {
     // @ts-expect-error — a home-relative path starts under none of them
-    repoDoc("~/instructions/docs/example-rule.md")
+    repoDoc("~/akasha/docs/example-rule.md")
     // @ts-expect-error — nor is the retired `.claude/docs` spelling
     repoDoc(".claude/docs/example-rule.md")
   })
