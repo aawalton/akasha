@@ -25,7 +25,7 @@ The emitted file carries a header naming this invocation.
 
 # Help
 
-Read the ESO enum declarations the code repository carries, collect every chatter-option and
+Read the ESO enum declarations akasha carries, collect every chatter-option and
 interaction constant name declared there, and write the two sorted registries the quests addon
 reads at runtime.
 
@@ -33,6 +33,7 @@ The source is the declaration file the ESO typings generator emits, so the regis
 those typings opted into and nothing the game declares outside them. Regenerating the typings
 first is what widens it.
 
-The written file is a tracked artefact of the code repository; this command is the rule it is
+The written file is a tracked artefact of akasha; this command is the rule it is
 made by and stands here, where no deploy has to carry it. Both the file read and the file
-written are taken from the code checkout named rather than from this file's own location.
+written are taken from the checkout named, akasha by default, rather than from this file's own
+location.

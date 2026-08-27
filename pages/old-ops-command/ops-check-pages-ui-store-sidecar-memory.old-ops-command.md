@@ -24,7 +24,7 @@ A run that finds no page stating an app fails as a tool error rather than certif
 
 Verify that every app depending on @shared/pages-ui-store gives its code-sync sidecar at least 2Gi.
 
-The population is the workspaces that reach @shared/pages-ui-store through the transitive dependency closure of the code repo. Which of them a deploy carries is read off the workflow-template pages in this repo: a page of kind `apps` states the package it deploys, so deployability is declared rather than derived from where a workflow file happened to sit.
+The population is the workspaces that reach @shared/pages-ui-store through the transitive dependency closure of akasha. Which of them a deploy carries is read off the workflow-template pages here: a page of kind `apps` states the package it deploys, so deployability is declared rather than derived from where a workflow file happened to sit.
 
 A deployable dependent that declares no `orchestratorCacheSyncSidecar` call in any TypeScript it owns fails: its limit was never read, so the run cannot certify it.
 

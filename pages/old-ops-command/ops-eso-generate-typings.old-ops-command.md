@@ -13,7 +13,7 @@ irreversible: false
 
 # Definition
 
-- **Ops eso generate typings** — the code repository's ESO API declaration files, rebuilt from the ESO UI documentation dump.
+- **Ops eso generate typings** — akasha's ESO API declaration files, rebuilt from the ESO UI documentation dump.
 
 # Design
 
@@ -27,15 +27,15 @@ The emitted files are formatted with the code repository's own Biome rather than
 
 Parse the ESO UI documentation dump for every function, object, event and enum it describes,
 keep the ones the opt-in manifest names plus the enums and parent objects those reach, and
-write the result into the code repository as the declaration files its addons compile against.
+write the result into akasha as the declaration files its addons compile against.
 
 The manifest is the scope. The dump describes thousands of tokens and an addon needs a few
 hundred, so the manifest stands here beside the generator and a token absent from it is absent
 from the typings.
 
-The written files are tracked artefacts of the code repository; this command is the rule they
+The written files are tracked artefacts of akasha; this command is the rule they
 are made by and stands here, where no deploy has to carry it. The output tree is taken from the
-code checkout named rather than from this file's own location.
+checkout named, akasha by default, rather than from this file's own location.
 
-The emitted files are formatted with the code repository's own Biome, so a run leaves the tree
-as a run from that repository would have.
+The emitted files are formatted with the written checkout's own Biome, so a run leaves the tree
+as a run from inside it would have.

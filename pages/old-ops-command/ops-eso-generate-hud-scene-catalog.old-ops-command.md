@@ -13,7 +13,7 @@ irreversible: false
 
 # Definition
 
-- **Ops eso generate hud scene catalog** — the code repository's HUD scene component catalog, rebuilt from the ESO UI source clone.
+- **Ops eso generate hud scene catalog** — akasha's HUD scene component catalog, rebuilt from the ESO UI source clone.
 
 # Design
 
@@ -28,7 +28,7 @@ The emitted file carries a header naming this invocation.
 # Help
 
 Walk the ESO UI source file that declares the main gameplay scene, take one record for each
-distinct UI component it names, and write them into the code repository as the catalog its
+distinct UI component it names, and write them into akasha as the catalog its
 HUD packages read.
 
 The rules for what counts as a component and what shape a record takes are imported from the

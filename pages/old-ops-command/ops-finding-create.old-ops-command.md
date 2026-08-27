@@ -25,8 +25,7 @@ could see before.
 
 NO FLAG NAMES THE REPOSITORY, and none is needed. `pages/page-type/finding.page-type.md` declares which
 repository holds a finding and where under it, and this reads that declaration rather than
-guessing. The DOMAIN is validated against the instructions repository, which is where a domain
-stands whatever repository holds the finding.
+guessing. The DOMAIN is validated against akasha, which is where a domain stands.
 
 THE CLAIM AND THE EVIDENCE ARE YOURS AND ARE READ FROM FILES. Compose them outside that root:
 one written inside it is live at once and cannot be committed. Nothing here writes prose, and

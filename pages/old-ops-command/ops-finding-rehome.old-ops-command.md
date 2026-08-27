@@ -23,7 +23,8 @@ key and the folder cannot come apart — which is the state `tools/audits/findin
 exists to report and which no command could prevent before.
 
 CITATIONS ARE FOLLOWED. Findings cite each other in prose and one is cited from TSDoc, so a
-hand-rolled `mv` strands them. The survey is `mv.ts`'s, and every rewrite it makes is printed
+hand-rolled `mv` strands them. The survey is `move/move.ts`'s, the same one `ops mv` runs, and
+every rewrite it makes is printed
 before anything lands. `ops mv` would move the file and repoint those citations too, but it
 would leave the key behind, which is the disagreement this exists to make impossible.
 
@@ -33,5 +34,4 @@ where it stands and landed alone. Both directions of the disagreement are this c
 NO FLAG NAMES THE REPOSITORY. `pages/page-type/finding.page-type.md` declares which repository holds a
 finding, that declaration is read here, and a path landing in any other repository is refused
 naming the one it landed in. A relative path is taken against the directory this ran in. The
-DOMAIN is validated against the instructions repository, which is where a domain stands
-whatever repository holds the finding.
+DOMAIN is validated against akasha, which is where a domain stands.
