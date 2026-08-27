@@ -16,9 +16,12 @@ import type { Ask } from "./readout-resolver.ts"
  * refused here is refused for the reason and with the words it would carry over the wire, and the
  * two paths cannot drift into disagreeing about what an answer is.
  */
-export function askHere(roots: Roots = rootsHere()): Ask {
+export function askHere(roots?: Roots): Ask {
+  // THE ROOTS ARE READ PER ASK, not when this is built. The editor extension sets `AKASHA_ROOT`
+  // inside its activate, after its modules have loaded, so an ask that settled its roots at
+  // construction would hold whatever was true before that line ran.
   return (querySlug, given) => {
-    const { body, status } = answered(roots, querySlug, paramsIn(given))
+    const { body, status } = answered(roots ?? rootsHere(), querySlug, paramsIn(given))
     if (status !== 200) {
       const why = (body as { readonly error?: unknown })?.error
       throw new Error(

@@ -5,7 +5,7 @@
 import * as os from 'node:os';
 import * as path from 'node:path';
 import { getEsoDayStr, getEsoResetTime } from '../../../../day/day.ts';
-import { askOverHttp, PAGE_QUERY_ORIGIN } from '../../../../readouts/ask-over-http.ts';
+import { askHere } from '../../../../readouts/ask-here.ts';
 import { getDailyValues, getValuesLegend } from '../../../../readouts/daily-stoplights.ts';
 import { getInboxLegend, getInboxStoplights } from '../../../../readouts/inbox-stoplights.ts';
 import { getUpkeepLegend, getUpkeepStoplights } from '../../../../readouts/upkeep-stoplights.ts';
@@ -28,13 +28,10 @@ import { readUsage } from './usage';
  */
 const FEATURE = 'status-bar';
 
-// The poll cadence, and the whole of what bounds this bar's load on the page
-// query service. Every poll re-reads all three stoplight groups and the two
-// usage means, and a group costs one request per readout the readout documents
-// put in it, once per open window — so the offered load is that count divided by
-// this interval, and nothing else caps it. At five seconds the polls filled the
-// service's wall clock and callers behind it timed out on their own budgets.
-// Nothing this bar draws moves anywhere near this fast, and
+// The poll cadence. The three stoplight groups answer their queries in this
+// process now, so what this bounds is work done here rather than load offered to
+// the page query service; the two usage means are the only reads left that reach
+// it. Nothing this bar draws moves anywhere near this fast, and
 // `opsStatusBar.refreshNow` is what makes a refresh immediate.
 const POLL_INTERVAL_MS = 30_000;
 
@@ -51,7 +48,7 @@ const LEGEND_READS: Readonly<
 	daily: getValuesLegend,
 };
 
-const ask = askOverHttp(PAGE_QUERY_ORIGIN);
+const ask = askHere();
 
 let output: vscode.OutputChannel;
 
