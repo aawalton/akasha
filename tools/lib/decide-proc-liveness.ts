@@ -3,7 +3,7 @@ export const UUID_RE = /^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f
 
 const CLAUDE_CHILD_CMDLINE_RE = /\bclaude\b.*--dangerously-skip-permissions/
 
-const SUPERVISOR_CMDLINE_RE = /bun.*supervisor\.ts/
+const SUPERVISOR_CMDLINE_RE = /^(?:\S*\/)?bun\b.*supervisor\.ts/
 
 export function isSupervisorCmdline(cmdline: string): boolean {
   return SUPERVISOR_CMDLINE_RE.test(cmdline)

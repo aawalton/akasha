@@ -18,6 +18,8 @@ const WRAPPER =
   "bun run /code/packages/agents/supervisor/src/spawn-headless.ts -- bun run /code/packages/agents/supervisor/src/supervisor.ts"
 const CLAUDE = "claude --dangerously-skip-permissions --model opus"
 const PROXY = "bun /code/packages/agents/oauth-proxy/src/main.ts"
+const TMUX_SERVER =
+  "/usr/bin/tmux set-option -g history-limit 50000 ; set-option -g status off ; new-session -d -s aine -c /repos -- env -u TMUX AGENT_ID=019f49c3-4834-7fbc-974b-2d781b3a827f bun run /repo/tools/lib/pty-proxy.ts -- bun run /repo/tools/run-supervisor.ts --agent-id 019f49c3-4834-7fbc-974b-2d781b3a827f"
 
 function tree(agentId: string, base: number, startBase: number): readonly ProcLivenessEntry[] {
   return [
@@ -42,6 +44,10 @@ describe("isSupervisorCmdline", () => {
 
   it("the detached oauth-proxy is NOT a supervisor cmdline", () => {
     expect(isSupervisorCmdline(PROXY)).toBe(false)
+  })
+
+  it("a process that only NAMES a supervisor in its argv is not one — the tmux server parents every seat", () => {
+    expect(isSupervisorCmdline(TMUX_SERVER)).toBe(false)
   })
 })
 
