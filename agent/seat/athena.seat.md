@@ -1,7 +1,6 @@
 ---
 page-type-slug: seat
 id: 01a04458-6419-7000-901f-172247546199
-slug: athena
 title: "athena"
 persona-slug: athena
 domain-slug: domain/agent-harness
