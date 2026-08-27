@@ -12,8 +12,6 @@ domain-slug: domain/global
 
 Carried out of the initiative review of 2026-08-27, where twenty-four initiatives became four. Each item below is open, and no seat is working any of them.
 
-**Fourteen package pages name a package no repository holds.** Ten carry `repo: code` and four `repo: instructions`, and both repositories are gone. Thirteen of the names have no directory in akasha at all; the fourteenth, `infra/lib`, is deploy scripts with no manifest. The other 241 were repointed to akasha in `2eed4723d`, and `finding/pages-system/repo-key-is-an-equality-filter` still reads as though none of them had been — Nimue's `nimue-akasha-repo` cites it, so it is hers to settle.
-
 **An Electric namespace may be orphaned in the cluster.** Every manifest, alert and route is gone from every repository, so nothing is left to re-synth one deployed before they went, or to take it away.
 
 **The `messages` MCP server refused to connect on 2026-08-27,** so a seat could not be reached that way.
