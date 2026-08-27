@@ -51,6 +51,8 @@ A formula joins text by writing references into a text literal, and in no other 
 
 A formula's operators bind in this order, loosest first: `??`, `&&`, comparison, addition, multiplication.
 
+Operators that bind equally group to the left.
+
 Parentheses group.
 
 An operator that can answer from its left side alone does not work out its right.

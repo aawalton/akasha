@@ -23,3 +23,5 @@ A case row matches only where its test answers true.
 Dividing by zero answers absent.
 
 A text literal answers absent where any reference in it is absent.
+
+A function that reaches an absent value answers absent.
