@@ -1,0 +1,29 @@
+#!/usr/bin/env bash
+#
+# The `ops` name on PATH, resolving into the repository the dispatcher stands in.
+#
+# The dispatcher stands at `tools/ops/cli.ts`, so a change to what `ops` says or refuses is live
+# on the commit that makes it, with no build and no deploy in between. This file is what makes
+# that true for the name every agent types: it names that tree, rather than resolving into a
+# checkout of the code repository the way a `node_modules/.bin` link did.
+#
+# The tree it stands in is moving from instructions to akasha, and this file is on PATH for both
+# sides of that move. It looks in akasha first and falls back to instructions, so no shell loses
+# `ops` in the window between the bodies landing and this line being rewritten. Once nothing is
+# left at the instructions path, the fallback goes.
+
+set -euo pipefail
+
+akasha="${AKASHA_ROOT:-$HOME/repos/akasha}/tools/ops/cli.ts"
+instructions="${INSTRUCTIONS_ROOT:-$HOME/repos/instructions}/tools/ops/cli.ts"
+
+if [[ -f $akasha ]]; then
+  dispatcher="$akasha"
+elif [[ -f $instructions ]]; then
+  dispatcher="$instructions"
+else
+  echo "ops: no dispatcher at $akasha nor at $instructions — set AKASHA_ROOT to an akasha checkout" >&2
+  exit 70
+fi
+
+exec bun "$dispatcher" "$@"
