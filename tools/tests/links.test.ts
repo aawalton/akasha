@@ -4,7 +4,6 @@ import type { Roots } from "../../page/page"
 
 const ROOTS: Roots = {
   akasha: "/repo/akasha",
-  memory: "/repo/memory",
   "code-editor": "/repo/code-editor",
   target: "akasha",
 }
@@ -29,7 +28,7 @@ describe("a link whose whole target is a hole", () => {
     const links = resolveLinks({
       relPath: "pages/page-type/domain.page-type.md",
       body: "[{task}]({href})\n",
-      roots: { ...ROOTS, target: "memory" },
+      roots: { ...ROOTS, target: "code-editor" },
       exists: () => false,
       readAt: () => null,
     })
@@ -40,7 +39,7 @@ describe("a link whose whole target is a hole", () => {
 describe("a quote, whose link text is the target's own words", () => {
   const against = (body: string, target: string) =>
     resolveLinks({
-      relPath: "memory/initiatives/one.md",
+      relPath: "pages/initiative/one.md",
       body,
       roots: ROOTS,
       exists: (at) => at === "/repo/akasha/domains/one.md",

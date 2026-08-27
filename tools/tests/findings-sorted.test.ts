@@ -7,8 +7,7 @@ import { findingsDirIn } from "../lib/finding.ts"
 import { fromDisk, refusalText } from "../lib/refusal.ts"
 import { fixture, type Fixture } from "./fixture.ts"
 
-const MEMORY = "/nonexistent-memory"
-const STORE = findingsDirIn(MEMORY)
+const store = (): string => findingsDirIn(at.root)
 
 let at: Fixture
 
@@ -19,8 +18,8 @@ afterEach(() => at.dispose())
 
 function repo(): RepoView {
   return {
-    roots: { instructions: at.root, code: "/nonexistent-code", memory: MEMORY, books: "/nonexistent-books", stories: "/nonexistent-stories", "code-editor": "/nonexistent-code-editor" },
-    name: "instructions",
+    roots: { akasha: at.root, "code-editor": "/nonexistent-code-editor" },
+    name: "akasha",
     documents: listDocuments(at.root),
     read: (relPath) => readFileSync(`${at.root}/${relPath}`, "utf8"),
     exists: existsSync,
@@ -49,7 +48,7 @@ describe("a finding the folder does not account for", () => {
     const outcome = findingsSorted(repo())
     expect(outcome.verdict).toBe("fail")
     expect(outcome.messages).toContain(
-      says("finding-unfoldered", { path: "pages/finding/flat-claim.finding.md", store: STORE })
+      says("finding-unfoldered", { path: "pages/finding/flat-claim.finding.md", store: store() })
     )
   })
 
@@ -62,7 +61,7 @@ describe("a finding the folder does not account for", () => {
         path: "pages/finding/task/misplaced-claim.finding.md",
         owner: "role",
         leaf: "misplaced-claim.finding.md",
-        store: STORE,
+        store: store(),
       })
     )
   })
@@ -80,7 +79,7 @@ describe("a finding the folder does not account for", () => {
       says("finding-too-deep", {
         path: "pages/finding/role/cluster/deep-claim.finding.md",
         depth: "2",
-        store: STORE,
+        store: store(),
       })
     )
   })
