@@ -22,4 +22,4 @@ Three things are bypassed at once. The read-only role, since the direct connecti
 
 The asymmetry against the repositories is the sharp part. A shell write into the instructions repo is refused by a hook and cannot be committed; the harness states that a write from a shell is judged the same as one made with a tool. The production database, holding tens of millions of rows, takes a write from that same shell with nothing in the way.
 
-No rule anywhere requires an agent to reach the database through `ops db`. `domains/ops-db.md` and `domains/database.md` both describe the mechanism, and neither binds a reader to it.
+No rule anywhere requires an agent to reach the database through `ops db`. `pages/domain/database.domain.md` describes the mechanism and does not bind a reader to it.
