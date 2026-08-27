@@ -1,60 +1,54 @@
-
-import * as settingsRow from "./temper-inventory/settings-row.ts"
+import type { BuyRule } from "@temper/game-items-rules-core/buy-rule-types"
+import type {
+  CategoryRule,
+  InventoryRuleSettings,
+  ItemRule,
+} from "@temper/game-items-rules-core/inventory-rule-types"
+import type {
+  AutomationSettings,
+  CharacterAutomationToggles,
+  CompanionAutomationToggles,
+} from "./temper-inventory/automation-types.ts"
+import {
+  readAutomationSettings,
+  readInventoryRuleSettings,
+  writeAutomationSettings,
+  writeInventoryRuleSettings,
+} from "./temper-inventory/settings-row.ts"
 import { USER_ID } from "./user-id.ts"
 
-export type Rule = Readonly<Record<string, unknown>> & {
-  readonly id: string
-  readonly locked?: boolean
+export type {
+  AutomationSettings,
+  BuyRule,
+  CategoryRule,
+  CharacterAutomationToggles,
+  CompanionAutomationToggles,
+  InventoryRuleSettings,
+  ItemRule,
 }
 
-export type RuleSettings = Readonly<Record<string, unknown>> & {
-  readonly rules: readonly Rule[]
-  readonly itemRules?: readonly Rule[]
-  readonly buyRules?: readonly Rule[]
-}
-
-export type Toggles = Readonly<Record<string, unknown>>
-
-export type AutomationSettings = Readonly<Record<string, unknown>> & {
-  readonly global?: {
-    readonly characters?: Toggles
-    readonly companions?: Toggles
-  }
-  readonly characters: Readonly<Record<string, Toggles>>
-  readonly companions: Readonly<Record<string, Toggles>>
-}
-
-interface SettingsRowModule {
-  readonly readInventoryRuleSettings: (accountUserId: string) => Promise<RuleSettings>
-  readonly writeInventoryRuleSettings: (
-    accountUserId: string,
-    next: RuleSettings
-  ) => Promise<unknown>
-  readonly readAutomationSettings: (accountUserId: string) => Promise<AutomationSettings>
-  readonly writeAutomationSettings: (
-    accountUserId: string,
-    next: AutomationSettings
-  ) => Promise<unknown>
-}
+export type Toggles = CharacterAutomationToggles | CompanionAutomationToggles
 
 export interface Settings {
-  readonly read: () => Promise<RuleSettings>
-  readonly write: (next: RuleSettings) => Promise<unknown>
+  readonly read: () => Promise<InventoryRuleSettings>
+  readonly write: (next: InventoryRuleSettings) => Promise<undefined>
   readonly readAutomation: () => Promise<AutomationSettings>
-  readonly writeAutomation: (next: AutomationSettings) => Promise<unknown>
+  readonly writeAutomation: (next: AutomationSettings) => Promise<undefined>
 }
 
 export async function inventorySettings(): Promise<Settings> {
-  const rows = settingsRow as unknown as SettingsRowModule
   return {
-    read: () => rows.readInventoryRuleSettings(USER_ID),
-    write: (next) => rows.writeInventoryRuleSettings(USER_ID, next),
-    readAutomation: () => rows.readAutomationSettings(USER_ID),
-    writeAutomation: (next) => rows.writeAutomationSettings(USER_ID, next),
+    read: () => readInventoryRuleSettings(USER_ID),
+    write: (next) => writeInventoryRuleSettings(USER_ID, next),
+    readAutomation: () => readAutomationSettings(USER_ID),
+    writeAutomation: (next) => writeAutomationSettings(USER_ID, next),
   }
 }
 
-export function assertWriteAllowed(rule: Rule, force: boolean): undefined {
+export function assertWriteAllowed(
+  rule: Pick<CategoryRule, "id" | "locked">,
+  force: boolean
+): undefined {
   if (rule.locked === true && force === false) {
     throw new Error(
       `Rule ${rule.id} is locked. Pass --force to override the lock guard, or unlock the rule first.`
@@ -93,7 +87,7 @@ export const RULE_SHOW_COLUMNS = [
   "destination",
 ] as const
 
-export function itemRuleRow(rule: Rule): Record<string, unknown> {
+export function itemRuleRow(rule: ItemRule): Record<string, unknown> {
   return {
     id: rule.id,
     itemId: rule.itemId,

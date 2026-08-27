@@ -1,18 +1,15 @@
-export const summary = "Update fields on a buy rule by id (--target / --source / --title / --notes / --goal / --active, --force to override the lock guard)"
+export const summary =
+  "Update fields on a buy rule by id (--target / --source / --title / --notes / --goal / --active, --force to override the lock guard)"
 
-import type { CommandHelp } from "../../../../ops/surface.ts"
-import { codeModule } from "../../../../lib/code-import.ts"
+import { bulkUpdateBuyRules } from "@temper/game-items-rules-core/buy-rule-settings"
+import type { BuyRule, BuySource } from "@temper/game-items-rules-core/buy-rule-types"
 import { dataError, inputError } from "../../../../lib/exit.ts"
-import { parseArgs } from "../../../../lib/parse-args.ts"
 import { emitJson } from "../../../../lib/format-output.ts"
-import { BUY_SOURCE_CHOICES, ruleFlags } from "../../../../lib/temper-rule-flags.ts"
-import {
-  assertWriteAllowed,
-  inventorySettings,
-  type RuleSettings,
-} from "../../../../lib/temper-inventory.ts"
-
-const BUY_RULE_SETTINGS = "@temper/game-items-rules-core/buy-rule-settings"
+import { parseArgs } from "../../../../lib/parse-args.ts"
+import { parseBooleanFlag } from "../../../../lib/temper-inventory/rule-flags-shared.ts"
+import { assertWriteAllowed, inventorySettings } from "../../../../lib/temper-inventory.ts"
+import { BUY_SOURCE_CHOICES } from "../../../../lib/temper-rule-flags.ts"
+import type { CommandHelp } from "../../../../ops/surface.ts"
 
 export const help: CommandHelp = {
   positionals: [
@@ -73,16 +70,7 @@ export const help: CommandHelp = {
   ],
 }
 
-interface BuyRuleTransforms {
-  readonly bulkUpdateBuyRules: (
-    settings: RuleSettings,
-    ids: readonly string[],
-    patch: Readonly<Record<string, unknown>>,
-    opts: { readonly force: boolean }
-  ) => RuleSettings
-}
-
-async function parseSource(value: string | undefined): Promise<string | undefined> {
+function parseSource(value: string | undefined): BuySource | undefined {
   if (value === undefined) return undefined
   const match = BUY_SOURCE_CHOICES.find((s) => s === value)
   if (match === undefined) throw inputError(`--source: invalid value '${value}'`)
@@ -91,19 +79,20 @@ async function parseSource(value: string | undefined): Promise<string | undefine
 
 export default async function temperInventoryBuyRuleUpdate(args: readonly string[]): Promise<void> {
   const parsed = parseArgs(help, args)
-  const flags = await ruleFlags()
   const id = parsed.positionals[0]
   if (id == null) throw inputError("buy-rule id is required")
   const force = parsed.boolean("--force")
 
   const targetQuantity = parsed.nonNegativeInt("--target")
-  const source = await parseSource(parsed.string("--source"))
+  const source = parseSource(parsed.string("--source"))
   const title = parsed.string("--title")
   const notes = parsed.string("--notes")
   const goal = parsed.string("--goal")
-  const active = flags.parseBooleanFlag(parsed.string("--active"), "--active")
+  const active = parseBooleanFlag(parsed.string("--active"), "--active")
 
-  const patch: Record<string, unknown> = {}
+  const patch: Partial<
+    Pick<BuyRule, "targetQuantity" | "source" | "active" | "goal" | "title" | "notes">
+  > = {}
   if (targetQuantity !== undefined) patch.targetQuantity = targetQuantity
   if (source !== undefined) patch.source = source
   if (title !== undefined) patch.title = title
@@ -117,10 +106,7 @@ export default async function temperInventoryBuyRuleUpdate(args: readonly string
     )
   }
 
-  const [settingsAccess, transforms] = await Promise.all([
-    inventorySettings(),
-    codeModule<BuyRuleTransforms>(BUY_RULE_SETTINGS),
-  ])
+  const settingsAccess = await inventorySettings()
   const settings = await settingsAccess.read()
   const rule = (settings.buyRules ?? []).find((r) => r.id === id)
   if (rule === undefined) {
@@ -128,7 +114,7 @@ export default async function temperInventoryBuyRuleUpdate(args: readonly string
   }
   assertWriteAllowed(rule, force)
 
-  const next = transforms.bulkUpdateBuyRules(settings, [id], patch, { force })
+  const next = bulkUpdateBuyRules(settings, [id], patch, { force })
   await settingsAccess.write(next)
 
   const updated = (next.buyRules ?? []).find((r) => r.id === id)

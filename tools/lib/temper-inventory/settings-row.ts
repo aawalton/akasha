@@ -1,10 +1,10 @@
 import { patchPage } from "@shared/pages-query"
 import { askComposed } from "@shared/pages-query/ask"
 import { isJson } from "@shared/utils-narrow/is-json"
+import type { InventoryRuleSettings } from "@temper/game-items-rules-core/inventory-rule-types"
 import { AutomationSettingsSchema } from "./automation-settings-schema.ts"
-import { createDefaultRuleSettings } from "./game-code.ts"
 import type { AutomationSettings } from "./automation-types.ts"
-import type { InventoryRuleSettings } from "./game-rule-types.ts"
+import { createDefaultRuleSettings } from "./game-code.ts"
 import { InventoryRuleSettingsSchema } from "./rule-settings-schema.ts"
 
 const PLAYER_PAGE_TYPE_SLUG = "temper-player"

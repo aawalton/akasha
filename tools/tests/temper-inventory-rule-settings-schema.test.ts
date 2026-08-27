@@ -2,7 +2,7 @@ import { describe, expect, it } from "bun:test"
 import type {
   CategoryRule,
   InventoryRuleSettings,
-} from "../lib/temper-inventory/game-rule-types.ts"
+} from "@temper/game-items-rules-core/inventory-rule-types"
 import { InventoryRuleSettingsSchema } from "../lib/temper-inventory/rule-settings-schema.ts"
 
 describe("InventoryRuleSettingsSchema", () => {

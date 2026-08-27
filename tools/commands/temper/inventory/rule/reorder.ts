@@ -1,18 +1,15 @@
+export const summary =
+  "Move a category rule by absolute index (--to, the `pos` column) or relative to another user rule (--before/--after)"
 
-export const summary = "Move a category rule by absolute index (--to, the `pos` column) or relative to another user rule (--before/--after)"
-
-import type { CommandHelp } from "../../../../ops/surface.ts"
-import { codeModule } from "../../../../lib/code-import.ts"
-import { inputError, dataError } from "../../../../lib/exit.ts"
-import { parseArgs } from "../../../../lib/parse-args.ts"
-import { emitJson } from "../../../../lib/format-output.ts"
 import {
-  assertWriteAllowed,
-  inventorySettings,
-  type RuleSettings,
-} from "../../../../lib/temper-inventory.ts"
-
-const RULE_SETTINGS = "@temper/game-items-rules-core/inventory-rule-settings"
+  reorderCategoryRule,
+  resolveAnchorIndex,
+} from "@temper/game-items-rules-core/inventory-rule-settings"
+import { dataError, inputError } from "../../../../lib/exit.ts"
+import { emitJson } from "../../../../lib/format-output.ts"
+import { parseArgs } from "../../../../lib/parse-args.ts"
+import { assertWriteAllowed, inventorySettings } from "../../../../lib/temper-inventory.ts"
+import type { CommandHelp } from "../../../../ops/surface.ts"
 
 export const help: CommandHelp = {
   positionals: [
@@ -55,20 +52,6 @@ export const help: CommandHelp = {
   ],
 }
 
-interface RuleTransforms {
-  readonly reorderCategoryRule: (
-    settings: RuleSettings,
-    id: string,
-    toIndex: number
-  ) => RuleSettings
-  readonly resolveAnchorIndex: (
-    settings: RuleSettings,
-    id: string,
-    anchorId: string,
-    side: "before" | "after"
-  ) => number | undefined
-}
-
 export default async function temperInventoryRuleReorder(args: readonly string[]): Promise<void> {
   const parsed = parseArgs(help, args)
   const id = parsed.positionals[0]
@@ -82,10 +65,7 @@ export default async function temperInventoryRuleReorder(args: readonly string[]
     throw inputError("one of --to, --before, or --after is required")
   }
 
-  const [settingsAccess, transforms] = await Promise.all([
-    inventorySettings(),
-    codeModule<RuleTransforms>(RULE_SETTINGS),
-  ])
+  const settingsAccess = await inventorySettings()
   const settings = await settingsAccess.read()
   const existing = settings.rules.find((r) => r.id === id)
   if (existing === undefined) {
@@ -110,7 +90,7 @@ export default async function temperInventoryRuleReorder(args: readonly string[]
     if (anchorId === id) {
       throw inputError(`${anchorFlag}: cannot anchor a rule to itself`)
     }
-    const resolved = transforms.resolveAnchorIndex(
+    const resolved = resolveAnchorIndex(
       settings,
       id,
       anchorId,
@@ -124,7 +104,7 @@ export default async function temperInventoryRuleReorder(args: readonly string[]
     toIndex = resolved
   }
 
-  const next = transforms.reorderCategoryRule(settings, id, toIndex)
+  const next = reorderCategoryRule(settings, id, toIndex)
   await settingsAccess.write(next)
   process.stdout.write(`${emitJson({ id, toIndex })}\n`)
 }

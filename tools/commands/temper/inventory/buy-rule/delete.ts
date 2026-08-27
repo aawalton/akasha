@@ -1,18 +1,11 @@
-
 export const summary = "Delete a buy rule by id (--force to override the lock guard)"
 
-import type { CommandHelp } from "../../../../ops/surface.ts"
-import { codeModule } from "../../../../lib/code-import.ts"
-import { inputError, dataError } from "../../../../lib/exit.ts"
-import { parseArgs } from "../../../../lib/parse-args.ts"
+import { lockBuyRule, removeBuyRule } from "@temper/game-items-rules-core/buy-rule-settings"
+import { dataError, inputError } from "../../../../lib/exit.ts"
 import { emitJson } from "../../../../lib/format-output.ts"
-import {
-  assertWriteAllowed,
-  inventorySettings,
-  type RuleSettings,
-} from "../../../../lib/temper-inventory.ts"
-
-const BUY_RULE_SETTINGS = "@temper/game-items-rules-core/buy-rule-settings"
+import { parseArgs } from "../../../../lib/parse-args.ts"
+import { assertWriteAllowed, inventorySettings } from "../../../../lib/temper-inventory.ts"
+import type { CommandHelp } from "../../../../ops/surface.ts"
 
 export const help: CommandHelp = {
   positionals: [
@@ -35,21 +28,13 @@ export const help: CommandHelp = {
   ],
 }
 
-interface BuyRuleTransforms {
-  readonly lockBuyRule: (settings: RuleSettings, id: string, locked: boolean) => RuleSettings
-  readonly removeBuyRule: (settings: RuleSettings, id: string) => RuleSettings
-}
-
 export default async function temperInventoryBuyRuleDelete(args: readonly string[]): Promise<void> {
   const parsed = parseArgs(help, args)
   const id = parsed.positionals[0]
   if (id === undefined) throw inputError("buy-rule id is required")
   const force = parsed.boolean("--force")
 
-  const [settingsAccess, transforms] = await Promise.all([
-    inventorySettings(),
-    codeModule<BuyRuleTransforms>(BUY_RULE_SETTINGS),
-  ])
+  const settingsAccess = await inventorySettings()
   const settings = await settingsAccess.read()
   const rule = (settings.buyRules ?? []).find((r) => r.id === id)
   if (rule === undefined) {
@@ -57,8 +42,8 @@ export default async function temperInventoryBuyRuleDelete(args: readonly string
   }
   assertWriteAllowed(rule, force)
 
-  const unlocked = force ? transforms.lockBuyRule(settings, id, false) : settings
-  const next = transforms.removeBuyRule(unlocked, id)
+  const unlocked = force ? lockBuyRule(settings, id, false) : settings
+  const next = removeBuyRule(unlocked, id)
   await settingsAccess.write(next)
 
   process.stdout.write(`${emitJson(rule)}\n`)

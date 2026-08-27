@@ -1,17 +1,12 @@
+export const summary =
+  "List category rules in priority order (controlled rules prepended, mirroring the addon's compiled view)"
 
-export const summary = "List category rules in priority order (controlled rules prepended, mirroring the addon's compiled view)"
-
-import type { CommandHelp } from "../../../../ops/surface.ts"
-import { codeModule } from "../../../../lib/code-import.ts"
-import { parseArgs } from "../../../../lib/parse-args.ts"
+import { buildAllControlledRules } from "@temper/game-items-rules-core/inventory-rule-controlled"
+import type { CategoryRule } from "@temper/game-items-rules-core/inventory-rule-types"
 import { emitJson, emitTsv } from "../../../../lib/format-output.ts"
-import {
-  type AutomationSettings,
-  inventorySettings,
-  type Rule,
-} from "../../../../lib/temper-inventory.ts"
-
-const CONTROLLED = "@temper/game-items-rules-core/inventory-rule-controlled"
+import { parseArgs } from "../../../../lib/parse-args.ts"
+import { inventorySettings } from "../../../../lib/temper-inventory.ts"
+import type { CommandHelp } from "../../../../ops/surface.ts"
 
 export const help: CommandHelp = {
   flags: [
@@ -21,13 +16,6 @@ export const help: CommandHelp = {
     },
   ],
   examples: ["ops temper inventory rule list", "ops temper inventory rule list --json"],
-}
-
-interface Controlled {
-  readonly buildAllControlledRules: (settings: AutomationSettings) => {
-    readonly characterRules: readonly Rule[]
-    readonly companionRules: readonly Rule[]
-  }
 }
 
 const COLUMNS = [
@@ -41,7 +29,11 @@ const COLUMNS = [
   "controlled",
 ] as const
 
-function toRow(rule: Rule, controlled: boolean, pos: number | undefined): Record<string, unknown> {
+function toRow(
+  rule: CategoryRule,
+  controlled: boolean,
+  pos: number | undefined
+): Record<string, unknown> {
   return {
     pos,
     id: rule.id,
@@ -58,20 +50,17 @@ export default async function temperInventoryRuleList(args: readonly string[]): 
   const parsed = parseArgs(help, args)
   const json = parsed.boolean("--json")
 
-  const [settingsAccess, controlled] = await Promise.all([
-    inventorySettings(),
-    codeModule<Controlled>(CONTROLLED),
-  ])
+  const settingsAccess = await inventorySettings()
   const [settings, automation] = await Promise.all([
     settingsAccess.read(),
     settingsAccess.readAutomation(),
   ])
-  const { characterRules, companionRules } = controlled.buildAllControlledRules(automation)
+  const { characterRules, companionRules } = buildAllControlledRules(automation)
   const controlledRules = [...characterRules, ...companionRules]
 
   if (json) {
     const controlledCount = controlledRules.length
-    const allRules: readonly Rule[] = [...controlledRules, ...settings.rules]
+    const allRules: readonly CategoryRule[] = [...controlledRules, ...settings.rules]
     const withPos = allRules.map((r, i) => ({
       ...r,
       pos: i < controlledCount ? undefined : i - controlledCount,

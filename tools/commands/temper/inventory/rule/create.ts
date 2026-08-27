@@ -1,18 +1,19 @@
 export const summary = "Append a new category rule (addCategoryRule)"
 
-import type { CommandHelp } from "../../../../ops/surface.ts"
-import { codeModule } from "../../../../lib/code-import.ts"
-import { parseArgs } from "../../../../lib/parse-args.ts"
+import { addCategoryRule } from "@temper/game-items-rules-core/inventory-rule-settings"
+import type { CategoryRule } from "@temper/game-items-rules-core/inventory-rule-types"
 import { emitJson } from "../../../../lib/format-output.ts"
+import { parseArgs } from "../../../../lib/parse-args.ts"
 import {
-  ITEM_ACTION_CHOICES,
-  STOCK_SCOPE_CHOICES,
-  ruleFlags,
-  type Conditions,
-} from "../../../../lib/temper-rule-flags.ts"
-import { inventorySettings, type Rule, type RuleSettings } from "../../../../lib/temper-inventory.ts"
-
-const RULE_SETTINGS = "@temper/game-items-rules-core/inventory-rule-settings"
+  narrowItemAction,
+  narrowMoveToDestination,
+  narrowStockScope,
+  parseBooleanFlag,
+  parseConditionsJson,
+} from "../../../../lib/temper-inventory/rule-flags-shared.ts"
+import { type InventoryRuleSettings, inventorySettings } from "../../../../lib/temper-inventory.ts"
+import { ITEM_ACTION_CHOICES, STOCK_SCOPE_CHOICES } from "../../../../lib/temper-rule-flags.ts"
+import type { CommandHelp } from "../../../../ops/surface.ts"
 
 export const help: CommandHelp = {
   flags: [
@@ -83,45 +84,27 @@ export const help: CommandHelp = {
   ],
 }
 
-interface RuleTransforms {
-  readonly addCategoryRule: (
-    settings: RuleSettings,
-    draft: {
-      readonly categoryId: string
-      readonly action: string
-      readonly destination: string | undefined
-      readonly conditions: Conditions | undefined
-      readonly stockScope: string | undefined
-      readonly goal: string | undefined
-    }
-  ) => RuleSettings
-}
-
 export default async function temperInventoryRuleCreate(args: readonly string[]): Promise<void> {
   const parsed = parseArgs(help, args)
-  const flags = await ruleFlags()
   const categoryId = parsed.requireString("--category")
-  const action = flags.narrowItemAction(parsed.requireString("--action"), "--action")
+  const action = narrowItemAction(parsed.requireString("--action"), "--action")
   const destinationRaw = parsed.string("--destination")
   const destination =
     destinationRaw === undefined
       ? undefined
-      : flags.narrowMoveToDestination(destinationRaw, "--destination")
-  const conditions = flags.parseConditionsJson(parsed.string("--conditions"))
+      : narrowMoveToDestination(destinationRaw, "--destination")
+  const conditions = parseConditionsJson(parsed.string("--conditions"))
   const title = parsed.string("--title")
   const notes = parsed.string("--notes")
   const goal = parsed.string("--goal")
   const stockScopeRaw = parsed.string("--stock-scope")
   const stockScope =
-    stockScopeRaw === undefined ? undefined : flags.narrowStockScope(stockScopeRaw, "--stock-scope")
-  const active = flags.parseBooleanFlag(parsed.string("--active"), "--active")
+    stockScopeRaw === undefined ? undefined : narrowStockScope(stockScopeRaw, "--stock-scope")
+  const active = parseBooleanFlag(parsed.string("--active"), "--active")
 
-  const [settingsAccess, transforms] = await Promise.all([
-    inventorySettings(),
-    codeModule<RuleTransforms>(RULE_SETTINGS),
-  ])
+  const settingsAccess = await inventorySettings()
   const settings = await settingsAccess.read()
-  const next = transforms.addCategoryRule(settings, {
+  const next = addCategoryRule(settings, {
     categoryId,
     action,
     destination,
@@ -133,13 +116,13 @@ export default async function temperInventoryRuleCreate(args: readonly string[])
   if (created === undefined) {
     throw new Error("ruleCreate: addCategoryRule produced no new rule (impossible by construction)")
   }
-  const merged: Rule = {
+  const merged: CategoryRule = {
     ...created,
     ...(active !== undefined ? { active } : {}),
     ...(title !== undefined ? { title } : {}),
     ...(notes !== undefined ? { notes } : {}),
   }
-  const mergedSettings: RuleSettings = {
+  const mergedSettings: InventoryRuleSettings = {
     ...next,
     rules: next.rules.map((r) => (r.id === created.id ? merged : r)),
   }

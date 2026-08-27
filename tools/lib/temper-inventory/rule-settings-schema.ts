@@ -1,4 +1,9 @@
-import type { BuyRule, CategoryRule, InventoryRuleSettings, ItemRule } from "./game-rule-types.ts"
+import type { BuyRule } from "@temper/game-items-rules-core/buy-rule-types"
+import type {
+  CategoryRule,
+  InventoryRuleSettings,
+  ItemRule,
+} from "@temper/game-items-rules-core/inventory-rule-types"
 import { z } from "zod"
 
 const ITEM_ACTION_SCHEMA = z.enum([

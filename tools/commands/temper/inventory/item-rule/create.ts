@@ -1,18 +1,25 @@
-export const summary = "Create a new per-item rule (--item-id, --item-name required; optional --action / --destination / --title / --notes / --goal / --active / --stock-quantity)"
+export const summary =
+  "Create a new per-item rule (--item-id, --item-name required; optional --action / --destination / --title / --notes / --goal / --active / --stock-quantity)"
 
-import type { CommandHelp } from "../../../../ops/surface.ts"
-import { codeModule } from "../../../../lib/code-import.ts"
-import { inputError } from "../../../../lib/exit.ts"
-import { parseArgs } from "../../../../lib/parse-args.ts"
-import { emitJson } from "../../../../lib/format-output.ts"
+import { narrowDestination } from "@temper/game-items-rules-core/inventory-destination-parse"
 import {
-  ITEM_ACTION_CHOICES,
-  destinationParse,
-  ruleFlags,
-} from "../../../../lib/temper-rule-flags.ts"
-import { inventorySettings, type RuleSettings } from "../../../../lib/temper-inventory.ts"
-
-const RULE_SETTINGS = "@temper/game-items-rules-core/inventory-rule-settings"
+  addItemRule,
+  bulkUpdateItemRules,
+} from "@temper/game-items-rules-core/inventory-rule-settings"
+import type {
+  ItemRule,
+  MoveToDestination,
+} from "@temper/game-items-rules-core/inventory-rule-types"
+import { inputError } from "../../../../lib/exit.ts"
+import { emitJson } from "../../../../lib/format-output.ts"
+import { parseArgs } from "../../../../lib/parse-args.ts"
+import {
+  narrowItemAction,
+  parseBooleanFlag,
+} from "../../../../lib/temper-inventory/rule-flags-shared.ts"
+import { inventorySettings } from "../../../../lib/temper-inventory.ts"
+import { ITEM_ACTION_CHOICES } from "../../../../lib/temper-rule-flags.ts"
+import type { CommandHelp } from "../../../../ops/surface.ts"
 
 export const help: CommandHelp = {
   flags: [
@@ -89,27 +96,15 @@ export const help: CommandHelp = {
   ],
 }
 
-interface ItemRuleTransforms {
-  readonly addItemRule: (
-    settings: RuleSettings,
-    draft: { readonly itemId: number; readonly itemName: string; readonly action: string }
-  ) => RuleSettings
-  readonly bulkUpdateItemRules: (
-    settings: RuleSettings,
-    ids: readonly string[],
-    patch: Readonly<Record<string, unknown>>
-  ) => RuleSettings
-}
-
-async function parseDestination(value: string | undefined): Promise<string | undefined> {
+function parseDestination(value: string | undefined): MoveToDestination | undefined {
   if (value === undefined) return undefined
   if (value.length === 0) throw inputError("--destination: must not be empty")
-  const dest = (await destinationParse()).narrowDestination(value)
+  const dest = narrowDestination(value)
   if (dest === undefined) throw inputError(`--destination: unrecognized value '${value}'`)
   return dest
 }
 
-async function parseStockScope(value: string | undefined): Promise<string | undefined> {
+function parseStockScope(value: string | undefined): string | undefined {
   if (value === undefined) return undefined
   if (value === "current-character") return "current-character"
   if (value === "any-character") return "any-character"
@@ -120,17 +115,16 @@ export default async function temperInventoryItemRuleCreate(
   args: readonly string[]
 ): Promise<void> {
   const parsed = parseArgs(help, args)
-  const flags = await ruleFlags()
   const itemId = parsed.requireNonNegativeInt("--item-id")
   const itemName = parsed.requireString("--item-name")
-  const action = flags.narrowItemAction(parsed.string("--action") ?? "nothing", "--action")
-  const destination = await parseDestination(parsed.string("--destination"))
+  const action = narrowItemAction(parsed.string("--action") ?? "nothing", "--action")
+  const destination = parseDestination(parsed.string("--destination"))
   const title = parsed.string("--title")
   const notes = parsed.string("--notes")
   const goal = parsed.string("--goal")
-  const active = flags.parseBooleanFlag(parsed.string("--active"), "--active")
+  const active = parseBooleanFlag(parsed.string("--active"), "--active")
   const stockQuantity = parsed.nonNegativeInt("--stock-quantity")
-  const stockScope = await parseStockScope(parsed.string("--stock-scope"))
+  const stockScope = parseStockScope(parsed.string("--stock-scope"))
 
   if (stockScope !== undefined) {
     throw inputError(
@@ -138,20 +132,22 @@ export default async function temperInventoryItemRuleCreate(
     )
   }
 
-  const [settingsAccess, transforms] = await Promise.all([
-    inventorySettings(),
-    codeModule<ItemRuleTransforms>(RULE_SETTINGS),
-  ])
+  const settingsAccess = await inventorySettings()
   const settings = await settingsAccess.read()
 
-  const afterAdd = transforms.addItemRule(settings, { itemId, itemName, action })
+  const afterAdd = addItemRule(settings, { itemId, itemName, action })
   const newRule = (afterAdd.itemRules ?? [])[0]
   if (newRule === undefined) {
     throw new Error("addItemRule did not insert a new rule — settings shape is corrupt")
   }
   const newId = newRule.id
 
-  const patch: Record<string, unknown> = {}
+  const patch: Partial<
+    Pick<
+      ItemRule,
+      "action" | "destination" | "active" | "goal" | "title" | "notes" | "stockQuantity"
+    >
+  > = {}
   if (destination !== undefined) patch.destination = destination
   if (title !== undefined) patch.title = title
   if (notes !== undefined) patch.notes = notes
@@ -160,9 +156,7 @@ export default async function temperInventoryItemRuleCreate(
   if (stockQuantity !== undefined) patch.stockQuantity = stockQuantity
 
   const next =
-    Object.keys(patch).length > 0
-      ? transforms.bulkUpdateItemRules(afterAdd, [newId], patch)
-      : afterAdd
+    Object.keys(patch).length > 0 ? bulkUpdateItemRules(afterAdd, [newId], patch) : afterAdd
 
   await settingsAccess.write(next)
 

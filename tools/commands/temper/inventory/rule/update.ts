@@ -1,22 +1,22 @@
-export const summary = "Patch fields on a category rule (bulkUpdateCategoryRules with --force for the locked guard)"
+export const summary =
+  "Patch fields on a category rule (bulkUpdateCategoryRules with --force for the locked guard)"
 
-import type { CommandHelp } from "../../../../ops/surface.ts"
-import { codeModule } from "../../../../lib/code-import.ts"
+import { bulkUpdateCategoryRules } from "@temper/game-items-rules-core/inventory-rule-settings"
+import type { CategoryRule } from "@temper/game-items-rules-core/inventory-rule-types"
 import { dataError, inputError } from "../../../../lib/exit.ts"
-import { parseArgs } from "../../../../lib/parse-args.ts"
 import { emitJson } from "../../../../lib/format-output.ts"
+import { parseArgs } from "../../../../lib/parse-args.ts"
 import {
-  ITEM_ACTION_CHOICES,
-  STOCK_SCOPE_CHOICES,
-  ruleFlags,
-} from "../../../../lib/temper-rule-flags.ts"
-import {
-  assertWriteAllowed,
-  inventorySettings,
-  type RuleSettings,
-} from "../../../../lib/temper-inventory.ts"
-
-const RULE_SETTINGS = "@temper/game-items-rules-core/inventory-rule-settings"
+  narrowItemAction,
+  narrowMoveToDestination,
+  narrowStockScope,
+  parseBooleanFlag,
+  parseConditionsJson,
+  parseDestinationChainJson,
+} from "../../../../lib/temper-inventory/rule-flags-shared.ts"
+import { assertWriteAllowed, inventorySettings } from "../../../../lib/temper-inventory.ts"
+import { ITEM_ACTION_CHOICES, STOCK_SCOPE_CHOICES } from "../../../../lib/temper-rule-flags.ts"
+import type { CommandHelp } from "../../../../ops/surface.ts"
 
 export const help: CommandHelp = {
   positionals: [
@@ -91,43 +91,47 @@ export const help: CommandHelp = {
   ],
 }
 
-interface RuleTransforms {
-  readonly bulkUpdateCategoryRules: (
-    settings: RuleSettings,
-    ids: readonly string[],
-    patch: Readonly<Record<string, unknown>>,
-    opts: { readonly force: boolean }
-  ) => RuleSettings
-}
-
 export default async function temperInventoryRuleUpdate(args: readonly string[]): Promise<void> {
   const parsed = parseArgs(help, args)
-  const flags = await ruleFlags()
   const id = parsed.positionals[0]
   if (id === undefined) throw inputError("rule id is required")
   const force = parsed.boolean("--force")
 
   const categoryId = parsed.string("--category")
   const actionRaw = parsed.string("--action")
-  const action = actionRaw === undefined ? undefined : flags.narrowItemAction(actionRaw, "--action")
+  const action = actionRaw === undefined ? undefined : narrowItemAction(actionRaw, "--action")
   const destinationRaw = parsed.string("--destination")
   const destination =
     destinationRaw === undefined
       ? undefined
-      : flags.narrowMoveToDestination(destinationRaw, "--destination")
-  const destinationChain = flags.parseDestinationChainJson(parsed.string("--destination-chain"))
-  const conditions = flags.parseConditionsJson(parsed.string("--conditions"))
+      : narrowMoveToDestination(destinationRaw, "--destination")
+  const destinationChain = parseDestinationChainJson(parsed.string("--destination-chain"))
+  const conditions = parseConditionsJson(parsed.string("--conditions"))
   const title = parsed.string("--title")
   const notes = parsed.string("--notes")
   const goal = parsed.string("--goal")
   const stockScopeRaw = parsed.string("--stock-scope")
   const stockScope =
-    stockScopeRaw === undefined ? undefined : flags.narrowStockScope(stockScopeRaw, "--stock-scope")
-  const active = flags.parseBooleanFlag(parsed.string("--active"), "--active")
+    stockScopeRaw === undefined ? undefined : narrowStockScope(stockScopeRaw, "--stock-scope")
+  const active = parseBooleanFlag(parsed.string("--active"), "--active")
 
   const clearScalarDestination = destinationChain !== undefined && destination === undefined
 
-  const patch: Record<string, unknown> = {
+  const patch: Partial<
+    Pick<
+      CategoryRule,
+      | "categoryId"
+      | "action"
+      | "conditions"
+      | "destination"
+      | "destinationChain"
+      | "stockScope"
+      | "active"
+      | "goal"
+      | "title"
+      | "notes"
+    >
+  > = {
     ...(categoryId !== undefined ? { categoryId } : {}),
     ...(action !== undefined ? { action } : {}),
     ...(destination !== undefined ? { destination } : {}),
@@ -146,10 +150,7 @@ export default async function temperInventoryRuleUpdate(args: readonly string[])
     )
   }
 
-  const [settingsAccess, transforms] = await Promise.all([
-    inventorySettings(),
-    codeModule<RuleTransforms>(RULE_SETTINGS),
-  ])
+  const settingsAccess = await inventorySettings()
   const settings = await settingsAccess.read()
   const existing = settings.rules.find((r) => r.id === id)
   if (existing === undefined) {
@@ -157,7 +158,7 @@ export default async function temperInventoryRuleUpdate(args: readonly string[])
   }
   assertWriteAllowed(existing, force)
 
-  const next = transforms.bulkUpdateCategoryRules(settings, [id], patch, { force })
+  const next = bulkUpdateCategoryRules(settings, [id], patch, { force })
   await settingsAccess.write(next)
   const updated = next.rules.find((r) => r.id === id)
   process.stdout.write(`${emitJson(updated ?? existing)}\n`)

@@ -1,22 +1,22 @@
-export const summary = "Update fields on an item rule by id (--action / --destination / --title / --notes / --goal / --active / --stock-quantity, --force to override the lock guard)"
+export const summary =
+  "Update fields on an item rule by id (--action / --destination / --title / --notes / --goal / --active / --stock-quantity, --force to override the lock guard)"
 
-import type { CommandHelp } from "../../../../ops/surface.ts"
-import { codeModule } from "../../../../lib/code-import.ts"
+import { narrowDestination } from "@temper/game-items-rules-core/inventory-destination-parse"
+import { bulkUpdateItemRules } from "@temper/game-items-rules-core/inventory-rule-settings"
+import type {
+  ItemRule,
+  MoveToDestination,
+} from "@temper/game-items-rules-core/inventory-rule-types"
 import { dataError, inputError } from "../../../../lib/exit.ts"
-import { parseArgs } from "../../../../lib/parse-args.ts"
 import { emitJson } from "../../../../lib/format-output.ts"
+import { parseArgs } from "../../../../lib/parse-args.ts"
 import {
-  ITEM_ACTION_CHOICES,
-  destinationParse,
-  ruleFlags,
-} from "../../../../lib/temper-rule-flags.ts"
-import {
-  assertWriteAllowed,
-  inventorySettings,
-  type RuleSettings,
-} from "../../../../lib/temper-inventory.ts"
-
-const RULE_SETTINGS = "@temper/game-items-rules-core/inventory-rule-settings"
+  narrowItemAction,
+  parseBooleanFlag,
+} from "../../../../lib/temper-inventory/rule-flags-shared.ts"
+import { assertWriteAllowed, inventorySettings } from "../../../../lib/temper-inventory.ts"
+import { ITEM_ACTION_CHOICES } from "../../../../lib/temper-rule-flags.ts"
+import type { CommandHelp } from "../../../../ops/surface.ts"
 
 export const help: CommandHelp = {
   positionals: [
@@ -83,19 +83,10 @@ export const help: CommandHelp = {
   ],
 }
 
-interface ItemRuleTransforms {
-  readonly bulkUpdateItemRules: (
-    settings: RuleSettings,
-    ids: readonly string[],
-    patch: Readonly<Record<string, unknown>>,
-    opts: { readonly force: boolean }
-  ) => RuleSettings
-}
-
-async function parseDestination(value: string | undefined): Promise<string | undefined> {
+function parseDestination(value: string | undefined): MoveToDestination | undefined {
   if (value === undefined) return undefined
   if (value.length === 0) throw inputError("--destination: must not be empty")
-  const dest = (await destinationParse()).narrowDestination(value)
+  const dest = narrowDestination(value)
   if (dest === undefined) throw inputError(`--destination: unrecognized value '${value}'`)
   return dest
 }
@@ -104,21 +95,25 @@ export default async function temperInventoryItemRuleUpdate(
   args: readonly string[]
 ): Promise<void> {
   const parsed = parseArgs(help, args)
-  const flags = await ruleFlags()
   const id = parsed.positionals[0]
   if (id == null) throw inputError("item-rule id is required")
   const force = parsed.boolean("--force")
 
   const actionRaw = parsed.string("--action")
-  const action = actionRaw === undefined ? undefined : flags.narrowItemAction(actionRaw, "--action")
-  const destination = await parseDestination(parsed.string("--destination"))
+  const action = actionRaw === undefined ? undefined : narrowItemAction(actionRaw, "--action")
+  const destination = parseDestination(parsed.string("--destination"))
   const title = parsed.string("--title")
   const notes = parsed.string("--notes")
   const goal = parsed.string("--goal")
-  const active = flags.parseBooleanFlag(parsed.string("--active"), "--active")
+  const active = parseBooleanFlag(parsed.string("--active"), "--active")
   const stockQuantity = parsed.nonNegativeInt("--stock-quantity")
 
-  const patch: Record<string, unknown> = {}
+  const patch: Partial<
+    Pick<
+      ItemRule,
+      "action" | "destination" | "active" | "goal" | "title" | "notes" | "stockQuantity"
+    >
+  > = {}
   if (action !== undefined) patch.action = action
   if (destination !== undefined) patch.destination = destination
   if (title !== undefined) patch.title = title
@@ -133,10 +128,7 @@ export default async function temperInventoryItemRuleUpdate(
     )
   }
 
-  const [settingsAccess, transforms] = await Promise.all([
-    inventorySettings(),
-    codeModule<ItemRuleTransforms>(RULE_SETTINGS),
-  ])
+  const settingsAccess = await inventorySettings()
   const settings = await settingsAccess.read()
   const rule = (settings.itemRules ?? []).find((r) => r.id === id)
   if (rule === undefined) {
@@ -144,7 +136,7 @@ export default async function temperInventoryItemRuleUpdate(
   }
   assertWriteAllowed(rule, force)
 
-  const next = transforms.bulkUpdateItemRules(settings, [id], patch, { force })
+  const next = bulkUpdateItemRules(settings, [id], patch, { force })
   await settingsAccess.write(next)
 
   const updated = (next.itemRules ?? []).find((r) => r.id === id)

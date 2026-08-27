@@ -1,13 +1,13 @@
 import { InputError } from "@shared/errors-core/exit"
-import { z } from "zod"
-import { itemActionValues, ruleConstantKeys } from "./game-code.ts"
 import type {
   CategoryRule,
   DestinationChain,
   ItemAction,
   MoveToDestination,
   StockScope,
-} from "./game-rule-types.ts"
+} from "@temper/game-items-rules-core/inventory-rule-types"
+import { z } from "zod"
+import { itemActionValues, ruleConstantKeys } from "./game-code.ts"
 
 export { itemActionValues }
 

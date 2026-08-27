@@ -1,19 +1,13 @@
+export const summary =
+  "Print one rule's full shape — looks up user rules first, then derived controlled rules"
 
-export const summary = "Print one rule's full shape — looks up user rules first, then derived controlled rules"
-
-import type { CommandHelp } from "../../../../ops/surface.ts"
-import { codeModule } from "../../../../lib/code-import.ts"
-import { inputError, dataError } from "../../../../lib/exit.ts"
-import { parseArgs } from "../../../../lib/parse-args.ts"
+import { buildAllControlledRules } from "@temper/game-items-rules-core/inventory-rule-controlled"
+import type { CategoryRule } from "@temper/game-items-rules-core/inventory-rule-types"
+import { dataError, inputError } from "../../../../lib/exit.ts"
 import { emitJson, emitTsv } from "../../../../lib/format-output.ts"
-import {
-  type AutomationSettings,
-  inventorySettings,
-  type Rule,
-  RULE_SHOW_COLUMNS,
-} from "../../../../lib/temper-inventory.ts"
-
-const CONTROLLED = "@temper/game-items-rules-core/inventory-rule-controlled"
+import { parseArgs } from "../../../../lib/parse-args.ts"
+import { inventorySettings, RULE_SHOW_COLUMNS } from "../../../../lib/temper-inventory.ts"
+import type { CommandHelp } from "../../../../ops/surface.ts"
 
 export const help: CommandHelp = {
   positionals: [
@@ -40,14 +34,7 @@ export const help: CommandHelp = {
   ],
 }
 
-interface Controlled {
-  readonly buildAllControlledRules: (settings: AutomationSettings) => {
-    readonly characterRules: readonly Rule[]
-    readonly companionRules: readonly Rule[]
-  }
-}
-
-function emit(rule: Rule, tsv: boolean): undefined {
+function emit(rule: CategoryRule, tsv: boolean): undefined {
   if (tsv) {
     process.stdout.write(
       `${emitTsv(
@@ -76,10 +63,7 @@ export default async function temperInventoryRuleShow(args: readonly string[]): 
   if (id === undefined) throw inputError("rule id is required")
   const tsv = parsed.boolean("--tsv")
 
-  const [settingsAccess, controlled] = await Promise.all([
-    inventorySettings(),
-    codeModule<Controlled>(CONTROLLED),
-  ])
+  const settingsAccess = await inventorySettings()
   const [settings, automation] = await Promise.all([
     settingsAccess.read(),
     settingsAccess.readAutomation(),
@@ -91,14 +75,12 @@ export default async function temperInventoryRuleShow(args: readonly string[]): 
     return
   }
 
-  const { characterRules, companionRules } = controlled.buildAllControlledRules(automation)
+  const { characterRules, companionRules } = buildAllControlledRules(automation)
   const controlledRule = [...characterRules, ...companionRules].find((r) => r.id === id)
   if (controlledRule !== undefined) {
     emit(controlledRule, tsv)
     return
   }
 
-  throw dataError(
-    `rule with id '${id}' not found in user rules or derived controlled rules`
-  )
+  throw dataError(`rule with id '${id}' not found in user rules or derived controlled rules`)
 }
