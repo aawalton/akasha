@@ -1,5 +1,6 @@
 ---
 id: 867c30ef-f283-59d6-a5c5-0a23c95f75eb
+slug: synchrony-statement-other
 page-type-slug: email-rule-agent
 title: "Synchrony statement other"
 ---

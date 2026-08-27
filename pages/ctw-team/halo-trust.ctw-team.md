@@ -1,5 +1,6 @@
 ---
 id: 019dbb6d-6092-7021-bb7e-3c14c51dcd74
+slug: halo-trust
 page-type-slug: ctw-team
 title: "HALO Trust"
 cells-cleared: 0

@@ -1,6 +1,7 @@
 ---
 page-type-slug: all-about-alan-finding
 id: 533f63bb-9718-58c4-b231-4401773fb45b
+slug: leverage-map-core-lost-restart-ruled
 title: "Leverage map core lost restart ruled"
 domain-slug: domain/all-about-alan
 ---

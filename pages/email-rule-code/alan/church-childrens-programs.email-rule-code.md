@@ -1,5 +1,6 @@
 ---
 id: c115e9c3-31ab-5d47-b0a1-3cab99e01ae1
+slug: church-childrens-programs
 page-type-slug: email-rule-code
 title: "Church childrens programs"
 filing: archive

@@ -1,5 +1,6 @@
 ---
 id: 019dbb6d-7b0f-734c-9d77-18fe186348e5
+slug: herat
 page-type-slug: ctw-achievement
 title: "Herat"
 scope: "profile"

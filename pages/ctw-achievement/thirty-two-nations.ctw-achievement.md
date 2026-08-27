@@ -1,5 +1,6 @@
 ---
 id: 019dbb6e-21ad-78ea-86c8-7fb58f242669
+slug: thirty-two-nations
 page-type-slug: ctw-achievement
 title: "Thirty-Two Nations"
 scope: "global"

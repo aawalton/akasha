@@ -1,5 +1,6 @@
 ---
 id: 4b6ba525-fc1e-5480-b41e-c23ebd76c4c8
+slug: netflix-other
 page-type-slug: email-rule-agent
 title: "Netflix other"
 ---

@@ -1,5 +1,6 @@
 ---
 id: 827a13ad-e2c2-56cf-a150-2d44b0b63f1d
+slug: intermountain-other
 page-type-slug: email-rule-agent
 title: "Intermountain other"
 ---

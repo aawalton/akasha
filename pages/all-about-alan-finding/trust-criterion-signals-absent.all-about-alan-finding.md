@@ -1,6 +1,7 @@
 ---
 page-type-slug: all-about-alan-finding
 id: 76fed202-8441-5325-9a1b-5300b88c9009
+slug: trust-criterion-signals-absent
 title: "Trust criterion signals absent"
 domain-slug: domain/all-about-alan
 ---

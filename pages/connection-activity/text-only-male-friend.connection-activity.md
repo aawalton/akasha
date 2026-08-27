@@ -1,6 +1,7 @@
 ---
 page-type-slug: connection-activity
 id: 019e9365-a11b-7614-8703-75f770060e57
+slug: text-only-male-friend
 title: "Text-only — male friend"
 seq: 17
 icon: file-text

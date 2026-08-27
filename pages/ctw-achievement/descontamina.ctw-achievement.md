@@ -1,5 +1,6 @@
 ---
 id: 019dbb6d-e5b2-7aad-98ab-21615b721f3a
+slug: descontamina
 page-type-slug: ctw-achievement
 title: "Descontamina"
 scope: "team"

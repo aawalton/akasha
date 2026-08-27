@@ -1,6 +1,7 @@
 ---
 page-type-slug: all-about-alan-finding
 id: 4abe81ba-f1a9-5aad-9b8d-d90c5e67d11b
+slug: book-dependencies-have-alternatives
 title: "Book dependencies have alternatives"
 domain-slug: domain/all-about-alan
 ---

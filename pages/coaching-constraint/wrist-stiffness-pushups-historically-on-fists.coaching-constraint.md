@@ -2,6 +2,7 @@
 page-type-slug: coaching-constraint
 title: Wrist stiffness — pushups historically on fists
 id: 019f2932-257d-7a4b-8a66-758cbace0c57
+slug: wrist-stiffness-pushups-historically-on-fists
 kind: programming-cue
 active: true
 focus-tags:

@@ -1,5 +1,6 @@
 ---
 id: 2a219087-504a-5f58-9c7d-474162d711e4
+slug: expert-network-calls
 page-type-slug: email-rule-code
 title: "Expert network calls"
 filing: archive

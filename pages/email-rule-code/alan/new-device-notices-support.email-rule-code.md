@@ -1,5 +1,6 @@
 ---
 id: 08d2e0a3-0445-5241-bf14-ae0118555b10
+slug: new-device-notices-support
 page-type-slug: email-rule-code
 title: "New device notices support"
 filing: archive

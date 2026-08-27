@@ -1,5 +1,6 @@
 ---
 id: d613ead9-9556-5d11-b4c8-09d520204aa9
+slug: apple-developer-notices
 page-type-slug: email-rule-code
 title: "Apple developer notices"
 filing: archive

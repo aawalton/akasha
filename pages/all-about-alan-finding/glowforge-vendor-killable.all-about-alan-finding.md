@@ -1,6 +1,7 @@
 ---
 page-type-slug: all-about-alan-finding
 id: 049dbbac-b531-58ec-bf0a-3d09c616820f
+slug: glowforge-vendor-killable
 title: "Glowforge vendor killable"
 domain-slug: domain/all-about-alan
 ---

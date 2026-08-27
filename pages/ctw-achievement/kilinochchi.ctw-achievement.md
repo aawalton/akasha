@@ -1,5 +1,6 @@
 ---
 id: 019dbb6d-c3e8-7070-9f07-1abdbc5d5f58
+slug: kilinochchi
 page-type-slug: ctw-achievement
 title: "Kilinochchi"
 scope: "team"

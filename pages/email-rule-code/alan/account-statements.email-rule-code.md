@@ -1,5 +1,6 @@
 ---
 id: e48af2eb-35ef-5f8a-b1b5-382b41a22e61
+slug: account-statements
 page-type-slug: email-rule-code
 title: "Account statements"
 filing: archive

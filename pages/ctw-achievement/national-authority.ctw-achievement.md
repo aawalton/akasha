@@ -1,5 +1,6 @@
 ---
 id: 019dbb6d-e838-7c13-b275-ac282c9aa167
+slug: national-authority
 page-type-slug: ctw-achievement
 title: "National Authority"
 scope: "team"

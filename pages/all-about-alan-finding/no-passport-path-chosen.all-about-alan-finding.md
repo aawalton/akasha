@@ -1,6 +1,7 @@
 ---
 page-type-slug: all-about-alan-finding
 id: 603cc237-3faf-5c9a-b38c-8d35bca66b32
+slug: no-passport-path-chosen
 title: "No passport path chosen"
 domain-slug: domain/all-about-alan
 ---

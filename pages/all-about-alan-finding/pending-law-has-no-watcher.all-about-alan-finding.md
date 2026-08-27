@@ -1,6 +1,7 @@
 ---
 page-type-slug: all-about-alan-finding
 id: 7d19e7e2-e2fd-5286-a0e8-f6ee20c7629f
+slug: pending-law-has-no-watcher
 title: "Pending law has no watcher"
 domain-slug: domain/all-about-alan
 ---

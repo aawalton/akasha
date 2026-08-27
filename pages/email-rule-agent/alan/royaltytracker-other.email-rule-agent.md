@@ -1,5 +1,6 @@
 ---
 id: 9b114236-4063-55fc-a66e-39f1918a3524
+slug: royaltytracker-other
 page-type-slug: email-rule-agent
 title: "Royaltytracker other"
 ---

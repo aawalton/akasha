@@ -1,5 +1,6 @@
 ---
 id: c83a9d52-bf36-5ce8-95d7-de84fa1b1c14
+slug: church-other
 page-type-slug: email-rule-agent
 title: "Church other"
 ---

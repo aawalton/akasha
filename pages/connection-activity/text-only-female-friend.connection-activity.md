@@ -1,6 +1,7 @@
 ---
 page-type-slug: connection-activity
 id: 019e9365-9f8c-7f5c-b8e6-ac4d9064fed3
+slug: text-only-female-friend
 title: "Text-only — female friend"
 seq: 16
 icon: file-text

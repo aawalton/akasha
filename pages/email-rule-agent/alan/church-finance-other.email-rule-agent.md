@@ -1,5 +1,6 @@
 ---
 id: 2ce7f1e7-c21c-5357-8780-f183fa303a5c
+slug: church-finance-other
 page-type-slug: email-rule-agent
 title: "Church finance other"
 ---

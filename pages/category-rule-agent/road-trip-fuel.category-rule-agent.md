@@ -1,5 +1,6 @@
 ---
 id: ec7995b0-d391-55fe-a085-169c8aa7c667
+slug: road-trip-fuel
 page-type-slug: category-rule-agent
 title: "Road trip fuel"
 ---

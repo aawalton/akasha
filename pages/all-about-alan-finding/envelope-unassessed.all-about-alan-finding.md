@@ -1,6 +1,7 @@
 ---
 page-type-slug: all-about-alan-finding
 id: 44d45b45-5a4c-5820-a184-41839ca9d12b
+slug: envelope-unassessed
 title: "Envelope unassessed"
 domain-slug: domain/all-about-alan
 ---

@@ -1,5 +1,6 @@
 ---
 id: 27100628-7c11-559d-9cb8-693b58f523b8
+slug: betterment-other
 page-type-slug: email-rule-agent
 title: "Betterment other"
 ---

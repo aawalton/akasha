@@ -1,6 +1,7 @@
 ---
 page-type-slug: all-about-alan-finding
 id: 3aaaeaa4-2ec7-575a-8240-212dc432945c
+slug: insurance-single-vendor-no-umbrella
 title: "Insurance single vendor no umbrella"
 domain-slug: domain/all-about-alan
 ---

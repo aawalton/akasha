@@ -1,6 +1,7 @@
 ---
 page-type-slug: all-about-alan-finding
 id: b8b9ee22-ccb9-588e-84b6-4c24b2baf3f3
+slug: mint-mobile-trust-reset
 title: "Mint mobile trust reset"
 domain-slug: domain/all-about-alan
 ---

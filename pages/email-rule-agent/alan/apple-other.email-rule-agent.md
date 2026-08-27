@@ -1,5 +1,6 @@
 ---
 id: fc262547-60cb-588f-a2c7-bb45cc900bef
+slug: apple-other
 page-type-slug: email-rule-agent
 title: "Apple other"
 ---

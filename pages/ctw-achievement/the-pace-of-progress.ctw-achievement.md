@@ -1,5 +1,6 @@
 ---
 id: 019dbb6e-1ef7-7b4c-873d-045e5ae195a7
+slug: the-pace-of-progress
 page-type-slug: ctw-achievement
 title: "The Pace of Progress"
 scope: "global"

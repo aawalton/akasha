@@ -1,6 +1,7 @@
 ---
 page-type-slug: all-about-alan-finding
 id: 83a5f70b-7521-5cbf-a585-1168c2771482
+slug: streaming-subscriptions-unreviewed
 title: "Streaming subscriptions unreviewed"
 domain-slug: domain/all-about-alan
 ---

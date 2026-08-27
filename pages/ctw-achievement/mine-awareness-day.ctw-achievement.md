@@ -1,5 +1,6 @@
 ---
 id: 019dbb6e-4069-7eed-868a-53344fe2196b
+slug: mine-awareness-day
 page-type-slug: ctw-achievement
 title: "Mine Awareness Day"
 scope: "global"

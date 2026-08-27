@@ -1,5 +1,6 @@
 ---
 id: b543f334-5c6a-5d3e-a84f-327949f81109
+slug: icloud-other
 page-type-slug: email-rule-agent
 title: "Icloud other"
 ---

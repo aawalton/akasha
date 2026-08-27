@@ -1,6 +1,7 @@
 ---
 page-type-slug: connection-activity
 id: 019e931f-6388-78d2-b93f-f722013503c3
+slug: taylor-swift
 title: "Taylor Swift"
 seq: 9
 icon: file-text

@@ -1,5 +1,6 @@
 ---
 id: 019dbb6e-2bd9-75c4-9abc-d32e77df6c46
+slug: mine-action-cannot-wait
 page-type-slug: ctw-achievement
 title: "Mine Action Cannot Wait"
 scope: "global"

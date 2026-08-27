@@ -1,5 +1,6 @@
 ---
 id: 2f86d420-39de-5213-a31c-8d8a7e9af4a7
+slug: amazon-store-news
 page-type-slug: email-rule-code
 title: "Amazon store news"
 filing: archive

@@ -1,5 +1,6 @@
 ---
 id: 019dbb6e-0a56-7afd-b9c3-f281ef9ec23f
+slug: the-size-of-paris
 page-type-slug: ctw-achievement
 title: "The Size of Paris"
 scope: "global"

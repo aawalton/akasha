@@ -1,5 +1,6 @@
 ---
 id: d2a993e1-b94c-5ae9-965b-519911a5f944
+slug: link-other
 page-type-slug: email-rule-agent
 title: "Link other"
 ---

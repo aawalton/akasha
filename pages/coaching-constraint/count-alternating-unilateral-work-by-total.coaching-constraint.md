@@ -2,6 +2,7 @@
 page-type-slug: coaching-constraint
 title: Count alternating/unilateral work by TOTAL
 id: 019f01e1-b6f3-7191-aeae-18da9502b03a
+slug: count-alternating-unilateral-work-by-total
 kind: ef-accommodation
 active: true
 focus-tags:

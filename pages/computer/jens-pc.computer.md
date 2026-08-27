@@ -2,6 +2,7 @@
 page-type-slug: computer
 title: "Jen’s PC"
 id: 019e8b92-3ac9-7d38-9957-fe81dda8abbb
+slug: jens-pc
 brand: dell
 cost: 1070
 cpu: intel-core-i7-14700f

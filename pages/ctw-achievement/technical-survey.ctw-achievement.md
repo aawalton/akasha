@@ -1,5 +1,6 @@
 ---
 id: 019dbb6d-9514-7f8d-a932-7e30a9480a7a
+slug: technical-survey
 page-type-slug: ctw-achievement
 title: "Technical Survey"
 scope: "profile"

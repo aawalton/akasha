@@ -1,5 +1,6 @@
 ---
 id: 9cccd463-c3cd-5a54-9d14-27284980cde5
+slug: intermountain-healthcare
 page-type-slug: category-rule-code
 title: "Intermountain healthcare"
 category: "Medical"

@@ -1,5 +1,6 @@
 ---
 id: 019dbb6e-1485-7687-aab2-305ec8c311ea
+slug: one-hundred-million-lives
 page-type-slug: ctw-achievement
 title: "One Hundred Million Lives"
 scope: "global"

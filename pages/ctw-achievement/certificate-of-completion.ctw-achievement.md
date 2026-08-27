@@ -1,5 +1,6 @@
 ---
 id: 019dbb6d-9cb9-7e22-8ce9-c014b4ff7ec2
+slug: certificate-of-completion
 page-type-slug: ctw-achievement
 title: "Certificate of Completion"
 scope: "profile"

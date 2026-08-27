@@ -1,5 +1,6 @@
 ---
 id: 019dbb6d-a70e-7cbd-a5ca-cfdff6e2aa11
+slug: wide-area-survey
 page-type-slug: ctw-achievement
 title: "Wide Area Survey"
 scope: "profile"

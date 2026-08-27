@@ -1,5 +1,6 @@
 ---
 id: 019dbb6d-db74-76b9-8b83-56b6db938b38
+slug: district-focused-approach
 page-type-slug: ctw-achievement
 title: "District Focused Approach"
 scope: "team"

@@ -1,5 +1,6 @@
 ---
 id: 63641d18-9e0f-55e2-8011-11f679f8060b
+slug: linkedin-other
 page-type-slug: email-rule-agent
 title: "Linkedin other"
 ---

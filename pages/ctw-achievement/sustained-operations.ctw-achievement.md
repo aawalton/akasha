@@ -1,5 +1,6 @@
 ---
 id: 019dbb6d-bea1-7eed-bc19-0ae89fe2dd96
+slug: sustained-operations
 page-type-slug: ctw-achievement
 title: "Sustained Operations"
 scope: "profile"

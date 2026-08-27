@@ -2,6 +2,7 @@
 page-type-slug: coaching-constraint
 title: Overhead mobility ~50% — no forced lockout
 id: 019f01e1-b43d-7dad-9e6d-e637aca78499
+slug: overhead-mobility-50-no-forced-lockout
 kind: programming-cue
 active: true
 focus-tags:

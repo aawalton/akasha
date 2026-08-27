@@ -1,5 +1,6 @@
 ---
 id: 72291d71-4f63-5c0e-92bf-5f3a733246a8
+slug: notion-updates-other
 page-type-slug: email-rule-agent
 title: "Notion updates other"
 ---

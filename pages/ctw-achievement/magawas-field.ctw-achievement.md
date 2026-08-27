@@ -1,5 +1,6 @@
 ---
 id: 019dbb6d-b415-7d2c-bd70-4e4b1c25434d
+slug: magawas-field
 page-type-slug: ctw-achievement
 title: "Magawa’s Field"
 scope: "profile"

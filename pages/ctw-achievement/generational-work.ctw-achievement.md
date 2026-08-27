@@ -1,5 +1,6 @@
 ---
 id: 019dbb6d-c145-7d7a-b854-6df7f6cee1ab
+slug: generational-work
 page-type-slug: ctw-achievement
 title: "Generational Work"
 scope: "profile"

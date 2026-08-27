@@ -1,5 +1,6 @@
 ---
 id: d09f05db-4650-51ce-b0f2-16b916e52600
+slug: provo-city-utilities-other
 page-type-slug: category-rule-code
 title: "Provo city utilities other"
 ---

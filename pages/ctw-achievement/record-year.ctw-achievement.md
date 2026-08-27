@@ -1,5 +1,6 @@
 ---
 id: 019dbb6e-0ce2-7eab-83c0-b9aebe11d8f8
+slug: record-year
 page-type-slug: ctw-achievement
 title: "Record Year"
 scope: "global"

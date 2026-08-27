@@ -2,6 +2,7 @@
 page-type-slug: computer
 title: "Jen’s Laptop"
 id: 019e8b92-3b42-7a76-9760-339f0e983027
+slug: jens-laptop
 brand: hp
 cost: 992.73
 cpu: intel-core-ultra-7-255h

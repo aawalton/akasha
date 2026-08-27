@@ -1,5 +1,6 @@
 ---
 id: 4ca9499c-ac97-5b3b-b907-9c6caf66dec3
+slug: new-device-notices-noreply
 page-type-slug: email-rule-code
 title: "New device notices noreply"
 filing: archive

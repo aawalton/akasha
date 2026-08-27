@@ -1,5 +1,6 @@
 ---
 id: 019dbb6d-f76d-7dd4-a2dc-413b01ba36ec
+slug: accreditation
 page-type-slug: ctw-achievement
 title: "Accreditation"
 scope: "team"

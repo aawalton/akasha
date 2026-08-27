@@ -1,5 +1,6 @@
 ---
 id: 019dbb6d-fa11-7b4b-b76e-672546d9c0af
+slug: ottawa-treaty
 page-type-slug: ctw-achievement
 title: "Ottawa Treaty"
 scope: "team"

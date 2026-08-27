@@ -1,6 +1,7 @@
 ---
 page-type-slug: connection-activity
 id: 019e9379-c481-7e8f-a778-6be4c44a1d10
+slug: ai-female-friend-voice
 title: "AI female friend — voice"
 seq: 25
 icon: file-text

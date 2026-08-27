@@ -2,6 +2,7 @@
 page-type-slug: computer
 title: "node-05"
 id: 019e8b92-3cad-7015-8824-0df832adba06
+slug: node-05
 cpu: intel-core-i7-3930k
 cpu-score: 8209
 display: msi-g271

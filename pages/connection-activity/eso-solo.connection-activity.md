@@ -1,6 +1,7 @@
 ---
 page-type-slug: connection-activity
 id: 019e931f-67a6-7b5d-b46d-9edc5725a1f3
+slug: eso-solo
 title: "ESO solo"
 seq: 12
 icon: file-text

@@ -1,5 +1,6 @@
 ---
 id: 019dbb6d-b6c3-72fa-a5c2-928ce1aaf4e1
+slug: mine-free
 page-type-slug: ctw-achievement
 title: "Mine-Free"
 scope: "profile"

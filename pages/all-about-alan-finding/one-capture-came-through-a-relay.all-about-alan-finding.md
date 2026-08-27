@@ -1,6 +1,7 @@
 ---
 page-type-slug: all-about-alan-finding
 id: 10a1a7a1-e15b-5eb5-8771-0c57b68006ab
+slug: one-capture-came-through-a-relay
 title: "One capture came through a relay"
 domain-slug: domain/all-about-alan
 ---

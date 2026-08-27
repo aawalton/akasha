@@ -1,6 +1,7 @@
 ---
 page-type-slug: all-about-alan-finding
 id: 63ac2d9e-6029-5b6f-8c62-df8fc0957452
+slug: conditional-grades-unstated
 title: "Conditional grades unstated"
 domain-slug: domain/all-about-alan
 ---

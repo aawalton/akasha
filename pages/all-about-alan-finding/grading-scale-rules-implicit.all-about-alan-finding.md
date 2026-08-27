@@ -1,6 +1,7 @@
 ---
 page-type-slug: all-about-alan-finding
 id: ba8d0afc-20a7-5bb4-9cac-634158bfac72
+slug: grading-scale-rules-implicit
 title: "Grading scale rules implicit"
 domain-slug: domain/all-about-alan
 ---

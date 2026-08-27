@@ -2,6 +2,7 @@
 page-type-slug: calendar-event-source
 title: Provo City Library
 id: 019e9cde-8e04-7e8e-8ffa-b8ca40f2a0d8
+slug: provo-library
 external-id: provo-library
 kind: communico
 base-url: "https://provolibrary.gov"

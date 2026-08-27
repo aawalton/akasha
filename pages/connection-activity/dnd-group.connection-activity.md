@@ -1,6 +1,7 @@
 ---
 page-type-slug: connection-activity
 id: 019e931f-59f4-7292-baeb-251dd6b4fc85
+slug: dnd-group
 title: "DnD group"
 seq: 2
 icon: file-text

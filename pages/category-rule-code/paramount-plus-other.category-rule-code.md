@@ -1,5 +1,6 @@
 ---
 id: 28dda1f8-d83a-5f11-80e3-b4364f524671
+slug: paramount-plus-other
 page-type-slug: category-rule-code
 title: "Paramount plus other"
 ---

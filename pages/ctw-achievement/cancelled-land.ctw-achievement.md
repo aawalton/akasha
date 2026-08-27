@@ -1,5 +1,6 @@
 ---
 id: 019dbb6d-d8d2-7dd0-981f-1a6851c0b732
+slug: cancelled-land
 page-type-slug: ctw-achievement
 title: "Cancelled Land"
 scope: "team"

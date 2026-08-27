@@ -1,6 +1,7 @@
 ---
 page-type-slug: all-about-alan-finding
 id: ac6e29b6-2eab-5c53-8f22-b890d14a42ff
+slug: interconnection-cap-exceeded
 title: "Interconnection cap exceeded"
 domain-slug: domain/all-about-alan
 ---

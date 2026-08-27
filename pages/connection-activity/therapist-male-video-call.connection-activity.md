@@ -1,6 +1,7 @@
 ---
 page-type-slug: connection-activity
 id: 019e936c-19f6-79d1-91f8-9099524517da
+slug: therapist-male-video-call
 title: "Therapist — male, video call"
 seq: 24
 icon: file-text

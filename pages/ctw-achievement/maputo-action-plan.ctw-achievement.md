@@ -1,5 +1,6 @@
 ---
 id: 019dbb6d-ff8d-7fc2-8447-893cdb5151d4
+slug: maputo-action-plan
 page-type-slug: ctw-achievement
 title: "Maputo Action Plan"
 scope: "team"

@@ -1,5 +1,6 @@
 ---
 id: 019dbb6d-e335-7920-b64d-a63b793a8722
+slug: preah-vihear
 page-type-slug: ctw-achievement
 title: "Preah Vihear"
 scope: "team"

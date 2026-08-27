@@ -1,6 +1,7 @@
 ---
 page-type-slug: all-about-alan-finding
 id: 9e2eec03-fcd6-56d8-b9ed-c945ff541f3c
+slug: rooftop-solar-single-project-leverage
 title: "Rooftop solar single project leverage"
 domain-slug: domain/all-about-alan
 ---

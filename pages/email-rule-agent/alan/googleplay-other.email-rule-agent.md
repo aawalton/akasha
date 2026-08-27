@@ -1,5 +1,6 @@
 ---
 id: d4883f64-c8fe-53a4-85e1-787f72c4906c
+slug: googleplay-other
 page-type-slug: email-rule-agent
 title: "Googleplay other"
 ---

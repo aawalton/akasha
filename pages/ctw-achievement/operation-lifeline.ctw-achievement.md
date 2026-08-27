@@ -1,5 +1,6 @@
 ---
 id: 019dbb6d-aee1-75c7-9c8f-0ebb3d5a31d4
+slug: operation-lifeline
 page-type-slug: ctw-achievement
 title: "Operation Lifeline"
 scope: "profile"

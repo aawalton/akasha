@@ -1,6 +1,7 @@
 ---
 page-type-slug: all-about-alan-finding
 id: 0eec2829-cf26-583e-9811-7bdd446897b0
+slug: model-link-crosses-the-repo-line
 title: "Model link crosses the repo line"
 domain-slug: domain/all-about-alan
 ---

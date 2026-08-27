@@ -2,6 +2,7 @@
 page-type-slug: computer
 title: "Alan’s Laptop"
 id: 019e8b92-3b02-7f7c-8e7a-fcc28ccc57d8
+slug: alans-laptop
 brand: apple
 cost: 5000
 cpu: apple-m1-max

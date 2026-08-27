@@ -1,6 +1,7 @@
 ---
 page-type-slug: connection-activity
 id: 019e936c-18a1-7c23-9918-9456542c47d1
+slug: therapist-male-in-person
 title: "Therapist — male, in-person"
 seq: 23
 icon: file-text

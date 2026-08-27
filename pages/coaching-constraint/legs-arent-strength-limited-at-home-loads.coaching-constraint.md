@@ -2,6 +2,7 @@
 page-type-slug: coaching-constraint
 title: Legs aren't strength-limited at home loads
 id: 019f01e1-ba1c-75c3-bf47-6063b5c223f4
+slug: legs-arent-strength-limited-at-home-loads
 kind: programming-cue
 active: true
 focus-tags:

@@ -1,5 +1,6 @@
 ---
 id: 019dbb6d-7887-71c8-90f9-729286fb8022
+slug: bihac
 page-type-slug: ctw-achievement
 title: "Bihać"
 scope: "profile"

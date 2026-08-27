@@ -1,6 +1,7 @@
 ---
 page-type-slug: all-about-alan-finding
 id: 979dabd5-f920-5fa3-8d8e-642d271aaefa
+slug: reliability-bar-unstated
 title: "Reliability bar unstated"
 domain-slug: domain/all-about-alan
 ---

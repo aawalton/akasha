@@ -1,5 +1,6 @@
 ---
 id: 4d7be932-cfce-58ba-8bbd-c23a0045e94e
+slug: jen-other
 page-type-slug: email-rule-agent
 title: "Jen other"
 ---

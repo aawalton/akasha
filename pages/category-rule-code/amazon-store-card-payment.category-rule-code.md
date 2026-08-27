@@ -1,5 +1,6 @@
 ---
 id: 7c774138-ff3f-59c3-b83e-2d6ca5aab421
+slug: amazon-store-card-payment
 page-type-slug: category-rule-code
 title: "Amazon store card payment"
 category: "Transfer"

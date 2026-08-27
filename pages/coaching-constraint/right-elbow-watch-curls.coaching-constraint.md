@@ -2,6 +2,7 @@
 page-type-slug: coaching-constraint
 title: Right elbow — watch curls
 id: 019f01e1-b88f-7392-bd8a-bd1c13031cfc
+slug: right-elbow-watch-curls
 kind: injury-watch
 active: true
 focus-tags:

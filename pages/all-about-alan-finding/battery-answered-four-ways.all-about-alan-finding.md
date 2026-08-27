@@ -1,6 +1,7 @@
 ---
 page-type-slug: all-about-alan-finding
 id: bc0fbfd6-fd4a-567e-aca6-dd43ce844a16
+slug: battery-answered-four-ways
 title: "Battery answered four ways"
 domain-slug: domain/all-about-alan
 ---

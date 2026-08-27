@@ -1,5 +1,6 @@
 ---
 id: b33e349a-a933-5d2b-9dd5-4945dd49ca85
+slug: notion-mail-other
 page-type-slug: email-rule-agent
 title: "Notion mail other"
 ---

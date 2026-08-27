@@ -1,6 +1,7 @@
 ---
 page-type-slug: all-about-alan-finding
 id: d0e576f5-2a38-5db6-b033-010a2d3f89f9
+slug: threat-categories-unnamed
 title: "Threat categories unnamed"
 domain-slug: domain/all-about-alan
 ---

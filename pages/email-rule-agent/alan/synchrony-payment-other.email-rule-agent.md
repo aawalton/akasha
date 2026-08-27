@@ -1,5 +1,6 @@
 ---
 id: 51da8542-e137-51c8-8291-9f862cbf06ca
+slug: synchrony-payment-other
 page-type-slug: email-rule-agent
 title: "Synchrony payment other"
 ---

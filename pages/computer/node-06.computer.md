@@ -2,6 +2,7 @@
 page-type-slug: computer
 title: "node-06"
 id: 019e8b92-3986-783e-a1fb-0c525265432d
+slug: node-06
 brand: corsair
 cpu: amd-ryzen-9-5950x
 cpu-score: 45370

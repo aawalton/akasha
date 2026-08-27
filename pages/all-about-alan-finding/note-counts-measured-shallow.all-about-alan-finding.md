@@ -1,6 +1,7 @@
 ---
 page-type-slug: all-about-alan-finding
 id: 2615c22b-e514-5dcd-b2f0-b0ab490d40cf
+slug: note-counts-measured-shallow
 title: "Note counts measured shallow"
 domain-slug: domain/all-about-alan
 ---

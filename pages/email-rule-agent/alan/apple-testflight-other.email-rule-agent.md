@@ -1,5 +1,6 @@
 ---
 id: 33b53245-4eb7-5bd4-a4ae-7c0fa8305ebb
+slug: apple-testflight-other
 page-type-slug: email-rule-agent
 title: "Apple testflight other"
 ---

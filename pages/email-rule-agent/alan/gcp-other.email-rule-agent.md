@@ -1,5 +1,6 @@
 ---
 id: 58a17674-4286-512e-b054-e97273d6bd94
+slug: gcp-other
 page-type-slug: email-rule-agent
 title: "Gcp other"
 ---

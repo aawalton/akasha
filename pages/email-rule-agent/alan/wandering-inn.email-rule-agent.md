@@ -1,5 +1,6 @@
 ---
 id: 0d71a757-9b16-5152-950c-2d1a49d39ef3
+slug: wandering-inn
 page-type-slug: email-rule-agent
 title: "Wandering inn"
 ---

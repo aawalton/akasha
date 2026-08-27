@@ -1,6 +1,7 @@
 ---
 page-type-slug: all-about-alan-finding
 id: d90feddb-bf69-52a2-a2a7-2146456afe96
+slug: archivist-experiment-held-for-alan
 title: "Archivist experiment held for Alan"
 domain-slug: domain/all-about-alan
 ---

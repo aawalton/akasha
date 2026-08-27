@@ -1,6 +1,7 @@
 ---
 page-type-slug: coaching-constraint
 id: 019f01e1-b79a-7960-8157-e7ef3d0f8f89
+slug: air-quality-is-a-hard-medical-gate
 title: Air quality is a hard medical gate
 kind: medical-gate
 active: true

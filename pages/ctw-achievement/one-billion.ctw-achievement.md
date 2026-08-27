@@ -1,5 +1,6 @@
 ---
 id: 019dbb6e-42e7-7898-8b50-9715e1e6ca69
+slug: one-billion
 page-type-slug: ctw-achievement
 title: "One Billion"
 scope: "global"

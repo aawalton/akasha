@@ -1,6 +1,7 @@
 ---
 page-type-slug: connection-activity
 id: 019e931f-60c5-7219-ae7e-05ae92ac6467
+slug: eso-trials
 title: "ESO Trials"
 seq: 7
 icon: file-text

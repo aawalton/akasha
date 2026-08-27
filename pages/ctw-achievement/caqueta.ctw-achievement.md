@@ -1,5 +1,6 @@
 ---
 id: 019dbb6d-ce6a-7299-a68a-766b71f144c9
+slug: caqueta
 page-type-slug: ctw-achievement
 title: "Caquetá"
 scope: "team"

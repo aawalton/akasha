@@ -1,5 +1,6 @@
 ---
 id: bcf71f7e-2b88-59a7-bfc9-9e5636e62ec4
+slug: oak-ward-google-notice-googleplay-noreply
 page-type-slug: email-rule-code
 title: "Oak ward google notice googleplay noreply"
 filing: archive

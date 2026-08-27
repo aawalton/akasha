@@ -1,5 +1,6 @@
 ---
 id: e7e8186d-1472-5761-9c60-6ac4f3727fb7
+slug: spotify-other
 page-type-slug: email-rule-agent
 title: "Spotify other"
 ---

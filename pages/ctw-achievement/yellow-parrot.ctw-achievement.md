@@ -1,5 +1,6 @@
 ---
 id: 019dbb6d-85c7-7407-9eb3-661f84a67965
+slug: yellow-parrot
 page-type-slug: ctw-achievement
 title: "Yellow Parrot"
 scope: "profile"

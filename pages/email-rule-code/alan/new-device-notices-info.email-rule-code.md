@@ -1,5 +1,6 @@
 ---
 id: 869178a1-5bbf-5027-9029-e76f37e657e0
+slug: new-device-notices-info
 page-type-slug: email-rule-code
 title: "New device notices info"
 filing: archive

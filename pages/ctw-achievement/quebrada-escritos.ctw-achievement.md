@@ -1,5 +1,6 @@
 ---
 id: 019dbb6d-d10d-7e9b-802d-ac0b3316bb95
+slug: quebrada-escritos
 page-type-slug: ctw-achievement
 title: "Quebrada Escritos"
 scope: "team"

@@ -1,6 +1,7 @@
 ---
 page-type-slug: all-about-alan-finding
 id: f90f487d-fef2-5872-a49d-3a4b1578037a
+slug: alternatives-space-unworked
 title: "Alternatives space unworked"
 domain-slug: domain/all-about-alan
 ---

@@ -1,6 +1,7 @@
 ---
 page-type-slug: all-about-alan-finding
 id: 39d85ea9-980b-5018-a0b0-ac90f0bdd514
+slug: meaningful-dependencies-uncarved
 title: "Meaningful dependencies uncarved"
 domain-slug: domain/all-about-alan
 ---

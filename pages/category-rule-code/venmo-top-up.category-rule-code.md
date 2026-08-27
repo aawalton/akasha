@@ -1,5 +1,6 @@
 ---
 id: 339f2c2b-76cb-5c3c-8883-19c0109a7d45
+slug: venmo-top-up
 page-type-slug: category-rule-code
 title: "Venmo top up"
 category: "Transfer"

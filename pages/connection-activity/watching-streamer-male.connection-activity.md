@@ -1,6 +1,7 @@
 ---
 page-type-slug: connection-activity
 id: 019e9369-dda5-73ff-b798-d3544aa9eb73
+slug: watching-streamer-male
 title: "Watching streamer — male"
 seq: 20
 icon: file-text

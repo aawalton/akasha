@@ -1,6 +1,7 @@
 ---
 page-type-slug: all-about-alan-finding
 id: 3376c7e4-f3c8-512d-a364-3f5a53da6726
+slug: abandoned-island-architecture-stands
 title: "Abandoned island architecture stands"
 domain-slug: domain/all-about-alan
 ---

@@ -1,6 +1,7 @@
 ---
 page-type-slug: connection-activity
 id: 019e931f-5cab-7238-b817-3a969f30ed66
+slug: double-date
 title: "Double date"
 seq: 4
 icon: file-text

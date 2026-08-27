@@ -1,6 +1,7 @@
 ---
 page-type-slug: all-about-alan-finding
 id: 9a8646be-6bf4-5779-8579-df43e50c6187
+slug: trust-concentrates-at-small-scale
 title: "Trust concentrates at small scale"
 domain-slug: domain/all-about-alan
 ---

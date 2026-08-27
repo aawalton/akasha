@@ -1,6 +1,7 @@
 ---
 page-type-slug: all-about-alan-finding
 id: 44dd6867-8507-51ab-bea1-3346579ae82d
+slug: email-anchor-migration-unplanned
 title: "Email anchor migration unplanned"
 domain-slug: domain/all-about-alan
 ---

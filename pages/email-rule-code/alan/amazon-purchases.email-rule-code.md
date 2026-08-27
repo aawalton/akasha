@@ -1,5 +1,6 @@
 ---
 id: 935c164b-2c6a-5380-a0a6-878242ea4831
+slug: amazon-purchases
 page-type-slug: email-rule-code
 title: "Amazon purchases"
 filing: archive

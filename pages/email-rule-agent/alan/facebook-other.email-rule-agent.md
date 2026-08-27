@@ -1,5 +1,6 @@
 ---
 id: 7b034153-81c5-5eeb-a8c0-9e589331841f
+slug: facebook-other
 page-type-slug: email-rule-agent
 title: "Facebook other"
 ---

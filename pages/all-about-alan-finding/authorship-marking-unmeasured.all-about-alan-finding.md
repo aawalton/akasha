@@ -1,6 +1,7 @@
 ---
 page-type-slug: all-about-alan-finding
 id: 22b97512-cb9e-519d-bcd6-7299f8012e6e
+slug: authorship-marking-unmeasured
 title: "Authorship marking unmeasured"
 domain-slug: domain/all-about-alan
 ---

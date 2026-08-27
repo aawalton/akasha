@@ -1,5 +1,6 @@
 ---
 id: 1a9d3b12-0650-5f50-a2fe-a97d3d24e5a1
+slug: anthropic-login-links
 page-type-slug: email-rule-code
 title: "Anthropic login links"
 filing: archive

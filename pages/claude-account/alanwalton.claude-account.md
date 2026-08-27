@@ -2,6 +2,7 @@
 page-type-slug: claude-account
 title: "Alanwalton"
 id: 019db533-f3b2-7818-830b-b9063ba57490
+slug: alanwalton
 account-uuid: 978ace2d-4458-4ade-ad9e-400764d37813
 alias-index: 2
 subscription-type: max

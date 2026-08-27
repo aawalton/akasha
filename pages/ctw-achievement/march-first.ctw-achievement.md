@@ -1,5 +1,6 @@
 ---
 id: 019dbb6e-3379-75aa-8761-58c2c6a2f5a8
+slug: march-first
 page-type-slug: ctw-achievement
 title: "March First"
 scope: "global"

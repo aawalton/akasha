@@ -2,6 +2,7 @@
 page-type-slug: computer
 title: "node-02"
 id: 019e8b92-3b99-7f0e-b56f-6b072412828a
+slug: node-02
 cpu: intel-core-i7-7800x
 cpu-score: 12969
 display: samsung-s24d300

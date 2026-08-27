@@ -2,6 +2,7 @@
 page-type-slug: claude-account
 title: "Aine"
 id: 019fa944-c37d-7631-be0b-d2ff83b74635
+slug: aine
 account-uuid: d5dfe4b9-7b90-484a-b5ed-d338ef2333e0
 email: aine@alanwalton.com
 alias-index: 8

@@ -1,5 +1,6 @@
 ---
 id: b8629feb-fbd0-59cb-ad3a-01f702a0576e
+slug: church-childrens-programs-noreply-finance
 page-type-slug: email-rule-code
 title: "Church childrens programs noreply finance"
 filing: archive

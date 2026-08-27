@@ -1,5 +1,6 @@
 ---
 id: 019dbb6d-eac0-7816-b6d2-b9bbdb385f17
+slug: fifteen-provinces
 page-type-slug: ctw-achievement
 title: "Fifteen Provinces"
 scope: "team"

@@ -1,5 +1,6 @@
 ---
 id: 019dbb6d-bbfe-7117-8927-a08c32d1f81c
+slug: continued-clearance
 page-type-slug: ctw-achievement
 title: "Continued Clearance"
 scope: "profile"

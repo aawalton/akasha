@@ -1,6 +1,7 @@
 ---
 page-type-slug: all-about-alan-finding
 id: e7d1498d-cb6a-54e6-aba9-2bf8f9334c58
+slug: findings-carry-an-unsourced-date
 title: "Findings carry an unsourced date"
 domain-slug: domain/all-about-alan
 ---

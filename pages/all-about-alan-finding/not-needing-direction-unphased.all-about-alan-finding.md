@@ -1,6 +1,7 @@
 ---
 page-type-slug: all-about-alan-finding
 id: 10f0895a-f21b-5ff6-aa88-7b198174b5d4
+slug: not-needing-direction-unphased
 title: "Not needing direction unphased"
 domain-slug: domain/all-about-alan
 ---

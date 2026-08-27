@@ -1,5 +1,6 @@
 ---
 id: 019dbb6d-733b-7bbc-9864-86810bb30d3e
+slug: kuito
 page-type-slug: ctw-achievement
 title: "Kuito"
 scope: "profile"

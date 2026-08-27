@@ -2,6 +2,7 @@
 page-type-slug: coaching-constraint
 title: 30 lb DB ceiling — actively out-repping
 id: 019f01e1-b635-7618-abdf-932f7fbd9235
+slug: 30-lb-db-ceiling-actively-out-repping
 kind: equipment-ceiling
 active: true
 focus-tags:

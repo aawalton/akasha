@@ -1,6 +1,7 @@
 ---
 page-type-slug: all-about-alan-finding
 id: de90bcf2-daf5-52b3-a3e8-69220093ee78
+slug: family-of-five-never-costed
 title: "Family of five never costed"
 domain-slug: domain/all-about-alan
 ---

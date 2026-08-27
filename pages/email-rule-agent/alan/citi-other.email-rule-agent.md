@@ -1,5 +1,6 @@
 ---
 id: b5493b9c-7aa3-5f8b-b9c8-d64efdd8fd19
+slug: citi-other
 page-type-slug: email-rule-agent
 title: "Citi other"
 ---

@@ -2,6 +2,7 @@
 page-type-slug: coaching-constraint
 title: Bilateral hinges are low-back-limited
 id: 019f01e1-bade-7bc2-9eca-331981f48361
+slug: bilateral-hinges-are-low-back-limited
 kind: programming-cue
 active: true
 focus-tags:

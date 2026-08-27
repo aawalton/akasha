@@ -1,5 +1,6 @@
 ---
 id: 019dbb6d-75fe-7172-b913-a6131cbbf977
+slug: battambang
 page-type-slug: ctw-achievement
 title: "Battambang"
 scope: "profile"

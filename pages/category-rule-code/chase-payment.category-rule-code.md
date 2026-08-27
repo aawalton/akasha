@@ -1,5 +1,6 @@
 ---
 id: 90769ff2-529a-531b-85f2-6b97b4fffb6b
+slug: chase-payment
 page-type-slug: category-rule-code
 title: "Chase payment"
 category: "Transfer"

@@ -1,5 +1,6 @@
 ---
 id: 11794945-014f-5a20-887c-16a7a8b1ba31
+slug: jiffy-lube
 page-type-slug: category-rule-code
 title: "Jiffy lube"
 category: "Transportation"

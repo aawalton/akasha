@@ -1,5 +1,6 @@
 ---
 id: 5cd2ad8f-23f5-5e5f-8f21-83cbdac49450
+slug: peacock-other
 page-type-slug: email-rule-agent
 title: "Peacock other"
 ---

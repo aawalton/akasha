@@ -1,5 +1,6 @@
 ---
 id: c038a866-1ce5-5e45-883b-65a080566cde
+slug: instagram-other
 page-type-slug: email-rule-agent
 title: "Instagram other"
 ---

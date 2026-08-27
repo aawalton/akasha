@@ -1,5 +1,6 @@
 ---
 id: d1d1d344-6c7a-5597-a238-2ddf34753ad1
+slug: uccu-other
 page-type-slug: email-rule-agent
 title: "Uccu other"
 ---

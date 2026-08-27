@@ -1,5 +1,6 @@
 ---
 id: 526aef39-1e81-5b7c-bbc6-8cb5105341a1
+slug: disneyplus-other
 page-type-slug: email-rule-agent
 title: "Disneyplus other"
 ---

@@ -1,5 +1,6 @@
 ---
 id: 019dbb6e-295b-729a-addc-95701753fb41
+slug: below-five-thousand
 page-type-slug: ctw-achievement
 title: "Below Five Thousand"
 scope: "global"

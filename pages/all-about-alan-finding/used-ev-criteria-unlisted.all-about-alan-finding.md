@@ -1,6 +1,7 @@
 ---
 page-type-slug: all-about-alan-finding
 id: 105514f5-a2a4-50d7-98a1-5c79e2b79328
+slug: used-ev-criteria-unlisted
 title: "Used ev criteria unlisted"
 domain-slug: domain/all-about-alan
 ---

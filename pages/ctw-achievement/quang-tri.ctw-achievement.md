@@ -1,5 +1,6 @@
 ---
 id: 019dbb6d-7da3-73bf-bd74-c071a509c413
+slug: quang-tri
 page-type-slug: ctw-achievement
 title: "Quang Tri"
 scope: "profile"

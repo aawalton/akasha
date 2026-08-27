@@ -2,6 +2,7 @@
 page-type-slug: computer
 title: "node-03"
 id: 019e8b92-3bd4-7ea8-8e55-98c70218c33f
+slug: node-03
 cpu: intel-core-i7-10700f
 cpu-score: 16150
 display: samsung-smbx2440

@@ -1,5 +1,6 @@
 ---
 id: 19d9dcd3-67b7-54ca-a054-051193165cc3
+slug: merchants
 page-type-slug: category-rule-merchant
 title: "Merchants"
 ---

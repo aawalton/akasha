@@ -1,6 +1,7 @@
 ---
 page-type-slug: error
 id: 01a01d77-5f81-7c4a-9143-85a59657ad02
+slug: 0caea3d0b7c8ac02
 seq: 13588
 title: "createPageIfAbsent(view): `config` holds {\"version\":1,\"layout\":\"table\",\"crossTypeSource\":{\"predicateKey\":\"favorites\"}}, which no frontmatter line can carry. A file page holds a string, a number, a boo"
 app: alanwalton

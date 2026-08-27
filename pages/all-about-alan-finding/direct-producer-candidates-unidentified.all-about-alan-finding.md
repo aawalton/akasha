@@ -1,6 +1,7 @@
 ---
 page-type-slug: all-about-alan-finding
 id: 9a300dfa-b3b1-5623-902d-0c536ad4a294
+slug: direct-producer-candidates-unidentified
 title: "Direct producer candidates unidentified"
 domain-slug: domain/all-about-alan
 ---

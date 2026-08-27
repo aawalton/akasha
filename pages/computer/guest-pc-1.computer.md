@@ -2,6 +2,7 @@
 page-type-slug: computer
 title: "Guest PC 1"
 id: 019e8b92-39c3-7177-8c29-25205a430d9a
+slug: guest-pc-1
 brand: msi
 cost: 544.74
 cpu: intel-core-ultra-7-265

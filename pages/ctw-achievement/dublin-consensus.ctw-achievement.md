@@ -1,5 +1,6 @@
 ---
 id: 019dbb6e-4591-7024-8ad4-f8df1122b008
+slug: dublin-consensus
 page-type-slug: ctw-achievement
 title: "Dublin Consensus"
 scope: "global"

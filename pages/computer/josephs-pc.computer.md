@@ -2,6 +2,7 @@
 page-type-slug: computer
 title: "Joseph’s PC"
 id: 019e8b92-3a02-7515-9256-b41a3238e7d5
+slug: josephs-pc
 brand: msi
 cost: 544.74
 cpu: intel-core-ultra-7-265

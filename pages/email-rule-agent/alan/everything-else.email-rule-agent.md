@@ -1,5 +1,6 @@
 ---
 id: 181c5ca0-44c5-5014-9392-2fa42fd7ab21
+slug: everything-else
 page-type-slug: email-rule-agent
 title: "Everything else"
 ---

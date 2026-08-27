@@ -1,6 +1,7 @@
 ---
 page-type-slug: all-about-alan-finding
 id: 5e6436a6-fd7e-5e5b-a60f-15d07554d9b7
+slug: audhd-provider-decision-open
 title: "Audhd provider decision open"
 domain-slug: domain/all-about-alan
 ---

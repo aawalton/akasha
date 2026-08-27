@@ -1,6 +1,7 @@
 ---
 page-type-slug: all-about-alan-finding
 id: 6dfb0278-b00d-544a-a622-02d17d0c1d5e
+slug: trait-to-systems-mapping-undecided
 title: "Trait to systems mapping undecided"
 domain-slug: domain/all-about-alan
 ---

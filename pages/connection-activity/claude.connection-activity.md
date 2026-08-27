@@ -1,6 +1,7 @@
 ---
 page-type-slug: connection-activity
 id: 019e931f-6225-737c-a5ce-460f9825e21b
+slug: claude
 title: "Claude"
 seq: 8
 icon: file-text

@@ -1,5 +1,6 @@
 ---
 id: 8ad5d34c-29b0-5079-b67d-2559e374fd3b
+slug: vanguard-other
 page-type-slug: email-rule-agent
 title: "Vanguard other"
 ---

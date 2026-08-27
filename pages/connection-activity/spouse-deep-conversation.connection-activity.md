@@ -1,6 +1,7 @@
 ---
 page-type-slug: connection-activity
 id: 019e931f-5e03-7a49-a736-1ad0d08dc7f7
+slug: spouse-deep-conversation
 title: "Spouse — deep conversation"
 seq: 5
 icon: file-text

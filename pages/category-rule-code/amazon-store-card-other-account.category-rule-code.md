@@ -1,5 +1,6 @@
 ---
 id: 2ce87524-ccdd-5af7-9958-c51169d269ee
+slug: amazon-store-card-other-account
 page-type-slug: category-rule-code
 title: "Amazon store card other account"
 ---

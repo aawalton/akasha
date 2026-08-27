@@ -1,5 +1,6 @@
 ---
 id: 0f48774e-f037-51c0-aa4f-da8e9d38723b
+slug: tplink-other
 page-type-slug: email-rule-agent
 title: "Tplink other"
 ---

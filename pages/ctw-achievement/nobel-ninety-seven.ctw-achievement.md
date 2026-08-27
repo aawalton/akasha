@@ -1,5 +1,6 @@
 ---
 id: 019dbb6e-3603-706e-9046-a8d947745b47
+slug: nobel-ninety-seven
 page-type-slug: ctw-achievement
 title: "Nobel Ninety-Seven"
 scope: "global"

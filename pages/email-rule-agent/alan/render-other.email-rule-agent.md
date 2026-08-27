@@ -1,5 +1,6 @@
 ---
 id: 37c9b0d1-efce-5856-91b2-01992e0abc8a
+slug: render-other
 page-type-slug: email-rule-agent
 title: "Render other"
 ---

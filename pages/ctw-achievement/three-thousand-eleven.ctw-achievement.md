@@ -1,5 +1,6 @@
 ---
 id: 019dbb6e-0f64-7a66-b6bf-608bb6e18f3b
+slug: three-thousand-eleven
 page-type-slug: ctw-achievement
 title: "Three Thousand Eleven"
 scope: "global"

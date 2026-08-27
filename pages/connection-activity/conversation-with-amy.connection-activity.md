@@ -1,6 +1,7 @@
 ---
 page-type-slug: connection-activity
 id: 019e931f-5872-769f-a9c1-eeb327436f83
+slug: conversation-with-amy
 title: "Conversation with Amy"
 seq: 1
 icon: file-text

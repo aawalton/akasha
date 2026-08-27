@@ -1,5 +1,6 @@
 ---
 id: 76f4f5bd-719e-5627-ac15-8456cc2a6180
+slug: amazon-other
 page-type-slug: email-rule-agent
 title: "Amazon other"
 ---

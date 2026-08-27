@@ -1,5 +1,6 @@
 ---
 id: 2d2d5825-f9e4-52c4-a717-817a14d55c1f
+slug: vercel-other
 page-type-slug: email-rule-agent
 title: "Vercel other"
 ---

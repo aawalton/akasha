@@ -1,6 +1,7 @@
 ---
 page-type-slug: all-about-alan-finding
 id: f28de018-3e45-5228-9e41-99285a7c155d
+slug: voice-rule-state-unwritten
 title: "Voice rule state unwritten"
 domain-slug: domain/all-about-alan
 ---

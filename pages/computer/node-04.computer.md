@@ -2,6 +2,7 @@
 page-type-slug: computer
 title: "node-04"
 id: 019e8b92-3c10-712c-8316-74acd1f6e6ea
+slug: node-04
 cpu: amd-ryzen-5-3600
 cpu-score: 17690
 display: msi-g271

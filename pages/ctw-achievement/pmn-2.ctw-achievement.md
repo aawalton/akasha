@@ -1,5 +1,6 @@
 ---
 id: 019dbb6d-884f-7a55-9d53-8d092e2d0eec
+slug: pmn-2
 page-type-slug: ctw-achievement
 title: "PMN-2"
 scope: "profile"

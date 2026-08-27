@@ -1,5 +1,6 @@
 ---
 id: 9872894a-438c-5bb1-9f6d-eca8b10962ee
+slug: jiffy-lube-other
 page-type-slug: category-rule-code
 title: "Jiffy lube other"
 ---

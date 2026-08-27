@@ -1,6 +1,7 @@
 ---
 page-type-slug: all-about-alan-finding
 id: 5f2b1fec-1d86-5c6f-9d89-027948960d6d
+slug: three-demand-totals-stand
 title: "Three demand totals stand"
 domain-slug: domain/all-about-alan
 ---

@@ -1,5 +1,6 @@
 ---
 id: e2ca105b-8889-5fb6-a190-f627245e8673
+slug: tsa-other
 page-type-slug: email-rule-agent
 title: "Tsa other"
 ---

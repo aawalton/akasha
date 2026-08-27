@@ -1,5 +1,6 @@
 ---
 id: 019dbb6d-8d79-7211-9e89-15fee0fe68c1
+slug: pomz-grove
 page-type-slug: ctw-achievement
 title: "POMZ Grove"
 scope: "profile"

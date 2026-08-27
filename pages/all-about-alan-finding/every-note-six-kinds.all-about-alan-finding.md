@@ -1,6 +1,7 @@
 ---
 page-type-slug: all-about-alan-finding
 id: a4226892-2312-52a1-95b0-62adabe49608
+slug: every-note-six-kinds
 title: "Every note six kinds"
 domain-slug: domain/all-about-alan
 ---

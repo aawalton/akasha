@@ -1,5 +1,6 @@
 ---
 id: 099e468b-fb87-5585-9eea-391cb18955b2
+slug: ente-other
 page-type-slug: email-rule-agent
 title: "Ente other"
 ---

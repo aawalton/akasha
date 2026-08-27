@@ -1,5 +1,6 @@
 ---
 id: 019dbb6d-8ad5-7962-b2e1-ff2b3c020382
+slug: cluster-remnant
 page-type-slug: ctw-achievement
 title: "Cluster Remnant"
 scope: "profile"

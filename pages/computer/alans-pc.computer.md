@@ -2,6 +2,7 @@
 page-type-slug: computer
 title: "Alan’s PC"
 id: 019e8b92-3922-7a6e-a1e8-c74c13988304
+slug: alans-pc
 brand: msi
 cost: 2949.99
 cpu: intel-core-ultra-9-285

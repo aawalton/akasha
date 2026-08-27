@@ -1,6 +1,7 @@
 ---
 page-type-slug: all-about-alan-finding
 id: 9b3ff419-b434-5edf-992a-17c9a046ebf9
+slug: healthcare-audit-gaps
 title: "Healthcare audit gaps"
 domain-slug: domain/all-about-alan
 ---

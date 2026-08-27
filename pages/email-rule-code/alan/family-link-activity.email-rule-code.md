@@ -1,5 +1,6 @@
 ---
 id: 207ce140-cf1f-5939-8073-78092deed6ad
+slug: family-link-activity
 page-type-slug: email-rule-code
 title: "Family link activity"
 filing: archive

@@ -1,5 +1,6 @@
 ---
 id: 786fe3f4-cf56-5f10-a623-01ccc978b9f4
+slug: meetup-digest
 page-type-slug: email-rule-code
 title: "Meetup digest"
 filing: archive

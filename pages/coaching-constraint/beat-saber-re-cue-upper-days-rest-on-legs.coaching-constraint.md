@@ -2,6 +2,7 @@
 page-type-slug: coaching-constraint
 title: Beat Saber re-cue (upper days; rest on legs)
 id: 019f01e1-bd3c-7418-aff5-89f5f5ad3000
+slug: beat-saber-re-cue-upper-days-rest-on-legs
 kind: programming-cue
 active: true
 focus-tags:

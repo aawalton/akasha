@@ -1,5 +1,6 @@
 ---
 id: 6432b076-76e5-5a66-adf2-1f92582ccf42
+slug: todoist-other
 page-type-slug: email-rule-agent
 title: "Todoist other"
 ---

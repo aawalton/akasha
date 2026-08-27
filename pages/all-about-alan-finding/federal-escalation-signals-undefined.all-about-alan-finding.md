@@ -1,6 +1,7 @@
 ---
 page-type-slug: all-about-alan-finding
 id: 7eaff5ba-9547-5042-a0f2-41a602f8e83b
+slug: federal-escalation-signals-undefined
 title: "Federal escalation signals undefined"
 domain-slug: domain/all-about-alan
 ---

@@ -1,5 +1,6 @@
 ---
 id: 94482651-eaca-555d-8811-15f9083e8cda
+slug: ki-invitations
 page-type-slug: email-rule-agent
 title: "Ki invitations"
 ---

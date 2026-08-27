@@ -1,5 +1,6 @@
 ---
 id: 019dbb6d-c672-70c3-b9a9-403c189de084
+slug: xiengkhouang
 page-type-slug: ctw-achievement
 title: "Xiengkhouang"
 scope: "team"

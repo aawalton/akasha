@@ -1,6 +1,7 @@
 ---
 page-type-slug: all-about-alan-finding
 id: 59bcafaf-470b-50bd-ae43-2c5a27c7937e
+slug: vanguard-triple-concentration
 title: "Vanguard triple concentration"
 domain-slug: domain/all-about-alan
 ---

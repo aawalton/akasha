@@ -1,5 +1,6 @@
 ---
 id: 019dbb6d-f4d4-7320-8306-236f1d87cb01
+slug: post-clearance-inspection
 page-type-slug: ctw-achievement
 title: "Post-Clearance Inspection"
 scope: "team"

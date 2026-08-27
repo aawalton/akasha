@@ -1,5 +1,6 @@
 ---
 id: fc51d644-df12-5316-8023-edca2c8fa686
+slug: google-other
 page-type-slug: email-rule-agent
 title: "Google other"
 ---

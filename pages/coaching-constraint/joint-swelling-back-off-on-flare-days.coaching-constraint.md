@@ -2,6 +2,7 @@
 page-type-slug: coaching-constraint
 title: Joint swelling — back off on flare days
 id: 019f01e1-b952-783a-a931-b952d7a3a560
+slug: joint-swelling-back-off-on-flare-days
 kind: injury-watch
 active: true
 focus-tags:

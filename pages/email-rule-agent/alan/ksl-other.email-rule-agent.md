@@ -1,5 +1,6 @@
 ---
 id: 2d588d05-c6c8-52a2-8a33-b5526afc61d9
+slug: ksl-other
 page-type-slug: email-rule-agent
 title: "Ksl other"
 ---

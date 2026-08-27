@@ -1,6 +1,7 @@
 ---
 page-type-slug: connection-activity
 id: 019e931f-64ee-76b4-a58b-1e4f26c44912
+slug: spouse-listening
 title: "Spouse — listening"
 seq: 10
 icon: file-text

@@ -1,6 +1,7 @@
 ---
 page-type-slug: connection-activity
 id: 019e936c-15de-729a-b1d6-8adcff5ce81a
+slug: therapist-female-in-person
 title: "Therapist — female, in-person"
 seq: 21
 icon: file-text

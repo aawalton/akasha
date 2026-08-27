@@ -1,5 +1,6 @@
 ---
 id: 019dbb6d-9009-70af-8976-812ed1b2c671
+slug: ordnance-catalogue
 page-type-slug: ctw-achievement
 title: "Ordnance Catalogue"
 scope: "profile"

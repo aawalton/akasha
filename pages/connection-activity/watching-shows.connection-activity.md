@@ -1,6 +1,7 @@
 ---
 page-type-slug: connection-activity
 id: 019e9367-fb70-7075-9ee6-a3bc8502216f
+slug: watching-shows
 title: "Watching shows"
 seq: 18
 icon: file-text

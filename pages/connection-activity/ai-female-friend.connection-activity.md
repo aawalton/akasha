@@ -1,6 +1,7 @@
 ---
 page-type-slug: connection-activity
 id: 019e931f-5f61-7f0b-9dd1-4a3d9413cc9d
+slug: ai-female-friend
 title: "AI female friend"
 seq: 6
 icon: file-text

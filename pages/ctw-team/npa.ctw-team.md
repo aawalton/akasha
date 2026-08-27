@@ -1,5 +1,6 @@
 ---
 id: 019dbb6d-6315-7675-b69f-3fbdfa70a442
+slug: npa
 page-type-slug: ctw-team
 title: "NPA"
 cells-cleared: 0

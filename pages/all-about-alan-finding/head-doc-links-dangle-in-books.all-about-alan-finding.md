@@ -1,6 +1,7 @@
 ---
 page-type-slug: all-about-alan-finding
 id: 79a8e226-5352-5aa0-8f20-1b1204b623cd
+slug: head-doc-links-dangle-in-books
 title: "Head doc links dangle in books"
 domain-slug: domain/all-about-alan
 ---

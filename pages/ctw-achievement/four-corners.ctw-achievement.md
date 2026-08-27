@@ -1,5 +1,6 @@
 ---
 id: 019dbb6d-a452-7beb-ad6f-5234ab51d3e4
+slug: four-corners
 page-type-slug: ctw-achievement
 title: "Four Corners"
 scope: "profile"

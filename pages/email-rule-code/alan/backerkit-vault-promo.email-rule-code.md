@@ -1,5 +1,6 @@
 ---
 id: 0f563fdf-c979-54da-ace3-170a27c0296e
+slug: backerkit-vault-promo
 page-type-slug: email-rule-code
 title: "Backerkit vault promo"
 filing: archive

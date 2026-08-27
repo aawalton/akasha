@@ -1,5 +1,6 @@
 ---
 id: 0f66df27-c90d-5c28-8602-c41669fc71cd
+slug: anthropic-other
 page-type-slug: email-rule-agent
 title: "Anthropic other"
 ---

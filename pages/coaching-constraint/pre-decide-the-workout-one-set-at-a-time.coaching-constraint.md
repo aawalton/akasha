@@ -2,6 +2,7 @@
 page-type-slug: coaching-constraint
 title: Pre-decide the workout — one set at a time
 id: 019f01e1-bbac-7c7e-bec8-7ff35d23236c
+slug: pre-decide-the-workout-one-set-at-a-time
 kind: ef-accommodation
 active: true
 focus-tags:

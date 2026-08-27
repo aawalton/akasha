@@ -1,6 +1,7 @@
 ---
 page-type-slug: all-about-alan-finding
 id: 279f2e3d-91fe-5860-b3ce-c25eca617e70
+slug: mac-studio-gates-two-remediations
 title: "Mac studio gates two remediations"
 domain-slug: domain/all-about-alan
 ---

@@ -1,6 +1,7 @@
 ---
 page-type-slug: all-about-alan-finding
 id: fb268bfb-44b1-5856-a6c8-a150e0fc48a7
+slug: substack-grade-behaviour-only
 title: "Substack grade behaviour only"
 domain-slug: domain/all-about-alan
 ---

@@ -1,5 +1,6 @@
 ---
 id: 1160c727-2b8e-510c-8f52-a47a128d5938
+slug: disney-plus-other
 page-type-slug: category-rule-code
 title: "Disney plus other"
 ---

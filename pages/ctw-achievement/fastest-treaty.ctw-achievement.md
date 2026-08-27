@@ -1,5 +1,6 @@
 ---
 id: 019dbb6e-3df8-75db-83a6-c598b6531840
+slug: fastest-treaty
 page-type-slug: ctw-achievement
 title: "Fastest Treaty"
 scope: "global"

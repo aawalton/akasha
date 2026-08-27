@@ -1,5 +1,6 @@
 ---
 id: 019dbb6d-de12-7770-bce0-12c7964a46ee
+slug: five-pillars
 page-type-slug: ctw-achievement
 title: "Five Pillars"
 scope: "team"

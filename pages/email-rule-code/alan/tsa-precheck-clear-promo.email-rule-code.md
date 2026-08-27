@@ -1,5 +1,6 @@
 ---
 id: f6c69965-0cba-535c-aa01-8dbe69131e95
+slug: tsa-precheck-clear-promo
 page-type-slug: email-rule-code
 title: "Tsa precheck clear promo"
 filing: archive

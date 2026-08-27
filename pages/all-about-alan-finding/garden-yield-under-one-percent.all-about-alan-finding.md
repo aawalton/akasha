@@ -1,6 +1,7 @@
 ---
 page-type-slug: all-about-alan-finding
 id: b0bd98ad-72cb-5d05-a924-49fe84abea79
+slug: garden-yield-under-one-percent
 title: "Garden yield under one percent"
 domain-slug: domain/all-about-alan
 ---

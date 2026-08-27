@@ -1,6 +1,7 @@
 ---
 page-type-slug: connection-activity
 id: 019e9359-cd84-763c-ac69-9c3b0e04bb10
+slug: in-person-male-friend
 title: "In-person male friend"
 seq: 13
 icon: file-text

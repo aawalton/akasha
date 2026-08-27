@@ -1,6 +1,7 @@
 ---
 page-type-slug: all-about-alan-finding
 id: 9c046514-92e1-5050-90e4-b5a163cbac9a
+slug: ranked-remediation-plan-absent
 title: "Ranked remediation plan absent"
 domain-slug: domain/all-about-alan
 ---

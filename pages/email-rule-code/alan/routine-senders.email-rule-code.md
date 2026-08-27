@@ -1,5 +1,6 @@
 ---
 id: ea98810f-60d8-5756-bc40-4017250c8498
+slug: routine-senders
 page-type-slug: email-rule-code
 title: "Routine senders"
 filing: archive

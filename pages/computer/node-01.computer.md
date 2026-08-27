@@ -2,6 +2,7 @@
 page-type-slug: computer
 title: "node-01"
 id: 019e8b92-3c6b-7db0-ba2e-bc8e47ec8491
+slug: node-01
 cpu: intel-core-i7-9700f
 cpu-score: 13178
 display: acer-xz322qu-v3

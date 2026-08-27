@@ -1,5 +1,6 @@
 ---
 id: 2b0f8bdf-6401-5e5d-baeb-f514ee4f5fce
+slug: saraplus-akena-att
 page-type-slug: email-rule-code
 title: "Saraplus akena att"
 filing: archive

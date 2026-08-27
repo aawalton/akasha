@@ -1,5 +1,6 @@
 ---
 id: 019dbb6e-3b3d-7a99-abf6-0ca2e81d6c95
+slug: the-walk
 page-type-slug: ctw-achievement
 title: "The Walk"
 scope: "global"

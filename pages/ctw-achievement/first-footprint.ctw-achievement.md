@@ -1,5 +1,6 @@
 ---
 id: 019dbb6d-9f3c-7e1b-b9f3-732d208447f8
+slug: first-footprint
 page-type-slug: ctw-achievement
 title: "First Footprint"
 scope: "profile"

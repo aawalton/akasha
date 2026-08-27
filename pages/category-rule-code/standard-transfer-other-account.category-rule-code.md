@@ -1,5 +1,6 @@
 ---
 id: a8365335-18bd-55d3-b3ed-6f433b21e7ce
+slug: standard-transfer-other-account
 page-type-slug: category-rule-code
 title: "Standard transfer other account"
 ---

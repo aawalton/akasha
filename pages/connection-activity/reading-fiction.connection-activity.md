@@ -1,6 +1,7 @@
 ---
 page-type-slug: connection-activity
 id: 019e931f-6653-79e7-8d1d-778904ab6d02
+slug: reading-fiction
 title: "Reading fiction"
 seq: 11
 icon: file-text

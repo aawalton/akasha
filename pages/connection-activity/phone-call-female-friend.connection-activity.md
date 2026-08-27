@@ -1,6 +1,7 @@
 ---
 page-type-slug: connection-activity
 id: 019e931f-5b41-798c-9f65-e341c3f6d89f
+slug: phone-call-female-friend
 title: "Phone call — female friend"
 seq: 3
 icon: file-text

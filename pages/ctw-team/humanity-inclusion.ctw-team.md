@@ -1,5 +1,6 @@
 ---
 id: 019dbb6d-65bb-7217-8738-f08a278142a6
+slug: humanity-inclusion
 page-type-slug: ctw-team
 title: "Humanity & Inclusion"
 cells-cleared: 0

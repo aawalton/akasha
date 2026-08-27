@@ -2,6 +2,7 @@
 page-type-slug: computer
 title: "Katara’s PC"
 id: 019e8b92-3a42-758b-99e9-f9c73c1bc608
+slug: kataras-pc
 brand: msi
 cost: 544.74
 cpu: intel-core-ultra-7-265

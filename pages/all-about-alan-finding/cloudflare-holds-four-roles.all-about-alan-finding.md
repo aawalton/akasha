@@ -1,6 +1,7 @@
 ---
 page-type-slug: all-about-alan-finding
 id: c0381bea-c886-5eec-b077-26f31a92bfbe
+slug: cloudflare-holds-four-roles
 title: "Cloudflare holds four roles"
 domain-slug: domain/all-about-alan
 ---

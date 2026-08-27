@@ -1,5 +1,6 @@
 ---
 id: 8cdfe899-7ba3-5ff4-817b-5ac59c338cd3
+slug: oak-ward-google-notice-cloudplatform-noreply
 page-type-slug: email-rule-code
 title: "Oak ward google notice cloudplatform noreply"
 filing: archive

@@ -1,5 +1,6 @@
 ---
 id: 019dbb6d-97a4-725d-85d9-21c13cc2dac7
+slug: land-release
 page-type-slug: ctw-achievement
 title: "Land Release"
 scope: "profile"

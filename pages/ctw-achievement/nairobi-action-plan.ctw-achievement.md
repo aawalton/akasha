@@ -1,5 +1,6 @@
 ---
 id: 019dbb6d-fce1-7a02-8bf0-0c30b78e6431
+slug: nairobi-action-plan
 page-type-slug: ctw-achievement
 title: "Nairobi Action Plan"
 scope: "team"

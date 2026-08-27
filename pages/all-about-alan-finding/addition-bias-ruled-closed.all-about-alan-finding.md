@@ -1,6 +1,7 @@
 ---
 page-type-slug: all-about-alan-finding
 id: 03e3ffbd-d172-5ab3-bddf-d17bbff86c7b
+slug: addition-bias-ruled-closed
 title: "Addition bias ruled closed"
 domain-slug: domain/all-about-alan
 ---

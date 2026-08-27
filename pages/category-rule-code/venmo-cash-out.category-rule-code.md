@@ -1,5 +1,6 @@
 ---
 id: 9f700072-d582-54ba-867d-637bacb1cfc0
+slug: venmo-cash-out
 page-type-slug: category-rule-code
 title: "Venmo cash out"
 category: "Transfer"

@@ -1,5 +1,6 @@
 ---
 id: 019dbb6d-ed3e-775b-ba18-91c3bf38c6e8
+slug: residual-risk
 page-type-slug: ctw-achievement
 title: "Residual Risk"
 scope: "team"

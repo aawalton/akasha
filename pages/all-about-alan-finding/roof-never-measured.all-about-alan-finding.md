@@ -1,6 +1,7 @@
 ---
 page-type-slug: all-about-alan-finding
 id: 06a88f99-f43f-59e7-8b1e-3e3772abb36d
+slug: roof-never-measured
 title: "Roof never measured"
 domain-slug: domain/all-about-alan
 ---

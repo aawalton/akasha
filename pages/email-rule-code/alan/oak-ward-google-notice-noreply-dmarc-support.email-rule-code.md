@@ -1,5 +1,6 @@
 ---
 id: bcebf8d8-0188-589b-bfe1-cd20c60dbecd
+slug: oak-ward-google-notice-noreply-dmarc-support
 page-type-slug: email-rule-code
 title: "Oak ward google notice noreply dmarc support"
 filing: archive

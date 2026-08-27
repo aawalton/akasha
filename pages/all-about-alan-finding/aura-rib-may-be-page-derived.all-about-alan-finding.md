@@ -1,6 +1,7 @@
 ---
 page-type-slug: all-about-alan-finding
 id: 6ddb9264-4759-5539-9205-615a6cb58178
+slug: aura-rib-may-be-page-derived
 title: "Aura rib may be page derived"
 domain-slug: domain/all-about-alan
 ---

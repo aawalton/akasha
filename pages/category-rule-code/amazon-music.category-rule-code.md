@@ -1,5 +1,6 @@
 ---
 id: 43450185-c664-5593-baa4-acbdbabaeee5
+slug: amazon-music
 page-type-slug: category-rule-code
 title: "Amazon music"
 category: "Shopping"

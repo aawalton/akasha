@@ -1,5 +1,6 @@
 ---
 id: 18b1bc8a-c259-55c0-ac35-e17a6bcd5920
+slug: alans-outbound-mail
 page-type-slug: email-rule-code
 title: "Alans outbound mail"
 filing: skip

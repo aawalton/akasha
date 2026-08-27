@@ -1,6 +1,7 @@
 ---
 page-type-slug: all-about-alan-finding
 id: dcda0c50-f5e6-5e7e-9ed7-d7c344b605b1
+slug: summaries-outrank-the-synthesis
 title: "Summaries outrank the synthesis"
 domain-slug: domain/all-about-alan
 ---

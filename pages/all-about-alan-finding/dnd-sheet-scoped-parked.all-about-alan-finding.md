@@ -1,6 +1,7 @@
 ---
 page-type-slug: all-about-alan-finding
 id: 8128c04b-8774-5d33-868e-52aaac311b7c
+slug: dnd-sheet-scoped-parked
 title: "Dnd sheet scoped parked"
 domain-slug: domain/all-about-alan
 ---

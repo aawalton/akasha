@@ -1,5 +1,6 @@
 ---
 id: d7e10485-87a8-500e-b875-ed624a643aec
+slug: oak-ward-google-notice-payments-noreply
 page-type-slug: email-rule-code
 title: "Oak ward google notice payments noreply"
 filing: archive

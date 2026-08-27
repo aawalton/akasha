@@ -1,6 +1,7 @@
 ---
 page-type-slug: all-about-alan-finding
 id: bc14dbc5-a7fb-5bde-920c-3ac4b71f82ab
+slug: term-life-cover-outlasts-need
 title: "Term life cover outlasts need"
 domain-slug: domain/all-about-alan
 ---

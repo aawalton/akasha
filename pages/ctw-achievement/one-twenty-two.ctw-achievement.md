@@ -1,5 +1,6 @@
 ---
 id: 019dbb6e-30f3-7962-bb30-405f29744fb0
+slug: one-twenty-two
 page-type-slug: ctw-achievement
 title: "One Twenty-Two"
 scope: "global"

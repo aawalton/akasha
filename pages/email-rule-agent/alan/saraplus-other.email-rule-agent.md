@@ -1,5 +1,6 @@
 ---
 id: 2994a583-164f-5c3e-b1cd-0547db668d97
+slug: saraplus-other
 page-type-slug: email-rule-agent
 title: "Saraplus other"
 ---

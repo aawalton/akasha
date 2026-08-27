@@ -1,5 +1,6 @@
 ---
 id: 019dbb6e-0243-78a0-9503-4ec2aedb9683
+slug: cartagena-declaration
 page-type-slug: ctw-achievement
 title: "Cartagena Declaration"
 scope: "team"

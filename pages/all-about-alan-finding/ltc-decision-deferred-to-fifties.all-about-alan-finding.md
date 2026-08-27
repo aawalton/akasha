@@ -1,6 +1,7 @@
 ---
 page-type-slug: all-about-alan-finding
 id: df2399e6-c77c-5f71-9dbe-b097c23cf1ff
+slug: ltc-decision-deferred-to-fifties
 title: "Ltc decision deferred to fifties"
 domain-slug: domain/all-about-alan
 ---

@@ -1,5 +1,6 @@
 ---
 id: 17ffdead-d034-5b51-8791-23c359a54215
+slug: dmarc-sender-other
 page-type-slug: email-rule-agent
 title: "Dmarc sender other"
 ---

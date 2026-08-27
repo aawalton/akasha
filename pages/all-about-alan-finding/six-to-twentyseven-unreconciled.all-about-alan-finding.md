@@ -1,6 +1,7 @@
 ---
 page-type-slug: all-about-alan-finding
 id: 8227028a-c3fa-521c-80cd-a5ba6ac27f88
+slug: six-to-twentyseven-unreconciled
 title: "Six to twentyseven unreconciled"
 domain-slug: domain/all-about-alan
 ---

@@ -1,5 +1,6 @@
 ---
 id: af154257-c9ed-5093-9803-31ab948ec4f3
+slug: meetup-other
 page-type-slug: email-rule-agent
 title: "Meetup other"
 ---

@@ -1,5 +1,6 @@
 ---
 id: 0a8b4b2c-2bdc-5c84-bed6-1ea8139e48b9
+slug: audible-credit-reminder
 page-type-slug: email-rule-code
 title: "Audible credit reminder"
 filing: archive

@@ -1,5 +1,6 @@
 ---
 id: 019dbb6d-d619-780b-87da-7d4c4dbbafda
+slug: non-technical-survey
 page-type-slug: ctw-achievement
 title: "Non-Technical Survey"
 scope: "team"

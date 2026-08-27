@@ -1,6 +1,7 @@
 ---
 page-type-slug: all-about-alan-finding
 id: e3fb8343-f733-50bc-bbe8-4f409e7c6098
+slug: homeschool-law-load-bearing
 title: "Homeschool law load bearing"
 domain-slug: domain/all-about-alan
 ---

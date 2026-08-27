@@ -1,5 +1,6 @@
 ---
 id: e6f2b8c9-cefa-5f3a-a3a2-b7246d56808e
+slug: twitch-other
 page-type-slug: email-rule-agent
 title: "Twitch other"
 ---

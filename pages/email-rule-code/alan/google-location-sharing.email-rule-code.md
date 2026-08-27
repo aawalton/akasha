@@ -1,5 +1,6 @@
 ---
 id: 5b5ed65a-c5f8-5db4-8cbc-bddc524cc9b8
+slug: google-location-sharing
 page-type-slug: email-rule-code
 title: "Google location sharing"
 filing: archive

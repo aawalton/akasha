@@ -1,6 +1,7 @@
 ---
 page-type-slug: all-about-alan-finding
 id: 4d5a1c01-a809-5c56-8578-33181ff6df75
+slug: info-diet-posture-unreviewed
 title: "Info diet posture unreviewed"
 domain-slug: domain/all-about-alan
 ---

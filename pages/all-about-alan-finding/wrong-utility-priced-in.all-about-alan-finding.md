@@ -1,6 +1,7 @@
 ---
 page-type-slug: all-about-alan-finding
 id: 3b918118-1326-5659-9521-2a3ee38658fc
+slug: wrong-utility-priced-in
 title: "Wrong utility priced in"
 domain-slug: domain/all-about-alan
 ---

@@ -1,5 +1,6 @@
 ---
 id: 019dbb6d-c919-707c-b32e-85fc229bfd48
+slug: penjwin
 page-type-slug: ctw-achievement
 title: "Penjwin"
 scope: "team"

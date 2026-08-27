@@ -1,5 +1,6 @@
 ---
 id: fb005e20-e2d7-5d51-8bd6-36cbbe595aa5
+slug: jens-invitations
 page-type-slug: email-rule-agent
 title: "Jens invitations"
 ---

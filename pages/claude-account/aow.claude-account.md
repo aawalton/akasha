@@ -2,6 +2,7 @@
 page-type-slug: claude-account
 title: "Aow"
 id: 019f1961-6768-77e4-934a-0e27173ee5bc
+slug: aow
 account-uuid: 849f42fd-b12a-4cb1-ad94-4d53103160a1
 email: alan@archiveofworlds.app
 alias-index: 6

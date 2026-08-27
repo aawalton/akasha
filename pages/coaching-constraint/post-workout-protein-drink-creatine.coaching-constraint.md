@@ -2,6 +2,7 @@
 page-type-slug: coaching-constraint
 title: "Post-workout: protein drink + creatine"
 id: 019f01e1-bc79-7d4c-b0c8-2814987edd4a
+slug: post-workout-protein-drink-creatine
 kind: programming-cue
 active: true
 focus-tags:

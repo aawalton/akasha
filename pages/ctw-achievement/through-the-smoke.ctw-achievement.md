@@ -1,5 +1,6 @@
 ---
 id: 019dbb6d-a1cd-704d-8f46-649da7982c47
+slug: through-the-smoke
 page-type-slug: ctw-achievement
 title: "Through the Smoke"
 scope: "profile"

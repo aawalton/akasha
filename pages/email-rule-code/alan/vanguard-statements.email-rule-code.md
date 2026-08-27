@@ -1,5 +1,6 @@
 ---
 id: d2c3692e-a98d-51b0-abd9-cf207513f892
+slug: vanguard-statements
 page-type-slug: email-rule-code
 title: "Vanguard statements"
 filing: archive

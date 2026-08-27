@@ -1,5 +1,6 @@
 ---
 id: 019dbb6d-b163-79d1-91f7-0ec011336e9d
+slug: the-tete-corridor
 page-type-slug: ctw-achievement
 title: "The Tete Corridor"
 scope: "profile"

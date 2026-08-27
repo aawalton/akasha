@@ -1,5 +1,6 @@
 ---
 id: be20c944-e01e-5d9e-b032-f3df6db7254f
+slug: google-payments-other
 page-type-slug: email-rule-agent
 title: "Google payments other"
 ---

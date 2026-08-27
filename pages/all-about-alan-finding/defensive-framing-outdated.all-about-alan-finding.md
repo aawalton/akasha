@@ -1,6 +1,7 @@
 ---
 page-type-slug: all-about-alan-finding
 id: 6e0178d0-ed81-59f4-8de1-0c68343bcb74
+slug: defensive-framing-outdated
 title: "Defensive framing outdated"
 domain-slug: domain/all-about-alan
 ---

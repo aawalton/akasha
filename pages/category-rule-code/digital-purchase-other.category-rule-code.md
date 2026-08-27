@@ -1,5 +1,6 @@
 ---
 id: 7a0eab49-f882-5b5c-b3d0-2508652a3037
+slug: digital-purchase-other
 page-type-slug: category-rule-code
 title: "Digital purchase other"
 ---

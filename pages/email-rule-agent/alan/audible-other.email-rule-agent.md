@@ -1,5 +1,6 @@
 ---
 id: b3fbd520-f331-529f-a9ea-c278921832ae
+slug: audible-other
 page-type-slug: email-rule-agent
 title: "Audible other"
 ---

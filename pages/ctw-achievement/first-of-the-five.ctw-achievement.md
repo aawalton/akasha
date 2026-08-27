@@ -1,5 +1,6 @@
 ---
 id: 019dbb6e-1c51-7ad5-be87-3833c606f894
+slug: first-of-the-five
 page-type-slug: ctw-achievement
 title: "First of the Five"
 scope: "global"

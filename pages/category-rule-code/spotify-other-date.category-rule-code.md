@@ -1,5 +1,6 @@
 ---
 id: 09563845-1cab-5522-98e1-f5c5dce73aff
+slug: spotify-other-date
 page-type-slug: category-rule-code
 title: "Spotify other date"
 ---

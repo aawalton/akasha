@@ -1,5 +1,6 @@
 ---
 id: 019dbb6d-9a33-773f-bc6b-ec2174b215fd
+slug: explosive-ordnance-disposal
 page-type-slug: ctw-achievement
 title: "Explosive Ordnance Disposal"
 scope: "profile"

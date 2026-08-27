@@ -1,5 +1,6 @@
 ---
 id: 2a5dd3cf-1b93-5262-aa2d-20de9852f17d
+slug: crunchyroll-other
 page-type-slug: email-rule-agent
 title: "Crunchyroll other"
 ---

@@ -1,5 +1,6 @@
 ---
 id: 48f1aa10-1387-57b8-98b9-3dbbd958fe8f
+slug: apple-developer-notices-testflight-no-reply
 page-type-slug: email-rule-code
 title: "Apple developer notices testflight no reply"
 filing: archive

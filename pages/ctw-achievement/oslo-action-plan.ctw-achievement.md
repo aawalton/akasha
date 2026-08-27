@@ -1,5 +1,6 @@
 ---
 id: 019dbb6e-04cb-715f-8114-7bce40d03d75
+slug: oslo-action-plan
 page-type-slug: ctw-achievement
 title: "Oslo Action Plan"
 scope: "team"

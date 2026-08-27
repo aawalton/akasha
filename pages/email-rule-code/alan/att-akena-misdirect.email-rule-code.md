@@ -1,5 +1,6 @@
 ---
 id: 4dcf252c-f511-579f-9552-836896f3c32e
+slug: att-akena-misdirect
 page-type-slug: email-rule-code
 title: "Att akena misdirect"
 filing: archive

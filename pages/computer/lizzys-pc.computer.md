@@ -2,6 +2,7 @@
 page-type-slug: computer
 title: "Lizzy’s PC"
 id: 019e8b92-3a88-7be9-a309-2dca645b81f4
+slug: lizzys-pc
 brand: msi
 cost: 544.74
 cpu: intel-core-ultra-7-265

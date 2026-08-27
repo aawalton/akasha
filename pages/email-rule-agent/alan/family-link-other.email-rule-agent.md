@@ -1,5 +1,6 @@
 ---
 id: 4113fd59-61cc-5720-b2c7-29d5309fbd22
+slug: family-link-other
 page-type-slug: email-rule-agent
 title: "Family link other"
 ---

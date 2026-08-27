@@ -1,5 +1,6 @@
 ---
 id: 019dbb6d-cba4-78c1-8390-71a6ebd5fc8f
+slug: cahora-bassa
 page-type-slug: ctw-achievement
 title: "Cahora Bassa"
 scope: "team"

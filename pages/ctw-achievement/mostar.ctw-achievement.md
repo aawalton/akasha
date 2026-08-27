@@ -1,5 +1,6 @@
 ---
 id: 019dbb6d-a9a6-7a00-89d2-b4bc506bc020
+slug: mostar
 page-type-slug: ctw-achievement
 title: "Mostar"
 scope: "profile"

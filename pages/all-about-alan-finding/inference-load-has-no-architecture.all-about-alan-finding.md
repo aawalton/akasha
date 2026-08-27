@@ -1,6 +1,7 @@
 ---
 page-type-slug: all-about-alan-finding
 id: 9f60db81-8ad4-5c37-bdd9-af1cd47a3388
+slug: inference-load-has-no-architecture
 title: "Inference load has no architecture"
 domain-slug: domain/all-about-alan
 ---

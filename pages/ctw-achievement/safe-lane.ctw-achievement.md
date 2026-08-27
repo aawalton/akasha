@@ -1,5 +1,6 @@
 ---
 id: 019dbb6d-929f-776f-b9b7-cd5f05210f33
+slug: safe-lane
 page-type-slug: ctw-achievement
 title: "Safe Lane"
 scope: "profile"

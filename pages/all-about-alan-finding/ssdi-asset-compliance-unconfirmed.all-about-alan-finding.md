@@ -1,6 +1,7 @@
 ---
 page-type-slug: all-about-alan-finding
 id: 9c65e0ab-45f3-5248-ac08-035ea3f72d9f
+slug: ssdi-asset-compliance-unconfirmed
 title: "Ssdi asset compliance unconfirmed"
 domain-slug: domain/all-about-alan
 ---

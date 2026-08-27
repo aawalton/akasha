@@ -1,5 +1,6 @@
 ---
 id: 6755f285-c156-5eea-a546-1c098b41e5fb
+slug: alans-own-mail
 page-type-slug: email-rule-agent
 title: "Alans own mail"
 ---

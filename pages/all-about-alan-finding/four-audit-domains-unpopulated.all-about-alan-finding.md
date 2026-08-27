@@ -1,6 +1,7 @@
 ---
 page-type-slug: all-about-alan-finding
 id: efc94bcd-d519-5778-b192-6901b6c90867
+slug: four-audit-domains-unpopulated
 title: "Four audit domains unpopulated"
 domain-slug: domain/all-about-alan
 ---

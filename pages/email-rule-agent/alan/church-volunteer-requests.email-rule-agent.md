@@ -1,5 +1,6 @@
 ---
 id: c167e0f5-b6ab-5150-94ba-fdefb06848ea
+slug: church-volunteer-requests
 page-type-slug: email-rule-agent
 title: "Church volunteer requests"
 ---
