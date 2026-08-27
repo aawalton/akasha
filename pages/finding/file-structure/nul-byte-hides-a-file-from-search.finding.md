@@ -12,19 +12,15 @@ A source file holding a raw NUL byte reads as binary to ripgrep, so a search mat
 
 # Evidence
 
-Verified on 2026-08-24 in `/var/home/walton/repos/instructions`. Five tracked TypeScript files hold a raw NUL byte:
+Re-measured 2026-08-27 in `/var/home/walton/repos/akasha`. `git ls-files -z | xargs -0 grep -laP '\x00'` names one tracked TypeScript file holding a raw NUL byte, every other hit being a PNG or ICO asset:
 
-- `tools/lib/supervisor-file-version.ts`
-- `tools/lib/graph/identity.ts`
-- `tools/lib/graph/producers/web-app/web-app-entry.edge.producer.ts`
-- `tools/lib/graph/producers/pipeline/workflow-modules.ts`
-- `tools/lib/graph/producers/package/deploy-carries-package.edge.producer.ts`
+- `graph/ask.ts`, line 72
 
-The byte is deliberate rather than corruption. It separates the parts of a dedupe key, written as a `\0` escape inside a template literal, so the source spells an escape and the file on disk carries the byte.
+The byte is deliberate rather than corruption. It separates the parts of a key, written as a `\0` escape inside a template literal, so the source spells an escape and the file on disk carries the byte.
 
-Demonstrated, both directions. `rg -l rootingEdgeTypes tools/` returns three files. `rg -l --text rootingEdgeTypes tools/` returns four. The one only the second finds is `deploy-carries-package.edge.producer.ts`, which does hold the symbol. The first run reports no skip, no warning and no count of what it declined to open.
+Demonstrated, both directions. `rg -l export graph/` returns 14 files. `rg -l --text export graph/` returns 15. The one only the second finds is `graph/ask.ts`, which holds `export` on 8 lines. The first run reports no skip, no warning and no count of what it declined to open.
 
-It cost an agent time on 2026-08-24: it was debugging that producer, searched for that symbol, and the search returned three files while omitting the one it was reading. A search that is silently a no-match search over part of its own population, in a system where an agent starts cold and what search misses does not exist to it.
+It cost an agent time on 2026-08-24: it was debugging such a file, searched for a symbol in it, and the search answered with every other file while omitting the one it was reading. A search that is silently a no-match search over part of its own population, in a system where an agent starts cold and what search misses does not exist to it.
 
 Picking a replacement separator carries its own risk, because whatever stands in for the NUL must not appear in an id or an owner name.
 
