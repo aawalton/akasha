@@ -2,7 +2,7 @@ import { describe, expect, test } from "bun:test"
 import { backendEnv } from "./cgi-env"
 
 const REQUEST = {
-  pathInfo: "/alan/code.git/git-receive-pack",
+  pathInfo: "/alan/akasha.git/git-receive-pack",
   queryString: "",
   remoteUser: "alan",
   method: "POST",
@@ -32,7 +32,7 @@ describe("backendEnv", () => {
   })
 
   test("a pod-level mirror destination in the environment does not reach a hook", () => {
-    const destination = "https://github.com/audhdalan/code.git"
+    const destination = "https://github.com/audhdalan/akasha.git"
     const env = backendEnv({
       ...REQUEST,
       processEnv: { GITHUB_MIRROR_URL: destination, MIRROR_URL: destination },
