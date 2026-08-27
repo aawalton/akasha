@@ -116,7 +116,8 @@ export function rootBeside(repo: string): string {
 
 function rootOf(repo: string): string {
   const stated = process.env[rootEnvName(repo)]
-  return stated === undefined ? rootBeside(repo) : resolve(stated)
+  if (stated === undefined || stated === "") return rootBeside(repo)
+  return resolve(stated)
 }
 
 export function akashaRoot(): string {
