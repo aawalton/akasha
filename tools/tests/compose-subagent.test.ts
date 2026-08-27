@@ -16,12 +16,12 @@ const GLOBAL = "pages/domain/global.domain.md"
 const GOVERNING = [PERSONA, ROLE, DOMAIN, GLOBAL] as const
 
 let at: Fixture
-let priorRoot: string | undefined
 
+// THE FIXTURE ALREADY NAMES THIS ROOT, in `AKASHA_ROOT`, which is the one variable read for it.
+// This also set `INSTRUCTIONS_ROOT`, which nothing reads now that the instructions repository is
+// absorbed, so it pointed nowhere and said nothing about where these pages were looked for.
 beforeEach(() => {
   at = fixture()
-  priorRoot = process.env.INSTRUCTIONS_ROOT
-  process.env.INSTRUCTIONS_ROOT = at.root
   seatStore(at)
   at.document(GLOBAL, "slug: global\ndomain-parent-slug: global", 20)
   at.document(PERSONA, "slug: aria\ndomain-parent-slug: global", 30)
@@ -42,8 +42,6 @@ beforeEach(() => {
 })
 
 afterEach(() => {
-  if (priorRoot === undefined) delete process.env.INSTRUCTIONS_ROOT
-  else process.env.INSTRUCTIONS_ROOT = priorRoot
   at.dispose()
 })
 
